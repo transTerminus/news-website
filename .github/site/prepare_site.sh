@@ -14,6 +14,8 @@ mkdir -p docs
 # Enable extended globbing if needed
 shopt -s extglob
 cp -r !(docs) docs/
+rm -f docs/CODE_OF_CONDUCT.md
+rm -f docs/CONTRIBUTING.md
 
 # Copy all files from .github/site to root directory
 cp -r .github/site/* ./
