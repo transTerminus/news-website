@@ -1,0 +1,27 @@
+# {name}
+
+<!-- tcd_download_link -->
+Download: [{filename}]({filename})
+<!-- tcd_download_link_end -->
+
+## 摘要
+
+<!-- tcd_abstract -->
+{description}
+
+<!-- tcd_abstract_end -->
+
+## 其他信息
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | {filename}                             |
+| Type            | {type}                                 |
+| Format          | {format}                               |
+| Size            | {size} bytes                           |
+| MD5             | {md5}                                  |
+| Original Link   | [Link]({link})                         |
+| Creator         | {creator}                              |
+| Date            | {date}                                 |
+| Archived Date   | {archived}                             |
+| Tags            | {tags}                                 |
