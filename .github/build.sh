@@ -32,19 +32,19 @@ python .github/scripts/others/get_md5_list.py
 echo "MD5 list generated successfully!"
 
 # generate page
-python .github/scripts/page/gen_page.py
+# python .github/scripts/page/gen_page.py
 
-echo "Page generated successfully!"
+# echo "Page generated successfully!"
 
 # generate file meta
-python .github/scripts/ai/archive/gen_file_meta.py
-
-echo "File meta generated successfully!"
+# python .github/scripts/ai/archive/gen_file_meta.py
+echo "File meta generation skipped!"
+# echo "File meta generated successfully!"
 
 # add metadata to page if not exists, such as link and archived date
-python .github/scripts/file/add_config.py
+# python .github/scripts/file/add_config.py
 
-echo "Metadata added successfully!"
+# echo "Metadata added successfully!"
 
 # Generate table of contents
 python .github/scripts/toc/her_toc.py

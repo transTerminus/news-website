@@ -35,10 +35,6 @@ jobs:
       - name: Generate and update TOC, generate and config other things
         run: |
           .github/build.sh
-      - name: Commit changes
-        run: |
-          git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update for modify contents" && git push)
       - name: Prepare site
         run: .github/site/prepare_site.sh
       - run: mkdocs gh-deploy --force
