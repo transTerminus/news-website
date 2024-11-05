@@ -16,3 +16,21 @@
 *您要为您发言论的后果负责，故请各位遵纪守法并注意语言文明。以上留言只代表网友个人观点，不代表凤凰网观点。*
 
 版权：凤凰新媒体版权所有，未经授权不得转载。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_图片故事：直击沈阳变性人手术全过程.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1049 bytes                           |
+> | MD5             | 48bdcfabbb3f3c52305935563d09daa5                                  |
+> | Original Link   | [https://news.ifeng.com/photo/200612/1213_24_47782.shtml](https://news.ifeng.com/photo/200612/1213_24_47782.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -217,3 +217,21 @@ H.C也曾选择吃药，大剂量，不害怕抑郁也不害怕伤身。
 H.C现在把刘海梳起来，露出光洁的额头，并且开始化妆，原本就细长的丹凤眼被眼线拉得更加妩媚。去年生日，H.C的礼物是一件深蓝色日系的裙子，如今H.C大大方方地穿着它，对着镜子，轻轻微笑，按下快门。
 
 **责任编辑人：陈思宇 PN121**
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | inews_药娘群像：与身体斗争的这些年.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 26689 bytes                           |
+> | MD5             | db6977fc3e8b3029d3697b71dfcfd3cc                                  |
+> | Original Link   | [http://inews.ifeng.com/51900796/news.shtml](http://inews.ifeng.com/51900796/news.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

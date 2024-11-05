@@ -28,3 +28,21 @@
 标签：[警方](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%AD%A6%E6%96%B9) [尸体](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B0%B8%E4%BD%93) [身份证](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%BA%AB%E4%BB%BD%E8%AF%81)
 
 版权 © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_阿根廷变性女星遭虐杀震惊全国一月内3名变性人被杀.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2512 bytes                           |
+> | MD5             | 617736b58f114e12c2807ea694e0c721                                  |
+> | Original Link   | [https://news.ifeng.com/a/20151016/45202636_0.shtml](https://news.ifeng.com/a/20151016/45202636_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

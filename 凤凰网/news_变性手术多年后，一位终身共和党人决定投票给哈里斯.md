@@ -39,3 +39,21 @@
 特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
 
 责任编辑：罗光磊 PN417
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性手术多年后，一位终身共和党人决定投票给哈里斯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 3963 bytes                           |
+> | MD5             | e0827375dbe11e623aa223f8d59ff997                                  |
+> | Original Link   | [https://news.ifeng.com/c/8dto21wSVPf](https://news.ifeng.com/c/8dto21wSVPf)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

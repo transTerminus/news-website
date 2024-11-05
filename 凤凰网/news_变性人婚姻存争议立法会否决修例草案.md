@@ -60,3 +60,21 @@ W随后在高等法院上诉庭再败诉，随后上诉至终审法院，去年4
 ![图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png) 
 
 凤凰新媒体 版权所有 Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性人婚姻存争议立法会否决修例草案.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 6818 bytes                           |
+> | MD5             | 060269dd08154d2f91d5108267e19654                                  |
+> | Original Link   | [https://news.ifeng.com/a/20141024/42286255_0.shtml](https://news.ifeng.com/a/20141024/42286255_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -40,3 +40,21 @@
 
 ![相关图片](http://img.ifeng.com/tres/news/d091229001.jpg)  
 [欢迎订阅凤凰网资讯电子期刊](http://news.ifeng.com/edm/)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_奥巴马任命首位变性人高官曾为希拉里服务[图]_资讯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2257 bytes                           |
+> | MD5             | ab41b8d64c1a169ab2df2b92b99e5846                                  |
+> | Original Link   | [https://news.ifeng.com/photo/news/201001/0105_1397_1499102.shtml](https://news.ifeng.com/photo/news/201001/0105_1397_1499102.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

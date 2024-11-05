@@ -21,3 +21,21 @@
 
 **责任编辑**: PN061  
 **标签**: 变性人监狱 安全问题 请愿
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国变性美女被囚男监狱民众忧其遭性侵万人请愿(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2039 bytes                           |
+> | MD5             | 3aa7ad8568e6dbd1f5e5f0137cdbf657                                  |
+> | Original Link   | [https://news.ifeng.com/a/20151029/46041858_0.shtml](https://news.ifeng.com/a/20151029/46041858_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

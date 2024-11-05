@@ -18,3 +18,21 @@
 ![二维码分享](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
 凤凰资讯版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性人刘婷广州选美.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2062 bytes                           |
+> | MD5             | 935e53ff9dd67b263dbef314986c4c1c                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150924/44727147_0.shtml](https://news.ifeng.com/a/20150924/44727147_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

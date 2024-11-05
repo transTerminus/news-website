@@ -85,3 +85,21 @@
 李银河认为，刘霆的选择很勇敢，变性手术让刘霆找到真正的自我。与此同时，李银河也提出，像刘霆这样的跨性别人群，身体的改变可以通过一个手术达到，但是在整个社会对这群人的接纳方面，还需要更多的宽容。李银河希望人们可以体会和体谅他们的心，体谅他们的愿望。
 
 **标签**：[刘霆](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%98%E9%9C%86) [模范](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%A8%A1%E8%8C%83) [还性](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%BF%98%E6%80%A7) 
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_道德模范刘霆：我不是变性只是回归本来的自己(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 8100 bytes                           |
+> | MD5             | 2bb4d5a5d6316b3c727823dcaf8c8ccd                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150409/43511939_0.shtml](https://news.ifeng.com/a/20150409/43511939_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

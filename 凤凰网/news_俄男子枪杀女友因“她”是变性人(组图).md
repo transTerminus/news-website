@@ -23,3 +23,21 @@
 随后，弗拉基米尔将卡米拉的尸体随便抛在了伏尔加格勒的一个火车站附近，并准备在尸体旁切腹自尽，但是被路人发现并制止。
 
 目前，有关方面正在对弗拉基米尔进行心理评估，评估结果出来后才能决定是否对弗拉基米尔进行正式起诉。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_俄男子枪杀女友因“她”是变性人(组图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1784 bytes                           |
+> | MD5             | 24175f14da2b3628082e84ec2cf9021f                                  |
+> | Original Link   | [https://news.ifeng.com/world/200907/0712_16_1245304.shtml](https://news.ifeng.com/world/200907/0712_16_1245304.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

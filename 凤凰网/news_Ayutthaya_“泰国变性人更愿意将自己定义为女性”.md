@@ -37,3 +37,21 @@ Prempreeda:人们一般都是带着猎奇的心理，事实上，泰国的变性
 ---
 
 标签：[广州](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B9%BF%E5%B7%9E) [侯鹏飞](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%BE%AF%E9%B9%8C%E9%A3%9E) [泰国](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B3%B0%E5%9B%BD)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_Ayutthaya_“泰国变性人更愿意将自己定义为女性”.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2838 bytes                           |
+> | MD5             | 7f002c03e123ed033d54b910b46184b6                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140903/41837391_0.shtml](https://news.ifeng.com/a/20140903/41837391_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

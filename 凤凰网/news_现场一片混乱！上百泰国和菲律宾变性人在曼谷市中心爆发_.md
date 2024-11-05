@@ -22,3 +22,21 @@
 过程中，菲律宾变性人曾通过社交媒体发布求助信息，称需要菲律宾政府和菲律宾驻泰国大使馆介入。
 
 目前，泰国警方已经拘留了主要闹事者，并再度强调处置会公平公正、公开透明。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_现场一片混乱！上百泰国和菲律宾变性人在曼谷市中心爆发_.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2215 bytes                           |
+> | MD5             | e2f317af8a5728b63b88f2705e278b92                                  |
+> | Original Link   | [https://news.ifeng.com/c/8XjVpZOFdgX](https://news.ifeng.com/c/8XjVpZOFdgX)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

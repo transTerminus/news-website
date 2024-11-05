@@ -183,3 +183,21 @@ Claire经历了心理医生、精神科医生、多种运动课程、考虑切�
 对于此，大家怎么看？
 
 “特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。”
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_4岁小孩变性全家力挺！儿童变性成“流行文化”.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 14758 bytes                           |
+> | MD5             | beae0d9afe149daeab7267f48a4da9a0                                  |
+> | Original Link   | [https://news.ifeng.com/c/86Bz1JAPXmU](https://news.ifeng.com/c/86Bz1JAPXmU)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

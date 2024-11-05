@@ -52,3 +52,21 @@
 而现实是，据路透社2022年10月报道，在美国100多家性别诊所接受治疗的儿童中，越来越多的人选择了医疗干预——青春期阻滞药物、激素，以及手术。尽管缺乏强有力的科学证据证明这些治疗对儿童的长期安全性，但这些孩子和诊所仍在这样做。
 
 **特别声明**：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国女子后悔变性，警告称人们25岁前不该被允许做手术.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 6826 bytes                           |
+> | MD5             | 03fce46557504c7e002e2b753d9837e5                                  |
+> | Original Link   | [https://news.ifeng.com/c/8OCvYcYMBpM](https://news.ifeng.com/c/8OCvYcYMBpM)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

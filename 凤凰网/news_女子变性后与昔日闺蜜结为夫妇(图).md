@@ -21,3 +21,21 @@
 标签：[婚礼](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A9%9A%E7%A4%BC) [未婚妻](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%9C%AA%E5%A9%9A%E5%A6%BB) [手术](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%89%8B%E6%9C%AF)
 
 \[责任编辑：PN030\]
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_女子变性后与昔日闺蜜结为夫妇(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1563 bytes                           |
+> | MD5             | fc4be7feb514ea1c9a3c0e3b10f03212                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150215/43183032_0.shtml](https://news.ifeng.com/a/20150215/43183032_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -28,3 +28,21 @@
 十几岁的时候阿熙远离家乡，到桃园半工半读希望完成学业存够钱，找一家医院作变性手术，但在那个时代背景，医学和信息并不发达，他只好苦苦等候与存钱，这一蹉跎，十年过去了。
 
 两年前，阿风透过朋友介绍到台北一家医院找到整型医师，经过多次手术，及长达两年多的心理辅导，终于完成“她”的心愿。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_男子追梦20年终于变性“美人”返乡获接纳(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2682 bytes                           |
+> | MD5             | 171cb22724b52715a3fa9d77e26fd774                                  |
+> | Original Link   | [https://news.ifeng.com/society/2/200811/1120_344_888198.shtml](https://news.ifeng.com/society/2/200811/1120_344_888198.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

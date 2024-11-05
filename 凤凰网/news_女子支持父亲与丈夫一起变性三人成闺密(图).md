@@ -36,3 +36,21 @@
 - [长沙看守所收押首例变性嫌疑人 安排住单独监舍](http://news.ifeng.com/gundong/detail_2014_05/21/36432069_0.shtml#_from_ralated) 
 
 ![第二张图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_女子支持父亲与丈夫一起变性三人成闺密(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2806 bytes                           |
+> | MD5             | 524cce7ee1c90f8121a904a513363c45                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140724/41292709_0.shtml](https://news.ifeng.com/a/20140724/41292709_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

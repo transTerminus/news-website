@@ -59,3 +59,21 @@
 联合新闻网报道，曾和唐凤接触过、听过她演讲的“行政院”高阶公务员，都认为“唐凤值得期待”。蓝绿阵营也都表示接受，国民党“立委”许毓仁称，唐凤无疑是“数字政务委员”的好人选，绝对是政府信息开放与数字化的加速器。民进党“立委”余宛如也说，唐凤未来能掌握数字法规的调适与议题，不负所托。
 
 **版权：** 本文章版权归凤凰网所有，未经授权，不得转载
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_台变性网络神童被召“入阁”_成最年轻“政务委员”.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 6697 bytes                           |
+> | MD5             | 2a7e4e15d85cb74b0cb6c89b4b09a1f2                                  |
+> | Original Link   | [https://news.ifeng.com/c/7fbsDidCvf6](https://news.ifeng.com/c/7fbsDidCvf6)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

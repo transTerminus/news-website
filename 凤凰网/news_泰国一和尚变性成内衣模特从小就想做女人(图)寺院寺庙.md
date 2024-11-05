@@ -25,3 +25,21 @@ Mimi表示，自己始终没有忘记曾经在寺院的生活，时至今日，�
 标签：[寺院](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AF%BA%E9%99%A2) [寺庙](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AF%BA%E5%BA%99) [戒律](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%88%92%E5%BE%8B)
 
 \[责任编辑：PN060\]
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_泰国一和尚变性成内衣模特从小就想做女人(图)寺院寺庙.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2223 bytes                           |
+> | MD5             | 61ca57fba643f674a7b33bb1868c18dd                                  |
+> | Original Link   | [https://news.ifeng.com/a/20151218/46727719_0.shtml](https://news.ifeng.com/a/20151218/46727719_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

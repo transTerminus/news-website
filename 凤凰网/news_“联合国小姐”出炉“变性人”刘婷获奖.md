@@ -22,3 +22,21 @@
 版权声明：凤凰资讯官方微信  
 
 [![凤凰新闻 天天有料](//y3.ifengimg.com/a/2015/0130/b3e486531275e3b.JPG)](http://api.3g.ifeng.com/ifengtg?adid=11345)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_“联合国小姐”出炉“变性人”刘婷获奖.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2235 bytes                           |
+> | MD5             | 1ec03f2962d08b522b793a455ce864e3                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150926/44740018_0.shtml](https://news.ifeng.com/a/20150926/44740018_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -29,3 +29,21 @@
 ![指令来源](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
 凤凰资讯版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_奥巴马下令学校允许变性学生根据认同性别如厕.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 3369 bytes                           |
+> | MD5             | b5e0792e9215f219bcdcd9906bc02f94                                  |
+> | Original Link   | [https://news.ifeng.com/a/20160514/48771431_0.shtml](https://news.ifeng.com/a/20160514/48771431_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

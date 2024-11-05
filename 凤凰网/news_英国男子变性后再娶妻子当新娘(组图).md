@@ -26,3 +26,21 @@
 据悉，英国自2005年12月允许同性恋者结婚以来，在12个时间中就有18000对同性夫妇结了婚，去年结婚的同性夫妇约有9000对。目前尚不清楚有多少对夫妇类似马丁和琳达这样——在其中一方接受变性手术后，为了经济原因而再次举行同性婚礼。
 
 (本文章版权归凤凰网所有，未经授权，不得转载)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国男子变性后再娶妻子当新娘(组图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2857 bytes                           |
+> | MD5             | abf9edf45b815e5b758a19aa706df469                                  |
+> | Original Link   | [https://news.ifeng.com/c/7fYYTcr8AK1](https://news.ifeng.com/c/7fYYTcr8AK1)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

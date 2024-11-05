@@ -114,3 +114,21 @@
 上述法律条文虽然并未明确规定劳动者不因变性而受歧视，**但劳动者因为进行性别置换手术而转变性别并获公安机关认可后，其享有平等就业不受歧视的权利，应系其中之义**。本案中，公司于2019年7月22日向小高发送的返岗准备函件中提及了“精神病人发作，其他员工的恐惧、不安和伦理尴尬，如厕问题”等内容，导致小高据此主张受到了公司的就业歧视。在此，本院呼吁并相信公司及其员工能够发扬“开放、平等、协作、快速、分享”的互联网精神，以更加开放、宽容的心态面对小高，在小高能够胜任新岗位的前提下构建和发展和谐稳定的劳动关系。
 
 **本院亦提示小高要珍惜社会给予的尊重和保护，在维护自身权利的同时不要滥用权利，以更加坦诚、平和的心态面对公司，力争在新的岗位上取得更优异的成绩**。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院_.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 8750 bytes                           |
+> | MD5             | 33fcf17ad05bacee7d77f755ae076c2e                                  |
+> | Original Link   | [https://news.ifeng.com/c/8V71wISWoQW](https://news.ifeng.com/c/8V71wISWoQW)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

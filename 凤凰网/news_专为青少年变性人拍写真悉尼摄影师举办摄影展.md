@@ -26,3 +26,21 @@
 标签：[照片](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%85%A7%E7%89%87), [个展](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%B8%AA%E5%B1%95), [展出](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B1%95%E5%87%BA)
 
 凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_专为青少年变性人拍写真悉尼摄影师举办摄影展.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 3039 bytes                           |
+> | MD5             | 63f8b54dcef32d3ff4e58e507cf0e406                                  |
+> | Original Link   | [https://news.ifeng.com/a/20160422/48552699_0.shtml](https://news.ifeng.com/a/20160422/48552699_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

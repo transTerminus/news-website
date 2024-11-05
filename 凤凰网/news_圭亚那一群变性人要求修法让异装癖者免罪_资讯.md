@@ -27,3 +27,21 @@
 [点击查看评论](http://comment.ifeng.com/view.php?chId=16&docId=1553490&docName=%e5%9c%ad%e4%ba%9a%e9%82%a3%e4%b8%80%e7%be%a4%e5%8f%98%e6%80%a7%e4%ba%ba%e8%a6%81%e6%b1%82%e4%bf%ae%e6%b3%95+%e8%ae%a9%e5%bc%82%e8%a3%85%e7%99%96%e8%80%85%e5%85%8d%e7%bd%aa&docUrl=http%3a%2f%2fnews.ifeng.com%2fworld%2f201002%2f0223_16_1553490.shtml)  
 **编辑**: 霍吉和  
 **版权声明**: 所有评论仅代表网友意见，凤凰网保持中立。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_圭亚那一群变性人要求修法让异装癖者免罪_资讯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2024 bytes                           |
+> | MD5             | 71606f05acc735ec7164287e441ad1ff                                  |
+> | Original Link   | [https://news.ifeng.com/world/201002/0223_16_1553490.shtml](https://news.ifeng.com/world/201002/0223_16_1553490.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

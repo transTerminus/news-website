@@ -9,3 +9,21 @@
 “特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
 
 Notice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services。”
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_韩国首位变性军人在家中去世，曾被勒令退伍.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 755 bytes                           |
+> | MD5             | 8d1b2796fb797826e1db5d50af31843b                                  |
+> | Original Link   | [https://news.ifeng.com/c/84Kp2h42zrN](https://news.ifeng.com/c/84Kp2h42zrN)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -68,3 +68,21 @@
 已有2位凤凰网友参与评论 
 
 （评论内容省略）
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_中国刑法学“被变性”引争议司法部展开调查.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 5650 bytes                           |
+> | MD5             | a965022b8094311c3bf2f5f570c42d5b                                  |
+> | Original Link   | [https://news.ifeng.com/mainland/200906/0604_17_1187459_1.shtml](https://news.ifeng.com/mainland/200906/0604_17_1187459_1.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

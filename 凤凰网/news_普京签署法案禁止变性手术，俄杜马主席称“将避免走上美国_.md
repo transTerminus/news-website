@@ -36,3 +36,21 @@
 ---
 
 **特别声明**：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_普京签署法案禁止变性手术，俄杜马主席称“将避免走上美国_.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 3411 bytes                           |
+> | MD5             | 4a479cb41431cdf8d728f138f0890424                                  |
+> | Original Link   | [https://news.ifeng.com/c/8RhjtZwYMcE](https://news.ifeng.com/c/8RhjtZwYMcE)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

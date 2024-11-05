@@ -29,3 +29,21 @@
 ![图片](http://d.ifengimg.com/w80_h80_nocache/y0.ifengimg.com/e01ed39fc2da5d4a/2013/1107/00092ec33d1b6502592a18584daddf3e.jpg)
 
 **版权**: 凤凰新媒体版权所有 © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国侏儒与1.90米变性女子恋爱身高差达58厘米.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2348 bytes                           |
+> | MD5             | 1c9c2519b1dde5f426f9565cde0fff11                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

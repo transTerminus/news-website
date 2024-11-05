@@ -26,3 +26,21 @@
 **版权声明：** 凤凰新媒体 版权所有 不得转载  
 
 ![凤凰 logo](http://img.ifeng.com/tres/pub_res/logo/www_logo.gif)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_福建变性美女博客征婚曾参加选美获奖.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2286 bytes                           |
+> | MD5             | f55b670d54512075f0a04ecdca5a6210                                  |
+> | Original Link   | [https://news.ifeng.com/photo/200703/0329_24_94866.shtml](https://news.ifeng.com/photo/200703/0329_24_94866.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

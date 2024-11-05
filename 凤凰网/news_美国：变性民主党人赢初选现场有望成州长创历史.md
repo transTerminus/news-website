@@ -12,3 +12,21 @@
 ---
 
 **责任编辑：罗忱蕾 PN168**
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国：变性民主党人赢初选现场有望成州长创历史.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 563 bytes                           |
+> | MD5             | 0b1ce5874a3ba7a30c7006f1afcb9c55                                  |
+> | Original Link   | [https://news.ifeng.com/c/7fZTxckchb4](https://news.ifeng.com/c/7fZTxckchb4)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -34,3 +34,21 @@
 
 **评论:**  
 已有0位凤凰网友参与评论
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_韩国28岁男子强奸变性人被判刑3年.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1432 bytes                           |
+> | MD5             | 18dc4bf9ca0f73dcbbe570f913e16067                                  |
+> | Original Link   | [https://news.ifeng.com/world/200902/0218_16_1021568.shtml](https://news.ifeng.com/world/200902/0218_16_1021568.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

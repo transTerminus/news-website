@@ -18,3 +18,21 @@
 文明上网，不传谣言，登录评论！
 
 [发表评论](https://gentie.ifeng.com/c/comment/861myRSp2JI)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_奥运热点？新西兰举重运动员获奥运资格，系变性选手第一人.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1163 bytes                           |
+> | MD5             | 8375fc30860b4c2b5effc8a6cb1cebf5                                  |
+> | Original Link   | [https://news.ifeng.com/c/861myRSp2JI](https://news.ifeng.com/c/861myRSp2JI)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

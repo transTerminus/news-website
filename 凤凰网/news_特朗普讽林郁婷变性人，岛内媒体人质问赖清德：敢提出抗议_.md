@@ -28,3 +28,21 @@
 凤凰账号/新浪微博
 
 [查看全部评论>>](//gentie.ifeng.com/c/comment/8cAyW68n3Aj)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_特朗普讽林郁婷变性人，岛内媒体人质问赖清德：敢提出抗议_.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2254 bytes                           |
+> | MD5             | a1a11b405eb6f353e0ef09fb98e72b8e                                  |
+> | Original Link   | [https://news.ifeng.com/c/8cAyW68n3Aj](https://news.ifeng.com/c/8cAyW68n3Aj)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

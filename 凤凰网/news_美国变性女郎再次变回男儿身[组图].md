@@ -18,3 +18,21 @@
 [**泰国举办世界变性人选美大赛 三甲揭晓\[组图\]**](http://news.ifeng.com/photo/other/200711/1112_1399_293755.shtml "泰国举办世界变性人选美大赛 三甲揭晓[组图]")  
 [**号称“中国最美男人”为演戏吃雌性激素**](http://news.ifeng.com/photo/other/200707/0710_1399_152471.shtml "号称“中国最美男人”为演戏吃雌性激素")  
 [**越南少女红星性爱视频网上曝光 全国震撼\[组图\]**](http://news.ifeng.com/photo/society/200710/1025_1400_272560.shtml "越南少女红星性爱视频网上曝光 全国震撼[组图]")
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国变性女郎再次变回男儿身[组图].md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1585 bytes                           |
+> | MD5             | ce0703fdafb9532c1ac12be2e1fd8cdb                                  |
+> | Original Link   | [https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml](https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

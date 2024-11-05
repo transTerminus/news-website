@@ -22,3 +22,21 @@
 玛丽说，手术得花大约1万1000英镑，不过“为了这项手术，我已经戒了烟，减了将近32公斤”。
 
 另外，玛丽还计划巡回各地，让其它变性人也可以体验到艺妓文化的优雅和美丽。他强调，“我知道，那是在变性人社群中，很多女士都会喜爱的感觉”。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国防部前职员变性当艺妓[组图].md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2259 bytes                           |
+> | MD5             | 4fbac8b6d31b1c08dc8b12e5cce74c69                                  |
+> | Original Link   | [https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml](https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

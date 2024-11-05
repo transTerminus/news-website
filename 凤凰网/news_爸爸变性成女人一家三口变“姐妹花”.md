@@ -8,3 +8,21 @@
 2018年11月8日消息，2005年夏天，来自美国路易斯安那州巴吞鲁日的Jessica Newsom还是一名大学生，20岁的Jessica大学放假后回到父母的家中。当Jessica走进父亲Jeff的房间，她不仅在房角发现了假发（当时她以为是父亲的万圣节装束），还发现了一个标注为黄体酮的瓶子。供图：东方IC
 
 \[责任编辑：晋彬 PN189\]
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_爸爸变性成女人一家三口变“姐妹花”.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 630 bytes                           |
+> | MD5             | 9b391ea25c6534fff7458c9796fb5d59                                  |
+> | Original Link   | [https://news.ifeng.com/c/7hfKbCkqGNk](https://news.ifeng.com/c/7hfKbCkqGNk)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

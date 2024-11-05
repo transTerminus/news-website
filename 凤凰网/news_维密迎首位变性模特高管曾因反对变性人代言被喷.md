@@ -100,3 +100,21 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 - [现场：被小意外惹恼，特朗普竞选集会怒砸话筒](https://news.ifeng.com/c/8eBGJOXCn4X)
 
   ![特朗普竞选集会](https://d.ifengimg.com/w72_h40/x0.ifengimg.com/ucms/2024_44/037C4CA76C115890E262748898F57E1EAA222B9C_size73_w975_h549.jpg)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_维密迎首位变性模特高管曾因反对变性人代言被喷.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 6024 bytes                           |
+> | MD5             | e43be807a324785d2cbb8a9132832562                                  |
+> | Original Link   | [https://news.ifeng.com/c/7ouj0SdFrV8](https://news.ifeng.com/c/7ouj0SdFrV8)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

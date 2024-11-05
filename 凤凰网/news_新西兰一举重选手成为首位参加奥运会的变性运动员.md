@@ -19,3 +19,21 @@
 **发表评论:** 凤凰账号/新浪微博
 
 [查看全部评论>>](//gentie.ifeng.com/c/comment/87FtgLr4Yq1)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_新西兰一举重选手成为首位参加奥运会的变性运动员.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1217 bytes                           |
+> | MD5             | d49ad853110fb89e1a5a5fe5c80d4efb                                  |
+> | Original Link   | [https://news.ifeng.com/c/87FtgLr4Yq1](https://news.ifeng.com/c/87FtgLr4Yq1)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

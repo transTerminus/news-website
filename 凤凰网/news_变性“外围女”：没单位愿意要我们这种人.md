@@ -176,3 +176,21 @@
 桃姐曾想为她们写一本书，但后来放弃了，“怎么写？故事全是悲剧”。
 
 （应采访对象要求，本文中娆娆、彬彬、染儿、桃姐、卡卡为化名。）
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性“外围女”：没单位愿意要我们这种人.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 13141 bytes                           |
+> | MD5             | 65775215f277b50c189645e2c2526dec                                  |
+> | Original Link   | [https://news.ifeng.com/a/20151223/46802660_0.shtml](https://news.ifeng.com/a/20151223/46802660_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

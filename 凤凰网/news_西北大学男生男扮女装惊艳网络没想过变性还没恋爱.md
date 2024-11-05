@@ -15,3 +15,21 @@
 标签：[暑假](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%9A%91%E5%81%87) [大学生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A4%A7%E5%AD%A6%E7%94%9F) [复习](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A4%8D%E4%B9%A0)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_西北大学男生男扮女装惊艳网络没想过变性还没恋爱.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1213 bytes                           |
+> | MD5             | ab51307a521f6662d63d947eefa9fb85                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140728/41340155_2.shtml](https://news.ifeng.com/a/20140728/41340155_2.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

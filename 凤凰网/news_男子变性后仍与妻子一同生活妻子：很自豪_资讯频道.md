@@ -60,3 +60,21 @@
 11. [35d9f4a7-fccc-4711-b20a-](https://gentie.ifeng.com/myComments?guid=81938673) \[山东省济南市网友\]  
     似言非信，似疑非疑，叫人无法相信，男的变女，女的变男，这个世界不知怎样生存。  
     _2017-05-06 21:16_  
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_男子变性后仍与妻子一同生活妻子：很自豪_资讯频道.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2968 bytes                           |
+> | MD5             | 53266dcdc6b0cca0246c6e0669531b01                                  |
+> | Original Link   | [https://news.ifeng.com/a/20170423/50982932_0.shtml](https://news.ifeng.com/a/20170423/50982932_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

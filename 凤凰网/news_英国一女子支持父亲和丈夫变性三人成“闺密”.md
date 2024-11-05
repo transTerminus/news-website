@@ -33,3 +33,21 @@
 标签：[爸爸](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%88%B8%E7%88%B8) [佩里](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%BD%A9%E9%87%8C) [海伦](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B5%B7%E4%BC%A6)
 
 ![二维码分享](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国一女子支持父亲和丈夫变性三人成“闺密”.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2556 bytes                           |
+> | MD5             | e5188d6397bb98a8246c3145b8496da2                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140724/41296302_0.shtml](https://news.ifeng.com/a/20140724/41296302_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

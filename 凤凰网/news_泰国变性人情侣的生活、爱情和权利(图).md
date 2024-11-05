@@ -25,3 +25,21 @@
 凤凰资讯官方微信  
 
 版权所有 © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_泰国变性人情侣的生活、爱情和权利(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 3226 bytes                           |
+> | MD5             | 6c94e77976e107876382c7412f49a98a                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150216/43190190_1.shtml](https://news.ifeng.com/a/20150216/43190190_1.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

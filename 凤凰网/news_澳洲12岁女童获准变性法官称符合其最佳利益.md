@@ -17,3 +17,21 @@
 法官裁决时强调：“从各方面的证据来看，让她进行变性符合她的最佳利益。”
 
 **标签**: [女童](#) [法官](#) [变性](#)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_澳洲12岁女童获准变性法官称符合其最佳利益.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1542 bytes                           |
+> | MD5             | 325a472565302f3e262fbd02152ae349                                  |
+> | Original Link   | [https://news.ifeng.com/society/4/200805/0526_346_562820.shtml](https://news.ifeng.com/society/4/200805/0526_346_562820.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -57,3 +57,21 @@
 - 哇塞，这可不是天天都看得到的。——Anna24
 
 **标签**：[爸爸](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%88%B8%E7%88%B8) [剖腹产](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%89%96%E8%85%B9%E4%BA%A7) [男孩](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E5%AD%A9)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国变性人结婚：“丈夫”生娃“妻子”当爸.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 5818 bytes                           |
+> | MD5             | 955eb35b12cfc5cb7bf90ee1dab0cfa1                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140813/41553926_0.shtml](https://news.ifeng.com/a/20140813/41553926_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

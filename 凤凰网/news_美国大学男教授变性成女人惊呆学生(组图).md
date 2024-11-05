@@ -43,3 +43,21 @@
 - 女人
 - 学生
 - 拉丁
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国大学男教授变性成女人惊呆学生(组图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 4528 bytes                           |
+> | MD5             | 39615a81f57836e7eb32ccfb45588917                                  |
+> | Original Link   | [https://news.ifeng.com/world/2/200809/0909_2591_773131.shtml](https://news.ifeng.com/world/2/200809/0909_2591_773131.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

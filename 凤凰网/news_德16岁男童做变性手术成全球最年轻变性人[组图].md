@@ -25,3 +25,21 @@
 如今拥有女儿身的金说:“一切都因这个手术改变了，我迫不及待的想要穿上我最爱的泳衣，像从未尝试过的那样去游泳。”
 
 **标签**: 变性人, 治疗, 男童
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_德16岁男童做变性手术成全球最年轻变性人[组图].md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1808 bytes                           |
+> | MD5             | d985c06d107eda5b2b1c947e43f40fd6                                  |
+> | Original Link   | [https://news.ifeng.com/photo/society/200902/0205_1400_996932.shtml](https://news.ifeng.com/photo/society/200902/0205_1400_996932.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

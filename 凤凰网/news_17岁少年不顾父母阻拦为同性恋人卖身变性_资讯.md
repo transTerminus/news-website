@@ -26,3 +26,21 @@
 **评论**：已有6条评论
 
 ---
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_17岁少年不顾父母阻拦为同性恋人卖身变性_资讯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 3083 bytes                           |
+> | MD5             | 1024fdd78f487f46839303b5a66419cf                                  |
+> | Original Link   | [https://news.ifeng.com/society/2/200812/1216_344_923486_2.shtml](https://news.ifeng.com/society/2/200812/1216_344_923486_2.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -24,3 +24,21 @@
 标签：[爸爸](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%88%B8%E7%88%B8) [性器官](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%99%A8%E5%AE%98) [孩子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A9%E5%AD%90)
 
 \[责任编辑：PN040\]
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_男女“未完全”变性后产子父母身份错乱(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2466 bytes                           |
+> | MD5             | 6eeb53c14d522515f6e7237b0101ade4                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140812/41534502_0.shtml](https://news.ifeng.com/a/20140812/41534502_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

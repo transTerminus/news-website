@@ -13,3 +13,21 @@
 在美国非官方组织“美国公民自由联盟”的帮助下，加文对格洛斯特县校董会提出起诉，希望获准继续使用男士卫生间。据报道，此类案件在美国已有先例，但在弗吉尼亚州尚属首例。
 
 标签：[学生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A6%E7%94%9F) [学期](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A6%E6%9C%9F) [家长](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AE%B6%E9%95%BF)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_难忍其辱！美国变性学生状告学校设立单独卫生间.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2172 bytes                           |
+> | MD5             | 0aafc2c7c82f74a99c06944d71d55fd6                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150617/43995387_0.shtml](https://news.ifeng.com/a/20150617/43995387_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -51,3 +51,21 @@
 ---
 
 特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_“你试图消灭变性人！”《纽约时报》记者被吐口水.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 5084 bytes                           |
+> | MD5             | 2bcdab530f6106f492387aa45f9bd4c8                                  |
+> | Original Link   | [https://news.ifeng.com/c/8Nt68btRKBp](https://news.ifeng.com/c/8Nt68btRKBp)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

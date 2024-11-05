@@ -56,3 +56,21 @@
 ---
 
 以上信息保留了所有与正文相关的内容，如视频源、时间、来源、图片等，去除多余的网页信息，确保阅读体验流畅。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性人为何要改变自己的性别原来与其核团特征有关!.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2766 bytes                           |
+> | MD5             | f4b68d04b9a7802fb6759d64ca7d91ab                                  |
+> | Original Link   | [https://news.ifeng.com/c/7vHu1no1Gpk](https://news.ifeng.com/c/7vHu1no1Gpk)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

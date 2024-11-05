@@ -23,3 +23,21 @@
 标签：[精子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%B2%BE%E5%AD%90) [孩子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A9%E5%AD%90) [男孩](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E5%AD%A9)
 
 ![二维码分享](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_德国一女变男变性人成欧洲首个怀孕生子男人.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2345 bytes                           |
+> | MD5             | 582730ceb4e475a9121a4da3e79c0df3                                  |
+> | Original Link   | [https://news.ifeng.com/a/20141112/42451491_0.shtml](https://news.ifeng.com/a/20141112/42451491_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -24,3 +24,21 @@
 - [《色即是空2》演员变性：只想过自己希望的生活(图)](http://ent.ifeng.com/idolnews/jpkr/200711/1126_1836_311238.shtml)  
 
 版权所有 © 凤凰网
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国怀孕男子更多生活照片曝光[组图].md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1609 bytes                           |
+> | MD5             | 947e9b6fe2b391ff9e4362622cad299d                                  |
+> | Original Link   | [https://news.ifeng.com/photo/society/200804/0407_1400_478267_3.shtml](https://news.ifeng.com/photo/society/200804/0407_1400_478267_3.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

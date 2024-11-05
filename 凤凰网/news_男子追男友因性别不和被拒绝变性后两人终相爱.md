@@ -77,3 +77,21 @@
 ---
 
 **特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。**
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_男子追男友因性别不和被拒绝变性后两人终相爱.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 4804 bytes                           |
+> | MD5             | ceb2bbf9efa7407517da791106378e25                                  |
+> | Original Link   | [https://news.ifeng.com/c/7fZmaqPGCvj](https://news.ifeng.com/c/7fZmaqPGCvj)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

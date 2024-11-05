@@ -65,3 +65,21 @@
 3. 和学校老师沟通，保障孩子不受到别人欺负和骚扰。
 
 标签： [养父母](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%85%BB%E7%88%B6%E6%AF%8D) [生长发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%9F%E9%95%BF%E5%8F%91%E8%82%B2) [小伙伴](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B0%8F%E4%BC%99%E4%BC%B4)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_孩子想变性家长怎么办？养父母生长发育.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 9104 bytes                           |
+> | MD5             | 4f5ece8965de800028fb6a02a72874a9                                  |
+> | Original Link   | [https://news.ifeng.com/a/20141221/42763329_0.shtml](https://news.ifeng.com/a/20141221/42763329_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -17,3 +17,21 @@
 \[责任编辑：雒效文 PN066\]
 
 版权：凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_两兄弟互相隐瞒“女儿心”不约而同变性成姐妹(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1162 bytes                           |
+> | MD5             | e07deb46cd7dafccad64297622ed9173                                  |
+> | Original Link   | [https://news.ifeng.com/a/20160523/48827737_0.shtml](https://news.ifeng.com/a/20160523/48827737_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -37,3 +37,21 @@ LGBTQ团体严厉批评了梵蒂冈的这份文件，并表示教义办公室在
 “特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。 
 
 \[责任编辑：罗光磊 PN417\]
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_教皇在LGBTQ会议上被敦促撤销对“性别肯定护理”的禁令.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 3448 bytes                           |
+> | MD5             | 636ffcb29b245152428eadc4daaa8343                                  |
+> | Original Link   | [https://news.ifeng.com/c/8deHXkurQqh](https://news.ifeng.com/c/8deHXkurQqh)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

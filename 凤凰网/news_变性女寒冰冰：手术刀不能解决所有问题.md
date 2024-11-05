@@ -64,3 +64,21 @@
 所以我一直主张抬高手术门槛。不是不让他们做手术，是逼他们在手术前就要给自己的未来有个良好的规划。以前我要求接受手术者必须接受过高等教育，被好多人骂搞教育歧视。没受过高等教育也行，但你必须要让我相信你在手术之后能养活自己，不成为社会、家庭的负担。一个真正的手术的成功，是手术成功之后，这个人能被社会接纳、能融入到社会里面去。
 
 今年6月，卫生部印发了《变性手术技术管理规范（征求意见稿）》，对实施变性手术的医院和医生设定了最低标准，对变性手术患者设定了必须要满足的条件。我建议将这个意见稿扩大到完善社会制度上，卫生部门、司法部门还有民政部门，几个部门联合出一个规范。这个病，医疗之外的问题至少占一半比重，要由社会上的有关部门来关注才真的有意义。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性女寒冰冰：手术刀不能解决所有问题.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 6462 bytes                           |
+> | MD5             | 3f9ab915cc39db7d1f3dec36528e8ac2                                  |
+> | Original Link   | [https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml](https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

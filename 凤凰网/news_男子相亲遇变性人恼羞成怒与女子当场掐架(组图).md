@@ -15,3 +15,21 @@
 标签：[女子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A5%B3%E5%AD%90) [变性人](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%98%E6%80%A7%E4%BA%BA) [男子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E5%AD%90)
 
 \[责任编辑：PN061\]
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_男子相亲遇变性人恼羞成怒与女子当场掐架(组图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1127 bytes                           |
+> | MD5             | c5f29859437b831cf1616d2b38a205d7                                  |
+> | Original Link   | [https://news.ifeng.com/a/20151113/46233123_0.shtml?_cpb_shehui](https://news.ifeng.com/a/20151113/46233123_0.shtml?_cpb_shehui)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -20,3 +20,21 @@
 **标签**：[周杰伦](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%91%A8%E6%9D%B0%E4%BC%A6) [金星](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%87%91%E6%98%9F) [阿尔发](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%98%BF%E5%B0%94%E5%8F%91)  
 
 ![图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_揭变性艺人心酸历程河莉秀劝老公分手遭拒绝.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1886 bytes                           |
+> | MD5             | b637d652bf82f48653a81abe0474c936                                  |
+> | Original Link   | [https://news.ifeng.com/a/20141103/42362852_0.shtml](https://news.ifeng.com/a/20141103/42362852_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

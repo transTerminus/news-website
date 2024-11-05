@@ -34,3 +34,22 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 - [大选倒计时，美拿俄资产援乌，放话要直接参战，俄展示出核肌肉](https://news.ifeng.com/c/8e9tY2ILE3G "大选倒计时，美拿俄资产援乌，放话要直接参战，俄展示出核肌肉")
 - [台海紧张时刻，民进党罕见向大陆送礼，接不接受？我方回了两句话](https://news.ifeng.com/c/8e9zzj6pccX "台海紧张时刻，民进党罕见向大陆送礼，接不接受？我方回了两句话")
 
+
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_继金星后又一男星变性成功，手术后疼的满地爬.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 3108 bytes                           |
+> | MD5             | b2c14e6215c6e347e7c64f09efaa4720                                  |
+> | Original Link   | [https://news.ifeng.com/c/7nY3bf3aYtr](https://news.ifeng.com/c/7nY3bf3aYtr)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

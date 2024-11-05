@@ -28,3 +28,21 @@
 陪同刘昌福回川的还有国家高级心理咨询师、手术医生田亚华。他表示，刘昌福染色体畸变，患有先天性睾丸发育不全综合征，也患有性身份识别障碍。两种疾病同时发生在同一个人身上非常罕见。刘昌福的雄性激素分泌只有正常男性的1/20，雌性激素则远远超标。今年年初，刘昌福进行变性手术，物理手段使她的身体表层成为女性。 
 
 **标签**: [男友](#) [刘昌福](#) [变性手术](#) 
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_男子变性女人后携男友回老家大秀恩爱(图)_资讯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2801 bytes                           |
+> | MD5             | fb822e59ec7ea8ef4316773dbf6c784d                                  |
+> | Original Link   | [https://news.ifeng.com/society/2/200804/0421_344_499789.shtml](https://news.ifeng.com/society/2/200804/0421_344_499789.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

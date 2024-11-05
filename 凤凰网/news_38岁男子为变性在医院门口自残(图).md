@@ -71,3 +71,21 @@
 ---
 
 *版权声明：凤凰新媒体 版权所有 不得转载*
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_38岁男子为变性在医院门口自残(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 5937 bytes                           |
+> | MD5             | ab3a56b2ac3eb55553c9aff68a6dfbe3                                  |
+> | Original Link   | [https://news.ifeng.com/society/2/200708/0817_344_191895.shtml](https://news.ifeng.com/society/2/200708/0817_344_191895.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

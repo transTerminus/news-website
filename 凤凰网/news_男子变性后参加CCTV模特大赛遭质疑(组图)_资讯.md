@@ -30,3 +30,21 @@
 云南赛区负责人杨金介绍，“林青的毅力和决心感动了我们，把她的个人申请送往北京。”最终，北京组委会允许林青参与云南赛区决赛。得到参赛许可通知书后，林青“破涕为笑”。
 
 昨日，在云南赛区决赛中，林青取得了前10名的好成绩，并获得“最受关注奖”，但由于云南赛区只有冠、亚军才能参加在北京进行的总决赛，因此林青无缘总决赛。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_男子变性后参加CCTV模特大赛遭质疑(组图)_资讯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2910 bytes                           |
+> | MD5             | 3039b8cb85835d689024bc90a4292138                                  |
+> | Original Link   | [https://news.ifeng.com/society/2/200809/0911_344_779109.shtml](https://news.ifeng.com/society/2/200809/0911_344_779109.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -57,3 +57,21 @@
 - [河南一变性人落选“标准美女” 广场举牌抗议](http://news.ifeng.com/society/2/200901/0108_344_958361.shtml)
 
 **标签:** 变性美女, 黄宁倩, 变性人
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_“华东第一变性美女”找工作碰壁成为三陪女.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 6344 bytes                           |
+> | MD5             | bde4f91105e5a59818721574d45f07fe                                  |
+> | Original Link   | [https://news.ifeng.com/society/2/200907/0703_344_1232112.shtml](https://news.ifeng.com/society/2/200907/0703_344_1232112.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

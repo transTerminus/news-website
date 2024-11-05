@@ -32,3 +32,21 @@
 
 版权：凤凰资讯版权所有  
 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_成都：实习医生为15岁少年摘除睾丸变性被批捕.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2944 bytes                           |
+> | MD5             | b5385de271f1061707db8368931d53e5                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150923/44719912_0.shtml](https://news.ifeng.com/a/20150923/44719912_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -90,3 +90,21 @@
 
 **版权**: 凤凰新媒体 版权所有，不得转载。  
 **评论**: [点击这里发表评论](http://cmt.ifeng.com/viewcmts.do?chId=20&docId=30805&docName=%e5%8f%98%e6%80%a7%e7%94%b7%e5%ad%90%e8%8e%b7%e7%8e%af%e7%90%83%e5%b0%8f%e5%a7%90%e6%9c%80%e4%b8%8a%e9%95%9c%e5%a5%96+%e7%88%b6%e6%af%8d%e6%80%92%e7%a0%b8%e7%be%8e%e5%ae%b9%e9%99%a2%2f%e5%9b%be&docUrl=http%3a%2f%2fnews.ifeng.com%2fsociety%2f200611%2f1110_20_30805.shtml)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性男子获环球小姐最上镜奖父母怒砸美容院图.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 7222 bytes                           |
+> | MD5             | f3a952cce6ab07c607e6cb9b4b106f8d                                  |
+> | Original Link   | [https://news.ifeng.com/society/200611/1110_20_30805.shtml](https://news.ifeng.com/society/200611/1110_20_30805.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

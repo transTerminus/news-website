@@ -27,3 +27,21 @@
 \[责任编辑：彭莹羿 PN062\]
 
 标签：[韦某](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%9F%A6%E6%9F%90) [民警](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B0%91%E8%AD%A6) [刑侦](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%91%E4%BE%A6)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_广西：艾滋病男扮女子卖淫筹变性手术费.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2380 bytes                           |
+> | MD5             | 5850cb5f7ffb267f967e0418f2c72b40                                  |
+> | Original Link   | [https://news.ifeng.com/a/20160401/48301408_0.shtml](https://news.ifeng.com/a/20160401/48301408_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

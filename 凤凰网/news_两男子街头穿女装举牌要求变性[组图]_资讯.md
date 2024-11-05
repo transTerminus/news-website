@@ -27,3 +27,21 @@
 还有一个男子则表示，不管他们变性与否，都不应该如此“招摇过市”，会对小孩造成不良影响。  
 在国外呆过一段时间的石女士表示，这种事情在国外很常见，大家不应该干涉他们的行为。  
 90后女孩小张则表示，虽然自己不能理解变性行为，但别人不应该对他们歧视或漠视，他们也是社会的一份子。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_两男子街头穿女装举牌要求变性[组图]_资讯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2202 bytes                           |
+> | MD5             | 82f012fbc310adbd63a20c774664d29b                                  |
+> | Original Link   | [https://news.ifeng.com/photo/society/200904/0414_1400_1106299_1.shtml](https://news.ifeng.com/photo/society/200904/0414_1400_1106299_1.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

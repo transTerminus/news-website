@@ -45,3 +45,21 @@
 
 [已有0位凤凰网友参与评论]  
 用户名 密码 [注册](http://uc.ifeng.com/up/registerStep1.html)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_17岁少女欲做变性手术家长疑其有女友(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2694 bytes                           |
+> | MD5             | a42c46b679545e98fde31ff88728221f                                  |
+> | Original Link   | [https://news.ifeng.com/society/2/200903/0317_344_1064342.shtml](https://news.ifeng.com/society/2/200903/0317_344_1064342.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

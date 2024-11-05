@@ -10,3 +10,21 @@
 “特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
 
 Notice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services.”
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_郑州男子泰国变性改身份证性别受阻，警方回应.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 788 bytes                           |
+> | MD5             | f88e3f676b50aaf88239a0eda62fc7e5                                  |
+> | Original Link   | [https://news.ifeng.com/c/7vX52bsGnLP](https://news.ifeng.com/c/7vX52bsGnLP)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -66,3 +66,21 @@
 （照片由受访者提供）
 
 标签：[刘霆](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%98%E9%9C%86) [模范](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%A8%A1%E8%8C%83) [母亲](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%AF%8D%E4%BA%B2)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_刘婷母亲谈“儿子”变性：她28年过得太辛苦幸福就好.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 8907 bytes                           |
+> | MD5             | b2c8817e7c01fd8dd4a47cf3a0058707                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150409/43517172_0.shtml](https://news.ifeng.com/a/20150409/43517172_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

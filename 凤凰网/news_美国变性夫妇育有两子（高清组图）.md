@@ -15,3 +15,21 @@
 **标签**：[性器官](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%99%A8%E5%AE%98) [孩子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A9%E5%AD%90) [父亲](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%88%B6%E4%BA%B2) 
 
 **版权**：凤凰新媒体 版权所有  Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国变性夫妇育有两子（高清组图）.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1904 bytes                           |
+> | MD5             | 9204a10dc399cc94114666f958bd470d                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140812/41537072_2.shtml](https://news.ifeng.com/a/20140812/41537072_2.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

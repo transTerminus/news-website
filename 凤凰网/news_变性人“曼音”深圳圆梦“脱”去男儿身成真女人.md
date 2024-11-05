@@ -17,3 +17,21 @@
 “这之后，我们会让曼音做好生理和心理准备，让她有个过渡时期。万一，曼音不适应，如果她不想做了，还有余地。接着，我们将进行最终的性别改造变换身份。做变性手术前，我们会进行心理辅导，帮助“她”确认自己在社会中性别。一旦做了变性手术，意味着曼音将再也不可能成为男性，而且将完全丧失男性功能及生育能力。自我接受、社会接纳等一系列问题接踵而来的时候，我们担心曼音会不会对现在的决定后悔。因此我们希望她充分考虑清楚再进行手术！”
 
 标签：[诊断](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%AF%8A%E6%96%AD) [手术](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%89%8B%E6%9C%AF) [医疗美容](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8C%BB%E7%96%97%E7%BE%8E%E5%AE%B9)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性人“曼音”深圳圆梦“脱”去男儿身成真女人.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2885 bytes                           |
+> | MD5             | 8833031ce265988b1dca5248cef44428                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140508/40212392_4.shtml](https://news.ifeng.com/a/20140508/40212392_4.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

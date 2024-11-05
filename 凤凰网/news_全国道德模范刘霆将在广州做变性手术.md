@@ -23,3 +23,21 @@
 广州美莱整形外科主任罗延平指出，变性手术周期长、手术多，很多细节方面的改造比单纯的器官改造还难。“目前还没组织专家会诊，没有具体方案，大致的手术阶段是，先进行颜面五官改造，再进行形体塑造，最后再进行其他性器官改造手术。”
 
 标签：[刘霆](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%98%E9%9C%86) [手术](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%89%8B%E6%9C%AF) [医生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8C%BB%E7%94%9F)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_全国道德模范刘霆将在广州做变性手术.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2850 bytes                           |
+> | MD5             | f97d147358575c997b28146b741e3f9f                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140815/41593191_0.shtml](https://news.ifeng.com/a/20140815/41593191_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

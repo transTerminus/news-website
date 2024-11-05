@@ -38,3 +38,21 @@
 **标签**: [金星](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%87%91%E6%98%9F) [网友](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%BD%91%E5%8F%8B) [微博](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%BE%AE%E5%8D%9A)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_萨顶顶不满被曝黑历史暗讽变性金星：我的人生堪称完美.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 4134 bytes                           |
+> | MD5             | 98b00d567a9212b7ca5a9f5eb72af5e9                                  |
+> | Original Link   | [https://news.ifeng.com/a/20160501/48650083_0.shtml?_cpb_shehui](https://news.ifeng.com/a/20160501/48650083_0.shtml?_cpb_shehui)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

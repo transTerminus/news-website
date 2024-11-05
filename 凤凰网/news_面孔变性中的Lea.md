@@ -23,3 +23,21 @@
 尽管在时尚圈里越走越顺，但变性人的身份仍然会时时困扰着她。她不为自己的父亲所接纳；走在大街上，仍然会遭遇陌生人的异样目光甚至嘲笑；为促进变性而服用的药物也会带来一些让人无所适从的副作用。她也仍在继续接受激素治疗，为最后一步变性手术做准备，直到最终变成一个真正的女人。
 
 **版权信息**: 本文章版权归凤凰网所有，未经授权，不得转载
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_面孔变性中的Lea.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2536 bytes                           |
+> | MD5             | 40cb6fd35c93396a48168236d4b70c46                                  |
+> | Original Link   | [https://news.ifeng.com/c/7fbyPguVqkK](https://news.ifeng.com/c/7fbyPguVqkK)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

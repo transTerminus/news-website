@@ -11,3 +11,21 @@
 ![](http://y1.ifengimg.com/cmpp/2015/05/15/09/1bc9371c-8f9e-4acd-91f9-9ec7d4bb22d8_size49_w570_h570.jpg)
 
 每年一度的“最性感男性”评选是美国老牌男性杂志《时尚健康》的保留项目，但是今年却有可能创造一项纪录：杂志将迎来首位变性人摘下此殊荣，并成为封面人物！
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_最性感肌肉男神竟是女儿身？变性男模或创历史.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1173 bytes                           |
+> | MD5             | 47fb7ce9aee648fda71bb95c1d4ef22c                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150515/43764450_0.shtml](https://news.ifeng.com/a/20150515/43764450_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

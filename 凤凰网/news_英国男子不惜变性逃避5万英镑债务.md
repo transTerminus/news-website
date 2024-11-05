@@ -19,3 +19,21 @@
 **标签：** 变性手术, 男人, 男子  
 
 **评论：** 共有评论0条  
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国男子不惜变性逃避5万英镑债务.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1390 bytes                           |
+> | MD5             | ed89fa79a15e367db7ae1686cae6dd69                                  |
+> | Original Link   | [https://news.ifeng.com/world/201003/0321_16_1582050.shtml](https://news.ifeng.com/world/201003/0321_16_1582050.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

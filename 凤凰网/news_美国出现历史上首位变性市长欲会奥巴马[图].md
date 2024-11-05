@@ -45,3 +45,21 @@
 - 难过
 - 高兴
 - 路过
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国出现历史上首位变性市长欲会奥巴马[图].md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2689 bytes                           |
+> | MD5             | 1879dbbad87a4a82e57aa248c7479a2e                                  |
+> | Original Link   | [https://news.ifeng.com/photo/news/200811/1109_1397_869359.shtml](https://news.ifeng.com/photo/news/200811/1109_1397_869359.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

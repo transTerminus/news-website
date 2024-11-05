@@ -47,3 +47,21 @@
 尼乌玛称：“我觉得是有影响的，我们可以跟普通人一起工作、生活、创业，这是一个法律根据，从此我们遇到问题就有一个法律依据进行申诉维权。我不在乎我的称谓，我更在乎社会接受度，无论亚洲哪个国家都觉得我们是奇怪的，是一种可治疗的心理疾病，但这不是一种病。”
 
 标签：[美容](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%BE%8E%E5%AE%B9) [变性人](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%98%E6%80%A7%E4%BA%BA) [泰国](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B3%B0%E5%9B%BD)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_泰国有望立法承认第三性别(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 7509 bytes                           |
+> | MD5             | ddf3672c39711407ea9a8b045cdd3133                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

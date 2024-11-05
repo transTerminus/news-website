@@ -32,3 +32,21 @@
 ---
 
 版权 © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国变性男囚在男牢受威胁在女牢遭排挤.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2488 bytes                           |
+> | MD5             | f3f0f1845a464a7e3656d88f39aa1243                                  |
+> | Original Link   | [https://news.ifeng.com/a/20151215/46681286_0.shtml](https://news.ifeng.com/a/20151215/46681286_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

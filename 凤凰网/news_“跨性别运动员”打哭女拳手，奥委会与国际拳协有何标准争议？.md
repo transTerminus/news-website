@@ -131,3 +131,21 @@
 “特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
 
 **责任编辑：宋东泽 PN242**
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 14412 bytes                           |
+> | MD5             | c2d6b101ae29a6b0716fdb1ba5ec4f28                                  |
+> | Original Link   | [https://news.ifeng.com/c/8bpCz5qUZ4m](https://news.ifeng.com/c/8bpCz5qUZ4m)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -21,3 +21,21 @@
 **编辑**：李志题   
 
 ---
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_男子变性失败长期扮女性险遭强奸杀死“强奸者”_资讯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2282 bytes                           |
+> | MD5             | cbfac2c5cf67e37e14bab1f4977a358b                                  |
+> | Original Link   | [https://news.ifeng.com/society/1/200811/1118_343_882606.shtml](https://news.ifeng.com/society/1/200811/1118_343_882606.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

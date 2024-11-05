@@ -24,3 +24,21 @@
 
 **评论**：  
 - *以上留言只代表网友个人观点，不代表凤凰网观点。*
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_中国首位变性艺人不堪歧视割腕自杀图.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2783 bytes                           |
+> | MD5             | af672b7fede3388a58a13d5d6f26d699                                  |
+> | Original Link   | [https://news.ifeng.com/society/3/200701/0130_345_69917.shtml](https://news.ifeng.com/society/3/200701/0130_345_69917.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -35,3 +35,21 @@
 普理查德的同僚、议会议员安德鲁·珀西表示，对年仅9岁的儿童采取治疗、阻止其正常发育与生长的过程是与传统观念不相符的，他认为人们会对这一治疗方案感到惊恐。
 
 标签：[性发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%8F%91%E8%82%B2) [发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%91%E8%82%B2) [男孩](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E5%AD%A9)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国为性别认同障碍儿童提供药物辅助变性手术.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2983 bytes                           |
+> | MD5             | fa0d9df10e886c6978b421b2da938169                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140521/40395744_0.shtml](https://news.ifeng.com/a/20140521/40395744_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

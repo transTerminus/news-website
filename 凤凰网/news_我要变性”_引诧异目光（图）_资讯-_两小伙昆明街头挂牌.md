@@ -52,3 +52,21 @@
 
 ### 评论
 [已有0位凤凰网友参与评论]
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 4687 bytes                           |
+> | MD5             | 4204ae07d7ecc21a9953135b5cf7548c                                  |
+> | Original Link   | [https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml](https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -27,3 +27,21 @@
 ![凤凰新闻 天天有料](http://y2.ifengimg.com/ifengimcp/pic/20150902/3677f2773fd79f12b079_size1_w35_h15.png)
 
 ---
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美国加州通过新政：囚犯欲变性政府须买单.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2608 bytes                           |
+> | MD5             | 533bced6c8bbddd132bd114e5c1fc746                                  |
+> | Original Link   | [https://news.ifeng.com/a/20151023/45969668_0.shtml](https://news.ifeng.com/a/20151023/45969668_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

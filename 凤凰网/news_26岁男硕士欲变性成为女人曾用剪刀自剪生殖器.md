@@ -20,3 +20,21 @@
 昨日上午，确定李婷无器质性病变后，协和医院整形美容科主任孙家明和他促膝谈心作心理检查，李婷痛苦地表示再也不想当男人，父母也不指望他传宗接代了，如果他碰到相爱的人希望能领养孤儿组建家庭过下半生。
 
 孙主任表示，手术如果其父母同意签字，筹到经费，技术并不是难题。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_26岁男硕士欲变性成为女人曾用剪刀自剪生殖器.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1738 bytes                           |
+> | MD5             | 9d9d147222a842aafbf336085d83a97b                                  |
+> | Original Link   | [https://news.ifeng.com/society/2/200807/0712_344_648756.shtml](https://news.ifeng.com/society/2/200807/0712_344_648756.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

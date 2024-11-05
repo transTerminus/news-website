@@ -17,3 +17,21 @@
 所幸珍在女友支持下，接受咨询，并到泰国进行变性手术，医师也依珍心目中完美女人苏菲亚·罗兰的模样，替她变脸及隆乳。
 
 有消息人士称，汉米尔顿女士将可在遵守规定的前提下，对妇女进行搜身，并和其他的女警官一样穿女式警服。(中新网5月3日电)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国军官变性成为苏格兰首位“变性女警官”(图)_军事.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1595 bytes                           |
+> | MD5             | 1d9dc5a959e0eb38e20b08717f23a164                                  |
+> | Original Link   | [https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml](https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -20,3 +20,21 @@
 法国国际广播电台报道称，新西兰前总理杰辛达·阿德恩和美国前第一夫人米歇尔·奥巴马也曾深受“变性人”谣言困扰。
 
 “特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_回击第一夫人变性谣言，马克龙出面护妻.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2434 bytes                           |
+> | MD5             | 87a7c00c6b5e7ab1dfa54392b0514322                                  |
+> | Original Link   | [https://news.ifeng.com/c/8Xqvsdf6Fcq](https://news.ifeng.com/c/8Xqvsdf6Fcq)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

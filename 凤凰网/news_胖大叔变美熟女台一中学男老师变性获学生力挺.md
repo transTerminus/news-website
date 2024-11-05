@@ -23,3 +23,21 @@
 标签：[师生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B8%88%E7%94%9F) [学生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A6%E7%94%9F) [校园](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%A0%A1%E5%9B%AD) 
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_胖大叔变美熟女台一中学男老师变性获学生力挺.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2732 bytes                           |
+> | MD5             | 7bc8a9f96416a1c967cbb3795f8c6836                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150408/43506249_0.shtml](https://news.ifeng.com/a/20150408/43506249_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

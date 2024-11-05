@@ -31,3 +31,21 @@
 日前，英国《每日邮报》记者终于惊讶地发现，这位昔日的“山地王”原来已变成女儿身，并改名为菲莉帕·约克。他与46岁的女性密友琳达·普尔一同，居住在英格兰西南美丽乡村多塞特地区一套价值35万英镑的别墅中。如今，这位“约克小姐”从事着摩托车修理行当，对于过去的辉煌并不愿意提起。据悉，约克的红颜知己普尔现供职于北多塞特郡区自治会，对于媒体的采访同样三缄其口。
 
 据一位邻居透露：“这里每个人都知道‘菲莉帕’过去曾是个男人，但出于礼貌，没人好意思打探她的隐私。不过，她现在仍喜欢骑自行车，你经常可以看到她骑着爱车，全副武装，而她的一头秀发则从她的自行车头盔后面显露出来。”天朗
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国自行车手失踪4年秘密变性(图)_资讯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 3186 bytes                           |
+> | MD5             | 57a1350ab1d015723905fd5b6a929b62                                  |
+> | Original Link   | [https://news.ifeng.com/world/Europe/200707/0710_1395_151916.shtml](https://news.ifeng.com/world/Europe/200707/0710_1395_151916.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

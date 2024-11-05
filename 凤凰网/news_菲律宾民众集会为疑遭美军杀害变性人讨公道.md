@@ -14,3 +14,21 @@
 **标签**: [美军](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%BE%8E%E5%86%9B) [军演](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%86%9B%E6%BC%94) [海军陆战队](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F)
 
 凤凰新媒体版权所有 版权 © 2013 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_菲律宾民众集会为疑遭美军杀害变性人讨公道.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1399 bytes                           |
+> | MD5             | 324a6f55ce75cfb5693a53c5948009b0                                  |
+> | Original Link   | [https://news.ifeng.com/a/20141022/42269517_0.shtml](https://news.ifeng.com/a/20141022/42269517_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

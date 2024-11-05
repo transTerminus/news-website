@@ -51,3 +51,21 @@
 目前瑟吉娅还没有申请退休拿养老金，但这只是时间问题。
 
 责任编辑：李文婷 PX019
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_为了能提前五年退休男子变性成女人.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 4049 bytes                           |
+> | MD5             | 6cd180fdc13ce8c7d765840dab1f38a8                                  |
+> | Original Link   | [https://news.ifeng.com/a/20180327/57087620_0.shtml](https://news.ifeng.com/a/20180327/57087620_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

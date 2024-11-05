@@ -26,3 +26,21 @@
 现在，凯瑟琳白天在公司当秘书，晚上穿上女人衣服到夜总会走穴。凯瑟琳表示：“自从变性之后，我对性别认同的混乱便一去不复返。现在我最大的梦想是，有朝一日能够与另一个男人牵手共度余生。” 
 
 **编辑:** 印权斌
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国顶级美女名模变性后成男同性恋(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2937 bytes                           |
+> | MD5             | a7dae9bae1f93a0a4ca5c2e96107132c                                  |
+> | Original Link   | [https://news.ifeng.com/society/4/200801/0128_346_379808.shtml](https://news.ifeng.com/society/4/200801/0128_346_379808.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

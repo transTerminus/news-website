@@ -11,3 +11,21 @@
 ---
   
 版权信息：凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_北漂变性人的生活_资讯频道.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 657 bytes                           |
+> | MD5             | b675b5d309901e67f3798e702a60ee8e                                  |
+> | Original Link   | [https://news.ifeng.com/a/20161201/50348163_0.shtml](https://news.ifeng.com/a/20161201/50348163_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

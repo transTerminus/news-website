@@ -27,3 +27,21 @@
 法院一审认为，该案不存在侵犯原告名誉权和肖像权的行为。但医院侵犯了其隐私权。法院一审判决，医院酌情赔偿左某精神损失费1万元，并在相关杂志上公开道歉。
 
 (本文章版权归凤凰网所有，未经授权，不得转载)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_“华中第一变性美女”状告整形医院.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2668 bytes                           |
+> | MD5             | f605efbbbad8f6d28ab43e6207eead29                                  |
+> | Original Link   | [https://news.ifeng.com/c/7fZWKnSpbo9](https://news.ifeng.com/c/7fZWKnSpbo9)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

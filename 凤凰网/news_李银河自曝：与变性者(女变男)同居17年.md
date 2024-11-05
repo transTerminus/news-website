@@ -61,3 +61,21 @@
 ![凤凰资讯 Logo](http://img.ifeng.com/page/Logo.gif)  
 **责任编辑**：PN048  
 ![二维码](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_李银河自曝：与变性者(女变男)同居17年.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 7760 bytes                           |
+> | MD5             | 513dda9b940adf63b6e42279ff5d444d                                  |
+> | Original Link   | [https://news.ifeng.com/a/20141218/42748249_0.shtml](https://news.ifeng.com/a/20141218/42748249_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

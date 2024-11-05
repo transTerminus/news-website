@@ -75,3 +75,21 @@
 晓楠：“你特别不能排解的时候会去做什么呀？”
 
 梦琪：“我会上山上去坐着去，山上有那种亭子啊，台阶啊。我会上那儿去坐，可能一坐会坐一下午。在那儿坐着，一个人发呆在那儿看一看远处。可能经常会想能够重活一回多好。 十六岁的时候，梦琪考取了北京一所知名的艺术学院，学习声乐。暂时逃离了家乡。通过偷偷查看各种资料，梦琪知道了自己患有异性癖，属于性别身份识别障碍。但这仍然无法阻止她对自己身体的日益背叛。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性艺人自杀获救20年跋涉挣扎只为两个字(图).md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 8078 bytes                           |
+> | MD5             | f23aa04c58e8a61052ad75cd2f21f9ae                                  |
+> | Original Link   | [https://news.ifeng.com/society/3/200704/0426_345_109635.shtml](https://news.ifeng.com/society/3/200704/0426_345_109635.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

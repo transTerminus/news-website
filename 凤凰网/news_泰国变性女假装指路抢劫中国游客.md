@@ -12,3 +12,21 @@
 ---
 
 \[责任编辑：蒋磊磊 PN196\]
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_泰国变性女假装指路抢劫中国游客.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 569 bytes                           |
+> | MD5             | b96ad8c79776bf5077ce3a304bc76980                                  |
+> | Original Link   | [https://news.ifeng.com/c/7gALWr9J2H2](https://news.ifeng.com/c/7gALWr9J2H2)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

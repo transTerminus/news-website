@@ -11,3 +11,21 @@
 ![Stephanie（图右）向公众寻求捐款来实现她们梦想的婚礼。](http://y1.ifengimg.com/cmpp/2015/01/09/14/dd6ae64c-304d-48b3-afb4-3a49ceb7005a.jpg)
 
 Stephanie（图右）向公众寻求捐款来实现她们梦想的婚礼。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_英国两男子相恋双双变性后步入婚姻殿堂（组图）.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 798 bytes                           |
+> | MD5             | 7d9901eea76913e9823fa63b416ee53d                                  |
+> | Original Link   | [https://news.ifeng.com/a/20150109/42897806_2.shtml](https://news.ifeng.com/a/20150109/42897806_2.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

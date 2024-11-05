@@ -19,3 +19,21 @@
 [查看全部评论>>](//gentie.ifeng.com/c/comment/83BGhT6Ygsl)  
 
 ![](http://x0.ifengimg.com/feprod/c/2023_6_5/18_8_26/ad-logo.png)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_拜登提名美国政府首位变性人政客.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 992 bytes                           |
+> | MD5             | a7af633d6e2bc5ed2d7ca5a1aff8e66f                                  |
+> | Original Link   | [https://news.ifeng.com/c/83BGhT6Ygsl](https://news.ifeng.com/c/83BGhT6Ygsl)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

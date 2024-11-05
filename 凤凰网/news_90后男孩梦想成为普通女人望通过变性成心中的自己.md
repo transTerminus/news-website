@@ -64,3 +64,21 @@
 ---
 
 (本文章版权归凤凰网所有，未经授权，不得转载)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_90后男孩梦想成为普通女人望通过变性成心中的自己.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 6321 bytes                           |
+> | MD5             | 6e75600e315c7c16e1095a55d0c8044e                                  |
+> | Original Link   | [https://news.ifeng.com/c/7fcea96BSL9](https://news.ifeng.com/c/7fcea96BSL9)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

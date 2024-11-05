@@ -70,3 +70,21 @@
 **评论**：  
 [66人参与](//gentie.ifeng.com/c/comment/8KhEQULmHLZ) | [7评论](//gentie.ifeng.com/c/comment/8KhEQULmHLZ)   
 文明上网，不传谣言，登录评论！
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_质问得州州长竞选人是否会反对儿童变性手术.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 5689 bytes                           |
+> | MD5             | c6b305f78ed2c758cd82c0ad6da30b5b                                  |
+> | Original Link   | [https://news.ifeng.com/c/8KhEQULmHLZ](https://news.ifeng.com/c/8KhEQULmHLZ)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

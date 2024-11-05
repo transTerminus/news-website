@@ -50,3 +50,21 @@
 约10分钟后，小燕渐渐沉睡在手术台上。也许，她已经梦见自己手术后的样子了。
 
 **版权声明：** (本文章版权归凤凰网所有，未经授权，不得转载)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_变性人为变成真正女人第三次隆胸图.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 4617 bytes                           |
+> | MD5             | 94822831b9439184d700ed60e3d1f5ea                                  |
+> | Original Link   | [https://news.ifeng.com/c/7fYI85HChNK](https://news.ifeng.com/c/7fYI85HChNK)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

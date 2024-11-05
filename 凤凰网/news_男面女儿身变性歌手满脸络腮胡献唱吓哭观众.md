@@ -11,3 +11,21 @@
 ![相关图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
 用微信扫描二维码分享至好友和朋友圈
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_男面女儿身变性歌手满脸络腮胡献唱吓哭观众.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 809 bytes                           |
+> | MD5             | 42ec59d7737d5fd728ce22c98dca38b8                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140510/40235003_0.shtml](https://news.ifeng.com/a/20140510/40235003_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

@@ -36,3 +36,21 @@
 \[责任编辑：PN044\] 
 
 版权所有 © 2013 Phoenix New Media Limited All Rights Reserved.
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_美最富有女CEO承认原是男儿身变性后仍与妻子生活.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2749 bytes                           |
+> | MD5             | c468bd7518b1b6d8e8c8f5cfa4f5f124                                  |
+> | Original Link   | [https://news.ifeng.com/a/20140911/41932653_0.shtml](https://news.ifeng.com/a/20140911/41932653_0.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

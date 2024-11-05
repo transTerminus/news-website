@@ -12,3 +12,21 @@
 据《朝鲜日报》网站消息，首尔龙山警察局透露，张彩媛于10月3日下午11时许，被发现在首尔汉南洞自己的住宅中自尽身亡。警方分析死因后表明未发现他杀痕迹，暂定为自杀。警方在接受媒体采访时透露说：“张某的朋友发现尸体后向警方报了案。确切的死因还要进一步调查后才能知晓。”
 
 张彩媛曾在SBS综艺节目《真实游戏》中以男扮女装惊艳亮相，之后真正接受变性手术，再次出现在电视节目中，曾引起热门话题。目前，刚刚得知死亡消息的张彩媛的朋友们纷纷登录故人的迷你小窝，留下追悼怀念的文字。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_韩国变性艺人张彩媛自杀身亡(图)_资讯.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1093 bytes                           |
+> | MD5             | 9915e396ead1a3fd3bd9a68c5360abe9                                  |
+> | Original Link   | [https://news.ifeng.com/society/2/200810/1006_344_818594.shtml](https://news.ifeng.com/society/2/200810/1006_344_818594.shtml)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

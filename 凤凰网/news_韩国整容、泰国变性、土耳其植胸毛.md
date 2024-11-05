@@ -164,3 +164,21 @@ C罗转会之后，很多球迷认为他已经开始了自己的“养老”生�
 更重要的是，与其在失去头发之后才想到去花大价钱补救；倒不如现在就开始拒绝熬夜，健康生活，保护好自己的头发与健康。
 
 这比什么治疗都来得划算且重要。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_韩国整容、泰国变性、土耳其植胸毛.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 9101 bytes                           |
+> | MD5             | a149d7a919a49519acca3ec87b72d49a                                  |
+> | Original Link   | [https://news.ifeng.com/c/8R4ZPuPyADI](https://news.ifeng.com/c/8R4ZPuPyADI)                         |
+> | Creator         | [Unknown creator(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>
