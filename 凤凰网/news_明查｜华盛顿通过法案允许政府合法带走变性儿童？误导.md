@@ -72,12 +72,10 @@
 > | Filename        | news_明查｜华盛顿通过法案允许政府合法带走变性儿童？误导.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 5374 bytes                           |
-> | MD5             | 844b48ee75efe25775a915fcc376d0de                                  |
-> | Original Link   | [https://news.ifeng.com/c/8PHywPbxSAQ](https://news.ifeng.com/c/8PHywPbxSAQ)                         |
+> | Original Link   | [https://news.ifeng.com/c/8PHywPbxSAQ](https://news.ifeng.com/c/8PHywPbxSAQ)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:16:14                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

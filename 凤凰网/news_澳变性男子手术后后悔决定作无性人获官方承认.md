@@ -25,12 +25,10 @@
 > | Filename        | news_澳变性男子手术后后悔决定作无性人获官方承认.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 901 bytes                           |
-> | MD5             | 344b0ba52d890cb6fd530010d56d78cd                                  |
-> | Original Link   | [https://news.ifeng.com/world/201003/0316_16_1577161.shtml](https://news.ifeng.com/world/201003/0316_16_1577161.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/world/201003/0316_16_1577161.shtml](https://news.ifeng.com/world/201003/0316_16_1577161.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:36:17                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

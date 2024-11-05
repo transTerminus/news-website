@@ -37,12 +37,10 @@
 > | Filename        | news_美政府扩充“奥巴马医保”法规禁止歧视变性人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2038 bytes                           |
-> | MD5             | 8e4ea3e67c9be7ae8e79d05aea75b338                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150906/44591240_0.shtml](https://news.ifeng.com/a/20150906/44591240_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150906/44591240_0.shtml](https://news.ifeng.com/a/20150906/44591240_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:35:15                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

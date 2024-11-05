@@ -73,12 +73,10 @@
 > | Filename        | news_孩子想变性家长怎么办？养父母生长发育.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 9104 bytes                           |
-> | MD5             | 4f5ece8965de800028fb6a02a72874a9                                  |
-> | Original Link   | [https://news.ifeng.com/a/20141221/42763329_0.shtml](https://news.ifeng.com/a/20141221/42763329_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20141221/42763329_0.shtml](https://news.ifeng.com/a/20141221/42763329_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:17:34                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

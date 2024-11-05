@@ -43,12 +43,10 @@
 > | Filename        | news_变性女艺人全球征友称以金星为榜样(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 3064 bytes                           |
-> | MD5             | 106948bfee40ec836150ec4d82cfb7b1                                  |
-> | Original Link   | [https://news.ifeng.com/society/2/200704/0416_344_103724.shtml](https://news.ifeng.com/society/2/200704/0416_344_103724.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/2/200704/0416_344_103724.shtml](https://news.ifeng.com/society/2/200704/0416_344_103724.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:27:45                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

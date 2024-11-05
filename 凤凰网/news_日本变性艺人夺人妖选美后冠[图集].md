@@ -20,12 +20,10 @@
 > | Filename        | news_日本变性艺人夺人妖选美后冠[图集].md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 624 bytes                           |
-> | MD5             | 1e86f54cd603fb5324fcb86b869c9729                                  |
-> | Original Link   | [https://news.ifeng.com/photo/hot/200911/1102_5486_1415931.shtml](https://news.ifeng.com/photo/hot/200911/1102_5486_1415931.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/photo/hot/200911/1102_5486_1415931.shtml](https://news.ifeng.com/photo/hot/200911/1102_5486_1415931.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:25:11                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

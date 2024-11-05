@@ -33,12 +33,10 @@
 > | Filename        | news_一夜情后发现情人是“变性人”_俄医生将情人肢解.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1958 bytes                           |
-> | MD5             | 80cf3f26a21f00ed3cdbd181ace69df9                                  |
-> | Original Link   | [https://news.ifeng.com/c/7mNXWq7ALhY](https://news.ifeng.com/c/7mNXWq7ALhY)                         |
+> | Original Link   | [https://news.ifeng.com/c/7mNXWq7ALhY](https://news.ifeng.com/c/7mNXWq7ALhY)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:02:29                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

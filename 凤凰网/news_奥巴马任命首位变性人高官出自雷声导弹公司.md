@@ -37,12 +37,10 @@
 > | Filename        | news_奥巴马任命首位变性人高官出自雷声导弹公司.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1807 bytes                           |
-> | MD5             | 4bb5e753e981d411b766cbb905fa10fb                                  |
-> | Original Link   | [https://news.ifeng.com/mil/3/201001/0106_341_1499965.shtml](https://news.ifeng.com/mil/3/201001/0106_341_1499965.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/mil/3/201001/0106_341_1499965.shtml](https://news.ifeng.com/mil/3/201001/0106_341_1499965.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:23:45                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

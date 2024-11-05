@@ -23,12 +23,10 @@
 > | Filename        | news_美国变性夫妇育有两子（高清组图）.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1904 bytes                           |
-> | MD5             | 9204a10dc399cc94114666f958bd470d                                  |
-> | Original Link   | [https://news.ifeng.com/a/20140812/41537072_2.shtml](https://news.ifeng.com/a/20140812/41537072_2.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20140812/41537072_2.shtml](https://news.ifeng.com/a/20140812/41537072_2.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:00:29                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

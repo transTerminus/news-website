@@ -60,12 +60,10 @@
 > | Filename        | news_变性：并非只是隆胸去喉结_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 8356 bytes                           |
-> | MD5             | ebc5a2a76b77c7187200e89ef8a97277                                  |
-> | Original Link   | [https://news.ifeng.com/society/2/200708/0803_344_175604.shtml](https://news.ifeng.com/society/2/200708/0803_344_175604.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/2/200708/0803_344_175604.shtml](https://news.ifeng.com/society/2/200708/0803_344_175604.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:27:59                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

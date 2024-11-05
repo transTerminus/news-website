@@ -24,12 +24,10 @@
 > | Filename        | news_大胡子“美女歌神”变身照曝光变性前是奶油小生(高清组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1952 bytes                           |
-> | MD5             | 8c7f6b139ba196174ee16e976821158a                                  |
-> | Original Link   | [https://news.ifeng.com/a/20140512/40261436_7.shtml](https://news.ifeng.com/a/20140512/40261436_7.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20140512/40261436_7.shtml](https://news.ifeng.com/a/20140512/40261436_7.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 06:53:03                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

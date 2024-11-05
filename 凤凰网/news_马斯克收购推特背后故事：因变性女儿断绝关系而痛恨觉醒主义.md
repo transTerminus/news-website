@@ -103,12 +103,10 @@ Twitter的风格与马斯克截然不同。这家公司以自己是一个友好�
 > | Filename        | news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 12761 bytes                           |
-> | MD5             | 384b1c734b06be0a0bae01798b32d1b7                                  |
-> | Original Link   | [https://news.ifeng.com/c/8Sj00lPSmit](https://news.ifeng.com/c/8Sj00lPSmit)                         |
+> | Original Link   | [https://news.ifeng.com/c/8Sj00lPSmit](https://news.ifeng.com/c/8Sj00lPSmit)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:18:21                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

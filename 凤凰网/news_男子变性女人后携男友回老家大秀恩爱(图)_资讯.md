@@ -36,12 +36,10 @@
 > | Filename        | news_男子变性女人后携男友回老家大秀恩爱(图)_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2801 bytes                           |
-> | MD5             | fb822e59ec7ea8ef4316773dbf6c784d                                  |
-> | Original Link   | [https://news.ifeng.com/society/2/200804/0421_344_499789.shtml](https://news.ifeng.com/society/2/200804/0421_344_499789.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/2/200804/0421_344_499789.shtml](https://news.ifeng.com/society/2/200804/0421_344_499789.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:28:24                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -68,12 +68,10 @@
 > | Filename        | news_马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 7715 bytes                           |
-> | MD5             | 7c94aff16a9e57d12dc38b1f3c1f488c                                  |
-> | Original Link   | [https://news.ifeng.com/c/8QN3dad23rZ](https://news.ifeng.com/c/8QN3dad23rZ)                         |
+> | Original Link   | [https://news.ifeng.com/c/8QN3dad23rZ](https://news.ifeng.com/c/8QN3dad23rZ)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:17:02                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

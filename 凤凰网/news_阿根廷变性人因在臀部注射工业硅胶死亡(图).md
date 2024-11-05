@@ -23,12 +23,10 @@
 > | Filename        | news_阿根廷变性人因在臀部注射工业硅胶死亡(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1572 bytes                           |
-> | MD5             | fd83385a750770fbe03dee63db978089                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150507/43709776_0.shtml](https://news.ifeng.com/a/20150507/43709776_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150507/43709776_0.shtml](https://news.ifeng.com/a/20150507/43709776_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:32:15                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

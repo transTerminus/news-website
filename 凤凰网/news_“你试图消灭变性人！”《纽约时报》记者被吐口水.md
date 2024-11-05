@@ -59,12 +59,10 @@
 > | Filename        | news_“你试图消灭变性人！”《纽约时报》记者被吐口水.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 5084 bytes                           |
-> | MD5             | 2bcdab530f6106f492387aa45f9bd4c8                                  |
-> | Original Link   | [https://news.ifeng.com/c/8Nt68btRKBp](https://news.ifeng.com/c/8Nt68btRKBp)                         |
+> | Original Link   | [https://news.ifeng.com/c/8Nt68btRKBp](https://news.ifeng.com/c/8Nt68btRKBp)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:14:38                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

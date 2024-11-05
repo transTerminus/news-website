@@ -35,12 +35,10 @@
 > | Filename        | news_宋祖德扬言要变性做女人“手术要让章子怡主刀”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2639 bytes                           |
-> | MD5             | b47a9661f9ba0f677f021a1932e75252                                  |
-> | Original Link   | [https://news.ifeng.com/society/200610/1026_20_24178.shtml](https://news.ifeng.com/society/200610/1026_20_24178.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/200610/1026_20_24178.shtml](https://news.ifeng.com/society/200610/1026_20_24178.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:31:11                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

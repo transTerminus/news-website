@@ -38,12 +38,10 @@
 > | Filename        | news_英国变性第一人：妩媚妖娆曾被毕加索追求(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2451 bytes                           |
-> | MD5             | 156394b18a41466a95e94116a8dd9732                                  |
-> | Original Link   | [https://news.ifeng.com/world/200911/1125_16_1450142.shtml](https://news.ifeng.com/world/200911/1125_16_1450142.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/world/200911/1125_16_1450142.shtml](https://news.ifeng.com/world/200911/1125_16_1450142.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:35:28                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

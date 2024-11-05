@@ -46,12 +46,10 @@
 > | Filename        | news_奥巴马演讲频遭女变性人打断怒斥：你在我家(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 3714 bytes                           |
-> | MD5             | 77311fdc9405fb0690b17066f99aaeee                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150626/44044902_0.shtml](https://news.ifeng.com/a/20150626/44044902_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150626/44044902_0.shtml](https://news.ifeng.com/a/20150626/44044902_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:34:03                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

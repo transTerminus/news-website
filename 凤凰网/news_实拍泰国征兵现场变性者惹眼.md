@@ -14,12 +14,10 @@
 > | Filename        | news_实拍泰国征兵现场变性者惹眼.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 367 bytes                           |
-> | MD5             | 1253de38355574188a5373a7ad2feaa5                                  |
-> | Original Link   | [https://news.ifeng.com/c/7fZn5czEoHL](https://news.ifeng.com/c/7fZn5czEoHL)                         |
+> | Original Link   | [https://news.ifeng.com/c/7fZn5czEoHL](https://news.ifeng.com/c/7fZn5czEoHL)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:56:34                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

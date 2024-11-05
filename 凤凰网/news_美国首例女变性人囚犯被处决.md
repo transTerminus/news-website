@@ -89,12 +89,10 @@
 > | Filename        | news_美国首例女变性人囚犯被处决.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 5994 bytes                           |
-> | MD5             | 54030997971f2122f6d7dbfacb20d51d                                  |
-> | Original Link   | [https://news.ifeng.com/c/8MIpRa1mRMG](https://news.ifeng.com/c/8MIpRa1mRMG)                         |
+> | Original Link   | [https://news.ifeng.com/c/8MIpRa1mRMG](https://news.ifeng.com/c/8MIpRa1mRMG)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:13:45                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

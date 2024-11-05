@@ -122,12 +122,10 @@
 > | Filename        | news_月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院_.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 8750 bytes                           |
-> | MD5             | 33fcf17ad05bacee7d77f755ae076c2e                                  |
-> | Original Link   | [https://news.ifeng.com/c/8V71wISWoQW](https://news.ifeng.com/c/8V71wISWoQW)                         |
+> | Original Link   | [https://news.ifeng.com/c/8V71wISWoQW](https://news.ifeng.com/c/8V71wISWoQW)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:18:47                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

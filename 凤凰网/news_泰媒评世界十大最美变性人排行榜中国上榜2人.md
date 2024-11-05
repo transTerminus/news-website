@@ -53,12 +53,10 @@
 > | Filename        | news_泰媒评世界十大最美变性人排行榜中国上榜2人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1589 bytes                           |
-> | MD5             | 6aa9ee548d649ba29953a6f6e2def713                                  |
-> | Original Link   | [https://news.ifeng.com/a/20170504/51043777_0.shtml](https://news.ifeng.com/a/20170504/51043777_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20170504/51043777_0.shtml](https://news.ifeng.com/a/20170504/51043777_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:49:27                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

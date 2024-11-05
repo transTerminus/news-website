@@ -38,12 +38,10 @@
 > | Filename        | news_男子变性后参加CCTV模特大赛遭质疑(组图)_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2910 bytes                           |
-> | MD5             | 3039b8cb85835d689024bc90a4292138                                  |
-> | Original Link   | [https://news.ifeng.com/society/2/200809/0911_344_779109.shtml](https://news.ifeng.com/society/2/200809/0911_344_779109.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/2/200809/0911_344_779109.shtml](https://news.ifeng.com/society/2/200809/0911_344_779109.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:28:58                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

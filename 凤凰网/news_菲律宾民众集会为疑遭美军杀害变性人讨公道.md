@@ -22,12 +22,10 @@
 > | Filename        | news_菲律宾民众集会为疑遭美军杀害变性人讨公道.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1399 bytes                           |
-> | MD5             | 324a6f55ce75cfb5693a53c5948009b0                                  |
-> | Original Link   | [https://news.ifeng.com/a/20141022/42269517_0.shtml](https://news.ifeng.com/a/20141022/42269517_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20141022/42269517_0.shtml](https://news.ifeng.com/a/20141022/42269517_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:10:02                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

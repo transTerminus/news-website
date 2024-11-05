@@ -37,12 +37,10 @@
 > | Filename        | news_俄罗斯将禁止“变性合法国家”公民收养俄儿童.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2196 bytes                           |
-> | MD5             | f1d0ecd284821e54953ce9a88b752079                                  |
-> | Original Link   | [https://news.ifeng.com/c/8cvsmeb23iC](https://news.ifeng.com/c/8cvsmeb23iC)                         |
+> | Original Link   | [https://news.ifeng.com/c/8cvsmeb23iC](https://news.ifeng.com/c/8cvsmeb23iC)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:21:28                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

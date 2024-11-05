@@ -36,12 +36,10 @@
 > | Filename        | news_男子追梦20年终于变性“美人”返乡获接纳(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2682 bytes                           |
-> | MD5             | 171cb22724b52715a3fa9d77e26fd774                                  |
-> | Original Link   | [https://news.ifeng.com/society/2/200811/1120_344_888198.shtml](https://news.ifeng.com/society/2/200811/1120_344_888198.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/2/200811/1120_344_888198.shtml](https://news.ifeng.com/society/2/200811/1120_344_888198.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:29:33                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

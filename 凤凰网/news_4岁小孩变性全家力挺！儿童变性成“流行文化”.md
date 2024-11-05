@@ -191,12 +191,10 @@ Claire经历了心理医生、精神科医生、多种运动课程、考虑切�
 > | Filename        | news_4岁小孩变性全家力挺！儿童变性成“流行文化”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 14758 bytes                           |
-> | MD5             | beae0d9afe149daeab7267f48a4da9a0                                  |
-> | Original Link   | [https://news.ifeng.com/c/86Bz1JAPXmU](https://news.ifeng.com/c/86Bz1JAPXmU)                         |
+> | Original Link   | [https://news.ifeng.com/c/86Bz1JAPXmU](https://news.ifeng.com/c/86Bz1JAPXmU)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:10:42                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

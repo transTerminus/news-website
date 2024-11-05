@@ -39,12 +39,10 @@
 > | Filename        | news_德国少年16岁生日当天变性获女儿身_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1454 bytes                           |
-> | MD5             | 52ebe1f478adfe1e6bf9ab08f4925135                                  |
-> | Original Link   | [https://news.ifeng.com/society/2/200902/0206_344_997352.shtml](https://news.ifeng.com/society/2/200902/0206_344_997352.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/2/200902/0206_344_997352.shtml](https://news.ifeng.com/society/2/200902/0206_344_997352.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:29:55                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

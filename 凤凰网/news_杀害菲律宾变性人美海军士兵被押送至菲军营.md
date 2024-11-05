@@ -23,12 +23,10 @@
 > | Filename        | news_杀害菲律宾变性人美海军士兵被押送至菲军营.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1393 bytes                           |
-> | MD5             | 14cf819e6fa050f2f8a2483b2f81399c                                  |
-> | Original Link   | [https://news.ifeng.com/a/20141022/42269985_0.shtml](https://news.ifeng.com/a/20141022/42269985_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20141022/42269985_0.shtml](https://news.ifeng.com/a/20141022/42269985_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:10:43                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -74,12 +74,10 @@
 > | Filename        | news_刘婷母亲谈“儿子”变性：她28年过得太辛苦幸福就好.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 8907 bytes                           |
-> | MD5             | b2c8817e7c01fd8dd4a47cf3a0058707                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150409/43517172_0.shtml](https://news.ifeng.com/a/20150409/43517172_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150409/43517172_0.shtml](https://news.ifeng.com/a/20150409/43517172_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:31:05                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

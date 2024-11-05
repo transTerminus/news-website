@@ -16,12 +16,10 @@
 > | Filename        | news_爸爸变性成女人一家三口变“姐妹花”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 630 bytes                           |
-> | MD5             | 9b391ea25c6534fff7458c9796fb5d59                                  |
-> | Original Link   | [https://news.ifeng.com/c/7hfKbCkqGNk](https://news.ifeng.com/c/7hfKbCkqGNk)                         |
+> | Original Link   | [https://news.ifeng.com/c/7hfKbCkqGNk](https://news.ifeng.com/c/7hfKbCkqGNk)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:00:31                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

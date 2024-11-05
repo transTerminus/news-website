@@ -15,12 +15,10 @@
 > | Filename        | news_英国男子在泰国与变性人发生冲突被打倒_资讯频道.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 566 bytes                           |
-> | MD5             | a3eec1d07494945d92530f152c4f33c0                                  |
-> | Original Link   | [https://news.ifeng.com/a/20170222/50720079_0.shtml](https://news.ifeng.com/a/20170222/50720079_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20170222/50720079_0.shtml](https://news.ifeng.com/a/20170222/50720079_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:47:40                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

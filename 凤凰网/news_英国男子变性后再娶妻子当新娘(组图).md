@@ -34,12 +34,10 @@
 > | Filename        | news_英国男子变性后再娶妻子当新娘(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2857 bytes                           |
-> | MD5             | abf9edf45b815e5b758a19aa706df469                                  |
-> | Original Link   | [https://news.ifeng.com/c/7fYYTcr8AK1](https://news.ifeng.com/c/7fYYTcr8AK1)                         |
+> | Original Link   | [https://news.ifeng.com/c/7fYYTcr8AK1](https://news.ifeng.com/c/7fYYTcr8AK1)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:53:06                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

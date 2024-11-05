@@ -30,12 +30,10 @@
 > | Filename        | news_英国防部前职员变性当艺妓[组图].md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2259 bytes                           |
-> | MD5             | 4fbac8b6d31b1c08dc8b12e5cce74c69                                  |
-> | Original Link   | [https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml](https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml](https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:26:42                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

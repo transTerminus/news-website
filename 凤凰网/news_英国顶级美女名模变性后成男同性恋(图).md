@@ -34,12 +34,10 @@
 > | Filename        | news_英国顶级美女名模变性后成男同性恋(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2937 bytes                           |
-> | MD5             | a7dae9bae1f93a0a4ca5c2e96107132c                                  |
-> | Original Link   | [https://news.ifeng.com/society/4/200801/0128_346_379808.shtml](https://news.ifeng.com/society/4/200801/0128_346_379808.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/4/200801/0128_346_379808.shtml](https://news.ifeng.com/society/4/200801/0128_346_379808.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:32:04                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -225,12 +225,10 @@ H.C现在把刘海梳起来，露出光洁的额头，并且开始化妆，原�
 > | Filename        | inews_药娘群像：与身体斗争的这些年.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 26689 bytes                           |
-> | MD5             | db6977fc3e8b3029d3697b71dfcfd3cc                                  |
-> | Original Link   | [http://inews.ifeng.com/51900796/news.shtml](http://inews.ifeng.com/51900796/news.shtml)                         |
+> | Original Link   | [http://inews.ifeng.com/51900796/news.shtml](http://inews.ifeng.com/51900796/news.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 06:51:12                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

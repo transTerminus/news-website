@@ -20,12 +20,10 @@
 > | Filename        | news_韩国变性艺人张彩媛自杀身亡(图)_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1093 bytes                           |
-> | MD5             | 9915e396ead1a3fd3bd9a68c5360abe9                                  |
-> | Original Link   | [https://news.ifeng.com/society/2/200810/1006_344_818594.shtml](https://news.ifeng.com/society/2/200810/1006_344_818594.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/2/200810/1006_344_818594.shtml](https://news.ifeng.com/society/2/200810/1006_344_818594.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:29:09                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

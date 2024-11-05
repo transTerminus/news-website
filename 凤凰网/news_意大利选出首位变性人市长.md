@@ -13,12 +13,10 @@
 > | Filename        | news_意大利选出首位变性人市长.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 439 bytes                           |
-> | MD5             | d3eb6a1da2d60b51e6bf86eb8b2cc768                                  |
-> | Original Link   | [https://news.ifeng.com/c/7n50ehBU0yO](https://news.ifeng.com/c/7n50ehBU0yO)                         |
+> | Original Link   | [https://news.ifeng.com/c/7n50ehBU0yO](https://news.ifeng.com/c/7n50ehBU0yO)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:02:48                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

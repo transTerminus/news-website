@@ -26,12 +26,10 @@
 > | Filename        | news_变性后，他的画风成了这样….md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1692 bytes                           |
-> | MD5             | 3345e6a4b17baf555d26b07fc037ddaf                                  |
-> | Original Link   | [https://news.ifeng.com/c/7fa6Bg75zP6](https://news.ifeng.com/c/7fa6Bg75zP6)                         |
+> | Original Link   | [https://news.ifeng.com/c/7fa6Bg75zP6](https://news.ifeng.com/c/7fa6Bg75zP6)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:56:52                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

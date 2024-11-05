@@ -33,12 +33,10 @@
 > | Filename        | news_最美男模接受变性做女模(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1500 bytes                           |
-> | MD5             | a2742bb42a2978f531a75dff36ad12b0                                  |
-> | Original Link   | [https://news.ifeng.com/a/20140728/41334974_0.shtml](https://news.ifeng.com/a/20140728/41334974_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20140728/41334974_0.shtml](https://news.ifeng.com/a/20140728/41334974_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 06:57:17                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -40,12 +40,10 @@
 > | Filename        | news_变性美女陈莉莉：想要有个家，在家当贵夫人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 3289 bytes                           |
-> | MD5             | f32b260afc68064f75421f11e3358a40                                  |
-> | Original Link   | [https://news.ifeng.com/c/7fcJ447ZOGi](https://news.ifeng.com/c/7fcJ447ZOGi)                         |
+> | Original Link   | [https://news.ifeng.com/c/7fcJ447ZOGi](https://news.ifeng.com/c/7fcJ447ZOGi)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:58:29                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

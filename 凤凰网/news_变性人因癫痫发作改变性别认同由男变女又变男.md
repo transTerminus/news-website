@@ -59,12 +59,10 @@
 > | Filename        | news_变性人因癫痫发作改变性别认同由男变女又变男.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 3931 bytes                           |
-> | MD5             | 2541652e8191717dc467320bc81bd22a                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150402/43468013_0.shtml](https://news.ifeng.com/a/20150402/43468013_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150402/43468013_0.shtml](https://news.ifeng.com/a/20150402/43468013_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:27:56                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

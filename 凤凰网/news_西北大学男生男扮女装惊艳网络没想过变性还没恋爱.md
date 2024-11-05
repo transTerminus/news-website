@@ -23,12 +23,10 @@
 > | Filename        | news_西北大学男生男扮女装惊艳网络没想过变性还没恋爱.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1213 bytes                           |
-> | MD5             | ab51307a521f6662d63d947eefa9fb85                                  |
-> | Original Link   | [https://news.ifeng.com/a/20140728/41340155_2.shtml](https://news.ifeng.com/a/20140728/41340155_2.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20140728/41340155_2.shtml](https://news.ifeng.com/a/20140728/41340155_2.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 06:57:56                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

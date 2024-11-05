@@ -21,12 +21,10 @@ Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
 > | Filename        | news_英国27岁帅哥军官变性成美女.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1301 bytes                           |
-> | MD5             | 9056ae33c540c14a747d9bf45ce68210                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150122/42991052_5.shtml](https://news.ifeng.com/a/20150122/42991052_5.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150122/42991052_5.shtml](https://news.ifeng.com/a/20150122/42991052_5.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:21:56                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

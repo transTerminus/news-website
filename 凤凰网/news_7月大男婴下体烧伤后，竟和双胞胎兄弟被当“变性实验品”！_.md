@@ -143,12 +143,10 @@
 > | Filename        | news_7月大男婴下体烧伤后，竟和双胞胎兄弟被当“变性实验品”！_.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 12060 bytes                           |
-> | MD5             | 9c04852c5d3b5562d6a53dd71a40d11b                                  |
-> | Original Link   | [https://news.ifeng.com/c/8PbJmCEp7r3](https://news.ifeng.com/c/8PbJmCEp7r3)                         |
+> | Original Link   | [https://news.ifeng.com/c/8PbJmCEp7r3](https://news.ifeng.com/c/8PbJmCEp7r3)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:16:38                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

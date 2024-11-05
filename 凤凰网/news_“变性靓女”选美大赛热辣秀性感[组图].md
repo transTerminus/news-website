@@ -21,12 +21,10 @@
 > | Filename        | news_“变性靓女”选美大赛热辣秀性感[组图].md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 754 bytes                           |
-> | MD5             | 19e207b42d0137a63efa1a7338856a6d                                  |
-> | Original Link   | [https://news.ifeng.com/world/oddnews/200810/1008_2593_821612.shtml](https://news.ifeng.com/world/oddnews/200810/1008_2593_821612.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/world/oddnews/200810/1008_2593_821612.shtml](https://news.ifeng.com/world/oddnews/200810/1008_2593_821612.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:37:12                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

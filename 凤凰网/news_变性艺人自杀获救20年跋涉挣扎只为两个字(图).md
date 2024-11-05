@@ -83,12 +83,10 @@
 > | Filename        | news_变性艺人自杀获救20年跋涉挣扎只为两个字(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 8078 bytes                           |
-> | MD5             | f23aa04c58e8a61052ad75cd2f21f9ae                                  |
-> | Original Link   | [https://news.ifeng.com/society/3/200704/0426_345_109635.shtml](https://news.ifeng.com/society/3/200704/0426_345_109635.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/3/200704/0426_345_109635.shtml](https://news.ifeng.com/society/3/200704/0426_345_109635.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:31:51                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

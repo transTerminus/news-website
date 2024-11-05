@@ -63,12 +63,10 @@
 > | Filename        | news_美国前海豹突击队成员后悔变性：我被CNN利用了.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 6430 bytes                           |
-> | MD5             | 4c16f56e05b195790425f718564e7963                                  |
-> | Original Link   | [https://news.ifeng.com/c/8LgQyMKVCar](https://news.ifeng.com/c/8LgQyMKVCar)                         |
+> | Original Link   | [https://news.ifeng.com/c/8LgQyMKVCar](https://news.ifeng.com/c/8LgQyMKVCar)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:13:22                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

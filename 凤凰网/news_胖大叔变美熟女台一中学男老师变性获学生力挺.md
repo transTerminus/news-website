@@ -31,12 +31,10 @@
 > | Filename        | news_胖大叔变美熟女台一中学男老师变性获学生力挺.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2732 bytes                           |
-> | MD5             | 7bc8a9f96416a1c967cbb3795f8c6836                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150408/43506249_0.shtml](https://news.ifeng.com/a/20150408/43506249_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150408/43506249_0.shtml](https://news.ifeng.com/a/20150408/43506249_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:28:34                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

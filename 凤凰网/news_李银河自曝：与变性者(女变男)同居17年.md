@@ -69,12 +69,10 @@
 > | Filename        | news_李银河自曝：与变性者(女变男)同居17年.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 7760 bytes                           |
-> | MD5             | 513dda9b940adf63b6e42279ff5d444d                                  |
-> | Original Link   | [https://news.ifeng.com/a/20141218/42748249_0.shtml](https://news.ifeng.com/a/20141218/42748249_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20141218/42748249_0.shtml](https://news.ifeng.com/a/20141218/42748249_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:16:45                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

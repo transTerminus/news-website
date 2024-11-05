@@ -37,12 +37,10 @@
 > | Filename        | news_奥巴马下令学校允许变性学生根据认同性别如厕.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 3369 bytes                           |
-> | MD5             | b5e0792e9215f219bcdcd9906bc02f94                                  |
-> | Original Link   | [https://news.ifeng.com/a/20160514/48771431_0.shtml](https://news.ifeng.com/a/20160514/48771431_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20160514/48771431_0.shtml](https://news.ifeng.com/a/20160514/48771431_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:45:08                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

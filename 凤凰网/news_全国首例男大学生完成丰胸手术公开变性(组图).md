@@ -40,12 +40,10 @@
 > | Filename        | news_全国首例男大学生完成丰胸手术公开变性(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1707 bytes                           |
-> | MD5             | b2fd7a67e23730bdecd2cb946eb68c9d                                  |
-> | Original Link   | [https://news.ifeng.com/society/2/200702/0213_344_76196_1.shtml](https://news.ifeng.com/society/2/200702/0213_344_76196_1.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/2/200702/0213_344_76196_1.shtml](https://news.ifeng.com/society/2/200702/0213_344_76196_1.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:27:33                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

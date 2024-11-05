@@ -46,12 +46,10 @@
 > | Filename        | news_对“性别”的认识也需要一场科普刘霆.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 4985 bytes                           |
-> | MD5             | b99f4363d8c2f5087d2789cc38bd9b01                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150410/43520143_0.shtml](https://news.ifeng.com/a/20150410/43520143_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150410/43520143_0.shtml](https://news.ifeng.com/a/20150410/43520143_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:31:41                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -25,12 +25,10 @@
 > | Filename        | news_澳洲12岁女童获准变性法官称符合其最佳利益.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1542 bytes                           |
-> | MD5             | 325a472565302f3e262fbd02152ae349                                  |
-> | Original Link   | [https://news.ifeng.com/society/4/200805/0526_346_562820.shtml](https://news.ifeng.com/society/4/200805/0526_346_562820.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/society/4/200805/0526_346_562820.shtml](https://news.ifeng.com/society/4/200805/0526_346_562820.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:32:27                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

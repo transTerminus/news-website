@@ -37,12 +37,10 @@
 > | Filename        | news_美国侏儒与1.90米变性女子恋爱身高差达58厘米.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2348 bytes                           |
-> | MD5             | 1c9c2519b1dde5f426f9565cde0fff11                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:27:19                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

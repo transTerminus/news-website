@@ -28,12 +28,10 @@
 > | Filename        | news_印度伴侣暂停变性中途备孕，晒出孕照走红社交媒体.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1517 bytes                           |
-> | MD5             | 30bc281097d40cfd97a731452bf84f6f                                  |
-> | Original Link   | [https://news.ifeng.com/c/8NEEYWCh1Ii](https://news.ifeng.com/c/8NEEYWCh1Ii)                         |
+> | Original Link   | [https://news.ifeng.com/c/8NEEYWCh1Ii](https://news.ifeng.com/c/8NEEYWCh1Ii)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:14:14                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

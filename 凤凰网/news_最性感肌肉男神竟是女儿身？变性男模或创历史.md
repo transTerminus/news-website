@@ -19,12 +19,10 @@
 > | Filename        | news_最性感肌肉男神竟是女儿身？变性男模或创历史.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1173 bytes                           |
-> | MD5             | 47fb7ce9aee648fda71bb95c1d4ef22c                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150515/43764450_0.shtml](https://news.ifeng.com/a/20150515/43764450_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150515/43764450_0.shtml](https://news.ifeng.com/a/20150515/43764450_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:32:50                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

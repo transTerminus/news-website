@@ -37,12 +37,10 @@
 > | Filename        | news_美国监狱拒绝为杀妻囚犯提供变性治疗被诉.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 3664 bytes                           |
-> | MD5             | 8290cbcf17051b2d1f091fc316c9556e                                  |
-> | Original Link   | [https://news.ifeng.com/world/oddnews/200802/0228_2593_416881.shtml](https://news.ifeng.com/world/oddnews/200802/0228_2593_416881.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/world/oddnews/200802/0228_2593_416881.shtml](https://news.ifeng.com/world/oddnews/200802/0228_2593_416881.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:37:01                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

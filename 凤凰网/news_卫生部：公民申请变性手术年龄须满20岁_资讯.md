@@ -64,12 +64,10 @@
 > | Filename        | news_卫生部：公民申请变性手术年龄须满20岁_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 3299 bytes                           |
-> | MD5             | 3a3623d3ff38e0f6946ec28c1bf7336f                                  |
-> | Original Link   | [https://news.ifeng.com/mainland/200906/0616_17_1205327.shtml](https://news.ifeng.com/mainland/200906/0616_17_1205327.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/mainland/200906/0616_17_1205327.shtml](https://news.ifeng.com/mainland/200906/0616_17_1205327.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:23:08                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

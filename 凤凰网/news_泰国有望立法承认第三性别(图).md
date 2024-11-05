@@ -55,12 +55,10 @@
 > | Filename        | news_泰国有望立法承认第三性别(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 7509 bytes                           |
-> | MD5             | ddf3672c39711407ea9a8b045cdd3133                                  |
-> | Original Link   | [https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1)                         |
+> | Original Link   | [https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:22:33                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

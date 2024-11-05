@@ -45,12 +45,10 @@
 > | Filename        | news_变性女儿罕见发声抨击马斯克：他冷漠易怒，还自恋.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2783 bytes                           |
-> | MD5             | 14b39e84861bd8c6cd0794d3bbe901b3                                  |
-> | Original Link   | [https://news.ifeng.com/c/8bWcoWIQ3gt](https://news.ifeng.com/c/8bWcoWIQ3gt)                         |
+> | Original Link   | [https://news.ifeng.com/c/8bWcoWIQ3gt](https://news.ifeng.com/c/8bWcoWIQ3gt)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:20:11                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

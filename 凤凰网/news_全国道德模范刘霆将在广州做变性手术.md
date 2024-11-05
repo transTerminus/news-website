@@ -31,12 +31,10 @@
 > | Filename        | news_全国道德模范刘霆将在广州做变性手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 2850 bytes                           |
-> | MD5             | f97d147358575c997b28146b741e3f9f                                  |
-> | Original Link   | [https://news.ifeng.com/a/20140815/41593191_0.shtml](https://news.ifeng.com/a/20140815/41593191_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20140815/41593191_0.shtml](https://news.ifeng.com/a/20140815/41593191_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:02:47                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -35,12 +35,10 @@
 > | Filename        | news_泰国足坛网红要参加大选希望成首位变性人总理.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1831 bytes                           |
-> | MD5             | 21e767bc7c75fa4990150f4f0a1e31f2                                  |
-> | Original Link   | [https://news.ifeng.com/c/7kJaT8dbG0u](https://news.ifeng.com/c/7kJaT8dbG0u)                         |
+> | Original Link   | [https://news.ifeng.com/c/7kJaT8dbG0u](https://news.ifeng.com/c/7kJaT8dbG0u)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:01:38                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

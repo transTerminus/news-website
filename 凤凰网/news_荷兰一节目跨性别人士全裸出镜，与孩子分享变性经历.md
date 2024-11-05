@@ -17,12 +17,10 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > | Filename        | news_荷兰一节目跨性别人士全裸出镜，与孩子分享变性经历.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 811 bytes                           |
-> | MD5             | 5883fb7b871b7e15e1e81e4111d419b1                                  |
-> | Original Link   | [https://news.ifeng.com/c/8Oovd5SMnm8](https://news.ifeng.com/c/8Oovd5SMnm8)                         |
+> | Original Link   | [https://news.ifeng.com/c/8Oovd5SMnm8](https://news.ifeng.com/c/8Oovd5SMnm8)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 08:15:50                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -7,9 +7,7 @@
 > | Filename        | {filename}                             |
 > | Type            | {type}                                 |
 > | Format          | {format}                               |
-> | Size            | {size} bytes                           |
-> | MD5             | {md5}                                  |
-> | Original Link   | [{link}]({link})                         |
+> | Original Link   | [{link}]({link})                       |
 > | Creator         | {creator}                              |
 > | Date            | {date}                                 |
 > | Archived Date   | {archived}                             |

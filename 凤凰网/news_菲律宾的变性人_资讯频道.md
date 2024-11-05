@@ -54,12 +54,10 @@
 > | Filename        | news_菲律宾的变性人_资讯频道.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Size            | 1901 bytes                           |
-> | MD5             | d2e1f9fb584d895ecb169f793e5ba060                                  |
-> | Original Link   | [https://news.ifeng.com/a/20180531/58514725_0.shtml](https://news.ifeng.com/a/20180531/58514725_0.shtml)                         |
+> | Original Link   | [https://news.ifeng.com/a/20180531/58514725_0.shtml](https://news.ifeng.com/a/20180531/58514725_0.shtml)                       |
 > | Creator         | [Unknown creator(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Archived Date   | 2024-11-02 07:52:16                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
