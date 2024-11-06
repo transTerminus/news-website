@@ -51,3 +51,6 @@ python .github/scripts/toc/her_toc.py
 
 echo "Table of contents generated successfully!"
 
+# temporially workaround?
+python .github/scripts/file/add_config_from_page.py
+# why first time not successful?

@@ -1,1557 +1,1559 @@
 name: 凤凰网
-description: 此目录包含与跨性别相关的新闻报道，记录了个人生命故事、变性经历及其对家庭与社会的影响。内容既包括不同年龄段的变性案例，也涉及社会对于变性者的反应与同情，展示了跨性别者在生活和文化中的多元表现。
+description: 该目录收录了许多关于变性人与性别认同相关的报道，内容涵盖个人的生命故事、变性手术的经历、家庭与社会的反应等，旨在呈现跨性别群体在社会中的生存现状与挑战。
 curator: ''
 source: ''
 tags:
 - 生命故事
-- 变性手术
+- 医疗资源
 - 社会环境
-- 真实记录
-- 跨性别经历
-- 身体认同
-- 法律与政策
-- 文化表现
+- 性别认同
+- 变性手术
+- 个人经历
+- 社会媒体报道
+- 家庭支持
+- 法律政策
+- 跨性别文化
 license: ''
 files:
 - name: inews_药娘群像：与身体斗争的这些年
   filename: inews_药娘群像：与身体斗争的这些年.md
   type: webpage
   format: Markdown
-  size: 27632
-  md5: 37165a08f73c09f84302e087ee717264
+  size: 26689
+  md5: db6977fc3e8b3029d3697b71dfcfd3cc
   page: inews_药娘群像：与身体斗争的这些年.md
 - name: news_17岁少女欲做变性手术家长疑其有女友(图)
   filename: news_17岁少女欲做变性手术家长疑其有女友(图).md
   type: webpage
   format: Markdown
-  size: 3649
-  md5: d02af814e2d7ad23fe2407b7b6564c52
+  size: 2694
+  md5: a42c46b679545e98fde31ff88728221f
   page: news_17岁少女欲做变性手术家长疑其有女友(图).md
 - name: news_17岁少年不顾父母阻拦为同性恋人卖身变性_资讯
   filename: news_17岁少年不顾父母阻拦为同性恋人卖身变性_资讯.md
   type: webpage
   format: Markdown
-  size: 4046
-  md5: 252f9a06de8835cd22ec7ec3ba401c10
+  size: 3083
+  md5: 1024fdd78f487f46839303b5a66419cf
   page: news_17岁少年不顾父母阻拦为同性恋人卖身变性_资讯.md
 - name: news_21岁小伙做变性手术成女人(图)
   filename: news_21岁小伙做变性手术成女人(图).md
   type: webpage
   format: Markdown
-  size: 2542
-  md5: df64ecaedcfd6028e17ebf8303e6b8c9
+  size: 1602
+  md5: 42e741a45c7da595771c2621084759ea
   page: news_21岁小伙做变性手术成女人(图).md
 - name: news_26岁男硕士欲变性成为女人曾用剪刀自剪生殖器
   filename: news_26岁男硕士欲变性成为女人曾用剪刀自剪生殖器.md
   type: webpage
   format: Markdown
-  size: 2700
-  md5: 3ab06fdc935b37d91b5acd2fe192173d
+  size: 1738
+  md5: 9d9d147222a842aafbf336085d83a97b
   page: news_26岁男硕士欲变性成为女人曾用剪刀自剪生殖器.md
 - name: news_28岁男子为变性挥刀自宫母亲曾要断绝关系
   filename: news_28岁男子为变性挥刀自宫母亲曾要断绝关系.md
   type: webpage
   format: Markdown
-  size: 8805
-  md5: 8f1fee2c8f689f209a6a2fcae2efa849
+  size: 7849
+  md5: b0a3af80916d5f4b861b34ad363bac30
   page: news_28岁男子为变性挥刀自宫母亲曾要断绝关系.md
 - name: news_36岁男子要“变性”当女人称19年不当自己男人
   filename: news_36岁男子要“变性”当女人称19年不当自己男人.md
   type: webpage
   format: Markdown
-  size: 3532
-  md5: 286545a329aa04722c307d84006229fd
+  size: 2571
+  md5: 28b0563a7953bb2260aedef9734d977a
   page: news_36岁男子要“变性”当女人称19年不当自己男人.md
 - name: news_38岁男子为变性在医院门口自残(图)
   filename: news_38岁男子为变性在医院门口自残(图).md
   type: webpage
   format: Markdown
-  size: 6883
-  md5: 60077bc535c60c9805b48d83fa93f4d2
+  size: 5937
+  md5: ab3a56b2ac3eb55553c9aff68a6dfbe3
   page: news_38岁男子为变性在医院门口自残(图).md
 - name: news_42岁“最美变性人”河莉秀与丈夫离婚_资讯频道
   filename: news_42岁“最美变性人”河莉秀与丈夫离婚_资讯频道.md
   type: webpage
   format: Markdown
-  size: 1719
-  md5: fdd2d6d7afd6d3ed396d53592a0f2f49
+  size: 756
+  md5: 105ab6406f30a0772eba60930a143665
   page: news_42岁“最美变性人”河莉秀与丈夫离婚_资讯频道.md
 - name: news_4岁小孩变性全家力挺！儿童变性成“流行文化”
   filename: news_4岁小孩变性全家力挺！儿童变性成“流行文化”.md
   type: webpage
   format: Markdown
-  size: 15722
-  md5: 78b71d40d07130727ceb0651547dc24c
+  size: 14758
+  md5: beae0d9afe149daeab7267f48a4da9a0
   page: news_4岁小孩变性全家力挺！儿童变性成“流行文化”.md
 - name: news_50多岁男子变性手术后成“不男不女”
   filename: news_50多岁男子变性手术后成“不男不女”.md
   type: webpage
   format: Markdown
-  size: 4654
-  md5: cfe124af4eaf89129d761f3c02c9498e
+  size: 3704
+  md5: 2552dba1d1ea541ffeba046029b128aa
   page: news_50多岁男子变性手术后成“不男不女”.md
 - name: news_7月大男婴下体烧伤后，竟和双胞胎兄弟被当“变性实验品”！_
   filename: news_7月大男婴下体烧伤后，竟和双胞胎兄弟被当“变性实验品”！_.md
   type: webpage
   format: Markdown
-  size: 13043
-  md5: 34025331f536a0c9cd5413d8b2685c67
+  size: 12060
+  md5: 9c04852c5d3b5562d6a53dd71a40d11b
   page: news_7月大男婴下体烧伤后，竟和双胞胎兄弟被当“变性实验品”！_.md
 - name: news_90后男孩梦想成为普通女人望通过变性成心中的自己
   filename: news_90后男孩梦想成为普通女人望通过变性成心中的自己.md
   type: webpage
   format: Markdown
-  size: 7289
-  md5: acef7ddc6fa471dadc0da4c8a15a00d1
+  size: 6321
+  md5: 6e75600e315c7c16e1095a55d0c8044e
   page: news_90后男孩梦想成为普通女人望通过变性成心中的自己.md
 - name: news_Ayutthaya_“泰国变性人更愿意将自己定义为女性”
   filename: news_Ayutthaya_“泰国变性人更愿意将自己定义为女性”.md
   type: webpage
   format: Markdown
-  size: 3802
-  md5: d48ac9f79a1ab70475c85ca2bfc0a1a5
+  size: 2838
+  md5: 7f002c03e123ed033d54b910b46184b6
   page: news_Ayutthaya_“泰国变性人更愿意将自己定义为女性”.md
 - name: news_“你试图消灭变性人！”《纽约时报》记者被吐口水
   filename: news_“你试图消灭变性人！”《纽约时报》记者被吐口水.md
   type: webpage
   format: Markdown
-  size: 6053
-  md5: fec3705f2e79f4acfb906eb835071952
+  size: 5084
+  md5: 2bcdab530f6106f492387aa45f9bd4c8
   page: news_“你试图消灭变性人！”《纽约时报》记者被吐口水.md
 - name: news_“华东第一变性美女”找工作碰壁成为三陪女
   filename: news_“华东第一变性美女”找工作碰壁成为三陪女.md
   type: webpage
   format: Markdown
-  size: 7304
-  md5: 6375e598fa9599f7355f68910f90eac0
+  size: 6344
+  md5: bde4f91105e5a59818721574d45f07fe
   page: news_“华东第一变性美女”找工作碰壁成为三陪女.md
 - name: news_“华中第一变性美女”状告整形医院
   filename: news_“华中第一变性美女”状告整形医院.md
   type: webpage
   format: Markdown
-  size: 3616
-  md5: f181fabdcb68cfded17bbdcaa119dc95
+  size: 2668
+  md5: f605efbbbad8f6d28ab43e6207eead29
   page: news_“华中第一变性美女”状告整形医院.md
 - name: news_“变性靓女”选美大赛热辣秀性感[组图]
   filename: news_“变性靓女”选美大赛热辣秀性感[组图].md
   type: webpage
   format: Markdown
-  size: 1707
-  md5: c04587462be4d7802393fb03021c6443
+  size: 754
+  md5: 19e207b42d0137a63efa1a7338856a6d
   page: news_“变性靓女”选美大赛热辣秀性感[组图].md
 - name: news_“江西第一变性人”将发写真梦想今后走T台
   filename: news_“江西第一变性人”将发写真梦想今后走T台.md
   type: webpage
   format: Markdown
-  size: 3238
-  md5: 06f90aca0b2f3933be0d687733216afd
+  size: 2280
+  md5: 03f4b700245e004fe16d7680b0643720
   page: news_“江西第一变性人”将发写真梦想今后走T台.md
 - name: news_“联合国小姐”出炉“变性人”刘婷获奖
   filename: news_“联合国小姐”出炉“变性人”刘婷获奖.md
   type: webpage
   format: Markdown
-  size: 3189
-  md5: 9a4b78df8b1666bfb2b308bf2d54fb23
+  size: 2235
+  md5: 1ec03f2962d08b522b793a455ce864e3
   page: news_“联合国小姐”出炉“变性人”刘婷获奖.md
 - name: news_“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？
   filename: news_“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？.md
   type: webpage
   format: Markdown
-  size: 15399
-  md5: 2ea45667853ce7ecd2aa2f3ef5f853b5
+  size: 14412
+  md5: c2d6b101ae29a6b0716fdb1ba5ec4f28
   page: news_“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？.md
 - name: news_“道德模范”刘婷变性后参加选美
   filename: news_“道德模范”刘婷变性后参加选美.md
   type: webpage
   format: Markdown
-  size: 11451
-  md5: c916e40c76f7229f8b1b04a35cc3edf6
+  size: 10506
+  md5: 50c8f5a2b6cc45e6dfa27668c541d32e
   page: news_“道德模范”刘婷变性后参加选美.md
 - name: news_一夜情后发现情人是“变性人”_俄医生将情人肢解
   filename: news_一夜情后发现情人是“变性人”_俄医生将情人肢解.md
   type: webpage
   format: Markdown
-  size: 2925
-  md5: 9154b377bca68d032fea7c87b4e48d1c
+  size: 1958
+  md5: 80cf3f26a21f00ed3cdbd181ace69df9
   page: news_一夜情后发现情人是“变性人”_俄医生将情人肢解.md
 - name: news_上海52岁男子做变性手术成女人盼按女性身份退休
   filename: news_上海52岁男子做变性手术成女人盼按女性身份退休.md
   type: webpage
   format: Markdown
-  size: 8245
-  md5: 8cab8d09830296c951e3e7265d9e1fad
+  size: 7280
+  md5: 3a496aade1e975293e095002da9d5fef
   page: news_上海52岁男子做变性手术成女人盼按女性身份退休.md
 - name: news_专为青少年变性人拍写真悉尼摄影师举办摄影展
   filename: news_专为青少年变性人拍写真悉尼摄影师举办摄影展.md
   type: webpage
   format: Markdown
-  size: 4002
-  md5: 6a75683ca0f9741f25ed87a93640f73e
+  size: 3039
+  md5: 63f8b54dcef32d3ff4e58e507cf0e406
   page: news_专为青少年变性人拍写真悉尼摄影师举办摄影展.md
 - name: news_两兄弟互相隐瞒“女儿心”不约而同变性成姐妹(图)
   filename: news_两兄弟互相隐瞒“女儿心”不约而同变性成姐妹(图).md
   type: webpage
   format: Markdown
-  size: 2130
-  md5: 40f5bd3a38acacbcf21b33f851ea6e0b
+  size: 1162
+  md5: e07deb46cd7dafccad64297622ed9173
   page: news_两兄弟互相隐瞒“女儿心”不约而同变性成姐妹(图).md
 - name: news_两男子街头穿女装举牌要求变性[组图]_资讯
   filename: news_两男子街头穿女装举牌要求变性[组图]_资讯.md
   type: webpage
   format: Markdown
-  size: 3159
-  md5: fe50c4f44322c54b12b43b4f36814ed4
+  size: 2202
+  md5: 82f012fbc310adbd63a20c774664d29b
   page: news_两男子街头穿女装举牌要求变性[组图]_资讯.md
 - name: news_中国刑法学“被变性”引争议司法部展开调查
   filename: news_中国刑法学“被变性”引争议司法部展开调查.md
   type: webpage
   format: Markdown
-  size: 6610
-  md5: 848a03be098319b3bc5b6e94549301cf
+  size: 5650
+  md5: a965022b8094311c3bf2f5f570c42d5b
   page: news_中国刑法学“被变性”引争议司法部展开调查.md
 - name: news_中国首位变性艺人不堪歧视割腕自杀图
   filename: news_中国首位变性艺人不堪歧视割腕自杀图.md
   type: webpage
   format: Markdown
-  size: 3734
-  md5: 81ab0eb3c0944d0cf5935673b8ecbf20
+  size: 2783
+  md5: af672b7fede3388a58a13d5d6f26d699
   page: news_中国首位变性艺人不堪歧视割腕自杀图.md
 - name: news_为了能提前五年退休男子变性成女人
   filename: news_为了能提前五年退休男子变性成女人.md
   type: webpage
   format: Markdown
-  size: 4997
-  md5: 9a9c55c95f4b78c6ff09469fc64b1f62
+  size: 4049
+  md5: 6cd180fdc13ce8c7d765840dab1f38a8
   page: news_为了能提前五年退休男子变性成女人.md
 - name: news_为筹钱变性原台军士兵男扮女装下海陪酒
   filename: news_为筹钱变性原台军士兵男扮女装下海陪酒.md
   type: webpage
   format: Markdown
-  size: 1975
-  md5: 12c47866c601b99483d98ca22d74d7a7
+  size: 1021
+  md5: 4cfdd8edf89c22dc80316f08a23dacf9
   page: news_为筹钱变性原台军士兵男扮女装下海陪酒.md
 - name: news_亚美尼亚首位变性人为少数群体发声保守派：烧死她
   filename: news_亚美尼亚首位变性人为少数群体发声保守派：烧死她.md
   type: webpage
   format: Markdown
-  size: 2100
-  md5: 894353de363f4d21d97d25288e57c9db
+  size: 1131
+  md5: abdb9d9049c4bf97e92c6fd16608e940
   page: news_亚美尼亚首位变性人为少数群体发声保守派：烧死她.md
 - name: news_俄男子枪杀女友因“她”是变性人(组图)
   filename: news_俄男子枪杀女友因“她”是变性人(组图).md
   type: webpage
   format: Markdown
-  size: 2737
-  md5: 7104fc42b42ccaf00cb89b10c65deafa
+  size: 1784
+  md5: 24175f14da2b3628082e84ec2cf9021f
   page: news_俄男子枪杀女友因“她”是变性人(组图).md
 - name: news_俄罗斯将禁止“变性合法国家”公民收养俄儿童
   filename: news_俄罗斯将禁止“变性合法国家”公民收养俄儿童.md
   type: webpage
   format: Markdown
-  size: 3159
-  md5: 782b394440abd23442be558cee694c43
+  size: 2196
+  md5: f1d0ecd284821e54953ce9a88b752079
   page: news_俄罗斯将禁止“变性合法国家”公民收养俄儿童.md
 - name: news_俄罗斯规定变性人和跨性人不得领驾照称为了减少车祸
   filename: news_俄罗斯规定变性人和跨性人不得领驾照称为了减少车祸.md
   type: webpage
   format: Markdown
-  size: 2709
-  md5: 59cab0075288646e7fb9a70cfb81cda6
+  size: 1737
+  md5: f88df825ccac2f9aa2c22319ce26a693
   page: news_俄罗斯规定变性人和跨性人不得领驾照称为了减少车祸.md
 - name: news_全国道德模范刘霆将在广州做变性手术
   filename: news_全国道德模范刘霆将在广州做变性手术.md
   type: webpage
   format: Markdown
-  size: 3801
-  md5: e955045f432b7c7bcb3db5ac5aefdd45
+  size: 2850
+  md5: f97d147358575c997b28146b741e3f9f
   page: news_全国道德模范刘霆将在广州做变性手术.md
 - name: news_全国首例男大学生完成丰胸手术公开变性(组图)
   filename: news_全国首例男大学生完成丰胸手术公开变性(组图).md
   type: webpage
   format: Markdown
-  size: 2669
-  md5: 569217434c1e447db9ff6755843b0fc7
+  size: 1707
+  md5: b2fd7a67e23730bdecd2cb946eb68c9d
   page: news_全国首例男大学生完成丰胸手术公开变性(组图).md
 - name: news_刘婷母亲谈“儿子”变性：她28年过得太辛苦幸福就好
   filename: news_刘婷母亲谈“儿子”变性：她28年过得太辛苦幸福就好.md
   type: webpage
   format: Markdown
-  size: 9878
-  md5: 5eb8ed1a2077bf27d54f0462ea5e9f49
+  size: 8907
+  md5: b2c8817e7c01fd8dd4a47cf3a0058707
   page: news_刘婷母亲谈“儿子”变性：她28年过得太辛苦幸福就好.md
 - name: news_加拿大变性人众筹22万整形为更女人_资讯频道
   filename: news_加拿大变性人众筹22万整形为更女人_资讯频道.md
   type: webpage
   format: Markdown
-  size: 1918
-  md5: 813e1fa93b1ec74632ae72f2b383a704
+  size: 958
+  md5: 46d20e87bd9d1a3dc27285629765e7e4
   page: news_加拿大变性人众筹22万整形为更女人_资讯频道.md
 - name: news_北漂变性人的生活_资讯频道
   filename: news_北漂变性人的生活_资讯频道.md
   type: webpage
   format: Markdown
-  size: 1594
-  md5: c7a6f8451cb1bfed4f367a1f8bacb1ae
+  size: 657
+  md5: b675b5d309901e67f3798e702a60ee8e
   page: news_北漂变性人的生活_资讯频道.md
 - name: news_卫生部实施变性手术者须未婚且年满20
   filename: news_卫生部实施变性手术者须未婚且年满20.md
   type: webpage
   format: Markdown
-  size: 2810
-  md5: b17f7c7247a40578d26fc9cee0e5b3fb
+  size: 1860
+  md5: 6cdb6226e0bcb2425313df26f0f4e159
   page: news_卫生部实施变性手术者须未婚且年满20.md
 - name: news_卫生部：公民申请变性手术年龄须满20岁_资讯
   filename: news_卫生部：公民申请变性手术年龄须满20岁_资讯.md
   type: webpage
   format: Markdown
-  size: 4259
-  md5: c717f65f29c362dc90070e903753820c
+  size: 3299
+  md5: 3a3623d3ff38e0f6946ec28c1bf7336f
   page: news_卫生部：公民申请变性手术年龄须满20岁_资讯.md
 - name: news_卫生部：变性手术前患者须提交无在案犯罪证明
   filename: news_卫生部：变性手术前患者须提交无在案犯罪证明.md
   type: webpage
   format: Markdown
-  size: 4576
-  md5: 14effffc63b35e49701320c9a973aca0
+  size: 3613
+  md5: 5845396f11a63e92b121c3f86fb82d8e
   page: news_卫生部：变性手术前患者须提交无在案犯罪证明.md
 - name: news_印度伴侣暂停变性中途备孕，晒出孕照走红社交媒体
   filename: news_印度伴侣暂停变性中途备孕，晒出孕照走红社交媒体.md
   type: webpage
   format: Markdown
-  size: 2486
-  md5: 024915caee6e404771fa1fd631487710
+  size: 1517
+  md5: 30bc281097d40cfd97a731452bf84f6f
   page: news_印度伴侣暂停变性中途备孕，晒出孕照走红社交媒体.md
 - name: news_印度变性人选美大赛参赛者拼才艺比美貌[高清大图]
   filename: news_印度变性人选美大赛参赛者拼才艺比美貌[高清大图].md
   type: webpage
   format: Markdown
-  size: 1900
-  md5: 13341bfdc9f592b16ae599da205241d2
+  size: 932
+  md5: 44b0639a6f08d75264dc14bb636fbba3
   page: news_印度变性人选美大赛参赛者拼才艺比美貌[高清大图].md
 - name: news_印度选出首位变性人市长曾靠火车上跳舞卖唱为生
   filename: news_印度选出首位变性人市长曾靠火车上跳舞卖唱为生.md
   type: webpage
   format: Markdown
-  size: 4358
-  md5: e610ae2fcd2d516d322a5c74c14d4622
+  size: 3392
+  md5: 03562149221aaba9f762269318e93db1
   page: news_印度选出首位变性人市长曾靠火车上跳舞卖唱为生.md
 - name: news_双性人做变性手术失败医院门口跪地哀求(图)
   filename: news_双性人做变性手术失败医院门口跪地哀求(图).md
   type: webpage
   format: Markdown
-  size: 5801
-  md5: 9d12d53e62493fd80750a3a3ba8a831e
+  size: 4842
+  md5: 1f8079779744b1287f69d0ddb335c4ee
   page: news_双性人做变性手术失败医院门口跪地哀求(图).md
 - name: news_变性“外围女”：没单位愿意要我们这种人
   filename: news_变性“外围女”：没单位愿意要我们这种人.md
   type: webpage
   format: Markdown
-  size: 14098
-  md5: 782dd9b6c835bd5a81e392f2aa927075
+  size: 13141
+  md5: 65775215f277b50c189645e2c2526dec
   page: news_变性“外围女”：没单位愿意要我们这种人.md
 - name: news_变性人“曼音”深圳圆梦“脱”去男儿身成真女人
   filename: news_变性人“曼音”深圳圆梦“脱”去男儿身成真女人.md
   type: webpage
   format: Markdown
-  size: 3851
-  md5: 704904cbcef70daed782071b1747fe65
+  size: 2885
+  md5: 8833031ce265988b1dca5248cef44428
   page: news_变性人“曼音”深圳圆梦“脱”去男儿身成真女人.md
 - name: news_变性人为何要改变自己的性别原来与其核团特征有关!
   filename: news_变性人为何要改变自己的性别原来与其核团特征有关!.md
   type: webpage
   format: Markdown
-  size: 3736
-  md5: 203d2f51bbec9ae3f15afdac8aeed980
+  size: 2766
+  md5: f4b68d04b9a7802fb6759d64ca7d91ab
   page: news_变性人为何要改变自己的性别原来与其核团特征有关!.md
 - name: news_变性人为变成真正女人第三次隆胸图
   filename: news_变性人为变成真正女人第三次隆胸图.md
   type: webpage
   format: Markdown
-  size: 5565
-  md5: 7a39e97d09250da543525304cf52c166
+  size: 4617
+  md5: 94822831b9439184d700ed60e3d1f5ea
   page: news_变性人为变成真正女人第三次隆胸图.md
 - name: news_变性人刘婷广州选美
   filename: news_变性人刘婷广州选美.md
   type: webpage
   format: Markdown
-  size: 2989
-  md5: 9d5d4bc9c7ed07494d4ce2de7e20cc41
+  size: 2062
+  md5: 935e53ff9dd67b263dbef314986c4c1c
   page: news_变性人刘婷广州选美.md
 - name: news_变性人因癫痫发作改变性别认同由男变女又变男
   filename: news_变性人因癫痫发作改变性别认同由男变女又变男.md
   type: webpage
   format: Markdown
-  size: 4894
-  md5: 43d0d8f4b01fe9399bdb217435bf51fe
+  size: 3931
+  md5: 2541652e8191717dc467320bc81bd22a
   page: news_变性人因癫痫发作改变性别认同由男变女又变男.md
 - name: news_变性人在菲律宾首都展身姿[组图]
   filename: news_变性人在菲律宾首都展身姿[组图].md
   type: webpage
   format: Markdown
-  size: 1822
-  md5: 72514d2dbbaab0386642d05faa995045
+  size: 878
+  md5: bb08205c813d5a58bd6e9cca57d80675
   page: news_变性人在菲律宾首都展身姿[组图].md
 - name: news_变性人婚姻存争议立法会否决修例草案
   filename: news_变性人婚姻存争议立法会否决修例草案.md
   type: webpage
   format: Markdown
-  size: 7769
-  md5: aaaa7ecac3eddc4cbd261523ed68d289
+  size: 6818
+  md5: 060269dd08154d2f91d5108267e19654
   page: news_变性人婚姻存争议立法会否决修例草案.md
 - name: news_变性人法律地位渐趋明确阴阳人社会角色仍尴尬
   filename: news_变性人法律地位渐趋明确阴阳人社会角色仍尴尬.md
   type: webpage
   format: Markdown
-  size: 6807
-  md5: eb33c1e589fddca0ecdfcc6323524f98
+  size: 5844
+  md5: ac84ce10f452ce065ec3e941073f1b58
   page: news_变性人法律地位渐趋明确阴阳人社会角色仍尴尬.md
 - name: news_变性人被抓看守所犯难
   filename: news_变性人被抓看守所犯难.md
   type: webpage
   format: Markdown
-  size: 2102
-  md5: 70678ba505e56cf38e78964e87c5d36d
+  size: 1172
+  md5: 0fc993d0019912f98243c4240263c71c
   page: news_变性人被抓看守所犯难.md
 - name: news_变性后，他的画风成了这样…
   filename: news_变性后，他的画风成了这样….md
   type: webpage
   format: Markdown
-  size: 2631
-  md5: 36113e5df5fadce2c888bbb54450c852
+  size: 1692
+  md5: 3345e6a4b17baf555d26b07fc037ddaf
   page: news_变性后，他的画风成了这样….md
 - name: news_变性女儿罕见发声抨击马斯克：他冷漠易怒，还自恋
   filename: news_变性女儿罕见发声抨击马斯克：他冷漠易怒，还自恋.md
   type: webpage
   format: Markdown
-  size: 3752
-  md5: 413a320686b48f0b7a77a2b4485e7a86
+  size: 2783
+  md5: 14b39e84861bd8c6cd0794d3bbe901b3
   page: news_变性女儿罕见发声抨击马斯克：他冷漠易怒，还自恋.md
 - name: news_变性女寒冰冰：手术刀不能解决所有问题
   filename: news_变性女寒冰冰：手术刀不能解决所有问题.md
   type: webpage
   format: Markdown
-  size: 7416
-  md5: bae9310914d5ea0ab5a5185d9af21eaf
+  size: 6462
+  md5: 3f9ab915cc39db7d1f3dec36528e8ac2
   page: news_变性女寒冰冰：手术刀不能解决所有问题.md
 - name: news_变性女艺人全球征友称以金星为榜样(组图)
   filename: news_变性女艺人全球征友称以金星为榜样(组图).md
   type: webpage
   format: Markdown
-  size: 4020
-  md5: 9404c06b27740a05942062b9beffb0f5
+  size: 3064
+  md5: 106948bfee40ec836150ec4d82cfb7b1
   page: news_变性女艺人全球征友称以金星为榜样(组图).md
 - name: news_变性手术多年后，一位终身共和党人决定投票给哈里斯
   filename: news_变性手术多年后，一位终身共和党人决定投票给哈里斯.md
   type: webpage
   format: Markdown
-  size: 4935
-  md5: 356d29ea23376d20faf11d1a73295f74
+  size: 3963
+  md5: e0827375dbe11e623aa223f8d59ff997
   page: news_变性手术多年后，一位终身共和党人决定投票给哈里斯.md
 - name: news_变性男子获环球小姐最上镜奖父母怒砸美容院图
   filename: news_变性男子获环球小姐最上镜奖父母怒砸美容院图.md
   type: webpage
   format: Markdown
-  size: 8185
-  md5: 298f42cc7a57ec4dcd8f807056a8a022
+  size: 7222
+  md5: f3a952cce6ab07c607e6cb9b4b106f8d
   page: news_变性男子获环球小姐最上镜奖父母怒砸美容院图.md
 - name: news_变性美女陈莉莉：想要有个家，在家当贵夫人
   filename: news_变性美女陈莉莉：想要有个家，在家当贵夫人.md
   type: webpage
   format: Markdown
-  size: 4249
-  md5: 7b38ef06185efa457054153232aab403
+  size: 3289
+  md5: f32b260afc68064f75421f11e3358a40
   page: news_变性美女陈莉莉：想要有个家，在家当贵夫人.md
 - name: news_变性舞蹈家金星与外籍前夫同现身恩爱依旧
   filename: news_变性舞蹈家金星与外籍前夫同现身恩爱依旧.md
   type: webpage
   format: Markdown
-  size: 2433
-  md5: 3cf76876154567f279c6b637114cacf3
+  size: 1476
+  md5: 517075241869a5c795b554c1e731671b
   page: news_变性舞蹈家金星与外籍前夫同现身恩爱依旧.md
 - name: news_变性艺人自杀获救20年跋涉挣扎只为两个字(图)
   filename: news_变性艺人自杀获救20年跋涉挣扎只为两个字(图).md
   type: webpage
   format: Markdown
-  size: 9039
-  md5: d0b90a4e83108cbce8f542a15dd6950e
+  size: 8078
+  md5: f23aa04c58e8a61052ad75cd2f21f9ae
   page: news_变性艺人自杀获救20年跋涉挣扎只为两个字(图).md
 - name: news_变性：并非只是隆胸去喉结_资讯
   filename: news_变性：并非只是隆胸去喉结_资讯.md
   type: webpage
   format: Markdown
-  size: 9299
-  md5: 40ca909cddf3de874379961d6e7292ec
+  size: 8356
+  md5: ebc5a2a76b77c7187200e89ef8a97277
   page: news_变性：并非只是隆胸去喉结_资讯.md
 - name: news_台变性网络神童被召“入阁”_成最年轻“政务委员”
   filename: news_台变性网络神童被召“入阁”_成最年轻“政务委员”.md
   type: webpage
   format: Markdown
-  size: 7667
-  md5: c6d1370eb31741ea57ee2738075f990b
+  size: 6697
+  md5: 2a7e4e15d85cb74b0cb6c89b4b09a1f2
   page: news_台变性网络神童被召“入阁”_成最年轻“政务委员”.md
 - name: news_台湾短跑名将曾是双性人变性成为女人退出体坛
   filename: news_台湾短跑名将曾是双性人变性成为女人退出体坛.md
   type: webpage
   format: Markdown
-  size: 2712
-  md5: 2cfb17be989050be081f2236ce5e185e
+  size: 1749
+  md5: cd0683210777720a169d17e87bf73590
   page: news_台湾短跑名将曾是双性人变性成为女人退出体坛.md
 - name: news_台男子因变性手术致肢体残障医院被判赔173万
   filename: news_台男子因变性手术致肢体残障医院被判赔173万.md
   type: webpage
   format: Markdown
-  size: 3306
-  md5: 02c0dbdec5ae3725e5a108add7857077
+  size: 2346
+  md5: 70277da22a4dbff37c562141ece18237
   page: news_台男子因变性手术致肢体残障医院被判赔173万.md
 - name: news_台知名女模承认18岁前是男儿身前男友出资变性
   filename: news_台知名女模承认18岁前是男儿身前男友出资变性.md
   type: webpage
   format: Markdown
-  size: 1943
-  md5: 6db62ce1067fa1286d69745c8a838da8
+  size: 981
+  md5: 5444da814605a799b535790517829589
   page: news_台知名女模承认18岁前是男儿身前男友出资变性.md
 - name: news_吃激素、隆胸、穿女装粤84岁书法家欲变性
   filename: news_吃激素、隆胸、穿女装粤84岁书法家欲变性.md
   type: webpage
   format: Markdown
-  size: 6757
-  md5: 9e0f0b75a1c23e57f97ad5c0607c9509
+  size: 5801
+  md5: 36c6ff76b71910dcef75bd65ef58cc48
   page: news_吃激素、隆胸、穿女装粤84岁书法家欲变性.md
 - name: news_回击第一夫人变性谣言，马克龙出面护妻
   filename: news_回击第一夫人变性谣言，马克龙出面护妻.md
   type: webpage
   format: Markdown
-  size: 3388
-  md5: 87a6646e1ea98d2f4b8567c4959a13e9
+  size: 2434
+  md5: 87a7c00c6b5e7ab1dfa54392b0514322
   page: news_回击第一夫人变性谣言，马克龙出面护妻.md
 - name: news_国际变性人选美大赛落幕菲律宾选手夺冠(图)
   filename: news_国际变性人选美大赛落幕菲律宾选手夺冠(图).md
   type: webpage
   format: Markdown
-  size: 2591
-  md5: 9eec614609ed6ef5efe33556f276466c
+  size: 1632
+  md5: 646da3bb9faa414e5186827093daa243
   page: news_国际变性人选美大赛落幕菲律宾选手夺冠(图).md
 - name: news_国际变性人选美大赛颁奖现场_资讯频道
   filename: news_国际变性人选美大赛颁奖现场_资讯频道.md
   type: webpage
   format: Markdown
-  size: 3493
-  md5: 558bd8b8f005a06646674db14b62c06e
+  size: 2541
+  md5: 8c670d043fc6a97506aa5e6d28f53079
   page: news_国际变性人选美大赛颁奖现场_资讯频道.md
 - name: news_图片故事：直击沈阳变性人手术全过程
   filename: news_图片故事：直击沈阳变性人手术全过程.md
   type: webpage
   format: Markdown
-  size: 2000
-  md5: cf3f275fb0dfc9e338e9c59e289efd3d
+  size: 1049
+  md5: 48bdcfabbb3f3c52305935563d09daa5
   page: news_图片故事：直击沈阳变性人手术全过程.md
 - name: news_圭亚那一群变性人要求修法让异装癖者免罪_资讯
   filename: news_圭亚那一群变性人要求修法让异装癖者免罪_资讯.md
   type: webpage
   format: Markdown
-  size: 2988
-  md5: adf1b81747ae895f329b7c80823a74fa
+  size: 2024
+  md5: 71606f05acc735ec7164287e441ad1ff
   page: news_圭亚那一群变性人要求修法让异装癖者免罪_资讯.md
 - name: news_大胡子“美女歌神”变身照曝光变性前是奶油小生(高清组图)
   filename: news_大胡子“美女歌神”变身照曝光变性前是奶油小生(高清组图).md
   type: webpage
   format: Markdown
-  size: 2932
-  md5: 139b45f3fc48cd42c9601826add7a2a6
+  size: 1952
+  md5: 8c7f6b139ba196174ee16e976821158a
   page: news_大胡子“美女歌神”变身照曝光变性前是奶油小生(高清组图).md
 - name: news_奥巴马下令学校允许变性学生根据认同性别如厕
   filename: news_奥巴马下令学校允许变性学生根据认同性别如厕.md
   type: webpage
   format: Markdown
-  size: 4332
-  md5: 3ad0e5355a09da045d221a5fab78cc50
+  size: 3369
+  md5: b5e0792e9215f219bcdcd9906bc02f94
   page: news_奥巴马下令学校允许变性学生根据认同性别如厕.md
 - name: news_奥巴马任命首位变性人高官出自雷声导弹公司
   filename: news_奥巴马任命首位变性人高官出自雷声导弹公司.md
   type: webpage
   format: Markdown
-  size: 2767
-  md5: 67367dfd014e9d78f039dc7a6dd9ad2f
+  size: 1807
+  md5: 4bb5e753e981d411b766cbb905fa10fb
   page: news_奥巴马任命首位变性人高官出自雷声导弹公司.md
 - name: news_奥巴马任命首位变性人高官曾为希拉里服务[图]_资讯
   filename: news_奥巴马任命首位变性人高官曾为希拉里服务[图]_资讯.md
   type: webpage
   format: Markdown
-  size: 3226
-  md5: 4af6c72f79d4142a97d9bcee8e25efbc
+  size: 2257
+  md5: ab41b8d64c1a169ab2df2b92b99e5846
   page: news_奥巴马任命首位变性人高官曾为希拉里服务[图]_资讯.md
 - name: news_奥巴马任命首位变性人高官曾为希拉里服务_资讯
   filename: news_奥巴马任命首位变性人高官曾为希拉里服务_资讯.md
   type: webpage
   format: Markdown
-  size: 3250
-  md5: bd65ec3ec2223c6ebb5800d1c8b2cfe3
+  size: 2286
+  md5: 2856d62de7c34055391099bc1ac36435
   page: news_奥巴马任命首位变性人高官曾为希拉里服务_资讯.md
 - name: news_奥巴马演讲频遭女变性人打断怒斥：你在我家(图)
   filename: news_奥巴马演讲频遭女变性人打断怒斥：你在我家(图).md
   type: webpage
   format: Markdown
-  size: 4679
-  md5: bb0ff47b7e3cc3e15c726eb2eee049da
+  size: 3714
+  md5: 77311fdc9405fb0690b17066f99aaeee
   page: news_奥巴马演讲频遭女变性人打断怒斥：你在我家(图).md
 - name: news_奥运热点？新西兰举重运动员获奥运资格，系变性选手第一人
   filename: news_奥运热点？新西兰举重运动员获奥运资格，系变性选手第一人.md
   type: webpage
   format: Markdown
-  size: 2144
-  md5: 4600cbb53f025d3165ca01e9f5d483c5
+  size: 1163
+  md5: 8375fc30860b4c2b5effc8a6cb1cebf5
   page: news_奥运热点？新西兰举重运动员获奥运资格，系变性选手第一人.md
 - name: news_女子变性后与昔日闺蜜结为夫妇(图)
   filename: news_女子变性后与昔日闺蜜结为夫妇(图).md
   type: webpage
   format: Markdown
-  size: 2510
-  md5: 3fd6aff37888e767ba477b81305e13b1
+  size: 1563
+  md5: fc4be7feb514ea1c9a3c0e3b10f03212
   page: news_女子变性后与昔日闺蜜结为夫妇(图).md
 - name: news_女子变性后怀孕续：将携妻上电视露面以证真实
   filename: news_女子变性后怀孕续：将携妻上电视露面以证真实.md
   type: webpage
   format: Markdown
-  size: 5622
-  md5: a83efdab13df5a82e9a478e1ec2d7e7c
+  size: 4659
+  md5: 1dbbf730266cf7219d19fea50c588dd7
   page: news_女子变性后怀孕续：将携妻上电视露面以证真实.md
 - name: news_女子支持父亲与丈夫一起变性三人成闺密(图)
   filename: news_女子支持父亲与丈夫一起变性三人成闺密(图).md
   type: webpage
   format: Markdown
-  size: 3765
-  md5: 4e00e1fd5512972200b0c09ba6478a6e
+  size: 2806
+  md5: 524cce7ee1c90f8121a904a513363c45
   page: news_女子支持父亲与丈夫一起变性三人成闺密(图).md
 - name: news_孩子想变性家长怎么办？养父母生长发育
   filename: news_孩子想变性家长怎么办？养父母生长发育.md
   type: webpage
   format: Markdown
-  size: 10058
-  md5: d4cfef7bbe8359973e228f2d52d01adf
+  size: 9104
+  md5: 4f5ece8965de800028fb6a02a72874a9
   page: news_孩子想变性家长怎么办？养父母生长发育.md
 - name: news_宋祖德扬言要变性做女人“手术要让章子怡主刀”
   filename: news_宋祖德扬言要变性做女人“手术要让章子怡主刀”.md
   type: webpage
   format: Markdown
-  size: 3605
-  md5: 8c80976540dc2070ebf6707e66f55db7
+  size: 2639
+  md5: b47a9661f9ba0f677f021a1932e75252
   page: news_宋祖德扬言要变性做女人“手术要让章子怡主刀”.md
 - name: news_实拍泰国征兵现场变性者惹眼
   filename: news_实拍泰国征兵现场变性者惹眼.md
   type: webpage
   format: Markdown
-  size: 1306
-  md5: fb58ce89b5614087e7968b45c1b7675c
+  size: 367
+  md5: 1253de38355574188a5373a7ad2feaa5
   page: news_实拍泰国征兵现场变性者惹眼.md
 - name: news_对“性别”的认识也需要一场科普刘霆
   filename: news_对“性别”的认识也需要一场科普刘霆.md
   type: webpage
   format: Markdown
-  size: 5936
-  md5: ab32e60c1090adff217550836411d080
+  size: 4985
+  md5: b99f4363d8c2f5087d2789cc38bd9b01
   page: news_对“性别”的认识也需要一场科普刘霆.md
 - name: news_小雀斑“变性”影帝角色
   filename: news_小雀斑“变性”影帝角色.md
   type: webpage
   format: Markdown
-  size: 2497
-  md5: 69976df1c7b8ed208beb103785671ce3
+  size: 1564
+  md5: 011a3437cabd4dc9d022aa02a987dbb5
   page: news_小雀斑“变性”影帝角色.md
 - name: news_巴西变性人参加项目课程不逃课可获奖学金
   filename: news_巴西变性人参加项目课程不逃课可获奖学金.md
   type: webpage
   format: Markdown
-  size: 2349
-  md5: 1e692fa5c5c4d419fdfe86d66f1e9c23
+  size: 1392
+  md5: f0839924cac60c2fe7a9d0d50bd291dc
   page: news_巴西变性人参加项目课程不逃课可获奖学金.md
 - name: news_广西：艾滋病男扮女子卖淫筹变性手术费
   filename: news_广西：艾滋病男扮女子卖淫筹变性手术费.md
   type: webpage
   format: Markdown
-  size: 3334
-  md5: 66b3f6f7f6a06b1bf69210524413c56f
+  size: 2380
+  md5: 5850cb5f7ffb267f967e0418f2c72b40
   page: news_广西：艾滋病男扮女子卖淫筹变性手术费.md
 - name: news_德16岁男童做变性手术成全球最年轻变性人[组图]
   filename: news_德16岁男童做变性手术成全球最年轻变性人[组图].md
   type: webpage
   format: Markdown
-  size: 2772
-  md5: 525f1c0b876c7ee7aa4018b706149e23
+  size: 1808
+  md5: d985c06d107eda5b2b1c947e43f40fd6
   page: news_德16岁男童做变性手术成全球最年轻变性人[组图].md
 - name: news_德国一女变男变性人成欧洲首个怀孕生子男人
   filename: news_德国一女变男变性人成欧洲首个怀孕生子男人.md
   type: webpage
   format: Markdown
-  size: 3305
-  md5: e9834f002e7d81f0cc09f8103cb73731
+  size: 2345
+  md5: 582730ceb4e475a9121a4da3e79c0df3
   page: news_德国一女变男变性人成欧洲首个怀孕生子男人.md
 - name: news_德国少年16岁生日当天变性获女儿身_资讯
   filename: news_德国少年16岁生日当天变性获女儿身_资讯.md
   type: webpage
   format: Markdown
-  size: 2408
-  md5: 2134cf648e92ea14266c0bb0c007eaa0
+  size: 1454
+  md5: 52ebe1f478adfe1e6bf9ab08f4925135
   page: news_德国少年16岁生日当天变性获女儿身_资讯.md
 - name: news_德国男议员任职期间变性成女子
   filename: news_德国男议员任职期间变性成女子.md
   type: webpage
   format: Markdown
-  size: 1473
-  md5: 585682af7e1c15e841e5382eddd448ca
+  size: 531
+  md5: 058a53c42f2c86d43dac439262aaa774
   page: news_德国男议员任职期间变性成女子.md
 - name: news_心理测试确认女儿心父母同意儿子接受变性手术
   filename: news_心理测试确认女儿心父母同意儿子接受变性手术.md
   type: webpage
   format: Markdown
-  size: 5203
-  md5: 99ba1f6676a5ff07119c18f6e43f8bc4
+  size: 4240
+  md5: 590c819723ca222655db3a876fe2bd07
   page: news_心理测试确认女儿心父母同意儿子接受变性手术.md
 - name: news_意大利选出首位变性人市长
   filename: news_意大利选出首位变性人市长.md
   type: webpage
   format: Markdown
-  size: 1375
-  md5: 13544ebf43464407b86c954cc2cd24b9
+  size: 439
+  md5: d3eb6a1da2d60b51e6bf86eb8b2cc768
   page: news_意大利选出首位变性人市长.md
 - name: news_成都：实习医生为15岁少年摘除睾丸变性被批捕
   filename: news_成都：实习医生为15岁少年摘除睾丸变性被批捕.md
   type: webpage
   format: Markdown
-  size: 3906
-  md5: 3266dd7350f690f4ca2bb636a8045dde
+  size: 2944
+  md5: b5385de271f1061707db8368931d53e5
   page: news_成都：实习医生为15岁少年摘除睾丸变性被批捕.md
 - name: news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌
   filename: news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌.md
   type: webpage
   format: Markdown
-  size: 5663
-  md5: 6baea19a3356a6435c88f7b5e85739e3
+  size: 4687
+  md5: 4204ae07d7ecc21a9953135b5cf7548c
   page: news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌.md
 - name: news_拜登提名美国政府首位变性人政客
   filename: news_拜登提名美国政府首位变性人政客.md
   type: webpage
   format: Markdown
-  size: 1937
-  md5: 0ae18a8aae38151949a3e8045f749955
+  size: 992
+  md5: a7af633d6e2bc5ed2d7ca5a1aff8e66f
   page: news_拜登提名美国政府首位变性人政客.md
 - name: news_揭变性艺人心酸历程河莉秀劝老公分手遭拒绝
   filename: news_揭变性艺人心酸历程河莉秀劝老公分手遭拒绝.md
   type: webpage
   format: Markdown
-  size: 2846
-  md5: 723cebe895074e3ba09e95abf574cd41
+  size: 1886
+  md5: b637d652bf82f48653a81abe0474c936
   page: news_揭变性艺人心酸历程河莉秀劝老公分手遭拒绝.md
 - name: news_摄影师展现古巴变性人手术前后对比图为变性者群体发声
   filename: news_摄影师展现古巴变性人手术前后对比图为变性者群体发声.md
   type: webpage
   format: Markdown
-  size: 2528
-  md5: d582c299ba82ce69dceebc8d4ce0ca4a
+  size: 1553
+  md5: 165f0565784bacbb0dce8155e3f98968
   page: news_摄影师展现古巴变性人手术前后对比图为变性者群体发声.md
 - name: news_教皇在LGBTQ会议上被敦促撤销对“性别肯定护理”的禁令
   filename: news_教皇在LGBTQ会议上被敦促撤销对“性别肯定护理”的禁令.md
   type: webpage
   format: Markdown
-  size: 4422
-  md5: 670a76d674266861fb91f74cb422a658
+  size: 3448
+  md5: 636ffcb29b245152428eadc4daaa8343
   page: news_教皇在LGBTQ会议上被敦促撤销对“性别肯定护理”的禁令.md
 - name: news_新西兰一举重选手成为首位参加奥运会的变性运动员
   filename: news_新西兰一举重选手成为首位参加奥运会的变性运动员.md
   type: webpage
   format: Markdown
-  size: 2186
-  md5: a3ed204530bf875aa7639370c8325d34
+  size: 1217
+  md5: d49ad853110fb89e1a5a5fe5c80d4efb
   page: news_新西兰一举重选手成为首位参加奥运会的变性运动员.md
 - name: news_日本变性人选美皇后凯旋后推出首部写真集
   filename: news_日本变性人选美皇后凯旋后推出首部写真集.md
   type: webpage
   format: Markdown
-  size: 2371
-  md5: 2bb0fb178d9751a6d64758d1cf79c1cb
+  size: 1414
+  md5: 5e74d2cc9915b6473af4a72feba89668
   page: news_日本变性人选美皇后凯旋后推出首部写真集.md
 - name: news_日本变性艺人夺人妖选美后冠[图集]
   filename: news_日本变性艺人夺人妖选美后冠[图集].md
   type: webpage
   format: Markdown
-  size: 1571
-  md5: d4af28141a73ad86f6c845f27b2699fe
+  size: 624
+  md5: 1e86f54cd603fb5324fcb86b869c9729
   page: news_日本变性艺人夺人妖选美后冠[图集].md
 - name: news_明查｜华盛顿通过法案允许政府合法带走变性儿童？误导
   filename: news_明查｜华盛顿通过法案允许政府合法带走变性儿童？误导.md
   type: webpage
   format: Markdown
-  size: 6349
-  md5: 33316ab24833c543d6f03eb197c51208
+  size: 5374
+  md5: 844b48ee75efe25775a915fcc376d0de
   page: news_明查｜华盛顿通过法案允许政府合法带走变性儿童？误导.md
 - name: news_普京签署法案禁止变性手术，俄杜马主席称“将避免走上美国_
   filename: news_普京签署法案禁止变性手术，俄杜马主席称“将避免走上美国_.md
   type: webpage
   format: Markdown
-  size: 4393
-  md5: a4d1deac70f3e19d5d9c841792408613
+  size: 3411
+  md5: 4a479cb41431cdf8d728f138f0890424
   page: news_普京签署法案禁止变性手术，俄杜马主席称“将避免走上美国_.md
 - name: news_最性感肌肉男神竟是女儿身？变性男模或创历史
   filename: news_最性感肌肉男神竟是女儿身？变性男模或创历史.md
   type: webpage
   format: Markdown
-  size: 2136
-  md5: f511a6d76ce424519cd118ab39282d4c
+  size: 1173
+  md5: 47fb7ce9aee648fda71bb95c1d4ef22c
   page: news_最性感肌肉男神竟是女儿身？变性男模或创历史.md
 - name: news_最美人妖poyd海量生活照：男友及变性前照片曝光
   filename: news_最美人妖poyd海量生活照：男友及变性前照片曝光.md
   type: webpage
   format: Markdown
-  size: 1804
-  md5: 2dd349586f063b81c5e08794b65dde0d
+  size: 840
+  md5: ed1a61e6d908c7aa251ee80b72d284f7
   page: news_最美人妖poyd海量生活照：男友及变性前照片曝光.md
 - name: news_最美男模接受变性做女模(图)
   filename: news_最美男模接受变性做女模(图).md
   type: webpage
   format: Markdown
-  size: 2438
-  md5: d047ae02bdad3b3a7bacf659d280bb7c
+  size: 1500
+  md5: a2742bb42a2978f531a75dff36ad12b0
   page: news_最美男模接受变性做女模(图).md
 - name: news_月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院_
   filename: news_月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院_.md
   type: webpage
   format: Markdown
-  size: 9730
-  md5: 6251b9518ef6042db3336fa2dcc487ed
+  size: 8750
+  md5: 33fcf17ad05bacee7d77f755ae076c2e
   page: news_月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院_.md
 - name: news_有人通过网络非法贩卖变性药？浙江温州警方：已开展调查
   filename: news_有人通过网络非法贩卖变性药？浙江温州警方：已开展调查.md
   type: webpage
   format: Markdown
-  size: 2414
-  md5: a4d4f90360c7e062b0d664fcf73fdb52
+  size: 1436
+  md5: a6e1f772d2e0fbdead96a120d08d1fc0
   page: news_有人通过网络非法贩卖变性药？浙江温州警方：已开展调查.md
 - name: news_杀害菲律宾变性人美海军士兵被押送至菲军营
   filename: news_杀害菲律宾变性人美海军士兵被押送至菲军营.md
   type: webpage
   format: Markdown
-  size: 2353
-  md5: ffd76d64de7b5d2c7a27d6c0f9774e22
+  size: 1393
+  md5: 14cf819e6fa050f2f8a2483b2f81399c
   page: news_杀害菲律宾变性人美海军士兵被押送至菲军营.md
 - name: news_李银河自曝：与变性者(女变男)同居17年
   filename: news_李银河自曝：与变性者(女变男)同居17年.md
   type: webpage
   format: Markdown
-  size: 8712
-  md5: 692b27f8f4c7e2946057ddca8ee7f750
+  size: 7760
+  md5: 513dda9b940adf63b6e42279ff5d444d
   page: news_李银河自曝：与变性者(女变男)同居17年.md
 - name: news_泰国一和尚变性成内衣模特从小就想做女人(图)寺院寺庙
   filename: news_泰国一和尚变性成内衣模特从小就想做女人(图)寺院寺庙.md
   type: webpage
   format: Markdown
-  size: 3197
-  md5: a0f7c97303feb08da4084446903bbbf9
+  size: 2223
+  md5: 61ca57fba643f674a7b33bb1868c18dd
   page: news_泰国一和尚变性成内衣模特从小就想做女人(图)寺院寺庙.md
 - name: news_泰国变性人参加征兵仪式_资讯频道
   filename: news_泰国变性人参加征兵仪式_资讯频道.md
   type: webpage
   format: Markdown
-  size: 2342
-  md5: a7caa7b1f187366606c0e2b9c881baa8
+  size: 1396
+  md5: 13382cf9755eedc8da7b66ee01076b56
   page: news_泰国变性人参加征兵仪式_资讯频道.md
 - name: news_泰国变性人情侣的生活、爱情和权利(图)
   filename: news_泰国变性人情侣的生活、爱情和权利(图).md
   type: webpage
   format: Markdown
-  size: 4179
-  md5: 03bb34fcbe4a5659233f8278e4962316
+  size: 3226
+  md5: 6c94e77976e107876382c7412f49a98a
   page: news_泰国变性人情侣的生活、爱情和权利(图).md
 - name: news_泰国变性人选美大赛现场
   filename: news_泰国变性人选美大赛现场.md
   type: webpage
   format: Markdown
-  size: 1428
-  md5: 410984059a6d5bedbe7e5255a88a2cf8
+  size: 495
+  md5: 56042d3515cbbcbaacce937a876cc141
   page: news_泰国变性人选美大赛现场.md
 - name: news_泰国变性女假装指路抢劫中国游客
   filename: news_泰国变性女假装指路抢劫中国游客.md
   type: webpage
   format: Markdown
-  size: 1514
-  md5: d1508bd38a6aa1ca8b2f5061924198d3
+  size: 569
+  md5: b96ad8c79776bf5077ce3a304bc76980
   page: news_泰国变性女假装指路抢劫中国游客.md
 - name: news_泰国有望立法承认第三性别(图)
   filename: news_泰国有望立法承认第三性别(图).md
   type: webpage
   format: Markdown
-  size: 8450
-  md5: 1c7341bc508a1891a77f30ac1cbadb78
+  size: 7509
+  md5: ddf3672c39711407ea9a8b045cdd3133
   page: news_泰国有望立法承认第三性别(图).md
 - name: news_泰国足坛网红要参加大选希望成首位变性人总理
   filename: news_泰国足坛网红要参加大选希望成首位变性人总理.md
   type: webpage
   format: Markdown
-  size: 2794
-  md5: a85e5de4dc7719c9cd5c91ccc6e6dab0
+  size: 1831
+  md5: 21e767bc7c75fa4990150f4f0a1e31f2
   page: news_泰国足坛网红要参加大选希望成首位变性人总理.md
 - name: news_泰媒评世界十大最美变性人排行榜中国上榜2人
   filename: news_泰媒评世界十大最美变性人排行榜中国上榜2人.md
   type: webpage
   format: Markdown
-  size: 2550
-  md5: 7cb9eaf378a502ca6571ae8cfc172684
+  size: 1589
+  md5: 6aa9ee548d649ba29953a6f6e2def713
   page: news_泰媒评世界十大最美变性人排行榜中国上榜2人.md
 - name: news_济南女贼曾是男儿身变性后偷车又被抓
   filename: news_济南女贼曾是男儿身变性后偷车又被抓.md
   type: webpage
   format: Markdown
-  size: 3447
-  md5: 3f4206281e969cf14de56c1985c84390
+  size: 2496
+  md5: f9693fbdea67fcb369e85b3af652372a
   page: news_济南女贼曾是男儿身变性后偷车又被抓.md
 - name: news_渝视频丨美国首位变性四星上将就职，系美级别最高变性官员
   filename: news_渝视频丨美国首位变性四星上将就职，系美级别最高变性官员.md
   type: webpage
   format: Markdown
-  size: 1842
-  md5: 3ee0726bf82f3d4cb20cbc678a745a55
+  size: 861
+  md5: 891eeebd3caddfa9b4e708a51b141b14
   page: news_渝视频丨美国首位变性四星上将就职，系美级别最高变性官员.md
 - name: news_港一变性人注册结婚被拒事主控告当局违反人权
   filename: news_港一变性人注册结婚被拒事主控告当局违反人权.md
   type: webpage
   format: Markdown
-  size: 4489
-  md5: b199a443c14aa881f0a59b948ee9a209
+  size: 3526
+  md5: c41eaca909f646eb0c08dbf3d6207720
   page: news_港一变性人注册结婚被拒事主控告当局违反人权.md
 - name: news_澳变性男子手术后后悔决定作无性人获官方承认
   filename: news_澳变性男子手术后后悔决定作无性人获官方承认.md
   type: webpage
   format: Markdown
-  size: 1864
-  md5: 9077215512b9898964262e680c0f1438
+  size: 901
+  md5: 344b0ba52d890cb6fd530010d56d78cd
   page: news_澳变性男子手术后后悔决定作无性人获官方承认.md
 - name: news_澳洲12岁女童获准变性法官称符合其最佳利益
   filename: news_澳洲12岁女童获准变性法官称符合其最佳利益.md
   type: webpage
   format: Markdown
-  size: 2501
-  md5: f20081f20d6aef9f6a3eefc9e5999126
+  size: 1542
+  md5: 325a472565302f3e262fbd02152ae349
   page: news_澳洲12岁女童获准变性法官称符合其最佳利益.md
 - name: news_父亲与丈夫一起变性3人成闺蜜
   filename: news_父亲与丈夫一起变性3人成闺蜜.md
   type: webpage
   format: Markdown
-  size: 3354
-  md5: bb214620c41056fca72aa1c4e4c6cedb
+  size: 2414
+  md5: 39f10140bd2d55623895abf01b589b86
   page: news_父亲与丈夫一起变性3人成闺蜜.md
 - name: news_爸爸变性成女人一家三口变“姐妹花”
   filename: news_爸爸变性成女人一家三口变“姐妹花”.md
   type: webpage
   format: Markdown
-  size: 1581
-  md5: f76bed42d3f769ff9d15ad5c20f0e3a2
+  size: 630
+  md5: 9b391ea25c6534fff7458c9796fb5d59
   page: news_爸爸变性成女人一家三口变“姐妹花”.md
 - name: news_特朗普讽林郁婷变性人，岛内媒体人质问赖清德：敢提出抗议_
   filename: news_特朗普讽林郁婷变性人，岛内媒体人质问赖清德：敢提出抗议_.md
   type: webpage
   format: Markdown
-  size: 3236
-  md5: a41f66c6beda2c4e6468bfbdfd90de29
+  size: 2254
+  md5: a1a11b405eb6f353e0ef09fb98e72b8e
   page: news_特朗普讽林郁婷变性人，岛内媒体人质问赖清德：敢提出抗议_.md
 - name: news_现场一片混乱！上百泰国和菲律宾变性人在曼谷市中心爆发_
   filename: news_现场一片混乱！上百泰国和菲律宾变性人在曼谷市中心爆发_.md
   type: webpage
   format: Markdown
-  size: 3194
-  md5: e94ce8a723c34d8731ab5e1b94388fa8
+  size: 2215
+  md5: e2f317af8a5728b63b88f2705e278b92
   page: news_现场一片混乱！上百泰国和菲律宾变性人在曼谷市中心爆发_.md
 - name: news_男女“未完全”变性后产子父母身份错乱(图)
   filename: news_男女“未完全”变性后产子父母身份错乱(图).md
   type: webpage
   format: Markdown
-  size: 3425
-  md5: a0ccdb7c740789887e279a4d51bf8409
+  size: 2466
+  md5: 6eeb53c14d522515f6e7237b0101ade4
   page: news_男女“未完全”变性后产子父母身份错乱(图).md
 - name: news_男子变性后仍与妻子一同生活妻子：很自豪_资讯频道
   filename: news_男子变性后仍与妻子一同生活妻子：很自豪_资讯频道.md
   type: webpage
   format: Markdown
-  size: 3938
-  md5: 561ee6cef37d5af77af28372b9eb6cd7
+  size: 2968
+  md5: 53266dcdc6b0cca0246c6e0669531b01
   page: news_男子变性后仍与妻子一同生活妻子：很自豪_资讯频道.md
 - name: news_男子变性后参加CCTV模特大赛遭质疑(组图)_资讯
   filename: news_男子变性后参加CCTV模特大赛遭质疑(组图)_资讯.md
   type: webpage
   format: Markdown
-  size: 3871
-  md5: 327de6489c8ff53f808f69c6e87c65e2
+  size: 2910
+  md5: 3039b8cb85835d689024bc90a4292138
   page: news_男子变性后参加CCTV模特大赛遭质疑(组图)_资讯.md
 - name: news_男子变性后参加CCTV模特大赛遭质疑[组图]_资讯
   filename: news_男子变性后参加CCTV模特大赛遭质疑[组图]_资讯.md
   type: webpage
   format: Markdown
-  size: 4085
-  md5: 7add36ac0a7cf4da91f12a8b9599ae75
+  size: 3124
+  md5: 19c64294f2f6334b3d6711eecbf99bee
   page: news_男子变性后参加CCTV模特大赛遭质疑[组图]_资讯.md
 - name: news_男子变性失败长期扮女性险遭强奸杀死“强奸者”_资讯
   filename: news_男子变性失败长期扮女性险遭强奸杀死“强奸者”_资讯.md
   type: webpage
   format: Markdown
-  size: 3255
-  md5: 647bf0f1d3bef6010aff0412fb660d4a
+  size: 2282
+  md5: cbfac2c5cf67e37e14bab1f4977a358b
   page: news_男子变性失败长期扮女性险遭强奸杀死“强奸者”_资讯.md
 - name: news_男子变性女人后携男友回老家大秀恩爱(图)_资讯
   filename: news_男子变性女人后携男友回老家大秀恩爱(图)_资讯.md
   type: webpage
   format: Markdown
-  size: 3764
-  md5: ac79ff6934bf598359c2d175bb2e047b
+  size: 2801
+  md5: fb822e59ec7ea8ef4316773dbf6c784d
   page: news_男子变性女人后携男友回老家大秀恩爱(图)_资讯.md
 - name: news_男子想变性花钱让人割睾丸“主刀网友”涉非法行医
   filename: news_男子想变性花钱让人割睾丸“主刀网友”涉非法行医.md
   type: webpage
   format: Markdown
-  size: 5930
-  md5: e71577ead989b6d4279ed5a30a698012
+  size: 4961
+  md5: 20be8412dd31ba1491cc1b45a21f77a7
   page: news_男子想变性花钱让人割睾丸“主刀网友”涉非法行医.md
 - name: news_男子相亲遇变性人恼羞成怒与女子当场掐架(组图)
   filename: news_男子相亲遇变性人恼羞成怒与女子当场掐架(组图).md
   type: webpage
   format: Markdown
-  size: 2092
-  md5: 42ba82ad2b8ca8cc60bde759d45c0b1b
+  size: 1127
+  md5: c5f29859437b831cf1616d2b38a205d7
   page: news_男子相亲遇变性人恼羞成怒与女子当场掐架(组图).md
 - name: news_男子结婚生子10年后变性两次骗婚骗得2.8万
   filename: news_男子结婚生子10年后变性两次骗婚骗得2.8万.md
   type: webpage
   format: Markdown
-  size: 4584
-  md5: 3fc8356e89240f1e2922cc26804a8c5a
+  size: 3628
+  md5: 3d61e34da9bc0dcebe126df4e08bc358
   page: news_男子结婚生子10年后变性两次骗婚骗得2.8万.md
 - name: news_男子追梦20年终于变性“美人”返乡获接纳(图)
   filename: news_男子追梦20年终于变性“美人”返乡获接纳(图).md
   type: webpage
   format: Markdown
-  size: 3643
-  md5: b9d0120a44dc3cb5d97420e35174da3f
+  size: 2682
+  md5: 171cb22724b52715a3fa9d77e26fd774
   page: news_男子追梦20年终于变性“美人”返乡获接纳(图).md
 - name: news_男子追男友因性别不和被拒绝变性后两人终相爱
   filename: news_男子追男友因性别不和被拒绝变性后两人终相爱.md
   type: webpage
   format: Markdown
-  size: 5767
-  md5: a365760472e38224a16f019bdc97acb6
+  size: 4804
+  md5: ceb2bbf9efa7407517da791106378e25
   page: news_男子追男友因性别不和被拒绝变性后两人终相爱.md
 - name: news_男面女儿身变性歌手满脸络腮胡献唱吓哭观众
   filename: news_男面女儿身变性歌手满脸络腮胡献唱吓哭观众.md
   type: webpage
   format: Markdown
-  size: 1769
-  md5: 1fa851087f2e15e4aaea4cf01da8e8f7
+  size: 809
+  md5: 42ec59d7737d5fd728ce22c98dca38b8
   page: news_男面女儿身变性歌手满脸络腮胡献唱吓哭观众.md
 - name: news_盘点全球12位著名惊艳变性美人[组图]
   filename: news_盘点全球12位著名惊艳变性美人[组图].md
   type: webpage
   format: Markdown
-  size: 2968
-  md5: c62997f17f7f17189cf2cae3d46f1ed8
+  size: 2019
+  md5: 71e049f36bf8465def50dde0ae85bf0a
   page: news_盘点全球12位著名惊艳变性美人[组图].md
 - name: news_福建变性美女博客征婚曾参加选美获奖
   filename: news_福建变性美女博客征婚曾参加选美获奖.md
   type: webpage
   format: Markdown
-  size: 3237
-  md5: 441541912a278108733df88f89f85276
+  size: 2286
+  md5: f55b670d54512075f0a04ecdca5a6210
   page: news_福建变性美女博客征婚曾参加选美获奖.md
 - name: news_离婚后更豪放？42岁变性女星晒泳装照
   filename: news_离婚后更豪放？42岁变性女星晒泳装照.md
   type: webpage
   format: Markdown
-  size: 2352
-  md5: a961d5afc08d1b26fe53cc36bbcc82ab
+  size: 1402
+  md5: edaee7c0e618359535630712ca4bd02e
   page: news_离婚后更豪放？42岁变性女星晒泳装照.md
 - name: news_继金星后又一男星变性成功，手术后疼的满地爬
   filename: news_继金星后又一男星变性成功，手术后疼的满地爬.md
   type: webpage
   format: Markdown
-  size: 4071
-  md5: 752f1906b5e3da9804fccf7d8fe06c55
+  size: 3108
+  md5: b2c14e6215c6e347e7c64f09efaa4720
   page: news_继金星后又一男星变性成功，手术后疼的满地爬.md
 - name: news_维密迎首位变性模特高管曾因反对变性人代言被喷
   filename: news_维密迎首位变性模特高管曾因反对变性人代言被喷.md
   type: webpage
   format: Markdown
-  size: 6990
-  md5: 33f5cf350857c66c4359ae8ecaccb48e
+  size: 6024
+  md5: e43be807a324785d2cbb8a9132832562
   page: news_维密迎首位变性模特高管曾因反对变性人代言被喷.md
 - name: news_美一高中200学生抗议变性人用女厕所：她还没做手术
   filename: news_美一高中200学生抗议变性人用女厕所：她还没做手术.md
   type: webpage
   format: Markdown
-  size: 3200
-  md5: 35441f843d7e5ce2a94bf5378a3c4a64
+  size: 2231
+  md5: 06432949185f8a95bcc5c3376df8b2f6
   page: news_美一高中200学生抗议变性人用女厕所：她还没做手术.md
 - name: news_美双胞胎姐妹一起变性
   filename: news_美双胞胎姐妹一起变性.md
   type: webpage
   format: Markdown
-  size: 1570
-  md5: 882f17889422088f8a3d172e86353797
+  size: 640
+  md5: 92c2989c4c367ee602d508a1278fe462
   page: news_美双胞胎姐妹一起变性.md
 - name: news_美国佛罗里达州禁止变性女性参加女子青少年体育比赛
   filename: news_美国佛罗里达州禁止变性女性参加女子青少年体育比赛.md
   type: webpage
   format: Markdown
-  size: 2270
-  md5: ab345513d47b82819ebb4e1c7b491efe
+  size: 1298
+  md5: 4648c6830f53d6dbd2a77818117d39bb
   page: news_美国佛罗里达州禁止变性女性参加女子青少年体育比赛.md
 - name: news_美国侏儒与1.90米变性女子恋爱身高差达58厘米
   filename: news_美国侏儒与1.90米变性女子恋爱身高差达58厘米.md
   type: webpage
   format: Markdown
-  size: 3308
-  md5: 3a3119b16aee54aa7706d41649ab6c80
+  size: 2348
+  md5: 1c9c2519b1dde5f426f9565cde0fff11
   page: news_美国侏儒与1.90米变性女子恋爱身高差达58厘米.md
 - name: news_美国俄勒冈一小城选出变性人当市长
   filename: news_美国俄勒冈一小城选出变性人当市长.md
   type: webpage
   format: Markdown
-  size: 2923
-  md5: 5c8ebc1fb935d25d700409ec3e51ff3c
+  size: 1975
+  md5: 00a49244788b47fe6243a1455377ebe8
   page: news_美国俄勒冈一小城选出变性人当市长.md
 - name: news_美国出现历史上首位变性市长欲会奥巴马[图]
   filename: news_美国出现历史上首位变性市长欲会奥巴马[图].md
   type: webpage
   format: Markdown
-  size: 3648
-  md5: c2be057cf4ac7881fbde12ae11567eee
+  size: 2689
+  md5: 1879dbbad87a4a82e57aa248c7479a2e
   page: news_美国出现历史上首位变性市长欲会奥巴马[图].md
 - name: news_美国前海豹突击队成员后悔变性：我被CNN利用了
   filename: news_美国前海豹突击队成员后悔变性：我被CNN利用了.md
   type: webpage
   format: Markdown
-  size: 7393
-  md5: 5040d4042f5b00efeee2127c81cf7f27
+  size: 6430
+  md5: 4c16f56e05b195790425f718564e7963
   page: news_美国前海豹突击队成员后悔变性：我被CNN利用了.md
 - name: news_美国加州通过新政：囚犯欲变性政府须买单
   filename: news_美国加州通过新政：囚犯欲变性政府须买单.md
   type: webpage
   format: Markdown
-  size: 3565
-  md5: dfe198cb90ec1f85f8d858a2ed23adda
+  size: 2608
+  md5: 533bced6c8bbddd132bd114e5c1fc746
   page: news_美国加州通过新政：囚犯欲变性政府须买单.md
 - name: news_美国变性人结婚：“丈夫”生娃“妻子”当爸
   filename: news_美国变性人结婚：“丈夫”生娃“妻子”当爸.md
   type: webpage
   format: Markdown
-  size: 6778
-  md5: e0c5e45a274281f6b90c6bb82b35e0b8
+  size: 5818
+  md5: 955eb35b12cfc5cb7bf90ee1dab0cfa1
   page: news_美国变性人结婚：“丈夫”生娃“妻子”当爸.md
 - name: news_美国变性夫妇育有两子（高清组图）
   filename: news_美国变性夫妇育有两子（高清组图）.md
   type: webpage
   format: Markdown
-  size: 2852
-  md5: e3c28b62a206e6fc940bc96cbf878c47
+  size: 1904
+  md5: 9204a10dc399cc94114666f958bd470d
   page: news_美国变性夫妇育有两子（高清组图）.md
 - name: news_美国变性女郎再次变回男儿身[组图]
   filename: news_美国变性女郎再次变回男儿身[组图].md
   type: webpage
   format: Markdown
-  size: 2532
-  md5: 4f6ddf6f5a1a902712c0149cc767f2ba
+  size: 1585
+  md5: ce0703fdafb9532c1ac12be2e1fd8cdb
   page: news_美国变性女郎再次变回男儿身[组图].md
 - name: news_美国大学男教授变性成女人惊呆学生(组图)
   filename: news_美国大学男教授变性成女人惊呆学生(组图).md
   type: webpage
   format: Markdown
-  size: 5484
-  md5: b90e6472aa33bc5b0ced8e3e08caae0f
+  size: 4528
+  md5: 39615a81f57836e7eb32ccfb45588917
   page: news_美国大学男教授变性成女人惊呆学生(组图).md
 - name: news_美国女子后悔变性，警告称人们25岁前不该被允许做手术
   filename: news_美国女子后悔变性，警告称人们25岁前不该被允许做手术.md
   type: webpage
   format: Markdown
-  size: 7800
-  md5: 45aa0837cb4b2e7e517e50049f171f58
+  size: 6826
+  md5: 03fce46557504c7e002e2b753d9837e5
   page: news_美国女子后悔变性，警告称人们25岁前不该被允许做手术.md
 - name: news_美国怀孕变性人接受专访称想要更多孩子(组图)
   filename: news_美国怀孕变性人接受专访称想要更多孩子(组图).md
   type: webpage
   format: Markdown
-  size: 3164
-  md5: 42b400c04ba1b4d927c2a9740919675c
+  size: 2202
+  md5: 2095442dfedd3ffa250b4bbbd1c54211
   page: news_美国怀孕变性人接受专访称想要更多孩子(组图).md
 - name: news_美国怀孕男子更多生活照片曝光[组图]
   filename: news_美国怀孕男子更多生活照片曝光[组图].md
   type: webpage
   format: Markdown
-  size: 2559
-  md5: 76e23d0fac7a377485cecee0508eb3d4
+  size: 1609
+  md5: 947e9b6fe2b391ff9e4362622cad299d
   page: news_美国怀孕男子更多生活照片曝光[组图].md
 - name: news_美国监狱拒绝为杀妻囚犯提供变性治疗被诉
   filename: news_美国监狱拒绝为杀妻囚犯提供变性治疗被诉.md
   type: webpage
   format: Markdown
-  size: 4621
-  md5: 33d253b45616ade10b40268049cd9266
+  size: 3664
+  md5: 8290cbcf17051b2d1f091fc316c9556e
   page: news_美国监狱拒绝为杀妻囚犯提供变性治疗被诉.md
 - name: news_美国首位变性四星上将就职，系美级别最高变性官员
   filename: news_美国首位变性四星上将就职，系美级别最高变性官员.md
   type: webpage
   format: Markdown
-  size: 3194
-  md5: 0053fbfe9a7271d29b35353f95932c93
+  size: 2225
+  md5: 8904e66c952bb910bd67e31d57a43fd1
   page: news_美国首位变性四星上将就职，系美级别最高变性官员.md
 - name: news_美国首例女变性人囚犯被处决
   filename: news_美国首例女变性人囚犯被处决.md
   type: webpage
   format: Markdown
-  size: 6933
-  md5: 32573b55b276a57cb5ba86440fb883b6
+  size: 5994
+  md5: 54030997971f2122f6d7dbfacb20d51d
   page: news_美国首例女变性人囚犯被处决.md
 - name: news_美国：变性民主党人赢初选现场有望成州长创历史
   filename: news_美国：变性民主党人赢初选现场有望成州长创历史.md
   type: webpage
   format: Markdown
-  size: 1529
-  md5: bd7ef2fc3a7b080744bcc2a73624b9ed
+  size: 563
+  md5: 0b1ce5874a3ba7a30c7006f1afcb9c55
   page: news_美国：变性民主党人赢初选现场有望成州长创历史.md
 - name: news_美政府扩充“奥巴马医保”法规禁止歧视变性人
   filename: news_美政府扩充“奥巴马医保”法规禁止歧视变性人.md
   type: webpage
   format: Markdown
-  size: 3001
-  md5: 31c7b83bf5724712cd37c7c915e40d93
+  size: 2038
+  md5: 8e4ea3e67c9be7ae8e79d05aea75b338
   page: news_美政府扩充“奥巴马医保”法规禁止歧视变性人.md
 - name: news_美最富有女CEO承认原是男儿身变性后仍与妻子生活
   filename: news_美最富有女CEO承认原是男儿身变性后仍与妻子生活.md
   type: webpage
   format: Markdown
-  size: 3715
-  md5: 3bdf71bbd209a31595201365470b2c0e
+  size: 2749
+  md5: c468bd7518b1b6d8e8c8f5cfa4f5f124
   page: news_美最富有女CEO承认原是男儿身变性后仍与妻子生活.md
 - name: news_胖大叔变美熟女台一中学男老师变性获学生力挺
   filename: news_胖大叔变美熟女台一中学男老师变性获学生力挺.md
   type: webpage
   format: Markdown
-  size: 3695
-  md5: 95b0dba7355d301ffd969c3b2340d613
+  size: 2732
+  md5: 7bc8a9f96416a1c967cbb3795f8c6836
   page: news_胖大叔变美熟女台一中学男老师变性获学生力挺.md
 - name: news_英一杀手狱中变性成老太与女杀手相恋结婚(图)
   filename: news_英一杀手狱中变性成老太与女杀手相恋结婚(图).md
   type: webpage
   format: Markdown
-  size: 968
-  md5: 7451af4ce90bba368fb1655d1e4aa7a0
+  size: 6
+  md5: 220ae1b9adb61a5e7b3ac9b94320ebc5
   page: news_英一杀手狱中变性成老太与女杀手相恋结婚(图).md
 - name: news_英国27岁帅哥军官变性成美女
   filename: news_英国27岁帅哥军官变性成美女.md
   type: webpage
   format: Markdown
-  size: 2239
-  md5: b9747a6845726a710fa438485a411c22
+  size: 1301
+  md5: 9056ae33c540c14a747d9bf45ce68210
   page: news_英国27岁帅哥军官变性成美女.md
 - name: news_英国75岁男子变性异装癖致多次离婚(图)
   filename: news_英国75岁男子变性异装癖致多次离婚(图).md
   type: webpage
   format: Markdown
-  size: 1976
-  md5: b25366a525e8990f361c73ff5831fbf3
+  size: 1024
+  md5: 17e508b63a1cbc68e9580b60ddf416f3
   page: news_英国75岁男子变性异装癖致多次离婚(图).md
 - name: news_英国81岁传奇作家变性36年后再娶前妻(图)
   filename: news_英国81岁传奇作家变性36年后再娶前妻(图).md
   type: webpage
   format: Markdown
-  size: 5453
-  md5: 81de7970dc1e264dddb87cb4d3c63f90
+  size: 4499
+  md5: af3aa8c9b4b63e8020d74e0fdda934ce
   page: news_英国81岁传奇作家变性36年后再娶前妻(图).md
 - name: news_英国一变性女囚被强迫关入男牢后死亡
   filename: news_英国一变性女囚被强迫关入男牢后死亡.md
   type: webpage
   format: Markdown
-  size: 3164
-  md5: f9838814cdd25007250d1430da49bacd
+  size: 2213
+  md5: ca2be902af8daccf54d1582cdba4fe36
   page: news_英国一变性女囚被强迫关入男牢后死亡.md
 - name: news_英国一女子支持父亲和丈夫变性三人成“闺密”
   filename: news_英国一女子支持父亲和丈夫变性三人成“闺密”.md
   type: webpage
   format: Markdown
-  size: 3519
-  md5: 38376bbbd2d2dfcfb42ec8ce7d138b3b
+  size: 2556
+  md5: e5188d6397bb98a8246c3145b8496da2
   page: news_英国一女子支持父亲和丈夫变性三人成“闺密”.md
 - name: news_英国一常败拳击手厌烦当猛男变性获妻支持(图)
   filename: news_英国一常败拳击手厌烦当猛男变性获妻支持(图).md
   type: webpage
   format: Markdown
-  size: 3527
-  md5: 99b7573d1b140c23b1f71f803da986ff
+  size: 2565
+  md5: d92311c4e9580c607dca2b1b8d836e81
   page: news_英国一常败拳击手厌烦当猛男变性获妻支持(图).md
 - name: news_英国七旬老翁成为全球首位变性艺伎_资讯
   filename: news_英国七旬老翁成为全球首位变性艺伎_资讯.md
   type: webpage
   format: Markdown
-  size: 3381
-  md5: 793c566ede9b7a330e9fc5e029c1f7ca
+  size: 2426
+  md5: f267f6efb479c942e9a438e0eab50d96
   page: news_英国七旬老翁成为全球首位变性艺伎_资讯.md
 - name: news_英国两男子相恋双双变性后步入婚姻殿堂（组图）
   filename: news_英国两男子相恋双双变性后步入婚姻殿堂（组图）.md
   type: webpage
   format: Markdown
-  size: 1764
-  md5: 06128b29ce4970ffdf2f65af9bc7123e
+  size: 798
+  md5: 7d9901eea76913e9823fa63b416ee53d
   page: news_英国两男子相恋双双变性后步入婚姻殿堂（组图）.md
 - name: news_英国为性别认同障碍儿童提供药物辅助变性手术
   filename: news_英国为性别认同障碍儿童提供药物辅助变性手术.md
   type: webpage
   format: Markdown
-  size: 3946
-  md5: 5f3da66279364ff95eeaa69cdce76ab1
+  size: 2983
+  md5: fa0d9df10e886c6978b421b2da938169
   page: news_英国为性别认同障碍儿童提供药物辅助变性手术.md
 - name: news_英国军官变性成为苏格兰首位“变性女警官”(图)_军事
   filename: news_英国军官变性成为苏格兰首位“变性女警官”(图)_军事.md
   type: webpage
   format: Markdown
-  size: 2567
-  md5: b9fedc4bc2c66a02a1dda70c2bec8db8
+  size: 1595
+  md5: 1d9dc5a959e0eb38e20b08717f23a164
   page: news_英国军官变性成为苏格兰首位“变性女警官”(图)_军事.md
 - name: news_英国变性男囚在男牢受威胁在女牢遭排挤
   filename: news_英国变性男囚在男牢受威胁在女牢遭排挤.md
   type: webpage
   format: Markdown
-  size: 3442
-  md5: 647a58d2bffcd13282d02b9780a17887
+  size: 2488
+  md5: f3f0f1845a464a7e3656d88f39aa1243
   page: news_英国变性男囚在男牢受威胁在女牢遭排挤.md
 - name: news_英国变性第一人：妩媚妖娆曾被毕加索追求(组图)
   filename: news_英国变性第一人：妩媚妖娆曾被毕加索追求(组图).md
   type: webpage
   format: Markdown
-  size: 3416
-  md5: c89419c6d1dc5ef2856f8079b28f2c3b
+  size: 2451
+  md5: 156394b18a41466a95e94116a8dd9732
   page: news_英国变性第一人：妩媚妖娆曾被毕加索追求(组图).md
 - name: news_英国变性美女被囚男监狱民众忧其遭性侵万人请愿(图)
   filename: news_英国变性美女被囚男监狱民众忧其遭性侵万人请愿(图).md
   type: webpage
   format: Markdown
-  size: 3010
-  md5: 09c5a9c3d869c6d4e320cd28e42e5ace
+  size: 2039
+  md5: 3aa7ad8568e6dbd1f5e5f0137cdbf657
   page: news_英国变性美女被囚男监狱民众忧其遭性侵万人请愿(图).md
 - name: news_英国国民医保慷慨“助变性”_遭民间组织批评
   filename: news_英国国民医保慷慨“助变性”_遭民间组织批评.md
   type: webpage
   format: Markdown
-  size: 3160
-  md5: c3b9f952acbc3d662878f5712cd24368
+  size: 2199
+  md5: 6aca5df0a58c5f02d0f4b18ff83afbd4
   page: news_英国国民医保慷慨“助变性”_遭民间组织批评.md
 - name: news_英国男子不惜变性逃避5万英镑债务
   filename: news_英国男子不惜变性逃避5万英镑债务.md
   type: webpage
   format: Markdown
-  size: 2336
-  md5: fa3958d2138873247168983a7ef56643
+  size: 1390
+  md5: ed89fa79a15e367db7ae1686cae6dd69
   page: news_英国男子不惜变性逃避5万英镑债务.md
 - name: news_英国男子变性后再娶妻子当新娘(组图)
   filename: news_英国男子变性后再娶妻子当新娘(组图).md
   type: webpage
   format: Markdown
-  size: 3807
-  md5: 7a41b087c495174475e8cb35e1983945
+  size: 2857
+  md5: abf9edf45b815e5b758a19aa706df469
   page: news_英国男子变性后再娶妻子当新娘(组图).md
 - name: news_英国男子在泰国与变性人发生冲突被打倒_资讯频道
   filename: news_英国男子在泰国与变性人发生冲突被打倒_资讯频道.md
   type: webpage
   format: Markdown
-  size: 1533
-  md5: fdad98900ac49564e2e4eaf4420736f8
+  size: 566
+  md5: a3eec1d07494945d92530f152c4f33c0
   page: news_英国男子在泰国与变性人发生冲突被打倒_资讯频道.md
 - name: news_英国自行车手失踪4年秘密变性(图)_资讯
   filename: news_英国自行车手失踪4年秘密变性(图)_资讯.md
   type: webpage
   format: Markdown
-  size: 4138
-  md5: dc69ff87a151fc3033adc0e3f2ae571a
+  size: 3186
+  md5: 57a1350ab1d015723905fd5b6a929b62
   page: news_英国自行车手失踪4年秘密变性(图)_资讯.md
 - name: news_英国防部前职员变性当艺妓[组图]
   filename: news_英国防部前职员变性当艺妓[组图].md
   type: webpage
   format: Markdown
-  size: 3203
-  md5: ecc6569cb36dcebc42ec6e8e0b34cf95
+  size: 2259
+  md5: 4fbac8b6d31b1c08dc8b12e5cce74c69
   page: news_英国防部前职员变性当艺妓[组图].md
 - name: news_英国顶级美女名模变性后成男同性恋(图)
   filename: news_英国顶级美女名模变性后成男同性恋(图).md
   type: webpage
   format: Markdown
-  size: 3890
-  md5: a99e1356370e40fd69f13c24890938f1
+  size: 2937
+  md5: a7dae9bae1f93a0a4ca5c2e96107132c
   page: news_英国顶级美女名模变性后成男同性恋(图).md
 - name: news_荷兰一节目跨性别人士全裸出镜，与孩子分享变性经历
   filename: news_荷兰一节目跨性别人士全裸出镜，与孩子分享变性经历.md
   type: webpage
   format: Markdown
-  size: 1783
-  md5: 94b9d31f9b189ef1eff19dbb35584efc
+  size: 811
+  md5: 5883fb7b871b7e15e1e81e4111d419b1
   page: news_荷兰一节目跨性别人士全裸出镜，与孩子分享变性经历.md
 - name: news_菲律宾变性人遇害案引发反美情绪美军舰取消访问
   filename: news_菲律宾变性人遇害案引发反美情绪美军舰取消访问.md
   type: webpage
   format: Markdown
-  size: 3709
-  md5: 751ef41212c5fe75e0eb9df1ccbada6a
+  size: 2743
+  md5: 704877364f3fc9e50df6d06a408c9a66
   page: news_菲律宾变性人遇害案引发反美情绪美军舰取消访问.md
 - name: news_菲律宾民众集会为疑遭美军杀害变性人讨公道
   filename: news_菲律宾民众集会为疑遭美军杀害变性人讨公道.md
   type: webpage
   format: Markdown
-  size: 2359
-  md5: d31d84c815b95a8eca9ce2cf77d42da1
+  size: 1399
+  md5: 324a6f55ce75cfb5693a53c5948009b0
   page: news_菲律宾民众集会为疑遭美军杀害变性人讨公道.md
 - name: news_菲律宾的变性人_资讯频道
   filename: news_菲律宾的变性人_资讯频道.md
   type: webpage
   format: Markdown
-  size: 2835
-  md5: 75bb9f0fac20d2b621ccd52f6cdcba96
+  size: 1901
+  md5: d2e1f9fb584d895ecb169f793e5ba060
   page: news_菲律宾的变性人_资讯频道.md
 - name: news_萨顶顶不满被曝黑历史暗讽变性金星：我的人生堪称完美
   filename: news_萨顶顶不满被曝黑历史暗讽变性金星：我的人生堪称完美.md
   type: webpage
   format: Markdown
-  size: 5109
-  md5: 1ef3a48d5ee54cf6bad64c84616c95a4
+  size: 4134
+  md5: 98b00d567a9212b7ca5a9f5eb72af5e9
   page: news_萨顶顶不满被曝黑历史暗讽变性金星：我的人生堪称完美.md
 - name: news_被勒令退伍的韩国变性军人家中意外死亡
   filename: news_被勒令退伍的韩国变性军人家中意外死亡.md
   type: webpage
   format: Markdown
-  size: 1926
-  md5: 413f0cde428e2a2c3efde3f3da3d2de1
+  size: 972
+  md5: 90d5ff7f20634aca237a48bf4d272c90
   page: news_被勒令退伍的韩国变性军人家中意外死亡.md
 - name: news_西北大学男生男扮女装惊艳网络没想过变性还没恋爱
   filename: news_西北大学男生男扮女装惊艳网络没想过变性还没恋爱.md
   type: webpage
   format: Markdown
-  size: 2182
-  md5: a2b2647a7c9b9fd293415cb9f1e0a7c9
+  size: 1213
+  md5: ab51307a521f6662d63d947eefa9fb85
   page: news_西北大学男生男扮女装惊艳网络没想过变性还没恋爱.md
 - name: news_解密50岁老汉变性手术过程
   filename: news_解密50岁老汉变性手术过程.md
   type: webpage
   format: Markdown
-  size: 1797
-  md5: 0326f57cb5620b28bd586028b0a556fa
+  size: 862
+  md5: ac68b216c90a5ca9c0ce26250a0905f0
   page: news_解密50岁老汉变性手术过程.md
 - name: news_质问得州州长竞选人是否会反对儿童变性手术
   filename: news_质问得州州长竞选人是否会反对儿童变性手术.md
   type: webpage
   format: Markdown
-  size: 6649
-  md5: 4d7125ec994dd54c75d337e0485f4bee
+  size: 5689
+  md5: c6b305f78ed2c758cd82c0ad6da30b5b
   page: news_质问得州州长竞选人是否会反对儿童变性手术.md
 - name: news_越南变性人裸体站警车旁引围观警方称其只是在秀身材
   filename: news_越南变性人裸体站警车旁引围观警方称其只是在秀身材.md
   type: webpage
   format: Markdown
-  size: 2583
-  md5: 5663eb4e08c510f62a28cbf28c71f6db
+  size: 1611
+  md5: 1c9e9f5595b3f1c4e1f204954aa6cc18
   page: news_越南变性人裸体站警车旁引围观警方称其只是在秀身材.md
 - name: news_道德模范刘霆：我不是变性只是回归本来的自己(图)
   filename: news_道德模范刘霆：我不是变性只是回归本来的自己(图).md
   type: webpage
   format: Markdown
-  size: 9068
-  md5: f481ca59e687e6c1cd7a1d5b7bf2ef45
+  size: 8100
+  md5: 2bb4d5a5d6316b3c727823dcaf8c8ccd
   page: news_道德模范刘霆：我不是变性只是回归本来的自己(图).md
 - name: news_郑州男子泰国变性改身份证性别受阻，警方回应
   filename: news_郑州男子泰国变性改身份证性别受阻，警方回应.md
   type: webpage
   format: Markdown
-  size: 1751
-  md5: fe15940e32ff2e272d3fca7aee37d3ee
+  size: 788
+  md5: f88e3f676b50aaf88239a0eda62fc7e5
   page: news_郑州男子泰国变性改身份证性别受阻，警方回应.md
 - name: news_金星首次和母亲提变性时，母亲十分坦然的就接受了
   filename: news_金星首次和母亲提变性时，母亲十分坦然的就接受了.md
   type: webpage
   format: Markdown
-  size: 1780
-  md5: a63f99e15f897ca0fff987aeec5bcac0
+  size: 811
+  md5: 94db54116be0f262eabf6877d6faeb18
   page: news_金星首次和母亲提变性时，母亲十分坦然的就接受了.md
 - name: news_阿根廷变性人因在臀部注射工业硅胶死亡(图)
   filename: news_阿根廷变性人因在臀部注射工业硅胶死亡(图).md
   type: webpage
   format: Markdown
-  size: 2531
-  md5: 1c79c4ad0e27b798dbde5db28ff6ea49
+  size: 1572
+  md5: fd83385a750770fbe03dee63db978089
   page: news_阿根廷变性人因在臀部注射工业硅胶死亡(图).md
 - name: news_阿根廷变性女星遭虐杀震惊全国一月内3名变性人被杀
   filename: news_阿根廷变性女星遭虐杀震惊全国一月内3名变性人被杀.md
   type: webpage
   format: Markdown
-  size: 3482
-  md5: 9a9a7b250630b6c08fc24b8fb4eb3ed6
+  size: 2512
+  md5: 617736b58f114e12c2807ea694e0c721
   page: news_阿根廷变性女星遭虐杀震惊全国一月内3名变性人被杀.md
 - name: news_难忍其辱！美国变性学生状告学校设立单独卫生间
   filename: news_难忍其辱！美国变性学生状告学校设立单独卫生间.md
   type: webpage
   format: Markdown
-  size: 3138
-  md5: df0483da36c7ef868a22a40ea3fda9b2
+  size: 2172
+  md5: 0aafc2c7c82f74a99c06944d71d55fd6
   page: news_难忍其辱！美国变性学生状告学校设立单独卫生间.md
 - name: news_面孔变性中的Lea
   filename: news_面孔变性中的Lea.md
   type: webpage
   format: Markdown
-  size: 3457
-  md5: cc135a3c3d321e8c5b7e480853b560f5
+  size: 2536
+  md5: 40cb6fd35c93396a48168236d4b70c46
   page: news_面孔变性中的Lea.md
 - name: news_韩国28岁男子强奸变性人被判刑3年
   filename: news_韩国28岁男子强奸变性人被判刑3年.md
   type: webpage
   format: Markdown
-  size: 2377
-  md5: b9887897f35e741bf994de1e664f2f69
+  size: 1432
+  md5: 18dc4bf9ca0f73dcbbe570f913e16067
   page: news_韩国28岁男子强奸变性人被判刑3年.md
 - name: news_韩国变性艺人张彩媛自杀身亡(图)_资讯
   filename: news_韩国变性艺人张彩媛自杀身亡(图)_资讯.md
   type: webpage
   format: Markdown
-  size: 2044
-  md5: 3608590cbbd905c2408d1edcd5353498
+  size: 1093
+  md5: 9915e396ead1a3fd3bd9a68c5360abe9
   page: news_韩国变性艺人张彩媛自杀身亡(图)_资讯.md
 - name: news_韩国整容、泰国变性、土耳其植胸毛
   filename: news_韩国整容、泰国变性、土耳其植胸毛.md
   type: webpage
   format: Markdown
-  size: 10049
-  md5: 639a0ba5cb07a2d336c8d7fef0e06e4a
+  size: 9101
+  md5: a149d7a919a49519acca3ec87b72d49a
   page: news_韩国整容、泰国变性、土耳其植胸毛.md
 - name: news_韩国首位变性军人在家中去世，曾被勒令退伍
   filename: news_韩国首位变性军人在家中去世，曾被勒令退伍.md
   type: webpage
   format: Markdown
-  size: 1715
-  md5: 85ecd905d23a0e6e8f073ce94c01512e
+  size: 755
+  md5: 8d1b2796fb797826e1db5d50af31843b
   page: news_韩国首位变性军人在家中去世，曾被勒令退伍.md
 - name: news_首位变性人参选环球小姐选美大赛
   filename: news_首位变性人参选环球小姐选美大赛.md
   type: webpage
   format: Markdown
-  size: 1425
-  md5: 8f116ce2237f19e6d3779afa54c0bf86
+  size: 480
+  md5: bb97c3580f4ce968ea4363ab05b802e2
   page: news_首位变性人参选环球小姐选美大赛.md
 - name: news_香港变性人可结婚，是尊重少数人权利
   filename: news_香港变性人可结婚，是尊重少数人权利.md
   type: webpage
   format: Markdown
-  size: 5189
-  md5: 6543c85004a95090de1a0161f90a6392
+  size: 4238
+  md5: 782fceef646428c2ca1321bea864b1f6
   page: news_香港变性人可结婚，是尊重少数人权利.md
 - name: news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义
   filename: news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义.md
   type: webpage
   format: Markdown
-  size: 13745
-  md5: 43353e3f9b53548d0c6ff5269c6506ce
+  size: 12761
+  md5: 384b1c734b06be0a0bae01798b32d1b7
   page: news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义.md
 - name: news_马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职
   filename: news_马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职.md
   type: webpage
   format: Markdown
-  size: 8693
-  md5: 69a83422a748da64eed5b0fe3a525e0f
+  size: 7715
+  md5: 7c94aff16a9e57d12dc38b1f3c1f488c
   page: news_马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职.md
 - name: page
   filename: page.yml
