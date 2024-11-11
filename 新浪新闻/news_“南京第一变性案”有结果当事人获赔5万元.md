@@ -35,10 +35,13 @@
 > | Filename        | news_“南京第一变性案”有结果当事人获赔5万元.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-05-17/detail-ikknscsi6654625.d.html](https://news.sina.cn/sa/2005-05-17/detail-ikknscsi6654625.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3749 bytes                           |
+> | MD5             | 34564daa3428b8640b68c89dcc7d8c8f                                  |
 > | Archived Date   | 2024-11-02 05:00:55                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-05-17/detail-ikknscsi6654625.d.html](https://news.sina.cn/sa/2005-05-17/detail-ikknscsi6654625.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

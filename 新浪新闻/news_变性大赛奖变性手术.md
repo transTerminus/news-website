@@ -29,10 +29,13 @@
 > | Filename        | news_变性大赛奖变性手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/gj/2016-01-27/detail-ifxnvhvu7083271.d.html](http://news.sina.cn/gj/2016-01-27/detail-ifxnvhvu7083271.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1340 bytes                           |
+> | MD5             | 02b787ebd28ab212a386aa2126ed8ce8                                  |
 > | Archived Date   | 2024-11-02 03:26:36                             |
+> | Original Link   | [http://news.sina.cn/gj/2016-01-27/detail-ifxnvhvu7083271.d.html](http://news.sina.cn/gj/2016-01-27/detail-ifxnvhvu7083271.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

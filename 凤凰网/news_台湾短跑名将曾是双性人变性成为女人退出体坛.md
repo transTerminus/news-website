@@ -33,10 +33,13 @@
 > | Filename        | news_台湾短跑名将曾是双性人变性成为女人退出体坛.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/taiwan/2/200908/0821_352_1313313.shtml](https://news.ifeng.com/taiwan/2/200908/0821_352_1313313.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1749 bytes                           |
+> | MD5             | cd0683210777720a169d17e87bf73590                                  |
 > | Archived Date   | 2024-11-02 08:33:52                             |
+> | Original Link   | [https://news.ifeng.com/taiwan/2/200908/0821_352_1313313.shtml](https://news.ifeng.com/taiwan/2/200908/0821_352_1313313.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

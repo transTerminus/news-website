@@ -45,10 +45,13 @@
 > | Filename        | news_英国七旬老翁成为全球首位变性艺伎_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/world/person/200810/1023_2598_843178.shtml](https://news.ifeng.com/world/person/200810/1023_2598_843178.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2426 bytes                           |
+> | MD5             | f267f6efb479c942e9a438e0eab50d96                                  |
 > | Archived Date   | 2024-11-02 08:37:34                             |
+> | Original Link   | [https://news.ifeng.com/world/person/200810/1023_2598_843178.shtml](https://news.ifeng.com/world/person/200810/1023_2598_843178.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

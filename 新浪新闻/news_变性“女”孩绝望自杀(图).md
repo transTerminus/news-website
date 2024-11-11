@@ -44,10 +44,13 @@
 > | Filename        | news_变性“女”孩绝望自杀(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-05-13/detail-ikknscsi3061093.d.html](https://news.sina.cn/sa/2004-05-13/detail-ikknscsi3061093.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5993 bytes                           |
+> | MD5             | 655d0d307b0e00dc27283d4463eb6652                                  |
 > | Archived Date   | 2024-11-02 04:37:45                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-05-13/detail-ikknscsi3061093.d.html](https://news.sina.cn/sa/2004-05-13/detail-ikknscsi3061093.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

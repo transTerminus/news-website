@@ -91,10 +91,13 @@ New Production From The West:Tomorrowland
 > | Filename        | m_纪录片《小女孩》聚焦八岁儿童性别启蒙.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9422599](https://m.thepaper.cn/newsDetail_forward_9422599)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 14056 bytes                           |
+> | MD5             | b0bd74f63357648c65d513f009725c84                                  |
 > | Archived Date   | 2024-11-03 09:50:34                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9422599](https://m.thepaper.cn/newsDetail_forward_9422599)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

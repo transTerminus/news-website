@@ -68,10 +68,13 @@
 > | Filename        | news_当当网产品总监做变性手术后疑遭歧视被解雇，法院在判决书_.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gn/2020-07-04/detail-iirczymm0483774.d.html](https://news.sina.cn/gn/2020-07-04/detail-iirczymm0483774.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10255 bytes                           |
+> | MD5             | 1c8da60d2063b36aeb2bd87994c24e41                                  |
 > | Archived Date   | 2024-11-02 04:07:39                             |
+> | Original Link   | [https://news.sina.cn/gn/2020-07-04/detail-iirczymm0483774.d.html](https://news.sina.cn/gn/2020-07-04/detail-iirczymm0483774.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

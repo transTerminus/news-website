@@ -85,10 +85,13 @@
 > | Filename        | news_男子追男友因性别不和被拒绝变性后两人终相爱.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7fZmaqPGCvj](https://news.ifeng.com/c/7fZmaqPGCvj)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4804 bytes                           |
+> | MD5             | ceb2bbf9efa7407517da791106378e25                                  |
 > | Archived Date   | 2024-11-02 07:56:16                             |
+> | Original Link   | [https://news.ifeng.com/c/7fZmaqPGCvj](https://news.ifeng.com/c/7fZmaqPGCvj)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

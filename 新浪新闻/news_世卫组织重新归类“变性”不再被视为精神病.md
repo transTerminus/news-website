@@ -37,10 +37,13 @@
 > | Filename        | news_世卫组织重新归类“变性”不再被视为精神病.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4](https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2660 bytes                           |
+> | MD5             | 1b9dd7e534dad5d2fd70071072727490                                  |
 > | Archived Date   | 2024-11-02 04:00:06                             |
+> | Original Link   | [https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4](https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -33,10 +33,13 @@
 > | Filename        | news_德16岁男童做变性手术成全球最年轻变性人[组图].md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/photo/society/200902/0205_1400_996932.shtml](https://news.ifeng.com/photo/society/200902/0205_1400_996932.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1808 bytes                           |
+> | MD5             | d985c06d107eda5b2b1c947e43f40fd6                                  |
 > | Archived Date   | 2024-11-02 08:26:54                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200902/0205_1400_996932.shtml](https://news.ifeng.com/photo/society/200902/0205_1400_996932.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

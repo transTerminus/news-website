@@ -81,10 +81,13 @@
 > | Filename        | m_跨性别者.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/tag/78589](https://m.thepaper.cn/tag/78589)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3120 bytes                           |
+> | MD5             | d844225b73e017c58a8122bab81e3b06                                  |
 > | Archived Date   | 2024-11-03 09:56:35                             |
+> | Original Link   | [https://m.thepaper.cn/tag/78589](https://m.thepaper.cn/tag/78589)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

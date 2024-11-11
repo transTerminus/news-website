@@ -35,10 +35,13 @@
 > | Filename        | news_泰国变性人首次当选省议员(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2012-05-30/detail-ikmxzfmk1022256.d.html](https://news.sina.cn/sa/2012-05-30/detail-ikmxzfmk1022256.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1664 bytes                           |
+> | MD5             | a1bb2c28ce4cc4518d57a6130c87041e                                  |
 > | Archived Date   | 2024-11-02 06:28:18                             |
+> | Original Link   | [https://news.sina.cn/sa/2012-05-30/detail-ikmxzfmk1022256.d.html](https://news.sina.cn/sa/2012-05-30/detail-ikmxzfmk1022256.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -47,10 +47,13 @@
 > | Filename        | news_美国监狱为男性囚犯提供变性手术将其移往女监.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/gj/2015-10-22/detail-ifxizwti6905076.d.html](http://news.sina.cn/gj/2015-10-22/detail-ifxizwti6905076.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2003 bytes                           |
+> | MD5             | c183ee285e59aec2e9dbb2085e56fdb5                                  |
 > | Archived Date   | 2024-11-02 03:25:53                             |
+> | Original Link   | [http://news.sina.cn/gj/2015-10-22/detail-ifxizwti6905076.d.html](http://news.sina.cn/gj/2015-10-22/detail-ifxizwti6905076.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

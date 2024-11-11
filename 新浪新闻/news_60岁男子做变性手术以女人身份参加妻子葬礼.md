@@ -54,10 +54,13 @@ Margaret称在婚姻生活中自己一直在试图掩饰自己对男性身体的
 > | Filename        | news_60岁男子做变性手术以女人身份参加妻子葬礼.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sh/2016-05-15/detail-ifxsenvn7185186.d.html](https://news.sina.cn/sh/2016-05-15/detail-ifxsenvn7185186.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2576 bytes                           |
+> | MD5             | 1917a1d91a5d1af515f40e8ca58478f3                                  |
 > | Archived Date   | 2024-11-02 06:34:28                             |
+> | Original Link   | [https://news.sina.cn/sh/2016-05-15/detail-ifxsenvn7185186.d.html](https://news.sina.cn/sh/2016-05-15/detail-ifxsenvn7185186.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

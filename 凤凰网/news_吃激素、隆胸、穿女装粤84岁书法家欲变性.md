@@ -67,10 +67,13 @@
 > | Filename        | news_吃激素、隆胸、穿女装粤84岁书法家欲变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7fcPpTORTiV](https://news.ifeng.com/c/7fcPpTORTiV)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5801 bytes                           |
+> | MD5             | 36c6ff76b71910dcef75bd65ef58cc48                                  |
 > | Archived Date   | 2024-11-02 07:58:56                             |
+> | Original Link   | [https://news.ifeng.com/c/7fcPpTORTiV](https://news.ifeng.com/c/7fcPpTORTiV)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

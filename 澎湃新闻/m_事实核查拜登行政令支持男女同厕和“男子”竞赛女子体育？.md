@@ -101,10 +101,13 @@
 > | Filename        | m_事实核查拜登行政令支持男女同厕和“男子”竞赛女子体育？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10922522](https://m.thepaper.cn/newsDetail_forward_10922522)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10600 bytes                           |
+> | MD5             | 08979448fe6063a2265c3e328f0fee2c                                  |
 > | Archived Date   | 2024-11-03 08:43:15                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10922522](https://m.thepaper.cn/newsDetail_forward_10922522)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

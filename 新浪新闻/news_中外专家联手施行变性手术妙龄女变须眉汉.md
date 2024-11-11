@@ -47,10 +47,13 @@
 > | Filename        | news_中外专家联手施行变性手术妙龄女变须眉汉.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-04-13/detail-ikkntiak9802119.d.html?from=wap](https://news.sina.cn/sa/2004-04-13/detail-ikkntiak9802119.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4401 bytes                           |
+> | MD5             | def7139836602e6bdb7ab6288a5d734e                                  |
 > | Archived Date   | 2024-11-02 04:35:38                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-04-13/detail-ikkntiak9802119.d.html?from=wap](https://news.sina.cn/sa/2004-04-13/detail-ikkntiak9802119.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

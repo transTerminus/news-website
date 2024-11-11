@@ -26,10 +26,13 @@
 > | Filename        | news_美国变性女郎再次变回男儿身[组图].md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml](https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1585 bytes                           |
+> | MD5             | ce0703fdafb9532c1ac12be2e1fd8cdb                                  |
 > | Archived Date   | 2024-11-02 08:25:57                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml](https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

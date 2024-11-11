@@ -164,10 +164,13 @@
 > | Filename        | m_奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13905390](https://m.thepaper.cn/newsDetail_forward_13905390)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 24282 bytes                           |
+> | MD5             | 529479377683d098ec13dcb7fb5fe533                                  |
 > | Archived Date   | 2024-11-03 08:56:26                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13905390](https://m.thepaper.cn/newsDetail_forward_13905390)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

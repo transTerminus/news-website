@@ -32,10 +32,13 @@
 > | Filename        | news_英国国民医保慷慨“助变性”_遭民间组织批评.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/world/201001/0126_16_1525200.shtml](https://news.ifeng.com/world/201001/0126_16_1525200.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2199 bytes                           |
+> | MD5             | 6aca5df0a58c5f02d0f4b18ff83afbd4                                  |
 > | Archived Date   | 2024-11-02 08:35:53                             |
+> | Original Link   | [https://news.ifeng.com/world/201001/0126_16_1525200.shtml](https://news.ifeng.com/world/201001/0126_16_1525200.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

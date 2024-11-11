@@ -33,10 +33,13 @@
 > | Filename        | news_泰国变性人情侣的生活、爱情和权利(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20150216/43190190_1.shtml](https://news.ifeng.com/a/20150216/43190190_1.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3226 bytes                           |
+> | MD5             | 6c94e77976e107876382c7412f49a98a                                  |
 > | Archived Date   | 2024-11-02 07:24:54                             |
+> | Original Link   | [https://news.ifeng.com/a/20150216/43190190_1.shtml](https://news.ifeng.com/a/20150216/43190190_1.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

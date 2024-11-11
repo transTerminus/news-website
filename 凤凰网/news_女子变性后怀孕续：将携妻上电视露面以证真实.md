@@ -68,10 +68,13 @@
 > | Filename        | news_女子变性后怀孕续：将携妻上电视露面以证真实.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/4/200804/0402_346_473653.shtml](https://news.ifeng.com/society/4/200804/0402_346_473653.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4659 bytes                           |
+> | MD5             | 1dbbf730266cf7219d19fea50c588dd7                                  |
 > | Archived Date   | 2024-11-02 08:32:15                             |
+> | Original Link   | [https://news.ifeng.com/society/4/200804/0402_346_473653.shtml](https://news.ifeng.com/society/4/200804/0402_346_473653.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

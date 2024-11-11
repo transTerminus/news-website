@@ -79,10 +79,13 @@
 > | Filename        | news_浙江首位变性人续：3小时后出现女性特征(附图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4738 bytes                           |
+> | MD5             | ab2db231876d979d820ec42df242f050                                  |
 > | Archived Date   | 2024-11-02 04:52:40                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

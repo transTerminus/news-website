@@ -49,10 +49,13 @@
 > | Filename        | news_老公变性悄为人妻是否重婚民政司法已有定论.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-09-26/detail-ikknscsi4350965.d.html](https://news.sina.cn/sa/2004-09-26/detail-ikknscsi4350965.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2281 bytes                           |
+> | MD5             | 3ff240e0852923dfb5a82c2b7806cfda                                  |
 > | Archived Date   | 2024-11-02 04:48:39                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-09-26/detail-ikknscsi4350965.d.html](https://news.sina.cn/sa/2004-09-26/detail-ikknscsi4350965.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

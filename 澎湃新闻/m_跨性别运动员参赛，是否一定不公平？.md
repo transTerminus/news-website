@@ -190,10 +190,13 @@ Chris Mosier认为即便法律本身未必得到通过，但剥夺参与体育�
 > | Filename        | m_跨性别运动员参赛，是否一定不公平？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13905825](https://m.thepaper.cn/newsDetail_forward_13905825)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 14389 bytes                           |
+> | MD5             | 3c2a78bf1afe49a3f02dd38a20ff66cc                                  |
 > | Archived Date   | 2024-11-03 08:56:51                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13905825](https://m.thepaper.cn/newsDetail_forward_13905825)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

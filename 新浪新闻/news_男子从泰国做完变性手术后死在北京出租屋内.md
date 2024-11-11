@@ -47,10 +47,13 @@
 > | Filename        | news_男子从泰国做完变性手术后死在北京出租屋内.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-02-06/detail-ikkntiam6459173.d.html](https://news.sina.cn/sa/2006-02-06/detail-ikkntiam6459173.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1913 bytes                           |
+> | MD5             | fc74928af80047afdf192fad11015be8                                  |
 > | Archived Date   | 2024-11-02 05:21:21                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-02-06/detail-ikkntiam6459173.d.html](https://news.sina.cn/sa/2006-02-06/detail-ikkntiam6459173.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

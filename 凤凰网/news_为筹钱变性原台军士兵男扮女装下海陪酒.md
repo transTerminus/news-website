@@ -20,10 +20,13 @@
 > | Filename        | news_为筹钱变性原台军士兵男扮女装下海陪酒.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/mil/taiwan/200809/0922_1569_797758.shtml](https://news.ifeng.com/mil/taiwan/200809/0922_1569_797758.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1021 bytes                           |
+> | MD5             | 4cfdd8edf89c22dc80316f08a23dacf9                                  |
 > | Archived Date   | 2024-11-02 08:23:56                             |
+> | Original Link   | [https://news.ifeng.com/mil/taiwan/200809/0922_1569_797758.shtml](https://news.ifeng.com/mil/taiwan/200809/0922_1569_797758.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

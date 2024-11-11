@@ -22,10 +22,13 @@
 > | Filename        | news_台湾著名主持人利菁变性前照片曝光.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2009-05-07/detail-ikkntian1600849.d.html](https://news.sina.cn/sa/2009-05-07/detail-ikkntian1600849.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 942 bytes                           |
+> | MD5             | ab7e94b2b1b63ac99be3a8856bc659a2                                  |
 > | Archived Date   | 2024-11-02 06:05:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-05-07/detail-ikkntian1600849.d.html](https://news.sina.cn/sa/2009-05-07/detail-ikkntian1600849.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -59,10 +59,13 @@
 > | Filename        | news_男子做变性手术意外中断医院被判赔偿5万元.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html](https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3827 bytes                           |
+> | MD5             | af52649ae641b481194bd86535ec1956                                  |
 > | Archived Date   | 2024-11-02 05:01:31                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html](https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

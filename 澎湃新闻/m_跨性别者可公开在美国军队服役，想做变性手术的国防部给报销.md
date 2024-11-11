@@ -41,10 +41,13 @@
 > | Filename        | m_跨性别者可公开在美国军队服役，想做变性手术的国防部给报销.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1492030](https://m.thepaper.cn/newsDetail_forward_1492030)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3509 bytes                           |
+> | MD5             | 08b2f32d187b792f2cae237c0ff6a8ed                                  |
 > | Archived Date   | 2024-11-03 09:04:04                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1492030](https://m.thepaper.cn/newsDetail_forward_1492030)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -36,10 +36,13 @@
 > | Filename        | m_性别辨认的奥运规则｜跨性别运动员人权与公平竞技的平衡.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13900171](https://m.thepaper.cn/newsDetail_forward_13900171)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5511 bytes                           |
+> | MD5             | 6efd7457f9eb546e8e13060c210b53aa                                  |
 > | Archived Date   | 2024-11-03 08:56:01                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13900171](https://m.thepaper.cn/newsDetail_forward_13900171)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

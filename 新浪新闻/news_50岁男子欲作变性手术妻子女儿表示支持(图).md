@@ -152,10 +152,13 @@
 > | Filename        | news_50岁男子欲作变性手术妻子女儿表示支持(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-11-09/detail-ikftssap2776602.d.html](https://news.sina.cn/sa/2006-11-09/detail-ikftssap2776602.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10242 bytes                           |
+> | MD5             | 7b981fc4f083e821837d98910dfab5d2                                  |
 > | Archived Date   | 2024-11-02 05:38:44                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-11-09/detail-ikftssap2776602.d.html](https://news.sina.cn/sa/2006-11-09/detail-ikftssap2776602.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

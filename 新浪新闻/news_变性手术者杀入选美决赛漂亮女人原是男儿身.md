@@ -83,10 +83,13 @@
 > | Filename        | news_变性手术者杀入选美决赛漂亮女人原是男儿身.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-04-01/detail-ikkntiak7272953.d.html](https://news.sina.cn/sa/2003-04-01/detail-ikkntiak7272953.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9743 bytes                           |
+> | MD5             | d8ff2311d00c54e0e49ce1cc995f059a                                  |
 > | Archived Date   | 2024-11-02 04:11:50                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-04-01/detail-ikkntiak7272953.d.html](https://news.sina.cn/sa/2003-04-01/detail-ikkntiak7272953.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

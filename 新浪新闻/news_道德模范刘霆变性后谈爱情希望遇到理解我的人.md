@@ -104,10 +104,13 @@
 > | Filename        | news_道德模范刘霆变性后谈爱情希望遇到理解我的人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sh/2015-04-09/detail-iawzuney2837357.d.html](https://news.sina.cn/sh/2015-04-09/detail-iawzuney2837357.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7802 bytes                           |
+> | MD5             | 0ba790c517a5d06293a56bb5c9b59a74                                  |
 > | Archived Date   | 2024-11-02 06:33:52                             |
+> | Original Link   | [https://news.sina.cn/sh/2015-04-09/detail-iawzuney2837357.d.html](https://news.sina.cn/sh/2015-04-09/detail-iawzuney2837357.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

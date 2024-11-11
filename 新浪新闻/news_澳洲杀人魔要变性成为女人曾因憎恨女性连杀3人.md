@@ -28,10 +28,13 @@
 > | Filename        | news_澳洲杀人魔要变性成为女人曾因憎恨女性连杀3人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-06-28/detail-ikkntiam0294951.d.html](https://news.sina.cn/sa/2004-06-28/detail-ikkntiam0294951.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1835 bytes                           |
+> | MD5             | 36c9f72eabe1ab630c12b967f7e7a21b                                  |
 > | Archived Date   | 2024-11-02 04:44:04                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-06-28/detail-ikkntiam0294951.d.html](https://news.sina.cn/sa/2004-06-28/detail-ikkntiam0294951.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

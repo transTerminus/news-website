@@ -36,10 +36,13 @@ mic.com分析称，金钠的胜利代表了清晰的前进步伐，表明一旦�
 > | Filename        | m_印度选出首位变性人市长，曾靠在火车上表演歌舞糊口.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=1291737&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=1291737&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3086 bytes                           |
+> | MD5             | 86504781d5013b6c740aa825a29661df                                  |
 > | Archived Date   | 2024-11-03 10:05:53                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=1291737&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=1291737&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

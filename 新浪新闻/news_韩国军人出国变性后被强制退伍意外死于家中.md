@@ -49,10 +49,13 @@
 > | Filename        | news_韩国军人出国变性后被强制退伍意外死于家中.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2021-03-04/detail-ikftssaq0786618.d.html](https://news.sina.cn/gj/2021-03-04/detail-ikftssaq0786618.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2185 bytes                           |
+> | MD5             | 0320c27919f0256f6041e5b11f3372b7                                  |
 > | Archived Date   | 2024-11-02 04:03:27                             |
+> | Original Link   | [https://news.sina.cn/gj/2021-03-04/detail-ikftssaq0786618.d.html](https://news.sina.cn/gj/2021-03-04/detail-ikftssaq0786618.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

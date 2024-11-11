@@ -18,10 +18,13 @@
 > | Filename        | news_金星首次和母亲提变性时，母亲十分坦然的就接受了.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/85tGQMcDBB5](https://news.ifeng.com/c/85tGQMcDBB5)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 811 bytes                           |
+> | MD5             | 94db54116be0f262eabf6877d6faeb18                                  |
 > | Archived Date   | 2024-11-02 08:09:50                             |
+> | Original Link   | [https://news.ifeng.com/c/85tGQMcDBB5](https://news.ifeng.com/c/85tGQMcDBB5)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

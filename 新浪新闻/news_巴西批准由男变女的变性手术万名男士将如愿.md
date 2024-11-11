@@ -35,10 +35,13 @@
 > | Filename        | news_巴西批准由男变女的变性手术万名男士将如愿.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-29/detail-ikknscsi2146402.d.html](https://news.sina.cn/sa/2003-12-29/detail-ikknscsi2146402.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1507 bytes                           |
+> | MD5             | 688fa87297e9e4a1c3ad7edc1b031a2f                                  |
 > | Archived Date   | 2024-11-02 04:21:15                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-12-29/detail-ikknscsi2146402.d.html](https://news.sina.cn/sa/2003-12-29/detail-ikknscsi2146402.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

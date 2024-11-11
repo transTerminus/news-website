@@ -78,10 +78,13 @@
 > | Filename        | news_法媒：阿根廷推性别认定法做变性手术不花钱.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2015-05-31/detail-icczmvup2620915.d.html](https://news.sina.cn/gj/2015-05-31/detail-icczmvup2620915.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4068 bytes                           |
+> | MD5             | e0e678c549b810e3369391aa15ddd29f                                  |
 > | Archived Date   | 2024-11-02 03:51:50                             |
+> | Original Link   | [https://news.sina.cn/gj/2015-05-31/detail-icczmvup2620915.d.html](https://news.sina.cn/gj/2015-05-31/detail-icczmvup2620915.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -47,10 +47,13 @@
 > | Filename        | news_变性手术多年后，一位终身共和党人决定投票给哈里斯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/8dto21wSVPf](https://news.ifeng.com/c/8dto21wSVPf)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3963 bytes                           |
+> | MD5             | e0827375dbe11e623aa223f8d59ff997                                  |
 > | Archived Date   | 2024-11-02 08:22:18                             |
+> | Original Link   | [https://news.ifeng.com/c/8dto21wSVPf](https://news.ifeng.com/c/8dto21wSVPf)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

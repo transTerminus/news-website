@@ -29,10 +29,13 @@
 > | Filename        | news_小雀斑“变性”影帝角色.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20150322/43390548_0.shtml](https://news.ifeng.com/a/20150322/43390548_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1564 bytes                           |
+> | MD5             | 011a3437cabd4dc9d022aa02a987dbb5                                  |
 > | Archived Date   | 2024-11-02 07:25:46                             |
+> | Original Link   | [https://news.ifeng.com/a/20150322/43390548_0.shtml](https://news.ifeng.com/a/20150322/43390548_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

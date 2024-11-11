@@ -117,10 +117,13 @@
 > | Filename        | news_这个变性者被哈佛解聘和两任FBI局长有啥关系.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2017-09-16/detail-ifykymue6545928.d.html](https://news.sina.cn/gj/2017-09-16/detail-ifykymue6545928.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7104 bytes                           |
+> | MD5             | 481683d243f1240b6e3f5f3435adf1de                                  |
 > | Archived Date   | 2024-11-02 03:58:57                             |
+> | Original Link   | [https://news.sina.cn/gj/2017-09-16/detail-ifykymue6545928.d.html](https://news.sina.cn/gj/2017-09-16/detail-ifykymue6545928.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

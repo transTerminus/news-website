@@ -77,10 +77,13 @@
 > | Filename        | news_28岁男子为变性挥刀自宫母亲曾要断绝关系.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/2/201003/0317_344_1578744.shtml](https://news.ifeng.com/society/2/201003/0317_344_1578744.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7849 bytes                           |
+> | MD5             | b0a3af80916d5f4b861b34ad363bac30                                  |
 > | Archived Date   | 2024-11-02 08:30:57                             |
+> | Original Link   | [https://news.ifeng.com/society/2/201003/0317_344_1578744.shtml](https://news.ifeng.com/society/2/201003/0317_344_1578744.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

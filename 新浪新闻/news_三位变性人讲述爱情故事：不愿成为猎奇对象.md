@@ -93,10 +93,13 @@
 > | Filename        | news_三位变性人讲述爱情故事：不愿成为猎奇对象.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-01/detail-ikftssap2625271.d.html](https://news.sina.cn/sa/2006-06-01/detail-ikftssap2625271.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9573 bytes                           |
+> | MD5             | 01af1935398db911f6f8fc2f0e460024                                  |
 > | Archived Date   | 2024-11-02 05:27:43                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-01/detail-ikftssap2625271.d.html](https://news.sina.cn/sa/2006-06-01/detail-ikftssap2625271.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

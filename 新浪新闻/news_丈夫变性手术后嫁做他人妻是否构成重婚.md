@@ -45,10 +45,13 @@
 > | Filename        | news_丈夫变性手术后嫁做他人妻是否构成重婚.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-11-12/detail-ikknscsi4799363.d.html](https://news.sina.cn/sa/2004-11-12/detail-ikknscsi4799363.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5615 bytes                           |
+> | MD5             | 9627b4ca6f99ce681ae0e0d0db5bf226                                  |
 > | Archived Date   | 2024-11-02 04:50:26                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-11-12/detail-ikknscsi4799363.d.html](https://news.sina.cn/sa/2004-11-12/detail-ikknscsi4799363.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

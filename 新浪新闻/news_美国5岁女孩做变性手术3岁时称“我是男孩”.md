@@ -26,10 +26,13 @@
 > | Filename        | news_美国5岁女孩做变性手术3岁时称“我是男孩”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/gj/2015-04-24/detail-icczmvup0282241.d.html](http://news.sina.cn/gj/2015-04-24/detail-icczmvup0282241.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1580 bytes                           |
+> | MD5             | 8f487c910145f2da2e97b34c74e5b379                                  |
 > | Archived Date   | 2024-11-02 03:24:34                             |
+> | Original Link   | [http://news.sina.cn/gj/2015-04-24/detail-icczmvup0282241.d.html](http://news.sina.cn/gj/2015-04-24/detail-icczmvup0282241.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

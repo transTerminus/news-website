@@ -151,10 +151,13 @@
 > | Filename        | news_全国首例登记结婚变性人在南京订婚(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-04-25/detail-ikkntiak9841148.d.html](https://news.sina.cn/sa/2004-04-25/detail-ikkntiak9841148.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10552 bytes                           |
+> | MD5             | c0d2c72429173e028388feb8cb0c2e6e                                  |
 > | Archived Date   | 2024-11-02 04:36:22                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-04-25/detail-ikkntiak9841148.d.html](https://news.sina.cn/sa/2004-04-25/detail-ikkntiak9841148.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

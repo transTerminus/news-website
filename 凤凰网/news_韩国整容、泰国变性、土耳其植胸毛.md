@@ -172,10 +172,13 @@ C罗转会之后，很多球迷认为他已经开始了自己的“养老”生�
 > | Filename        | news_韩国整容、泰国变性、土耳其植胸毛.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/8R4ZPuPyADI](https://news.ifeng.com/c/8R4ZPuPyADI)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9101 bytes                           |
+> | MD5             | a149d7a919a49519acca3ec87b72d49a                                  |
 > | Archived Date   | 2024-11-02 08:17:30                             |
+> | Original Link   | [https://news.ifeng.com/c/8R4ZPuPyADI](https://news.ifeng.com/c/8R4ZPuPyADI)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -146,10 +146,13 @@
 > | Filename        | news_南方人物周刊：中国首对变性人夫妻的爱情生活.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-10-18/detail-ikkntiam4871362.d.html](https://news.sina.cn/sa/2005-10-18/detail-ikkntiam4871362.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 14238 bytes                           |
+> | MD5             | ddc78c32946ec556e9467fa626f0d8a0                                  |
 > | Archived Date   | 2024-11-02 05:10:30                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-10-18/detail-ikkntiam4871362.d.html](https://news.sina.cn/sa/2005-10-18/detail-ikkntiam4871362.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -39,10 +39,13 @@
 > | Filename        | news_变性后他当上合法丈夫(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-01-14/detail-ikkntiak9192739.d.html](https://news.sina.cn/sa/2004-01-14/detail-ikkntiak9192739.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4419 bytes                           |
+> | MD5             | 894099e8d28a0c8f62395bc6ddde5128                                  |
 > | Archived Date   | 2024-11-02 04:25:05                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-01-14/detail-ikkntiak9192739.d.html](https://news.sina.cn/sa/2004-01-14/detail-ikkntiak9192739.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

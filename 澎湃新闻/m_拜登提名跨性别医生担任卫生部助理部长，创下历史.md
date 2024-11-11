@@ -25,10 +25,13 @@
 > | Filename        | m_拜登提名跨性别医生担任卫生部助理部长，创下历史.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=10866867&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10866867&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2338 bytes                           |
+> | MD5             | 92b6fd7e39bab7b67918f2587d6ce215                                  |
 > | Archived Date   | 2024-11-03 10:04:06                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=10866867&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10866867&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

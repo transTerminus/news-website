@@ -43,10 +43,13 @@
 > | Filename        | news_英国为性别认同障碍儿童提供药物辅助变性手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20140521/40395744_0.shtml](https://news.ifeng.com/a/20140521/40395744_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2983 bytes                           |
+> | MD5             | fa0d9df10e886c6978b421b2da938169                                  |
 > | Archived Date   | 2024-11-02 06:54:08                             |
+> | Original Link   | [https://news.ifeng.com/a/20140521/40395744_0.shtml](https://news.ifeng.com/a/20140521/40395744_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

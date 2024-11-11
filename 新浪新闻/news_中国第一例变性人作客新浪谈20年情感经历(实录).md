@@ -130,10 +130,13 @@
 > | Filename        | news_中国第一例变性人作客新浪谈20年情感经历(实录).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-04-24/detail-ikkntiak7300608.d.html](https://news.sina.cn/sa/2003-04-24/detail-ikkntiak7300608.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9943 bytes                           |
+> | MD5             | 719c29f70f4b7f732b339c11db534d00                                  |
 > | Archived Date   | 2024-11-02 04:13:05                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-04-24/detail-ikkntiak7300608.d.html](https://news.sina.cn/sa/2003-04-24/detail-ikkntiak7300608.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

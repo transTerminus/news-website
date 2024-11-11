@@ -46,10 +46,13 @@
 > | Filename        | m_变性后被解雇，“她”起诉公司侵犯其公平就业权.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5138737?url=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737&sinainternalbrowser=topnav&share_menu=1&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E6%B3%95%E5%BE%8B%E8%B5%84%E8%AE%AF%23&featurecode=newtitle%3F&u=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737](https://m.thepaper.cn/newsDetail_forward_5138737?url=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737&sinainternalbrowser=topnav&share_menu=1&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E6%B3%95%E5%BE%8B%E8%B5%84%E8%AE%AF%23&featurecode=newtitle%3F&u=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3124 bytes                           |
+> | MD5             | be833610c5ae18930964652c2d11c1a2                                  |
 > | Archived Date   | 2024-11-03 09:35:06                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5138737?url=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737&sinainternalbrowser=topnav&share_menu=1&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E6%B3%95%E5%BE%8B%E8%B5%84%E8%AE%AF%23&featurecode=newtitle%3F&u=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737](https://m.thepaper.cn/newsDetail_forward_5138737?url=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737&sinainternalbrowser=topnav&share_menu=1&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E6%B3%95%E5%BE%8B%E8%B5%84%E8%AE%AF%23&featurecode=newtitle%3F&u=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

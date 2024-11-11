@@ -129,10 +129,13 @@ LGBT变装皇后大赛比赛现场，Maira（左一）正在介绍选手，文�
 > | Filename        | m_变装皇后：挤进大码高跟鞋，他们让心里的女孩站上舞台.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1478999](https://m.thepaper.cn/newsDetail_forward_1478999)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12134 bytes                           |
+> | MD5             | fec44079b52bfcbb61c52888545cc0cb                                  |
 > | Archived Date   | 2024-11-03 09:03:01                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1478999](https://m.thepaper.cn/newsDetail_forward_1478999)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

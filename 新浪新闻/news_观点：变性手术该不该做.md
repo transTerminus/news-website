@@ -49,10 +49,13 @@
 > | Filename        | news_观点：变性手术该不该做.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikkntiam1856439.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikkntiam1856439.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3342 bytes                           |
+> | MD5             | 809b16a7f935fc938e50b384a9a01d81                                  |
 > | Archived Date   | 2024-11-02 04:53:53                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikkntiam1856439.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikkntiam1856439.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -44,10 +44,13 @@
 > | Filename        | news_美最富有女CEO承认原是男儿身变性后仍与妻子生活.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20140911/41932653_0.shtml](https://news.ifeng.com/a/20140911/41932653_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2749 bytes                           |
+> | MD5             | c468bd7518b1b6d8e8c8f5cfa4f5f124                                  |
 > | Archived Date   | 2024-11-02 07:04:16                             |
+> | Original Link   | [https://news.ifeng.com/a/20140911/41932653_0.shtml](https://news.ifeng.com/a/20140911/41932653_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

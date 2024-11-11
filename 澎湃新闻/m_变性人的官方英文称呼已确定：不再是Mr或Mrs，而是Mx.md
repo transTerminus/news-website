@@ -45,10 +45,13 @@ Facebook扩展了用户设定中的性别选项。
 > | Filename        | m_变性人的官方英文称呼已确定：不再是Mr或Mrs，而是Mx.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1327712](https://m.thepaper.cn/newsDetail_forward_1327712)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4389 bytes                           |
+> | MD5             | 77336426f2d7aa83daed3cd7a89ba9ec                                  |
 > | Archived Date   | 2024-11-03 08:48:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1327712](https://m.thepaper.cn/newsDetail_forward_1327712)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

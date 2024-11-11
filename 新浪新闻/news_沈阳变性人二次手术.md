@@ -29,10 +29,13 @@
 > | Filename        | news_沈阳变性人二次手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-12-13/detail-ikkntiam8336297.d.html](https://news.sina.cn/sa/2006-12-13/detail-ikkntiam8336297.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 905 bytes                           |
+> | MD5             | 066d87404bd8472199ede80e2d80fb5e                                  |
 > | Archived Date   | 2024-11-02 05:42:54                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-12-13/detail-ikkntiam8336297.d.html](https://news.sina.cn/sa/2006-12-13/detail-ikkntiam8336297.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

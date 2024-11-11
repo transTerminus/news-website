@@ -57,10 +57,13 @@
 > | Filename        | news_不能过性生活全国首例变性人状告医院案判决(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2002-04-27/detail-ikkntiak6990110.d.html](https://news.sina.cn/sa/2002-04-27/detail-ikkntiak6990110.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4089 bytes                           |
+> | MD5             | d4e15ec4a5fd32fe85cf69e41718f67a                                  |
 > | Archived Date   | 2024-11-02 04:10:39                             |
+> | Original Link   | [https://news.sina.cn/sa/2002-04-27/detail-ikkntiak6990110.d.html](https://news.sina.cn/sa/2002-04-27/detail-ikkntiak6990110.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

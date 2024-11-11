@@ -72,10 +72,13 @@
 > | Filename        | news_变性女寒冰冰：手术刀不能解决所有问题.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml](https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6462 bytes                           |
+> | MD5             | 3f9ab915cc39db7d1f3dec36528e8ac2                                  |
 > | Archived Date   | 2024-11-02 08:33:26                             |
+> | Original Link   | [https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml](https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

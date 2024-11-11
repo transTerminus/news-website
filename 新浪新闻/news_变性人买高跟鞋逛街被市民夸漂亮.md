@@ -57,10 +57,13 @@
 > | Filename        | news_变性人买高跟鞋逛街被市民夸漂亮.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html](https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3687 bytes                           |
+> | MD5             | d53a53d4f71559f54fabb96c9f782d06                                  |
 > | Archived Date   | 2024-11-02 05:37:31                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html](https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

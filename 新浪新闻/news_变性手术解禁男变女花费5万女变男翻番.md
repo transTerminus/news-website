@@ -62,10 +62,13 @@
 > | Filename        | news_变性手术解禁男变女花费5万女变男翻番.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.com.cn/s/2011-06-03/050122579890.shtml](http://news.sina.com.cn/s/2011-06-03/050122579890.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5222 bytes                           |
+> | MD5             | 7ac60505b9e519bad49d1c3d3e763feb                                  |
 > | Archived Date   | 2024-11-02 03:30:29                             |
+> | Original Link   | [http://news.sina.com.cn/s/2011-06-03/050122579890.shtml](http://news.sina.com.cn/s/2011-06-03/050122579890.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

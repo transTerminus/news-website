@@ -168,10 +168,13 @@ John B Watson戴着圣诞老人面具来吓唬宝宝
 > | Filename        | m_美国史上最残忍人体改造实验：双胞胎婴儿被迫变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7018686](https://m.thepaper.cn/newsDetail_forward_7018686)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12017 bytes                           |
+> | MD5             | dbaf4d29d3c0a2cbabe9bf577bfa182c                                  |
 > | Archived Date   | 2024-11-03 09:41:54                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7018686](https://m.thepaper.cn/newsDetail_forward_7018686)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

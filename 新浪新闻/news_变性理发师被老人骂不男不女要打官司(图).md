@@ -63,10 +63,13 @@ _[252](https://cmnt.sina.cn/index?product=comos&index=kknscsi2806099&tj_ch=news&
 > | Filename        | news_变性理发师被老人骂不男不女要打官司(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-28/detail-ikknscsi2806099.d.html](https://news.sina.cn/sa/2004-02-28/detail-ikknscsi2806099.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4454 bytes                           |
+> | MD5             | 95b39d52474e2d7e4d1b15aba95f11e3                                  |
 > | Archived Date   | 2024-11-02 04:30:05                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-28/detail-ikknscsi2806099.d.html](https://news.sina.cn/sa/2004-02-28/detail-ikknscsi2806099.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

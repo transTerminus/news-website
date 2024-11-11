@@ -27,10 +27,13 @@ _（记者/向雨航 实习生/吴小茜 通讯员/周宁）_
 > | Filename        | news_男子变性失败成女面男身跪地求援变女人(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2010-08-03/detail-ikmyaawa3058009.d.html](https://news.sina.cn/sa/2010-08-03/detail-ikmyaawa3058009.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2545 bytes                           |
+> | MD5             | 4e6842f281655a18f432ca44a13ee8d7                                  |
 > | Archived Date   | 2024-11-02 06:17:26                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-08-03/detail-ikmyaawa3058009.d.html](https://news.sina.cn/sa/2010-08-03/detail-ikmyaawa3058009.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

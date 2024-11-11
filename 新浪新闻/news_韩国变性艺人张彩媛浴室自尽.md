@@ -24,10 +24,13 @@
 > | Filename        | news_韩国变性艺人张彩媛浴室自尽.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2008-10-08/detail-ikkntian0983316.d.html](https://news.sina.cn/sa/2008-10-08/detail-ikkntian0983316.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1535 bytes                           |
+> | MD5             | b85fc93c1d10bc22791f28f7a297e3fd                                  |
 > | Archived Date   | 2024-11-02 06:03:08                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-10-08/detail-ikkntian0983316.d.html](https://news.sina.cn/sa/2008-10-08/detail-ikkntian0983316.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

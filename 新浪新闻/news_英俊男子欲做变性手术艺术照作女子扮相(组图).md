@@ -75,10 +75,13 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 > | Filename        | news_英俊男子欲做变性手术艺术照作女子扮相(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-22/detail-ikkntiam4653360.d.html](https://news.sina.cn/sa/2005-09-22/detail-ikkntiam4653360.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5271 bytes                           |
+> | MD5             | 640d856d97c3dfa65e1f999f11bf9abc                                  |
 > | Archived Date   | 2024-11-02 05:09:18                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-09-22/detail-ikkntiam4653360.d.html](https://news.sina.cn/sa/2005-09-22/detail-ikkntiam4653360.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

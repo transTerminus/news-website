@@ -138,10 +138,13 @@
 > | Filename        | news_变性后我只想要正常的人生.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-03-23/detail-ikkntiam6706625.d.html](https://news.sina.cn/sa/2006-03-23/detail-ikkntiam6706625.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9809 bytes                           |
+> | MD5             | 2616e661c032e19016f2eba43a83a56f                                  |
 > | Archived Date   | 2024-11-02 05:21:58                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-03-23/detail-ikkntiam6706625.d.html](https://news.sina.cn/sa/2006-03-23/detail-ikkntiam6706625.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

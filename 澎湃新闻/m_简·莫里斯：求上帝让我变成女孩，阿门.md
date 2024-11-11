@@ -111,10 +111,13 @@
 > | Filename        | m_简·莫里斯：求上帝让我变成女孩，阿门.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10116141](https://m.thepaper.cn/newsDetail_forward_10116141)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 19000 bytes                           |
+> | MD5             | 07d860512546842d2c12f0ca277bc928                                  |
 > | Archived Date   | 2024-11-03 08:39:52                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10116141](https://m.thepaper.cn/newsDetail_forward_10116141)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

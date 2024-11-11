@@ -21,10 +21,13 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > | Filename        | news_渝视频丨美国首位变性四星上将就职，系美级别最高变性官员.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/8AWXVvd97Jm](https://news.ifeng.com/c/8AWXVvd97Jm)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 861 bytes                           |
+> | MD5             | 891eeebd3caddfa9b4e708a51b141b14                                  |
 > | Archived Date   | 2024-11-02 08:12:29                             |
+> | Original Link   | [https://news.ifeng.com/c/8AWXVvd97Jm](https://news.ifeng.com/c/8AWXVvd97Jm)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

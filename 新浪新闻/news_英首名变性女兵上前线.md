@@ -47,10 +47,13 @@
 > | Filename        | news_英首名变性女兵上前线.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2016-09-19/detail-ifxvykwk5110304.d.html?from=wap](https://news.sina.cn/gj/2016-09-19/detail-ifxvykwk5110304.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1656 bytes                           |
+> | MD5             | bc68885fdf9ebabaeaf556d3973a616f                                  |
 > | Archived Date   | 2024-11-02 03:57:07                             |
+> | Original Link   | [https://news.sina.cn/gj/2016-09-19/detail-ifxvykwk5110304.d.html?from=wap](https://news.sina.cn/gj/2016-09-19/detail-ifxvykwk5110304.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -40,10 +40,13 @@
 > | Filename        | news_广州首位“男变女”变性人为女友二次变性(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-09/detail-ikknscsi5103950.d.html](https://news.sina.cn/sa/2004-12-09/detail-ikknscsi5103950.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3364 bytes                           |
+> | MD5             | 9eddd3dc0119977698cd0a41c7e66cce                                  |
 > | Archived Date   | 2024-11-02 04:54:27                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-09/detail-ikknscsi5103950.d.html](https://news.sina.cn/sa/2004-12-09/detail-ikknscsi5103950.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

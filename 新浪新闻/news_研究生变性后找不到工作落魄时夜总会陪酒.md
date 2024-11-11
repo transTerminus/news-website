@@ -115,10 +115,13 @@
 > | Filename        | news_研究生变性后找不到工作落魄时夜总会陪酒.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html](https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 11888 bytes                           |
+> | MD5             | 0f632e1f15b32251b9414e77d3309624                                  |
 > | Archived Date   | 2024-11-02 06:27:41                             |
+> | Original Link   | [https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html](https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -202,10 +202,13 @@
 > | Filename        | news_50岁男子变性与前妻姐妹相称共同生活(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2007-06-27/detail-ikftssap2904546.d.html](https://news.sina.cn/sa/2007-06-27/detail-ikftssap2904546.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9203 bytes                           |
+> | MD5             | 275030ab04953d54baaff55c015a0d59                                  |
 > | Archived Date   | 2024-11-02 05:54:45                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-06-27/detail-ikftssap2904546.d.html](https://news.sina.cn/sa/2007-06-27/detail-ikftssap2904546.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

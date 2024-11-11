@@ -35,10 +35,13 @@
 > | Filename        | news_西班牙16岁少年变美少女成最年轻变性人之一(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html](https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1978 bytes                           |
+> | MD5             | cbf9ed5c8bd619758ee3047e5b7b53de                                  |
 > | Archived Date   | 2024-11-02 06:14:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html](https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

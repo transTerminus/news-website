@@ -58,10 +58,13 @@
 > | Filename        | news_小伙为男儿身苦恼称宁愿减寿也要变性(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2009-12-30/detail-ikftssap3244536.d.html](https://news.sina.cn/sa/2009-12-30/detail-ikftssap3244536.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5712 bytes                           |
+> | MD5             | 694c4c1bfcb1e18f8ed8094f9f5761ff                                  |
 > | Archived Date   | 2024-11-02 06:13:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-12-30/detail-ikftssap3244536.d.html](https://news.sina.cn/sa/2009-12-30/detail-ikftssap3244536.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

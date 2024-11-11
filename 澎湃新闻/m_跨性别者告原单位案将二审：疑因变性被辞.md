@@ -13,10 +13,13 @@
 > | Filename        | m_跨性别者告原单位案将二审：疑因变性被辞.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7581353](https://m.thepaper.cn/newsDetail_forward_7581353)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 428 bytes                           |
+> | MD5             | db8f519268274f5d0abddffede3b79ef                                  |
 > | Archived Date   | 2024-11-03 09:42:18                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7581353](https://m.thepaper.cn/newsDetail_forward_7581353)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

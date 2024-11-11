@@ -29,10 +29,13 @@
 > | Filename        | news_准变性美女申清清13日做客红网带你深入另类的内心世界.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2008-11-12/detail-ikkntian1071258.d.html](https://news.sina.cn/sa/2008-11-12/detail-ikkntian1071258.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1477 bytes                           |
+> | MD5             | 99f574ca8b77609e23c6d95bc8fac467                                  |
 > | Archived Date   | 2024-11-02 06:03:52                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-11-12/detail-ikkntian1071258.d.html](https://news.sina.cn/sa/2008-11-12/detail-ikkntian1071258.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

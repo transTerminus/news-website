@@ -100,10 +100,13 @@
 > | Filename        | m_平权运动与企业支持背后：以利益驱动的脆弱承诺.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 32355 bytes                           |
+> | MD5             | 4700233fb60b4d8664afe31bb56865b2                                  |
 > | Archived Date   | 2024-11-03 08:33:27                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

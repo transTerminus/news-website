@@ -46,10 +46,13 @@
 > | Filename        | news_英国一常败拳击手厌烦当猛男变性获妻支持(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/world/200907/0721_16_1259642.shtml](https://news.ifeng.com/world/200907/0721_16_1259642.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2565 bytes                           |
+> | MD5             | d92311c4e9580c607dca2b1b8d836e81                                  |
 > | Archived Date   | 2024-11-02 08:35:04                             |
+> | Original Link   | [https://news.ifeng.com/world/200907/0721_16_1259642.shtml](https://news.ifeng.com/world/200907/0721_16_1259642.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -155,10 +155,13 @@
 > | Filename        | m_阉割、变性……被困在男人躯壳中的“药娘”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14338990](https://m.thepaper.cn/newsDetail_forward_14338990)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7683 bytes                           |
+> | MD5             | 62d1722c2560dd3f11aef412591b38ed                                  |
 > | Archived Date   | 2024-11-03 09:01:03                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14338990](https://m.thepaper.cn/newsDetail_forward_14338990)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -41,10 +41,13 @@
 > | Filename        | news_拜登撤销特朗普禁令，允许变性者在美军服役.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2021-01-26/detail-ikftpnny1974885.d.html](https://news.sina.cn/gj/2021-01-26/detail-ikftpnny1974885.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2193 bytes                           |
+> | MD5             | 749ec730fafd9e7e0ac8b8e7e0dcb8c8                                  |
 > | Archived Date   | 2024-11-02 04:00:39                             |
+> | Original Link   | [https://news.sina.cn/gj/2021-01-26/detail-ikftpnny1974885.d.html](https://news.sina.cn/gj/2021-01-26/detail-ikftpnny1974885.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

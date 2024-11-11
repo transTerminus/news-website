@@ -51,10 +51,13 @@
 > | Filename        | news_一夜情后发现她是“变性人”_俄医生怒将情人肢解.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sh/2019-05-03/detail-ihvhiqax6443026.d.html?vt=4](https://news.sina.cn/sh/2019-05-03/detail-ihvhiqax6443026.d.html?vt=4)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2262 bytes                           |
+> | MD5             | a16c8c040b90ef18811b16e1c751f9ee                                  |
 > | Archived Date   | 2024-11-02 06:36:21                             |
+> | Original Link   | [https://news.sina.cn/sh/2019-05-03/detail-ihvhiqax6443026.d.html?vt=4](https://news.sina.cn/sh/2019-05-03/detail-ihvhiqax6443026.d.html?vt=4)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

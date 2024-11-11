@@ -32,10 +32,13 @@
 > | Filename        | news_变性人当选港特首选委称工作生活不受影响(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2010-08-11/detail-ikmyaawa3070670.d.html](https://news.sina.cn/sa/2010-08-11/detail-ikmyaawa3070670.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2894 bytes                           |
+> | MD5             | da8ea8be908914443919c16b5ab5fa65                                  |
 > | Archived Date   | 2024-11-02 06:18:01                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-08-11/detail-ikmyaawa3070670.d.html](https://news.sina.cn/sa/2010-08-11/detail-ikmyaawa3070670.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

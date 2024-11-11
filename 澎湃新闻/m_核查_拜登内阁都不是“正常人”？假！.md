@@ -148,10 +148,13 @@
 > | Filename        | m_核查_拜登内阁都不是“正常人”？假！.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10856245](https://m.thepaper.cn/newsDetail_forward_10856245)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9903 bytes                           |
+> | MD5             | 655fa1be7147f68652277f94a95c655f                                  |
 > | Archived Date   | 2024-11-03 08:41:43                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10856245](https://m.thepaper.cn/newsDetail_forward_10856245)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

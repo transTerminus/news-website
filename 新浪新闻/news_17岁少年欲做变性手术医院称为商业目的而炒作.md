@@ -109,10 +109,13 @@
 > | Filename        | news_17岁少年欲做变性手术医院称为商业目的而炒作.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-12-13/detail-ikkntiam6130192.d.html?from=wap](https://news.sina.cn/sa/2005-12-13/detail-ikkntiam6130192.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8095 bytes                           |
+> | MD5             | e5efcf61b62f30a9849733b4685d8c4f                                  |
 > | Archived Date   | 2024-11-02 05:16:24                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-12-13/detail-ikkntiam6130192.d.html?from=wap](https://news.sina.cn/sa/2005-12-13/detail-ikkntiam6130192.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

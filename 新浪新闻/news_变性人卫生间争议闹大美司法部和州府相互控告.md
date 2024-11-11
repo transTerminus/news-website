@@ -73,10 +73,13 @@
 > | Filename        | news_变性人卫生间争议闹大美司法部和州府相互控告.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/2016-05-10/detail-ifxryahs0637962.d.html](http://news.sina.cn/2016-05-10/detail-ifxryahs0637962.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3541 bytes                           |
+> | MD5             | f565e8748d21011190aeedd0d39cd5ea                                  |
 > | Archived Date   | 2024-11-02 03:20:47                             |
+> | Original Link   | [http://news.sina.cn/2016-05-10/detail-ifxryahs0637962.d.html](http://news.sina.cn/2016-05-10/detail-ifxryahs0637962.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

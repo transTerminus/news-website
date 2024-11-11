@@ -66,10 +66,13 @@
 > | Filename        | news_21岁男子做变性手术欲交男友(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2011-09-07/detail-ikftssap4071717.d.html](https://news.sina.cn/sa/2011-09-07/detail-ikftssap4071717.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5687 bytes                           |
+> | MD5             | bcaa814ca49c1cadaf55595992505efc                                  |
 > | Archived Date   | 2024-11-02 06:26:28                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-09-07/detail-ikftssap4071717.d.html](https://news.sina.cn/sa/2011-09-07/detail-ikftssap4071717.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -110,10 +110,13 @@
 > | Filename        | m_东京奥运首次出现变性选手，“男性”是否会统治女子运动.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13286388](https://m.thepaper.cn/newsDetail_forward_13286388)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6787 bytes                           |
+> | MD5             | 992d4e3ec9187d19db5506ae03113909                                  |
 > | Archived Date   | 2024-11-03 08:49:25                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13286388](https://m.thepaper.cn/newsDetail_forward_13286388)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

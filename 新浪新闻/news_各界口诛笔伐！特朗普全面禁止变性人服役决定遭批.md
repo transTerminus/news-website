@@ -93,10 +93,13 @@ LGBT权益组织GLAAD表示，特朗普禁止变性人参军，是对所有属�
 > | Filename        | news_各界口诛笔伐！特朗普全面禁止变性人服役决定遭批.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2017-07-27/detail-ifyinwmp0153868.d.html?from=wap](https://news.sina.cn/2017-07-27/detail-ifyinwmp0153868.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8121 bytes                           |
+> | MD5             | 7bae8d2101e260b3ce8faece1e6cd0d3                                  |
 > | Archived Date   | 2024-11-02 03:37:46                             |
+> | Original Link   | [https://news.sina.cn/2017-07-27/detail-ifyinwmp0153868.d.html?from=wap](https://news.sina.cn/2017-07-27/detail-ifyinwmp0153868.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -40,10 +40,13 @@ GID和间性一样，都是因基因或荷尔蒙异常，而未能在生理和�
 > | Filename        | news_变性人法律地位渐趋明确阴阳人社会角色仍尴尬.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/5/200911/1125_2579_1449691.shtml](https://news.ifeng.com/society/5/200911/1125_2579_1449691.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5844 bytes                           |
+> | MD5             | ac84ce10f452ce065ec3e941073f1b58                                  |
 > | Archived Date   | 2024-11-02 08:33:39                             |
+> | Original Link   | [https://news.ifeng.com/society/5/200911/1125_2579_1449691.shtml](https://news.ifeng.com/society/5/200911/1125_2579_1449691.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

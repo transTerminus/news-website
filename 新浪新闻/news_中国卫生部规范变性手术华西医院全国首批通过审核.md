@@ -21,10 +21,13 @@
 > | Filename        | news_中国卫生部规范变性手术华西医院全国首批通过审核.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2011-06-02/detail-ikftpnny4807712.d.html](https://news.sina.cn/sa/2011-06-02/detail-ikftpnny4807712.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1832 bytes                           |
+> | MD5             | 171e558e89642f745f852bfdf145638e                                  |
 > | Archived Date   | 2024-11-02 06:23:46                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-06-02/detail-ikftpnny4807712.d.html](https://news.sina.cn/sa/2011-06-02/detail-ikftpnny4807712.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

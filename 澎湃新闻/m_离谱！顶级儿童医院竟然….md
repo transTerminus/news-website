@@ -50,10 +50,13 @@
 > | Filename        | m_离谱！顶级儿童医院竟然….md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_20219011](https://m.thepaper.cn/newsDetail_forward_20219011)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4573 bytes                           |
+> | MD5             | 6dabf5687b75ec7b42c3f0862ad6c682                                  |
 > | Archived Date   | 2024-11-03 09:16:01                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_20219011](https://m.thepaper.cn/newsDetail_forward_20219011)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

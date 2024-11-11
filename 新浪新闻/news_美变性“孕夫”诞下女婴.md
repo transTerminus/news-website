@@ -65,10 +65,13 @@
 > | Filename        | news_美变性“孕夫”诞下女婴.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2008-07-05/detail-ikknscsk3912332.d.html](https://news.sina.cn/sa/2008-07-05/detail-ikknscsk3912332.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3627 bytes                           |
+> | MD5             | 5e44541bf3c4bc7b2a860f29f3ef2a0f                                  |
 > | Archived Date   | 2024-11-02 05:59:04                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-07-05/detail-ikknscsk3912332.d.html](https://news.sina.cn/sa/2008-07-05/detail-ikknscsk3912332.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -84,10 +84,13 @@
 > | Filename        | m_观察｜东京奥运赛场引性别论战：着装、长相和跨性别参赛者.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=13782479&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=13782479&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10299 bytes                           |
+> | MD5             | dd4bd53d920b294ab2b128428d48c354                                  |
 > | Archived Date   | 2024-11-03 10:06:31                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=13782479&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=13782479&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

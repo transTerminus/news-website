@@ -68,10 +68,13 @@
 > | Filename        | news_男子变性后仍与妻子一同生活妻子：很自豪_资讯频道.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20170423/50982932_0.shtml](https://news.ifeng.com/a/20170423/50982932_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2968 bytes                           |
+> | MD5             | 53266dcdc6b0cca0246c6e0669531b01                                  |
 > | Archived Date   | 2024-11-02 07:48:59                             |
+> | Original Link   | [https://news.ifeng.com/a/20170423/50982932_0.shtml](https://news.ifeng.com/a/20170423/50982932_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

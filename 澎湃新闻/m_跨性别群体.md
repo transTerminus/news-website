@@ -34,10 +34,13 @@
 > | Filename        | m_跨性别群体.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/tag/241928](https://m.thepaper.cn/tag/241928)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1160 bytes                           |
+> | MD5             | 7a0b1d42114b1fcf5b1965d6d50ac1df                                  |
 > | Archived Date   | 2024-11-03 09:53:48                             |
+> | Original Link   | [https://m.thepaper.cn/tag/241928](https://m.thepaper.cn/tag/241928)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

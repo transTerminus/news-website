@@ -73,10 +73,13 @@
 > | Filename        | news_变性手术后被辞退，到底是因为旷工还是歧视？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2020-07-05/detail-iirczymm0681713.d.html](https://news.sina.cn/2020-07-05/detail-iirczymm0681713.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5997 bytes                           |
+> | MD5             | a31d04cfd2fa36e305e6a2dc55ca97e7                                  |
 > | Archived Date   | 2024-11-02 03:41:19                             |
+> | Original Link   | [https://news.sina.cn/2020-07-05/detail-iirczymm0681713.d.html](https://news.sina.cn/2020-07-05/detail-iirczymm0681713.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

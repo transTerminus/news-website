@@ -47,10 +47,13 @@
 > | Filename        | news_美国俄勒冈一小城选出变性人当市长.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/world/oddnews/200811/1109_2593_869444.shtml](https://news.ifeng.com/world/oddnews/200811/1109_2593_869444.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1975 bytes                           |
+> | MD5             | 00a49244788b47fe6243a1455377ebe8                                  |
 > | Archived Date   | 2024-11-02 08:37:23                             |
+> | Original Link   | [https://news.ifeng.com/world/oddnews/200811/1109_2593_869444.shtml](https://news.ifeng.com/world/oddnews/200811/1109_2593_869444.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

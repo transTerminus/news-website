@@ -47,10 +47,13 @@ Tony Marchant在采访里提到，现在在英国，凡是有性别认知障碍�
 > | Filename        | m_《蝴蝶》：看看欧洲TVB在放什么剧.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/yidian_promDetail.jsp?contid=2543439&from=yidian](https://m.thepaper.cn/yidian_promDetail.jsp?contid=2543439&from=yidian)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6251 bytes                           |
+> | MD5             | b214f087bf120f66df1ea0313859c4db                                  |
 > | Archived Date   | 2024-11-03 10:16:29                             |
+> | Original Link   | [https://m.thepaper.cn/yidian_promDetail.jsp?contid=2543439&from=yidian](https://m.thepaper.cn/yidian_promDetail.jsp?contid=2543439&from=yidian)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

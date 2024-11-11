@@ -27,10 +27,13 @@
 > | Filename        | news_阿根廷变性女星遭虐杀震惊全国一月内3名变性人被杀.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/2015-10-16/detail-ifxiuyea9311965.d.html](http://news.sina.cn/2015-10-16/detail-ifxiuyea9311965.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1472 bytes                           |
+> | MD5             | 46f57f7d07313520e4652d89d0ddafc8                                  |
 > | Archived Date   | 2024-11-02 03:19:36                             |
+> | Original Link   | [http://news.sina.cn/2015-10-16/detail-ifxiuyea9311965.d.html](http://news.sina.cn/2015-10-16/detail-ifxiuyea9311965.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

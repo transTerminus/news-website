@@ -34,10 +34,13 @@
 > | Filename        | news_2岁变性38岁绝望自杀_手机新浪网.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-05-14/detail-ikknscsi3062033.d.html](https://news.sina.cn/sa/2004-05-14/detail-ikknscsi3062033.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3413 bytes                           |
+> | MD5             | 7a0a0320f47d81be5e0c0363bd96ba87                                  |
 > | Archived Date   | 2024-11-02 04:38:25                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-05-14/detail-ikknscsi3062033.d.html](https://news.sina.cn/sa/2004-05-14/detail-ikknscsi3062033.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

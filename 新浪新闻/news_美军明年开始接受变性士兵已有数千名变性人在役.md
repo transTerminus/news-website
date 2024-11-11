@@ -50,10 +50,13 @@
 > | Filename        | news_美军明年开始接受变性士兵已有数千名变性人在役.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2017-12-14/detail-ikmxzfmk4893175.d.html](https://news.sina.cn/sa/2017-12-14/detail-ikmxzfmk4893175.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2715 bytes                           |
+> | MD5             | d90f2a3c2a4dc78a997aab6e800afab8                                  |
 > | Archived Date   | 2024-11-02 06:32:36                             |
+> | Original Link   | [https://news.sina.cn/sa/2017-12-14/detail-ikmxzfmk4893175.d.html](https://news.sina.cn/sa/2017-12-14/detail-ikmxzfmk4893175.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

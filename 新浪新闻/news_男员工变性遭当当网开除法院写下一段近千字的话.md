@@ -71,10 +71,13 @@
 > | Filename        | news_男员工变性遭当当网开除法院写下一段近千字的话.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sh/2020-07-05/detail-iircuyvk2129669.d.html](https://news.sina.cn/sh/2020-07-05/detail-iircuyvk2129669.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9927 bytes                           |
+> | MD5             | 02300f981a82df88fd493ef0b69eeeb3                                  |
 > | Archived Date   | 2024-11-02 06:37:33                             |
+> | Original Link   | [https://news.sina.cn/sh/2020-07-05/detail-iircuyvk2129669.d.html](https://news.sina.cn/sh/2020-07-05/detail-iircuyvk2129669.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

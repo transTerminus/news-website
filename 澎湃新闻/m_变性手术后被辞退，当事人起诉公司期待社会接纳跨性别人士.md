@@ -87,10 +87,13 @@
 > | Filename        | m_变性手术后被辞退，当事人起诉公司期待社会接纳跨性别人士.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=5148837&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=5148837&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8145 bytes                           |
+> | MD5             | e233038efde571362b3006a827b50109                                  |
 > | Archived Date   | 2024-11-03 10:14:19                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=5148837&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=5148837&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

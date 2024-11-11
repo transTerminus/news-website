@@ -65,10 +65,13 @@
 > | Filename        | news_质问得州州长竞选人是否会反对儿童变性手术美国独立记者_.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html](https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5112 bytes                           |
+> | MD5             | b71fcd92adda1821740d8948b8b3a303                                  |
 > | Archived Date   | 2024-11-02 03:47:36                             |
+> | Original Link   | [https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html](https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

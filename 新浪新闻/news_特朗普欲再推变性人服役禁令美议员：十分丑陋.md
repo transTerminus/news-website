@@ -51,10 +51,13 @@
 > | Filename        | news_特朗普欲再推变性人服役禁令美议员：十分丑陋.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap](https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4541 bytes                           |
+> | MD5             | b4e00819db93ab85eefcd4df558fb867                                  |
 > | Archived Date   | 2024-11-02 03:38:21                             |
+> | Original Link   | [https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap](https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

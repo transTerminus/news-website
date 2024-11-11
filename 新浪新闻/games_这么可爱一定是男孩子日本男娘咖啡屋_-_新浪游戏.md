@@ -1,0 +1,53 @@
+# 这么可爱一定是男孩子 日本男娘咖啡屋
+
+* 日期：09月13日 15:50
+* 来源：新浪游戏
+* 编辑：Saiken
+
+还记得一部日剧《孤独的美食家》，内容讲述是一位自己单干的老板井之头五郎在跑业务的过程中寻找美食的故事，作品非常值得推荐，不过这里并不是要说这部作品，而其实其中一集也讲到了五郎过去的一位同事寻找自我最后变成伪娘的小故事。下面这段视频就是介绍日本一家男娘咖啡屋NewType，对于正常的世界而言，这家店果然“NewType”。
+
+## 推荐阅读
+
+### [《西山居》伪娘coser小灿色艺双馨](http://games.sina.com.cn/o/n/2013-07-26/1104721370.shtml)
+* 日期：2013-07-26 11:04:17
+
+### [西山居CJ伪娘SG现身 雌雄莫辩比女人更自信](http://games.sina.com.cn/o/n/2013-07-25/1405721168.shtml)
+* 日期：2013-07-25 14:05:30
+
+### [玩到深处自然腐！剑灵伪娘不靠性感打动你](http://games.sina.com.cn/o/z/bns/2013-07-09/1027492136.shtml)
+* 日期：2013-07-09 15:07:15
+
+### [国外剑灵Cos表演 伪娘版火炮兰秦义绝真基情](http://games.sina.com.cn/o/z/bns/2013-08-17/1710496368.shtml)
+* 日期：2013-08-17 11:41:19
+
+### [只差兰花指了 剑灵最伪娘NPC神舞视频](http://games.sina.com.cn/o/z/bns/2013-08-19/1027496408.shtml)
+* 日期：2013-08-19 10:27:41
+
+### [CJ展顺网游戏清纯美少女PK绝色伪娘](http://games.sina.com.cn/o/n/2013-07-04/1719716486.shtml)
+* 日期：2013-07-04 17:19:06
+
+### [极品宅疯狂减肥竟变性取向 壮汉转型娇弱伪娘](http://games.sina.com.cn/g/n/2013-05-13/1113705458.shtml)
+* 日期：2013-05-13 11:13:46
+
+请输入评论内容
+
+说说你的看法
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | games_这么可爱一定是男孩子日本男娘咖啡屋_-_新浪游戏.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1704 bytes                           |
+> | MD5             | bfe4fe8fece5dba8aa3f84c63a291d1b                                  |
+> | Archived Date   | 2024-11-09 05:40:18                             |
+> | Original Link   | [http://games.sina.cn/pi/eb/2013-09-13/detail-icfkptvx2820959.d.html](http://games.sina.cn/pi/eb/2013-09-13/detail-icfkptvx2820959.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

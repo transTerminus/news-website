@@ -39,10 +39,13 @@
 > | Filename        | news_变性人小波昨向记者透露今后想法.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4552306.d.html](https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4552306.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2065 bytes                           |
+> | MD5             | 0e115ead3bb2f030ca5fc9e931d5116e                                  |
 > | Archived Date   | 2024-11-02 05:08:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4552306.d.html](https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4552306.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -60,10 +60,13 @@
 > | Filename        | news_四川一对男女欲变性愿互相移植生殖器官.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-01-10/detail-ikkntiam6330733.d.html](https://news.sina.cn/sa/2006-01-10/detail-ikkntiam6330733.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6159 bytes                           |
+> | MD5             | 99002f2d94e2a2144a7ba091f654c8f2                                  |
 > | Archived Date   | 2024-11-02 05:18:15                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-01-10/detail-ikkntiam6330733.d.html](https://news.sina.cn/sa/2006-01-10/detail-ikkntiam6330733.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

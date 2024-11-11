@@ -46,10 +46,13 @@
 > | Filename        | news_印度选出首位变性人市长曾靠火车上跳舞卖唱为生.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20150107/42876240_0.shtml](https://news.ifeng.com/a/20150107/42876240_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3392 bytes                           |
+> | MD5             | 03562149221aaba9f762269318e93db1                                  |
 > | Archived Date   | 2024-11-02 07:18:27                             |
+> | Original Link   | [https://news.ifeng.com/a/20150107/42876240_0.shtml](https://news.ifeng.com/a/20150107/42876240_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

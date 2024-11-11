@@ -132,10 +132,13 @@ SRY基因及其在性腺分化中的作用。© tsu.tw
 > | Filename        | m_性别，从来不是二元的.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9380405](https://m.thepaper.cn/newsDetail_forward_9380405)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12547 bytes                           |
+> | MD5             | 456c677f28fe4b5acede481664b21621                                  |
 > | Archived Date   | 2024-11-03 09:50:00                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9380405](https://m.thepaper.cn/newsDetail_forward_9380405)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

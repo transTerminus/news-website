@@ -45,10 +45,13 @@
 > | Filename        | news_代妻怀孕美国变性人生女变性男曾是美夏威夷选美皇后.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2008-07-05/detail-ikknscsk3912522.d.html](https://news.sina.cn/sa/2008-07-05/detail-ikknscsk3912522.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3298 bytes                           |
+> | MD5             | 689eeb71351aff3ef1997646bc98d35b                                  |
 > | Archived Date   | 2024-11-02 05:59:42                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-07-05/detail-ikknscsk3912522.d.html](https://news.sina.cn/sa/2008-07-05/detail-ikknscsk3912522.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

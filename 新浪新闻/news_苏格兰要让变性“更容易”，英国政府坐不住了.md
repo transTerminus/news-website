@@ -51,10 +51,13 @@
 > | Filename        | news_苏格兰要让变性“更容易”，英国政府坐不住了.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2023-01-15/detail-imyaftrk2097270.d.html](https://news.sina.cn/2023-01-15/detail-imyaftrk2097270.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3240 bytes                           |
+> | MD5             | c1929f10094acd08b5672f976b58471b                                  |
 > | Archived Date   | 2024-11-02 03:48:10                             |
+> | Original Link   | [https://news.sina.cn/2023-01-15/detail-imyaftrk2097270.d.html](https://news.sina.cn/2023-01-15/detail-imyaftrk2097270.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

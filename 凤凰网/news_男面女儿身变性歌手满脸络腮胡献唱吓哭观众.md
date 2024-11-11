@@ -19,10 +19,13 @@
 > | Filename        | news_男面女儿身变性歌手满脸络腮胡献唱吓哭观众.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20140510/40235003_0.shtml](https://news.ifeng.com/a/20140510/40235003_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 809 bytes                           |
+> | MD5             | 42ec59d7737d5fd728ce22c98dca38b8                                  |
 > | Archived Date   | 2024-11-02 06:52:28                             |
+> | Original Link   | [https://news.ifeng.com/a/20140510/40235003_0.shtml](https://news.ifeng.com/a/20140510/40235003_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

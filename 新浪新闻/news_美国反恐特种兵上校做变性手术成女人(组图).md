@@ -92,10 +92,13 @@
 > | Filename        | news_美国反恐特种兵上校做变性手术成女人(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-10-23/detail-ikknscsi8071451.d.html](https://news.sina.cn/sa/2005-10-23/detail-ikknscsi8071451.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8021 bytes                           |
+> | MD5             | 0f795fec8961f7f6bfbd1bf0bba401c6                                  |
 > | Archived Date   | 2024-11-02 05:11:09                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-10-23/detail-ikknscsi8071451.d.html](https://news.sina.cn/sa/2005-10-23/detail-ikknscsi8071451.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

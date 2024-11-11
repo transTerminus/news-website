@@ -166,10 +166,13 @@
 > | Filename        | news_道德模范变性后走T台获奖婉拒多名追求者(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2015-09-23/detail-ifxhytxr4092276.d.html](https://news.sina.cn/2015-09-23/detail-ifxhytxr4092276.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12590 bytes                           |
+> | MD5             | 1b651398a4b402153c04b579613b9d2f                                  |
 > | Archived Date   | 2024-11-02 03:32:34                             |
+> | Original Link   | [https://news.sina.cn/2015-09-23/detail-ifxhytxr4092276.d.html](https://news.sina.cn/2015-09-23/detail-ifxhytxr4092276.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

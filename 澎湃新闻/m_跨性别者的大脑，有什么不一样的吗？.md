@@ -87,10 +87,13 @@ Savic说，她希望对跨性别的研究结果将有助于使性别认同成为
 > | Filename        | m_跨性别者的大脑，有什么不一样的吗？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8627724](https://m.thepaper.cn/newsDetail_forward_8627724)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 14542 bytes                           |
+> | MD5             | c1fe47fc3e2f7fa3f4285b518a8bdca3                                  |
 > | Archived Date   | 2024-11-03 09:47:54                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8627724](https://m.thepaper.cn/newsDetail_forward_8627724)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

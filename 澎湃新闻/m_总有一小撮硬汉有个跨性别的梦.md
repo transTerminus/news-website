@@ -296,10 +296,13 @@ Why not？！
 > | Filename        | m_总有一小撮硬汉有个跨性别的梦.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6418993](https://m.thepaper.cn/newsDetail_forward_6418993)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12463 bytes                           |
+> | MD5             | a7c9447c165ee78dc0d73209d10211eb                                  |
 > | Archived Date   | 2024-11-03 09:39:58                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6418993](https://m.thepaper.cn/newsDetail_forward_6418993)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

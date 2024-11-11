@@ -64,10 +64,13 @@
 > | Filename        | news_美军变性人宣誓就任四星上将成美国最高跨性别官员.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2021-10-21/detail-iktzqtyu2716005.d.html](https://news.sina.cn/2021-10-21/detail-iktzqtyu2716005.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3869 bytes                           |
+> | MD5             | e29f3022be4c8f7df7740bb4e85f8a10                                  |
 > | Archived Date   | 2024-11-02 03:45:24                             |
+> | Original Link   | [https://news.sina.cn/2021-10-21/detail-iktzqtyu2716005.d.html](https://news.sina.cn/2021-10-21/detail-iktzqtyu2716005.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -65,10 +65,13 @@
 > | Filename        | news_最彻底的人造美女--变性人刘晓晶专访(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-15/detail-ikknscsi5177459.d.html](https://news.sina.cn/sa/2004-12-15/detail-ikknscsi5177459.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6698 bytes                           |
+> | MD5             | 66954409e63acef736c3d42a2b207d8e                                  |
 > | Archived Date   | 2024-11-02 04:55:02                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-15/detail-ikknscsi5177459.d.html](https://news.sina.cn/sa/2004-12-15/detail-ikknscsi5177459.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

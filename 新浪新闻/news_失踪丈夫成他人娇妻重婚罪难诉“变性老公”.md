@@ -27,10 +27,13 @@
 > | Filename        | news_失踪丈夫成他人娇妻重婚罪难诉“变性老公”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-09-30/detail-ikknscsi4390811.d.html](https://news.sina.cn/sa/2004-09-30/detail-ikknscsi4390811.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2815 bytes                           |
+> | MD5             | 82ea65cc86861bdcb46c2467dc610fe9                                  |
 > | Archived Date   | 2024-11-02 04:49:10                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-09-30/detail-ikknscsi4390811.d.html](https://news.sina.cn/sa/2004-09-30/detail-ikknscsi4390811.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

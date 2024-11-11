@@ -62,10 +62,13 @@
 > | Filename        | m_一个跨性别女性犯罪时，应该被关在男子监狱还是女子监狱？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8541731](https://m.thepaper.cn/newsDetail_forward_8541731)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7901 bytes                           |
+> | MD5             | 86a6d4139adbf5716876ffe2e4292dec                                  |
 > | Archived Date   | 2024-11-03 09:47:22                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8541731](https://m.thepaper.cn/newsDetail_forward_8541731)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -63,10 +63,13 @@
 > | Filename        | news_欲整形发现原是男人身“女孩”不愿做变性手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html](https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4365 bytes                           |
+> | MD5             | 33113780a99e915ff2eb0c3a49d70ccf                                  |
 > | Archived Date   | 2024-11-02 04:24:24                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html](https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

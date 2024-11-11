@@ -46,10 +46,13 @@
 > | Filename        | news_名嘴爆称港姐有变性人最美丽港姐表震惊(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2010-05-24/detail-ikmyaawa2895576.d.html](https://news.sina.cn/sa/2010-05-24/detail-ikmyaawa2895576.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2842 bytes                           |
+> | MD5             | fd6f1f774fc677bcb948ed477bb7596a                                  |
 > | Archived Date   | 2024-11-02 06:16:10                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-05-24/detail-ikmyaawa2895576.d.html](https://news.sina.cn/sa/2010-05-24/detail-ikmyaawa2895576.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

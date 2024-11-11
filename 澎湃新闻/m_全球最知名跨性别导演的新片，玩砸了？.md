@@ -135,10 +135,13 @@ Neo觉醒了，他带领人类反抗军和机器展开较量，在最终决战�
 > | Filename        | m_全球最知名跨性别导演的新片，玩砸了？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16311544](https://m.thepaper.cn/newsDetail_forward_16311544)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10555 bytes                           |
+> | MD5             | 231f84a97d2c5b78528535535022215c                                  |
 > | Archived Date   | 2024-11-03 09:08:22                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16311544](https://m.thepaper.cn/newsDetail_forward_16311544)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -31,10 +31,13 @@
 > | Filename        | m_美国或允许跨性别者参军，废除同性恋不得任男童子军领袖禁令.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1352313](https://m.thepaper.cn/newsDetail_forward_1352313)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3627 bytes                           |
+> | MD5             | d7938cfd7aecfdbfdb8e0339a111465a                                  |
 > | Archived Date   | 2024-11-03 08:50:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1352313](https://m.thepaper.cn/newsDetail_forward_1352313)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

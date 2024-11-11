@@ -69,10 +69,13 @@ ID：pjw-documentary
 > | Filename        | m_这部纪录片，呈现了中国LGBT族群的抗争_-_澎湃新闻.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7931257](https://m.thepaper.cn/newsDetail_forward_7931257)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6586 bytes                           |
+> | MD5             | 3396cbcca7fb98a3b6718bb66ef74795                                  |
 > | Archived Date   | 2024-11-03 09:43:56                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7931257](https://m.thepaper.cn/newsDetail_forward_7931257)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

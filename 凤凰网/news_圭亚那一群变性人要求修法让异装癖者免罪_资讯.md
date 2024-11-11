@@ -35,10 +35,13 @@
 > | Filename        | news_圭亚那一群变性人要求修法让异装癖者免罪_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/world/201002/0223_16_1553490.shtml](https://news.ifeng.com/world/201002/0223_16_1553490.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2024 bytes                           |
+> | MD5             | 71606f05acc735ec7164287e441ad1ff                                  |
 > | Archived Date   | 2024-11-02 08:36:05                             |
+> | Original Link   | [https://news.ifeng.com/world/201002/0223_16_1553490.shtml](https://news.ifeng.com/world/201002/0223_16_1553490.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

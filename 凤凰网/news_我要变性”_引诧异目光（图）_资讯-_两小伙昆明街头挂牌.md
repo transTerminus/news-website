@@ -60,10 +60,13 @@
 > | Filename        | news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml](https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4687 bytes                           |
+> | MD5             | 4204ae07d7ecc21a9953135b5cf7548c                                  |
 > | Archived Date   | 2024-11-02 08:32:56                             |
+> | Original Link   | [https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml](https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

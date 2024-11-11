@@ -40,10 +40,13 @@
 > | Filename        | news_中国变性第一人自言女人最重要的是婚姻.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html](https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4476 bytes                           |
+> | MD5             | 8183d07e4493dc8126deb6e84592a4d7                                  |
 > | Archived Date   | 2024-11-02 04:13:43                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html](https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

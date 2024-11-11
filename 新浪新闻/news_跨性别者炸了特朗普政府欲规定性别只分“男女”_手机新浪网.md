@@ -45,10 +45,13 @@ _[5](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=gj&news
 > | Filename        | news_跨性别者炸了特朗普政府欲规定性别只分“男女”_手机新浪网.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml](https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3624 bytes                           |
+> | MD5             | a47fc61a72b78b6d805eeb903a9e81c0                                  |
 > | Archived Date   | 2024-11-02 06:39:30                             |
+> | Original Link   | [https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml](https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

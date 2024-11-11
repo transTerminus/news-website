@@ -31,10 +31,13 @@
 > | Filename        | news_七小时他变她江苏首例独立施行变性手术获成功.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-01-07/detail-ikkntiam2274382.d.html](https://news.sina.cn/sa/2005-01-07/detail-ikkntiam2274382.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3088 bytes                           |
+> | MD5             | d278198fee95887e7668624f728d0298                                  |
 > | Archived Date   | 2024-11-02 04:56:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-01-07/detail-ikkntiam2274382.d.html](https://news.sina.cn/sa/2005-01-07/detail-ikkntiam2274382.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

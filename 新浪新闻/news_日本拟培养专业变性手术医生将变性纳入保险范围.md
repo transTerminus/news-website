@@ -32,10 +32,13 @@
 > | Filename        | news_日本拟培养专业变性手术医生将变性纳入保险范围.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2015-03-23/detail-iavxeafs2022705.d.html](https://news.sina.cn/gj/2015-03-23/detail-iavxeafs2022705.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1405 bytes                           |
+> | MD5             | fa8064a4ad07a0a85487fd6570dde5dc                                  |
 > | Archived Date   | 2024-11-02 03:50:35                             |
+> | Original Link   | [https://news.sina.cn/gj/2015-03-23/detail-iavxeafs2022705.d.html](https://news.sina.cn/gj/2015-03-23/detail-iavxeafs2022705.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

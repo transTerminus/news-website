@@ -45,10 +45,13 @@
 > | Filename        | news_如厕遇尴尬变性人该进哪个厕所_手机新浪网.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-03-11/detail-ikknscsi6059896.d.html](https://news.sina.cn/sa/2005-03-11/detail-ikknscsi6059896.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3667 bytes                           |
+> | MD5             | 6700a40699bd67c28dabaa6c57bb9f73                                  |
 > | Archived Date   | 2024-11-02 04:58:01                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-03-11/detail-ikknscsi6059896.d.html](https://news.sina.cn/sa/2005-03-11/detail-ikknscsi6059896.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

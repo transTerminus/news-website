@@ -39,10 +39,13 @@
 > | Filename        | news_英国自行车手失踪4年秘密变性(图)_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/world/Europe/200707/0710_1395_151916.shtml](https://news.ifeng.com/world/Europe/200707/0710_1395_151916.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3186 bytes                           |
+> | MD5             | 57a1350ab1d015723905fd5b6a929b62                                  |
 > | Archived Date   | 2024-11-02 08:36:51                             |
+> | Original Link   | [https://news.ifeng.com/world/Europe/200707/0710_1395_151916.shtml](https://news.ifeng.com/world/Europe/200707/0710_1395_151916.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

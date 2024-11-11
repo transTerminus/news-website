@@ -37,10 +37,13 @@
 > | Filename        | news_31岁亚裔男警官变女性纽约惊现首例变性警官.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-06-24/detail-ikknscsi7062981.d.html](https://news.sina.cn/sa/2005-06-24/detail-ikknscsi7062981.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2792 bytes                           |
+> | MD5             | 39b724066aa9f611da3e667b278e0eff                                  |
 > | Archived Date   | 2024-11-02 05:05:40                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-06-24/detail-ikknscsi7062981.d.html](https://news.sina.cn/sa/2005-06-24/detail-ikknscsi7062981.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

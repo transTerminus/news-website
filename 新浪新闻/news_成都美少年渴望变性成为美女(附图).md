@@ -51,10 +51,13 @@
 > | Filename        | news_成都美少年渴望变性成为美女(附图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-12-04/detail-ikknscsi8411271.d.html](https://news.sina.cn/sa/2005-12-04/detail-ikknscsi8411271.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4446 bytes                           |
+> | MD5             | b5dbaf65124916a9adce9c468dc66055                                  |
 > | Archived Date   | 2024-11-02 05:15:15                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-12-04/detail-ikknscsi8411271.d.html](https://news.sina.cn/sa/2005-12-04/detail-ikknscsi8411271.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

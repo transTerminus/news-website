@@ -58,10 +58,13 @@
 > | Filename        | news_男变女好痛苦！变性艺人留绝笔_手机新浪网.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2007-01-26/detail-ikknscsk1754515.d.html](https://news.sina.cn/sa/2007-01-26/detail-ikknscsk1754515.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7125 bytes                           |
+> | MD5             | d358bde137d4c1d8b5e130b62001e2ac                                  |
 > | Archived Date   | 2024-11-02 05:43:37                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-01-26/detail-ikknscsk1754515.d.html](https://news.sina.cn/sa/2007-01-26/detail-ikknscsk1754515.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

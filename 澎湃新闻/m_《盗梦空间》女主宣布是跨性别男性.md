@@ -76,10 +76,13 @@ Netflix称赞艾利奥特是超级英雄，只要他愿意，随时可以在《�
 > | Filename        | m_《盗梦空间》女主宣布是跨性别男性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10272167](https://m.thepaper.cn/newsDetail_forward_10272167)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6807 bytes                           |
+> | MD5             | 9f830e078a0068d54007b8876949d030                                  |
 > | Archived Date   | 2024-11-03 08:40:48                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10272167](https://m.thepaper.cn/newsDetail_forward_10272167)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -27,10 +27,13 @@
 > | Filename        | news_美国防部长：美军酝酿允许变性人在美军公开服役.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2015-07-14/detail-ifxewnia9276030.d.html](https://news.sina.cn/2015-07-14/detail-ifxewnia9276030.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2194 bytes                           |
+> | MD5             | a0c8735fa28cd62e0a9def31f04622ce                                  |
 > | Archived Date   | 2024-11-02 03:31:54                             |
+> | Original Link   | [https://news.sina.cn/2015-07-14/detail-ifxewnia9276030.d.html](https://news.sina.cn/2015-07-14/detail-ifxewnia9276030.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

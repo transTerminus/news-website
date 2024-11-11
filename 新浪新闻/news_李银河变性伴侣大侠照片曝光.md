@@ -149,10 +149,13 @@
 > | Filename        | news_李银河变性伴侣大侠照片曝光.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sh/2014-12-21/detail-iavxeafr8757899.d.html?wm=3049_0015](https://news.sina.cn/sh/2014-12-21/detail-iavxeafr8757899.d.html?wm=3049_0015)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 13099 bytes                           |
+> | MD5             | 92d7fd53749eb0a387a67a3c315c45b5                                  |
 > | Archived Date   | 2024-11-02 06:33:13                             |
+> | Original Link   | [https://news.sina.cn/sh/2014-12-21/detail-iavxeafr8757899.d.html?wm=3049_0015](https://news.sina.cn/sh/2014-12-21/detail-iavxeafr8757899.d.html?wm=3049_0015)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

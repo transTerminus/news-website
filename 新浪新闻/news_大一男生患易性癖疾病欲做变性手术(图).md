@@ -140,10 +140,13 @@
 > | Filename        | news_大一男生患易性癖疾病欲做变性手术(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2010-10-29/detail-ikftssap3386716.d.html](https://news.sina.cn/sa/2010-10-29/detail-ikftssap3386716.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8201 bytes                           |
+> | MD5             | 05b819f2bf73d8aa5367e176505e156a                                  |
 > | Archived Date   | 2024-11-02 06:19:54                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-10-29/detail-ikftssap3386716.d.html](https://news.sina.cn/sa/2010-10-29/detail-ikftssap3386716.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

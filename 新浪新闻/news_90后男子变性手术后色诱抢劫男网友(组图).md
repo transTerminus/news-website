@@ -79,10 +79,13 @@
 > | Filename        | news_90后男子变性手术后色诱抢劫男网友(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2011-06-24/detail-ikftpnny4851413.d.html](https://news.sina.cn/sa/2011-06-24/detail-ikftpnny4851413.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10236 bytes                           |
+> | MD5             | 663d05e04b2a84cf4e1106f2f2032244                                  |
 > | Archived Date   | 2024-11-02 06:24:29                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-06-24/detail-ikftpnny4851413.d.html](https://news.sina.cn/sa/2011-06-24/detail-ikftpnny4851413.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -135,10 +135,13 @@
 > | Filename        | news_中国第一变性美女全球征婚(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2007-05-15/detail-ikknscsk2231845.d.html?from=wap](https://news.sina.cn/sa/2007-05-15/detail-ikknscsk2231845.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5491 bytes                           |
+> | MD5             | c6894de9487aaadaf142440e03c25194                                  |
 > | Archived Date   | 2024-11-02 05:53:24                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-05-15/detail-ikknscsk2231845.d.html?from=wap](https://news.sina.cn/sa/2007-05-15/detail-ikknscsk2231845.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -103,10 +103,13 @@
 > | Filename        | news_男青年为筹钱变性两度扮女人骗婚(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-12-04/detail-ikftpnny3781555.d.html](https://news.sina.cn/sa/2006-12-04/detail-ikftpnny3781555.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7962 bytes                           |
+> | MD5             | 927351bb6b3da100c6cf8adae94b3e6e                                  |
 > | Archived Date   | 2024-11-02 05:42:14                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-12-04/detail-ikftpnny3781555.d.html](https://news.sina.cn/sa/2006-12-04/detail-ikftpnny3781555.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

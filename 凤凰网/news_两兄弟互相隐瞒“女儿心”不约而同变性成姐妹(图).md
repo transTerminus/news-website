@@ -25,10 +25,13 @@
 > | Filename        | news_两兄弟互相隐瞒“女儿心”不约而同变性成姐妹(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20160523/48827737_0.shtml](https://news.ifeng.com/a/20160523/48827737_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1162 bytes                           |
+> | MD5             | e07deb46cd7dafccad64297622ed9173                                  |
 > | Archived Date   | 2024-11-02 07:45:42                             |
+> | Original Link   | [https://news.ifeng.com/a/20160523/48827737_0.shtml](https://news.ifeng.com/a/20160523/48827737_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

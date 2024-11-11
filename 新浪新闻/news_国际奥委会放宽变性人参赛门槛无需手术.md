@@ -46,10 +46,13 @@
 > | Filename        | news_国际奥委会放宽变性人参赛门槛无需手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html](https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2441 bytes                           |
+> | MD5             | 74640cff1fd60f3dcd8cdf230f6dbe5b                                  |
 > | Archived Date   | 2024-11-02 03:54:09                             |
+> | Original Link   | [https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html](https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

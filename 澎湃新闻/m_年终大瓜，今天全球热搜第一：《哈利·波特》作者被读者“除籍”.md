@@ -102,10 +102,13 @@
 > | Filename        | m_年终大瓜，今天全球热搜第一：《哈利·波特》作者被读者“除籍”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5304986](https://m.thepaper.cn/newsDetail_forward_5304986)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7417 bytes                           |
+> | MD5             | ce7035ee9b698bc6618c03080ea24df5                                  |
 > | Archived Date   | 2024-11-03 09:37:49                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5304986](https://m.thepaper.cn/newsDetail_forward_5304986)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

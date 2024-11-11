@@ -108,10 +108,13 @@
 > | Filename        | m_跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 13147 bytes                           |
+> | MD5             | 7d1fc48a09d0cb98267eaf09c5a0199d                                  |
 > | Archived Date   | 2024-11-03 08:38:20                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

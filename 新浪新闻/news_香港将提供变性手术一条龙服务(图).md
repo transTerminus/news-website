@@ -60,10 +60,13 @@
 > | Filename        | news_香港将提供变性手术一条龙服务(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2013-09-27/detail-ikmxzfmk2495610.d.html](https://news.sina.cn/sa/2013-09-27/detail-ikmxzfmk2495610.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3305 bytes                           |
+> | MD5             | d1eac37a883c83605d8ef12d415bc1f3                                  |
 > | Archived Date   | 2024-11-02 06:31:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2013-09-27/detail-ikmxzfmk2495610.d.html](https://news.sina.cn/sa/2013-09-27/detail-ikmxzfmk2495610.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -59,10 +59,13 @@ LGBT组织宣传图，意为所有人应有同样的权利、平等的爱。
 > | Filename        | m_缅甸LGBT现状：希望向新政府争取与普通人一样的权利.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1429946](https://m.thepaper.cn/newsDetail_forward_1429946)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4718 bytes                           |
+> | MD5             | 1924cb74d6a5d707510acc9bdc4fbd6f                                  |
 > | Archived Date   | 2024-11-03 09:00:37                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1429946](https://m.thepaper.cn/newsDetail_forward_1429946)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

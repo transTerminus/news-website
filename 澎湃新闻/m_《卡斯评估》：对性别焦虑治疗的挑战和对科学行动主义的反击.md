@@ -87,10 +87,13 @@ NHS已经接受了卡斯的建议。今年3月，在《卡斯评估》正式公�
 > | Filename        | m_《卡斯评估》：对性别焦虑治疗的挑战和对科学行动主义的反击.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_27784696](https://m.thepaper.cn/newsDetail_forward_27784696)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 27232 bytes                           |
+> | MD5             | b2359c5b5454e6f2f51fd9692cd1b45d                                  |
 > | Archived Date   | 2024-11-03 09:25:56                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_27784696](https://m.thepaper.cn/newsDetail_forward_27784696)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

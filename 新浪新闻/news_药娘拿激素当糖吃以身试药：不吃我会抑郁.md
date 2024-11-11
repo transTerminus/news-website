@@ -46,10 +46,13 @@
 > | Filename        | news_药娘拿激素当糖吃以身试药：不吃我会抑郁.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/sh/2018-08-16/detail-ihhvciiv6086963.d.html?oid=381&vt=4](http://news.sina.cn/sh/2018-08-16/detail-ihhvciiv6086963.d.html?oid=381&vt=4)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1352 bytes                           |
+> | MD5             | 7368209a408a1ed2e533e7b742df129c                                  |
 > | Archived Date   | 2024-11-02 03:29:41                             |
+> | Original Link   | [http://news.sina.cn/sh/2018-08-16/detail-ihhvciiv6086963.d.html?oid=381&vt=4](http://news.sina.cn/sh/2018-08-16/detail-ihhvciiv6086963.d.html?oid=381&vt=4)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

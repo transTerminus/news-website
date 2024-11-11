@@ -77,10 +77,13 @@ Elliot在杰森·瑞特曼（Jason Reitman）的电影《朱诺（Juno）》（2
 > | Filename        | m_《朱诺》主演、加拿大知名女星宣布变性，总理转推祝贺.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10246535](https://m.thepaper.cn/newsDetail_forward_10246535)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8872 bytes                           |
+> | MD5             | 5764ef1f030956eb0c2689163332dade                                  |
 > | Archived Date   | 2024-11-03 08:40:21                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10246535](https://m.thepaper.cn/newsDetail_forward_10246535)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -239,10 +239,13 @@ MECT是指在使用静脉麻醉药和肌松剂使患者意识消失后，以一�
 > | Filename        | m_遭电击治疗，一位跨性别者决定起诉.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28830401](https://m.thepaper.cn/newsDetail_forward_28830401)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 23945 bytes                           |
+> | MD5             | bef2d2210007d29143e81f7b837e3a93                                  |
 > | Archived Date   | 2024-11-03 09:28:23                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28830401](https://m.thepaper.cn/newsDetail_forward_28830401)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

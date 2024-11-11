@@ -27,10 +27,13 @@
 > | Filename        | news_变性人陈瑜春节后要当美女记者(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-01-14/detail-ikkntiam6358763.d.html](https://news.sina.cn/sa/2006-01-14/detail-ikkntiam6358763.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1246 bytes                           |
+> | MD5             | d753f4515325a4878fb22ed3596dd58f                                  |
 > | Archived Date   | 2024-11-02 05:19:38                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-01-14/detail-ikkntiam6358763.d.html](https://news.sina.cn/sa/2006-01-14/detail-ikkntiam6358763.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

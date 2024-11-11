@@ -1,20 +1,402 @@
 name: 凤凰网
-description: 该目录收录了许多关于变性人与性别认同相关的报道，内容涵盖个人的生命故事、变性手术的经历、家庭与社会的反应等，旨在呈现跨性别群体在社会中的生存现状与挑战。
+description: 本目录收录了关于跨性别主题的多样内容，包括文化评论、社会案例以及个体故事等，意在提高对跨性别群体的理解和认知。
 curator: ''
 source: ''
 tags:
-- 生命故事
+- 跨性别
+- 文化
+- 社会平等
 - 医疗资源
-- 社会环境
-- 性别认同
-- 变性手术
-- 个人经历
-- 社会媒体报道
-- 家庭支持
 - 法律政策
-- 跨性别文化
+- 艺术与创作
+- 真实记录
 license: ''
 files:
+- name: culture_人民日报：我们不认同所谓“娘炮”等带有贬损性的说法_-_读书
+  filename: culture_人民日报：我们不认同所谓“娘炮”等带有贬损性的说法_-_读书.md
+  type: webpage
+  format: Markdown
+  size: 5180
+  md5: f8757b478f095739e3fde28e42acbc90
+  page: culture_人民日报：我们不认同所谓“娘炮”等带有贬损性的说法_-_读书.md
+- name: culture_人类40年来的跨性别探索：非男即女性别观遭质疑_-_读书
+  filename: culture_人类40年来的跨性别探索：非男即女性别观遭质疑_-_读书.md
+  type: webpage
+  format: Markdown
+  size: 7376
+  md5: 1e5694bc0a86c8c3e9dbf6a21b25c820
+  page: culture_人类40年来的跨性别探索：非男即女性别观遭质疑_-_读书.md
+- name: culture_史上最强伪娘照曝光(组图)_-_读书-_凤凰网
+  filename: culture_史上最强伪娘照曝光(组图)_-_读书-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 736
+  md5: f61d1231e3b4faa00776fe79fc6de7a3
+  page: culture_史上最强伪娘照曝光(组图)_-_读书-_凤凰网.md
+- name: culture_在地下电影和造星工厂，重新发现安迪·沃霍尔_-_读书-_凤凰网
+  filename: culture_在地下电影和造星工厂，重新发现安迪·沃霍尔_-_读书-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 12663
+  md5: 4e8d9c4d599540a201bc1e8b5a5d5a85
+  page: culture_在地下电影和造星工厂，重新发现安迪·沃霍尔_-_读书-_凤凰网.md
+- name: culture_女大学生上演“占领男厕所”行为艺术吁性别平等(图)
+  filename: culture_女大学生上演“占领男厕所”行为艺术吁性别平等(图).md
+  type: webpage
+  format: Markdown
+  size: 2162
+  md5: f3e98cd1af00af656ea1a978f14e80c4
+  page: culture_女大学生上演“占领男厕所”行为艺术吁性别平等(图).md
+- name: culture_李银河解读男扮女装：“伪娘”与异装癖不一样_文化频道_凤凰网
+  filename: culture_李银河解读男扮女装：“伪娘”与异装癖不一样_文化频道_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 4138
+  md5: 908569b1c79217935cb902080deeac9c
+  page: culture_李银河解读男扮女装：“伪娘”与异装癖不一样_文化频道_凤凰网.md
+- name: ent_《云图》导演曾被曝有异装癖：西装下穿女式内衣_-_娱乐-_凤凰网
+  filename: ent_《云图》导演曾被曝有异装癖：西装下穿女式内衣_-_娱乐-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 4930
+  md5: 7e8df8011e55712fef79c83c3130c256
+  page: ent_《云图》导演曾被曝有异装癖：西装下穿女式内衣_-_娱乐-_凤凰网.md
+- name: ent_《好声音》张新“反串”引争议26岁男孩雌雄难辨_-_娱乐-_凤凰网
+  filename: ent_《好声音》张新“反串”引争议26岁男孩雌雄难辨_-_娱乐-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 5088
+  md5: a001ceeec0496806a8a83001b7bbd790
+  page: ent_《好声音》张新“反串”引争议26岁男孩雌雄难辨_-_娱乐-_凤凰网.md
+- name: ent_泰国年龄最小人妖，仅9岁一天要打3次激素
+  filename: ent_泰国年龄最小人妖，仅9岁一天要打3次激素.md
+  type: webpage
+  format: Markdown
+  size: 1382
+  md5: e65ac5dc5aaec178d63f2058cf972271
+  page: ent_泰国年龄最小人妖，仅9岁一天要打3次激素.md
+- name: ent_这部泰国人妖纪录片，绝对颠覆你对变性人的认知_-_娱乐
+  filename: ent_这部泰国人妖纪录片，绝对颠覆你对变性人的认知_-_娱乐.md
+  type: webpage
+  format: Markdown
+  size: 13691
+  md5: 2b198e28f7c99aa7a68a5c68fa956a6a
+  page: ent_这部泰国人妖纪录片，绝对颠覆你对变性人的认知_-_娱乐.md
+- name: fashion_惊叹：泰国人妖生理大揭密（图）_-_时尚-_凤凰网
+  filename: fashion_惊叹：泰国人妖生理大揭密（图）_-_时尚-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 1953
+  md5: 24e13d34f366e329f4f5f375543f87f6
+  page: fashion_惊叹：泰国人妖生理大揭密（图）_-_时尚-_凤凰网.md
+- name: fashion_新婚夫妻相约一起变性变性真如想象般美好吗_-_时尚-_凤凰网
+  filename: fashion_新婚夫妻相约一起变性变性真如想象般美好吗_-_时尚-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 8980
+  md5: 1ee05160154ed36a82bb2afdd0ba6136
+  page: fashion_新婚夫妻相约一起变性变性真如想象般美好吗_-_时尚-_凤凰网.md
+- name: fashion_男子迷恋布兰妮花巨款变性隆胸(组图)_-_时尚-_凤凰网
+  filename: fashion_男子迷恋布兰妮花巨款变性隆胸(组图)_-_时尚-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 3706
+  md5: 9d8ffe29223cc436de2b72c9283e392a
+  page: fashion_男子迷恋布兰妮花巨款变性隆胸(组图)_-_时尚-_凤凰网.md
+- name: finance_15年来首次！日本执政联盟未获得过半议席，日元跌至三个月新低
+  filename: finance_15年来首次！日本执政联盟未获得过半议席，日元跌至三个月新低.md
+  type: webpage
+  format: Markdown
+  size: 5188
+  md5: a173924b341f75bf44c1a37bcb117339
+  page: finance_15年来首次！日本执政联盟未获得过半议席，日元跌至三个月新低.md
+- name: finance_19岁跨性别者的三次“逃亡”
+  filename: finance_19岁跨性别者的三次“逃亡”.md
+  type: webpage
+  format: Markdown
+  size: 719
+  md5: b91265da4a831eabb93d69fc0d430268
+  page: finance_19岁跨性别者的三次“逃亡”.md
+- name: finance_泰国人妖皇后现身征兵现场_-_凤凰网财经
+  filename: finance_泰国人妖皇后现身征兵现场_-_凤凰网财经.md
+  type: webpage
+  format: Markdown
+  size: 315
+  md5: 261d9c3cfa5942ebba666ae1e597e4d2
+  page: finance_泰国人妖皇后现身征兵现场_-_凤凰网财经.md
+- name: finance_超模自爆双性人身份曾两次手术变成女人_-_凤凰网财经
+  filename: finance_超模自爆双性人身份曾两次手术变成女人_-_凤凰网财经.md
+  type: webpage
+  format: Markdown
+  size: 13981
+  md5: 1e4b11083111962fa93fed9feefdd109
+  page: finance_超模自爆双性人身份曾两次手术变成女人_-_凤凰网财经.md
+- name: fo_一个变性手术医生的心灵告白_-_凤凰佛教
+  filename: fo_一个变性手术医生的心灵告白_-_凤凰佛教.md
+  type: webpage
+  format: Markdown
+  size: 3872
+  md5: 52bfd270bc8dc6439e6a433789c813b3
+  page: fo_一个变性手术医生的心灵告白_-_凤凰佛教.md
+- name: fo_巴基斯坦跨性别群体渴望家人社会接纳呼吁更多关爱
+  filename: fo_巴基斯坦跨性别群体渴望家人社会接纳呼吁更多关爱.md
+  type: webpage
+  format: Markdown
+  size: 755
+  md5: e68213854bd16b42d1e9ba1cab1ed24d
+  page: fo_巴基斯坦跨性别群体渴望家人社会接纳呼吁更多关爱.md
+- name: gongyi_一个崇拜泰迪熊的变装癖，怎么用艺术改变世界？_-_公益-_凤凰网
+  filename: gongyi_一个崇拜泰迪熊的变装癖，怎么用艺术改变世界？_-_公益-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 13205
+  md5: 4222b3e5d878d12b489ba9309b7bd52d
+  page: gongyi_一个崇拜泰迪熊的变装癖，怎么用艺术改变世界？_-_公益-_凤凰网.md
+- name: h5_97种性别你受得了吗？美国在“自由”路上越走越离谱
+  filename: h5_97种性别你受得了吗？美国在“自由”路上越走越离谱.md
+  type: webpage
+  format: Markdown
+  size: 36
+  md5: 734cb32288896e3b2c76eba1cd436474
+  page: h5_97种性别你受得了吗？美国在“自由”路上越走越离谱.md
+- name: h5_巴基斯坦跨性别群体渴望家人社会接纳呼吁更多关爱
+  filename: h5_巴基斯坦跨性别群体渴望家人社会接纳呼吁更多关爱.md
+  type: webpage
+  format: Markdown
+  size: 418
+  md5: 37979acb1de6381acd9d066f0b6ac8aa
+  page: h5_巴基斯坦跨性别群体渴望家人社会接纳呼吁更多关爱.md
+- name: h5_异装癖：男子喜欢穿女装是什么心理
+  filename: h5_异装癖：男子喜欢穿女装是什么心理.md
+  type: webpage
+  format: Markdown
+  size: 7243
+  md5: f101e86d9b3f527bf7dc7dd2b0ab0d04
+  page: h5_异装癖：男子喜欢穿女装是什么心理.md
+- name: h5_粤语报道丨跨性别人士须完成指定手术才可改身份证性别
+  filename: h5_粤语报道丨跨性别人士须完成指定手术才可改身份证性别.md
+  type: webpage
+  format: Markdown
+  size: 1226
+  md5: 99e467dee9e2513f00a66b52a62b99a8
+  page: h5_粤语报道丨跨性别人士须完成指定手术才可改身份证性别.md
+- name: hb_性学教授：消解性盲社会现阶段中国99%成年人是性盲_-_凤凰网湖北
+  filename: hb_性学教授：消解性盲社会现阶段中国99%成年人是性盲_-_凤凰网湖北.md
+  type: webpage
+  format: Markdown
+  size: 14098
+  md5: 02eb4df294d8a87882a83e2fdaf4ac82
+  page: hb_性学教授：消解性盲社会现阶段中国99%成年人是性盲_-_凤凰网湖北.md
+- name: health_中国卫生部规范变性手术华西医院全国首批通过审核_-_健康
+  filename: health_中国卫生部规范变性手术华西医院全国首批通过审核_-_健康.md
+  type: webpage
+  format: Markdown
+  size: 2493
+  md5: 91f72a07219c12a597829ba057b47a12
+  page: health_中国卫生部规范变性手术华西医院全国首批通过审核_-_健康.md
+- name: health_你知道什么是“易性癖”吗(图)_健康频道
+  filename: health_你知道什么是“易性癖”吗(图)_健康频道.md
+  type: webpage
+  format: Markdown
+  size: 3110
+  md5: ca7680e72c0e9033cd1de07894403cbf
+  page: health_你知道什么是“易性癖”吗(图)_健康频道.md
+- name: i_「男变女，女变男」：那些跨不过性别的人
+  filename: i_「男变女，女变男」：那些跨不过性别的人.md
+  type: webpage
+  format: Markdown
+  size: 21332
+  md5: 6e560e0f0f717c145516d81fa42f0718
+  page: i_「男变女，女变男」：那些跨不过性别的人.md
+- name: i_一篇药娘日记，记录了数万药娘的悲惨命运_-_凤凰网
+  filename: i_一篇药娘日记，记录了数万药娘的悲惨命运_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 15400
+  md5: 9790d313258043f39ebcf04142474c11
+  page: i_一篇药娘日记，记录了数万药娘的悲惨命运_-_凤凰网.md
+- name: i_中国古代是否也有“人妖”？如果有，他们最早出现在什么时候呢？
+  filename: i_中国古代是否也有“人妖”？如果有，他们最早出现在什么时候呢？.md
+  type: webpage
+  format: Markdown
+  size: 1154
+  md5: 7369047ad8894dc93ea57da02db8774f
+  page: i_中国古代是否也有“人妖”？如果有，他们最早出现在什么时候呢？.md
+- name: i_北京爷们儿娶了泰国“最美人妖”后，真实生活曝光_-_凤凰网
+  filename: i_北京爷们儿娶了泰国“最美人妖”后，真实生活曝光_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 13136
+  md5: da9551638f147fc33abb599d55246f40
+  page: i_北京爷们儿娶了泰国“最美人妖”后，真实生活曝光_-_凤凰网.md
+- name: i_双性人是真实存在，还是性别幻想？真相刷新你的世界观_-_凤凰网
+  filename: i_双性人是真实存在，还是性别幻想？真相刷新你的世界观_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 5899
+  md5: 3585010019d399de40dfff391ad0ed07
+  page: i_双性人是真实存在，还是性别幻想？真相刷新你的世界观_-_凤凰网.md
+- name: i_古代女装大佬简史_-_凤凰网
+  filename: i_古代女装大佬简史_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 23150
+  md5: 6804461f9acbf5159ddb121a04356552
+  page: i_古代女装大佬简史_-_凤凰网.md
+- name: i_女生居然也能体验“勃起”的感觉？变性手术全过程揭秘_-_凤凰网
+  filename: i_女生居然也能体验“勃起”的感觉？变性手术全过程揭秘_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 7822
+  md5: 959425ff094fe2e547f800aaf9301ddc
+  page: i_女生居然也能体验“勃起”的感觉？变性手术全过程揭秘_-_凤凰网.md
+- name: i_好莱坞跨性别者：埃利奥特·佩吉_-_凤凰网
+  filename: i_好莱坞跨性别者：埃利奥特·佩吉_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 10303
+  md5: d5ced33f61cb9c0a7a29350c947c1c78
+  page: i_好莱坞跨性别者：埃利奥特·佩吉_-_凤凰网.md
+- name: i_整容医生将侵犯女儿凶手变性，变性后却爱上医生
+  filename: i_整容医生将侵犯女儿凶手变性，变性后却爱上医生.md
+  type: webpage
+  format: Markdown
+  size: 842
+  md5: 1e1579a90d308df61f47f0d259ca6245
+  page: i_整容医生将侵犯女儿凶手变性，变性后却爱上医生.md
+- name: i_泰国年度征兵太搞笑！美艳火辣人妖现身，全场羡慕嫉妒恨_-_凤凰网
+  filename: i_泰国年度征兵太搞笑！美艳火辣人妖现身，全场羡慕嫉妒恨_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 11653
+  md5: a9a5a7f602421fa2dbfc2e101e4027e5
+  page: i_泰国年度征兵太搞笑！美艳火辣人妖现身，全场羡慕嫉妒恨_-_凤凰网.md
+- name: i_湘雅黑医被判17年！曾致多名病人失去肛门
+  filename: i_湘雅黑医被判17年！曾致多名病人失去肛门.md
+  type: webpage
+  format: Markdown
+  size: 7971
+  md5: 5bcc10c2c72a1875da39bb35e725cddf
+  page: i_湘雅黑医被判17年！曾致多名病人失去肛门.md
+- name: i_男扮女装做擦边主播，我的观众全是男人_-_凤凰网
+  filename: i_男扮女装做擦边主播，我的观众全是男人_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 17714
+  md5: 715b0c61ce6d8b50ea692ae3a2e1978c
+  page: i_男扮女装做擦边主播，我的观众全是男人_-_凤凰网.md
+- name: i_看完郁了，这结局惨不忍睹_-_凤凰网
+  filename: i_看完郁了，这结局惨不忍睹_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 10549
+  md5: cf2e86e2f1a0531dfd719b019537fd6e
+  page: i_看完郁了，这结局惨不忍睹_-_凤凰网.md
+- name: i_离谱！美国高中偷偷诱导14岁少女变性，她因此惨遭霸凌
+  filename: i_离谱！美国高中偷偷诱导14岁少女变性，她因此惨遭霸凌.md
+  type: webpage
+  format: Markdown
+  size: 12283
+  md5: 46e6cdd2fe64568e8ee99759df2d52be
+  page: i_离谱！美国高中偷偷诱导14岁少女变性，她因此惨遭霸凌.md
+- name: i_罗琳的《哈利·波特与魔法石》_被英国大学打上了“性别预警”_-_凤凰网
+  filename: i_罗琳的《哈利·波特与魔法石》_被英国大学打上了“性别预警”_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 6485
+  md5: fab390270019414dd2aa4cc8eb5ac843
+  page: i_罗琳的《哈利·波特与魔法石》_被英国大学打上了“性别预警”_-_凤凰网.md
+- name: i_美国前海豹突击队成员后悔变性：我被CNN利用了
+  filename: i_美国前海豹突击队成员后悔变性：我被CNN利用了.md
+  type: webpage
+  format: Markdown
+  size: 6151
+  md5: e8151eae3083ec104aa3de8e8c1b123a
+  page: i_美国前海豹突击队成员后悔变性：我被CNN利用了.md
+- name: i_至今缺少指南共识这群中国医生30年摸石头过河_-_凤凰网
+  filename: i_至今缺少指南共识这群中国医生30年摸石头过河_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 21246
+  md5: f91c1a906f5568cf4e2c4e6618c25d2a
+  page: i_至今缺少指南共识这群中国医生30年摸石头过河_-_凤凰网.md
+- name: i_跨性别人权活动家在旧金山监事委员会上疯狂尖叫
+  filename: i_跨性别人权活动家在旧金山监事委员会上疯狂尖叫.md
+  type: webpage
+  format: Markdown
+  size: 825
+  md5: dc3ec5f8c078528fcd1beecca58cca18
+  page: i_跨性别人权活动家在旧金山监事委员会上疯狂尖叫.md
+- name: i_遭电击治疗，一位跨性别者决定起诉
+  filename: i_遭电击治疗，一位跨性别者决定起诉.md
+  type: webpage
+  format: Markdown
+  size: 24828
+  md5: e39a6b60f8257938946235ffd8872270
+  page: i_遭电击治疗，一位跨性别者决定起诉.md
+- name: iculture_J·K·罗琳经纪公司拒发跨性别权利声明，致使四位作家解约_-_凤凰网
+  filename: iculture_J·K·罗琳经纪公司拒发跨性别权利声明，致使四位作家解约_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 3588
+  md5: be57e5b35137b4ea9f88d71945d48f0a
+  page: iculture_J·K·罗琳经纪公司拒发跨性别权利声明，致使四位作家解约_-_凤凰网.md
+- name: ifinance_期待“免费变性手术”的泰国人_-_财经-_凤凰网
+  filename: ifinance_期待“免费变性手术”的泰国人_-_财经-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 2274
+  md5: 59a4d66832c6db572631b392a55fd015
+  page: ifinance_期待“免费变性手术”的泰国人_-_财经-_凤凰网.md
+- name: ifinance_深扒中国第一伪娘团体：腿长腰细胸大皮肤白
+  filename: ifinance_深扒中国第一伪娘团体：腿长腰细胸大皮肤白.md
+  type: webpage
+  format: Markdown
+  size: 4858
+  md5: 0a6dcbaad6eb1db18fad9ef1ca528801
+  page: ifinance_深扒中国第一伪娘团体：腿长腰细胸大皮肤白.md
+- name: igongyi_中国性少数群体生存状况调查报告丨报告解读_-_公益-_凤凰网
+  filename: igongyi_中国性少数群体生存状况调查报告丨报告解读_-_公益-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 4981
+  md5: f65cdd5ef8316134a8f674d475e726d7
+  page: igongyi_中国性少数群体生存状况调查报告丨报告解读_-_公益-_凤凰网.md
+- name: inews_变性手术医生：手术做错一例就再不会碰那把刀_-_凤凰网
+  filename: inews_变性手术医生：手术做错一例就再不会碰那把刀_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 16412
+  md5: b3fd768788281aa2d408bb39bc0ab0e2
+  page: inews_变性手术医生：手术做错一例就再不会碰那把刀_-_凤凰网.md
+- name: inews_在地下电影和造星工厂，重新发现安迪·沃霍尔_-_凤凰网
+  filename: inews_在地下电影和造星工厂，重新发现安迪·沃霍尔_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 12331
+  md5: 4dccbaf19af2c251f70ae5c36825ce02
+  page: inews_在地下电影和造星工厂，重新发现安迪·沃霍尔_-_凤凰网.md
+- name: inews_您了解LES群体里性别角色的划分吗？
+  filename: inews_您了解LES群体里性别角色的划分吗？.md
+  type: webpage
+  format: Markdown
+  size: 9195
+  md5: 1f14d5970e781af6d2ab3e51d0dfbf88
+  page: inews_您了解LES群体里性别角色的划分吗？.md
+- name: inews_穿裙子的男孩：异装的快乐是成为自己而非穿女装_-_凤凰网
+  filename: inews_穿裙子的男孩：异装的快乐是成为自己而非穿女装_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 13494
+  md5: 087434ee487bc4be2f52f20ca299daba
+  page: inews_穿裙子的男孩：异装的快乐是成为自己而非穿女装_-_凤凰网.md
+- name: inews_美国前世界健美冠军是双性人_-_凤凰网
+  filename: inews_美国前世界健美冠军是双性人_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 1722
+  md5: b02f6959fb0a53e4c2a977d50a2c07d1
+  page: inews_美国前世界健美冠军是双性人_-_凤凰网.md
 - name: inews_药娘群像：与身体斗争的这些年
   filename: inews_药娘群像：与身体斗争的这些年.md
   type: webpage
@@ -22,6 +404,48 @@ files:
   size: 26689
   md5: db6977fc3e8b3029d3697b71dfcfd3cc
   page: inews_药娘群像：与身体斗争的这些年.md
+- name: inews_高中生拍跨性别电影，谁不是一边受伤一边成长？_-_凤凰网
+  filename: inews_高中生拍跨性别电影，谁不是一边受伤一边成长？_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 13636
+  md5: 687d83950c08c8d64e9816d6a427b0c5
+  page: inews_高中生拍跨性别电影，谁不是一边受伤一边成长？_-_凤凰网.md
+- name: ishare_变性之美的国度泰国与您讲述人妖皇后背后的故事_-_凤凰网
+  filename: ishare_变性之美的国度泰国与您讲述人妖皇后背后的故事_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 4354
+  md5: f51a2c3a41fee050af613d60090b124c
+  page: ishare_变性之美的国度泰国与您讲述人妖皇后背后的故事_-_凤凰网.md
+- name: itech_跨性别人群现在可以接受一种治疗，让自己听起来更真实_-_凤凰网
+  filename: itech_跨性别人群现在可以接受一种治疗，让自己听起来更真实_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 9771
+  md5: 32337204b78e0a6b511c7cf7c4fd634d
+  page: itech_跨性别人群现在可以接受一种治疗，让自己听起来更真实_-_凤凰网.md
+- name: mil_台湾省变性艺人利菁的爱情故事，老公是比自己小14岁的帅哥
+  filename: mil_台湾省变性艺人利菁的爱情故事，老公是比自己小14岁的帅哥.md
+  type: webpage
+  format: Markdown
+  size: 1627
+  md5: a7da1f4c4c1073b50178fc8934ad19e3
+  page: mil_台湾省变性艺人利菁的爱情故事，老公是比自己小14岁的帅哥.md
+- name: mil_美军的跨性别者因为特朗普而陷入困境_-_军事-_凤凰网
+  filename: mil_美军的跨性别者因为特朗普而陷入困境_-_军事-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 6497
+  md5: ddbdcc6144d02ea3f5d5a8689a78954d
+  page: mil_美军的跨性别者因为特朗普而陷入困境_-_军事-_凤凰网.md
+- name: nb_因“娘炮”问题就诊的青少年不断攀升专家：需社会引导_-_凤凰网宁波
+  filename: nb_因“娘炮”问题就诊的青少年不断攀升专家：需社会引导_-_凤凰网宁波.md
+  type: webpage
+  format: Markdown
+  size: 7138
+  md5: 9c7e558878389304377d85f1cfa18112
+  page: nb_因“娘炮”问题就诊的青少年不断攀升专家：需社会引导_-_凤凰网宁波.md
 - name: news_17岁少女欲做变性手术家长疑其有女友(图)
   filename: news_17岁少女欲做变性手术家长疑其有女友(图).md
   type: webpage
@@ -29,6 +453,13 @@ files:
   size: 2694
   md5: a42c46b679545e98fde31ff88728221f
   page: news_17岁少女欲做变性手术家长疑其有女友(图).md
+- name: news_17岁少年不顾父母阻拦为同性恋人卖身变性_-_凤凰网
+  filename: news_17岁少年不顾父母阻拦为同性恋人卖身变性_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 6835
+  md5: 77624047ab15b6f839c53994f6123241
+  page: news_17岁少年不顾父母阻拦为同性恋人卖身变性_-_凤凰网.md
 - name: news_17岁少年不顾父母阻拦为同性恋人卖身变性_资讯
   filename: news_17岁少年不顾父母阻拦为同性恋人卖身变性_资讯.md
   type: webpage
@@ -36,6 +467,13 @@ files:
   size: 3083
   md5: 1024fdd78f487f46839303b5a66419cf
   page: news_17岁少年不顾父母阻拦为同性恋人卖身变性_资讯.md
+- name: news_19岁跨性别者的三次“逃亡”
+  filename: news_19岁跨性别者的三次“逃亡”.md
+  type: webpage
+  format: Markdown
+  size: 1423
+  md5: bf1bab7b30919378f5a6b2321314ac96
+  page: news_19岁跨性别者的三次“逃亡”.md
 - name: news_21岁小伙做变性手术成女人(图)
   filename: news_21岁小伙做变性手术成女人(图).md
   type: webpage
@@ -43,6 +481,13 @@ files:
   size: 1602
   md5: 42e741a45c7da595771c2621084759ea
   page: news_21岁小伙做变性手术成女人(图).md
+- name: news_250万同性恋异装癖者巴西圣保罗大游行_资讯_-_凤凰网
+  filename: news_250万同性恋异装癖者巴西圣保罗大游行_资讯_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 1027
+  md5: 769275bc92529f4b1ae0ca30db49caf2
+  page: news_250万同性恋异装癖者巴西圣保罗大游行_资讯_-_凤凰网.md
 - name: news_26岁男硕士欲变性成为女人曾用剪刀自剪生殖器
   filename: news_26岁男硕士欲变性成为女人曾用剪刀自剪生殖器.md
   type: webpage
@@ -141,6 +586,13 @@ files:
   size: 754
   md5: 19e207b42d0137a63efa1a7338856a6d
   page: news_“变性靓女”选美大赛热辣秀性感[组图].md
+- name: news_“撕裂”之战⑧｜高调支持特朗普背后，马斯克究竟想要什么？_-_凤凰网
+  filename: news_“撕裂”之战⑧｜高调支持特朗普背后，马斯克究竟想要什么？_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 6813
+  md5: edc70c3fbc7ec06ee5a8cf3bbe2abd5f
+  page: news_“撕裂”之战⑧｜高调支持特朗普背后，马斯克究竟想要什么？_-_凤凰网.md
 - name: news_“江西第一变性人”将发写真梦想今后走T台
   filename: news_“江西第一变性人”将发写真梦想今后走T台.md
   type: webpage
@@ -169,6 +621,13 @@ files:
   size: 10506
   md5: 50c8f5a2b6cc45e6dfa27668c541d32e
   page: news_“道德模范”刘婷变性后参加选美.md
+- name: news_【你相信吗？】变性人服用雄激素仍怀孕产女恐怖片影片_-_凤凰网
+  filename: news_【你相信吗？】变性人服用雄激素仍怀孕产女恐怖片影片_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 4235
+  md5: cd3883000c5e1ef34feef4ec823a0abb
+  page: news_【你相信吗？】变性人服用雄激素仍怀孕产女恐怖片影片_-_凤凰网.md
 - name: news_一夜情后发现情人是“变性人”_俄医生将情人肢解
   filename: news_一夜情后发现情人是“变性人”_俄医生将情人肢解.md
   type: webpage
@@ -176,6 +635,20 @@ files:
   size: 1958
   md5: 80cf3f26a21f00ed3cdbd181ace69df9
   page: news_一夜情后发现情人是“变性人”_俄医生将情人肢解.md
+- name: news_万斯建议禁止跨性别运动员参加女子体育比赛_-_凤凰网
+  filename: news_万斯建议禁止跨性别运动员参加女子体育比赛_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 3052
+  md5: 6aedb727e33dba06ca1215f8184dbd38
+  page: news_万斯建议禁止跨性别运动员参加女子体育比赛_-_凤凰网.md
+- name: news_万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者
+  filename: news_万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者.md
+  type: webpage
+  format: Markdown
+  size: 2919
+  md5: 36da3d8f0af1d41797d244856e9f9e1a
+  page: news_万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者.md
 - name: news_上海52岁男子做变性手术成女人盼按女性身份退休
   filename: news_上海52岁男子做变性手术成女人盼按女性身份退休.md
   type: webpage
@@ -211,6 +684,13 @@ files:
   size: 5650
   md5: a965022b8094311c3bf2f5f570c42d5b
   page: news_中国刑法学“被变性”引争议司法部展开调查.md
+- name: news_中国跨性别性工作者：顾客多为男异性恋常被妓女举报_-_凤凰网
+  filename: news_中国跨性别性工作者：顾客多为男异性恋常被妓女举报_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 8665
+  md5: 4f0a14c5ad3642e8b41010cbd51b41d6
+  page: news_中国跨性别性工作者：顾客多为男异性恋常被妓女举报_-_凤凰网.md
 - name: news_中国首位变性艺人不堪歧视割腕自杀图
   filename: news_中国首位变性艺人不堪歧视割腕自杀图.md
   type: webpage
@@ -225,6 +705,13 @@ files:
   size: 4049
   md5: 6cd180fdc13ce8c7d765840dab1f38a8
   page: news_为了能提前五年退休男子变性成女人.md
+- name: news_为什么大家突然不爱看电影了？_-_凤凰网
+  filename: news_为什么大家突然不爱看电影了？_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 25008
+  md5: eeae34015df994cf045438a472cc8e0f
+  page: news_为什么大家突然不爱看电影了？_-_凤凰网.md
 - name: news_为筹钱变性原台军士兵男扮女装下海陪酒
   filename: news_为筹钱变性原台军士兵男扮女装下海陪酒.md
   type: webpage
@@ -267,6 +754,13 @@ files:
   size: 2850
   md5: f97d147358575c997b28146b741e3f9f
   page: news_全国道德模范刘霆将在广州做变性手术.md
+- name: news_全国首位变性大学生做整容手术称将谈恋爱(图)_资讯_-_凤凰网
+  filename: news_全国首位变性大学生做整容手术称将谈恋爱(图)_资讯_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 2953
+  md5: aa3d82ebecca4d2ff30393381448b114
+  page: news_全国首位变性大学生做整容手术称将谈恋爱(图)_资讯_-_凤凰网.md
 - name: news_全国首例男大学生完成丰胸手术公开变性(组图)
   filename: news_全国首例男大学生完成丰胸手术公开变性(组图).md
   type: webpage
@@ -344,6 +838,13 @@ files:
   size: 4842
   md5: 1f8079779744b1287f69d0ddb335c4ee
   page: news_双性人做变性手术失败医院门口跪地哀求(图).md
+- name: news_双性人做变性手术失败医院门口跪地哀求(图)_-_凤凰网
+  filename: news_双性人做变性手术失败医院门口跪地哀求(图)_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 2169
+  md5: 2c5411f1e96c25dde122d6c539e98d85
+  page: news_双性人做变性手术失败医院门口跪地哀求(图)_-_凤凰网.md
 - name: news_变性“外围女”：没单位愿意要我们这种人
   filename: news_变性“外围女”：没单位愿意要我们这种人.md
   type: webpage
@@ -547,6 +1048,13 @@ files:
   size: 1049
   md5: 48bdcfabbb3f3c52305935563d09daa5
   page: news_图片故事：直击沈阳变性人手术全过程.md
+- name: news_在人间_一位跨性别者的17岁：逃离，流浪，自残_-_凤凰网
+  filename: news_在人间_一位跨性别者的17岁：逃离，流浪，自残_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 17518
+  md5: af3529d132888661f8a97451b56b5c29
+  page: news_在人间_一位跨性别者的17岁：逃离，流浪，自残_-_凤凰网.md
 - name: news_圭亚那一群变性人要求修法让异装癖者免罪_资讯
   filename: news_圭亚那一群变性人要求修法让异装癖者免罪_资讯.md
   type: webpage
@@ -554,6 +1062,13 @@ files:
   size: 2024
   md5: 71606f05acc735ec7164287e441ad1ff
   page: news_圭亚那一群变性人要求修法让异装癖者免罪_资讯.md
+- name: news_外媒：为逃避兵役，乌克兰一男子男扮女装持家人护照试图出境被拦下
+  filename: news_外媒：为逃避兵役，乌克兰一男子男扮女装持家人护照试图出境被拦下.md
+  type: webpage
+  format: Markdown
+  size: 3673
+  md5: fb4ecc56a05f8e6f2ae2f62c70131ad9
+  page: news_外媒：为逃避兵役，乌克兰一男子男扮女装持家人护照试图出境被拦下.md
 - name: news_大胡子“美女歌神”变身照曝光变性前是奶油小生(高清组图)
   filename: news_大胡子“美女歌神”变身照曝光变性前是奶油小生(高清组图).md
   type: webpage
@@ -596,6 +1111,13 @@ files:
   size: 3714
   md5: 77311fdc9405fb0690b17066f99aaeee
   page: news_奥巴马演讲频遭女变性人打断怒斥：你在我家(图).md
+- name: news_奥运拳手46秒将对手打退赛后陷性别争议，哈里斯沉默，特朗普声讨
+  filename: news_奥运拳手46秒将对手打退赛后陷性别争议，哈里斯沉默，特朗普声讨.md
+  type: webpage
+  format: Markdown
+  size: 4577
+  md5: f0fd8a789eb9b3e690beeaa9f560afd8
+  page: news_奥运拳手46秒将对手打退赛后陷性别争议，哈里斯沉默，特朗普声讨.md
 - name: news_奥运热点？新西兰举重运动员获奥运资格，系变性选手第一人
   filename: news_奥运热点？新西兰举重运动员获奥运资格，系变性选手第一人.md
   type: webpage
@@ -624,6 +1146,13 @@ files:
   size: 2806
   md5: 524cce7ee1c90f8121a904a513363c45
   page: news_女子支持父亲与丈夫一起变性三人成闺密(图).md
+- name: news_女子被诊断为真两性畸形无法正常工作，从小备受歧视
+  filename: news_女子被诊断为真两性畸形无法正常工作，从小备受歧视.md
+  type: webpage
+  format: Markdown
+  size: 1030
+  md5: 7472e093e8dff44af58243169a35c902
+  page: news_女子被诊断为真两性畸形无法正常工作，从小备受歧视.md
 - name: news_孩子想变性家长怎么办？养父母生长发育
   filename: news_孩子想变性家长怎么办？养父母生长发育.md
   type: webpage
@@ -659,6 +1188,20 @@ files:
   size: 1564
   md5: 011a3437cabd4dc9d022aa02a987dbb5
   page: news_小雀斑“变性”影帝角色.md
+- name: news_少女患两性畸形有男性生殖器被取笑为“人妖”(图)_-_凤凰网
+  filename: news_少女患两性畸形有男性生殖器被取笑为“人妖”(图)_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 11811
+  md5: 5f3d07c385bc252a67c40b31294f5112
+  page: news_少女患两性畸形有男性生殖器被取笑为“人妖”(图)_-_凤凰网.md
+- name: news_巴基斯坦异装癖者：在歧视中艰难讨生计(组图)男性女性_-_凤凰网
+  filename: news_巴基斯坦异装癖者：在歧视中艰难讨生计(组图)男性女性_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 4133
+  md5: 53acd3ae277d6235de93818dae662162
+  page: news_巴基斯坦异装癖者：在歧视中艰难讨生计(组图)男性女性_-_凤凰网.md
 - name: news_巴西变性人参加项目课程不逃课可获奖学金
   filename: news_巴西变性人参加项目课程不逃课可获奖学金.md
   type: webpage
@@ -1065,6 +1608,13 @@ files:
   size: 1402
   md5: edaee7c0e618359535630712ca4bd02e
   page: news_离婚后更豪放？42岁变性女星晒泳装照.md
+- name: news_粤语报道丨跨性别者改身份证性别香港平机会称不介入
+  filename: news_粤语报道丨跨性别者改身份证性别香港平机会称不介入.md
+  type: webpage
+  format: Markdown
+  size: 1242
+  md5: dcefd6aa5b6ddc99162d0a88acdba466
+  page: news_粤语报道丨跨性别者改身份证性别香港平机会称不介入.md
 - name: news_继金星后又一男星变性成功，手术后疼的满地爬
   filename: news_继金星后又一男星变性成功，手术后疼的满地爬.md
   type: webpage
@@ -1233,6 +1783,20 @@ files:
   size: 2732
   md5: 7bc8a9f96416a1c967cbb3795f8c6836
   page: news_胖大叔变美熟女台一中学男老师变性获学生力挺.md
+- name: news_苏纳克：我将修改法律，禁止跨性别女性使用女厕所_-_凤凰网
+  filename: news_苏纳克：我将修改法律，禁止跨性别女性使用女厕所_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 3393
+  md5: 5d8d4d2fe5b1800413891994e036e327
+  page: news_苏纳克：我将修改法律，禁止跨性别女性使用女厕所_-_凤凰网.md
+- name: news_苗栗“公馆妈妈”踢爆泰国人妖嗑药勾引学生_台湾_-_凤凰网
+  filename: news_苗栗“公馆妈妈”踢爆泰国人妖嗑药勾引学生_台湾_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 1898
+  md5: b3a1017997603783bff4fea80bad24fd
+  page: news_苗栗“公馆妈妈”踢爆泰国人妖嗑药勾引学生_台湾_-_凤凰网.md
 - name: news_英一杀手狱中变性成老太与女杀手相恋结婚(图)
   filename: news_英一杀手狱中变性成老太与女杀手相恋结婚(图).md
   type: webpage
@@ -1457,6 +2021,13 @@ files:
   size: 8100
   md5: 2bb4d5a5d6316b3c727823dcaf8c8ccd
   page: news_道德模范刘霆：我不是变性只是回归本来的自己(图).md
+- name: news_遭电击治疗，一位跨性别者决定起诉_-_凤凰网
+  filename: news_遭电击治疗，一位跨性别者决定起诉_-_凤凰网.md
+  type: webpage
+  format: Markdown
+  size: 24413
+  md5: bdb03cd21c52ede5e35fb345fbc49502
+  page: news_遭电击治疗，一位跨性别者决定起诉_-_凤凰网.md
 - name: news_郑州男子泰国变性改身份证性别受阻，警方回应
   filename: news_郑州男子泰国变性改身份证性别受阻，警方回应.md
   type: webpage
@@ -1559,7 +2130,56 @@ files:
   filename: page.yml
   type: other
   format: Unknown Format
-  size: 112499
-  md5: e2721f71946f22f28751b5195c41ae1c
+  size: 160760
+  md5: a10851d6d5821ad9a3017edfc900494b
   page: null
+- name: phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视
+  filename: phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视.md
+  type: webpage
+  format: Markdown
+  size: 2292
+  md5: 1e19c4f1750526856c8ef1725f3caf49
+  page: phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视.md
+- name: phtv_香港变性人争取婚姻权案终审胜诉_-_凤凰卫视
+  filename: phtv_香港变性人争取婚姻权案终审胜诉_-_凤凰卫视.md
+  type: webpage
+  format: Markdown
+  size: 3107
+  md5: 6f6279b5fc74748c25a9b850167e110b
+  page: phtv_香港变性人争取婚姻权案终审胜诉_-_凤凰卫视.md
+- name: pit_经典奇幻喜剧冒险电影人妖宿缘未了的爱情故事结局美好吗
+  filename: pit_经典奇幻喜剧冒险电影人妖宿缘未了的爱情故事结局美好吗.md
+  type: webpage
+  format: Markdown
+  size: 1543
+  md5: 7e7dd8b4cdacb0cf99af5654afd5376d
+  page: pit_经典奇幻喜剧冒险电影人妖宿缘未了的爱情故事结局美好吗.md
+- name: sd_舞蹈家金星宅男女神刘诗涵中国最知名十大变性美女_-_凤凰网山东
+  filename: sd_舞蹈家金星宅男女神刘诗涵中国最知名十大变性美女_-_凤凰网山东.md
+  type: webpage
+  format: Markdown
+  size: 2344
+  md5: d1c61633e6bcb0cf829213907b681ccb
+  page: sd_舞蹈家金星宅男女神刘诗涵中国最知名十大变性美女_-_凤凰网山东.md
+- name: sports_女排名将被认定是男性！身体从小就特殊，已完成第一阶段矫正手术
+  filename: sports_女排名将被认定是男性！身体从小就特殊，已完成第一阶段矫正手术.md
+  type: webpage
+  format: Markdown
+  size: 3693
+  md5: 301baa0f40f9983435e52ce5a7d9fa63
+  page: sports_女排名将被认定是男性！身体从小就特殊，已完成第一阶段矫正手术.md
+- name: sports_跨性别者=异装癖=女装大佬？你误解过的跨性别者们
+  filename: sports_跨性别者=异装癖=女装大佬？你误解过的跨性别者们.md
+  type: webpage
+  format: Markdown
+  size: 1057
+  md5: 43c4f0bec8787a5aa68f3a46b05912fd
+  page: sports_跨性别者=异装癖=女装大佬？你误解过的跨性别者们.md
+- name: v_台湾省变性艺人利菁的爱情故事，老公是比自己小14岁的帅哥
+  filename: v_台湾省变性艺人利菁的爱情故事，老公是比自己小14岁的帅哥.md
+  type: webpage
+  format: Markdown
+  size: 853
+  md5: 9872992fd648d765176c30a47e82943e
+  page: v_台湾省变性艺人利菁的爱情故事，老公是比自己小14岁的帅哥.md
 subdirs: []

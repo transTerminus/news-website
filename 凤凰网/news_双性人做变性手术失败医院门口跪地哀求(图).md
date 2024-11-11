@@ -82,10 +82,13 @@
 > | Filename        | news_双性人做变性手术失败医院门口跪地哀求(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/2/200902/0225_344_1032815_1.shtml](https://news.ifeng.com/society/2/200902/0225_344_1032815_1.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4842 bytes                           |
+> | MD5             | 1f8079779744b1287f69d0ddb335c4ee                                  |
 > | Archived Date   | 2024-11-02 08:30:07                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200902/0225_344_1032815_1.shtml](https://news.ifeng.com/society/2/200902/0225_344_1032815_1.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -49,10 +49,13 @@
 > | Filename        | news_韩国首名变性军人死于家中，曾去泰国做手术被韩军勒令退伍.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2021-03-04/detail-ikftssaq0920324.d.html](https://news.sina.cn/2021-03-04/detail-ikftssaq0920324.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2219 bytes                           |
+> | MD5             | f4b55a1044b96704db580cc95ff57ccf                                  |
 > | Archived Date   | 2024-11-02 03:42:31                             |
+> | Original Link   | [https://news.sina.cn/2021-03-04/detail-ikftssaq0920324.d.html](https://news.sina.cn/2021-03-04/detail-ikftssaq0920324.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

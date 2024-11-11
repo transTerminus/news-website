@@ -32,10 +32,13 @@ All Rights Reserved 新浪公司 [版权所有](//corp.sina.com.cn/chn/copyright
 > | Filename        | mil_美国法院驳回特朗普要求跨性别者明年可从军_手机新浪网.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1493 bytes                           |
+> | MD5             | 6595ec5d57257a3dcbd6a2f830cf34aa                                  |
 > | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

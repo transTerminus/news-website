@@ -85,10 +85,13 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 > | Filename        | news_五旬老汉欲接受变性手术从小爱穿女人衣服(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-06-21/detail-ikkntiam3859133.d.html](https://news.sina.cn/sa/2005-06-21/detail-ikkntiam3859133.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4894 bytes                           |
+> | MD5             | d277637c7c387c8a8683b005c7f229c0                                  |
 > | Archived Date   | 2024-11-02 05:02:06                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-06-21/detail-ikkntiam3859133.d.html](https://news.sina.cn/sa/2005-06-21/detail-ikkntiam3859133.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

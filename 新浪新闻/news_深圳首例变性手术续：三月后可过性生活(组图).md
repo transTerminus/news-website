@@ -93,10 +93,13 @@
 > | Filename        | news_深圳首例变性手术续：三月后可过性生活(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html](https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6493 bytes                           |
+> | MD5             | 155a3d159696b81f5b743756750f5ae3                                  |
 > | Archived Date   | 2024-11-02 05:28:18                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html](https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

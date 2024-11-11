@@ -63,10 +63,13 @@
 > | Filename        | news_两名小伙在泰国做变性手术回国后申请更改性别.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4](https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3035 bytes                           |
+> | MD5             | 9ddddc4861dbd73b13c52bffdb8c7baf                                  |
 > | Archived Date   | 2024-11-02 06:35:06                             |
+> | Original Link   | [https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4](https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

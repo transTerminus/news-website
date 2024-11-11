@@ -128,10 +128,13 @@ Vox援引作家William Melvin Kelley的话表示，自奴隶制时代，黑人�
 > | Filename        | m_取消文化、反觉醒运动和西方身份政治危机——从JK罗琳说起.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=15626780&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=15626780&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 32770 bytes                           |
+> | MD5             | bdca08b5323c54e7493e3935b3a80d28                                  |
 > | Archived Date   | 2024-11-03 10:08:06                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=15626780&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=15626780&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

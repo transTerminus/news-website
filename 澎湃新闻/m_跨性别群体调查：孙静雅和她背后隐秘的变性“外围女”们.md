@@ -145,10 +145,13 @@ _**（应采访对象要求，本文中娆娆、彬彬、染儿、桃姐、卡�
 > | Filename        | m_跨性别群体调查：孙静雅和她背后隐秘的变性“外围女”们.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1412430](https://m.thepaper.cn/newsDetail_forward_1412430)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 11490 bytes                           |
+> | MD5             | 72685c3b69c18a8e738415a92d9b9ae5                                  |
 > | Archived Date   | 2024-11-03 08:58:41                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1412430](https://m.thepaper.cn/newsDetail_forward_1412430)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

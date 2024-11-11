@@ -324,10 +324,13 @@ C先生是跨性别男性，寸短，银色耳环，日常穿着男士西装和�
 > | Filename        | m_难以跨越的“隐形门”：跨性别者职场生存记.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=5530241&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=5530241&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 29793 bytes                           |
+> | MD5             | 23d6f079806ec8831f5d2d5b20961a38                                  |
 > | Archived Date   | 2024-11-03 08:37:46                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=5530241&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=5530241&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

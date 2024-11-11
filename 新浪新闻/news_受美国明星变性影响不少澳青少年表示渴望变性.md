@@ -46,10 +46,13 @@
 > | Filename        | news_受美国明星变性影响不少澳青少年表示渴望变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2015-06-15/detail-ifxczpzy0525313.d.html](https://news.sina.cn/2015-06-15/detail-ifxczpzy0525313.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2820 bytes                           |
+> | MD5             | 0c31d32d0ca74899392c527c665225f3                                  |
 > | Archived Date   | 2024-11-02 03:31:21                             |
+> | Original Link   | [https://news.sina.cn/2015-06-15/detail-ifxczpzy0525313.d.html](https://news.sina.cn/2015-06-15/detail-ifxczpzy0525313.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -54,10 +54,13 @@
 > | Filename        | news_青岛变性帅哥看望变性美女“一见钟情”(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-11-27/detail-ikkntiak8699836.d.html](https://news.sina.cn/sa/2003-11-27/detail-ikkntiak8699836.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2704 bytes                           |
+> | MD5             | fff21305800eae5a604fcd0d485b0983                                  |
 > | Archived Date   | 2024-11-02 04:17:56                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-11-27/detail-ikkntiak8699836.d.html](https://news.sina.cn/sa/2003-11-27/detail-ikkntiak8699836.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

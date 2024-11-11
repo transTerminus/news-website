@@ -254,10 +254,13 @@ JK·罗琳是少数站出来支持Maya的名人，她发推说：
 > | Filename        | m_遭哈利·波特演员反对，罗琳又自揭被家暴和性侵的伤疤.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7826142](https://m.thepaper.cn/newsDetail_forward_7826142)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 15112 bytes                           |
+> | MD5             | 774c9806cea3029047af07d92aac1b62                                  |
 > | Archived Date   | 2024-11-03 09:43:25                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7826142](https://m.thepaper.cn/newsDetail_forward_7826142)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

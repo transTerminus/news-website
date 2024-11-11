@@ -35,10 +35,13 @@
 > | Filename        | news_两男子街头穿女装举牌要求变性[组图]_资讯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/photo/society/200904/0414_1400_1106299_1.shtml](https://news.ifeng.com/photo/society/200904/0414_1400_1106299_1.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2202 bytes                           |
+> | MD5             | 82f012fbc310adbd63a20c774664d29b                                  |
 > | Archived Date   | 2024-11-02 08:27:07                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200904/0414_1400_1106299_1.shtml](https://news.ifeng.com/photo/society/200904/0414_1400_1106299_1.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

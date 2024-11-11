@@ -36,10 +36,13 @@
 > | Filename        | news_美国怀孕变性人接受专访称想要更多孩子(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/2/200806/0612_344_593806.shtml](https://news.ifeng.com/society/2/200806/0612_344_593806.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2202 bytes                           |
+> | MD5             | 2095442dfedd3ffa250b4bbbd1c54211                                  |
 > | Archived Date   | 2024-11-02 08:28:35                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200806/0612_344_593806.shtml](https://news.ifeng.com/society/2/200806/0612_344_593806.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -61,10 +61,13 @@
 > | Filename        | news_泰变性选美皇后参加征兵筛选妆容精致成焦点(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2019-04-02/detail-ihtxyzsm2620398.d.html?vt=4](https://news.sina.cn/gj/2019-04-02/detail-ihtxyzsm2620398.d.html?vt=4)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3578 bytes                           |
+> | MD5             | 3e10dd5ef2f6dca497e5fd01e80e134d                                  |
 > | Archived Date   | 2024-11-02 03:59:32                             |
+> | Original Link   | [https://news.sina.cn/gj/2019-04-02/detail-ihtxyzsm2620398.d.html?vt=4](https://news.sina.cn/gj/2019-04-02/detail-ihtxyzsm2620398.d.html?vt=4)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

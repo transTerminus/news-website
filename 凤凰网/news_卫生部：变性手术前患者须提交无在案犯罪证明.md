@@ -60,10 +60,13 @@
 > | Filename        | news_卫生部：变性手术前患者须提交无在案犯罪证明.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/mainland/200906/0616_17_1205012.shtml](https://news.ifeng.com/mainland/200906/0616_17_1205012.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3613 bytes                           |
+> | MD5             | 5845396f11a63e92b121c3f86fb82d8e                                  |
 > | Archived Date   | 2024-11-02 08:22:55                             |
+> | Original Link   | [https://news.ifeng.com/mainland/200906/0616_17_1205012.shtml](https://news.ifeng.com/mainland/200906/0616_17_1205012.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

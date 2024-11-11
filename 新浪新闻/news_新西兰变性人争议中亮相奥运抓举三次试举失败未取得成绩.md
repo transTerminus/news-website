@@ -51,10 +51,13 @@
 > | Filename        | news_新西兰变性人争议中亮相奥运抓举三次试举失败未取得成绩.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap](https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2729 bytes                           |
+> | MD5             | 9d11c7fe44f4fc8826616a1102b1f8b7                                  |
 > | Archived Date   | 2024-11-02 04:04:39                             |
+> | Original Link   | [https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap](https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

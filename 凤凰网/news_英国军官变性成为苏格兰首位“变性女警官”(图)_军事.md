@@ -25,10 +25,13 @@
 > | Filename        | news_英国军官变性成为苏格兰首位“变性女警官”(图)_军事.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml](https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1595 bytes                           |
+> | MD5             | 1d9dc5a959e0eb38e20b08717f23a164                                  |
 > | Archived Date   | 2024-11-02 08:23:33                             |
+> | Original Link   | [https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml](https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

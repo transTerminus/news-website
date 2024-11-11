@@ -46,10 +46,13 @@
 > | Filename        | m_马上评｜当当解聘接受变性手术员工：歧视，还是旷工？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=8143733&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=8143733&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4830 bytes                           |
+> | MD5             | 02750a2800a2ce78021c7de22b608a0d                                  |
 > | Archived Date   | 2024-11-03 10:15:31                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=8143733&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=8143733&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -125,10 +125,13 @@ CNN还采访到了变性前海豹突击队员克里斯蒂·贝克（Kristin Beck
 > | Filename        | news_特朗普禁变性人从军遭批加拿大军方我们欢迎.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2649751.d.html?vt=4&pos=108](https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2649751.d.html?vt=4&pos=108)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6270 bytes                           |
+> | MD5             | 081783eb2301d349339031f38bf175dd                                  |
 > | Archived Date   | 2024-11-02 03:58:19                             |
+> | Original Link   | [https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2649751.d.html?vt=4&pos=108](https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2649751.d.html?vt=4&pos=108)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

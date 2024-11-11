@@ -98,10 +98,13 @@
 > | Filename        | news_变性男子获环球小姐最上镜奖父母怒砸美容院图.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/200611/1110_20_30805.shtml](https://news.ifeng.com/society/200611/1110_20_30805.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7222 bytes                           |
+> | MD5             | f3a952cce6ab07c607e6cb9b4b106f8d                                  |
 > | Archived Date   | 2024-11-02 08:31:25                             |
+> | Original Link   | [https://news.ifeng.com/society/200611/1110_20_30805.shtml](https://news.ifeng.com/society/200611/1110_20_30805.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

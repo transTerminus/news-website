@@ -26,10 +26,13 @@
 > | Filename        | m_古巴三名同性恋权利活动人士在哈瓦那“自豪游行”活动中被拘.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2063 bytes                           |
+> | MD5             | 82045c16c2256bbee1a9c06abffeae29                                  |
 > | Archived Date   | 2024-11-03 10:12:28                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

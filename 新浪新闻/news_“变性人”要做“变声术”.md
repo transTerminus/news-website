@@ -24,10 +24,13 @@
 > | Filename        | news_“变性人”要做“变声术”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2008-07-19/detail-ikknscsk3951483.d.html](https://news.sina.cn/sa/2008-07-19/detail-ikknscsk3951483.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1352 bytes                           |
+> | MD5             | 8f5ae37e202153a2ebe68ca34afd5d4d                                  |
 > | Archived Date   | 2024-11-02 06:00:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-07-19/detail-ikknscsk3951483.d.html](https://news.sina.cn/sa/2008-07-19/detail-ikknscsk3951483.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

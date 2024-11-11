@@ -68,10 +68,13 @@ W随后在高等法院上诉庭再败诉，随后上诉至终审法院，去年4
 > | Filename        | news_变性人婚姻存争议立法会否决修例草案.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20141024/42286255_0.shtml](https://news.ifeng.com/a/20141024/42286255_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6818 bytes                           |
+> | MD5             | 060269dd08154d2f91d5108267e19654                                  |
 > | Archived Date   | 2024-11-02 07:11:26                             |
+> | Original Link   | [https://news.ifeng.com/a/20141024/42286255_0.shtml](https://news.ifeng.com/a/20141024/42286255_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

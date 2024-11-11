@@ -44,10 +44,13 @@
 > | Filename        | news_女子支持父亲与丈夫一起变性三人成闺密(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20140724/41292709_0.shtml](https://news.ifeng.com/a/20140724/41292709_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2806 bytes                           |
+> | MD5             | 524cce7ee1c90f8121a904a513363c45                                  |
 > | Archived Date   | 2024-11-02 06:54:47                             |
+> | Original Link   | [https://news.ifeng.com/a/20140724/41292709_0.shtml](https://news.ifeng.com/a/20140724/41292709_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

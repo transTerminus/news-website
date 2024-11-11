@@ -68,10 +68,13 @@
 > | Filename        | news_美国预计7月4日解禁变性人参军或有损战力.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2016-06-26/detail-ifxtmweh2543120.d.html](https://news.sina.cn/gj/2016-06-26/detail-ifxtmweh2543120.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3764 bytes                           |
+> | MD5             | 557697bc26e32556ae2e7d95690b5ae8                                  |
 > | Archived Date   | 2024-11-02 03:55:57                             |
+> | Original Link   | [https://news.sina.cn/gj/2016-06-26/detail-ifxtmweh2543120.d.html](https://news.sina.cn/gj/2016-06-26/detail-ifxtmweh2543120.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

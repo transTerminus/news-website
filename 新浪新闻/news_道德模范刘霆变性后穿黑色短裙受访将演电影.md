@@ -127,10 +127,13 @@
 > | Filename        | news_道德模范刘霆变性后穿黑色短裙受访将演电影.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/gn/2015-04-08/detail-iawzuney2805903.d.html](http://news.sina.cn/gn/2015-04-08/detail-iawzuney2805903.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9434 bytes                           |
+> | MD5             | 8aadba7c2030181e9874dd178adb2e28                                  |
 > | Archived Date   | 2024-11-02 03:29:07                             |
+> | Original Link   | [http://news.sina.cn/gn/2015-04-08/detail-iawzuney2805903.d.html](http://news.sina.cn/gn/2015-04-08/detail-iawzuney2805903.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

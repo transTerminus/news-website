@@ -30,10 +30,13 @@
 > | Filename        | news_警察局现身变性警官英国将为变性人开绿灯.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2002-12-17/detail-ikknscsi0313640.d.html](https://news.sina.cn/sa/2002-12-17/detail-ikknscsi0313640.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2855 bytes                           |
+> | MD5             | 6c1585bcf1771588df4e463dbec58cf8                                  |
 > | Archived Date   | 2024-11-02 04:11:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2002-12-17/detail-ikknscsi0313640.d.html](https://news.sina.cn/sa/2002-12-17/detail-ikknscsi0313640.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

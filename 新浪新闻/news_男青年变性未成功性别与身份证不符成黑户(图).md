@@ -94,10 +94,13 @@
 > | Filename        | news_男青年变性未成功性别与身份证不符成黑户(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2010-06-30/detail-ikftssap3323692.d.html](https://news.sina.cn/sa/2010-06-30/detail-ikftssap3323692.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10545 bytes                           |
+> | MD5             | 451da8c3edf2630df996f5d492e8d96d                                  |
 > | Archived Date   | 2024-11-02 06:16:50                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-06-30/detail-ikftssap3323692.d.html](https://news.sina.cn/sa/2010-06-30/detail-ikftssap3323692.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

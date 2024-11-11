@@ -31,10 +31,13 @@
 > | Filename        | news_卫生部规定申请变性手术须无犯罪记录.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2009-12-16/detail-ikftssap3237978.d.html](https://news.sina.cn/sa/2009-12-16/detail-ikftssap3237978.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1750 bytes                           |
+> | MD5             | c9ca7610144447851dd9293f2dfabaca                                  |
 > | Archived Date   | 2024-11-02 06:11:18                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-12-16/detail-ikftssap3237978.d.html](https://news.sina.cn/sa/2009-12-16/detail-ikftssap3237978.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

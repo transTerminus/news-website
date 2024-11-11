@@ -27,10 +27,13 @@
 > | Filename        | news_拜登提名美国政府首位变性人政客.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/83BGhT6Ygsl](https://news.ifeng.com/c/83BGhT6Ygsl)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 992 bytes                           |
+> | MD5             | a7af633d6e2bc5ed2d7ca5a1aff8e66f                                  |
 > | Archived Date   | 2024-11-02 08:08:11                             |
+> | Original Link   | [https://news.ifeng.com/c/83BGhT6Ygsl](https://news.ifeng.com/c/83BGhT6Ygsl)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

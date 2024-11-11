@@ -45,10 +45,13 @@
 > | Filename        | news_湖北小伙来昆想做变性手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2009-12-27/detail-ikmxzfmi9570607.d.html](https://news.sina.cn/sa/2009-12-27/detail-ikmxzfmi9570607.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3056 bytes                           |
+> | MD5             | 1058079745191690861593087e4f1e3b                                  |
 > | Archived Date   | 2024-11-02 06:12:32                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-12-27/detail-ikmxzfmi9570607.d.html](https://news.sina.cn/sa/2009-12-27/detail-ikmxzfmi9570607.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

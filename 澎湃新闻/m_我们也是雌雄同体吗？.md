@@ -82,10 +82,13 @@
 > | Filename        | m_我们也是雌雄同体吗？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9490421](https://m.thepaper.cn/newsDetail_forward_9490421)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 11860 bytes                           |
+> | MD5             | 552422d1cfa8c15c0eee1c318ac19459                                  |
 > | Archived Date   | 2024-11-03 09:50:58                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9490421](https://m.thepaper.cn/newsDetail_forward_9490421)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

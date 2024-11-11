@@ -50,10 +50,13 @@
 > | Filename        | news_19岁黑龙江小伙接受变性手术成为美女(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-11-06/detail-ikknscsi8196762.d.html](https://news.sina.cn/sa/2005-11-06/detail-ikknscsi8196762.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2368 bytes                           |
+> | MD5             | 642d7297cc3a678537b03897b3469a13                                  |
 > | Archived Date   | 2024-11-02 05:12:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-11-06/detail-ikknscsi8196762.d.html](https://news.sina.cn/sa/2005-11-06/detail-ikknscsi8196762.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

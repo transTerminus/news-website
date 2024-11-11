@@ -115,10 +115,13 @@
 > | Filename        | m_核查_新西兰跨性别举重选手睾丸受伤退赛？假！.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13881291](https://m.thepaper.cn/newsDetail_forward_13881291)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8570 bytes                           |
+> | MD5             | 9f6695dbc7e8ce711c3ada3d2f276e1c                                  |
 > | Archived Date   | 2024-11-03 08:55:09                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13881291](https://m.thepaper.cn/newsDetail_forward_13881291)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

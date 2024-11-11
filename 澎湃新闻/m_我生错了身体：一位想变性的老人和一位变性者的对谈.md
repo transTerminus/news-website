@@ -65,10 +65,13 @@
 > | Filename        | m_我生错了身体：一位想变性的老人和一位变性者的对谈.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3660764](https://m.thepaper.cn/newsDetail_forward_3660764)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3237 bytes                           |
+> | MD5             | 1f6e419cfac2248091c46e6f3c8eee61                                  |
 > | Archived Date   | 2024-11-03 09:33:07                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3660764](https://m.thepaper.cn/newsDetail_forward_3660764)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

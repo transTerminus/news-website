@@ -30,10 +30,13 @@
 > | Filename        | news_香港有逾百人完成变性手术其中“女变男”占多.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1720 bytes                           |
+> | MD5             | 9581549f1576689315317090fc87ca2f                                  |
 > | Archived Date   | 2024-11-02 04:47:29                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

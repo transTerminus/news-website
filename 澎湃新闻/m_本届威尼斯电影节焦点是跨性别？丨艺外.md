@@ -60,10 +60,13 @@
 > | Filename        | m_本届威尼斯电影节焦点是跨性别？丨艺外.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_19870936](https://m.thepaper.cn/newsDetail_forward_19870936)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4134 bytes                           |
+> | MD5             | 5c0e7c228dabe4acf55a150aae6810e0                                  |
 > | Archived Date   | 2024-11-03 09:15:26                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_19870936](https://m.thepaper.cn/newsDetail_forward_19870936)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

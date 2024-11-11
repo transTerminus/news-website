@@ -66,10 +66,13 @@
 > | Filename        | news_对变性手术进行立法已成燃眉之急.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2007-04-26/detail-ikftpnny3859117.d.html](https://news.sina.cn/sa/2007-04-26/detail-ikftpnny3859117.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6427 bytes                           |
+> | MD5             | cc37ecb805b913aed61161e2e7c5454f                                  |
 > | Archived Date   | 2024-11-02 05:51:30                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-04-26/detail-ikftpnny3859117.d.html](https://news.sina.cn/sa/2007-04-26/detail-ikftpnny3859117.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

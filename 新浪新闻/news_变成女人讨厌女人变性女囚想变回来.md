@@ -39,10 +39,13 @@
 > | Filename        | news_变成女人讨厌女人变性女囚想变回来.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-01-12/detail-ikkntiam6347544.d.html](https://news.sina.cn/sa/2006-01-12/detail-ikkntiam6347544.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2197 bytes                           |
+> | MD5             | 9d405cc6697add53178941720bc7a3b1                                  |
 > | Archived Date   | 2024-11-02 05:18:52                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-01-12/detail-ikkntiam6347544.d.html](https://news.sina.cn/sa/2006-01-12/detail-ikkntiam6347544.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

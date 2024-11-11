@@ -53,10 +53,13 @@
 > | Filename        | news_澎湃新闻评当当解聘接受变性手术员工：歧视还是旷工？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2020-07-06/detail-iircuyvk2265520.d.html](https://news.sina.cn/2020-07-06/detail-iircuyvk2265520.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5108 bytes                           |
+> | MD5             | 89128f95f29ab7bc92bcd9eb46694703                                  |
 > | Archived Date   | 2024-11-02 03:41:54                             |
+> | Original Link   | [https://news.sina.cn/2020-07-06/detail-iircuyvk2265520.d.html](https://news.sina.cn/2020-07-06/detail-iircuyvk2265520.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

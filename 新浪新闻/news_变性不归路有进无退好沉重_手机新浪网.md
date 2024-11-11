@@ -109,10 +109,13 @@
 > | Filename        | news_变性不归路有进无退好沉重_手机新浪网.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-07-29/detail-ikknscsk0660245.d.html](https://news.sina.cn/sa/2006-07-29/detail-ikknscsk0660245.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8672 bytes                           |
+> | MD5             | 526ec25da60c830e2d1671074fe5b394                                  |
 > | Archived Date   | 2024-11-02 05:34:26                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-07-29/detail-ikknscsk0660245.d.html](https://news.sina.cn/sa/2006-07-29/detail-ikknscsk0660245.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

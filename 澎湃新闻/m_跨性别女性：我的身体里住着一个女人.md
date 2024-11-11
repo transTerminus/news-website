@@ -102,10 +102,13 @@
 > | Filename        | m_跨性别女性：我的身体里住着一个女人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5435150](https://m.thepaper.cn/newsDetail_forward_5435150)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12061 bytes                           |
+> | MD5             | c5b97cc54353af4768952098c329de55                                  |
 > | Archived Date   | 2024-11-03 09:38:22                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5435150](https://m.thepaper.cn/newsDetail_forward_5435150)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

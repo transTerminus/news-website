@@ -17,10 +17,13 @@
 > | Filename        | m_为变性者摘除睾丸致其重伤，成都一实习医生无证行医被批捕.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true](https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1843 bytes                           |
+> | MD5             | 719478a63edd278515e474c3819f9fc1                                  |
 > | Archived Date   | 2024-11-03 08:53:42                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true](https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

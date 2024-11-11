@@ -42,10 +42,13 @@
 > | Filename        | m_美国最高法院：允许跨性别学生使用与其性别认同相符的卫生间.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13360658](https://m.thepaper.cn/newsDetail_forward_13360658)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3747 bytes                           |
+> | MD5             | 5ba98dee324ccdbdeac6f3e609d65bf1                                  |
 > | Archived Date   | 2024-11-03 08:49:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13360658](https://m.thepaper.cn/newsDetail_forward_13360658)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

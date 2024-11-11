@@ -119,10 +119,13 @@
 > | Filename        | m_我们邀请六位女性，书写生命中与“女性性别认同”有关的片段.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6421866](https://m.thepaper.cn/newsDetail_forward_6421866)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 17567 bytes                           |
+> | MD5             | 4696ee39e2c38dc3c90a4938453af6b0                                  |
 > | Archived Date   | 2024-11-03 09:40:28                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6421866](https://m.thepaper.cn/newsDetail_forward_6421866)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

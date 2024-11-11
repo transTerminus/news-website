@@ -43,10 +43,13 @@
 > | Filename        | news_美国变性人遇害率达到10年来最高水平.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2015-11-25/detail-ifxkwuxx1872636.d.html](https://news.sina.cn/2015-11-25/detail-ifxkwuxx1872636.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1663 bytes                           |
+> | MD5             | 73595fecbc282b0ffc492bffc4cc7219                                  |
 > | Archived Date   | 2024-11-02 03:34:18                             |
+> | Original Link   | [https://news.sina.cn/2015-11-25/detail-ifxkwuxx1872636.d.html](https://news.sina.cn/2015-11-25/detail-ifxkwuxx1872636.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

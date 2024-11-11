@@ -77,10 +77,13 @@ LGBT权益组织GLAAD表示，特朗普禁止变性人参军，是对所有属�
 > | Filename        | news_特朗普禁变性人从军星际迷航主演称其最小心眼.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2586979.d.html?vt=4](https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2586979.d.html?vt=4)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6641 bytes                           |
+> | MD5             | 4f781d1e60cfa584c028b260c01b9c57                                  |
 > | Archived Date   | 2024-11-02 03:57:44                             |
+> | Original Link   | [https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2586979.d.html?vt=4](https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2586979.d.html?vt=4)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -104,10 +104,13 @@
 > | Filename        | m_变性后，他们后悔了.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18645344](https://m.thepaper.cn/newsDetail_forward_18645344)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12214 bytes                           |
+> | MD5             | 81f73dfedfa1b784b6a0f7b2c9d3d015                                  |
 > | Archived Date   | 2024-11-03 09:12:31                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18645344](https://m.thepaper.cn/newsDetail_forward_18645344)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

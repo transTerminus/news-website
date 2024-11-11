@@ -122,10 +122,13 @@ Gilles-Harrison氏阴茎再造术
 > | Filename        | m_跨性别运动员引发的公平性争议背后，跨性别没你想的那么简单.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14217420](https://m.thepaper.cn/newsDetail_forward_14217420)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8203 bytes                           |
+> | MD5             | e920c2c27d2055dbafa97f85547008e8                                  |
 > | Archived Date   | 2024-11-03 08:59:35                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14217420](https://m.thepaper.cn/newsDetail_forward_14217420)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

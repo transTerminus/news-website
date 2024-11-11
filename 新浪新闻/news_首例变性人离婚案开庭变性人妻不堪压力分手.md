@@ -34,10 +34,13 @@
 > | Filename        | news_首例变性人离婚案开庭变性人妻不堪压力分手.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-13/detail-ikknscsk0770603.d.html?from=wap](https://news.sina.cn/sa/2006-08-13/detail-ikknscsk0770603.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1565 bytes                           |
+> | MD5             | 1361001eeae30a51615bd7d9a883af41                                  |
 > | Archived Date   | 2024-11-02 05:36:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-08-13/detail-ikknscsk0770603.d.html?from=wap](https://news.sina.cn/sa/2006-08-13/detail-ikknscsk0770603.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

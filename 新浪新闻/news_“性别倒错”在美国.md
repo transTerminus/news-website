@@ -74,10 +74,13 @@ J·T·海斯在美国密西西比州的科林斯长大，父亲是著名的赛�
 > | Filename        | news_“性别倒错”在美国.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2007-08-28/detail-ikknscsk2616442.d.html](https://news.sina.cn/sa/2007-08-28/detail-ikknscsk2616442.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
+> | Size            | 10094 bytes                           |
+> | MD5             | c1e6f1a59d8c2b354e40002671e2afa7                                  |
+> | Archived Date   | 2024-11-11 05:24:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-08-28/detail-ikknscsk2616442.d.html](https://news.sina.cn/sa/2007-08-28/detail-ikknscsk2616442.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | 2024-11-06 07:11:04                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

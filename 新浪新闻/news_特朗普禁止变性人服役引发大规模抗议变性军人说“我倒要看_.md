@@ -45,10 +45,13 @@
 > | Filename        | news_特朗普禁止变性人服役引发大规模抗议变性军人说“我倒要看_.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/2017-07-27/detail-ifyinryq6505115.d.html](http://news.sina.cn/2017-07-27/detail-ifyinryq6505115.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3787 bytes                           |
+> | MD5             | d3c3aaa6656df5383815ca885eb8e1f7                                  |
 > | Archived Date   | 2024-11-02 03:21:55                             |
+> | Original Link   | [http://news.sina.cn/2017-07-27/detail-ifyinryq6505115.d.html](http://news.sina.cn/2017-07-27/detail-ifyinryq6505115.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

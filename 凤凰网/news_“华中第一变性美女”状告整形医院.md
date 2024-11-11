@@ -35,10 +35,13 @@
 > | Filename        | news_“华中第一变性美女”状告整形医院.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7fZWKnSpbo9](https://news.ifeng.com/c/7fZWKnSpbo9)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2668 bytes                           |
+> | MD5             | f605efbbbad8f6d28ab43e6207eead29                                  |
 > | Archived Date   | 2024-11-02 07:55:50                             |
+> | Original Link   | [https://news.ifeng.com/c/7fZWKnSpbo9](https://news.ifeng.com/c/7fZWKnSpbo9)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

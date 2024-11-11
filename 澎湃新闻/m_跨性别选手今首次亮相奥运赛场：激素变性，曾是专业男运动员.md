@@ -28,10 +28,13 @@
 > | Filename        | m_跨性别选手今首次亮相奥运赛场：激素变性，曾是专业男运动员.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13850994](https://m.thepaper.cn/newsDetail_forward_13850994)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2215 bytes                           |
+> | MD5             | 24c5c1d2b8611d78474275690cb2857a                                  |
 > | Archived Date   | 2024-11-03 08:54:14                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13850994](https://m.thepaper.cn/newsDetail_forward_13850994)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

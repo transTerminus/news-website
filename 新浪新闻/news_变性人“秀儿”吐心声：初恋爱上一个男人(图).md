@@ -56,10 +56,13 @@
 > | Filename        | news_变性人“秀儿”吐心声：初恋爱上一个男人(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2796498.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2796498.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3330 bytes                           |
+> | MD5             | 11ae40e990dc795c55f5090439d0a152                                  |
 > | Archived Date   | 2024-11-02 04:26:57                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2796498.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2796498.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

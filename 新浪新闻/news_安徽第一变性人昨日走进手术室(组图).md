@@ -73,10 +73,13 @@
 > | Filename        | news_安徽第一变性人昨日走进手术室(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-01-01/detail-ikkntiam2209889.d.html](https://news.sina.cn/sa/2005-01-01/detail-ikkntiam2209889.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9718 bytes                           |
+> | MD5             | 8130bc01d904080393ef4aa44abd589d                                  |
 > | Archived Date   | 2024-11-02 04:55:36                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-01-01/detail-ikkntiam2209889.d.html](https://news.sina.cn/sa/2005-01-01/detail-ikkntiam2209889.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

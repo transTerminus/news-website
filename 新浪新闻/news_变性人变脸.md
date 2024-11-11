@@ -57,10 +57,13 @@
 > | Filename        | news_变性人变脸.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2007-03-23/detail-ikknscsk2013535.d.html](https://news.sina.cn/sa/2007-03-23/detail-ikknscsk2013535.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5187 bytes                           |
+> | MD5             | 57fe9a7e8f4a2181c6c094fabf4fb6ce                                  |
 > | Archived Date   | 2024-11-02 05:45:32                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-03-23/detail-ikknscsk2013535.d.html](https://news.sina.cn/sa/2007-03-23/detail-ikknscsk2013535.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

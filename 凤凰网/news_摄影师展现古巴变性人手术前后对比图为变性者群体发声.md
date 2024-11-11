@@ -25,10 +25,13 @@
 > | Filename        | news_摄影师展现古巴变性人手术前后对比图为变性者群体发声.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20141209/42676102_0.shtml](https://news.ifeng.com/a/20141209/42676102_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1553 bytes                           |
+> | MD5             | 165f0565784bacbb0dce8155e3f98968                                  |
 > | Archived Date   | 2024-11-02 07:15:56                             |
+> | Original Link   | [https://news.ifeng.com/a/20141209/42676102_0.shtml](https://news.ifeng.com/a/20141209/42676102_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

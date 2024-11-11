@@ -65,10 +65,13 @@
 > | Filename        | news_几经波折美国最终正式禁止绝大多数变性人参军.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/global/szzx/doc-ifyspymq2941430.d.html](https://news.sina.cn/global/szzx/doc-ifyspymq2941430.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3129 bytes                           |
+> | MD5             | b8c411fa4c786fb7e24e0b7ee3b1e0b4                                  |
 > | Archived Date   | 2024-11-02 04:06:28                             |
+> | Original Link   | [https://news.sina.cn/global/szzx/doc-ifyspymq2941430.d.html](https://news.sina.cn/global/szzx/doc-ifyspymq2941430.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

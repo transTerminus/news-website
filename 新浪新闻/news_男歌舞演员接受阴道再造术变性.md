@@ -49,10 +49,13 @@
 > | Filename        | news_男歌舞演员接受阴道再造术变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-13/detail-ikftssap2639619.d.html](https://news.sina.cn/sa/2006-06-13/detail-ikftssap2639619.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2054 bytes                           |
+> | MD5             | 1087862ff4da4a036bbd9225766dbb42                                  |
 > | Archived Date   | 2024-11-02 05:28:52                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-13/detail-ikftssap2639619.d.html](https://news.sina.cn/sa/2006-06-13/detail-ikftssap2639619.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

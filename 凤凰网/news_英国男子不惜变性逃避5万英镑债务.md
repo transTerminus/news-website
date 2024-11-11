@@ -27,10 +27,13 @@
 > | Filename        | news_英国男子不惜变性逃避5万英镑债务.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/world/201003/0321_16_1582050.shtml](https://news.ifeng.com/world/201003/0321_16_1582050.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1390 bytes                           |
+> | MD5             | ed89fa79a15e367db7ae1686cae6dd69                                  |
 > | Archived Date   | 2024-11-02 08:36:30                             |
+> | Original Link   | [https://news.ifeng.com/world/201003/0321_16_1582050.shtml](https://news.ifeng.com/world/201003/0321_16_1582050.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -221,10 +221,13 @@
 > | Filename        | m_时差播客：酷儿、跨性别与情感理论.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=10329870&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=10329870&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 56021 bytes                           |
+> | MD5             | 9cbd3126eccc4b949015a627599b2d46                                  |
 > | Archived Date   | 2024-11-03 08:29:29                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=10329870&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=10329870&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

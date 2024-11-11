@@ -67,10 +67,13 @@
 > | Filename        | news_国际变性人选美大赛颁奖现场_资讯频道.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20170311/50771098_0.shtml](https://news.ifeng.com/a/20170311/50771098_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2541 bytes                           |
+> | MD5             | 8c670d043fc6a97506aa5e6d28f53079                                  |
 > | Archived Date   | 2024-11-02 07:48:06                             |
+> | Original Link   | [https://news.ifeng.com/a/20170311/50771098_0.shtml](https://news.ifeng.com/a/20170311/50771098_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

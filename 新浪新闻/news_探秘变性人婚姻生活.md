@@ -86,10 +86,13 @@
 > | Filename        | news_探秘变性人婚姻生活.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-03-25/detail-ikknscsi2897492.d.html](https://news.sina.cn/sa/2004-03-25/detail-ikknscsi2897492.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5495 bytes                           |
+> | MD5             | 798c281b5f1a9aa3162f4695cc174dd2                                  |
 > | Archived Date   | 2024-11-02 04:33:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-03-25/detail-ikknscsi2897492.d.html](https://news.sina.cn/sa/2004-03-25/detail-ikknscsi2897492.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

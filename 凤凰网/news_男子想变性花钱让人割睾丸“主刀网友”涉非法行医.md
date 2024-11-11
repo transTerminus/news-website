@@ -51,10 +51,13 @@
 > | Filename        | news_男子想变性花钱让人割睾丸“主刀网友”涉非法行医.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20160725/49639782_0.shtml](https://news.ifeng.com/a/20160725/49639782_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4961 bytes                           |
+> | MD5             | 20be8412dd31ba1491cc1b45a21f77a7                                  |
 > | Archived Date   | 2024-11-02 07:46:14                             |
+> | Original Link   | [https://news.ifeng.com/a/20160725/49639782_0.shtml](https://news.ifeng.com/a/20160725/49639782_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

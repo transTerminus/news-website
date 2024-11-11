@@ -47,10 +47,13 @@
 > | Filename        | news_22岁“医生”学视频给小伙做变性手术被判3年半.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2018-09-20/detail-ifxeuwwr6372949.d.html](https://news.sina.cn/2018-09-20/detail-ifxeuwwr6372949.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3406 bytes                           |
+> | MD5             | 87b3cb134274be7409eab92277dae000                                  |
 > | Archived Date   | 2024-11-02 03:40:05                             |
+> | Original Link   | [https://news.sina.cn/2018-09-20/detail-ifxeuwwr6372949.d.html](https://news.sina.cn/2018-09-20/detail-ifxeuwwr6372949.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

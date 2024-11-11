@@ -1,17 +1,885 @@
 name: 新浪新闻
-description: 该目录包含关于跨性别者的新闻报道，涉及跨性别者在不同年龄和性别身份下的经历与挑战，包括性别过渡手术、家庭和社会反应等。报道反映了跨性别人群在法律、医疗以及社会环境中的现状和相关案例。
+description: 本目录包含了与跨性别相关的多种讨论和资讯，包括生命故事、社会认同、变装经验、艺术表达等，旨在提供一个全面而真实的跨性别视角。
 curator: ''
 source: ''
 tags:
 - 跨性别
-- 医疗资源
-- 法律政策
-- 社会环境
+- 变装
 - 生命故事
-- 过渡经历
-- 新闻
+- 医疗资源
+- 社会环境
+- 艺术
+- 文学
 license: ''
 files:
+- name: blog_LJL最新伪街目的地，来一次轻松的变装之旅吧！！
+  filename: blog_LJL最新伪街目的地，来一次轻松的变装之旅吧！！.md
+  type: webpage
+  format: Markdown
+  size: 2850
+  md5: 84ef657fdb8b56c299f0a105ab770ec5
+  page: blog_LJL最新伪街目的地，来一次轻松的变装之旅吧！！.md
+- name: blog_PFLAG：支持同性恋、双性恋和变性者群体_-_新浪网站导航
+  filename: blog_PFLAG：支持同性恋、双性恋和变性者群体_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 3907
+  md5: fe461b8fdec6011164287b9dea389476
+  page: blog_PFLAG：支持同性恋、双性恋和变性者群体_-_新浪网站导航.md
+- name: blog_“囧”还是“惊艳”，影视圈二十大雷人伪娘(图)_吹雪_-_新浪网站导航
+  filename: blog_“囧”还是“惊艳”，影视圈二十大雷人伪娘(图)_吹雪_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 2821
+  md5: 869ad177126e25159af08658657e6e46
+  page: blog_“囧”还是“惊艳”，影视圈二十大雷人伪娘(图)_吹雪_-_新浪网站导航.md
+- name: blog_不是同性恋，不是异装癖，只是跨性别_-_新浪网站导航
+  filename: blog_不是同性恋，不是异装癖，只是跨性别_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 7392
+  md5: 627ac9d79b46df54288b3d2b9cef0342
+  page: blog_不是同性恋，不是异装癖，只是跨性别_-_新浪网站导航.md
+- name: blog_与自述是跨性别者的网友交流-_吴幼坚_-_新浪网站导航
+  filename: blog_与自述是跨性别者的网友交流-_吴幼坚_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 7779
+  md5: f0136bf6591172e9225e712c2cdf9cc1
+  page: blog_与自述是跨性别者的网友交流-_吴幼坚_-_新浪网站导航.md
+- name: blog_东南亚观光——（五）七律观泰国人妖有感
+  filename: blog_东南亚观光——（五）七律观泰国人妖有感.md
+  type: webpage
+  format: Markdown
+  size: 4448
+  md5: 171f3f36ebcd3800b94f3e6087f76b7d
+  page: blog_东南亚观光——（五）七律观泰国人妖有感.md
+- name: blog_伪娘CD变装现象,与其侮辱不如欣赏_-_新浪网站导航
+  filename: blog_伪娘CD变装现象,与其侮辱不如欣赏_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 2749
+  md5: 8acd53ee31f73010191406112781298c
+  page: blog_伪娘CD变装现象,与其侮辱不如欣赏_-_新浪网站导航.md
+- name: blog_伪娘：社会性别错位及广大受众们_南下的兵马俑_-_新浪网站导航
+  filename: blog_伪娘：社会性别错位及广大受众们_南下的兵马俑_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 3948
+  md5: 19d2ede3b8dbe2b301df44331a3ccda9
+  page: blog_伪娘：社会性别错位及广大受众们_南下的兵马俑_-_新浪网站导航.md
+- name: blog_北京变装会所燕子摄影师告诉你如何变装好看_-_新浪网站导航
+  filename: blog_北京变装会所燕子摄影师告诉你如何变装好看_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 8331
+  md5: 7e45243970195e4c6181f8130863cf14
+  page: blog_北京变装会所燕子摄影师告诉你如何变装好看_-_新浪网站导航.md
+- name: blog_双性人小说1_郁郁_-_新浪网站导航
+  filename: blog_双性人小说1_郁郁_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 2409
+  md5: 188552d5c3168b120f6f3eda7e22f023
+  page: blog_双性人小说1_郁郁_-_新浪网站导航.md
+- name: blog_反串表演、伪娘、雌雄一体的区别_仙疯叨咕_-_新浪网站导航
+  filename: blog_反串表演、伪娘、雌雄一体的区别_仙疯叨咕_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 3523
+  md5: 8b2ce38f676117a99d3d070c6be7d14c
+  page: blog_反串表演、伪娘、雌雄一体的区别_仙疯叨咕_-_新浪网站导航.md
+- name: blog_变性人小说_他者女性：梅魇_-_新浪网站导航
+  filename: blog_变性人小说_他者女性：梅魇_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 543
+  md5: 890aba0c6431d217c8346064ab28e91a
+  page: blog_变性人小说_他者女性：梅魇_-_新浪网站导航.md
+- name: blog_柯倩婷_新浪博客-_性别酷儿
+  filename: blog_柯倩婷_新浪博客-_性别酷儿.md
+  type: webpage
+  format: Markdown
+  size: 518
+  md5: c9b3901a3e5d756ed9213ec61ab530cf
+  page: blog_柯倩婷_新浪博客-_性别酷儿.md
+- name: blog_自编小说_爱口罩_-_新浪网站导航
+  filename: blog_自编小说_爱口罩_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 4080
+  md5: bc8f52afad83feceabd9bf1558f364b7
+  page: blog_自编小说_爱口罩_-_新浪网站导航.md
+- name: blog_西方文化_Trans雪精灵_新浪博客
+  filename: blog_西方文化_Trans雪精灵_新浪博客.md
+  type: webpage
+  format: Markdown
+  size: 467
+  md5: 791c257399584822d152474b318349ce
+  page: blog_西方文化_Trans雪精灵_新浪博客.md
+- name: blog_跨性别者：喜欢穿女装的男孩需要治疗吗？_-_新浪网站导航
+  filename: blog_跨性别者：喜欢穿女装的男孩需要治疗吗？_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 14056
+  md5: c7ca72a10c71b1bc20ed40b8361237bb
+  page: blog_跨性别者：喜欢穿女装的男孩需要治疗吗？_-_新浪网站导航.md
+- name: blog_转载一篇悼念跨性别者Cassie的诗文_三色堇吴幼坚_-_新浪网站导航
+  filename: blog_转载一篇悼念跨性别者Cassie的诗文_三色堇吴幼坚_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 12137
+  md5: ac9f98bbf330c9ddaa9e637f368a45a4
+  page: blog_转载一篇悼念跨性别者Cassie的诗文_三色堇吴幼坚_-_新浪网站导航.md
+- name: cj_让跨性别者登妇女节广告，好时被抵制_-_新浪财经
+  filename: cj_让跨性别者登妇女节广告，好时被抵制_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 5438
+  md5: 00d603fb9965803d533973f6e9bb2abb
+  page: cj_让跨性别者登妇女节广告，好时被抵制_-_新浪财经.md
+- name: cn_微博清理同性恋相关内容引发网友抗议_-_纽约时报
+  filename: cn_微博清理同性恋相关内容引发网友抗议_-_纽约时报.md
+  type: webpage
+  format: Markdown
+  size: 5767
+  md5: 428095b2ebd06d6427f269415864714f
+  page: cn_微博清理同性恋相关内容引发网友抗议_-_纽约时报.md
+- name: collection_中国新一代女性艺术家在美联展_-_收藏-_新浪
+  filename: collection_中国新一代女性艺术家在美联展_-_收藏-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 15765
+  md5: 9c034da033679c9b539707a8cdeac50f
+  page: collection_中国新一代女性艺术家在美联展_-_收藏-_新浪.md
+- name: collection_异装癖陶艺家当选英皇家艺术学院院士(图)_-_收藏-_新浪
+  filename: collection_异装癖陶艺家当选英皇家艺术学院院士(图)_-_收藏-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 8495
+  md5: 1f6945115eb94a2d3ccb8d95b6d3c503
+  page: collection_异装癖陶艺家当选英皇家艺术学院院士(图)_-_收藏-_新浪.md
+- name: collection_跨性别的华裔艺术家Wu_Tsang_-_收藏-_新浪
+  filename: collection_跨性别的华裔艺术家Wu_Tsang_-_收藏-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 8257
+  md5: eeaf2a026cea2388a6fa195b134d0f4d
+  page: collection_跨性别的华裔艺术家Wu_Tsang_-_收藏-_新浪.md
+- name: doc_《守望先锋》男英雄性转同人_-_新浪
+  filename: doc_《守望先锋》男英雄性转同人_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 1532
+  md5: f75c0f42cf74a3a3596a039b117b7489
+  page: doc_《守望先锋》男英雄性转同人_-_新浪.md
+- name: doc_从同志到跨性别《翠丝》让男人变成了女人_-_新浪
+  filename: doc_从同志到跨性别《翠丝》让男人变成了女人_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 10002
+  md5: 15d542c4c0b2d56b6c79508ac07d5d08
+  page: doc_从同志到跨性别《翠丝》让男人变成了女人_-_新浪.md
+- name: doc_伪娘横行-_CGWR游戏美女图第十一期：那么可爱一定是男孩子_-_新浪
+  filename: doc_伪娘横行-_CGWR游戏美女图第十一期：那么可爱一定是男孩子_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 3438
+  md5: 76c2faf866e8220cf241e386b1d42614
+  page: doc_伪娘横行-_CGWR游戏美女图第十一期：那么可爱一定是男孩子_-_新浪.md
+- name: doc_性别选择与跨性别者
+  filename: doc_性别选择与跨性别者.md
+  type: webpage
+  format: Markdown
+  size: 4783
+  md5: aeb34bea38cada491104dbb906b7cb15
+  page: doc_性别选择与跨性别者.md
+- name: doc_来来来我给你看个宝贝游戏中的女装大佬_-_新浪
+  filename: doc_来来来我给你看个宝贝游戏中的女装大佬_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 7891
+  md5: c60be58addfdc730a1ef62acdc0484ca
+  page: doc_来来来我给你看个宝贝游戏中的女装大佬_-_新浪.md
+- name: doc_除男女外美国到底还有多少其他种性别？_-_新浪
+  filename: doc_除男女外美国到底还有多少其他种性别？_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 7537
+  md5: 1ac6dc034d5a9e8bf802c2612aecc8d1
+  page: doc_除男女外美国到底还有多少其他种性别？_-_新浪.md
+- name: edu_cdts是什么意思的缩写_-_爱问教育
+  filename: edu_cdts是什么意思的缩写_-_爱问教育.md
+  type: webpage
+  format: Markdown
+  size: 2911
+  md5: d59185f7d73a60873236edaa93000c0c
+  page: edu_cdts是什么意思的缩写_-_爱问教育.md
+- name: edu_变装小说博客word_press（变装文学大全）_-_爱问教育
+  filename: edu_变装小说博客word_press（变装文学大全）_-_爱问教育.md
+  type: webpage
+  format: Markdown
+  size: 1411
+  md5: f6a1a94ccb215f4c1bfee6504514b0c7
+  page: edu_变装小说博客word_press（变装文学大全）_-_爱问教育.md
+- name: edu_泰国为什么盛产“人妖”？_-_新浪教育
+  filename: edu_泰国为什么盛产“人妖”？_-_新浪教育.md
+  type: webpage
+  format: Markdown
+  size: 9966
+  md5: eec1db0374678de3a083834530c9ba19
+  page: edu_泰国为什么盛产“人妖”？_-_新浪教育.md
+- name: ent_DC真人电影首个跨性别角色曝光由跨性别演员出演_-_娱乐-_新浪
+  filename: ent_DC真人电影首个跨性别角色曝光由跨性别演员出演_-_娱乐-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 1402
+  md5: 48b9d70faa3ac05b49d1f3668c2ac48d
+  page: ent_DC真人电影首个跨性别角色曝光由跨性别演员出演_-_娱乐-_新浪.md
+- name: ent_《黑客帝国》导演拉里变性吓晕影迷(图)_-_娱乐-_新浪
+  filename: ent_《黑客帝国》导演拉里变性吓晕影迷(图)_-_娱乐-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 3731
+  md5: 30a5342897efff2fc25b184b9b9e8a76
+  page: ent_《黑客帝国》导演拉里变性吓晕影迷(图)_-_娱乐-_新浪.md
+- name: ent_九眼桥的酒好喝“诗歌”也不错_-_娱乐-_新浪
+  filename: ent_九眼桥的酒好喝“诗歌”也不错_-_娱乐-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 2667
+  md5: 91154aa9cfae6f0ee2b219116103036a
+  page: ent_九眼桥的酒好喝“诗歌”也不错_-_娱乐-_新浪.md
+- name: fashion_时尚圈就爱“重口味”_变性人的坎坷时尚路_-_新浪时尚
+  filename: fashion_时尚圈就爱“重口味”_变性人的坎坷时尚路_-_新浪时尚.md
+  type: webpage
+  format: Markdown
+  size: 8114
+  md5: 4e3d535ca292677373025f9f80a05918
+  page: fashion_时尚圈就爱“重口味”_变性人的坎坷时尚路_-_新浪时尚.md
+- name: finance_《上古卷轴OL》首个非二元性别角色引玩家不满_-_新浪财经
+  filename: finance_《上古卷轴OL》首个非二元性别角色引玩家不满_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 1851
+  md5: 6e2749234f1b7440960a7a500e780d22
+  page: finance_《上古卷轴OL》首个非二元性别角色引玩家不满_-_新浪财经.md
+- name: finance_《海吉拉》：“我”的身体与强制异性恋欲望_-_新浪财经
+  filename: finance_《海吉拉》：“我”的身体与强制异性恋欲望_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 19440
+  md5: e9af7c63c1ac13b076c20e1eaef80e19
+  page: finance_《海吉拉》：“我”的身体与强制异性恋欲望_-_新浪财经.md
+- name: finance_一位妇科医生开了跨性别医疗门诊_-_新浪财经
+  filename: finance_一位妇科医生开了跨性别医疗门诊_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 11752
+  md5: fe6713edb0f235ebbc53b4a8377a1c1d
+  page: finance_一位妇科医生开了跨性别医疗门诊_-_新浪财经.md
+- name: finance_伪娘_百度百科_-_新浪财经
+  filename: finance_伪娘_百度百科_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 16069
+  md5: f0ed2183cc1808a6d452f8bae032467c
+  page: finance_伪娘_百度百科_-_新浪财经.md
+- name: finance_出圈丨专访医生潘柏林：跨性别群体是个隐秘的角落大多纠结痛苦
+  filename: finance_出圈丨专访医生潘柏林：跨性别群体是个隐秘的角落大多纠结痛苦.md
+  type: webpage
+  format: Markdown
+  size: 1623
+  md5: c3443af23502360406b94f752a040eca
+  page: finance_出圈丨专访医生潘柏林：跨性别群体是个隐秘的角落大多纠结痛苦.md
+- name: finance_千余名谷歌员工要求将反跨性别保守派从人工智能委员会剔除_-_新浪财经
+  filename: finance_千余名谷歌员工要求将反跨性别保守派从人工智能委员会剔除_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 7662
+  md5: d066ef4abad509d7e1bc219d36b7e3b3
+  page: finance_千余名谷歌员工要求将反跨性别保守派从人工智能委员会剔除_-_新浪财经.md
+- name: finance_对有复杂道德内容的电影书籍持道德义愤的人，并不关心艺术_-_新浪财经
+  filename: finance_对有复杂道德内容的电影书籍持道德义愤的人，并不关心艺术_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 18253
+  md5: de0b8296d9374f38de8aee035ef4caca
+  page: finance_对有复杂道德内容的电影书籍持道德义愤的人，并不关心艺术_-_新浪财经.md
+- name: finance_对阵中国拳手的哈利夫，再陷跨性别争议：出生记录为女孩，带有_
+  filename: finance_对阵中国拳手的哈利夫，再陷跨性别争议：出生记录为女孩，带有_.md
+  type: webpage
+  format: Markdown
+  size: 13488
+  md5: 94fdf947abe43141357ba19d98ceb6cd
+  page: finance_对阵中国拳手的哈利夫，再陷跨性别争议：出生记录为女孩，带有_.md
+- name: finance_新加坡变性罪犯逃鞭刑_手机新浪网_-_新浪财经
+  filename: finance_新加坡变性罪犯逃鞭刑_手机新浪网_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 1495
+  md5: 267dfe6d3d2f2e0e4f19416d5609b314
+  page: finance_新加坡变性罪犯逃鞭刑_手机新浪网_-_新浪财经.md
+- name: finance_明查｜华盛顿通过法案允许政府合法带走变性儿童误导_-_新浪财经
+  filename: finance_明查｜华盛顿通过法案允许政府合法带走变性儿童误导_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 4657
+  md5: 6dccda824312f7018e5b3b61ddac6bce
+  page: finance_明查｜华盛顿通过法案允许政府合法带走变性儿童误导_-_新浪财经.md
+- name: finance_普京签署法案禁止变性手术_-_新浪财经
+  filename: finance_普京签署法案禁止变性手术_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 2981
+  md5: 80aa2ad82c6bc5bd48ba603345e187c9
+  page: finance_普京签署法案禁止变性手术_-_新浪财经.md
+- name: finance_美国跨性别运动员不服质疑：目标是参加奥运会_-_新浪财经
+  filename: finance_美国跨性别运动员不服质疑：目标是参加奥运会_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 4443
+  md5: 7d1cab0d8fff8d8f7c2350e822b759fb
+  page: finance_美国跨性别运动员不服质疑：目标是参加奥运会_-_新浪财经.md
+- name: finance_英国慈善机构称孩子2岁就能能分辨自己是否跨性别，引争议_-_新浪财经
+  filename: finance_英国慈善机构称孩子2岁就能能分辨自己是否跨性别，引争议_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 4389
+  md5: 1b087a4ecc7624066d4316601cfeaf06
+  page: finance_英国慈善机构称孩子2岁就能能分辨自己是否跨性别，引争议_-_新浪财经.md
+- name: finance_跨性别者：你可以是“你”，也可以是“妳”_-_新浪财经
+  filename: finance_跨性别者：你可以是“你”，也可以是“妳”_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 10846
+  md5: bebeeb7374e79b2aabf533dd47e8bd3b
+  page: finance_跨性别者：你可以是“你”，也可以是“妳”_-_新浪财经.md
+- name: finance_跨性别运动员参加奥运：“成为自己”有什么错？_-_新浪财经
+  filename: finance_跨性别运动员参加奥运：“成为自己”有什么错？_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 25470
+  md5: 9ca3ec385da83b3e3a03af004dc3f99e
+  page: finance_跨性别运动员参加奥运：“成为自己”有什么错？_-_新浪财经.md
+- name: finance_遭电击治疗，一位跨性别者决定起诉_-_新浪财经
+  filename: finance_遭电击治疗，一位跨性别者决定起诉_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 24974
+  md5: 6c05e330d9daf5ff21f15c816815be24
+  page: finance_遭电击治疗，一位跨性别者决定起诉_-_新浪财经.md
+- name: finance_马斯克谈儿子变性：美国觉醒精神病毒杀死了他_-_新浪财经
+  filename: finance_马斯克谈儿子变性：美国觉醒精神病毒杀死了他_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 1938
+  md5: d1b3b9ce2cb344cf1e27780cc0e0fdbe
+  page: finance_马斯克谈儿子变性：美国觉醒精神病毒杀死了他_-_新浪财经.md
+- name: finance_龙腾世纪首次有非二元性别角色且能自定义_-_新浪财经
+  filename: finance_龙腾世纪首次有非二元性别角色且能自定义_-_新浪财经.md
+  type: webpage
+  format: Markdown
+  size: 2460
+  md5: 50a5e34491d9813f0fe90dfa3bb761a8
+  page: finance_龙腾世纪首次有非二元性别角色且能自定义_-_新浪财经.md
+- name: fj_第十届“嗓音医学新进展学习班”在厦召开_-_新浪福建
+  filename: fj_第十届“嗓音医学新进展学习班”在厦召开_-_新浪福建.md
+  type: webpage
+  format: Markdown
+  size: 1514
+  md5: a2e990915900cb54418a260ffa42c163
+  page: fj_第十届“嗓音医学新进展学习班”在厦召开_-_新浪福建.md
+- name: folhadolitoral_2017_年巴西异装癖和变性者谋杀案地图–_Antra_-_Folha_do_Litoral_News
+  filename: folhadolitoral_2017_年巴西异装癖和变性者谋杀案地图–_Antra_-_Folha_do_Litoral_News.md
+  type: webpage
+  format: Markdown
+  size: 1911
+  md5: 2c26b282bfe54525941e255d57956a8e
+  page: folhadolitoral_2017_年巴西异装癖和变性者谋杀案地图–_Antra_-_Folha_do_Litoral_News.md
+- name: gameapp_武汉伪娘cos照超性感_新浪游戏
+  filename: gameapp_武汉伪娘cos照超性感_新浪游戏.md
+  type: webpage
+  format: Markdown
+  size: 3961
+  md5: 03c0ee45fc7a1e79c3d88b4854482512
+  page: gameapp_武汉伪娘cos照超性感_新浪游戏.md
+- name: games_Cos援交群呆了一个月：感知二次元世界的阴暗面_-_新浪游戏
+  filename: games_Cos援交群呆了一个月：感知二次元世界的阴暗面_-_新浪游戏.md
+  type: webpage
+  format: Markdown
+  size: 11812
+  md5: 5046e6d5d730d94a214ae637b74add73
+  page: games_Cos援交群呆了一个月：感知二次元世界的阴暗面_-_新浪游戏.md
+- name: games_伪娘+异世界转生+政治家！泰国某轻小说引发网友关注_-_新浪游戏
+  filename: games_伪娘+异世界转生+政治家！泰国某轻小说引发网友关注_-_新浪游戏.md
+  type: webpage
+  format: Markdown
+  size: 1208
+  md5: 0b72192faaec2b676a97179556c5d41b
+  page: games_伪娘+异世界转生+政治家！泰国某轻小说引发网友关注_-_新浪游戏.md
+- name: games_快男伪娘引爆娘时代细数游戏中的伪娘子_-_新浪游戏
+  filename: games_快男伪娘引爆娘时代细数游戏中的伪娘子_-_新浪游戏.md
+  type: webpage
+  format: Markdown
+  size: 12975
+  md5: 6a9d85e6ecad7fe023a71d0fa2658cab
+  page: games_快男伪娘引爆娘时代细数游戏中的伪娘子_-_新浪游戏.md
+- name: games_这么可爱一定是男孩子日本男娘咖啡屋_-_新浪游戏
+  filename: games_这么可爱一定是男孩子日本男娘咖啡屋_-_新浪游戏.md
+  type: webpage
+  format: Markdown
+  size: 1704
+  md5: bfe4fe8fece5dba8aa3f84c63a291d1b
+  page: games_这么可爱一定是男孩子日本男娘咖啡屋_-_新浪游戏.md
+- name: gd_“药娘”拿激素当糖吃：不吃我会抑郁_-_新浪广东
+  filename: gd_“药娘”拿激素当糖吃：不吃我会抑郁_-_新浪广东.md
+  type: webpage
+  format: Markdown
+  size: 780
+  md5: 6166c408ce6bdb19c5f933bc1cebef90
+  page: gd_“药娘”拿激素当糖吃：不吃我会抑郁_-_新浪广东.md
+- name: global_全世界每年有多少人去泰国做变性手术？_-_地球日报
+  filename: global_全世界每年有多少人去泰国做变性手术？_-_地球日报.md
+  type: webpage
+  format: Markdown
+  size: 9839
+  md5: ed2018f1da38b8e49cb9f163fe750fea
+  page: global_全世界每年有多少人去泰国做变性手术？_-_地球日报.md
+- name: hb_乱世出美女，盛世多伪娘_锐评论_-_新浪湖北
+  filename: hb_乱世出美女，盛世多伪娘_锐评论_-_新浪湖北.md
+  type: webpage
+  format: Markdown
+  size: 9234
+  md5: f962de1ede0999abd51c432d0a6bfc51
+  page: hb_乱世出美女，盛世多伪娘_锐评论_-_新浪湖北.md
+- name: interface_34岁女子同时拥有两种性器官：做不了普通女人，是我最大的心病
+  filename: interface_34岁女子同时拥有两种性器官：做不了普通女人，是我最大的心病.md
+  type: webpage
+  format: Markdown
+  size: 22797
+  md5: 8cfdbe938335120d1929cb601f0bb92c
+  page: interface_34岁女子同时拥有两种性器官：做不了普通女人，是我最大的心病.md
+- name: interface_Trevor_Project：2022年美国LGBTQ青年心理健康调查_-_新浪
+  filename: interface_Trevor_Project：2022年美国LGBTQ青年心理健康调查_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 3861
+  md5: f41efbf29761f555e379f6f984cd1aca
+  page: interface_Trevor_Project：2022年美国LGBTQ青年心理健康调查_-_新浪.md
+- name: interface_《第三性》杂志：一段失落的跨性别者历史_-_新浪
+  filename: interface_《第三性》杂志：一段失落的跨性别者历史_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 16535
+  md5: b75ced98b67d0533d4038c633038af64
+  page: interface_《第三性》杂志：一段失落的跨性别者历史_-_新浪.md
+- name: interface_国际泳联：限制跨性别运动员参加女子比赛_手机新浪网
+  filename: interface_国际泳联：限制跨性别运动员参加女子比赛_手机新浪网.md
+  type: webpage
+  format: Markdown
+  size: 6783
+  md5: d53875cee4da832b69b9a64a4befedf9
+  page: interface_国际泳联：限制跨性别运动员参加女子比赛_手机新浪网.md
+- name: interface_奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？_-_新浪
+  filename: interface_奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 24897
+  md5: 597744c344bb20f02c9e8c8ab2a3d323
+  page: interface_奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？_-_新浪.md
+- name: interface_尼尔森：2023年LGBTQ+在媒体和广告中的表现_-_新浪
+  filename: interface_尼尔森：2023年LGBTQ+在媒体和广告中的表现_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 4448
+  md5: 4eda1fd41e09c1b115925d7c7562292b
+  page: interface_尼尔森：2023年LGBTQ+在媒体和广告中的表现_-_新浪.md
+- name: interface_被美国“消失”的台当局代表：跨性别者曾是国际级黑客_-_新浪
+  filename: interface_被美国“消失”的台当局代表：跨性别者曾是国际级黑客_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 6499
+  md5: 8560360659e900d065221e14b4d1cdc7
+  page: interface_被美国“消失”的台当局代表：跨性别者曾是国际级黑客_-_新浪.md
+- name: interface_跨性别选手参加巴黎奥运？条件增加_手机新浪网
+  filename: interface_跨性别选手参加巴黎奥运？条件增加_手机新浪网.md
+  type: webpage
+  format: Markdown
+  size: 2719
+  md5: 24fe7d9a8a754f524817bd06105fbe1c
+  page: interface_跨性别选手参加巴黎奥运？条件增加_手机新浪网.md
+- name: k_28岁跨性别者：变性后，我好快乐_-_新浪
+  filename: k_28岁跨性别者：变性后，我好快乐_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 22574
+  md5: 67136a470d7df5ee779f03c6d3c53bf1
+  page: k_28岁跨性别者：变性后，我好快乐_-_新浪.md
+- name: k_4分钟看完2015跨性别电影_-_新浪
+  filename: k_4分钟看完2015跨性别电影_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 8390
+  md5: 021b68fc51418d7fdce987d241a0c672
+  page: k_4分钟看完2015跨性别电影_-_新浪.md
+- name: k_5%的「跨性别者」都想切除自己的生殖器官
+  filename: k_5%的「跨性别者」都想切除自己的生殖器官.md
+  type: webpage
+  format: Markdown
+  size: 19054
+  md5: 80e96a9fffc36447cd5a830ea451dc41
+  page: k_5%的「跨性别者」都想切除自己的生殖器官.md
+- name: k_60岁英国跨性别女演员将主演福尔摩斯系列剧，曾因进入女卫生间被批
+  filename: k_60岁英国跨性别女演员将主演福尔摩斯系列剧，曾因进入女卫生间被批.md
+  type: webpage
+  format: Markdown
+  size: 4435
+  md5: 537479915768d50913ed5f8df4763aed
+  page: k_60岁英国跨性别女演员将主演福尔摩斯系列剧，曾因进入女卫生间被批.md
+- name: k_《丹麦女孩》：世界第一个变性人的故事，小雀斑女装扮相明丽惊艳
+  filename: k_《丹麦女孩》：世界第一个变性人的故事，小雀斑女装扮相明丽惊艳.md
+  type: webpage
+  format: Markdown
+  size: 15713
+  md5: feda418e3c57a0a9e2ddeaacc57b4cf8
+  page: k_《丹麦女孩》：世界第一个变性人的故事，小雀斑女装扮相明丽惊艳.md
+- name: k_《沙漠妖姬》关于同性恋、变性人和异装癖的故事_-_新浪
+  filename: k_《沙漠妖姬》关于同性恋、变性人和异装癖的故事_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 4140
+  md5: 2000fb02369dd8348296e499717a7d5a
+  page: k_《沙漠妖姬》关于同性恋、变性人和异装癖的故事_-_新浪.md
+- name: k_一部看完让你隐隐作痛的电影，关于性别认知障碍者的深刻认识。_-_新浪
+  filename: k_一部看完让你隐隐作痛的电影，关于性别认知障碍者的深刻认识。_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 14573
+  md5: d8af9e7f89fdbeb2ae2c83986639aedb
+  page: k_一部看完让你隐隐作痛的电影，关于性别认知障碍者的深刻认识。_-_新浪.md
+- name: k_中国第一位变性人，用女儿身嫁给老板，丈夫至死不知道她曾是男人
+  filename: k_中国第一位变性人，用女儿身嫁给老板，丈夫至死不知道她曾是男人.md
+  type: webpage
+  format: Markdown
+  size: 5314
+  md5: c27bea889d0bb1ab1b3494bcb535db10
+  page: k_中国第一位变性人，用女儿身嫁给老板，丈夫至死不知道她曾是男人.md
+- name: k_中国首家跨性别儿童青少年诊所在上海成立
+  filename: k_中国首家跨性别儿童青少年诊所在上海成立.md
+  type: webpage
+  format: Markdown
+  size: 2881
+  md5: f890af9f24975a03255a5bc596e714be
+  page: k_中国首家跨性别儿童青少年诊所在上海成立.md
+- name: k_二次元中十大可爱的男孩子（伪娘）排行_-_新浪
+  filename: k_二次元中十大可爱的男孩子（伪娘）排行_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 2862
+  md5: c9e1debd67518169590d5caa31ace128
+  page: k_二次元中十大可爱的男孩子（伪娘）排行_-_新浪.md
+- name: k_二次元女仆装男子告白男友被吐槽，男扮女装男子太像女士了啊​_-_新浪
+  filename: k_二次元女仆装男子告白男友被吐槽，男扮女装男子太像女士了啊​_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 8572
+  md5: bc41d34fa66a51b05205135c26cc51fa
+  page: k_二次元女仆装男子告白男友被吐槽，男扮女装男子太像女士了啊​_-_新浪.md
+- name: k_人妖是怎样变出来的_直击泰国医院变性细节_-_新浪
+  filename: k_人妖是怎样变出来的_直击泰国医院变性细节_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 3491
+  md5: c7564bd1ed8f5ba866d3c35ec0e76dce
+  page: k_人妖是怎样变出来的_直击泰国医院变性细节_-_新浪.md
+- name: k_六年了，还是那么酷_-_新浪
+  filename: k_六年了，还是那么酷_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 17413
+  md5: d23e7248cd881d1dca3e4e7bb31b0a76
+  page: k_六年了，还是那么酷_-_新浪.md
+- name: k_动漫中的性转角色,果然不亏是女装大佬!_-_新浪
+  filename: k_动漫中的性转角色,果然不亏是女装大佬!_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 3278
+  md5: 735219f2582ee1d25702f5eccdf7bc8d
+  page: k_动漫中的性转角色,果然不亏是女装大佬!_-_新浪.md
+- name: k_动漫中那些“被变性”的角色——最后一位的性别是“秀吉”_-_新浪
+  filename: k_动漫中那些“被变性”的角色——最后一位的性别是“秀吉”_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 5915
+  md5: 42fbe9bf7da50408c9a2d331ae68e7c8
+  page: k_动漫中那些“被变性”的角色——最后一位的性别是“秀吉”_-_新浪.md
+- name: k_卡迪雅灵魂被慢慢雌化！性转成女人，嫁给谁都想好了_-_新浪
+  filename: k_卡迪雅灵魂被慢慢雌化！性转成女人，嫁给谁都想好了_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 5660
+  md5: 395efb7b88498c0a9b02f95330918f08
+  page: k_卡迪雅灵魂被慢慢雌化！性转成女人，嫁给谁都想好了_-_新浪.md
+- name: k_双兔傍地走,安能辨我是雄雌十大伪娘动漫推荐!_-_新浪
+  filename: k_双兔傍地走,安能辨我是雄雌十大伪娘动漫推荐!_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 5530
+  md5: a5e5e0576a98018544448300dc0f0397
+  page: k_双兔傍地走,安能辨我是雄雌十大伪娘动漫推荐!_-_新浪.md
+- name: k_双兔傍地走安能辨我是雄雌？盘点十位二次元伪娘_-_新浪
+  filename: k_双兔傍地走安能辨我是雄雌？盘点十位二次元伪娘_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 4919
+  md5: 2c77041c2bd56a2df8e9a53bc797fe65
+  page: k_双兔傍地走安能辨我是雄雌？盘点十位二次元伪娘_-_新浪.md
+- name: k_因易性癖被侵犯，这部真实事件改编太残忍_-_新浪
+  filename: k_因易性癖被侵犯，这部真实事件改编太残忍_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 10373
+  md5: 9ab78c82be51280008bdbc4a419b21c8
+  page: k_因易性癖被侵犯，这部真实事件改编太残忍_-_新浪.md
+- name: k_国产的女装大佬真实越来越美了，不仅男主是女装大佬_-_新浪
+  filename: k_国产的女装大佬真实越来越美了，不仅男主是女装大佬_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 8421
+  md5: 94157854007acf184087c68eb34b61be
+  page: k_国产的女装大佬真实越来越美了，不仅男主是女装大佬_-_新浪.md
+- name: k_在跨性别青少年门诊，我目睹了中国家庭的撕裂_-_新浪
+  filename: k_在跨性别青少年门诊，我目睹了中国家庭的撕裂_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 26381
+  md5: 22c152ae37343ea01922929d1e0bcf4b
+  page: k_在跨性别青少年门诊，我目睹了中国家庭的撕裂_-_新浪.md
+- name: k_女主竟然是女装大佬？动漫《博多豚骨拉面》推荐_-_新浪
+  filename: k_女主竟然是女装大佬？动漫《博多豚骨拉面》推荐_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 2778
+  md5: 2a209869df92e33be089206870cafec6
+  page: k_女主竟然是女装大佬？动漫《博多豚骨拉面》推荐_-_新浪.md
+- name: k_女装大佬宣布“变性”成功，结果却被秒打脸……_-_新浪
+  filename: k_女装大佬宣布“变性”成功，结果却被秒打脸……_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 11641
+  md5: 623aa842922f89b6743bc3d8ec443160
+  page: k_女装大佬宣布“变性”成功，结果却被秒打脸……_-_新浪.md
+- name: k_心理学家：造成异装癖的3种原因，第3种很多人都曾有过_-_新浪
+  filename: k_心理学家：造成异装癖的3种原因，第3种很多人都曾有过_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 4135
+  md5: 6de42ec733f799072954f651236bfe23
+  page: k_心理学家：造成异装癖的3种原因，第3种很多人都曾有过_-_新浪.md
+- name: k_性别是流动的吗？我们的性别表达是如何被建构的？_-_新浪
+  filename: k_性别是流动的吗？我们的性别表达是如何被建构的？_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 10070
+  md5: 47fe819b5e604898e47d1a4e4cca7c44
+  page: k_性别是流动的吗？我们的性别表达是如何被建构的？_-_新浪.md
+- name: k_新作品才出三天！音乐家苏菲失足跌落身亡享年34岁_-_新浪
+  filename: k_新作品才出三天！音乐家苏菲失足跌落身亡享年34岁_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 1564
+  md5: 686b43337bbe70a109e464c61a693c2d
+  page: k_新作品才出三天！音乐家苏菲失足跌落身亡享年34岁_-_新浪.md
+- name: k_日本一全年龄向“女装游戏”《僕姬计划（ボク姫PROJECT）》放出了一
+  filename: k_日本一全年龄向“女装游戏”《僕姬计划（ボク姫PROJECT）》放出了一.md
+  type: webpage
+  format: Markdown
+  size: 4183
+  md5: 0b9c445833112654cb58c79366b5a694
+  page: k_日本一全年龄向“女装游戏”《僕姬计划（ボク姫PROJECT）》放出了一.md
+- name: k_曼谷不可错过的3家人妖秀，你钟爱哪一个_-_新浪
+  filename: k_曼谷不可错过的3家人妖秀，你钟爱哪一个_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 4389
+  md5: cae23a951661b5eacbfeface53e1cc15
+  page: k_曼谷不可错过的3家人妖秀，你钟爱哪一个_-_新浪.md
+- name: k_泰国人妖接待游客的时候，为啥要偷服“避孕药”？答案很现实_-_新浪
+  filename: k_泰国人妖接待游客的时候，为啥要偷服“避孕药”？答案很现实_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 3138
+  md5: 0946feb8160c5d4603ecf06454ab7fb9
+  page: k_泰国人妖接待游客的时候，为啥要偷服“避孕药”？答案很现实_-_新浪.md
+- name: k_泰国人妖背后怎么生活？长期服用“特效”药_-_新浪
+  filename: k_泰国人妖背后怎么生活？长期服用“特效”药_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 4307
+  md5: b2e1947701728492c49912916053779b
+  page: k_泰国人妖背后怎么生活？长期服用“特效”药_-_新浪.md
+- name: k_泰国人妖辛酸史，两三岁开始磨练，网友：为“做女人”也是拼了_-_新浪
+  filename: k_泰国人妖辛酸史，两三岁开始磨练，网友：为“做女人”也是拼了_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 4091
+  md5: e7c2d92bc0ba657be39a91707df7538d
+  page: k_泰国人妖辛酸史，两三岁开始磨练，网友：为“做女人”也是拼了_-_新浪.md
+- name: k_泰国最好看的人妖秀在哪看!最不可错过的是这8家!_-_新浪
+  filename: k_泰国最好看的人妖秀在哪看!最不可错过的是这8家!_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 14923
+  md5: 577fd6ea6acf8c779ef0d581cdf36212
+  page: k_泰国最好看的人妖秀在哪看!最不可错过的是这8家!_-_新浪.md
+- name: k_浣熊自曝二次元属性？竟是女装大佬，有图有真相！_-_新浪
+  filename: k_浣熊自曝二次元属性？竟是女装大佬，有图有真相！_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 8497
+  md5: 260045ce79a3263db707123fbb9d83f9
+  page: k_浣熊自曝二次元属性？竟是女装大佬，有图有真相！_-_新浪.md
+- name: k_男变女女变男，“性转”是怎么被日剧玩出花来的？_-_新浪
+  filename: k_男变女女变男，“性转”是怎么被日剧玩出花来的？_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 9549
+  md5: cf0d18f64c640dd03775f2046624caa8
+  page: k_男变女女变男，“性转”是怎么被日剧玩出花来的？_-_新浪.md
+- name: k_男娘，伪娘，CD，TS为什么越来越多_-_新浪
+  filename: k_男娘，伪娘，CD，TS为什么越来越多_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 3301
+  md5: 6a342acd70b38e99ebd4a28368e63c0f
+  page: k_男娘，伪娘，CD，TS为什么越来越多_-_新浪.md
+- name: k_男子每月痛苦不堪，46年才发现自己是双性人，想通过手术变女人
+  filename: k_男子每月痛苦不堪，46年才发现自己是双性人，想通过手术变女人.md
+  type: webpage
+  format: Markdown
+  size: 3778
+  md5: 3cee28592fd281f29d2e44eda7554d51
+  page: k_男子每月痛苦不堪，46年才发现自己是双性人，想通过手术变女人.md
+- name: k_盘点二次元最可爱的五位伪娘，都是画女硬说男的系列_-_新浪
+  filename: k_盘点二次元最可爱的五位伪娘，都是画女硬说男的系列_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 4021
+  md5: 8a28577ef94f7d5b2d7392cf4d094e43
+  page: k_盘点二次元最可爱的五位伪娘，都是画女硬说男的系列_-_新浪.md
+- name: k_盘点动漫女装角色Top10，女装是社会进步的必然！_-_新浪
+  filename: k_盘点动漫女装角色Top10，女装是社会进步的必然！_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 13724
+  md5: 77595de70dd999e6d14d71c4ac174ab2
+  page: k_盘点动漫女装角色Top10，女装是社会进步的必然！_-_新浪.md
+- name: k_盘点那些值得回顾的伪娘动漫！_-_新浪
+  filename: k_盘点那些值得回顾的伪娘动漫！_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 3997
+  md5: 5ae14061f71a39aed59832fb79dc978c
+  page: k_盘点那些值得回顾的伪娘动漫！_-_新浪.md
+- name: k_盘点：泰国“人妖”求生的背后故事，出家重回男儿身，太可怜了！_-_新浪
+  filename: k_盘点：泰国“人妖”求生的背后故事，出家重回男儿身，太可怜了！_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 4018
+  md5: e52b13eef7df53aabfe2af6bcf3429e5
+  page: k_盘点：泰国“人妖”求生的背后故事，出家重回男儿身，太可怜了！_-_新浪.md
+- name: k_绅士学院：不是伪娘？令你男女莫辨的角色们_-_新浪
+  filename: k_绅士学院：不是伪娘？令你男女莫辨的角色们_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 9557
+  md5: 76ed1fd8c19b05269fd221ad9091130e
+  page: k_绅士学院：不是伪娘？令你男女莫辨的角色们_-_新浪.md
+- name: k_罗琳在性别问题上的立场，会影响观众观看《哈利·波特》电视剧吗？
+  filename: k_罗琳在性别问题上的立场，会影响观众观看《哈利·波特》电视剧吗？.md
+  type: webpage
+  format: Markdown
+  size: 6985
+  md5: 132d63fd60ac69e4dbec830c0a7eed3e
+  page: k_罗琳在性别问题上的立场，会影响观众观看《哈利·波特》电视剧吗？.md
+- name: k_被嫌弃28年，65岁“异装癖”男人捡垃圾还清18万债务_-_新浪
+  filename: k_被嫌弃28年，65岁“异装癖”男人捡垃圾还清18万债务_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 10901
+  md5: 56277e43bc84362654077db4af11057b
+  page: k_被嫌弃28年，65岁“异装癖”男人捡垃圾还清18万债务_-_新浪.md
+- name: k_遭电击治疗，一位跨性别者决定起诉_-_新浪
+  filename: k_遭电击治疗，一位跨性别者决定起诉_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 25148
+  md5: 7ddafc9b2d440725902a70220d1fcb68
+  page: k_遭电击治疗，一位跨性别者决定起诉_-_新浪.md
+- name: k_除了男女，人类到底还有多少种性别？真相比你想的更复杂……_-_新浪
+  filename: k_除了男女，人类到底还有多少种性别？真相比你想的更复杂……_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 13063
+  md5: b8dae8f36f099f1a2b53a92684d48d2b
+  page: k_除了男女，人类到底还有多少种性别？真相比你想的更复杂……_-_新浪.md
+- name: k_隐藏在日本漫画里的跨性别，构造了我最早的多元性别观_-_新浪
+  filename: k_隐藏在日本漫画里的跨性别，构造了我最早的多元性别观_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 10938
+  md5: 00c219f032d6b4841b0133447fcb4e32
+  page: k_隐藏在日本漫画里的跨性别，构造了我最早的多元性别观_-_新浪.md
+- name: lib_什么是性别认同？__Trans_in_Academia!_文章资料库
+  filename: lib_什么是性别认同？__Trans_in_Academia!_文章资料库.md
+  type: webpage
+  format: Markdown
+  size: 64660
+  md5: 54b692986d5d26402455fe48fb09308b
+  page: lib_什么是性别认同？__Trans_in_Academia!_文章资料库.md
+- name: m_witch103_-_微博
+  filename: m_witch103_-_微博.md
+  type: webpage
+  format: Markdown
+  size: 7428
+  md5: fad12920ec299fed5848026d68871fe9
+  page: m_witch103_-_微博.md
+- name: m_性激素药物有哪些-爱问健康网
+  filename: m_性激素药物有哪些-爱问健康网.md
+  type: webpage
+  format: Markdown
+  size: 1006
+  md5: 2be67dfa96523af9c749af10ef99a5b8
+  page: m_性激素药物有哪些-爱问健康网.md
+- name: m_补佳乐怎么吃一天几粒-爱问健康网
+  filename: m_补佳乐怎么吃一天几粒-爱问健康网.md
+  type: webpage
+  format: Markdown
+  size: 1683
+  md5: d6195411e3d9e5d3f51789240dfc7e18
+  page: m_补佳乐怎么吃一天几粒-爱问健康网.md
+- name: mil_台媒：为尊重跨性别者英国拟在称谓中增加Mx_手机新浪网
+  filename: mil_台媒：为尊重跨性别者英国拟在称谓中增加Mx_手机新浪网.md
+  type: webpage
+  format: Markdown
+  size: 13550
+  md5: eb0a58cdc2e4e2280fb11a027b5f44c0
+  page: mil_台媒：为尊重跨性别者英国拟在称谓中增加Mx_手机新浪网.md
+- name: mil_拜登提名跨性别医生担任卫生部助理部长，创下历史_-_新浪军事
+  filename: mil_拜登提名跨性别医生担任卫生部助理部长，创下历史_-_新浪军事.md
+  type: webpage
+  format: Markdown
+  size: 2726
+  md5: 436ff1eda6714cff28c64b0b6891644d
+  page: mil_拜登提名跨性别医生担任卫生部助理部长，创下历史_-_新浪军事.md
+- name: mil_新加坡男子变性后婚姻被作废同性伴侣要求法院复婚_-_新浪军事
+  filename: mil_新加坡男子变性后婚姻被作废同性伴侣要求法院复婚_-_新浪军事.md
+  type: webpage
+  format: Markdown
+  size: 1588
+  md5: 51794c068b0a169026ae81cc1940e2a1
+  page: mil_新加坡男子变性后婚姻被作废同性伴侣要求法院复婚_-_新浪军事.md
 - name: mil_美国法院驳回特朗普要求跨性别者明年可从军_手机新浪网
   filename: mil_美国法院驳回特朗普要求跨性别者明年可从军_手机新浪网.md
   type: webpage
@@ -19,6 +887,20 @@ files:
   size: 1493
   md5: 6595ec5d57257a3dcbd6a2f830cf34aa
   page: mil_美国法院驳回特朗普要求跨性别者明年可从军_手机新浪网.md
+- name: mil_英国最高法院：生活中性别自己定但护照不搞中性_-_新浪军事
+  filename: mil_英国最高法院：生活中性别自己定但护照不搞中性_-_新浪军事.md
+  type: webpage
+  format: Markdown
+  size: 3776
+  md5: febcccf0c323acd567a7d42d2d5dec25
+  page: mil_英国最高法院：生活中性别自己定但护照不搞中性_-_新浪军事.md
+- name: mil_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预
+  filename: mil_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预.md
+  type: webpage
+  format: Markdown
+  size: 4244
+  md5: 05e91c59b2105e38aac10f464f3bbf5c
+  page: mil_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预.md
 - name: news_10岁做手术由女变男32岁变性人想索回女儿身
   filename: news_10岁做手术由女变男32岁变性人想索回女儿身.md
   type: webpage
@@ -40,6 +922,13 @@ files:
   size: 6269
   md5: 795590282f0c8e2c9e2ed0244828649b
   page: news_15岁男孩网约做变性手术医生无证下刀被追责.md
+- name: news_16岁中学生患两性畸形做手术恢复女儿身(图)_-_新浪新闻
+  filename: news_16岁中学生患两性畸形做手术恢复女儿身(图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 2761
+  md5: 2158edb4361d9d185bdb6b914661f868
+  page: news_16岁中学生患两性畸形做手术恢复女儿身(图)_-_新浪新闻.md
 - name: news_17岁少年欲做变性手术医院称为商业目的而炒作
   filename: news_17岁少年欲做变性手术医院称为商业目的而炒作.md
   type: webpage
@@ -61,6 +950,13 @@ files:
   size: 3682
   md5: 337332b09985dfba0afc9e43e2a0521d
   page: news_18岁少年宾馆做变性手术“医生”看视频学的技术.md
+- name: news_18岁男子在母亲贷款支持下成功变性(组图)_-_新浪新闻
+  filename: news_18岁男子在母亲贷款支持下成功变性(组图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 6466
+  md5: 2d366dd25567b28cda45b411b82a4ddd
+  page: news_18岁男子在母亲贷款支持下成功变性(组图)_-_新浪新闻.md
 - name: news_19岁湖南小伙要做江西第一变性人（组图）
   filename: news_19岁湖南小伙要做江西第一变性人（组图）.md
   type: webpage
@@ -68,6 +964,13 @@ files:
   size: 4076
   md5: efd3913dd75e3300f5ef3f6876043cc5
   page: news_19岁湖南小伙要做江西第一变性人（组图）.md
+- name: news_19岁跨性别者的三次“逃亡”_-_新浪新闻
+  filename: news_19岁跨性别者的三次“逃亡”_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 23102
+  md5: 90c503d2580ac5a3bc244735a7693324
+  page: news_19岁跨性别者的三次“逃亡”_-_新浪新闻.md
 - name: news_19岁黑龙江小伙接受变性手术成为美女(图)
   filename: news_19岁黑龙江小伙接受变性手术成为美女(图).md
   type: webpage
@@ -131,6 +1034,13 @@ files:
   size: 2792
   md5: 39b724066aa9f611da3e667b278e0eff
   page: news_31岁亚裔男警官变女性纽约惊现首例变性警官.md
+- name: news_31岁女子易性癖折磨十多年广州成功变性(图)_-_新浪新闻
+  filename: news_31岁女子易性癖折磨十多年广州成功变性(图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 8313
+  md5: 3bbf68a2d3bce5abaaaba4740455bcd7
+  page: news_31岁女子易性癖折磨十多年广州成功变性(图)_-_新浪新闻.md
 - name: news_32岁男子欲做变性手术曾因不愿亲热气走女友
   filename: news_32岁男子欲做变性手术曾因不愿亲热气走女友.md
   type: webpage
@@ -187,6 +1097,13 @@ files:
   size: 9563
   md5: f77e7f8ad7d29d74575290513ce3dfb5
   page: news_[心理探幽]变性心态，说放弃太难？.md
+- name: news_“两性畸形”人今日还原女儿身_-_新浪新闻
+  filename: news_“两性畸形”人今日还原女儿身_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 2029
+  md5: 596f25112500f95468a880369f9281c6
+  page: news_“两性畸形”人今日还原女儿身_-_新浪新闻.md
 - name: news_“南京第一变性案”有结果当事人获赔5万元
   filename: news_“南京第一变性案”有结果当事人获赔5万元.md
   type: webpage
@@ -215,6 +1132,13 @@ files:
   size: 11898
   md5: 7d172a6f49ae024f1df6fd72d64e4360
   page: news_“女人气质”令饭碗屡丢男子愿卖肾做变性手术.md
+- name: news_“她的故事”从这里开始_-_新浪新闻
+  filename: news_“她的故事”从这里开始_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 25470
+  md5: b56611e75777f9749cb10fc5e7f3f69e
+  page: news_“她的故事”从这里开始_-_新浪新闻.md
 - name: news_“性别倒错”在美国
   filename: news_“性别倒错”在美国.md
   type: webpage
@@ -222,6 +1146,13 @@ files:
   size: 10094
   md5: c1e6f1a59d8c2b354e40002671e2afa7
   page: news_“性别倒错”在美国.md
+- name: news_“性别流动”部长，居然多次偷行李箱？_-_新浪新闻
+  filename: news_“性别流动”部长，居然多次偷行李箱？_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 9705
+  md5: 9e296c7489144f5c55ff5759228af21d
+  page: news_“性别流动”部长，居然多次偷行李箱？_-_新浪新闻.md
 - name: news_“男人”也能生孩子，美国女子变性后诞下一子
   filename: news_“男人”也能生孩子，美国女子变性后诞下一子.md
   type: webpage
@@ -229,6 +1160,27 @@ files:
   size: 3974
   md5: 2dcb919d90ba6000a986eb6638e1bc7d
   page: news_“男人”也能生孩子，美国女子变性后诞下一子.md
+- name: news_“男跨女”游泳输给了“女跨男”_美国网民蒙圈了
+  filename: news_“男跨女”游泳输给了“女跨男”_美国网民蒙圈了.md
+  type: webpage
+  format: Markdown
+  size: 6570
+  md5: 5e5e508aa03c248959a01f15cc95f834
+  page: news_“男跨女”游泳输给了“女跨男”_美国网民蒙圈了.md
+- name: news_【盘点】他们既是名人也是性少数派_-_新浪新闻
+  filename: news_【盘点】他们既是名人也是性少数派_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 6377
+  md5: 23a88d03cdcf4fca7600e561e4deeabb
+  page: news_【盘点】他们既是名人也是性少数派_-_新浪新闻.md
+- name: news_【紫牛头条】主动公布双性人身份的“他”：想勇敢面对，感谢网友的善意
+  filename: news_【紫牛头条】主动公布双性人身份的“他”：想勇敢面对，感谢网友的善意.md
+  type: webpage
+  format: Markdown
+  size: 8501
+  md5: 93ac49d4f044d60c5e179608d08ac135
+  page: news_【紫牛头条】主动公布双性人身份的“他”：想勇敢面对，感谢网友的善意.md
 - name: news_一夜情后发现她是“变性人”_俄医生怒将情人肢解
   filename: news_一夜情后发现她是“变性人”_俄医生怒将情人肢解.md
   type: webpage
@@ -285,6 +1237,13 @@ files:
   size: 9573
   md5: 01af1935398db911f6f8fc2f0e460024
   page: news_三位变性人讲述爱情故事：不愿成为猎奇对象.md
+- name: news_上海率先开设跨性别多学科门诊帮助特殊未成年人_-_新浪新闻
+  filename: news_上海率先开设跨性别多学科门诊帮助特殊未成年人_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 3723
+  md5: 14a81c566a96b1a22afd6aa19e2fb462
+  page: news_上海率先开设跨性别多学科门诊帮助特殊未成年人_-_新浪新闻.md
 - name: news_不愿意被称为“变性大师”
   filename: news_不愿意被称为“变性大师”.md
   type: webpage
@@ -320,6 +1279,13 @@ files:
   size: 2660
   md5: 1b9dd7e534dad5d2fd70071072727490
   page: news_世卫组织重新归类“变性”不再被视为精神病.md
+- name: news_两人患病“男性假两性畸形”_-_新浪新闻
+  filename: news_两人患病“男性假两性畸形”_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 2329
+  md5: 43cd7d749b88e5b5fdcedfbe67eff797
+  page: news_两人患病“男性假两性畸形”_-_新浪新闻.md
 - name: news_两变性人被疑并非恋人两人可能为医院代言(图)
   filename: news_两变性人被疑并非恋人两人可能为医院代言(图).md
   type: webpage
@@ -334,6 +1300,13 @@ files:
   size: 3035
   md5: 9ddddc4861dbd73b13c52bffdb8c7baf
   page: news_两名小伙在泰国做变性手术回国后申请更改性别.md
+- name: news_两性畸形难了她21年矫正手术圆了女儿梦_-_新浪新闻
+  filename: news_两性畸形难了她21年矫正手术圆了女儿梦_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 1475
+  md5: ecce250a9ba8685b57dd2192d5d08e21
+  page: news_两性畸形难了她21年矫正手术圆了女儿梦_-_新浪新闻.md
 - name: news_中国卫生部规范变性手术华西医院全国首批通过审核
   filename: news_中国卫生部规范变性手术华西医院全国首批通过审核.md
   type: webpage
@@ -425,6 +1398,13 @@ files:
   size: 4229
   md5: af3ad837c46605020c908fa774e0d612
   page: news_为少年变性的医生是天使还是魔鬼？.md
+- name: news_九成女孩教育趋于男性化？_-_新浪新闻
+  filename: news_九成女孩教育趋于男性化？_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 6318
+  md5: 1d05a27eb5d5ab390fb1a01668d5bc00
+  page: news_九成女孩教育趋于男性化？_-_新浪新闻.md
 - name: news_五旬老汉欲接受变性手术从小爱穿女人衣服(图)
   filename: news_五旬老汉欲接受变性手术从小爱穿女人衣服(图).md
   type: webpage
@@ -432,6 +1412,20 @@ files:
   size: 4894
   md5: d277637c7c387c8a8683b005c7f229c0
   page: news_五旬老汉欲接受变性手术从小爱穿女人衣服(图).md
+- name: news_人妖表演，欲将国人艺术品位引向何方_-_新浪新闻
+  filename: news_人妖表演，欲将国人艺术品位引向何方_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 2798
+  md5: 0f5bb9c79274168c05a05554a1dd2126
+  page: news_人妖表演，欲将国人艺术品位引向何方_-_新浪新闻.md
+- name: news_从“奶油小生”到“娘炮”_中国人审美经历了什么_-_新浪新闻
+  filename: news_从“奶油小生”到“娘炮”_中国人审美经历了什么_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 3996
+  md5: 2082974ec59c6219bcd0c2794891a108
+  page: news_从“奶油小生”到“娘炮”_中国人审美经历了什么_-_新浪新闻.md
 - name: news_代妻怀孕美国变性人生女变性男曾是美夏威夷选美皇后
   filename: news_代妻怀孕美国变性人生女变性男曾是美夏威夷选美皇后.md
   type: webpage
@@ -481,6 +1475,13 @@ files:
   size: 10552
   md5: c0d2c72429173e028388feb8cb0c2e6e
   page: news_全国首例登记结婚变性人在南京订婚(图).md
+- name: news_农村夫妻生7个孩子有3个两性畸形“不男不女”_-_新浪新闻
+  filename: news_农村夫妻生7个孩子有3个两性畸形“不男不女”_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 5147
+  md5: 5cbc35d4848d4cf448dd4231bab44010
+  page: news_农村夫妻生7个孩子有3个两性畸形“不男不女”_-_新浪新闻.md
 - name: news_准变性人自述：我在歧视中做女人梦
   filename: news_准变性人自述：我在歧视中做女人梦.md
   type: webpage
@@ -670,6 +1671,13 @@ files:
   size: 1297
   md5: ac844dc470d0191c410f971373375d27
   page: news_变性人换了张“女人脸”_对新容貌非常满意.md
+- name: news_变性人李国华隆胸手术成功欲海选男友_-_新浪新闻
+  filename: news_变性人李国华隆胸手术成功欲海选男友_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 3994
+  md5: d328a9d9d651852704bd81bdcd366fc1
+  page: news_变性人李国华隆胸手术成功欲海选男友_-_新浪新闻.md
 - name: news_变性人离婚遇法律空白
   filename: news_变性人离婚遇法律空白.md
   type: webpage
@@ -698,6 +1706,13 @@ files:
   size: 1246
   md5: d753f4515325a4878fb22ed3596dd58f
   page: news_变性人陈瑜春节后要当美女记者(图).md
+- name: news_变性人陈莉莉参加环球小姐选美_新闻中心_新浪网
+  filename: news_变性人陈莉莉参加环球小姐选美_新闻中心_新浪网.md
+  type: webpage
+  format: Markdown
+  size: 2973
+  md5: e315a09a1c2288a06d2a81268ce86e69
+  page: news_变性人陈莉莉参加环球小姐选美_新闻中心_新浪网.md
 - name: news_变性人陈莉莉被劫后首次露面称对将来很迷惘
   filename: news_变性人陈莉莉被劫后首次露面称对将来很迷惘.md
   type: webpage
@@ -754,6 +1769,13 @@ files:
   size: 6507
   md5: 0456ea1eb84a0d66d9f0405ae70c05a7
   page: news_变性女商人年薪过2亿孩子仍叫她爸爸（图）.md
+- name: news_变性女子歌厅表演遭女观众泼酒(图)_-_新浪新闻
+  filename: news_变性女子歌厅表演遭女观众泼酒(图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 5318
+  md5: b8fd42ef5610f35ee60655ae861a00bc
+  page: news_变性女子歌厅表演遭女观众泼酒(图)_-_新浪新闻.md
 - name: news_变性女子要价千万美元出售自传书稿(图)
   filename: news_变性女子要价千万美元出售自传书稿(图).md
   type: webpage
@@ -775,6 +1797,13 @@ files:
   size: 2650
   md5: 021c85a1213b4e27ca1c1bdff538a45c
   page: news_变性女酒店帮人按摩遭强奸.md
+- name: news_变性性工作者在中国被边缘化_-_新浪新闻
+  filename: news_变性性工作者在中国被边缘化_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 3895
+  md5: 7565cd6e61500b4ce8b99a723a920935
+  page: news_变性性工作者在中国被边缘化_-_新浪新闻.md
 - name: news_变性手术20年合法路
   filename: news_变性手术20年合法路.md
   type: webpage
@@ -859,6 +1888,13 @@ files:
   size: 942
   md5: ab7e94b2b1b63ac99be3a8856bc659a2
   page: news_台湾著名主持人利菁变性前照片曝光.md
+- name: news_台第一伪娘太美爆红男扮女装任总经理特助(图)_-_新浪新闻
+  filename: news_台第一伪娘太美爆红男扮女装任总经理特助(图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 1422
+  md5: 91fd83c8e172a6e730ee58478b47fc44
+  page: news_台第一伪娘太美爆红男扮女装任总经理特助(图)_-_新浪新闻.md
 - name: news_各界口诛笔伐！特朗普全面禁止变性人服役决定遭批
   filename: news_各界口诛笔伐！特朗普全面禁止变性人服役决定遭批.md
   type: webpage
@@ -915,6 +1951,13 @@ files:
   size: 3769
   md5: d959585b8440da22b184270e9cd35a15
   page: news_圆40年女人梦国内年龄最大变性人长沙打造成功.md
+- name: news_增进沟通是助患者摆脱异装癖的关键_-_新浪新闻
+  filename: news_增进沟通是助患者摆脱异装癖的关键_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 4844
+  md5: cf6ffb5abe41e4d35134f0c1c99283c2
+  page: news_增进沟通是助患者摆脱异装癖的关键_-_新浪新闻.md
 - name: news_外军变性官兵在美集会吁美允许变性人参军
   filename: news_外军变性官兵在美集会吁美允许变性人参军.md
   type: webpage
@@ -957,6 +2000,13 @@ files:
   size: 5483
   md5: ddfa04a3ac57025453d0ba75d0cb7d2d
   page: news_女儿陪父亲做变性手术续30人慕名找医院要变性.md
+- name: news_女子变成双性人续：拥有两套生殖系统全国罕见_-_新浪新闻
+  filename: news_女子变成双性人续：拥有两套生殖系统全国罕见_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 9169
+  md5: 16206ce597351300953d022300e8ea28
+  page: news_女子变成双性人续：拥有两套生殖系统全国罕见_-_新浪新闻.md
 - name: news_女子学生时代偷服雄性激素切除乳腺欲变性(图)
   filename: news_女子学生时代偷服雄性激素切除乳腺欲变性(图).md
   type: webpage
@@ -1083,6 +2133,13 @@ files:
   size: 3364
   md5: 9eddd3dc0119977698cd0a41c7e66cce
   page: news_广州首位“男变女”变性人为女友二次变性(图).md
+- name: news_广西小伙上海做变性手术续：术后可过夫妻生活_-_新浪新闻
+  filename: news_广西小伙上海做变性手术续：术后可过夫妻生活_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 2168
+  md5: 0e26247146fb25dabb32a081ab28ad1b
+  page: news_广西小伙上海做变性手术续：术后可过夫妻生活_-_新浪新闻.md
 - name: news_张克莎变性20年后笑对大众她比女人还女人(图)
   filename: news_张克莎变性20年后笑对大众她比女人还女人(图).md
   type: webpage
@@ -1104,6 +2161,20 @@ files:
   size: 7369
   md5: d1c1277bf6961887405466350b3458f1
   page: news_性别的挣扎：32年间经历两次变性（图）.md
+- name: news_性别认同的“麻烦”理论_-_新浪新闻
+  filename: news_性别认同的“麻烦”理论_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 8769
+  md5: 1106b96a6d56b9b43ce89de1ee2577fe
+  page: news_性别认同的“麻烦”理论_-_新浪新闻.md
+- name: news_性学大师_-_新浪新闻
+  filename: news_性学大师_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 30025
+  md5: 886cc6935fe347429d1d2920b74ee38f
+  page: news_性学大师_-_新浪新闻.md
 - name: news_成都变性人领到结婚证将于五一节结婚(图)
   filename: news_成都变性人领到结婚证将于五一节结婚(图).md
   type: webpage
@@ -1118,6 +2189,13 @@ files:
   size: 4446
   md5: b5dbaf65124916a9adce9c468dc66055
   page: news_成都美少年渴望变性成为美女(附图).md
+- name: news_抗议声不断美媒还吹捧跨性别运动员，评论区翻车_-_新浪新闻
+  filename: news_抗议声不断美媒还吹捧跨性别运动员，评论区翻车_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 8455
+  md5: fbc3b122cf4a36cc6a56bb0a87551653
+  page: news_抗议声不断美媒还吹捧跨性别运动员，评论区翻车_-_新浪新闻.md
 - name: news_拜登撤销特朗普禁令，允许变性者在美军服役
   filename: news_拜登撤销特朗普禁令，允许变性者在美军服役.md
   type: webpage
@@ -1139,6 +2217,13 @@ files:
   size: 5495
   md5: 798c281b5f1a9aa3162f4695cc174dd2
   page: news_探秘变性人婚姻生活.md
+- name: news_斯坦福变性教授挑战性别歧视_-_新浪新闻
+  filename: news_斯坦福变性教授挑战性别歧视_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 8095
+  md5: 84d6cba66afaa6b42fec1f2169273e70
+  page: news_斯坦福变性教授挑战性别歧视_-_新浪新闻.md
 - name: news_新民周刊：变性男女的婚姻生活(图)
   filename: news_新民周刊：变性男女的婚姻生活(图).md
   type: webpage
@@ -1160,6 +2245,13 @@ files:
   size: 9523
   md5: 6d0bd50655cfd82de7880b6bd661b445
   page: news_新闻多一度丨“跨性别”选手引争议，在体育竞技上男女差异有多大？__.md
+- name: news_新闻聚焦：质疑“中国男子被骗泰国做人妖”
+  filename: news_新闻聚焦：质疑“中国男子被骗泰国做人妖”.md
+  type: webpage
+  format: Markdown
+  size: 14335
+  md5: 51b61cb04dd7cfc98f0627b8b27f1659
+  page: news_新闻聚焦：质疑“中国男子被骗泰国做人妖”.md
 - name: news_日本12岁男孩患性别认同障碍穿女生校服上学_-_新浪新闻
   filename: news_日本12岁男孩患性别认同障碍穿女生校服上学_-_新浪新闻.md
   type: webpage
@@ -1167,6 +2259,13 @@ files:
   size: 1887
   md5: 0a1e4fb4ac425ec9d5659011ad51fee9
   page: news_日本12岁男孩患性别认同障碍穿女生校服上学_-_新浪新闻.md
+- name: news_日本伪娘泛滥成文化新特色35%青年男性每天修眉_-_新浪新闻
+  filename: news_日本伪娘泛滥成文化新特色35%青年男性每天修眉_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 2367
+  md5: 74df6c2937ec930948dcfb3855f7f544
+  page: news_日本伪娘泛滥成文化新特色35%青年男性每天修眉_-_新浪新闻.md
 - name: news_日本拟培养专业变性手术医生将变性纳入保险范围
   filename: news_日本拟培养专业变性手术医生将变性纳入保险范围.md
   type: webpage
@@ -1174,6 +2273,13 @@ files:
   size: 1405
   md5: fa8064a4ad07a0a85487fd6570dde5dc
   page: news_日本拟培养专业变性手术医生将变性纳入保险范围.md
+- name: news_日本男子流行男扮女装“伪娘”大受欢迎(图)_-_新浪新闻
+  filename: news_日本男子流行男扮女装“伪娘”大受欢迎(图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 3220
+  md5: 555e5ae2784778171f45012bf44a21e5
+  page: news_日本男子流行男扮女装“伪娘”大受欢迎(图)_-_新浪新闻.md
 - name: news_易性症患者三四岁萌发变性想法
   filename: news_易性症患者三四岁萌发变性想法.md
   type: webpage
@@ -1300,6 +2406,13 @@ files:
   size: 1395
   md5: 0470f0cd0fbb63a54b117001d89103bc
   page: news_泰国新法18岁后才可变性.md
+- name: news_泰国最美人妖排行榜Top10名单_-_新浪新闻
+  filename: news_泰国最美人妖排行榜Top10名单_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 5469
+  md5: 75842b5d46453c170ff5dc22b88e9059
+  page: news_泰国最美人妖排行榜Top10名单_-_新浪新闻.md
 - name: news_泰最美变性人赴征兵处领免兵役证明引骚动(图)
   filename: news_泰最美变性人赴征兵处领免兵役证明引骚动(图).md
   type: webpage
@@ -1328,6 +2441,13 @@ files:
   size: 6493
   md5: 155a3d159696b81f5b743756750f5ae3
   page: news_深圳首例变性手术续：三月后可过性生活(组图).md
+- name: news_混血男子有易性癖想做女人不认同自己是同性恋_手机新浪网_-_新浪新闻
+  filename: news_混血男子有易性癖想做女人不认同自己是同性恋_手机新浪网_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 7443
+  md5: 0980c7908ddc3bad315884abb33aaeea
+  page: news_混血男子有易性癖想做女人不认同自己是同性恋_手机新浪网_-_新浪新闻.md
 - name: news_温州第一变性人渴望认同
   filename: news_温州第一变性人渴望认同.md
   type: webpage
@@ -1433,6 +2553,13 @@ files:
   size: 3014
   md5: 45ad989f85025f5272dbd6d1f4dd1dd8
   page: news_申请变性手术须年满20岁.md
+- name: news_申请变性手术须满足五个条件_-_新浪新闻
+  filename: news_申请变性手术须满足五个条件_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 5774
+  md5: 5d01289377ba5bb17ab2ddaca1e2e4b9
+  page: news_申请变性手术须满足五个条件_-_新浪新闻.md
 - name: news_男变女好痛苦！变性艺人留绝笔_手机新浪网
   filename: news_男变女好痛苦！变性艺人留绝笔_手机新浪网.md
   type: webpage
@@ -1454,6 +2581,13 @@ files:
   size: 9927
   md5: 02300f981a82df88fd493ef0b69eeeb3
   page: news_男员工变性遭当当网开除法院写下一段近千字的话.md
+- name: news_男子B超发现有子宫，医生：患罕见“两性畸形”_-_新浪新闻
+  filename: news_男子B超发现有子宫，医生：患罕见“两性畸形”_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 5292
+  md5: 50a264f4e49ecbf37ed298680eae99c2
+  page: news_男子B超发现有子宫，医生：患罕见“两性畸形”_-_新浪新闻.md
 - name: news_男子乳房发育如妇女希望变性做女人
   filename: news_男子乳房发育如妇女希望变性做女人.md
   type: webpage
@@ -1531,6 +2665,13 @@ files:
   size: 2054
   md5: 1087862ff4da4a036bbd9225766dbb42
   page: news_男歌舞演员接受阴道再造术变性.md
+- name: news_男艺人反串女人太漂亮被质疑是人妖(图)_-_新浪新闻
+  filename: news_男艺人反串女人太漂亮被质疑是人妖(图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 8661
+  md5: 8c6ec58e2c2b36082d24f39508f66fbb
+  page: news_男艺人反串女人太漂亮被质疑是人妖(图)_-_新浪新闻.md
 - name: news_男青年为筹钱变性两度扮女人骗婚(图)
   filename: news_男青年为筹钱变性两度扮女人骗婚(图).md
   type: webpage
@@ -1573,6 +2714,13 @@ files:
   size: 1608
   md5: 1139797ea8768d0b30a167c1871729a1
   page: news_福州双胞胎男童变性成功两性畸形是因基因突变(图).md
+- name: news_第一批“中国人妖”在上海现身？警方辟谣(图)_-_新浪新闻
+  filename: news_第一批“中国人妖”在上海现身？警方辟谣(图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 1797
+  md5: 3a0e87f678a3367a1b23809f054f2e07
+  page: news_第一批“中国人妖”在上海现身？警方辟谣(图)_-_新浪新闻.md
 - name: news_组图：中国首例混血准变性人亮相
   filename: news_组图：中国首例混血准变性人亮相.md
   type: webpage
@@ -1601,6 +2749,13 @@ files:
   size: 7056
   md5: 76f12187c1c87e0ca1f7e0e1139ed29b
   page: news_网络征婚变性人欲再造子宫生子.md
+- name: news_罗琳新作再次引发跨性别权利争议作家写变装杀手错在哪儿？_-_新浪新闻
+  filename: news_罗琳新作再次引发跨性别权利争议作家写变装杀手错在哪儿？_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 7777
+  md5: 35e423509bf605360d06c2103c7f8656
+  page: news_罗琳新作再次引发跨性别权利争议作家写变装杀手错在哪儿？_-_新浪新闻.md
 - name: news_美任命首位变性高官(图)
   filename: news_美任命首位变性高官(图).md
   type: webpage
@@ -1706,6 +2861,13 @@ files:
   size: 5541
   md5: 146b93c1738198aaa10f8d964d1b9ed3
   page: news_美国媒体刊文披露伊朗变性一族的秘密生活.md
+- name: news_美国政府欲规定性别只能分“男女”_跨性别者炸了_-_新浪新闻
+  filename: news_美国政府欲规定性别只能分“男女”_跨性别者炸了_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 3924
+  md5: cfb8fd59e993390b4921146bb77521fb
+  page: news_美国政府欲规定性别只能分“男女”_跨性别者炸了_-_新浪新闻.md
 - name: news_美国犯人想变性为女人起诉监狱不付费用(组图)
   filename: news_美国犯人想变性为女人起诉监狱不付费用(组图).md
   type: webpage
@@ -1776,6 +2938,13 @@ files:
   size: 2281
   md5: 3ff240e0852923dfb5a82c2b7806cfda
   page: news_老公变性悄为人妻是否重婚民政司法已有定论.md
+- name: news_联合国决议支持同性恋权利_-_新浪新闻
+  filename: news_联合国决议支持同性恋权利_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 4707
+  md5: 53910d3fb1460ef06bdb53f987c5d4a5
+  page: news_联合国决议支持同性恋权利_-_新浪新闻.md
 - name: news_苏格兰要让变性“更容易”，英国政府坐不住了
   filename: news_苏格兰要让变性“更容易”，英国政府坐不住了.md
   type: webpage
@@ -1804,6 +2973,13 @@ files:
   size: 1287
   md5: 661d16b829d8e75a590002b27b6681ac
   page: news_英变性护士美极了.md
+- name: news_英国3岁男童患性别焦虑症做手术变女孩(图)_-_新浪新闻
+  filename: news_英国3岁男童患性别焦虑症做手术变女孩(图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 2538
+  md5: f6924d28366cecc2acae3b6145f8ebfc
+  page: news_英国3岁男童患性别焦虑症做手术变女孩(图)_-_新浪新闻.md
 - name: news_英国一男子变性后与妻子成好姐妹
   filename: news_英国一男子变性后与妻子成好姐妹.md
   type: webpage
@@ -1853,6 +3029,13 @@ files:
   size: 10050
   md5: d430efbbb68033a28385c1c28e154f23
   page: news_菲律宾人妖现象调查：7.9%15-24岁男子欲变性.md
+- name: news_被哈利-波特粉丝网站“开除”_J-K-罗琳是“自食其果”吗？_-_新浪新闻
+  filename: news_被哈利-波特粉丝网站“开除”_J-K-罗琳是“自食其果”吗？_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 21024
+  md5: 26baa3c9c65b38427560842d51975ece
+  page: news_被哈利-波特粉丝网站“开除”_J-K-罗琳是“自食其果”吗？_-_新浪新闻.md
 - name: news_西南“变性手术之父”离世曾成功手术32例(图)
   filename: news_西南“变性手术之父”离世曾成功手术32例(图).md
   type: webpage
@@ -1895,6 +3078,13 @@ files:
   size: 2165
   md5: 04fd39616ec4d18bd27c402a7a8d893f
   page: news_视频｜新西兰举重选手成为第一位参加奥运会的变性人.md
+- name: news_解读泰国美艳人妖的辛酸生活_-_新浪新闻
+  filename: news_解读泰国美艳人妖的辛酸生活_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 2223
+  md5: e4d90cd7e401aa939223ae52c97d6fcc
+  page: news_解读泰国美艳人妖的辛酸生活_-_新浪新闻.md
 - name: news_警察局现身变性警官英国将为变性人开绿灯
   filename: news_警察局现身变性警官英国将为变性人开绿灯.md
   type: webpage
@@ -1909,6 +3099,34 @@ files:
   size: 5112
   md5: b71fcd92adda1821740d8948b8b3a303
   page: news_质问得州州长竞选人是否会反对儿童变性手术美国独立记者_.md
+- name: news_跨性人入境台湾证件性别栏注明“X性”(图)_-_新浪新闻
+  filename: news_跨性人入境台湾证件性别栏注明“X性”(图)_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 3251
+  md5: a5940b9a07663fb897cfecfbcdd54dcb
+  page: news_跨性人入境台湾证件性别栏注明“X性”(图)_-_新浪新闻.md
+- name: news_跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力_-_新浪新闻
+  filename: news_跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 13056
+  md5: 26131d304a36f6a0b0a29cc40fe173e0
+  page: news_跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力_-_新浪新闻.md
+- name: news_跨性别女孩遭“性别扭转治疗”：被母亲送去注射电击_-_新浪新闻
+  filename: news_跨性别女孩遭“性别扭转治疗”：被母亲送去注射电击_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 15664
+  md5: fbb69a1c6c740ea5abde8c06d10095de
+  page: news_跨性别女孩遭“性别扭转治疗”：被母亲送去注射电击_-_新浪新闻.md
+- name: news_跨性别者C先生：一个灵魂放错了身体的“爷儿”_-_新浪新闻
+  filename: news_跨性别者C先生：一个灵魂放错了身体的“爷儿”_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 24362
+  md5: bc4a044c9505b003b82d4c72e9e5becf
+  page: news_跨性别者C先生：一个灵魂放错了身体的“爷儿”_-_新浪新闻.md
 - name: news_跨性别者炸了特朗普政府欲规定性别只分“男女”_手机新浪网
   filename: news_跨性别者炸了特朗普政府欲规定性别只分“男女”_手机新浪网.md
   type: webpage
@@ -1916,6 +3134,13 @@ files:
   size: 3624
   md5: a47fc61a72b78b6d805eeb903a9e81c0
   page: news_跨性别者炸了特朗普政府欲规定性别只分“男女”_手机新浪网.md
+- name: news_跨性别运动员参加奥运：“成为自己”有什么错？_-_新浪新闻
+  filename: news_跨性别运动员参加奥运：“成为自己”有什么错？_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 26075
+  md5: 66f42ca012a29d2c2a4925dbeb4caaf0
+  page: news_跨性别运动员参加奥运：“成为自己”有什么错？_-_新浪新闻.md
 - name: news_身高1米8男子变性穿上短裙变漂亮女人(图)
   filename: news_身高1米8男子变性穿上短裙变漂亮女人(图).md
   type: webpage
@@ -1923,6 +3148,13 @@ files:
   size: 3018
   md5: 0eed01a878a9733baa991ca8d221c76b
   page: news_身高1米8男子变性穿上短裙变漂亮女人(图).md
+- name: news_辣眼睛！伊能静儿子穿女装上热搜，异装癖有趣还是有病？_-_新浪新闻
+  filename: news_辣眼睛！伊能静儿子穿女装上热搜，异装癖有趣还是有病？_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 8994
+  md5: 90749729858b110b1d29e7ea74f0dfc1
+  page: news_辣眼睛！伊能静儿子穿女装上热搜，异装癖有趣还是有病？_-_新浪新闻.md
 - name: news_这个变性者被哈佛解聘和两任FBI局长有啥关系
   filename: news_这个变性者被哈佛解聘和两任FBI局长有啥关系.md
   type: webpage
@@ -1993,6 +3225,13 @@ files:
   size: 1946
   md5: c3995d2241cb5a40cf773d4c6a666b68
   page: news_阿根廷挑战世俗首次批准实施变性手术.md
+- name: news_难以跨越的“隐形门”：跨性别者职场生存记_-_新浪新闻
+  filename: news_难以跨越的“隐形门”：跨性别者职场生存记_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 30169
+  md5: 36e65a6f46b229e0eb2ccb4ebb59f1c9
+  page: news_难以跨越的“隐形门”：跨性别者职场生存记_-_新浪新闻.md
 - name: news_青岛变性帅哥看望变性美女“一见钟情”(组图)
   filename: news_青岛变性帅哥看望变性美女“一见钟情”(组图).md
   type: webpage
@@ -2056,6 +3295,13 @@ files:
   size: 2488
   md5: 8f20f6b85a27b89e0a63498b35fd8999
   page: news_香港变性模特跳楼殉情当着男友面从38楼跳下.md
+- name: news_香港团体关注跨性别者吁特区政府发相关证明文件_-_新浪新闻
+  filename: news_香港团体关注跨性别者吁特区政府发相关证明文件_-_新浪新闻.md
+  type: webpage
+  format: Markdown
+  size: 3572
+  md5: 84699e9d774c7ebdb18d727bfa1d4c90
+  page: news_香港团体关注跨性别者吁特区政府发相关证明文件_-_新浪新闻.md
 - name: news_香港将提供变性手术一条龙服务(图)
   filename: news_香港将提供变性手术一条龙服务(图).md
   type: webpage
@@ -2081,7 +3327,182 @@ files:
   filename: page.yml
   type: other
   format: Unknown Format
-  size: 152185
-  md5: 7313fb9a4d3318922d31b9da599baa6b
+  size: 265964
+  md5: d509f8edf3563f3c8681696ab71f2680
   page: null
+- name: sinanews_一觉醒来变性了怎么办？这些大学生也太敢想了_-_新浪
+  filename: sinanews_一觉醒来变性了怎么办？这些大学生也太敢想了_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 8472
+  md5: 4a5cd30898cf99af6b00167924811983
+  page: sinanews_一觉醒来变性了怎么办？这些大学生也太敢想了_-_新浪.md
+- name: sinanews_前男友居然去做了变性手术_-_新浪
+  filename: sinanews_前男友居然去做了变性手术_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 3699
+  md5: 4c6724a5835210af7e885a6390f64d79
+  page: sinanews_前男友居然去做了变性手术_-_新浪.md
+- name: slide_变性之后_新浪图片
+  filename: slide_变性之后_新浪图片.md
+  type: webpage
+  format: Markdown
+  size: 9029
+  md5: fb29c19f90686c3446fc0a20a5490b90
+  page: slide_变性之后_新浪图片.md
+- name: t_泰国变性女疯狂整容,_从丑女变美女,_还嫁给小自己11岁的帅哥
+  filename: t_泰国变性女疯狂整容,_从丑女变美女,_还嫁给小自己11岁的帅哥.md
+  type: webpage
+  format: Markdown
+  size: 2004
+  md5: fd104b48ff4313e9054e32465af2f931
+  page: t_泰国变性女疯狂整容,_从丑女变美女,_还嫁给小自己11岁的帅哥.md
+- name: tech_变性手术之父何清濂：变性患者不等于同性恋_-_科技-_新浪
+  filename: tech_变性手术之父何清濂：变性患者不等于同性恋_-_科技-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 2763
+  md5: 11b6d097e379d606b3676a4a71719131
+  page: tech_变性手术之父何清濂：变性患者不等于同性恋_-_科技-_新浪.md
+- name: tech_变性手术是如何进行的？动画揭示整个手术过程_-_科技-_新浪
+  filename: tech_变性手术是如何进行的？动画揭示整个手术过程_-_科技-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 6251
+  md5: 6008355a5c8e8ba3367fa5dd7c5491f3
+  page: tech_变性手术是如何进行的？动画揭示整个手术过程_-_科技-_新浪.md
+- name: tech_性别流动者：这样的双重身份是时候放下了_-_科技-_新浪
+  filename: tech_性别流动者：这样的双重身份是时候放下了_-_科技-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 19720
+  md5: 2fc2106ac21d57d8831bcf621ce288bd
+  page: tech_性别流动者：这样的双重身份是时候放下了_-_科技-_新浪.md
+- name: tech_第一位跨性别女性登上女性文学奖长名单，评审团哀叹年长作家的缺席
+  filename: tech_第一位跨性别女性登上女性文学奖长名单，评审团哀叹年长作家的缺席.md
+  type: webpage
+  format: Markdown
+  size: 7026
+  md5: 3abba64a7548f82ffcdef1af631ee93d
+  page: tech_第一位跨性别女性登上女性文学奖长名单，评审团哀叹年长作家的缺席.md
+- name: tech_跨性别者的大脑，有什么不一样的吗？_-_科技-_新浪
+  filename: tech_跨性别者的大脑，有什么不一样的吗？_-_科技-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 15370
+  md5: 3cf1206d9f7d7fd191abe554ab8a0f41
+  page: tech_跨性别者的大脑，有什么不一样的吗？_-_科技-_新浪.md
+- name: travel_泰国人妖鲜艳人生，晚年生活却惨淡无光_-_新浪旅游
+  filename: travel_泰国人妖鲜艳人生，晚年生活却惨淡无光_-_新浪旅游.md
+  type: webpage
+  format: Markdown
+  size: 9009
+  md5: e37381d914e4936df28b6319a6d353b7
+  page: travel_泰国人妖鲜艳人生，晚年生活却惨淡无光_-_新浪旅游.md
+- name: v_泰国人妖变性手术全过程，3D动画视频出炉！好痛
+  filename: v_泰国人妖变性手术全过程，3D动画视频出炉！好痛.md
+  type: webpage
+  format: Markdown
+  size: 8378
+  md5: 364d998ba1694816c36adfeb4fd41dc2
+  page: v_泰国人妖变性手术全过程，3D动画视频出炉！好痛.md
+- name: v_泰国人妖变性手术全过程，3D动画视频出炉！涨姿势了～#搞笑
+  filename: v_泰国人妖变性手术全过程，3D动画视频出炉！涨姿势了～#搞笑.md
+  type: webpage
+  format: Markdown
+  size: 8457
+  md5: e1c4d4671cba8f3471888057277e37a8
+  page: v_泰国人妖变性手术全过程，3D动画视频出炉！涨姿势了～#搞笑.md
+- name: v_男子被大哥送去泰国变性整容，变女星出道火遍全国_-_新浪视频
+  filename: v_男子被大哥送去泰国变性整容，变女星出道火遍全国_-_新浪视频.md
+  type: webpage
+  format: Markdown
+  size: 8433
+  md5: 026134fa43bd0cd8a20b3fac2c8993da
+  page: v_男子被大哥送去泰国变性整容，变女星出道火遍全国_-_新浪视频.md
+- name: video_变性手术是如何进行的？最新动画揭示整个变性手术过程
+  filename: video_变性手术是如何进行的？最新动画揭示整个变性手术过程.md
+  type: webpage
+  format: Markdown
+  size: 8852
+  md5: 42b4e3b56bcd908a9e9bc87ad9ad6cc4
+  page: video_变性手术是如何进行的？最新动画揭示整个变性手术过程.md
+- name: video_女子从小被诊断为真两性畸形：渴望回归正常生活_-_新浪视频
+  filename: video_女子从小被诊断为真两性畸形：渴望回归正常生活_-_新浪视频.md
+  type: webpage
+  format: Markdown
+  size: 733
+  md5: 16240877ece322b5bd1f75b8266866e7
+  page: video_女子从小被诊断为真两性畸形：渴望回归正常生活_-_新浪视频.md
+- name: video_美国变性网红袭警被捕后哀求法官：不要把我关进男子监狱！_-_新浪视频
+  filename: video_美国变性网红袭警被捕后哀求法官：不要把我关进男子监狱！_-_新浪视频.md
+  type: webpage
+  format: Markdown
+  size: 8462
+  md5: d4e20cec7a7d6d0350ed6b22b17309e0
+  page: video_美国变性网红袭警被捕后哀求法官：不要把我关进男子监狱！_-_新浪视频.md
+- name: video_被公司辞退的跨性别者：打官司只为“摘标签”_-_新浪视频
+  filename: video_被公司辞退的跨性别者：打官司只为“摘标签”_-_新浪视频.md
+  type: webpage
+  format: Markdown
+  size: 8491
+  md5: b89abdc24699890a654a95e8de76b32b
+  page: video_被公司辞退的跨性别者：打官司只为“摘标签”_-_新浪视频.md
+- name: video_跨性别问题再引奥运争议，意大利女拳手被打哭_-_新浪视频
+  filename: video_跨性别问题再引奥运争议，意大利女拳手被打哭_-_新浪视频.md
+  type: webpage
+  format: Markdown
+  size: 936
+  md5: 3f0a5386a8224928bda3c8cbc2322979
+  page: video_跨性别问题再引奥运争议，意大利女拳手被打哭_-_新浪视频.md
+- name: video_马斯克谈儿子“变性”事件：在不知情的情况下被骗签署文件_-_新浪视频
+  filename: video_马斯克谈儿子“变性”事件：在不知情的情况下被骗签署文件_-_新浪视频.md
+  type: webpage
+  format: Markdown
+  size: 1084
+  md5: 86d3d1971c766e1b55eed8c90c4f834f
+  page: video_马斯克谈儿子“变性”事件：在不知情的情况下被骗签署文件_-_新浪视频.md
+- name: www_中国男生娶泰国变性人妖，曾获得泰国选美冠军_-_Facebook
+  filename: www_中国男生娶泰国变性人妖，曾获得泰国选美冠军_-_Facebook.md
+  type: webpage
+  format: Markdown
+  size: 1613
+  md5: 376c70e2e34d9a422096963ea5b302dc
+  page: www_中国男生娶泰国变性人妖，曾获得泰国选美冠军_-_Facebook.md
+- name: www_舆论压力下新浪不再清除微博同性恋内容_-_美国之音
+  filename: www_舆论压力下新浪不再清除微博同性恋内容_-_美国之音.md
+  type: webpage
+  format: Markdown
+  size: 2535
+  md5: af2b4eee1403d848eb7df1229a22fc5e
+  page: www_舆论压力下新浪不再清除微博同性恋内容_-_美国之音.md
+- name: zx_不归路上的药娘：想变成女生吃药后果不可逆
+  filename: zx_不归路上的药娘：想变成女生吃药后果不可逆.md
+  type: webpage
+  format: Markdown
+  size: 14734
+  md5: 63dcddd56d48347f6c35fa5df2404226
+  page: zx_不归路上的药娘：想变成女生吃药后果不可逆.md
+- name: zx_不被理解的跨性别医生：被家长投诉带坏孩子_-_新浪
+  filename: zx_不被理解的跨性别医生：被家长投诉带坏孩子_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 20431
+  md5: 3a4f37bcd5651f7928458fc75aafd111
+  page: zx_不被理解的跨性别医生：被家长投诉带坏孩子_-_新浪.md
+- name: zx_社会边缘的药娘：靠吃药改变性别，为做手术
+  filename: zx_社会边缘的药娘：靠吃药改变性别，为做手术.md
+  type: webpage
+  format: Markdown
+  size: 16464
+  md5: d1a4e3cf5faf7e8523483cd5d95d1898
+  page: zx_社会边缘的药娘：靠吃药改变性别，为做手术.md
+- name: zx_调查：社会夹缝与边缘的“药娘”群体_-_新浪
+  filename: zx_调查：社会夹缝与边缘的“药娘”群体_-_新浪.md
+  type: webpage
+  format: Markdown
+  size: 15650
+  md5: 4410cf95ecef5931b8230bdcaca97a98
+  page: zx_调查：社会夹缝与边缘的“药娘”群体_-_新浪.md
 subdirs: []

@@ -48,10 +48,13 @@
 > | Filename        | m_美国俄州法案引不满，家长拒绝女儿上体育课：会被检查生殖器.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18447891](https://m.thepaper.cn/newsDetail_forward_18447891)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3594 bytes                           |
+> | MD5             | bf0ab77062d3f15e8565a2832ffe6983                                  |
 > | Archived Date   | 2024-11-03 09:11:37                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18447891](https://m.thepaper.cn/newsDetail_forward_18447891)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

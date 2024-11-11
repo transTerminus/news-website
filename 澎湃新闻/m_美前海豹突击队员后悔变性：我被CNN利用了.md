@@ -52,10 +52,13 @@
 > | Filename        | m_美前海豹突击队员后悔变性：我被CNN利用了.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_21147306](https://m.thepaper.cn/newsDetail_forward_21147306)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6009 bytes                           |
+> | MD5             | bf1311721c1d68ee9f2ef5c9f6106298                                  |
 > | Archived Date   | 2024-11-03 09:18:27                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_21147306](https://m.thepaper.cn/newsDetail_forward_21147306)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

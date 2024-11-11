@@ -18,10 +18,13 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > | Filename        | news_郑州男子泰国变性改身份证性别受阻，警方回应.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7vX52bsGnLP](https://news.ifeng.com/c/7vX52bsGnLP)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 788 bytes                           |
+> | MD5             | f88e3f676b50aaf88239a0eda62fc7e5                                  |
 > | Archived Date   | 2024-11-02 08:07:37                             |
+> | Original Link   | [https://news.ifeng.com/c/7vX52bsGnLP](https://news.ifeng.com/c/7vX52bsGnLP)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

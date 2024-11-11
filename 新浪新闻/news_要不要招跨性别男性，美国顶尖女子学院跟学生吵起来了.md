@@ -61,10 +61,13 @@
 > | Filename        | news_要不要招跨性别男性，美国顶尖女子学院跟学生吵起来了.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2023-03-15/detail-imykxpqx8094719.d.html](https://news.sina.cn/2023-03-15/detail-imykxpqx8094719.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6654 bytes                           |
+> | MD5             | 4df93609e138ce9d09ffb206da516d91                                  |
 > | Archived Date   | 2024-11-02 03:48:48                             |
+> | Original Link   | [https://news.sina.cn/2023-03-15/detail-imykxpqx8094719.d.html](https://news.sina.cn/2023-03-15/detail-imykxpqx8094719.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

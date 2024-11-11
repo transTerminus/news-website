@@ -49,10 +49,13 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 > | Filename        | news_唯罗纳整就变性人生_手机新浪网.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2012-09-14/detail-ikmyaawa4224599.d.html](https://news.sina.cn/sa/2012-09-14/detail-ikmyaawa4224599.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2285 bytes                           |
+> | MD5             | ab27cb8c78299c55284bd128977b26db                                  |
 > | Archived Date   | 2024-11-02 06:29:27                             |
+> | Original Link   | [https://news.sina.cn/sa/2012-09-14/detail-ikmyaawa4224599.d.html](https://news.sina.cn/sa/2012-09-14/detail-ikmyaawa4224599.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

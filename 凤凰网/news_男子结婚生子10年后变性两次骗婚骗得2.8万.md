@@ -34,10 +34,13 @@
 > | Filename        | news_男子结婚生子10年后变性两次骗婚骗得2.8万.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7fZA8nYMbeo](https://news.ifeng.com/c/7fZA8nYMbeo)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3628 bytes                           |
+> | MD5             | 3d61e34da9bc0dcebe126df4e08bc358                                  |
 > | Archived Date   | 2024-11-02 07:55:09                             |
+> | Original Link   | [https://news.ifeng.com/c/7fZA8nYMbeo](https://news.ifeng.com/c/7fZA8nYMbeo)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

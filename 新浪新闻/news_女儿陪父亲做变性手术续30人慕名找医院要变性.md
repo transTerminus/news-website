@@ -51,10 +51,13 @@
 > | Filename        | news_女儿陪父亲做变性手术续30人慕名找医院要变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-11-29/detail-ikftssap2789268.d.html](https://news.sina.cn/sa/2006-11-29/detail-ikftssap2789268.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5483 bytes                           |
+> | MD5             | ddfa04a3ac57025453d0ba75d0cb7d2d                                  |
 > | Archived Date   | 2024-11-02 05:41:36                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-11-29/detail-ikftssap2789268.d.html](https://news.sina.cn/sa/2006-11-29/detail-ikftssap2789268.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

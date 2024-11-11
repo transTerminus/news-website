@@ -25,10 +25,13 @@
 > | Filename        | news_变性人“曼音”深圳圆梦“脱”去男儿身成真女人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20140508/40212392_4.shtml](https://news.ifeng.com/a/20140508/40212392_4.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2885 bytes                           |
+> | MD5             | 8833031ce265988b1dca5248cef44428                                  |
 > | Archived Date   | 2024-11-02 06:51:50                             |
+> | Original Link   | [https://news.ifeng.com/a/20140508/40212392_4.shtml](https://news.ifeng.com/a/20140508/40212392_4.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

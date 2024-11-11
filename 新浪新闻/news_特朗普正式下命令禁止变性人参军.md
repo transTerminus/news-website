@@ -29,10 +29,13 @@
 > | Filename        | news_特朗普正式下命令禁止变性人参军.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/global/szzx/doc-ifykiqfe1716959.d.html?wm=3049_0015](https://news.sina.cn/global/szzx/doc-ifykiqfe1716959.d.html?wm=3049_0015)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1163 bytes                           |
+> | MD5             | f59b4dfe7022e160490dc6e36df00157                                  |
 > | Archived Date   | 2024-11-02 04:05:52                             |
+> | Original Link   | [https://news.sina.cn/global/szzx/doc-ifykiqfe1716959.d.html?wm=3049_0015](https://news.sina.cn/global/szzx/doc-ifykiqfe1716959.d.html?wm=3049_0015)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

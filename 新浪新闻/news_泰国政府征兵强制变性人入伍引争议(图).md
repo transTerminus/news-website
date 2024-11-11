@@ -49,10 +49,13 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 > | Filename        | news_泰国政府征兵强制变性人入伍引争议(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2017-04-07/detail-ifyecfnu7557628.d.html](https://news.sina.cn/2017-04-07/detail-ifyecfnu7557628.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2170 bytes                           |
+> | MD5             | 1512ae9f52114824a3058e2702ad498e                                  |
 > | Archived Date   | 2024-11-02 03:37:12                             |
+> | Original Link   | [https://news.sina.cn/2017-04-07/detail-ifyecfnu7557628.d.html](https://news.sina.cn/2017-04-07/detail-ifyecfnu7557628.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -31,10 +31,13 @@
 > | Filename        | news_德国一女变男变性人成欧洲首个怀孕生子男人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20141112/42451491_0.shtml](https://news.ifeng.com/a/20141112/42451491_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2345 bytes                           |
+> | MD5             | 582730ceb4e475a9121a4da3e79c0df3                                  |
 > | Archived Date   | 2024-11-02 07:14:39                             |
+> | Original Link   | [https://news.ifeng.com/a/20141112/42451491_0.shtml](https://news.ifeng.com/a/20141112/42451491_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -92,10 +92,13 @@
 > | Filename        | news_变性女商人年薪过2亿孩子仍叫她爸爸（图）.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2014-09-10/detail-ianfzhnh2918074.d.html?from=wap](https://news.sina.cn/gj/2014-09-10/detail-ianfzhnh2918074.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6507 bytes                           |
+> | MD5             | 0456ea1eb84a0d66d9f0405ae70c05a7                                  |
 > | Archived Date   | 2024-11-02 03:49:59                             |
+> | Original Link   | [https://news.sina.cn/gj/2014-09-10/detail-ianfzhnh2918074.d.html?from=wap](https://news.sina.cn/gj/2014-09-10/detail-ianfzhnh2918074.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

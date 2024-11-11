@@ -36,10 +36,13 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 > | Filename        | news_泰国新法18岁后才可变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2009-09-14/detail-ikmxzfmi9279825.d.html](https://news.sina.cn/sa/2009-09-14/detail-ikmxzfmi9279825.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1395 bytes                           |
+> | MD5             | 0470f0cd0fbb63a54b117001d89103bc                                  |
 > | Archived Date   | 2024-11-02 06:08:48                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-09-14/detail-ikmxzfmi9279825.d.html](https://news.sina.cn/sa/2009-09-14/detail-ikmxzfmi9279825.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

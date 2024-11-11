@@ -115,10 +115,13 @@
 > | Filename        | m_冲击女子职业体育的跨性别大军要来了吗？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14527332?from=](https://m.thepaper.cn/newsDetail_forward_14527332?from=)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10858 bytes                           |
+> | MD5             | 4d8e5acf2426bc629b4ab7b675ab89b1                                  |
 > | Archived Date   | 2024-11-03 09:02:26                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14527332?from=](https://m.thepaper.cn/newsDetail_forward_14527332?from=)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

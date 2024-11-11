@@ -23,10 +23,13 @@
 > | Filename        | m_瑞士从明年起允许自行登记更改性别，无需激素治疗或医疗诊断.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16023379](https://m.thepaper.cn/newsDetail_forward_16023379)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1387 bytes                           |
+> | MD5             | 1e438f14910df58e0bdd0c33338b0749                                  |
 > | Archived Date   | 2024-11-03 09:06:26                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16023379](https://m.thepaper.cn/newsDetail_forward_16023379)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

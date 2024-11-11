@@ -25,10 +25,13 @@
 > | Filename        | news_河南首例变性手术成功惹人关注.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap](https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1438 bytes                           |
+> | MD5             | 2314d45c84f679b1741dbd9de43232bc                                  |
 > | Archived Date   | 2024-11-02 04:10:04                             |
+> | Original Link   | [https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap](https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

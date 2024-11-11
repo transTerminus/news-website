@@ -87,10 +87,13 @@
 > | Filename        | news_南京周末：准变性人高婷婷的尴尬独角戏(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-11-24/detail-ikkntiam1753039.d.html](https://news.sina.cn/sa/2004-11-24/detail-ikkntiam1753039.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 13212 bytes                           |
+> | MD5             | d444da9349814909a54f13c577e5c424                                  |
 > | Archived Date   | 2024-11-02 04:51:00                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-11-24/detail-ikkntiam1753039.d.html](https://news.sina.cn/sa/2004-11-24/detail-ikkntiam1753039.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -147,10 +147,13 @@
 > | Filename        | news_准变性人自述：我在歧视中做女人梦.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-04-09/detail-ikkntiam6831844.d.html](https://news.sina.cn/sa/2006-04-09/detail-ikkntiam6831844.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12803 bytes                           |
+> | MD5             | 7ef98acbc7295e404caf2dd7d85773d7                                  |
 > | Archived Date   | 2024-11-02 05:22:40                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-04-09/detail-ikkntiam6831844.d.html](https://news.sina.cn/sa/2006-04-09/detail-ikkntiam6831844.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

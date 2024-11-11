@@ -64,10 +64,13 @@
 > | Filename        | news_专家解析女变男阴茎再造能生育无性感觉(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html](https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6274 bytes                           |
+> | MD5             | f0945c6e59cf73f451c16448ebf5a8d4                                  |
 > | Archived Date   | 2024-11-02 05:33:18                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html](https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

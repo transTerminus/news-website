@@ -61,10 +61,13 @@
 > | Filename        | news_18岁少年宾馆做变性手术“医生”看视频学的技术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html](http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3682 bytes                           |
+> | MD5             | 337332b09985dfba0afc9e43e2a0521d                                  |
 > | Archived Date   | 2024-11-02 03:30:18                             |
+> | Original Link   | [http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html](http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

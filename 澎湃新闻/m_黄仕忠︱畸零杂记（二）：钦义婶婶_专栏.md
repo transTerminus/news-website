@@ -203,10 +203,13 @@
 > | Filename        | m_黄仕忠︱畸零杂记（二）：钦义婶婶_专栏.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=26390266&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=26390266&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 22145 bytes                           |
+> | MD5             | fe11469536c9d2a7fdee935c59462cb5                                  |
 > | Archived Date   | 2024-11-03 08:36:01                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=26390266&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=26390266&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

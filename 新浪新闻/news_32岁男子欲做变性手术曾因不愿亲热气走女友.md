@@ -68,10 +68,13 @@
 > | Filename        | news_32岁男子欲做变性手术曾因不愿亲热气走女友.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-04-25/detail-ikknscsi6493449.d.html](https://news.sina.cn/sa/2005-04-25/detail-ikknscsi6493449.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4257 bytes                           |
+> | MD5             | d28fd1549b624465aaaa20cecd17fa2b                                  |
 > | Archived Date   | 2024-11-02 04:59:48                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-04-25/detail-ikknscsi6493449.d.html](https://news.sina.cn/sa/2005-04-25/detail-ikknscsi6493449.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

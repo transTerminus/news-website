@@ -23,10 +23,13 @@
 > | Filename        | news_亚美尼亚首位变性人为少数群体发声保守派：烧死她.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7mEw4vOFx4q](https://news.ifeng.com/c/7mEw4vOFx4q)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1131 bytes                           |
+> | MD5             | abdb9d9049c4bf97e92c6fd16608e940                                  |
 > | Archived Date   | 2024-11-02 08:02:04                             |
+> | Original Link   | [https://news.ifeng.com/c/7mEw4vOFx4q](https://news.ifeng.com/c/7mEw4vOFx4q)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

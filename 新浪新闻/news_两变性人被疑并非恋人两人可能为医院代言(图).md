@@ -76,10 +76,13 @@
 > | Filename        | news_两变性人被疑并非恋人两人可能为医院代言(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-28/detail-ikftssap2652020.d.html](https://news.sina.cn/sa/2006-06-28/detail-ikftssap2652020.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6636 bytes                           |
+> | MD5             | 38d21b5b7b5f1ec34280f1d022f30342                                  |
 > | Archived Date   | 2024-11-02 05:32:05                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-28/detail-ikftssap2652020.d.html](https://news.sina.cn/sa/2006-06-28/detail-ikftssap2652020.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

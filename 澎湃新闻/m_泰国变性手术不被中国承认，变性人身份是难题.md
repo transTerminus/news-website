@@ -51,10 +51,13 @@
 > | Filename        | m_泰国变性手术不被中国承认，变性人身份是难题.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1357343](https://m.thepaper.cn/newsDetail_forward_1357343)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9774 bytes                           |
+> | MD5             | 9f6f40e22b486c1f30e450974f089298                                  |
 > | Archived Date   | 2024-11-03 08:51:23                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1357343](https://m.thepaper.cn/newsDetail_forward_1357343)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

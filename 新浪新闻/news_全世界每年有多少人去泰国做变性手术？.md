@@ -153,10 +153,13 @@ Nathee Teerarojanapong这样解释。
 > | Filename        | news_全世界每年有多少人去泰国做变性手术？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html](http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10931 bytes                           |
+> | MD5             | dc6c187a60121e0be51c9c9c00a16f8b                                  |
 > | Archived Date   | 2024-11-02 03:28:26                             |
+> | Original Link   | [http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html](http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

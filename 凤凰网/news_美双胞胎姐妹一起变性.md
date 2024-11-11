@@ -16,10 +16,13 @@
 > | Filename        | news_美双胞胎姐妹一起变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7hGrX6LMry4](https://news.ifeng.com/c/7hGrX6LMry4)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 640 bytes                           |
+> | MD5             | 92c2989c4c367ee602d508a1278fe462                                  |
 > | Archived Date   | 2024-11-02 08:00:14                             |
+> | Original Link   | [https://news.ifeng.com/c/7hGrX6LMry4](https://news.ifeng.com/c/7hGrX6LMry4)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

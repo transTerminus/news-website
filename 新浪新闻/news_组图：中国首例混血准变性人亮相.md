@@ -31,10 +31,13 @@
 > | Filename        | news_组图：中国首例混血准变性人亮相.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-17/detail-ikftssap2702762.d.html](https://news.sina.cn/sa/2006-08-17/detail-ikftssap2702762.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1045 bytes                           |
+> | MD5             | 30cefee6a6dbdb5f23ce9481661a8cc8                                  |
 > | Archived Date   | 2024-11-02 05:36:51                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-08-17/detail-ikftssap2702762.d.html](https://news.sina.cn/sa/2006-08-17/detail-ikftssap2702762.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

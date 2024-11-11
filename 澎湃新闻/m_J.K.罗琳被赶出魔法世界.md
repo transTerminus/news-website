@@ -103,10 +103,13 @@
 > | Filename        | m_J.K.罗琳被赶出魔法世界.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/baijiahao_15535643](https://m.thepaper.cn/baijiahao_15535643)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9648 bytes                           |
+> | MD5             | e8efad3a2f1bdd84ba2a793629bdd2c1                                  |
 > | Archived Date   | 2024-11-03 08:27:21                             |
+> | Original Link   | [https://m.thepaper.cn/baijiahao_15535643](https://m.thepaper.cn/baijiahao_15535643)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

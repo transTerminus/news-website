@@ -26,10 +26,13 @@
 > | Filename        | news_变性舞蹈家金星与外籍前夫同现身恩爱依旧.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20140814/41577630_3.shtml](https://news.ifeng.com/a/20140814/41577630_3.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1476 bytes                           |
+> | MD5             | 517075241869a5c795b554c1e731671b                                  |
 > | Archived Date   | 2024-11-02 07:01:50                             |
+> | Original Link   | [https://news.ifeng.com/a/20140814/41577630_3.shtml](https://news.ifeng.com/a/20140814/41577630_3.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

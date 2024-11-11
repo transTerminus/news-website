@@ -31,10 +31,13 @@
 > | Filename        | news_42岁“最美变性人”河莉秀与丈夫离婚_资讯频道.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20170613/51237054_0.shtml](https://news.ifeng.com/a/20170613/51237054_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 756 bytes                           |
+> | MD5             | 105ab6406f30a0772eba60930a143665                                  |
 > | Archived Date   | 2024-11-02 07:49:56                             |
+> | Original Link   | [https://news.ifeng.com/a/20170613/51237054_0.shtml](https://news.ifeng.com/a/20170613/51237054_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

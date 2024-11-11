@@ -69,10 +69,13 @@
 > | Filename        | news_白宫聘用首位变性人员工主管人事部门.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html](http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3273 bytes                           |
+> | MD5             | f67acfa39ef50a5eaf526612837f7975                                  |
 > | Archived Date   | 2024-11-02 03:25:15                             |
+> | Original Link   | [http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html](http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

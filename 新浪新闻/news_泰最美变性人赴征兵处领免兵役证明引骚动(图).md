@@ -60,10 +60,13 @@
 > | Filename        | news_泰最美变性人赴征兵处领免兵役证明引骚动(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/gj/2017-04-06/detail-ifyeayzu6908704.d.html?from=wap](http://news.sina.cn/gj/2017-04-06/detail-ifyeayzu6908704.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2948 bytes                           |
+> | MD5             | 71520ce11e0bcf83b56085a77eec4068                                  |
 > | Archived Date   | 2024-11-02 03:27:11                             |
+> | Original Link   | [http://news.sina.cn/gj/2017-04-06/detail-ifyeayzu6908704.d.html?from=wap](http://news.sina.cn/gj/2017-04-06/detail-ifyeayzu6908704.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

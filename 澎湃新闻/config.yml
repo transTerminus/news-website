@@ -1,18 +1,32 @@
 name: 澎湃新闻
-description: 该目录收录了与跨性别相关的新闻文章和评论，内容涵盖跨性别者的生活故事、过渡经历、法律政策、社会环境及健康医疗等多个方面，反映了跨性别者在现代社会中面临的挑战和问题。
+description: 澎湃新闻目录收录了多个与跨性别相关的新闻文章，涵盖了医疗和心理健康、法律政策、社会环境等方面的内容，体现了跨性别者在生活中所面临的各种挑战与经历。
 curator: ''
 source: ''
 tags:
-- 跨性别
 - 生命故事
+- 医疗经验
 - 法律政策
 - 社会环境
-- 医疗资源
-- 真实记录
-- 网络媒体
 - 性别认同
+- 跨性别经历
+- 职场歧视
+- 变性手术
 license: ''
 files:
+- name: m_13岁男孩乳房发育，竟是吃了这些药_-_澎湃新闻
+  filename: m_13岁男孩乳房发育，竟是吃了这些药_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 5103
+  md5: 9f62f54a3d431df93f1c76d05981bcea
+  page: m_13岁男孩乳房发育，竟是吃了这些药_-_澎湃新闻.md
+- name: m_18岁男生找网友做变性手术，主刀“医生”技术是看视频学的
+  filename: m_18岁男生找网友做变性手术，主刀“医生”技术是看视频学的.md
+  type: webpage
+  format: Markdown
+  size: 4698
+  md5: 6ccdcc33b589e9443f843207de8784fe
+  page: m_18岁男生找网友做变性手术，主刀“医生”技术是看视频学的.md
 - name: m_2016-05-11发表文章评论
   filename: m_2016-05-11发表文章评论.md
   type: webpage
@@ -27,6 +41,13 @@ files:
   size: 2889
   md5: d92cd81041af70225848fe7bd7ef20c1
   page: m_22岁“医生”学网络视频给小伙做变性手术，一审被判3年半.md
+- name: m_22岁“医生”学网络视频给小伙做变性手术，一审被判3年半_-_澎湃新闻
+  filename: m_22岁“医生”学网络视频给小伙做变性手术，一审被判3年半_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 2937
+  md5: f5b3899f7a853a8c97e51fe6ac00e773
+  page: m_22岁“医生”学网络视频给小伙做变性手术，一审被判3年半_-_澎湃新闻.md
 - name: m_38岁爸爸突然想做女人？他们的生活该何去何从？
   filename: m_38岁爸爸突然想做女人？他们的生活该何去何从？.md
   type: webpage
@@ -104,6 +125,13 @@ files:
   size: 3990
   md5: 46f192d90f65818ba720c2c17b55eeed
   page: m_PUP冷芝士_拜占庭秘史中的性少数.md
+- name: m_“公鼠怀孕”论文停止撤稿，相关研究人士解析实验意义_-_澎湃新闻
+  filename: m_“公鼠怀孕”论文停止撤稿，相关研究人士解析实验意义_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 5364
+  md5: 01ba225116d2f80d491616056f6bde99
+  page: m_“公鼠怀孕”论文停止撤稿，相关研究人士解析实验意义_-_澎湃新闻.md
 - name: m_“我，23岁，吃药改变性别”
   filename: m_“我，23岁，吃药改变性别”.md
   type: webpage
@@ -125,6 +153,13 @@ files:
   size: 27232
   md5: b2359c5b5454e6f2f51fd9692cd1b45d
   page: m_《卡斯评估》：对性别焦虑治疗的挑战和对科学行动主义的反击.md
+- name: m_《女子的生活》：神户女装大佬图鉴_-_澎湃新闻
+  filename: m_《女子的生活》：神户女装大佬图鉴_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 6315
+  md5: 310aacbc13499f7b7b3a87964fce90e3
+  page: m_《女子的生活》：神户女装大佬图鉴_-_澎湃新闻.md
 - name: m_《性别是条毛毛虫》作者：我们还处于跨性别社群的草创期
   filename: m_《性别是条毛毛虫》作者：我们还处于跨性别社群的草创期.md
   type: webpage
@@ -174,6 +209,20 @@ files:
   size: 6251
   md5: b214f087bf120f66df1ea0313859c4db
   page: m_《蝴蝶》：看看欧洲TVB在放什么剧.md
+- name: m_《蝴蝶》：看看欧洲TVB在放什么剧_-_澎湃新闻
+  filename: m_《蝴蝶》：看看欧洲TVB在放什么剧_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 6183
+  md5: ac964df73325164b281327c87bb269a3
+  page: m_《蝴蝶》：看看欧洲TVB在放什么剧_-_澎湃新闻.md
+- name: m_【老专家口述历史】何清濂：中国变性手术之父_-_澎湃新闻
+  filename: m_【老专家口述历史】何清濂：中国变性手术之父_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 2631
+  md5: bca46d29a740f8a130dcfd2a424ecdee
+  page: m_【老专家口述历史】何清濂：中国变性手术之父_-_澎湃新闻.md
 - name: m_一个跨性别女性犯罪时，应该被关在男子监狱还是女子监狱？
   filename: m_一个跨性别女性犯罪时，应该被关在男子监狱还是女子监狱？.md
   type: webpage
@@ -181,6 +230,13 @@ files:
   size: 7901
   md5: 86a6d4139adbf5716876ffe2e4292dec
   page: m_一个跨性别女性犯罪时，应该被关在男子监狱还是女子监狱？.md
+- name: m_一场变故，让她幸福的生活支离破碎_-_澎湃新闻
+  filename: m_一场变故，让她幸福的生活支离破碎_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 5127
+  md5: b383422efe23633b4b2c9b62175d14dc
+  page: m_一场变故，让她幸福的生活支离破碎_-_澎湃新闻.md
 - name: m_一年做3次变性手术：妻离子散，但我终于活得像个人了
   filename: m_一年做3次变性手术：妻离子散，但我终于活得像个人了.md
   type: webpage
@@ -209,6 +265,13 @@ files:
   size: 11130
   md5: 525eae197ab24388a220c85f85b6d4a8
   page: m_专访｜珍妮特·温特森：同性婚姻关系正变得跟异性婚姻一样.md
+- name: m_世界文学新动向｜小说在衰落？这次“杀死”它的是女性？_-_澎湃新闻
+  filename: m_世界文学新动向｜小说在衰落？这次“杀死”它的是女性？_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 23096
+  md5: 153952ac9779781a949da5f0140312c6
+  page: m_世界文学新动向｜小说在衰落？这次“杀死”它的是女性？_-_澎湃新闻.md
 - name: m_世界泳联：游泳赛事试行“开放组别”，允许跨性别运动员参赛
   filename: m_世界泳联：游泳赛事试行“开放组别”，允许跨性别运动员参赛.md
   type: webpage
@@ -230,6 +293,13 @@ files:
   size: 2366
   md5: 97b5c67c68611c44d9d90bf1b6b689d5
   page: m_两千名跨性别者被迫绝育，荷兰政府道歉并赔偿每人五千欧元.md
+- name: m_两性畸形_-_澎湃新闻
+  filename: m_两性畸形_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 985
+  md5: 4667f5afd8ea95913fa8b481c3f9344d
+  page: m_两性畸形_-_澎湃新闻.md
 - name: m_个人主页
   filename: m_个人主页.md
   type: webpage
@@ -258,6 +328,13 @@ files:
   size: 10600
   md5: 08979448fe6063a2265c3e328f0fee2c
   page: m_事实核查拜登行政令支持男女同厕和“男子”竞赛女子体育？.md
+- name: m_二十世纪最伟大的艺术家，分手只因一顿饭_-_澎湃新闻
+  filename: m_二十世纪最伟大的艺术家，分手只因一顿饭_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 5458
+  md5: 5714046881d75425c5eca427765538a7
+  page: m_二十世纪最伟大的艺术家，分手只因一顿饭_-_澎湃新闻.md
 - name: m_人物_J.K.罗琳的蜕变
   filename: m_人物_J.K.罗琳的蜕变.md
   type: webpage
@@ -272,6 +349,13 @@ files:
   size: 7889
   md5: 1b4fc64d476e5f57bcb0cf59e8e35637
   page: m_什么？学着做一个异装癖!？_-_澎湃新闻.md
+- name: m_你我他她它，没有谁应该被性别所定义_-_澎湃新闻
+  filename: m_你我他她它，没有谁应该被性别所定义_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 10738
+  md5: 364637f829b4fe4027a05dbbae4fa088
+  page: m_你我他她它，没有谁应该被性别所定义_-_澎湃新闻.md
 - name: m_俄杜马通过“回应布林肯”法案：任何宣扬LGBT的行为均属非法
   filename: m_俄杜马通过“回应布林肯”法案：任何宣扬LGBT的行为均属非法.md
   type: webpage
@@ -293,6 +377,13 @@ files:
   size: 16060
   md5: 749c607a0c2d7a375c683fb752ca2f72
   page: m_做了24年上千例变性手术医生的心与术：术前先好好聊一次.md
+- name: m_做了24年上千例变性手术医生的心与术：术前先好好聊一次_-_澎湃新闻
+  filename: m_做了24年上千例变性手术医生的心与术：术前先好好聊一次_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 15966
+  md5: eda88a75d3d9d2bfbfa9d843c3381f4f
+  page: m_做了24年上千例变性手术医生的心与术：术前先好好聊一次_-_澎湃新闻.md
 - name: m_儿子2岁被前妻变性，9岁或被化学阉割，美国父亲崩溃
   filename: m_儿子2岁被前妻变性，9岁或被化学阉割，美国父亲崩溃.md
   type: webpage
@@ -356,6 +447,13 @@ files:
   size: 10858
   md5: 4d8e5acf2426bc629b4ab7b675ab89b1
   page: m_冲击女子职业体育的跨性别大军要来了吗？.md
+- name: m_出海东南亚，谨防“没文化”的雷_-_澎湃新闻
+  filename: m_出海东南亚，谨防“没文化”的雷_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 8836
+  md5: 6e9199d0328181f10e92ca876d2e5904
+  page: m_出海东南亚，谨防“没文化”的雷_-_澎湃新闻.md
 - name: m_击败跨性别选手！李雯雯破奥运纪录夺金，中国举重7金收官
   filename: m_击败跨性别选手！李雯雯破奥运纪录夺金，中国举重7金收官.md
   type: webpage
@@ -377,6 +475,13 @@ files:
   size: 7391
   md5: ee761525fa1c067d7510098256884ea2
   page: m_加拿大球星奎因将成奥运史上首位跨性别奖牌获得者.md
+- name: m_半月谈讨论男女孩性别错位：教育人士称现象普遍，社会渐包容
+  filename: m_半月谈讨论男女孩性别错位：教育人士称现象普遍，社会渐包容.md
+  type: webpage
+  format: Markdown
+  size: 12093
+  md5: 03d746bdf6294615551d13c49bf74b45
+  page: m_半月谈讨论男女孩性别错位：教育人士称现象普遍，社会渐包容.md
 - name: m_华人极力反对的《平等法案》，为什么83%的美国人都支持？
   filename: m_华人极力反对的《平等法案》，为什么83%的美国人都支持？.md
   type: webpage
@@ -447,6 +552,13 @@ files:
   size: 8145
   md5: e233038efde571362b3006a827b50109
   page: m_变性手术后被辞退，当事人起诉公司期待社会接纳跨性别人士.md
+- name: m_变性正变得越来越低龄化和匆忙：改变性别之后，他们后悔了_-_澎湃新闻
+  filename: m_变性正变得越来越低龄化和匆忙：改变性别之后，他们后悔了_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 12587
+  md5: a9da2909868a4c6ae8cd8986b8910e50
+  page: m_变性正变得越来越低龄化和匆忙：改变性别之后，他们后悔了_-_澎湃新闻.md
 - name: m_变性选手参加女子举重，网友吵翻：等于作弊…你怎么看？
   filename: m_变性选手参加女子举重，网友吵翻：等于作弊…你怎么看？.md
   type: webpage
@@ -482,6 +594,13 @@ files:
   size: 1022
   md5: 4f14447aaf6bdef0e467dcd1bca693c5
   page: m_哈利夫夺金后回应性别争议：外界的攻击让成功有了特别的味道.md
+- name: m_嘲笑“娘炮”的人，其实一点都不“爷们儿”_-_澎湃新闻
+  filename: m_嘲笑“娘炮”的人，其实一点都不“爷们儿”_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 12523
+  md5: e1e334d4bf14d50c5f5d2356f6bb32ab
+  page: m_嘲笑“娘炮”的人，其实一点都不“爷们儿”_-_澎湃新闻.md
 - name: m_国产版《深夜食堂》掉到豆瓣2.3分：不遗余力地摧毁人心_-_澎湃新闻
   filename: m_国产版《深夜食堂》掉到豆瓣2.3分：不遗余力地摧毁人心_-_澎湃新闻.md
   type: webpage
@@ -503,6 +622,20 @@ files:
   size: 15058
   md5: 7e4f94a4ea083f866a596b523f976bd1
   page: m_在伊朗当同性恋：95%不敢“出柜”，变性手术可获政府贷款.md
+- name: m_在古代女扮男装真的不会被发现吗？_-_澎湃新闻
+  filename: m_在古代女扮男装真的不会被发现吗？_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 11687
+  md5: f02a09938c1cfc3c69a77f15edcbd79c
+  page: m_在古代女扮男装真的不会被发现吗？_-_澎湃新闻.md
+- name: m_塞巴斯蒂安·利夫施兹：一个孩子的跨性别认同_-_澎湃新闻
+  filename: m_塞巴斯蒂安·利夫施兹：一个孩子的跨性别认同_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 13930
+  md5: a374f73e9ff6c3d46fd170858593dfa9
+  page: m_塞巴斯蒂安·利夫施兹：一个孩子的跨性别认同_-_澎湃新闻.md
 - name: m_外围女
   filename: m_外围女.md
   type: webpage
@@ -524,6 +657,13 @@ files:
   size: 13048
   md5: afac34a4fc66fcd8641b6c1291427ddb
   page: m_外媒质疑中国选手男扮女，是在藐视80年的性别鉴定发展史.md
+- name: m_天生拥有双份生殖系统，他们背负的争议与痛苦远不止双倍_-_澎湃新闻
+  filename: m_天生拥有双份生殖系统，他们背负的争议与痛苦远不止双倍_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 13746
+  md5: 088dc1c26f63712c5886c9b33687e68f
+  page: m_天生拥有双份生殖系统，他们背负的争议与痛苦远不止双倍_-_澎湃新闻.md
 - name: m_奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？
   filename: m_奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？.md
   type: webpage
@@ -545,6 +685,27 @@ files:
   size: 3599
   md5: 7b7b77ce8e5eaf9583a5ea70f7f69652
   page: m_安徽一变性女酒店按摩自称遭强奸，律师：受害人性别难定义.md
+- name: m_安能辨我是雌雄：艺术中的性别扮演和身份认同_-_澎湃新闻
+  filename: m_安能辨我是雌雄：艺术中的性别扮演和身份认同_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 9342
+  md5: 8acd05895b1507fe5f9ed731529c7fea
+  page: m_安能辨我是雌雄：艺术中的性别扮演和身份认同_-_澎湃新闻.md
+- name: m_实习医生私自帮人做变性手术致对方丧失生育能力，被提起公诉
+  filename: m_实习医生私自帮人做变性手术致对方丧失生育能力，被提起公诉.md
+  type: webpage
+  format: Markdown
+  size: 1375
+  md5: f757e3fef4e22d579d118e866726f98a
+  page: m_实习医生私自帮人做变性手术致对方丧失生育能力，被提起公诉.md
+- name: m_对话德国“非二元性别”演员：也许我是个偶然的外星人_-_澎湃新闻
+  filename: m_对话德国“非二元性别”演员：也许我是个偶然的外星人_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 10305
+  md5: 1e8f1d27be9663c54368dfcda613c0d5
+  page: m_对话德国“非二元性别”演员：也许我是个偶然的外星人_-_澎湃新闻.md
 - name: m_对话药娘：原谅我成为不了讨喜的人
   filename: m_对话药娘：原谅我成为不了讨喜的人.md
   type: webpage
@@ -580,6 +741,13 @@ files:
   size: 7417
   md5: ce7035ee9b698bc6618c03080ea24df5
   page: m_年终大瓜，今天全球热搜第一：《哈利·波特》作者被读者“除籍”.md
+- name: m_异装癖_-_澎湃新闻
+  filename: m_异装癖_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 1254
+  md5: b5dfdb8e609a67354125aab3f3134fba
+  page: m_异装癖_-_澎湃新闻.md
 - name: m_异装：我与我周旋久，宁做我
   filename: m_异装：我与我周旋久，宁做我.md
   type: webpage
@@ -622,6 +790,34 @@ files:
   size: 12029
   md5: e6df4dc33410775db89cfc2796ce949b
   page: m_性别可以被强行更改吗？“世界上最成功变性人”之死.md
+- name: m_性别可以被强行更改吗？“世界上最成功变性人”之死_-_澎湃新闻
+  filename: m_性别可以被强行更改吗？“世界上最成功变性人”之死_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 12113
+  md5: c1565d692f6f5cb463e1bd6767711f25
+  page: m_性别可以被强行更改吗？“世界上最成功变性人”之死_-_澎湃新闻.md
+- name: m_性别是一种表演？读一读酷酷的朱迪斯·巴特勒_-_澎湃新闻
+  filename: m_性别是一种表演？读一读酷酷的朱迪斯·巴特勒_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 15790
+  md5: 894ae1cbdf45f62573e8bc25d56883fe
+  page: m_性别是一种表演？读一读酷酷的朱迪斯·巴特勒_-_澎湃新闻.md
+- name: m_性别流动者：这样的双重身份是时候放下了
+  filename: m_性别流动者：这样的双重身份是时候放下了.md
+  type: webpage
+  format: Markdown
+  size: 19647
+  md5: 07a199fbdb00cdc78acf6aa9e06d8c32
+  page: m_性别流动者：这样的双重身份是时候放下了.md
+- name: m_性别流动者：这样的双重身份是时候放下了_-_澎湃新闻
+  filename: m_性别流动者：这样的双重身份是时候放下了_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 20056
+  md5: 148aeb36e2bb6630a68d42c1d9b8c853
+  page: m_性别流动者：这样的双重身份是时候放下了_-_澎湃新闻.md
 - name: m_性别认同障碍
   filename: m_性别认同障碍.md
   type: webpage
@@ -650,6 +846,13 @@ files:
   size: 12463
   md5: a7c9447c165ee78dc0d73209d10211eb
   page: m_总有一小撮硬汉有个跨性别的梦.md
+- name: m_想当年｜《莲花争霸》：乱炖亦能出经典
+  filename: m_想当年｜《莲花争霸》：乱炖亦能出经典.md
+  type: webpage
+  format: Markdown
+  size: 7049
+  md5: 51479d34388499861aa1d828cc35e2ce
+  page: m_想当年｜《莲花争霸》：乱炖亦能出经典.md
 - name: m_我们也是雌雄同体吗？
   filename: m_我们也是雌雄同体吗？.md
   type: webpage
@@ -671,6 +874,13 @@ files:
   size: 12276
   md5: b2196e809cabeb8ac8df6dbf42859ad7
   page: m_我关注跨性别群体的心理，关于跨性别群体的生存状态，问我吧!.md
+- name: m_我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！_-_澎湃新闻
+  filename: m_我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 12356
+  md5: cf2def993c2458dec74201a9d3b84c6e
+  page: m_我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！_-_澎湃新闻.md
 - name: m_我生错了身体：一位想变性的老人和一位变性者的对谈
   filename: m_我生错了身体：一位想变性的老人和一位变性者的对谈.md
   type: webpage
@@ -678,6 +888,20 @@ files:
   size: 3237
   md5: 1f6e419cfac2248091c46e6f3c8eee61
   page: m_我生错了身体：一位想变性的老人和一位变性者的对谈.md
+- name: m_我鼓起勇气，翻开20年前的日记_-_澎湃新闻
+  filename: m_我鼓起勇气，翻开20年前的日记_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 24070
+  md5: d6cf136ff7ecf7146f1371ec48b6f0a6
+  page: m_我鼓起勇气，翻开20年前的日记_-_澎湃新闻.md
+- name: m_抖音女装大佬的流量密码
+  filename: m_抖音女装大佬的流量密码.md
+  type: webpage
+  format: Markdown
+  size: 8763
+  md5: 991e6970aace10becc103257905b86e8
+  page: m_抖音女装大佬的流量密码.md
 - name: m_拜登废除变性人服役禁令
   filename: m_拜登废除变性人服役禁令.md
   type: webpage
@@ -699,6 +923,13 @@ files:
   size: 1571
   md5: 4e60c73196614178f318f2d7d2d46b69
   page: m_拜登撤销特朗普禁令，允许变性者在美军服役.md
+- name: m_拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视
+  filename: m_拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视.md
+  type: webpage
+  format: Markdown
+  size: 1773
+  md5: 74412782ed88d193f5e3aea0ed9ce8d2
+  page: m_拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视.md
 - name: m_挣扎数十年，我要回归我本来的性别｜镜相
   filename: m_挣扎数十年，我要回归我本来的性别｜镜相.md
   type: webpage
@@ -727,6 +958,13 @@ files:
   size: 3324
   md5: b5d31b9d2b089ead774eb3353926961e
   page: m_教学生瞒着父母变性……记者卧底教师群后傻眼了.md
+- name: m_新加坡“男同”代孕养子获准，将开启同性恋平权讨论_-_澎湃新闻
+  filename: m_新加坡“男同”代孕养子获准，将开启同性恋平权讨论_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 2869
+  md5: 95e44ef54b0764b2b9b611158ddc6a50
+  page: m_新加坡“男同”代孕养子获准，将开启同性恋平权讨论_-_澎湃新闻.md
 - name: m_新西兰跨性别选手，淘汰出局
   filename: m_新西兰跨性别选手，淘汰出局.md
   type: webpage
@@ -748,6 +986,20 @@ files:
   size: 56021
   md5: 9cbd3126eccc4b949015a627599b2d46
   page: m_时差播客：酷儿、跨性别与情感理论.md
+- name: m_时差播客：酷儿、跨性别与情感理论_-_澎湃新闻
+  filename: m_时差播客：酷儿、跨性别与情感理论_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 55318
+  md5: 1a79d01494723bab487302491a65ff51
+  page: m_时差播客：酷儿、跨性别与情感理论_-_澎湃新闻.md
+- name: m_时隔近30年，变性作家自述再出版，性别认同观念已大大不同
+  filename: m_时隔近30年，变性作家自述再出版，性别认同观念已大大不同.md
+  type: webpage
+  format: Markdown
+  size: 13504
+  md5: 6e1ae9b94939c340fb73bcee61af0624
+  page: m_时隔近30年，变性作家自述再出版，性别认同观念已大大不同.md
 - name: m_明查｜华盛顿通过法案允许政府合法带走变性儿童误导
   filename: m_明查｜华盛顿通过法案允许政府合法带走变性儿童误导.md
   type: webpage
@@ -755,6 +1007,20 @@ files:
   size: 4563
   md5: 0aceccf384149066343f07b2425e1da2
   page: m_明查｜华盛顿通过法案允许政府合法带走变性儿童误导.md
+- name: m_是不是不刷社交媒体，就不会死于心碎？_-_澎湃新闻
+  filename: m_是不是不刷社交媒体，就不会死于心碎？_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 6911
+  md5: 57a0bee9e8f59328dff85e8247ca34b1
+  page: m_是不是不刷社交媒体，就不会死于心碎？_-_澎湃新闻.md
+- name: m_本周六，华西医院大型义诊！
+  filename: m_本周六，华西医院大型义诊！.md
+  type: webpage
+  format: Markdown
+  size: 3686
+  md5: d639ba6d56de8b3e5c8cbe6e3afde577
+  page: m_本周六，华西医院大型义诊！.md
 - name: m_本届威尼斯电影节焦点是跨性别？丨艺外
   filename: m_本届威尼斯电影节焦点是跨性别？丨艺外.md
   type: webpage
@@ -804,6 +1070,13 @@ files:
   size: 8694
   md5: 740bef4136c2f7747b113c6e72118f90
   page: m_核查拜登要求学校必须接受变性人参加女子运动会？部分虚假.md
+- name: m_法治课｜北京一新娘诉丈夫无男性器官，这桩婚姻能否认定无效
+  filename: m_法治课｜北京一新娘诉丈夫无男性器官，这桩婚姻能否认定无效.md
+  type: webpage
+  format: Markdown
+  size: 6502
+  md5: d9d2049be0b0e165df10fd4b69ed553c
+  page: m_法治课｜北京一新娘诉丈夫无男性器官，这桩婚姻能否认定无效.md
 - name: m_泰国变性手术不被中国承认，变性人身份是难题
   filename: m_泰国变性手术不被中国承认，变性人身份是难题.md
   type: webpage
@@ -846,6 +1119,13 @@ files:
   size: 4603
   md5: a685ac3f5a4178c26394d65881e639f1
   page: m_爱和包容，让这些LGBT青少年敢于走向人前.md
+- name: m_爱穿女装的男孩子，心里是怎么想的_-_澎湃新闻
+  filename: m_爱穿女装的男孩子，心里是怎么想的_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 18330
+  md5: 5d8ed88e34bc7edb30a5520b5fd9eee9
+  page: m_爱穿女装的男孩子，心里是怎么想的_-_澎湃新闻.md
 - name: m_特朗普取消奥巴马“跨性别厕所令”，要留给各州自己决定
   filename: m_特朗普取消奥巴马“跨性别厕所令”，要留给各州自己决定.md
   type: webpage
@@ -860,6 +1140,13 @@ files:
   size: 11241
   md5: 62a98d5a2df73b4f4633fa6128e630b5
   page: m_特朗普提名新大法官，美国性少数群体前景不容乐观.md
+- name: m_特朗普政府欲重新采纳生物学性别定义：或削弱跨性别人群权益
+  filename: m_特朗普政府欲重新采纳生物学性别定义：或削弱跨性别人群权益.md
+  type: webpage
+  format: Markdown
+  size: 2663
+  md5: 9e4301abf0d2bd0fb984a3bbe7dba414
+  page: m_特朗普政府欲重新采纳生物学性别定义：或削弱跨性别人群权益.md
 - name: m_犯下两次强奸罪，英国一男子自称为跨性别者将被关女子监狱？
   filename: m_犯下两次强奸罪，英国一男子自称为跨性别者将被关女子监狱？.md
   type: webpage
@@ -881,6 +1168,13 @@ files:
   size: 18055
   md5: 154f465d26e43589f9cf54ee97116cbb
   page: m_田野调查手记｜去泰国参加跨性别大会，“人妖”多被家庭接受.md
+- name: m_男人产奶，可能吗？我们和医生认真聊了聊男人的乳腺_-_澎湃新闻
+  filename: m_男人产奶，可能吗？我们和医生认真聊了聊男人的乳腺_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 10093
+  md5: 244feab0680f9abb0268a8cd15da8e26
+  page: m_男人产奶，可能吗？我们和医生认真聊了聊男人的乳腺_-_澎湃新闻.md
 - name: m_男员工变性遭当当网开除，法院写下一段近千字的话…
   filename: m_男员工变性遭当当网开除，法院写下一段近千字的话….md
   type: webpage
@@ -888,6 +1182,13 @@ files:
   size: 10095
   md5: 1204f13a91fb4576dd473f67a7a684a8
   page: m_男员工变性遭当当网开除，法院写下一段近千字的话….md
+- name: m_男子B超发现有子宫，医生：患罕见“两性畸形”，要看其想以什么性别_
+  filename: m_男子B超发现有子宫，医生：患罕见“两性畸形”，要看其想以什么性别_.md
+  type: webpage
+  format: Markdown
+  size: 4950
+  md5: 4646f5fde97402f13451390e06d56c4a
+  page: m_男子B超发现有子宫，医生：患罕见“两性畸形”，要看其想以什么性别_.md
 - name: m_白宫任命首位跨性别者官员，还是有移民背景的有色人种
   filename: m_白宫任命首位跨性别者官员，还是有移民背景的有色人种.md
   type: webpage
@@ -944,6 +1245,13 @@ files:
   size: 5432
   md5: 17bfb48232e7bac6008ef39baf85bd87
   page: m_纽约时报：从李银河的恋爱故事看中国人性观念的开放宽容.md
+- name: m_维密首位变性模特：巴西渔村出生的90后_-_澎湃新闻
+  filename: m_维密首位变性模特：巴西渔村出生的90后_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 473
+  md5: b00322d7faae5d94cae52857ab9d76e3
+  page: m_维密首位变性模特：巴西渔村出生的90后_-_澎湃新闻.md
 - name: m_维密首次启用变性模特：“我想成为女人”
   filename: m_维密首次启用变性模特：“我想成为女人”.md
   type: webpage
@@ -965,6 +1273,13 @@ files:
   size: 17073
   md5: ae6d391451dd0553b666ad51169f1291
   page: m_网红变性被骂，冤不冤.md
+- name: m_罗琳新作再次引发跨性别权利争议，作家写变装杀手错在哪儿？
+  filename: m_罗琳新作再次引发跨性别权利争议，作家写变装杀手错在哪儿？.md
+  type: webpage
+  format: Markdown
+  size: 7521
+  md5: 93489603772041ffd3f7696f5d8cff6b
+  page: m_罗琳新作再次引发跨性别权利争议，作家写变装杀手错在哪儿？.md
 - name: m_美前海豹突击队员后悔变性：我被CNN利用了
   filename: m_美前海豹突击队员后悔变性：我被CNN利用了.md
   type: webpage
@@ -1021,6 +1336,13 @@ files:
   size: 3627
   md5: d7938cfd7aecfdbfdb8e0339a111465a
   page: m_美国或允许跨性别者参军，废除同性恋不得任男童子军领袖禁令.md
+- name: m_美国政治地位最高的跨性别者：她终于可以堂堂正正作为女性生活
+  filename: m_美国政治地位最高的跨性别者：她终于可以堂堂正正作为女性生活.md
+  type: webpage
+  format: Markdown
+  size: 12302
+  md5: c58d6f92ae4ac5a7d8f35b75255ef031
+  page: m_美国政治地位最高的跨性别者：她终于可以堂堂正正作为女性生活.md
 - name: m_美国最高法院：允许跨性别学生使用与其性别认同相符的卫生间
   filename: m_美国最高法院：允许跨性别学生使用与其性别认同相符的卫生间.md
   type: webpage
@@ -1056,6 +1378,13 @@ files:
   size: 4083
   md5: cf6078ea400489166f4991557ef5e00d
   page: m_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预.md
+- name: m_荐书｜春天读诗_文化课
+  filename: m_荐书｜春天读诗_文化课.md
+  type: webpage
+  format: Markdown
+  size: 12626
+  md5: 4e678a61fde461d316416d796eb2a4e9
+  page: m_荐书｜春天读诗_文化课.md
 - name: m_荒唐！跨性别囚犯致女囚怀孕
   filename: m_荒唐！跨性别囚犯致女囚怀孕.md
   type: webpage
@@ -1084,6 +1413,20 @@ files:
   size: 10299
   md5: dd4bd53d920b294ab2b128428d48c354
   page: m_观察｜东京奥运赛场引性别论战：着装、长相和跨性别参赛者.md
+- name: m_警醒（woke）文化的根源_-_澎湃新闻
+  filename: m_警醒（woke）文化的根源_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 15088
+  md5: 8dc6648e38723f1933556bea2227307b
+  page: m_警醒（woke）文化的根源_-_澎湃新闻.md
+- name: m_让华人家长恐慌的新西兰性教育，到底教什么？_-_澎湃新闻
+  filename: m_让华人家长恐慌的新西兰性教育，到底教什么？_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 21645
+  md5: f292f05033dd8838418d8fa4b39f58e1
+  page: m_让华人家长恐慌的新西兰性教育，到底教什么？_-_澎湃新闻.md
 - name: m_调查与研究菲律宾“跨性别”工人
   filename: m_调查与研究菲律宾“跨性别”工人.md
   type: webpage
@@ -1105,6 +1448,13 @@ files:
   size: 13147
   md5: 7d1fc48a09d0cb98267eaf09c5a0199d
   page: m_跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力.md
+- name: m_跨性别女性：我的灵魂与我格格不入丨镜相_-_澎湃新闻
+  filename: m_跨性别女性：我的灵魂与我格格不入丨镜相_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 18147
+  md5: 657344187514ccb31adc632fffaf79d9
+  page: m_跨性别女性：我的灵魂与我格格不入丨镜相_-_澎湃新闻.md
 - name: m_跨性别女性：我的身体里住着一个女人
   filename: m_跨性别女性：我的身体里住着一个女人.md
   type: webpage
@@ -1112,6 +1462,13 @@ files:
   size: 12061
   md5: c5b97cc54353af4768952098c329de55
   page: m_跨性别女性：我的身体里住着一个女人.md
+- name: m_跨性别女性：我的身体里住着一个女人_-_澎湃新闻
+  filename: m_跨性别女性：我的身体里住着一个女人_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 11753
+  md5: d3c9e2b596c8c6c4e38dac3d256c7101
+  page: m_跨性别女性：我的身体里住着一个女人_-_澎湃新闻.md
 - name: m_跨性别群体
   filename: m_跨性别群体.md
   type: webpage
@@ -1168,6 +1525,13 @@ files:
   size: 8781
   md5: 18459689d73966903891f8794ed36f7e
   page: m_跨性别者故事：从药娘到变性人，步步维艰.md
+- name: m_跨性别者登妇女节广告引争议，好时巧克力称为了关注性别平等
+  filename: m_跨性别者登妇女节广告引争议，好时巧克力称为了关注性别平等.md
+  type: webpage
+  format: Markdown
+  size: 5243
+  md5: 57bf9886f39f8700c5254d599e3a1f4d
+  page: m_跨性别者登妇女节广告引争议，好时巧克力称为了关注性别平等.md
 - name: m_跨性别者的大脑，有什么不一样的吗？
   filename: m_跨性别者的大脑，有什么不一样的吗？.md
   type: webpage
@@ -1238,6 +1602,13 @@ files:
   size: 2215
   md5: 24c5c1d2b8611d78474275690cb2857a
   page: m_跨性别选手今首次亮相奥运赛场：激素变性，曾是专业男运动员.md
+- name: m_过去一年，这些宝藏展览、书籍和艺术家，你PICK到了吗？_-_澎湃新闻
+  filename: m_过去一年，这些宝藏展览、书籍和艺术家，你PICK到了吗？_-_澎湃新闻.md
+  type: webpage
+  format: Markdown
+  size: 13910
+  md5: 86e7be812351d310fea18f050a276dbc
+  page: m_过去一年，这些宝藏展览、书籍和艺术家，你PICK到了吗？_-_澎湃新闻.md
 - name: m_这乱世，不被忽悠才是真本事
   filename: m_这乱世，不被忽悠才是真本事.md
   type: webpage
@@ -1340,7 +1711,7 @@ files:
   filename: page.yml
   type: other
   format: Unknown Format
-  size: 100236
-  md5: 530336c488dade72ac703f77e1174562
+  size: 131045
+  md5: 803ffdb41948d4704d515ba7cbb97ed6
   page: null
 subdirs: []

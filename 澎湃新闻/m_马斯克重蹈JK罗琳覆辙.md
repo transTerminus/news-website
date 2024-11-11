@@ -133,10 +133,13 @@ JK罗琳对此解释：“如果生理性别不存在，那就没有同性相吸
 > | Filename        | m_马斯克重蹈JK罗琳覆辙.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18684326](https://m.thepaper.cn/newsDetail_forward_18684326)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 11900 bytes                           |
+> | MD5             | c141a99ee4904f2885c49d5008f69509                                  |
 > | Archived Date   | 2024-11-03 09:13:30                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18684326](https://m.thepaper.cn/newsDetail_forward_18684326)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

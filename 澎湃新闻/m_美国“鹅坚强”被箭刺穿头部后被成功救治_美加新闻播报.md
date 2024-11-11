@@ -194,10 +194,13 @@
 > | Filename        | m_美国“鹅坚强”被箭刺穿头部后被成功救治_美加新闻播报.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_11900437](https://m.thepaper.cn/newsDetail_forward_11900437)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 16855 bytes                           |
+> | MD5             | f48e9b49237c4d2a09db55f9a2ca6742                                  |
 > | Archived Date   | 2024-11-03 08:44:38                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_11900437](https://m.thepaper.cn/newsDetail_forward_11900437)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

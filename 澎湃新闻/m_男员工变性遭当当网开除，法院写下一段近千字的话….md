@@ -78,10 +78,13 @@
 > | Filename        | m_男员工变性遭当当网开除，法院写下一段近千字的话….md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8136888](https://m.thepaper.cn/newsDetail_forward_8136888)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10095 bytes                           |
+> | MD5             | 1204f13a91fb4576dd473f67a7a684a8                                  |
 > | Archived Date   | 2024-11-03 09:44:22                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8136888](https://m.thepaper.cn/newsDetail_forward_8136888)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

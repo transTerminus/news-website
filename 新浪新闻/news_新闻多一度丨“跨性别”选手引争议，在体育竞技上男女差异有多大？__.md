@@ -117,10 +117,13 @@
 > | Filename        | news_新闻多一度丨“跨性别”选手引争议，在体育竞技上男女差异有多大？__.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2024-08-04/detail-inchnqma6668276.d.html](https://news.sina.cn/2024-08-04/detail-inchnqma6668276.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9523 bytes                           |
+> | MD5             | 6d0bd50655cfd82de7880b6bd661b445                                  |
 > | Archived Date   | 2024-11-02 03:49:25                             |
+> | Original Link   | [https://news.sina.cn/2024-08-04/detail-inchnqma6668276.d.html](https://news.sina.cn/2024-08-04/detail-inchnqma6668276.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

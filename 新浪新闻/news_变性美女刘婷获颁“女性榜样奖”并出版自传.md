@@ -39,10 +39,13 @@
 > | Filename        | news_变性美女刘婷获颁“女性榜样奖”并出版自传.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gn/2016-01-21/detail-ifxnuvxe8317398.d.html](https://news.sina.cn/gn/2016-01-21/detail-ifxnuvxe8317398.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2957 bytes                           |
+> | MD5             | c69232b53352e00ec179a174322a334e                                  |
 > | Archived Date   | 2024-11-02 04:07:03                             |
+> | Original Link   | [https://news.sina.cn/gn/2016-01-21/detail-ifxnuvxe8317398.d.html](https://news.sina.cn/gn/2016-01-21/detail-ifxnuvxe8317398.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

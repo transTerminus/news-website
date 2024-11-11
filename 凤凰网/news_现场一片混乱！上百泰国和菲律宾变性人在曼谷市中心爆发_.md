@@ -30,10 +30,13 @@
 > | Filename        | news_现场一片混乱！上百泰国和菲律宾变性人在曼谷市中心爆发_.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/8XjVpZOFdgX](https://news.ifeng.com/c/8XjVpZOFdgX)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2215 bytes                           |
+> | MD5             | e2f317af8a5728b63b88f2705e278b92                                  |
 > | Archived Date   | 2024-11-02 08:19:16                             |
+> | Original Link   | [https://news.ifeng.com/c/8XjVpZOFdgX](https://news.ifeng.com/c/8XjVpZOFdgX)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

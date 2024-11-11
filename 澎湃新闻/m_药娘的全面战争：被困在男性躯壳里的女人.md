@@ -247,10 +247,13 @@
 > | Filename        | m_药娘的全面战争：被困在男性躯壳里的女人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6806238](https://m.thepaper.cn/newsDetail_forward_6806238)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
+> | Size            | 23086 bytes                           |
+> | MD5             | 99f1621da993357c2753039e977ecb5f                                  |
+> | Archived Date   | 2024-11-10 21:48:03                             |
+> | Original Link   | [https://m.thepaper.cn/baijiahao_6806238](https://m.thepaper.cn/baijiahao_6806238)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | 2024-11-03 09:41:21                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

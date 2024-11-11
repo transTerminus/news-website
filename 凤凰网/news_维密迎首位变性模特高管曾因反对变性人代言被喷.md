@@ -108,10 +108,13 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > | Filename        | news_维密迎首位变性模特高管曾因反对变性人代言被喷.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7ouj0SdFrV8](https://news.ifeng.com/c/7ouj0SdFrV8)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6024 bytes                           |
+> | MD5             | e43be807a324785d2cbb8a9132832562                                  |
 > | Archived Date   | 2024-11-02 08:04:58                             |
+> | Original Link   | [https://news.ifeng.com/c/7ouj0SdFrV8](https://news.ifeng.com/c/7ouj0SdFrV8)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

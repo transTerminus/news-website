@@ -75,10 +75,13 @@
 > | Filename        | news_变性3年红颜要恢复男儿身.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-27/detail-ikknscsk0430105.d.html](https://news.sina.cn/sa/2006-06-27/detail-ikknscsk0430105.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4141 bytes                           |
+> | MD5             | 76d472d1f8280ee94a0d497f9a76f71e                                  |
 > | Archived Date   | 2024-11-02 05:31:28                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-27/detail-ikknscsk0430105.d.html](https://news.sina.cn/sa/2006-06-27/detail-ikknscsk0430105.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

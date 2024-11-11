@@ -35,10 +35,13 @@
 > | Filename        | news_小伙子变性变出大麻烦术后出现直肠漏.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-07-15/detail-ikknscsi3631114.d.html](https://news.sina.cn/sa/2004-07-15/detail-ikknscsi3631114.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1938 bytes                           |
+> | MD5             | ff0c5aab22d2aead506b26e5c2e9273c                                  |
 > | Archived Date   | 2024-11-02 04:44:39                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-07-15/detail-ikknscsi3631114.d.html](https://news.sina.cn/sa/2004-07-15/detail-ikknscsi3631114.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

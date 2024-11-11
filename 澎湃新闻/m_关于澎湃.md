@@ -24,10 +24,13 @@
 > | Filename        | m_关于澎湃.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/tag/241930](https://m.thepaper.cn/tag/241930)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 643 bytes                           |
+> | MD5             | 1b6d31db2385e17b1d4e0999b09231d5                                  |
 > | Archived Date   | 2024-11-03 09:54:24                             |
+> | Original Link   | [https://m.thepaper.cn/tag/241930](https://m.thepaper.cn/tag/241930)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

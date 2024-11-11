@@ -303,10 +303,13 @@ WHO曾强调，“性别行为差异和偏好”，无法做为诊断是否患�
 > | Filename        | m_全网攻击，划清界限，她这张嘴激怒了千万人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8330851](https://m.thepaper.cn/newsDetail_forward_8330851)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 13443 bytes                           |
+> | MD5             | 547cee01ebc1e75fcead95537e8df998                                  |
 > | Archived Date   | 2024-11-03 09:45:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8330851](https://m.thepaper.cn/newsDetail_forward_8330851)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

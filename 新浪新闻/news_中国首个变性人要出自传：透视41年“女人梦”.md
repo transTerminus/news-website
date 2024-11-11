@@ -31,10 +31,13 @@
 > | Filename        | news_中国首个变性人要出自传：透视41年“女人梦”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-06-08/detail-ikknscsi0576927.d.html](https://news.sina.cn/sa/2003-06-08/detail-ikknscsi0576927.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2599 bytes                           |
+> | MD5             | a1b536cec5fe3281c2d63f95e1e397b6                                  |
 > | Archived Date   | 2024-11-02 04:14:20                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-06-08/detail-ikknscsi0576927.d.html](https://news.sina.cn/sa/2003-06-08/detail-ikknscsi0576927.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

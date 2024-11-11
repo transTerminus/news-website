@@ -93,10 +93,13 @@
 > | Filename        | news_道德模范刘霆：我不是变性只是回归本来的自己(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20150409/43511939_0.shtml](https://news.ifeng.com/a/20150409/43511939_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8100 bytes                           |
+> | MD5             | 2bb4d5a5d6316b3c727823dcaf8c8ccd                                  |
 > | Archived Date   | 2024-11-02 07:30:16                             |
+> | Original Link   | [https://news.ifeng.com/a/20150409/43511939_0.shtml](https://news.ifeng.com/a/20150409/43511939_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

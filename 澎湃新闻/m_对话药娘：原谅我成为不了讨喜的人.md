@@ -65,10 +65,13 @@ Y | 大概不会吧，因为吃了好几年药，性功能方面早就不大行�
 > | Filename        | m_对话药娘：原谅我成为不了讨喜的人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10591903](https://m.thepaper.cn/newsDetail_forward_10591903)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3601 bytes                           |
+> | MD5             | ae951d7206f648a5ef7d18be296eb612                                  |
 > | Archived Date   | 2024-11-03 08:41:14                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10591903](https://m.thepaper.cn/newsDetail_forward_10591903)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

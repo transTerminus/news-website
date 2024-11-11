@@ -138,10 +138,13 @@
 > | Filename        | m_“被安放在男性躯壳里的女人”，于是我做了一场特别的手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18537620](https://m.thepaper.cn/newsDetail_forward_18537620)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 16265 bytes                           |
+> | MD5             | b18b784f8b52d944909560724f34332f                                  |
 > | Archived Date   | 2024-11-03 09:12:07                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18537620](https://m.thepaper.cn/newsDetail_forward_18537620)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

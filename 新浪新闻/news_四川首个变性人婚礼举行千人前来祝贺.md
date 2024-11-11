@@ -39,10 +39,13 @@
 > | Filename        | news_四川首个变性人婚礼举行千人前来祝贺.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html](https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3249 bytes                           |
+> | MD5             | c38cc9b82117da328bae69f4a7396fc2                                  |
 > | Archived Date   | 2024-11-02 04:37:05                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html](https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

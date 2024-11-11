@@ -196,10 +196,13 @@
 > | Filename        | m_挣扎数十年，我要回归我本来的性别｜镜相.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_22047164](https://m.thepaper.cn/newsDetail_forward_22047164)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 17029 bytes                           |
+> | MD5             | 4e95bb678674897f24f4f355f02b74cb                                  |
 > | Archived Date   | 2024-11-03 09:20:25                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_22047164](https://m.thepaper.cn/newsDetail_forward_22047164)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

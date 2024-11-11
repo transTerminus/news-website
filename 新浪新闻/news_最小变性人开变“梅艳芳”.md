@@ -37,10 +37,13 @@
 > | Filename        | news_最小变性人开变“梅艳芳”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-12-04/detail-ikkntiam5252828.d.html](https://news.sina.cn/sa/2005-12-04/detail-ikkntiam5252828.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3847 bytes                           |
+> | MD5             | f168b48e071a081811158c26d1fe8a05                                  |
 > | Archived Date   | 2024-11-02 05:15:50                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-12-04/detail-ikkntiam5252828.d.html](https://news.sina.cn/sa/2005-12-04/detail-ikkntiam5252828.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

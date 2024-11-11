@@ -50,10 +50,13 @@
 > | Filename        | m_Nature：雄激素治疗后的跨性别男性，免疫系统被重塑.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28638946](https://m.thepaper.cn/newsDetail_forward_28638946)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4906 bytes                           |
+> | MD5             | bc1c7fb3f81ddc2734b04874313169df                                  |
 > | Archived Date   | 2024-11-03 09:27:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28638946](https://m.thepaper.cn/newsDetail_forward_28638946)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

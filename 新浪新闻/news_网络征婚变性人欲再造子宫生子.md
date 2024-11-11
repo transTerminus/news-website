@@ -81,10 +81,13 @@
 > | Filename        | news_网络征婚变性人欲再造子宫生子.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2011-01-03/detail-ikftpnny4471572.d.html?from=wap](https://news.sina.cn/sa/2011-01-03/detail-ikftpnny4471572.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7056 bytes                           |
+> | MD5             | 76f12187c1c87e0ca1f7e0e1139ed29b                                  |
 > | Archived Date   | 2024-11-02 06:22:39                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-01-03/detail-ikftpnny4471572.d.html?from=wap](https://news.sina.cn/sa/2011-01-03/detail-ikftpnny4471572.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

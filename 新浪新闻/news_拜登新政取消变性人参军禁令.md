@@ -38,10 +38,13 @@
 > | Filename        | news_拜登新政取消变性人参军禁令.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2021-01-26/detail-ikftssap0785261.d.html](https://news.sina.cn/gj/2021-01-26/detail-ikftssap0785261.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2040 bytes                           |
+> | MD5             | dff95f4d4bda71ca0e7a14c9a1b2a058                                  |
 > | Archived Date   | 2024-11-02 04:01:16                             |
+> | Original Link   | [https://news.sina.cn/gj/2021-01-26/detail-ikftssap0785261.d.html](https://news.sina.cn/gj/2021-01-26/detail-ikftssap0785261.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

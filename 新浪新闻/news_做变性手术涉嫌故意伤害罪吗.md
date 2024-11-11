@@ -42,10 +42,13 @@
 > | Filename        | news_做变性手术涉嫌故意伤害罪吗.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2008-09-24/detail-ikkntian0956898.d.html](https://news.sina.cn/sa/2008-09-24/detail-ikkntian0956898.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4505 bytes                           |
+> | MD5             | 860a3c54a88c32b5f7202e33e8b15731                                  |
 > | Archived Date   | 2024-11-02 06:02:24                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-09-24/detail-ikkntian0956898.d.html](https://news.sina.cn/sa/2008-09-24/detail-ikkntian0956898.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

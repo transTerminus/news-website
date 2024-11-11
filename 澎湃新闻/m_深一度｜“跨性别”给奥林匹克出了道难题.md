@@ -109,10 +109,13 @@
 > | Filename        | m_深一度｜“跨性别”给奥林匹克出了道难题.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28290431](https://m.thepaper.cn/newsDetail_forward_28290431)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10296 bytes                           |
+> | MD5             | 51f14bcc84b71965e2a9e81367e4a991                                  |
 > | Archived Date   | 2024-11-03 09:26:32                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28290431](https://m.thepaper.cn/newsDetail_forward_28290431)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

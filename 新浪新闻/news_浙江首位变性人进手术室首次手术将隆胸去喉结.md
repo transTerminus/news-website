@@ -48,10 +48,13 @@
 > | Filename        | news_浙江首位变性人进手术室首次手术将隆胸去喉结.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1829701.d.html](https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1829701.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2446 bytes                           |
+> | MD5             | 32a38a1e0e60c2e3f4573903bfbf6c9d                                  |
 > | Archived Date   | 2024-11-02 04:51:33                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1829701.d.html](https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1829701.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

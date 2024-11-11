@@ -114,10 +114,13 @@
 > | Filename        | m_田野调查手记｜去泰国参加跨性别大会，“人妖”多被家庭接受.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2095342](https://m.thepaper.cn/newsDetail_forward_2095342)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
+> | Size            | 18055 bytes                           |
+> | MD5             | 154f465d26e43589f9cf54ee97116cbb                                  |
+> | Archived Date   | 2024-11-10 21:50:55                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2095342&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2095342&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | 2024-11-03 09:17:11                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

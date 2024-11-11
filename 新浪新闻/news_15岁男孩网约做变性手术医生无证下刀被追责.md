@@ -66,10 +66,13 @@
 > | Filename        | news_15岁男孩网约做变性手术医生无证下刀被追责.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/2015-11-12/detail-ifxksqku2855289.d.html](http://news.sina.cn/2015-11-12/detail-ifxksqku2855289.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6269 bytes                           |
+> | MD5             | 795590282f0c8e2c9e2ed0244828649b                                  |
 > | Archived Date   | 2024-11-02 03:20:15                             |
+> | Original Link   | [http://news.sina.cn/2015-11-12/detail-ifxksqku2855289.d.html](http://news.sina.cn/2015-11-12/detail-ifxksqku2855289.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

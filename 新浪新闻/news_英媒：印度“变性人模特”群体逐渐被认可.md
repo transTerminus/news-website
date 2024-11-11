@@ -50,10 +50,13 @@
 > | Filename        | news_英媒：印度“变性人模特”群体逐渐被认可.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2016-09-18/detail-ifxvyrit2761133.d.html](https://news.sina.cn/2016-09-18/detail-ifxvyrit2761133.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5883 bytes                           |
+> | MD5             | ac7c3fde78a37821679ad35e81bbf125                                  |
 > | Archived Date   | 2024-11-02 03:36:03                             |
+> | Original Link   | [https://news.sina.cn/2016-09-18/detail-ifxvyrit2761133.d.html](https://news.sina.cn/2016-09-18/detail-ifxvyrit2761133.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

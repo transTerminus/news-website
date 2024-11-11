@@ -36,10 +36,13 @@
 > | Filename        | news_美联邦法官暂停特朗普变性人参军禁令部分内容.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108](http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1791 bytes                           |
+> | MD5             | 2b76b34aa5b9aca0f896673e5ad4e6c4                                  |
 > | Archived Date   | 2024-11-02 03:23:05                             |
+> | Original Link   | [http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108](http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

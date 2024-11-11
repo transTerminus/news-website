@@ -1,0 +1,53 @@
+# 马斯克谈儿子“变性”事件：在不知情的情况下被骗签署文件，美国“觉醒精神病毒”害了他
+
+![马斯克谈儿子事件](https://n.sinaimg.cn/sinakd20240723s/400/w1280h720/20240723/f833-8ea3b2c086e147a9f0811fa9f0361ef2.jpg)
+
+![](http://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+
+**114**
+
+**评论**
+
+## 马斯克谈儿子“变性”事件：在不知情的情况下被骗签署文件，美国“觉醒精神病毒”害了他
+
+发现更多热门视频
+
+![新浪新闻官方](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+
+**来源：** 新浪新闻
+
+**时间：** 2024年7月23日
+
+**标签：** 跨性别，马斯克，社会话题
+
+**评论数：** 114
+
+**重要图片：** 
+- ![重要图片](https://n.sinaimg.cn/sinakd20240723s/400/w1280h720/20240723/f833-8ea3b2c086e147a9f0811fa9f0361ef2.jpg) 
+
+**作者：** 新浪新闻团队
+
+**编辑：** 不详
+
+**版权：** © Sina.com
+
+**备注：** 本文讨论了马斯克关于其儿子的跨性别事件所发表的看法，以及他对美国社会现状的批评。
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | video_马斯克谈儿子“变性”事件：在不知情的情况下被骗签署文件_-_新浪视频.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 1084 bytes                           |
+> | MD5             | 86d3d1971c766e1b55eed8c90c4f834f                                  |
+> | Archived Date   | 2024-11-09 07:59:24                             |
+> | Original Link   | [https://video.sina.cn/finance/2024-07-23/detail-incfcpey8086817.d.html?vt=4&pos=108&his=0](https://video.sina.cn/finance/2024-07-23/detail-incfcpey8086817.d.html?vt=4&pos=108&his=0)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

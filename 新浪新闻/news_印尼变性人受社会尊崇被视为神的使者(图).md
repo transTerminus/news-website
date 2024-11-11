@@ -43,10 +43,13 @@
 > | Filename        | news_印尼变性人受社会尊崇被视为神的使者(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-04-01/detail-ikkntiam3120778.d.html](https://news.sina.cn/sa/2005-04-01/detail-ikkntiam3120778.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5526 bytes                           |
+> | MD5             | a9df150c0800891b4ca83f7b437ceafc                                  |
 > | Archived Date   | 2024-11-02 04:58:37                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-04-01/detail-ikkntiam3120778.d.html](https://news.sina.cn/sa/2005-04-01/detail-ikkntiam3120778.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

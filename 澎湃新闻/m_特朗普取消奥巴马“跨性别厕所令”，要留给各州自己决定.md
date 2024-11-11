@@ -21,10 +21,13 @@
 > | Filename        | m_特朗普取消奥巴马“跨性别厕所令”，要留给各州自己决定.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1625665](https://m.thepaper.cn/newsDetail_forward_1625665)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1591 bytes                           |
+> | MD5             | 850d8f53319d353175701cfdc51769aa                                  |
 > | Archived Date   | 2024-11-03 09:07:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1625665](https://m.thepaper.cn/newsDetail_forward_1625665)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

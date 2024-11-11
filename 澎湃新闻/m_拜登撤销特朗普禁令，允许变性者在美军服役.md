@@ -19,10 +19,13 @@ _(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)_
 > | Filename        | m_拜登撤销特朗普禁令，允许变性者在美军服役.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/yidian_promDetail.jsp?contid=10946931&from=yidian](https://m.thepaper.cn/yidian_promDetail.jsp?contid=10946931&from=yidian)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1571 bytes                           |
+> | MD5             | 4e60c73196614178f318f2d7d2d46b69                                  |
 > | Archived Date   | 2024-11-03 10:15:58                             |
+> | Original Link   | [https://m.thepaper.cn/yidian_promDetail.jsp?contid=10946931&from=yidian](https://m.thepaper.cn/yidian_promDetail.jsp?contid=10946931&from=yidian)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

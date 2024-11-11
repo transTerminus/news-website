@@ -85,10 +85,13 @@ Dalisay：是的。当然不是穿着比基尼。（笑）只是穿正式的衣�
 > | Filename        | m_调查与研究菲律宾“跨性别”工人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1403001](https://m.thepaper.cn/newsDetail_forward_1403001)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 11141 bytes                           |
+> | MD5             | 49b25b9dfcdbd5cba1b4170107ec1a66                                  |
 > | Archived Date   | 2024-11-03 08:57:46                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1403001](https://m.thepaper.cn/newsDetail_forward_1403001)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -92,10 +92,13 @@
 > | Filename        | news_外军变性官兵在美集会吁美允许变性人参军.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/gj/2014-10-22/detail-iawzunex4278929.d.html](http://news.sina.cn/gj/2014-10-22/detail-iawzunex4278929.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7867 bytes                           |
+> | MD5             | cf30162539f42b3a63b4934909c50fea                                  |
 > | Archived Date   | 2024-11-02 03:23:48                             |
+> | Original Link   | [http://news.sina.cn/gj/2014-10-22/detail-iawzunex4278929.d.html](http://news.sina.cn/gj/2014-10-22/detail-iawzunex4278929.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

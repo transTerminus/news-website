@@ -58,10 +58,13 @@
 > | Filename        | news_泰国兵役变性人主动报到僧人能躲则躲.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap](https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3884 bytes                           |
+> | MD5             | 42414f14625e037c9899c8526e7440bf                                  |
 > | Archived Date   | 2024-11-02 03:36:37                             |
+> | Original Link   | [https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap](https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

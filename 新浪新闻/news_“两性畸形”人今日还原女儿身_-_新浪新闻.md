@@ -1,0 +1,51 @@
+# “两性畸形”人今日还原女儿身
+
+_![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
+
+## 汉网-长江日报
+
+**时间**: 2010.01.05 02:07  
+**作者**: 记者傅克强  
+**来源**: 汉网-长江日报  
+
+![](//www.sinaimg.cn/dy/c/2010-01-05/1262628511_dpRsSp.jpg)
+
+本报讯 （记者傅克强）昨日下午，武汉大学人民医院整形科病房里，17岁的小芳（化名）和10岁的小婷（化名）姐妹俩陪着舅妈边看电视边聊天，话语间充满了期待。今天上午，姐姐将走进手术室，通过手术还其女儿身。
+
+来自四川省汉源县三交乡的小姐妹，一出生便是“非男非女”的双性人，及至如今都有着女孩秀丽的外表、娇小的身材，却长着男性的喉结、生殖器。据了解，孩子的父亲邹德清和母亲李俊花并非近亲结婚，两姐妹相隔7年出生却同患此病极为罕见。据小姐妹的父母说，由于家境极度贫寒，孩子们的性别问题一直拖到现在，十多年来一直当作女儿养。
+
+据主治医生王松山教授介绍，小芳的社会性别和心理性别已经确定，还原其女儿身是合适的方案。小婷的手术治疗方案尚待研究。他还说，从医24年来，头一回接诊到姐妹两个都是两性畸形的。据他介绍，当人体的染色体、外生殖器、生殖道、性腺素4个方面出现矛盾时，就叫两性畸形，其多数为近亲结婚所致，同时，妇女孕期服用致畸作用的药以及环境污染等也可使孩子出现此类症状。据了解，小芳接受的手术包括切除男性生殖器，阴道再造以及丰胸等手术，一次定性，还原其女儿身。
+
+图为姐妹俩在病房里玩耍。
+
+记者傅克强 摄  
+![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+
+---
+
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+
+### 评论  
+88字
+
+立即转发  
+[_0_](https://cmnt.sina.cn/index?product=comos&index=kmyaawa2451727&tj_ch=news&is_clear=0)
+
+> 附加信息 [Processed Page Metadata]
+>
+> | Attribute       | Value                                  |
+> |-----------------|----------------------------------------|
+> | Filename        | news_“两性畸形”人今日还原女儿身_-_新浪新闻.md                             |
+> | Type            | webpage                                 |
+> | Format          | Markdown                               |
+> | Size            | 2029 bytes                           |
+> | MD5             | 596f25112500f95468a880369f9281c6                                  |
+> | Archived Date   | 2024-11-09 07:40:10                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-01-05/detail-ikmyaawa2451727.d.html](https://news.sina.cn/sa/2010-01-05/detail-ikmyaawa2451727.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
+> | Tags            | [Unknown tags(update needed)]                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

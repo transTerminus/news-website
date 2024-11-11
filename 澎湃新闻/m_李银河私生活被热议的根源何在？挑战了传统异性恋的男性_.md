@@ -42,10 +42,13 @@
 > | Filename        | m_李银河私生活被热议的根源何在？挑战了传统异性恋的男性_.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=1287406&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=1287406&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7367 bytes                           |
+> | MD5             | b698dc94eadce9fe9108c8567b65bf9b                                  |
 > | Archived Date   | 2024-11-03 08:30:55                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=1287406&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=1287406&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

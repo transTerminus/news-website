@@ -115,10 +115,13 @@
 > | Filename        | m_性别可以被强行更改吗？“世界上最成功变性人”之死.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=25691445&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=25691445&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12029 bytes                           |
+> | MD5             | e6df4dc33410775db89cfc2796ce949b                                  |
 > | Archived Date   | 2024-11-03 08:35:22                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=25691445&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=25691445&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

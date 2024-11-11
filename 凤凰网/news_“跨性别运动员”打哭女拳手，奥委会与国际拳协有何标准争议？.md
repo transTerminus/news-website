@@ -139,10 +139,13 @@
 > | Filename        | news_“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/8bpCz5qUZ4m](https://news.ifeng.com/c/8bpCz5qUZ4m)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 14412 bytes                           |
+> | MD5             | c2d6b101ae29a6b0716fdb1ba5ec4f28                                  |
 > | Archived Date   | 2024-11-02 08:20:38                             |
+> | Original Link   | [https://news.ifeng.com/c/8bpCz5qUZ4m](https://news.ifeng.com/c/8bpCz5qUZ4m)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

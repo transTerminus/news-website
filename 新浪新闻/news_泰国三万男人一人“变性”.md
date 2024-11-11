@@ -26,10 +26,13 @@
 > | Filename        | news_泰国三万男人一人“变性”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1116 bytes                           |
+> | MD5             | 493476098b3f500cf6a9457f87e45d34                                  |
 > | Archived Date   | 2024-11-02 04:28:13                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -105,10 +105,13 @@
 > | Filename        | news_少年因生殖器畸形被误当女孩抚养成功变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2010-08-26/detail-ikftssap3351098.d.html](https://news.sina.cn/sa/2010-08-26/detail-ikftssap3351098.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7297 bytes                           |
+> | MD5             | bf6009464ca9cdf9218a3527ebac6512                                  |
 > | Archived Date   | 2024-11-02 06:18:40                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-08-26/detail-ikftssap3351098.d.html](https://news.sina.cn/sa/2010-08-26/detail-ikftssap3351098.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

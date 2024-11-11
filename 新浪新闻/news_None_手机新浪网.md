@@ -26,10 +26,13 @@
 > | Filename        | news_None_手机新浪网.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2001-06-22/detail-ikkntiak6806904.d.html](https://news.sina.cn/sa/2001-06-22/detail-ikkntiak6806904.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1510 bytes                           |
+> | MD5             | 70d74c0f09a7410f4125038185340382                                  |
 > | Archived Date   | 2024-11-02 04:08:53                             |
+> | Original Link   | [https://news.sina.cn/sa/2001-06-22/detail-ikkntiak6806904.d.html](https://news.sina.cn/sa/2001-06-22/detail-ikkntiak6806904.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

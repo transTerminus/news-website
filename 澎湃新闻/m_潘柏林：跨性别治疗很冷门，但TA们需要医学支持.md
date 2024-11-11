@@ -211,10 +211,13 @@ Macaleo一个人去了上海的医院，诊断结果在她的预料之中：她�
 > | Filename        | m_潘柏林：跨性别治疗很冷门，但TA们需要医学支持.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8786958](https://m.thepaper.cn/newsDetail_forward_8786958)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 20351 bytes                           |
+> | MD5             | 4bc4aa3b71164fda57ac6d618f912dd7                                  |
 > | Archived Date   | 2024-11-03 09:48:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8786958](https://m.thepaper.cn/newsDetail_forward_8786958)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

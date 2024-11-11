@@ -53,10 +53,13 @@
 > | Filename        | news_美国犯人想变性为女人起诉监狱不付费用(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-19/detail-ikftssap2644022.d.html](https://news.sina.cn/sa/2006-06-19/detail-ikftssap2644022.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3474 bytes                           |
+> | MD5             | f9260ad8634d24f49ba9ad4154ac367c                                  |
 > | Archived Date   | 2024-11-02 05:29:28                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-19/detail-ikftssap2644022.d.html](https://news.sina.cn/sa/2006-06-19/detail-ikftssap2644022.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

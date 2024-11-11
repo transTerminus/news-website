@@ -21,10 +21,13 @@
 > | Filename        | news_英国75岁男子变性异装癖致多次离婚(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/2/200909/0916_344_1350870.shtml](https://news.ifeng.com/society/2/200909/0916_344_1350870.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1024 bytes                           |
+> | MD5             | 17e508b63a1cbc68e9580b60ddf416f3                                  |
 > | Archived Date   | 2024-11-02 08:30:45                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200909/0916_344_1350870.shtml](https://news.ifeng.com/society/2/200909/0916_344_1350870.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

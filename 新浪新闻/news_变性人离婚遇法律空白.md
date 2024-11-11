@@ -30,10 +30,13 @@
 > | Filename        | news_变性人离婚遇法律空白.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html](https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1837 bytes                           |
+> | MD5             | 945ae9617a833cefa89c4e90310a52da                                  |
 > | Archived Date   | 2024-11-02 04:22:34                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html](https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

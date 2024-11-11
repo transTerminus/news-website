@@ -46,10 +46,13 @@
 > | Filename        | news_萨顶顶不满被曝黑历史暗讽变性金星：我的人生堪称完美.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20160501/48650083_0.shtml?_cpb_shehui](https://news.ifeng.com/a/20160501/48650083_0.shtml?_cpb_shehui)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4134 bytes                           |
+> | MD5             | 98b00d567a9212b7ca5a9f5eb72af5e9                                  |
 > | Archived Date   | 2024-11-02 07:44:33                             |
+> | Original Link   | [https://news.ifeng.com/a/20160501/48650083_0.shtml?_cpb_shehui](https://news.ifeng.com/a/20160501/48650083_0.shtml?_cpb_shehui)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

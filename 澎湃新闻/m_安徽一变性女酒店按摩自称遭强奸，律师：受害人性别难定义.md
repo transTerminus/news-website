@@ -44,10 +44,13 @@
 > | Filename        | m_安徽一变性女酒店按摩自称遭强奸，律师：受害人性别难定义.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1483533?hotComm=true](https://m.thepaper.cn/newsDetail_forward_1483533?hotComm=true)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3599 bytes                           |
+> | MD5             | 7b7b77ce8e5eaf9583a5ea70f7f69652                                  |
 > | Archived Date   | 2024-11-03 09:03:32                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1483533?hotComm=true](https://m.thepaper.cn/newsDetail_forward_1483533?hotComm=true)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

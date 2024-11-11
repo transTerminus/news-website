@@ -107,10 +107,13 @@
 > | Filename        | m_当李银河遇见大侠，养育了壮壮.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9781427](https://m.thepaper.cn/newsDetail_forward_9781427)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 19969 bytes                           |
+> | MD5             | 9d2ee336b6e73dd742f42642f760ba1f                                  |
 > | Archived Date   | 2024-11-03 09:51:54                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9781427](https://m.thepaper.cn/newsDetail_forward_9781427)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

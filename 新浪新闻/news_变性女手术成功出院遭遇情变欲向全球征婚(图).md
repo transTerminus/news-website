@@ -72,10 +72,13 @@
 > | Filename        | news_变性女手术成功出院遭遇情变欲向全球征婚(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-11-23/detail-ikknscsi8328365.d.html](https://news.sina.cn/sa/2005-11-23/detail-ikknscsi8328365.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4783 bytes                           |
+> | MD5             | fb3a30826dd80793fcc0042a23985fcd                                  |
 > | Archived Date   | 2024-11-02 05:14:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-11-23/detail-ikknscsi8328365.d.html](https://news.sina.cn/sa/2005-11-23/detail-ikknscsi8328365.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

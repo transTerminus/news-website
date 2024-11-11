@@ -81,10 +81,13 @@
 > | Filename        | news_23岁男儿期待成为真女人7天之后将变性(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-26/detail-ikknscsi2783955.d.html](https://news.sina.cn/sa/2004-02-26/detail-ikknscsi2783955.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6383 bytes                           |
+> | MD5             | f446e3427bd69fc53c13102de53cac3b                                  |
 > | Archived Date   | 2024-11-02 04:26:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-26/detail-ikknscsi2783955.d.html](https://news.sina.cn/sa/2004-02-26/detail-ikknscsi2783955.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

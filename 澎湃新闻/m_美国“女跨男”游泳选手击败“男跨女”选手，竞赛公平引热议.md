@@ -97,10 +97,13 @@
 > | Filename        | m_美国“女跨男”游泳选手击败“男跨女”选手，竞赛公平引热议.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16221545](https://m.thepaper.cn/newsDetail_forward_16221545)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5924 bytes                           |
+> | MD5             | edddf8850792cd0801487d7400bf82f4                                  |
 > | Archived Date   | 2024-11-03 09:07:27                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16221545](https://m.thepaper.cn/newsDetail_forward_16221545)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

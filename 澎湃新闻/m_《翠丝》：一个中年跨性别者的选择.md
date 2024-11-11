@@ -237,10 +237,13 @@
 > | Filename        | m_《翠丝》：一个中年跨性别者的选择.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2671259](https://m.thepaper.cn/newsDetail_forward_2671259)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10556 bytes                           |
+> | MD5             | 6d7ec61cd7baf0fe094eef3658799e4a                                  |
 > | Archived Date   | 2024-11-03 09:24:02                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2671259](https://m.thepaper.cn/newsDetail_forward_2671259)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

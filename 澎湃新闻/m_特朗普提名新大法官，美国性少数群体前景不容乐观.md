@@ -57,10 +57,13 @@
 > | Filename        | m_特朗普提名新大法官，美国性少数群体前景不容乐观.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2284387&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2284387&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 11241 bytes                           |
+> | MD5             | 62a98d5a2df73b4f4633fa6128e630b5                                  |
 > | Archived Date   | 2024-11-03 08:34:55                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2284387&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2284387&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

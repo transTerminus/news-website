@@ -42,10 +42,13 @@
 > | Filename        | news_帅哥3年6次求婚终与变性美女喜结良缘(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-11-16/detail-ikkntiam5115162.d.html](https://news.sina.cn/sa/2005-11-16/detail-ikkntiam5115162.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2724 bytes                           |
+> | MD5             | 86a3a3b93ea0c0bc0e363e663e728391                                  |
 > | Archived Date   | 2024-11-02 05:13:28                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-11-16/detail-ikkntiam5115162.d.html](https://news.sina.cn/sa/2005-11-16/detail-ikkntiam5115162.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

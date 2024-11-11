@@ -67,10 +67,13 @@
 > | Filename        | m_中国进入多元性别时代：李银河“出柜”与电击中心败诉.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1287582](https://m.thepaper.cn/newsDetail_forward_1287582)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 13702 bytes                           |
+> | MD5             | d63034883ccfa6971b07de7676e8521f                                  |
 > | Archived Date   | 2024-11-03 08:47:05                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1287582](https://m.thepaper.cn/newsDetail_forward_1287582)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

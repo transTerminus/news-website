@@ -79,10 +79,13 @@ Lawrence案的宣判扫清了通向同性婚姻合法化之路上的一个巨大
 > | Filename        | m_别以为同性婚姻合法化就太平了，之后是无尽的争议.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1346065](https://m.thepaper.cn/newsDetail_forward_1346065)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 31076 bytes                           |
+> | MD5             | 691c88e29e194fc156dc504f14480799                                  |
 > | Archived Date   | 2024-11-03 08:50:24                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1346065](https://m.thepaper.cn/newsDetail_forward_1346065)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

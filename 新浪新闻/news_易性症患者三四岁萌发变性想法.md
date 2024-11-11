@@ -57,10 +57,13 @@
 > | Filename        | news_易性症患者三四岁萌发变性想法.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/2014-09-09/detail-ianfzhni9694888.d.html?from=wap](http://news.sina.cn/2014-09-09/detail-ianfzhni9694888.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5298 bytes                           |
+> | MD5             | 015a0d4c6273bcacb9e07b1db6049512                                  |
 > | Archived Date   | 2024-11-02 03:18:57                             |
+> | Original Link   | [http://news.sina.cn/2014-09-09/detail-ianfzhni9694888.d.html?from=wap](http://news.sina.cn/2014-09-09/detail-ianfzhni9694888.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

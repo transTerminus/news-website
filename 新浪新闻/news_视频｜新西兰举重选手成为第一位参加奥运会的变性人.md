@@ -54,10 +54,13 @@
 > | Filename        | news_视频｜新西兰举重选手成为第一位参加奥运会的变性人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032](https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2165 bytes                           |
+> | MD5             | 04fd39616ec4d18bd27c402a7a8d893f                                  |
 > | Archived Date   | 2024-11-02 03:43:05                             |
+> | Original Link   | [https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032](https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

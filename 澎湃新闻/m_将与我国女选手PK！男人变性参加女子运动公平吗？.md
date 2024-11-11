@@ -106,10 +106,13 @@
 > | Filename        | m_将与我国女选手PK！男人变性参加女子运动公平吗？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13765253](https://m.thepaper.cn/newsDetail_forward_13765253)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10173 bytes                           |
+> | MD5             | e9e872db27ee09aa70fc33b0488d360b                                  |
 > | Archived Date   | 2024-11-03 08:52:53                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13765253](https://m.thepaper.cn/newsDetail_forward_13765253)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

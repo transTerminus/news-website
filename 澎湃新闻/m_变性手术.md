@@ -77,10 +77,13 @@
 > | Filename        | m_变性手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/tag/420089](https://m.thepaper.cn/tag/420089)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2998 bytes                           |
+> | MD5             | 81b5f34525361ea5078241c6358f04ce                                  |
 > | Archived Date   | 2024-11-03 09:55:34                             |
+> | Original Link   | [https://m.thepaper.cn/tag/420089](https://m.thepaper.cn/tag/420089)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

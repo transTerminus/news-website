@@ -75,10 +75,13 @@
 > | Filename        | news_变性人陈莉莉被劫后首次露面称对将来很迷惘.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html](https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4472 bytes                           |
+> | MD5             | 652c2b9336d2cedd4a2a1c6a458fb7f4                                  |
 > | Archived Date   | 2024-11-02 04:32:32                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html](https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -118,10 +118,13 @@
 > | Filename        | news_新民周刊：变性男女的婚姻生活(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-03-05/detail-ikknscsi2823988.d.html](https://news.sina.cn/sa/2004-03-05/detail-ikknscsi2823988.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 15092 bytes                           |
+> | MD5             | d1591915d3d304895c9289cbc823e060                                  |
 > | Archived Date   | 2024-11-02 04:31:19                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-03-05/detail-ikknscsi2823988.d.html](https://news.sina.cn/sa/2004-03-05/detail-ikknscsi2823988.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

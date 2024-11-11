@@ -57,10 +57,13 @@
 > | Filename        | news_变性女子要价千万美元出售自传书稿(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html](https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2407 bytes                           |
+> | MD5             | 71ba9331ef79d777ea5b7e23cbd488d7                                  |
 > | Archived Date   | 2024-11-02 05:32:44                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html](https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

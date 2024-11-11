@@ -309,10 +309,13 @@ Nikka所在的女装圈是一个相对封闭的群体。这个群体完全采取
 > | Filename        | m_异装：我与我周旋久，宁做我.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3959346](https://m.thepaper.cn/newsDetail_forward_3959346)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 26389 bytes                           |
+> | MD5             | 7101358a1ca63cdeb210faaf64a96704                                  |
 > | Archived Date   | 2024-11-03 09:33:37                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3959346](https://m.thepaper.cn/newsDetail_forward_3959346)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -36,10 +36,13 @@
 > | Filename        | news_丹麦修改疾病指南“想变性”不再是病.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html](https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1589 bytes                           |
+> | MD5             | 307395d6966b1b90f3135c1ec2c56e7e                                  |
 > | Archived Date   | 2024-11-02 03:55:19                             |
+> | Original Link   | [https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html](https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

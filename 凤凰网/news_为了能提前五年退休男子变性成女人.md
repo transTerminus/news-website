@@ -59,10 +59,13 @@
 > | Filename        | news_为了能提前五年退休男子变性成女人.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20180327/57087620_0.shtml](https://news.ifeng.com/a/20180327/57087620_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4049 bytes                           |
+> | MD5             | 6cd180fdc13ce8c7d765840dab1f38a8                                  |
 > | Archived Date   | 2024-11-02 07:51:48                             |
+> | Original Link   | [https://news.ifeng.com/a/20180327/57087620_0.shtml](https://news.ifeng.com/a/20180327/57087620_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

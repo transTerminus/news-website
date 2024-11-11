@@ -74,10 +74,13 @@
 > | Filename        | m_变性选手能否参加体育比赛？男变女后，TA的身体优势还在吗.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=8994480&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=8994480&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
+> | Size            | 5605 bytes                           |
+> | MD5             | 47cbd92c994feb1a60a86c0f96bee7a6                                  |
+> | Archived Date   | 2024-11-10 22:30:57                             |
+> | Original Link   | [https://m.thepaper.cn/yidian_promDetail.jsp?contid=8994480&from=yidian](https://m.thepaper.cn/yidian_promDetail.jsp?contid=8994480&from=yidian)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | 2024-11-03 08:39:21                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

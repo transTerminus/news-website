@@ -35,10 +35,13 @@
 > | Filename        | news_变性人贩毒逃过新加坡鞭刑.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-01-22/detail-ikkntiam6408504.d.html](https://news.sina.cn/sa/2006-01-22/detail-ikkntiam6408504.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1526 bytes                           |
+> | MD5             | f86c5939ba8bac21ae7d5a03147b6626                                  |
 > | Archived Date   | 2024-11-02 05:20:12                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-01-22/detail-ikkntiam6408504.d.html](https://news.sina.cn/sa/2006-01-22/detail-ikkntiam6408504.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

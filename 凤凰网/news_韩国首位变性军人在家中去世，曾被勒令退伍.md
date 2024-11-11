@@ -17,10 +17,13 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > | Filename        | news_韩国首位变性军人在家中去世，曾被勒令退伍.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/84Kp2h42zrN](https://news.ifeng.com/c/84Kp2h42zrN)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 755 bytes                           |
+> | MD5             | 8d1b2796fb797826e1db5d50af31843b                                  |
 > | Archived Date   | 2024-11-02 08:08:33                             |
+> | Original Link   | [https://news.ifeng.com/c/84Kp2h42zrN](https://news.ifeng.com/c/84Kp2h42zrN)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

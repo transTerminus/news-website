@@ -77,10 +77,13 @@
 > | Filename        | m_什么？学着做一个异装癖!？_-_澎湃新闻.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2685952](https://m.thepaper.cn/newsDetail_forward_2685952)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7889 bytes                           |
+> | MD5             | 1b4fc64d476e5f57bcb0cf59e8e35637                                  |
 > | Archived Date   | 2024-11-03 09:24:33                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2685952](https://m.thepaper.cn/newsDetail_forward_2685952)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

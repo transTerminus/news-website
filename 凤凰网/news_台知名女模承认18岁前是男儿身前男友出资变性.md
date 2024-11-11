@@ -26,10 +26,13 @@
 > | Filename        | news_台知名女模承认18岁前是男儿身前男友出资变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml](https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 981 bytes                           |
+> | MD5             | 5444da814605a799b535790517829589                                  |
 > | Archived Date   | 2024-11-02 08:34:16                             |
+> | Original Link   | [https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml](https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

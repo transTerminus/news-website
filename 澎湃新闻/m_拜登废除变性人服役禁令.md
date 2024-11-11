@@ -119,10 +119,13 @@
 > | Filename        | m_拜登废除变性人服役禁令.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10948542](https://m.thepaper.cn/newsDetail_forward_10948542)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7770 bytes                           |
+> | MD5             | 6d14e3cd8af8702ffde8eebe2b30199a                                  |
 > | Archived Date   | 2024-11-03 08:43:46                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10948542](https://m.thepaper.cn/newsDetail_forward_10948542)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

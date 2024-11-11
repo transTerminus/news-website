@@ -59,10 +59,13 @@
 > | Filename        | news_19岁湖南小伙要做江西第一变性人（组图）.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2009-04-08/detail-ikknscsk4662097.d.html](https://news.sina.cn/sa/2009-04-08/detail-ikknscsk4662097.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4076 bytes                           |
+> | MD5             | efd3913dd75e3300f5ef3f6876043cc5                                  |
 > | Archived Date   | 2024-11-02 06:04:37                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-04-08/detail-ikknscsk4662097.d.html](https://news.sina.cn/sa/2009-04-08/detail-ikknscsk4662097.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -56,10 +56,13 @@
 > | Filename        | news_结婚后丈夫变性做女人变性人遭遇离婚难题.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2158162.d.html](https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2158162.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3342 bytes                           |
+> | MD5             | 85e7ddbea9537851e652b017fa78679c                                  |
 > | Archived Date   | 2024-11-02 04:21:53                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2158162.d.html](https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2158162.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

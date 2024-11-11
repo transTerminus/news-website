@@ -44,10 +44,13 @@ ___
 > | Filename        | news_特朗普禁止变性人服役医疗成本高影响凝聚力.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/2017-07-27/detail-ifyinwmp0193787.d.html](http://news.sina.cn/2017-07-27/detail-ifyinwmp0193787.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3003 bytes                           |
+> | MD5             | 4c265b4dbf6cab37326d2ef981b9b7f8                                  |
 > | Archived Date   | 2024-11-02 03:22:30                             |
+> | Original Link   | [http://news.sina.cn/2017-07-27/detail-ifyinwmp0193787.d.html](http://news.sina.cn/2017-07-27/detail-ifyinwmp0193787.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

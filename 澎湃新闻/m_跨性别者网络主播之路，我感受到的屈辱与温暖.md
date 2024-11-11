@@ -184,10 +184,13 @@
 > | Filename        | m_跨性别者网络主播之路，我感受到的屈辱与温暖.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2279418?from=sohu](https://m.thepaper.cn/newsDetail_forward_2279418?from=sohu)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 15318 bytes                           |
+> | MD5             | cf5af20eaf47e31bf2a6d2fe4b33804a                                  |
 > | Archived Date   | 2024-11-03 09:20:58                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2279418?from=sohu](https://m.thepaper.cn/newsDetail_forward_2279418?from=sohu)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

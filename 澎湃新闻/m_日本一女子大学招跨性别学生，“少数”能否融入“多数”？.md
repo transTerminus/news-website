@@ -101,10 +101,13 @@
 > | Filename        | m_日本一女子大学招跨性别学生，“少数”能否融入“多数”？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 12123 bytes                           |
+> | MD5             | e14c8912003066bcd68cd84c0e42e0ac                                  |
 > | Archived Date   | 2024-11-03 08:33:54                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

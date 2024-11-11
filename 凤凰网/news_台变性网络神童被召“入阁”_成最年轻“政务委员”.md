@@ -67,10 +67,13 @@
 > | Filename        | news_台变性网络神童被召“入阁”_成最年轻“政务委员”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7fbsDidCvf6](https://news.ifeng.com/c/7fbsDidCvf6)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6697 bytes                           |
+> | MD5             | 2a7e4e15d85cb74b0cb6c89b4b09a1f2                                  |
 > | Archived Date   | 2024-11-02 07:57:40                             |
+> | Original Link   | [https://news.ifeng.com/c/7fbsDidCvf6](https://news.ifeng.com/c/7fbsDidCvf6)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

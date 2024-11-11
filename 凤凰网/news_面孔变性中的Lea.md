@@ -31,10 +31,13 @@
 > | Filename        | news_面孔变性中的Lea.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7fbyPguVqkK](https://news.ifeng.com/c/7fbyPguVqkK)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2536 bytes                           |
+> | MD5             | 40cb6fd35c93396a48168236d4b70c46                                  |
 > | Archived Date   | 2024-11-02 07:58:04                             |
+> | Original Link   | [https://news.ifeng.com/c/7fbyPguVqkK](https://news.ifeng.com/c/7fbyPguVqkK)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

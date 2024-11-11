@@ -32,10 +32,13 @@
 > | Filename        | news_美国佛罗里达州禁止变性女性参加女子青少年体育比赛.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/86kUg247z8z](https://news.ifeng.com/c/86kUg247z8z)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1298 bytes                           |
+> | MD5             | 4648c6830f53d6dbd2a77818117d39bb                                  |
 > | Archived Date   | 2024-11-02 08:11:10                             |
+> | Original Link   | [https://news.ifeng.com/c/86kUg247z8z](https://news.ifeng.com/c/86kUg247z8z)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

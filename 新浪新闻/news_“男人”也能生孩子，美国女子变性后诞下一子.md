@@ -87,10 +87,13 @@ Bennett Kaspar-Williams表示，尽管生孩子给自己带来了一些挑战，
 > | Filename        | news_“男人”也能生孩子，美国女子变性后诞下一子.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sh/2021-12-23/detail-ikyamrmz0799083.d.html](https://news.sina.cn/sh/2021-12-23/detail-ikyamrmz0799083.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3974 bytes                           |
+> | MD5             | 2dcb919d90ba6000a986eb6638e1bc7d                                  |
 > | Archived Date   | 2024-11-02 06:38:54                             |
+> | Original Link   | [https://news.sina.cn/sh/2021-12-23/detail-ikyamrmz0799083.d.html](https://news.sina.cn/sh/2021-12-23/detail-ikyamrmz0799083.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

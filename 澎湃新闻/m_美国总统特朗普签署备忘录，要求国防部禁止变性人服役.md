@@ -23,10 +23,13 @@
 > | Filename        | m_美国总统特朗普签署备忘录，要求国防部禁止变性人服役.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1775511](https://m.thepaper.cn/newsDetail_forward_1775511)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2170 bytes                           |
+> | MD5             | 247a0077dcee9abc8055de962f425218                                  |
 > | Archived Date   | 2024-11-03 09:09:29                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1775511](https://m.thepaper.cn/newsDetail_forward_1775511)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -25,10 +25,13 @@
 > | Filename        | m_世界泳联：游泳赛事试行“开放组别”，允许跨性别运动员参赛.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_23993069?from=](https://m.thepaper.cn/newsDetail_forward_23993069?from=)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1939 bytes                           |
+> | MD5             | f427f436e9998a12c809578d042c36fc                                  |
 > | Archived Date   | 2024-11-03 09:22:26                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_23993069?from=](https://m.thepaper.cn/newsDetail_forward_23993069?from=)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

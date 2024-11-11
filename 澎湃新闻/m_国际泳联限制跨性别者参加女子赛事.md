@@ -72,10 +72,13 @@ LGBTQ+权利组织和一些游泳运动员则表示，这项政策会伤害跨�
 > | Filename        | m_国际泳联限制跨性别者参加女子赛事.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18667907](https://m.thepaper.cn/newsDetail_forward_18667907)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6408 bytes                           |
+> | MD5             | a0b3c7c320ddaf60ca53bb38890da623                                  |
 > | Archived Date   | 2024-11-03 09:13:04                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18667907](https://m.thepaper.cn/newsDetail_forward_18667907)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

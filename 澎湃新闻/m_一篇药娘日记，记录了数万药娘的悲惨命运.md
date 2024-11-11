@@ -204,10 +204,13 @@
 > | Filename        | m_一篇药娘日记，记录了数万药娘的悲惨命运.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9307060](https://m.thepaper.cn/newsDetail_forward_9307060)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 11333 bytes                           |
+> | MD5             | 1830ab5aa991b2b016a7b8556d8ca203                                  |
 > | Archived Date   | 2024-11-03 09:49:36                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9307060](https://m.thepaper.cn/newsDetail_forward_9307060)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

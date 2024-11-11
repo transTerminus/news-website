@@ -41,10 +41,13 @@
 > | Filename        | news_英国一女子支持父亲和丈夫变性三人成“闺密”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20140724/41296302_0.shtml](https://news.ifeng.com/a/20140724/41296302_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2556 bytes                           |
+> | MD5             | e5188d6397bb98a8246c3145b8496da2                                  |
 > | Archived Date   | 2024-11-02 06:55:26                             |
+> | Original Link   | [https://news.ifeng.com/a/20140724/41296302_0.shtml](https://news.ifeng.com/a/20140724/41296302_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

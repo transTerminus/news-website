@@ -24,10 +24,13 @@
 > | Filename        | m_德政府拟提出“自决法”，简化民众改变性别和姓名的程序.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=18815377&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=18815377&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1382 bytes                           |
+> | MD5             | 51c8a78161528102aa44f618c318fb49                                  |
 > | Archived Date   | 2024-11-03 10:10:00                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=18815377&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=18815377&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

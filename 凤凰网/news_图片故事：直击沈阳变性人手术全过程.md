@@ -24,10 +24,13 @@
 > | Filename        | news_图片故事：直击沈阳变性人手术全过程.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/photo/200612/1213_24_47782.shtml](https://news.ifeng.com/photo/200612/1213_24_47782.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1049 bytes                           |
+> | MD5             | 48bdcfabbb3f3c52305935563d09daa5                                  |
 > | Archived Date   | 2024-11-02 08:24:11                             |
+> | Original Link   | [https://news.ifeng.com/photo/200612/1213_24_47782.shtml](https://news.ifeng.com/photo/200612/1213_24_47782.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

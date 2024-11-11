@@ -47,10 +47,13 @@
 > | Filename        | news_全国首例女变男的变性人在四川领取结婚证.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html](https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6910 bytes                           |
+> | MD5             | 60ca449ad55e55279f436285d0ccdff9                                  |
 > | Archived Date   | 2024-11-02 04:23:44                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html](https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -35,10 +35,13 @@
 > | Filename        | news_英变性护士美极了.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-11-28/detail-ikkntiam8202144.d.html](https://news.sina.cn/sa/2006-11-28/detail-ikkntiam8202144.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1287 bytes                           |
+> | MD5             | 661d16b829d8e75a590002b27b6681ac                                  |
 > | Archived Date   | 2024-11-02 05:41:00                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-11-28/detail-ikkntiam8202144.d.html](https://news.sina.cn/sa/2006-11-28/detail-ikkntiam8202144.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -32,10 +32,13 @@
 > | Filename        | news_男女“未完全”变性后产子父母身份错乱(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20140812/41534502_0.shtml](https://news.ifeng.com/a/20140812/41534502_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2466 bytes                           |
+> | MD5             | 6eeb53c14d522515f6e7237b0101ade4                                  |
 > | Archived Date   | 2024-11-02 06:59:40                             |
+> | Original Link   | [https://news.ifeng.com/a/20140812/41534502_0.shtml](https://news.ifeng.com/a/20140812/41534502_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

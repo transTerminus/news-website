@@ -266,10 +266,13 @@ NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，
 > | Filename        | news_台媒：泰国热炒征兵检查现场猜谁是变性人(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2015-04-11/detail-iavxeafs5052768.d.html](https://news.sina.cn/gj/2015-04-11/detail-iavxeafs5052768.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 18469 bytes                           |
+> | MD5             | e7a93fadbcb130de30b704139833c855                                  |
 > | Archived Date   | 2024-11-02 03:51:14                             |
+> | Original Link   | [https://news.sina.cn/gj/2015-04-11/detail-iavxeafs5052768.d.html](https://news.sina.cn/gj/2015-04-11/detail-iavxeafs5052768.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

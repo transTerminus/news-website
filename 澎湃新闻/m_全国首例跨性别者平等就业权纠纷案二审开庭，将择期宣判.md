@@ -51,10 +51,13 @@
 > | Filename        | m_全国首例跨性别者平等就业权纠纷案二审开庭，将择期宣判.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=7600904&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=7600904&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4208 bytes                           |
+> | MD5             | cfafb95bb8e69267a8bad35b6cea92e9                                  |
 > | Archived Date   | 2024-11-03 10:14:55                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=7600904&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=7600904&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

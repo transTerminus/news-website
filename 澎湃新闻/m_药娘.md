@@ -56,10 +56,13 @@
 > | Filename        | m_药娘.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/tag/979723](https://m.thepaper.cn/tag/979723)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1874 bytes                           |
+> | MD5             | dc09b401fb3ee991f626bcb3e8c14df1                                  |
 > | Archived Date   | 2024-11-03 09:57:03                             |
+> | Original Link   | [https://m.thepaper.cn/tag/979723](https://m.thepaper.cn/tag/979723)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

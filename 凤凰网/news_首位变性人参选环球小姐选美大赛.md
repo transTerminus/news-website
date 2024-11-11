@@ -14,10 +14,13 @@
 > | Filename        | news_首位变性人参选环球小姐选美大赛.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7id7cUd4pRQ](https://news.ifeng.com/c/7id7cUd4pRQ)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 480 bytes                           |
+> | MD5             | bb97c3580f4ce968ea4363ab05b802e2                                  |
 > | Archived Date   | 2024-11-02 08:00:49                             |
+> | Original Link   | [https://news.ifeng.com/c/7id7cUd4pRQ](https://news.ifeng.com/c/7id7cUd4pRQ)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

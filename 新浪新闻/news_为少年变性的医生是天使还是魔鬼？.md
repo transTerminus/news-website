@@ -39,10 +39,13 @@
 > | Filename        | news_为少年变性的医生是天使还是魔鬼？.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html](https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4229 bytes                           |
+> | MD5             | af3ad837c46605020c908fa774e0d612                                  |
 > | Archived Date   | 2024-11-02 03:33:09                             |
+> | Original Link   | [https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html](https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

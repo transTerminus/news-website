@@ -37,10 +37,13 @@ W小姐认为，当局不容许她更改出世纸性别，是违反《人权法�
 > | Filename        | news_港一变性人注册结婚被拒事主控告当局违反人权.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/hongkong/200911/1112_19_1432112.shtml](https://news.ifeng.com/hongkong/200911/1112_19_1432112.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3526 bytes                           |
+> | MD5             | c41eaca909f646eb0c08dbf3d6207720                                  |
 > | Archived Date   | 2024-11-02 08:22:31                             |
+> | Original Link   | [https://news.ifeng.com/hongkong/200911/1112_19_1432112.shtml](https://news.ifeng.com/hongkong/200911/1112_19_1432112.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

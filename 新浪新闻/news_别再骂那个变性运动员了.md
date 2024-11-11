@@ -302,10 +302,13 @@ IOC批准关于变形运动员参赛的共识。
 > | Filename        | news_别再骂那个变性运动员了.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2021-07-27/detail-ikqciyzk7832371.d.html](https://news.sina.cn/2021-07-27/detail-ikqciyzk7832371.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 19827 bytes                           |
+> | MD5             | aa533f320a7c2d46b31ac195aa44aea7                                  |
 > | Archived Date   | 2024-11-02 03:43:52                             |
+> | Original Link   | [https://news.sina.cn/2021-07-27/detail-ikqciyzk7832371.d.html](https://news.sina.cn/2021-07-27/detail-ikqciyzk7832371.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

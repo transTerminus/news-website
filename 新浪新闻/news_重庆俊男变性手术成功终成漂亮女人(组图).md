@@ -90,10 +90,13 @@
 > | Filename        | news_重庆俊男变性手术成功终成漂亮女人(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-23/detail-ikknscsi7831843.d.html](https://news.sina.cn/sa/2005-09-23/detail-ikknscsi7831843.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6410 bytes                           |
+> | MD5             | b8c26f245dd0bedc92d67530ba89b830                                  |
 > | Archived Date   | 2024-11-02 05:09:56                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-09-23/detail-ikknscsi7831843.d.html](https://news.sina.cn/sa/2005-09-23/detail-ikknscsi7831843.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

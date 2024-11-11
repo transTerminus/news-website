@@ -42,10 +42,13 @@
 > | Filename        | news_“江西第一变性人”将发写真梦想今后走T台.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7fYvyOxZOhw](https://news.ifeng.com/c/7fYvyOxZOhw)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2280 bytes                           |
+> | MD5             | 03f4b700245e004fe16d7680b0643720                                  |
 > | Archived Date   | 2024-11-02 07:54:42                             |
+> | Original Link   | [https://news.ifeng.com/c/7fYvyOxZOhw](https://news.ifeng.com/c/7fYvyOxZOhw)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

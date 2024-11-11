@@ -61,10 +61,13 @@
 > | Filename        | m_全国首例达芬奇手术机器人性别重置术在西安成功实施.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/baijiahao_12894914?sdkver=ab0abe70](https://m.thepaper.cn/baijiahao_12894914?sdkver=ab0abe70)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9704 bytes                           |
+> | MD5             | 9a1d68f8c96335f97f63fb04502b7fed                                  |
 > | Archived Date   | 2024-11-03 08:25:02                             |
+> | Original Link   | [https://m.thepaper.cn/baijiahao_12894914?sdkver=ab0abe70](https://m.thepaper.cn/baijiahao_12894914?sdkver=ab0abe70)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

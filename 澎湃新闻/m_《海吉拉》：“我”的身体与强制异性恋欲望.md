@@ -70,10 +70,13 @@
 > | Filename        | m_《海吉拉》：“我”的身体与强制异性恋欲望.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2885216](https://m.thepaper.cn/newsDetail_forward_2885216)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 18913 bytes                           |
+> | MD5             | b78d2eb2bc98ef30d513c35b8906ae6a                                  |
 > | Archived Date   | 2024-11-03 09:28:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2885216](https://m.thepaper.cn/newsDetail_forward_2885216)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

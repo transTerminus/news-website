@@ -29,10 +29,13 @@
 > | Filename        | news_女子变性后与昔日闺蜜结为夫妇(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20150215/43183032_0.shtml](https://news.ifeng.com/a/20150215/43183032_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1563 bytes                           |
+> | MD5             | fc4be7feb514ea1c9a3c0e3b10f03212                                  |
 > | Archived Date   | 2024-11-02 07:23:25                             |
+> | Original Link   | [https://news.ifeng.com/a/20150215/43183032_0.shtml](https://news.ifeng.com/a/20150215/43183032_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

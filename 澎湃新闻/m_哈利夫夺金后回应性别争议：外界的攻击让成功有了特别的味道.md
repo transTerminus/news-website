@@ -19,10 +19,13 @@
 > | Filename        | m_哈利夫夺金后回应性别争议：外界的攻击让成功有了特别的味道.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28369736](https://m.thepaper.cn/newsDetail_forward_28369736)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1022 bytes                           |
+> | MD5             | 4f14447aaf6bdef0e467dcd1bca693c5                                  |
 > | Archived Date   | 2024-11-03 09:27:30                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28369736](https://m.thepaper.cn/newsDetail_forward_28369736)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

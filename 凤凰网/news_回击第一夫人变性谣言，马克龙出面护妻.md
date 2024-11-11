@@ -28,10 +28,13 @@
 > | Filename        | news_回击第一夫人变性谣言，马克龙出面护妻.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/8Xqvsdf6Fcq](https://news.ifeng.com/c/8Xqvsdf6Fcq)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2434 bytes                           |
+> | MD5             | 87a7c00c6b5e7ab1dfa54392b0514322                                  |
 > | Archived Date   | 2024-11-02 08:19:40                             |
+> | Original Link   | [https://news.ifeng.com/c/8Xqvsdf6Fcq](https://news.ifeng.com/c/8Xqvsdf6Fcq)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

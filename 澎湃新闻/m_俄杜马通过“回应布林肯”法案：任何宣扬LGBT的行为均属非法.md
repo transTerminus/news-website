@@ -29,10 +29,13 @@
 > | Filename        | m_俄杜马通过“回应布林肯”法案：任何宣扬LGBT的行为均属非法.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_20890594](https://m.thepaper.cn/newsDetail_forward_20890594)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1987 bytes                           |
+> | MD5             | 4da35ce0d0d57d0cb72d759ef4b0b1c6                                  |
 > | Archived Date   | 2024-11-03 09:16:35                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_20890594](https://m.thepaper.cn/newsDetail_forward_20890594)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

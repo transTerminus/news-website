@@ -36,10 +36,13 @@
 > | Filename        | news_特朗普讽林郁婷变性人，岛内媒体人质问赖清德：敢提出抗议_.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/8cAyW68n3Aj](https://news.ifeng.com/c/8cAyW68n3Aj)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2254 bytes                           |
+> | MD5             | a1a11b405eb6f353e0ef09fb98e72b8e                                  |
 > | Archived Date   | 2024-11-02 08:21:03                             |
+> | Original Link   | [https://news.ifeng.com/c/8cAyW68n3Aj](https://news.ifeng.com/c/8cAyW68n3Aj)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

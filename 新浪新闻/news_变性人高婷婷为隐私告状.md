@@ -73,10 +73,13 @@
 > | Filename        | news_变性人高婷婷为隐私告状.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2007-03-27/detail-ikkntiam8866418.d.html](https://news.sina.cn/sa/2007-03-27/detail-ikkntiam8866418.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4640 bytes                           |
+> | MD5             | 75fd832d74b367a1b02278bdbb24894b                                  |
 > | Archived Date   | 2024-11-02 05:46:47                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-03-27/detail-ikkntiam8866418.d.html](https://news.sina.cn/sa/2007-03-27/detail-ikkntiam8866418.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

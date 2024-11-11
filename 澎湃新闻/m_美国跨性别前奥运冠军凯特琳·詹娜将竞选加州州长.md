@@ -17,10 +17,13 @@
 > | Filename        | m_美国跨性别前奥运冠军凯特琳·詹娜将竞选加州州长.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=12368441&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=12368441&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1100 bytes                           |
+> | MD5             | c575b20ba025f3c94545d5ca72e1df7a                                  |
 > | Archived Date   | 2024-11-03 08:30:24                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=12368441&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=12368441&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

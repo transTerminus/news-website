@@ -99,10 +99,13 @@
 > | Filename        | m_这乱世，不被忽悠才是真本事.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_21029751](https://m.thepaper.cn/newsDetail_forward_21029751)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9487 bytes                           |
+> | MD5             | 1c3bf08bd6ce675467dc4921ab70aefb                                  |
 > | Archived Date   | 2024-11-03 09:17:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_21029751](https://m.thepaper.cn/newsDetail_forward_21029751)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

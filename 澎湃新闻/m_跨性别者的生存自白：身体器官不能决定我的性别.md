@@ -296,10 +296,13 @@ Kelly接过的热线电话里，就有一位被迫走了极端的跨性别女性
 > | Filename        | m_跨性别者的生存自白：身体器官不能决定我的性别.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2722855](https://m.thepaper.cn/newsDetail_forward_2722855)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 20807 bytes                           |
+> | MD5             | f1fe9a5b791c1892f002f0e39fecf11e                                  |
 > | Archived Date   | 2024-11-03 09:25:17                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2722855](https://m.thepaper.cn/newsDetail_forward_2722855)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

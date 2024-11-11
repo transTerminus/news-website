@@ -68,10 +68,13 @@
 > | Filename        | news_要求变性人数约40万中国在宽容中接受男女易性者.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2002-04-06/detail-ikknscsi0134953.d.html](https://news.sina.cn/sa/2002-04-06/detail-ikknscsi0134953.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4296 bytes                           |
+> | MD5             | 8f6722686e41377996fd077725470a78                                  |
 > | Archived Date   | 2024-11-02 04:09:29                             |
+> | Original Link   | [https://news.sina.cn/sa/2002-04-06/detail-ikknscsi0134953.d.html](https://news.sina.cn/sa/2002-04-06/detail-ikknscsi0134953.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

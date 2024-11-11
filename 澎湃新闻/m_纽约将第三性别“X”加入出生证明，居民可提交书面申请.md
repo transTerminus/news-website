@@ -40,10 +40,13 @@
 > | Filename        | m_纽约将第三性别“X”加入出生证明，居民可提交书面申请.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2896 bytes                           |
+> | MD5             | c9b9f6d9a3e3db681bff004c62a4921b                                  |
 > | Archived Date   | 2024-11-03 10:11:13                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

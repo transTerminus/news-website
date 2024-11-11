@@ -175,10 +175,13 @@ We keep going going going」
 > | Filename        | m_跨性别者小小霏：在错误的身体中，人们努力成为自己.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6784501](https://m.thepaper.cn/newsDetail_forward_6784501)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 17735 bytes                           |
+> | MD5             | 1b54b058dc7a31c6ccd6c70e94c467ba                                  |
 > | Archived Date   | 2024-11-03 09:40:53                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6784501](https://m.thepaper.cn/newsDetail_forward_6784501)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

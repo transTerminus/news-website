@@ -304,10 +304,13 @@
 > | Filename        | m_女儿的第二次出柜，颠覆我的人生观.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5221979](https://m.thepaper.cn/newsDetail_forward_5221979)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 26056 bytes                           |
+> | MD5             | 816866301e1dfa59f69d525b76679d07                                  |
 > | Archived Date   | 2024-11-03 09:37:10                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5221979](https://m.thepaper.cn/newsDetail_forward_5221979)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

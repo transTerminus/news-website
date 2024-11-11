@@ -58,10 +58,13 @@
 > | Filename        | news_申请变性手术须20岁以上_手机新浪网.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2009-06-16/detail-ikknscsk4896472.d.html](https://news.sina.cn/sa/2009-06-16/detail-ikknscsk4896472.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3123 bytes                           |
+> | MD5             | 7db997c608776dd0e5254181cfed8900                                  |
 > | Archived Date   | 2024-11-02 06:06:09                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-06-16/detail-ikknscsk4896472.d.html](https://news.sina.cn/sa/2009-06-16/detail-ikknscsk4896472.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

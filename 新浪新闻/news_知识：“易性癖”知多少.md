@@ -58,10 +58,13 @@
 > | Filename        | news_知识：“易性癖”知多少.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5015531.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5015531.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2471 bytes                           |
+> | MD5             | 1d6c5bd202be9d0457b4dd4d070123ca                                  |
 > | Archived Date   | 2024-11-02 04:53:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5015531.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5015531.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

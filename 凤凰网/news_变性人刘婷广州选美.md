@@ -26,10 +26,13 @@
 > | Filename        | news_变性人刘婷广州选美.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20150924/44727147_0.shtml](https://news.ifeng.com/a/20150924/44727147_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2062 bytes                           |
+> | MD5             | 935e53ff9dd67b263dbef314986c4c1c                                  |
 > | Archived Date   | 2024-11-02 07:37:02                             |
+> | Original Link   | [https://news.ifeng.com/a/20150924/44727147_0.shtml](https://news.ifeng.com/a/20150924/44727147_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

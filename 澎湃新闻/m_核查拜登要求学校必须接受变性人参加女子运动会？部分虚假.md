@@ -118,10 +118,13 @@
 > | Filename        | m_核查拜登要求学校必须接受变性人参加女子运动会？部分虚假.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10917581](https://m.thepaper.cn/newsDetail_forward_10917581)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8694 bytes                           |
+> | MD5             | 740bef4136c2f7747b113c6e72118f90                                  |
 > | Archived Date   | 2024-11-03 08:42:42                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10917581](https://m.thepaper.cn/newsDetail_forward_10917581)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

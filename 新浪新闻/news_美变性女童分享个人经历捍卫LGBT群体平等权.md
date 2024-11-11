@@ -38,10 +38,13 @@
 > | Filename        | news_美变性女童分享个人经历捍卫LGBT群体平等权.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2017-07-31/detail-ifyinryq7308618.d.html](https://news.sina.cn/2017-07-31/detail-ifyinryq7308618.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4492 bytes                           |
+> | MD5             | 21e5e2b56811c7ca494c225fd55c7d0e                                  |
 > | Archived Date   | 2024-11-02 03:39:30                             |
+> | Original Link   | [https://news.sina.cn/2017-07-31/detail-ifyinryq7308618.d.html](https://news.sina.cn/2017-07-31/detail-ifyinryq7308618.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -63,10 +63,13 @@
 > | Filename        | news_男子穿女性内衣才能睡安稳不惜冒险欲变性(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-05-09/detail-ikkntiam3424826.d.html](https://news.sina.cn/sa/2005-05-09/detail-ikkntiam3424826.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4699 bytes                           |
+> | MD5             | 99b9f03783f900d1f49bcfdb0e4f79c1                                  |
 > | Archived Date   | 2024-11-02 05:00:22                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-05-09/detail-ikkntiam3424826.d.html](https://news.sina.cn/sa/2005-05-09/detail-ikkntiam3424826.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

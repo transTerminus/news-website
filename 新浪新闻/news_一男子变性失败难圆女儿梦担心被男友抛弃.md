@@ -69,10 +69,13 @@
 > | Filename        | news_一男子变性失败难圆女儿梦担心被男友抛弃.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-06-19/detail-ikknscsi0610925.d.html](https://news.sina.cn/sa/2003-06-19/detail-ikknscsi0610925.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4606 bytes                           |
+> | MD5             | 67b42fa0107a3834af2b29853a5fea83                                  |
 > | Archived Date   | 2024-11-02 04:15:32                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-06-19/detail-ikknscsi0610925.d.html](https://news.sina.cn/sa/2003-06-19/detail-ikknscsi0610925.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

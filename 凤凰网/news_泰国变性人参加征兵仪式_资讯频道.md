@@ -37,10 +37,13 @@
 > | Filename        | news_泰国变性人参加征兵仪式_资讯频道.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/a/20170406/50896573_0.shtml](https://news.ifeng.com/a/20170406/50896573_0.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1396 bytes                           |
+> | MD5             | 13382cf9755eedc8da7b66ee01076b56                                  |
 > | Archived Date   | 2024-11-02 07:48:32                             |
+> | Original Link   | [https://news.ifeng.com/a/20170406/50896573_0.shtml](https://news.ifeng.com/a/20170406/50896573_0.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

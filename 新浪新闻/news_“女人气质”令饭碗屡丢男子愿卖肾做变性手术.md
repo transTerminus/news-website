@@ -117,10 +117,13 @@
 > | Filename        | news_“女人气质”令饭碗屡丢男子愿卖肾做变性手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-03-25/detail-ikkntiak9736398.d.html](https://news.sina.cn/sa/2004-03-25/detail-ikkntiak9736398.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 11898 bytes                           |
+> | MD5             | 7d172a6f49ae024f1df6fd72d64e4360                                  |
 > | Archived Date   | 2024-11-02 04:34:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-03-25/detail-ikkntiak9736398.d.html](https://news.sina.cn/sa/2004-03-25/detail-ikkntiak9736398.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

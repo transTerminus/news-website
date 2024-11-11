@@ -64,10 +64,13 @@
 > | Filename        | news_英国剑桥市选出世界首位变性女市长(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2007-05-25/detail-ikftpnny3867573.d.html](https://news.sina.cn/sa/2007-05-25/detail-ikftpnny3867573.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4974 bytes                           |
+> | MD5             | 0cdbd0014786bf5c1d0ee4203615df4d                                  |
 > | Archived Date   | 2024-11-02 05:54:03                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-05-25/detail-ikftpnny3867573.d.html](https://news.sina.cn/sa/2007-05-25/detail-ikftpnny3867573.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

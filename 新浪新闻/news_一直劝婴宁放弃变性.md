@@ -37,10 +37,13 @@
 > | Filename        | news_一直劝婴宁放弃变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2007-06-30/detail-ikftssap2910001.d.html](https://news.sina.cn/sa/2007-06-30/detail-ikftssap2910001.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
+> | Size            | 3653 bytes                           |
+> | MD5             | 888b7d988212f467d06435ba0bfffb2a                                  |
+> | Archived Date   | 2024-11-11 05:24:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-06-30/detail-ikftssap2910001.d.html](https://news.sina.cn/sa/2007-06-30/detail-ikftssap2910001.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
 > | Date            | [Unknown date(update needed)]                                 |
-> | Archived Date   | 2024-11-06 07:11:04                             |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

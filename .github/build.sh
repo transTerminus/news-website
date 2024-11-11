@@ -37,9 +37,9 @@ python .github/scripts/page/gen_page.py
 echo "Page generated successfully!"
 
 # generate file meta
-# python .github/scripts/ai/archive/gen_file_meta.py
-echo "File meta generation skipped!"
-# echo "File meta generated successfully!"
+python .github/scripts/ai/archive/gen_file_meta.py
+# echo "File meta generation skipped!"
+echo "File meta generated successfully!"
 
 # add metadata to page if not exists, such as link and archived date
 python .github/scripts/file/add_config_from_page.py

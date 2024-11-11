@@ -30,10 +30,13 @@
 > | Filename        | news_变性人在菲律宾首都展身姿[组图].md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/photo/society/200810/1019_1400_836836_1.shtml](https://news.ifeng.com/photo/society/200810/1019_1400_836836_1.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 878 bytes                           |
+> | MD5             | bb08205c813d5a58bd6e9cca57d80675                                  |
 > | Archived Date   | 2024-11-02 08:26:31                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200810/1019_1400_836836_1.shtml](https://news.ifeng.com/photo/society/200810/1019_1400_836836_1.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

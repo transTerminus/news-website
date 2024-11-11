@@ -21,10 +21,13 @@
 > | Filename        | news_德国男议员任职期间变性成女子.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/7jTdUziHM4O](https://news.ifeng.com/c/7jTdUziHM4O)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 531 bytes                           |
+> | MD5             | 058a53c42f2c86d43dac439262aaa774                                  |
 > | Archived Date   | 2024-11-02 08:01:11                             |
+> | Original Link   | [https://news.ifeng.com/c/7jTdUziHM4O](https://news.ifeng.com/c/7jTdUziHM4O)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

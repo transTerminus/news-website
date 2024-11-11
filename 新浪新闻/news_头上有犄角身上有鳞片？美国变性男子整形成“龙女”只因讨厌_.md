@@ -29,10 +29,13 @@
 > | Filename        | news_头上有犄角身上有鳞片？美国变性男子整形成“龙女”只因讨厌_.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [http://news.sina.cn/gj/2019-02-26/detail-ihrfqzka9357078.d.html](http://news.sina.cn/gj/2019-02-26/detail-ihrfqzka9357078.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 983 bytes                           |
+> | MD5             | 1e7f6934704db3a8aa4fa95f0b76c605                                  |
 > | Archived Date   | 2024-11-02 03:27:47                             |
+> | Original Link   | [http://news.sina.cn/gj/2019-02-26/detail-ihrfqzka9357078.d.html](http://news.sina.cn/gj/2019-02-26/detail-ihrfqzka9357078.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

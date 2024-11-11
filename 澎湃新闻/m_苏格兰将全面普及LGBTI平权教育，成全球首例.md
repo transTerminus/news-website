@@ -18,10 +18,13 @@
 > | Filename        | m_苏格兰将全面普及LGBTI平权教育，成全球首例.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2659318](https://m.thepaper.cn/newsDetail_forward_2659318)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 815 bytes                           |
+> | MD5             | c51b4bb5fcea491a76941c9b17c94e25                                  |
 > | Archived Date   | 2024-11-03 09:22:50                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2659318](https://m.thepaper.cn/newsDetail_forward_2659318)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

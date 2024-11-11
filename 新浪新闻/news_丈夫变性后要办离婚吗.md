@@ -33,10 +33,13 @@
 > | Filename        | news_丈夫变性后要办离婚吗.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-02/detail-ikkntiam7526159.d.html](https://news.sina.cn/sa/2006-08-02/detail-ikkntiam7526159.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2391 bytes                           |
+> | MD5             | 5f0b7b085458d363e2e60c2a0bfe6fe2                                  |
 > | Archived Date   | 2024-11-02 05:35:41                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-08-02/detail-ikkntiam7526159.d.html](https://news.sina.cn/sa/2006-08-02/detail-ikkntiam7526159.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

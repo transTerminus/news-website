@@ -73,10 +73,13 @@ Roland Betancourt: 我希望能够尽可能直言不讳地去发表观点声援�
 > | Filename        | m_PUP冷芝士_拜占庭秘史中的性少数.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_12025720](https://m.thepaper.cn/newsDetail_forward_12025720)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3990 bytes                           |
+> | MD5             | 46f192d90f65818ba720c2c17b55eeed                                  |
 > | Archived Date   | 2024-11-03 08:45:02                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_12025720](https://m.thepaper.cn/newsDetail_forward_12025720)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

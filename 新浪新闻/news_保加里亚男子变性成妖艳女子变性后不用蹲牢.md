@@ -37,10 +37,13 @@
 > | Filename        | news_保加里亚男子变性成妖艳女子变性后不用蹲牢.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4144801.d.html](https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4144801.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2192 bytes                           |
+> | MD5             | 5f7d2809f75dd42254596f5306625690                                  |
 > | Archived Date   | 2024-11-02 05:06:20                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4144801.d.html](https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4144801.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

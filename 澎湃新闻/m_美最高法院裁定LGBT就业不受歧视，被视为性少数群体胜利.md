@@ -40,10 +40,13 @@
 > | Filename        | m_美最高法院裁定LGBT就业不受歧视，被视为性少数群体胜利.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=7863138&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=7863138&from=kuaibao)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2867 bytes                           |
+> | MD5             | 93b379648744ec8111d9b57eaa42cdd5                                  |
 > | Archived Date   | 2024-11-03 08:38:50                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=7863138&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=7863138&from=kuaibao)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

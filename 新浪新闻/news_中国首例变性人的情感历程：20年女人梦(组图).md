@@ -119,10 +119,13 @@
 > | Filename        | news_中国首例变性人的情感历程：20年女人梦(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html](https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 17103 bytes                           |
+> | MD5             | 83015dfbafb32f598f7d42b442e5c200                                  |
 > | Archived Date   | 2024-11-02 04:12:26                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html](https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

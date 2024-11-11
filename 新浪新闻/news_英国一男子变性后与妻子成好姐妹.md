@@ -30,10 +30,13 @@
 > | Filename        | news_英国一男子变性后与妻子成好姐妹.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2016-02-02/detail-ifxnzanh0604105.d.html](https://news.sina.cn/2016-02-02/detail-ifxnzanh0604105.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 965 bytes                           |
+> | MD5             | c0f191ed812fc4765c779d1c1bf51f4a                                  |
 > | Archived Date   | 2024-11-02 03:35:26                             |
+> | Original Link   | [https://news.sina.cn/2016-02-02/detail-ifxnzanh0604105.d.html](https://news.sina.cn/2016-02-02/detail-ifxnzanh0604105.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

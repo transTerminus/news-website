@@ -81,10 +81,13 @@
 > | Filename        | m_加拿大球星奎因将成奥运史上首位跨性别奖牌获得者.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13874276](https://m.thepaper.cn/newsDetail_forward_13874276)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 7391 bytes                           |
+> | MD5             | ee761525fa1c067d7510098256884ea2                                  |
 > | Archived Date   | 2024-11-03 08:54:44                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13874276](https://m.thepaper.cn/newsDetail_forward_13874276)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

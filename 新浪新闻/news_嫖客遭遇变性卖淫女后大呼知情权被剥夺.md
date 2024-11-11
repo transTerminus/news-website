@@ -61,10 +61,13 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 > | Filename        | news_嫖客遭遇变性卖淫女后大呼知情权被剥夺.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-09-27/detail-ikftssap2750059.d.html](https://news.sina.cn/sa/2006-09-27/detail-ikftssap2750059.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3342 bytes                           |
+> | MD5             | 23c7fefe0cd2aad69f87c6ab54b6a44f                                  |
 > | Archived Date   | 2024-11-02 05:38:09                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-09-27/detail-ikftssap2750059.d.html](https://news.sina.cn/sa/2006-09-27/detail-ikftssap2750059.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

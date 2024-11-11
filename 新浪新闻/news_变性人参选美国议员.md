@@ -39,10 +39,13 @@
 > | Filename        | news_变性人参选美国议员.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap](https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1646 bytes                           |
+> | MD5             | e9c49d5a02b57f7c41f3d0714ae20ae6                                  |
 > | Archived Date   | 2024-11-02 03:56:31                             |
+> | Original Link   | [https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap](https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

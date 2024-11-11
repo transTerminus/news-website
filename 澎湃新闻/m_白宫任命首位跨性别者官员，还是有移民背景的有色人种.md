@@ -57,10 +57,13 @@
 > | Filename        | m_白宫任命首位跨性别者官员，还是有移民背景的有色人种.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1366064](https://m.thepaper.cn/newsDetail_forward_1366064)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 5367 bytes                           |
+> | MD5             | 721f634c25b31fa135f438c69a258218                                  |
 > | Archived Date   | 2024-11-03 08:51:54                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1366064](https://m.thepaper.cn/newsDetail_forward_1366064)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

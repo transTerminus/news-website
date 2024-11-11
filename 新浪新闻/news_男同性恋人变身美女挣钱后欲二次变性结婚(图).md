@@ -59,10 +59,13 @@
 > | Filename        | news_男同性恋人变身美女挣钱后欲二次变性结婚(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-27/detail-ikftssap2650025.d.html](https://news.sina.cn/sa/2006-06-27/detail-ikftssap2650025.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4693 bytes                           |
+> | MD5             | 10c54134d9b549f27eed95bc4abc1e66                                  |
 > | Archived Date   | 2024-11-02 05:30:57                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-27/detail-ikftssap2650025.d.html](https://news.sina.cn/sa/2006-06-27/detail-ikftssap2650025.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

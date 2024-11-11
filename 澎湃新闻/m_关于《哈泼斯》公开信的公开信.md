@@ -260,10 +260,13 @@ J.K.罗琳，签名者之一，在推特上喋喋不休地谈论跨性别恐惧�
 > | Filename        | m_关于《哈泼斯》公开信的公开信.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8313061](https://m.thepaper.cn/newsDetail_forward_8313061)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 29652 bytes                           |
+> | MD5             | da4f582778985a96379b89f5e28964f4                                  |
 > | Archived Date   | 2024-11-03 09:45:19                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8313061](https://m.thepaper.cn/newsDetail_forward_8313061)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

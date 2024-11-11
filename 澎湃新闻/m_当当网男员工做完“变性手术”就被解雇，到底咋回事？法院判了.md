@@ -123,10 +123,13 @@
 > | Filename        | m_当当网男员工做完“变性手术”就被解雇，到底咋回事？法院判了.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8176623](https://m.thepaper.cn/newsDetail_forward_8176623)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 9720 bytes                           |
+> | MD5             | c5ef973ac08f05fd486ebc4b1fece3d9                                  |
 > | Archived Date   | 2024-11-03 09:44:49                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8176623](https://m.thepaper.cn/newsDetail_forward_8176623)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

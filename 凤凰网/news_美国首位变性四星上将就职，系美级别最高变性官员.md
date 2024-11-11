@@ -33,10 +33,13 @@
 > | Filename        | news_美国首位变性四星上将就职，系美级别最高变性官员.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/8AVRJE2l5Bk](https://news.ifeng.com/c/8AVRJE2l5Bk)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2225 bytes                           |
+> | MD5             | 8904e66c952bb910bd67e31d57a43fd1                                  |
 > | Archived Date   | 2024-11-02 08:12:05                             |
+> | Original Link   | [https://news.ifeng.com/c/8AVRJE2l5Bk](https://news.ifeng.com/c/8AVRJE2l5Bk)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

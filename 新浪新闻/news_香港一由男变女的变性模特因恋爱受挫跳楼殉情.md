@@ -40,10 +40,13 @@
 > | Filename        | news_香港一由男变女的变性模特因恋爱受挫跳楼殉情.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4339045.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4339045.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1973 bytes                           |
+> | MD5             | 63b359ae1065f68d0e588d643539bdf1                                  |
 > | Archived Date   | 2024-11-02 04:46:55                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4339045.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4339045.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

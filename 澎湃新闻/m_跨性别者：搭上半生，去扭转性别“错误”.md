@@ -289,10 +289,13 @@
 > | Filename        | m_跨性别者：搭上半生，去扭转性别“错误”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3275834?commTag=true](https://m.thepaper.cn/newsDetail_forward_3275834?commTag=true)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 21399 bytes                           |
+> | MD5             | 1d5243a185bc243e78bf3b197c8a67d6                                  |
 > | Archived Date   | 2024-11-03 09:32:06                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3275834?commTag=true](https://m.thepaper.cn/newsDetail_forward_3275834?commTag=true)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

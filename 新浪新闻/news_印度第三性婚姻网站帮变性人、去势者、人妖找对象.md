@@ -30,10 +30,13 @@
 > | Filename        | news_印度第三性婚姻网站帮变性人、去势者、人妖找对象.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2009-11-12/detail-ikmyaawa2293442.d.html](https://news.sina.cn/sa/2009-11-12/detail-ikmyaawa2293442.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 3249 bytes                           |
+> | MD5             | c43d2d7e213642e70c6c008a31e9283c                                  |
 > | Archived Date   | 2024-11-02 06:10:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-11-12/detail-ikmyaawa2293442.d.html](https://news.sina.cn/sa/2009-11-12/detail-ikmyaawa2293442.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

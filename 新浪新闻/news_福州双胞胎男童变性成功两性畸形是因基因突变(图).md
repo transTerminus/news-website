@@ -27,10 +27,13 @@
 > | Filename        | news_福州双胞胎男童变性成功两性畸形是因基因突变(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-05/detail-ikkntiak8763932.d.html](https://news.sina.cn/sa/2003-12-05/detail-ikkntiak8763932.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 1608 bytes                           |
+> | MD5             | 1139797ea8768d0b30a167c1871729a1                                  |
 > | Archived Date   | 2024-11-02 04:19:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-12-05/detail-ikkntiak8763932.d.html](https://news.sina.cn/sa/2003-12-05/detail-ikkntiak8763932.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

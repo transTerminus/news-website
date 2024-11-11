@@ -57,10 +57,13 @@
 > | Filename        | news_帅哥变性成美女续：单位欢迎其回来上班(图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html](https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4016 bytes                           |
+> | MD5             | 9c3d395e3b4241c810b1df5f2204d87c                                  |
 > | Archived Date   | 2024-11-02 05:08:44                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html](https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

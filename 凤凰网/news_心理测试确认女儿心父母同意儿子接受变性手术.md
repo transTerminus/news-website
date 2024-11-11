@@ -55,10 +55,13 @@
 > | Filename        | news_心理测试确认女儿心父母同意儿子接受变性手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/society/2/200811/1104_344_862346.shtml](https://news.ifeng.com/society/2/200811/1104_344_862346.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4240 bytes                           |
+> | MD5             | 590c819723ca222655db3a876fe2bd07                                  |
 > | Archived Date   | 2024-11-02 08:29:21                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200811/1104_344_862346.shtml](https://news.ifeng.com/society/2/200811/1104_344_862346.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

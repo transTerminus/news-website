@@ -86,10 +86,13 @@
 > | Filename        | m_全球首位跨性别举重运动员参赛，网友吵上热搜：等于作弊.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13759187](https://m.thepaper.cn/newsDetail_forward_13759187)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 4675 bytes                           |
+> | MD5             | 4310f53842ce0a42feedffeaaf6df708                                  |
 > | Archived Date   | 2024-11-03 08:52:23                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13759187](https://m.thepaper.cn/newsDetail_forward_13759187)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

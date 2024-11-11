@@ -120,10 +120,13 @@
 > | Filename        | news_变性人“莉莉”被取消环球小姐参赛资格(组图).md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638393.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638393.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 8318 bytes                           |
+> | MD5             | 067967ca6f06574bb5e82ea1be48c16d                                  |
 > | Archived Date   | 2024-11-02 04:29:26                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638393.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638393.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

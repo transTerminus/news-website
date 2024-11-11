@@ -60,10 +60,13 @@
 > | Filename        | news_美国女子后悔变性，警告称人们25岁前不该被允许做手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/c/8OCvYcYMBpM](https://news.ifeng.com/c/8OCvYcYMBpM)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6826 bytes                           |
+> | MD5             | 03fce46557504c7e002e2b753d9837e5                                  |
 > | Archived Date   | 2024-11-02 08:15:02                             |
+> | Original Link   | [https://news.ifeng.com/c/8OCvYcYMBpM](https://news.ifeng.com/c/8OCvYcYMBpM)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -34,10 +34,13 @@
 > | Filename        | news_年满20岁才能进行变性手术.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html](https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2556 bytes                           |
+> | MD5             | e2e060f2cb521df8c1208502ff3e3e3e                                  |
 > | Archived Date   | 2024-11-02 06:07:24                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html](https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

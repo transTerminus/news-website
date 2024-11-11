@@ -72,10 +72,13 @@ IOC医学主任巴吉特认为新的规定势在必行：“这是一个科学�
 > | Filename        | news_重磅！里约奥运会或对变性人“开绿灯”.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/2016-01-26/detail-ifxnurxn9986831.d.html](https://news.sina.cn/2016-01-26/detail-ifxnurxn9986831.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 6979 bytes                           |
+> | MD5             | 8d2d227cca6e341a9163c04aae9a8680                                  |
 > | Archived Date   | 2024-11-02 03:34:53                             |
+> | Original Link   | [https://news.sina.cn/2016-01-26/detail-ifxnurxn9986831.d.html](https://news.sina.cn/2016-01-26/detail-ifxnurxn9986831.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

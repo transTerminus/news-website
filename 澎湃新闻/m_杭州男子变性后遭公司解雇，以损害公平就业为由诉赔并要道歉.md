@@ -34,10 +34,13 @@
 > | Filename        | m_杭州男子变性后遭公司解雇，以损害公平就业为由诉赔并要道歉.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=5138773&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=5138773&from=wifiKey)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 2717 bytes                           |
+> | MD5             | eba10eb71b22abe39c412a82e9a4c539                                  |
 > | Archived Date   | 2024-11-03 10:13:41                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=5138773&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=5138773&from=wifiKey)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

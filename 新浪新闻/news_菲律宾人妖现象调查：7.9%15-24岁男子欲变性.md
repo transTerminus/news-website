@@ -68,10 +68,13 @@ Violette Yolande理发厅位于离首都商业中心不远的街上，29岁的�
 > | Filename        | news_菲律宾人妖现象调查：7.9%15-24岁男子欲变性.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.sina.cn/sa/2010-09-13/detail-ikftssap3361244.d.html](https://news.sina.cn/sa/2010-09-13/detail-ikftssap3361244.d.html)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 10050 bytes                           |
+> | MD5             | d430efbbb68033a28385c1c28e154f23                                  |
 > | Archived Date   | 2024-11-02 06:19:13                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-09-13/detail-ikftssap3361244.d.html](https://news.sina.cn/sa/2010-09-13/detail-ikftssap3361244.d.html)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -39,10 +39,13 @@
 > | Filename        | news_解密50岁老汉变性手术过程.md                             |
 > | Type            | webpage                                 |
 > | Format          | Markdown                               |
-> | Original Link   | [https://news.ifeng.com/photo/200704/0429_24_111458_4.shtml](https://news.ifeng.com/photo/200704/0429_24_111458_4.shtml)                       |
-> | Creator         | [Unknown creator(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
+> | Size            | 862 bytes                           |
+> | MD5             | ac68b216c90a5ca9c0ce26250a0905f0                                  |
 > | Archived Date   | 2024-11-02 08:24:48                             |
+> | Original Link   | [https://news.ifeng.com/photo/200704/0429_24_111458_4.shtml](https://news.ifeng.com/photo/200704/0429_24_111458_4.shtml)                         |
+> | Author          | [Unknown author(update needed)]                              |
+> | Region          | [Unknown region(update needed)]                              |
+> | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
