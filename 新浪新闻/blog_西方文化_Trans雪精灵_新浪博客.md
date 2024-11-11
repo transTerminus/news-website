@@ -18,19 +18,22 @@ Trans雪精灵
 Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved  
 新浪公司 [版权所有](//www.sina.com.cn/intro/copyright.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | blog_西方文化_Trans雪精灵_新浪博客.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 467 bytes                           |
-> | MD5             | 791c257399584822d152474b318349ce                                  |
-> | Archived Date   | 2024-11-09 06:00:45                             |
-> | Original Link   | [https://blog.sina.com.cn/s/articlelist_5345996757_3_1.html](https://blog.sina.com.cn/s/articlelist_5345996757_3_1.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

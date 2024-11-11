@@ -69,19 +69,22 @@
 ## 热门评论
 查看598条评论
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性者后感概手术容易融入生活难(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5808 bytes                           |
-> | MD5             | fa30cb6ee995ca911e23214779eb941f                                  |
-> | Archived Date   | 2024-11-02 06:31:55                             |
-> | Original Link   | [https://news.sina.cn/sa/2014-06-18/detail-ikmyaawa5976161.d.html](https://news.sina.cn/sa/2014-06-18/detail-ikmyaawa5976161.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

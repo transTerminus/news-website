@@ -41,19 +41,22 @@
 
 版权属于凤凰网，转载目的在于传递更多信息，如涉及版权问题，请联系删除。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_万斯建议禁止跨性别运动员参加女子体育比赛_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3052 bytes                           |
-> | MD5             | 6aedb727e33dba06ca1215f8184dbd38                                  |
-> | Archived Date   | 2024-11-09 10:41:32                             |
-> | Original Link   | [https://news.ifeng.com/c/8dvwEdB1Do9](https://news.ifeng.com/c/8dvwEdB1Do9)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

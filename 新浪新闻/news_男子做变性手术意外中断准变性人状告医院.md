@@ -33,19 +33,22 @@
 
 ![新浪新闻官方](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子做变性手术意外中断准变性人状告医院.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5377 bytes                           |
-> | MD5             | 725c1a634af12c27d1d33c0d2c4194e4                                  |
-> | Archived Date   | 2024-11-02 04:45:47                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-08-25/detail-ikknscsi4028379.d.html](https://news.sina.cn/sa/2004-08-25/detail-ikknscsi4028379.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

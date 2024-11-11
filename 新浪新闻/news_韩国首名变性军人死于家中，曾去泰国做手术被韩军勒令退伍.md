@@ -42,19 +42,22 @@
 **最幸福的事，并不是活的像别人，而是有能力活成你自己。**  
 **2021-03-04 辽宁大连**  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_韩国首名变性军人死于家中，曾去泰国做手术被韩军勒令退伍.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2219 bytes                           |
-> | MD5             | f4b55a1044b96704db580cc95ff57ccf                                  |
-> | Archived Date   | 2024-11-02 03:42:31                             |
-> | Original Link   | [https://news.sina.cn/2021-03-04/detail-ikftssaq0920324.d.html](https://news.sina.cn/2021-03-04/detail-ikftssaq0920324.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

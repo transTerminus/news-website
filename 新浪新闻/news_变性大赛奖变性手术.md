@@ -22,19 +22,22 @@
 
 新浪新闻官方
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性大赛奖变性手术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1340 bytes                           |
-> | MD5             | 02b787ebd28ab212a386aa2126ed8ce8                                  |
-> | Archived Date   | 2024-11-02 03:26:36                             |
-> | Original Link   | [http://news.sina.cn/gj/2016-01-27/detail-ifxnvhvu7083271.d.html](http://news.sina.cn/gj/2016-01-27/detail-ifxnvhvu7083271.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

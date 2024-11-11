@@ -17,19 +17,22 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“变性人”要做“变声术”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1352 bytes                           |
-> | MD5             | 8f5ae37e202153a2ebe68ca34afd5d4d                                  |
-> | Archived Date   | 2024-11-02 06:00:16                             |
-> | Original Link   | [https://news.sina.cn/sa/2008-07-19/detail-ikknscsk3951483.d.html](https://news.sina.cn/sa/2008-07-19/detail-ikknscsk3951483.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -76,19 +76,22 @@
 **无聊**  
 **时间**：2003-09-15
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性手术者杀入选美决赛漂亮女人原是男儿身.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9743 bytes                           |
-> | MD5             | d8ff2311d00c54e0e49ce1cc995f059a                                  |
-> | Archived Date   | 2024-11-02 04:11:50                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-04-01/detail-ikkntiak7272953.d.html](https://news.sina.cn/sa/2003-04-01/detail-ikkntiak7272953.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

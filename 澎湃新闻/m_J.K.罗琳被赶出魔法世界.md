@@ -96,21 +96,24 @@
 
 而如今我们无从得知，这场势与创作者割席的风波何时会结束。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文探讨了《哈利·波特》系列小说作者J.K.罗琳因其反跨性别言论而受到的广泛批评和影响。自2019年起，罗琳因支持女权主义观点并质疑跨性别者的定义而陷入争议，这使她在2021年《哈利·波特》20周年特辑中未被邀请，引发公众讨论。文章详细描述了罗琳的言论如何导致她与电影制作方、演员的关系紧张，许多商业品牌也与她解约。在这个过程中，社会对她的态度经历了从追随到嫌弃的变化，尤其是在她的新作品中展现出的似乎对跨性别群体的不友好的立场。最终，虽然罗琳的个人观点引发争议，但她创作的《哈利·波特》系列仍然在全球拥有广泛的影响力和受众，成为一代人的集体记忆。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_J.K.罗琳被赶出魔法世界.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9648 bytes                           |
-> | MD5             | e8efad3a2f1bdd84ba2a793629bdd2c1                                  |
-> | Archived Date   | 2024-11-03 08:27:21                             |
-> | Original Link   | [https://m.thepaper.cn/baijiahao_15535643](https://m.thepaper.cn/baijiahao_15535643)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 棠棠                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-11-25                                 |
+> | Tags            | 跨性别, J.K.罗琳, 《哈利·波特》, 社会舆论, 女权主义, 文化影响, 网络暴力                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

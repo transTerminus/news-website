@@ -39,19 +39,22 @@
 
 评论：88字
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_名嘴爆称港姐有变性人最美丽港姐表震惊(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2842 bytes                           |
-> | MD5             | fd6f1f774fc677bcb948ed477bb7596a                                  |
-> | Archived Date   | 2024-11-02 06:16:10                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-05-24/detail-ikmyaawa2895576.d.html](https://news.sina.cn/sa/2010-05-24/detail-ikmyaawa2895576.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

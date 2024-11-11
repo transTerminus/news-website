@@ -16,19 +16,22 @@
 
 美国国防部拒绝公布服役中变性军人的数量。但根据美国智库兰德公司2016年一份研究报告，美国现役军人约130万人，在现役和预备役军人中有数千至上万名变性人。报告认为，允许变性人公开身份服役对军队战斗力和医疗开支“影响极小”。（本文原题为《特朗普签署备忘录禁止变性人参军》）
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_美国总统特朗普签署备忘录，要求国防部禁止变性人服役.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2170 bytes                           |
-> | MD5             | 247a0077dcee9abc8055de962f425218                                  |
-> | Archived Date   | 2024-11-03 09:09:29                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1775511](https://m.thepaper.cn/newsDetail_forward_1775511)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

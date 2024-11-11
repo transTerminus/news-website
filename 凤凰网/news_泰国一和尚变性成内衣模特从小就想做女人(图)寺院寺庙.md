@@ -26,19 +26,22 @@ Mimi表示，自己始终没有忘记曾经在寺院的生活，时至今日，�
 
 \[责任编辑：PN060\]
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国一和尚变性成内衣模特从小就想做女人(图)寺院寺庙.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2223 bytes                           |
-> | MD5             | 61ca57fba643f674a7b33bb1868c18dd                                  |
-> | Archived Date   | 2024-11-02 07:42:07                             |
-> | Original Link   | [https://news.ifeng.com/a/20151218/46727719_0.shtml](https://news.ifeng.com/a/20151218/46727719_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

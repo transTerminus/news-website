@@ -46,19 +46,22 @@
 
 ![下载新浪财经app](http://n.sinaimg.cn/finance/article/tg_app_2017/back.jpg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | doc_性别选择与跨性别者.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4783 bytes                           |
-> | MD5             | aeb34bea38cada491104dbb906b7cb15                                  |
-> | Archived Date   | 2024-11-09 05:32:09                             |
-> | Original Link   | [http://doc.sina.cn/?id=comos:fyarref5522192](http://doc.sina.cn/?id=comos:fyarref5522192)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

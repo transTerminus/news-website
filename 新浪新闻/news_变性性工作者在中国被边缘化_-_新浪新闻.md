@@ -61,19 +61,22 @@ Copyright © 1996-2015 SINA Corporation, All Rights Reserved
 
 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性性工作者在中国被边缘化_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3895 bytes                           |
-> | MD5             | 7565cd6e61500b4ce8b99a723a920935                                  |
-> | Archived Date   | 2024-11-09 05:47:51                             |
-> | Original Link   | [http://news.sina.com.cn/w/zg/gjzt/2015-01-20/0550576.html?from=wap](http://news.sina.com.cn/w/zg/gjzt/2015-01-20/0550576.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -60,19 +60,22 @@ _标签：LGBTQ+、媒体、广告、跨性别_
 
 _版权声明：本文来源于199IT_
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | interface_尼尔森：2023年LGBTQ+在媒体和广告中的表现_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4448 bytes                           |
-> | MD5             | 4eda1fd41e09c1b115925d7c7562292b                                  |
-> | Archived Date   | 2024-11-09 06:37:10                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-03-01%2Fdoc-inakuawt0800964.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-03-01%2Fdoc-inakuawt0800964.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

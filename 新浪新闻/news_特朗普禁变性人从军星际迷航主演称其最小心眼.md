@@ -70,19 +70,22 @@ LGBT权益组织GLAAD表示，特朗普禁止变性人参军，是对所有属�
 **2017-07-27**  
 广东广州
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普禁变性人从军星际迷航主演称其最小心眼.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6641 bytes                           |
-> | MD5             | 4f781d1e60cfa584c028b260c01b9c57                                  |
-> | Archived Date   | 2024-11-02 03:57:44                             |
-> | Original Link   | [https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2586979.d.html?vt=4](https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2586979.d.html?vt=4)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

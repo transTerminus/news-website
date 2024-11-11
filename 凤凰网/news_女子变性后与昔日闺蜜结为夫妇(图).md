@@ -22,19 +22,22 @@
 
 \[责任编辑：PN030\]
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_女子变性后与昔日闺蜜结为夫妇(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1563 bytes                           |
-> | MD5             | fc4be7feb514ea1c9a3c0e3b10f03212                                  |
-> | Archived Date   | 2024-11-02 07:23:25                             |
-> | Original Link   | [https://news.ifeng.com/a/20150215/43183032_0.shtml](https://news.ifeng.com/a/20150215/43183032_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -32,19 +32,22 @@
 © 1996-2010 SINA Corporation, All Rights Reserved  
 [新浪简介](http://corp.sina.com.cn/chn/) | [About Sina](http://corp.sina.com.cn/eng/) | [联系我们](http://www.sina.com.cn/contactus.html) | [网站律师](http://www.sina.com.cn/intro/lawfirm.shtml) | [会员注册](http://members.sina.com.cn/apply/) | [产品答疑](http://help.sina.com.cn/)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_日本男子流行男扮女装“伪娘”大受欢迎(图)_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3220 bytes                           |
-> | MD5             | 555e5ae2784778171f45012bf44a21e5                                  |
-> | Archived Date   | 2024-11-09 07:49:16                             |
-> | Original Link   | [https://news.sina.com.cn/o/2010-01-01/105716866103s.shtml](https://news.sina.com.cn/o/2010-01-01/105716866103s.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

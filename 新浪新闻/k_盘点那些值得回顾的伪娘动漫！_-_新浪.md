@@ -66,19 +66,22 @@ _![](https://n.sinaimg.cn/sinacn10205/360/w180h180/20191012/3ea6-ifvwfti7976867.
 
 **特别声明：**以上文章内容仅代表作者本人观点，不代表 新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发布后的30日内与 新浪网联系。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_盘点那些值得回顾的伪娘动漫！_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3997 bytes                           |
-> | MD5             | 5ae14061f71a39aed59832fb79dc978c                                  |
-> | Archived Date   | 2024-11-09 06:47:46                             |
-> | Original Link   | [https://k.sina.cn/article_3800377746_e2852992001003jkt.html](https://k.sina.cn/article_3800377746_e2852992001003jkt.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -39,19 +39,22 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_国际奥委会放宽变性人参赛门槛无需手术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2441 bytes                           |
-> | MD5             | 74640cff1fd60f3dcd8cdf230f6dbe5b                                  |
-> | Archived Date   | 2024-11-02 03:54:09                             |
-> | Original Link   | [https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html](https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -25,19 +25,22 @@
 标签：跨性别  
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | travel_泰国人妖鲜艳人生，晚年生活却惨淡无光_-_新浪旅游.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9009 bytes                           |
-> | MD5             | e37381d914e4936df28b6319a6d353b7                                  |
-> | Archived Date   | 2024-11-09 07:58:05                             |
-> | Original Link   | [https://travel.sina.cn/video/baidang/2019-02-23/detail-ihrfqzka8508904.d.html](https://travel.sina.cn/video/baidang/2019-02-23/detail-ihrfqzka8508904.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

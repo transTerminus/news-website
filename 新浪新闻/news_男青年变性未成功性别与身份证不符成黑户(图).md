@@ -87,19 +87,22 @@
 **你可以去大医院做个把死人的比比移植到你身上的手术,还有现在卖比的人也很多你可以买一个装上不就成了嘛**  
 **2011-06-29**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男青年变性未成功性别与身份证不符成黑户(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10545 bytes                           |
-> | MD5             | 451da8c3edf2630df996f5d492e8d96d                                  |
-> | Archived Date   | 2024-11-02 06:16:50                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-06-30/detail-ikftssap3323692.d.html](https://news.sina.cn/sa/2010-06-30/detail-ikftssap3323692.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

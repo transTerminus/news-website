@@ -57,19 +57,22 @@
 
 ---
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_卫生部：公民申请变性手术年龄须满20岁_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3299 bytes                           |
-> | MD5             | 3a3623d3ff38e0f6946ec28c1bf7336f                                  |
-> | Archived Date   | 2024-11-02 08:23:08                             |
-> | Original Link   | [https://news.ifeng.com/mainland/200906/0616_17_1205327.shtml](https://news.ifeng.com/mainland/200906/0616_17_1205327.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

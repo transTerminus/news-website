@@ -50,19 +50,22 @@
 
 [立即加入讨论](javascript:void(0))
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_21岁男子成功变性专家称变性人数呈渐增趋势.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2862 bytes                           |
-> | MD5             | 4e08335c7f77a583fd35f5eb300c63f5                                  |
-> | Archived Date   | 2024-11-02 06:27:02                             |
-> | Original Link   | [https://news.sina.cn/sa/2011-09-08/detail-ikftssap4072834.d.html](https://news.sina.cn/sa/2011-09-08/detail-ikftssap4072834.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

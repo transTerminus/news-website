@@ -112,19 +112,22 @@
 
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问 [澎湃号申请](https://renzheng.thepaper.cn)。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_拜登废除变性人服役禁令.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7770 bytes                           |
-> | MD5             | 6d14e3cd8af8702ffde8eebe2b30199a                                  |
-> | Archived Date   | 2024-11-03 08:43:46                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10948542](https://m.thepaper.cn/newsDetail_forward_10948542)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

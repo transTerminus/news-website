@@ -26,19 +26,22 @@
 
 版权 © 2013 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_最美男模接受变性做女模(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1500 bytes                           |
-> | MD5             | a2742bb42a2978f531a75dff36ad12b0                                  |
-> | Archived Date   | 2024-11-02 06:57:17                             |
-> | Original Link   | [https://news.ifeng.com/a/20140728/41334974_0.shtml](https://news.ifeng.com/a/20140728/41334974_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

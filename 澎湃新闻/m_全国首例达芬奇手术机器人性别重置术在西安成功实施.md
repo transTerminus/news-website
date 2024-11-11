@@ -54,19 +54,22 @@
 
 郭树忠教授说：西安国际医学中心整形医院，虽然是一个全新的医院，但是我所带领的技术团队拥有着丰富的手术经验，依托于医院国际一流的设备基础，我们将持续不断的改进技术，力争走在世界的前列，造福更多的患者。同时他还呼吁：“我们要理解和包容这个世界的不同。”理解他们对于自己身体的选择，理解他们无害于社会的生活方式，理解他们内心的挣扎和苦楚。对彼此多一些包容，也给予这些勇敢选择改变的人更多的接纳。经历了近二十年的心理斗争，患者终于在家人的理解下勇敢迈出这一步，去寻求内心与身体的统一。也希望更多的人，能做回真实的自己，幸福自在的生活下去。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_全国首例达芬奇手术机器人性别重置术在西安成功实施.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9704 bytes                           |
-> | MD5             | 9a1d68f8c96335f97f63fb04502b7fed                                  |
-> | Archived Date   | 2024-11-03 08:25:02                             |
-> | Original Link   | [https://m.thepaper.cn/baijiahao_12894914?sdkver=ab0abe70](https://m.thepaper.cn/baijiahao_12894914?sdkver=ab0abe70)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

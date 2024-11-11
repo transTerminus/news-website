@@ -1,18 +1,21 @@
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+{description}
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | {filename}                             |
-> | Type            | {type}                                 |
-> | Format          | {format}                               |
 > | Size            | {size} bytes                           |
-> | MD5             | {md5}                                  |
 > | Archived Date   | {archived}                             |
-> | Original Link   | [{link}]({link})                         |
-> | Author          | {author}                              |
-> | Region          | {region}                              |
+> | Original Link   | [{link}]({link})                       |
+> | Author          | {author}                               |
+> | Region          | {region}                               |
 > | Date            | {date}                                 |
 > | Tags            | {tags}                                 |
 >

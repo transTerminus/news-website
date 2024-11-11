@@ -39,19 +39,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_马上评｜当当解聘接受变性手术员工：歧视，还是旷工？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4830 bytes                           |
-> | MD5             | 02750a2800a2ce78021c7de22b608a0d                                  |
-> | Archived Date   | 2024-11-03 10:15:31                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=8143733&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=8143733&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

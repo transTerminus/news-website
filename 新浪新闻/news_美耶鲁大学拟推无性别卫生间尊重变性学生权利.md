@@ -47,19 +47,22 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 热点资讯 精彩视频抢先看 5.0分好评  
 免费 / 绿色应用 / 优质
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美耶鲁大学拟推无性别卫生间尊重变性学生权利.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2231 bytes                           |
-> | MD5             | 806069c6d8d2bcf17875c3256224723f                                  |
-> | Archived Date   | 2024-11-02 03:54:44                             |
-> | Original Link   | [https://news.sina.cn/gj/2016-05-23/detail-ifxsktkr5890562.d.html?from=wap](https://news.sina.cn/gj/2016-05-23/detail-ifxsktkr5890562.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

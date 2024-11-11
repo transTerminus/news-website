@@ -74,19 +74,22 @@
 
 **Copyright © 2023 新浪网**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_23岁男儿期待成为真女人7天之后将变性(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6383 bytes                           |
-> | MD5             | f446e3427bd69fc53c13102de53cac3b                                  |
-> | Archived Date   | 2024-11-02 04:26:16                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-26/detail-ikknscsi2783955.d.html](https://news.sina.cn/sa/2004-02-26/detail-ikknscsi2783955.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

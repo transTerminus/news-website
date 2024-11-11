@@ -37,19 +37,22 @@
 
 ![凤凰网logo](http://img.ifeng.com/page/Logo.gif)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | ent_《好声音》张新“反串”引争议26岁男孩雌雄难辨_-_娱乐-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5088 bytes                           |
-> | MD5             | a001ceeec0496806a8a83001b7bbd790                                  |
-> | Archived Date   | 2024-11-09 10:13:21                             |
-> | Original Link   | [https://ent.ifeng.com/tv/special/haoshengyin2/content-3/detail_2013_07/27/27982778_0.shtml](https://ent.ifeng.com/tv/special/haoshengyin2/content-3/detail_2013_07/27/27982778_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -42,19 +42,22 @@
 **评论数**：0  
 **收藏数**：0  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | blog_伪娘：社会性别错位及广大受众们_南下的兵马俑_-_新浪网站导航.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3948 bytes                           |
-> | MD5             | 19d2ede3b8dbe2b301df44331a3ccda9                                  |
-> | Archived Date   | 2024-11-09 06:05:06                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_4ccd96730100iupl.html](https://blog.sina.com.cn/s/blog_4ccd96730100iupl.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

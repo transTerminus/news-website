@@ -27,19 +27,22 @@
 
 凤凰卫视综合报道
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_俄罗斯规定变性人和跨性人不得领驾照称为了减少车祸.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1737 bytes                           |
-> | MD5             | f88df825ccac2f9aa2c22319ce26a693                                  |
-> | Archived Date   | 2024-11-02 07:20:38                             |
-> | Original Link   | [https://news.ifeng.com/a/20150114/42932945_0.shtml](https://news.ifeng.com/a/20150114/42932945_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

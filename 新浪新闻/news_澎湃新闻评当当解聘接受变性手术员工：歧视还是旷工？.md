@@ -46,19 +46,22 @@
 
 输入评论内容
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_澎湃新闻评当当解聘接受变性手术员工：歧视还是旷工？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5108 bytes                           |
-> | MD5             | 89128f95f29ab7bc92bcd9eb46694703                                  |
-> | Archived Date   | 2024-11-02 03:41:54                             |
-> | Original Link   | [https://news.sina.cn/2020-07-06/detail-iircuyvk2265520.d.html](https://news.sina.cn/2020-07-06/detail-iircuyvk2265520.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

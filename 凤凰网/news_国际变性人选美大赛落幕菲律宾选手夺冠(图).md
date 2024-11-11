@@ -32,19 +32,22 @@
 
 版权信息：凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_国际变性人选美大赛落幕菲律宾选手夺冠(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1632 bytes                           |
-> | MD5             | 646da3bb9faa414e5186827093daa243                                  |
-> | Archived Date   | 2024-11-02 07:39:51                             |
-> | Original Link   | [https://news.ifeng.com/a/20151107/46149936_0.shtml](https://news.ifeng.com/a/20151107/46149936_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

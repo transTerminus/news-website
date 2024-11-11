@@ -7,19 +7,22 @@
 
 12月14日报道，当地时间12月13日，泰国曼谷，曼谷举行2018年环球小姐选美大赛，西班牙小姐变性人选手Angela Ponce 接受采访，她是环球小姐选美大赛中的首位变性人选手。来源：视觉中国
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_首位变性人参选环球小姐选美大赛.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 480 bytes                           |
-> | MD5             | bb97c3580f4ce968ea4363ab05b802e2                                  |
-> | Archived Date   | 2024-11-02 08:00:49                             |
-> | Original Link   | [https://news.ifeng.com/c/7id7cUd4pRQ](https://news.ifeng.com/c/7id7cUd4pRQ)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

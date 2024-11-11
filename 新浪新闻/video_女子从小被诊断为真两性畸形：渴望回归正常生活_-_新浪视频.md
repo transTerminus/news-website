@@ -34,19 +34,22 @@
 
 太长
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | video_女子从小被诊断为真两性畸形：渴望回归正常生活_-_新浪视频.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 733 bytes                           |
-> | MD5             | 16240877ece322b5bd1f75b8266866e7                                  |
-> | Archived Date   | 2024-11-09 08:02:09                             |
-> | Original Link   | [https://video.sina.cn/news/2023-08-10/detail-imzftfev6682347.d.html?oid=%E6%84%9B%E8%96%87%E5%85%92%E6%88%90%E4%BA%BA-[%E6%8E%A8%E8%8D%90gz36.vip]-h%E6%88%90%E4%BA%BA-[%E6%8E%A8%E8%8D%90gz36.vip]-%E8%89%BE%E8%96%87%E5%85%92%E6%88%90%E4%BA%BA%E7%B6%B2-%E5%85%8D%E8%B2%BB%E6%88%90%E4%BA%BA%E5%8B%95%E6%BC%AB-[%E6%8E%A8%E8%8D%90gz36.vip]-%E5%BE%AE%E5%85%8B%E6%88%90%E4%BA%BA&vt=4](https://video.sina.cn/news/2023-08-10/detail-imzftfev6682347.d.html?oid=%E6%84%9B%E8%96%87%E5%85%92%E6%88%90%E4%BA%BA-[%E6%8E%A8%E8%8D%90gz36.vip]-h%E6%88%90%E4%BA%BA-[%E6%8E%A8%E8%8D%90gz36.vip]-%E8%89%BE%E8%96%87%E5%85%92%E6%88%90%E4%BA%BA%E7%B6%B2-%E5%85%8D%E8%B2%BB%E6%88%90%E4%BA%BA%E5%8B%95%E6%BC%AB-[%E6%8E%A8%E8%8D%90gz36.vip]-%E5%BE%AE%E5%85%8B%E6%88%90%E4%BA%BA&vt=4)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

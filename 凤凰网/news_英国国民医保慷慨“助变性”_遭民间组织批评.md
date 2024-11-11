@@ -25,19 +25,22 @@
 **标签:** 变性手术, 库珀, 医保  
 **评论:** 共有评论0条
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国国民医保慷慨“助变性”_遭民间组织批评.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2199 bytes                           |
-> | MD5             | 6aca5df0a58c5f02d0f4b18ff83afbd4                                  |
-> | Archived Date   | 2024-11-02 08:35:53                             |
-> | Original Link   | [https://news.ifeng.com/world/201001/0126_16_1525200.shtml](https://news.ifeng.com/world/201001/0126_16_1525200.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

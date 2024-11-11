@@ -81,19 +81,22 @@
 
 陈雨历摘下口罩，长长舒了口气，宣布：“手术一切顺利！如果不出意外，10天之内去除导尿管，两周内就可以拔掉尿道再造时的造肉管了。”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_榕城直击5岁双胞胎变性过程成真正男子汉.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8227 bytes                           |
-> | MD5             | bdc2edd8adcb81240e2242c753ae8556                                  |
-> | Archived Date   | 2024-11-02 04:18:38                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-04/detail-ikkntiak8762965.d.html](https://news.sina.cn/sa/2003-12-04/detail-ikkntiak8762965.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

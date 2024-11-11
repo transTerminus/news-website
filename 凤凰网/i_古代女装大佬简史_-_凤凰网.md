@@ -157,19 +157,22 @@
 
 ![古 代 女 装 大 佬 简 史](https://x0.ifengimg.com/ucms/2022_13/51C0106D68404D198579CAC4F39F83C11A7BC199_size88_w1080_h1542.jpg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | i_古代女装大佬简史_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 23150 bytes                           |
-> | MD5             | 6804461f9acbf5159ddb121a04356552                                  |
-> | Archived Date   | 2024-11-09 10:25:08                             |
-> | Original Link   | [https://i.ifeng.com/c/8EYivVFRukT](https://i.ifeng.com/c/8EYivVFRukT)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

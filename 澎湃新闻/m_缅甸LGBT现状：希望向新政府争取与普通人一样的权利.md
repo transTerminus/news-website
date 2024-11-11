@@ -52,19 +52,22 @@ LGBT组织宣传图，意为所有人应有同样的权利、平等的爱。
 
 不过，《卫报》称，根据国际平均比例，男同性恋者占总人口的恒定比例为4%左右，以缅甸5300万人口计算，该国男同性恋人群至少有212万人。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_缅甸LGBT现状：希望向新政府争取与普通人一样的权利.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4718 bytes                           |
-> | MD5             | 1924cb74d6a5d707510acc9bdc4fbd6f                                  |
-> | Archived Date   | 2024-11-03 09:00:37                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1429946](https://m.thepaper.cn/newsDetail_forward_1429946)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

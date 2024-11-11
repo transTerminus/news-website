@@ -39,19 +39,22 @@
 
 88字
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子寻赞助想圆女人梦_愿当模特还债.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3750 bytes                           |
-> | MD5             | ae9694cc37b20c38585b8539737e896a                                  |
-> | Archived Date   | 2024-11-02 04:45:13                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-08-04/detail-ikknscsi3836812.d.html?from=wap](https://news.sina.cn/sa/2004-08-04/detail-ikknscsi3836812.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

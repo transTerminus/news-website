@@ -25,19 +25,22 @@
 
 （查看11条评论）
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_吉林“变性人”在沈阳手术成功身体已完全康复.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1351 bytes                           |
-> | MD5             | d015640272d16135d35e78fb6bd53792                                  |
-> | Archived Date   | 2024-11-02 04:19:57                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-07/detail-ikknscsi1943587.d.html](https://news.sina.cn/sa/2003-12-07/detail-ikknscsi1943587.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

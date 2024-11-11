@@ -149,19 +149,22 @@
 **标签**: 阿尔及利亚，奥运会，奥运，卡里尼  
 **评论**: 0条评论 | 0人参与网友评论  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_对阵中国拳手的哈利夫，再陷跨性别争议：出生记录为女孩，带有_.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13488 bytes                           |
-> | MD5             | 94fdf947abe43141357ba19d98ceb6cd                                  |
-> | Archived Date   | 2024-11-09 06:22:03                             |
-> | Original Link   | [https://finance.sina.com.cn/jjxw/2024-08-10/doc-incicncf9908119.shtml](https://finance.sina.com.cn/jjxw/2024-08-10/doc-incicncf9908119.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -61,19 +61,22 @@
 
 法院呼吁并相信当当网公司及其员工能够发扬“开放、平等、协作、快速、分享”的互联网精神，以更加开放、宽容的心态面对高某某，在高某某能够胜任新岗位的前提下构建和发展和谐稳定的劳动关系。同时提示高某某要珍惜社会给予的尊重和保护，在维护自身权利的同时不要滥用权利，以更加坦诚、平和的心态面对当当网公司，力争在新的岗位上取得更优异的成绩。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_当当网产品总监做变性手术后疑遭歧视被解雇，法院在判决书_.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10255 bytes                           |
-> | MD5             | 1c8da60d2063b36aeb2bd87994c24e41                                  |
-> | Archived Date   | 2024-11-02 04:07:39                             |
-> | Original Link   | [https://news.sina.cn/gn/2020-07-04/detail-iirczymm0483774.d.html](https://news.sina.cn/gn/2020-07-04/detail-iirczymm0483774.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

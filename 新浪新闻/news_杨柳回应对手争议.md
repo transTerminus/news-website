@@ -42,19 +42,22 @@
 **时间**: 2024-08-10  
 **地点**: 辽宁沈阳
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_杨柳回应对手争议.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3743 bytes                           |
-> | MD5             | 7eb6a6d8b3350427a8dc690d89d8471e                                  |
-> | Archived Date   | 2024-11-02 04:08:17                             |
-> | Original Link   | [https://news.sina.cn/gn/2024-08-10/detail-incicfvq5020336.d.html](https://news.sina.cn/gn/2024-08-10/detail-incicfvq5020336.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

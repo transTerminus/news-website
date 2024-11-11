@@ -28,19 +28,22 @@
 
 转发至微博
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_巴西批准由男变女的变性手术万名男士将如愿.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1507 bytes                           |
-> | MD5             | 688fa87297e9e4a1c3ad7edc1b031a2f                                  |
-> | Archived Date   | 2024-11-02 04:21:15                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-29/detail-ikknscsi2146402.d.html](https://news.sina.cn/sa/2003-12-29/detail-ikknscsi2146402.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -150,19 +150,22 @@
 
 手术台下的改变也被乐于看见，病房里的护工大姐说不出赵烨德口中的那些理论，但明白手术过后孩子们会很高兴。曾经朋友问起赵烨德为什么会有人要做变性，虽是问句，神情里带着明显的“无法理解”。如今再有人问起，后面总是加上一句“他们之后过的好么？”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | inews_变性手术医生：手术做错一例就再不会碰那把刀_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 16412 bytes                           |
-> | MD5             | b3fd768788281aa2d408bb39bc0ab0e2                                  |
-> | Archived Date   | 2024-11-09 10:02:37                             |
-> | Original Link   | [http://inews.ifeng.com/50681464/news.shtml](http://inews.ifeng.com/50681464/news.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

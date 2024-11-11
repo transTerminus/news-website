@@ -268,19 +268,22 @@
 
 **责任编辑：高飏 PN035**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | i_一篇药娘日记，记录了数万药娘的悲惨命运_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 15400 bytes                           |
-> | MD5             | 9790d313258043f39ebcf04142474c11                                  |
-> | Archived Date   | 2024-11-09 10:21:27                             |
-> | Original Link   | [https://i.ifeng.com/c/800QZCxzAzL](https://i.ifeng.com/c/800QZCxzAzL)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

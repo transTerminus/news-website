@@ -147,19 +147,22 @@
 
 ![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国第一变性人自白：我的现在比过去美丽(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10198 bytes                           |
-> | MD5             | 892d47e596ceaaa497f3ee65c7a65666                                  |
-> | Archived Date   | 2024-11-02 04:16:09                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-06-21/detail-ikkntiak7458843.d.html](https://news.sina.cn/sa/2003-06-21/detail-ikkntiak7458843.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

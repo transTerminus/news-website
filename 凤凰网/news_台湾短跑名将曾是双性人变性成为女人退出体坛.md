@@ -26,19 +26,22 @@
 *编辑：解文娟*  
 *共有评论0条*  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_台湾短跑名将曾是双性人变性成为女人退出体坛.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1749 bytes                           |
-> | MD5             | cd0683210777720a169d17e87bf73590                                  |
-> | Archived Date   | 2024-11-02 08:33:52                             |
-> | Original Link   | [https://news.ifeng.com/taiwan/2/200908/0821_352_1313313.shtml](https://news.ifeng.com/taiwan/2/200908/0821_352_1313313.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

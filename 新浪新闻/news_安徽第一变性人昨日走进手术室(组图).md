@@ -66,19 +66,22 @@
 **草，我想看的是小银狐的新闻**  
 **2005-01-04**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_安徽第一变性人昨日走进手术室(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9718 bytes                           |
-> | MD5             | 8130bc01d904080393ef4aa44abd589d                                  |
-> | Archived Date   | 2024-11-02 04:55:36                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-01-01/detail-ikkntiam2209889.d.html](https://news.sina.cn/sa/2005-01-01/detail-ikkntiam2209889.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

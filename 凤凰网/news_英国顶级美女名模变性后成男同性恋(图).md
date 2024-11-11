@@ -27,19 +27,22 @@
 
 **编辑:** 印权斌
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国顶级美女名模变性后成男同性恋(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2937 bytes                           |
-> | MD5             | a7dae9bae1f93a0a4ca5c2e96107132c                                  |
-> | Archived Date   | 2024-11-02 08:32:04                             |
-> | Original Link   | [https://news.ifeng.com/society/4/200801/0128_346_379808.shtml](https://news.ifeng.com/society/4/200801/0128_346_379808.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

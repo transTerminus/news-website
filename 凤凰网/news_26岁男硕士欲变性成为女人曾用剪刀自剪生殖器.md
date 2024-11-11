@@ -21,19 +21,22 @@
 
 孙主任表示，手术如果其父母同意签字，筹到经费，技术并不是难题。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_26岁男硕士欲变性成为女人曾用剪刀自剪生殖器.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1738 bytes                           |
-> | MD5             | 9d9d147222a842aafbf336085d83a97b                                  |
-> | Archived Date   | 2024-11-02 08:28:46                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200807/0712_344_648756.shtml](https://news.ifeng.com/society/2/200807/0712_344_648756.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

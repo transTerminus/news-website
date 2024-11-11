@@ -61,19 +61,22 @@
 
 查看3条评论
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_要求变性人数约40万中国在宽容中接受男女易性者.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4296 bytes                           |
-> | MD5             | 8f6722686e41377996fd077725470a78                                  |
-> | Archived Date   | 2024-11-02 04:09:29                             |
-> | Original Link   | [https://news.sina.cn/sa/2002-04-06/detail-ikknscsi0134953.d.html](https://news.sina.cn/sa/2002-04-06/detail-ikknscsi0134953.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

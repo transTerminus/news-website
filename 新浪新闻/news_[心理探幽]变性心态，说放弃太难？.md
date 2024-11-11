@@ -49,19 +49,22 @@
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_[心理探幽]变性心态，说放弃太难？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9563 bytes                           |
-> | MD5             | f77e7f8ad7d29d74575290513ce3dfb5                                  |
-> | Archived Date   | 2024-11-02 05:35:04                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-02/detail-ikknscsk0687369.d.html?from=wap](https://news.sina.cn/sa/2006-08-02/detail-ikknscsk0687369.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -30,19 +30,22 @@
 
 标签: 变性人, 变性手术, 变性美女
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_盘点全球12位著名惊艳变性美人[组图].md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2019 bytes                           |
-> | MD5             | 71e049f36bf8465def50dde0ae85bf0a                                  |
-> | Archived Date   | 2024-11-02 08:25:47                             |
-> | Original Link   | [https://news.ifeng.com/photo/other/200810/1013_1399_828604_1.shtml](https://news.ifeng.com/photo/other/200810/1013_1399_828604_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -12,19 +12,22 @@
 
 用微信扫描二维码分享至好友和朋友圈
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男面女儿身变性歌手满脸络腮胡献唱吓哭观众.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 809 bytes                           |
-> | MD5             | 42ec59d7737d5fd728ce22c98dca38b8                                  |
-> | Archived Date   | 2024-11-02 06:52:28                             |
-> | Original Link   | [https://news.ifeng.com/a/20140510/40235003_0.shtml](https://news.ifeng.com/a/20140510/40235003_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

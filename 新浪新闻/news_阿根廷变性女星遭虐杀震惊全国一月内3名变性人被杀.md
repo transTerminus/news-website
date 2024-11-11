@@ -20,19 +20,22 @@
 
 据悉，阿根廷是世界上少有的官方承认变性人性别的国家之一。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_阿根廷变性女星遭虐杀震惊全国一月内3名变性人被杀.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1472 bytes                           |
-> | MD5             | 46f57f7d07313520e4652d89d0ddafc8                                  |
-> | Archived Date   | 2024-11-02 03:19:36                             |
-> | Original Link   | [http://news.sina.cn/2015-10-16/detail-ifxiuyea9311965.d.html](http://news.sina.cn/2015-10-16/detail-ifxiuyea9311965.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

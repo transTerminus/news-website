@@ -35,19 +35,22 @@
 
 ![相关图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_菲律宾变性人遇害案引发反美情绪美军舰取消访问.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2743 bytes                           |
-> | MD5             | 704877364f3fc9e50df6d06a408c9a66                                  |
-> | Archived Date   | 2024-11-02 07:14:01                             |
-> | Original Link   | [https://news.ifeng.com/a/20141103/42367058_0.shtml](https://news.ifeng.com/a/20141103/42367058_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

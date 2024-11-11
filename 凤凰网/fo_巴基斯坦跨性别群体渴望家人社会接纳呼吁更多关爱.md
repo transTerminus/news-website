@@ -23,19 +23,22 @@
 
 请注意，评论区和其他网页信息已被省略。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | fo_巴基斯坦跨性别群体渴望家人社会接纳呼吁更多关爱.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 755 bytes                           |
-> | MD5             | e68213854bd16b42d1e9ba1cab1ed24d                                  |
-> | Archived Date   | 2024-11-09 10:17:56                             |
-> | Original Link   | [https://fo.ifeng.com/c/8OllWyZlOpo](https://fo.ifeng.com/c/8OllWyZlOpo)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

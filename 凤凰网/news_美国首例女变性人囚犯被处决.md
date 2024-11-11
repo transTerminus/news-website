@@ -82,19 +82,22 @@
 - **马来西亚国会下议院前副议长：仁义礼智信反映到国家治理层面 道理是相通的**  
   ![马来西亚国会下议院前副议长：仁义礼智信反映到国家治理层面 道理是相通的](https://d.ifengimg.com/w72_h40/x0.ifengimg.com/ucms/2024_44/F1BC00881BED99CDA5EA85CD4B7C764BF9C2287C_size29_w1079_h606.webp)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国首例女变性人囚犯被处决.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5994 bytes                           |
-> | MD5             | 54030997971f2122f6d7dbfacb20d51d                                  |
-> | Archived Date   | 2024-11-02 08:13:45                             |
-> | Original Link   | [https://news.ifeng.com/c/8MIpRa1mRMG](https://news.ifeng.com/c/8MIpRa1mRMG)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

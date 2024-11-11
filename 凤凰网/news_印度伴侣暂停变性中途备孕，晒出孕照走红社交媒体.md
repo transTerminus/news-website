@@ -21,19 +21,22 @@
 发表评论  
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_印度伴侣暂停变性中途备孕，晒出孕照走红社交媒体.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1517 bytes                           |
-> | MD5             | 30bc281097d40cfd97a731452bf84f6f                                  |
-> | Archived Date   | 2024-11-02 08:14:14                             |
-> | Original Link   | [https://news.ifeng.com/c/8NEEYWCh1Ii](https://news.ifeng.com/c/8NEEYWCh1Ii)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

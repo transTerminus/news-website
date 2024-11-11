@@ -40,19 +40,22 @@
 
 [了解更多](https://cmnt.sina.cn/index?product=comos&index=fxeuwwr6372949&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_22岁“医生”学视频给小伙做变性手术被判3年半.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3406 bytes                           |
-> | MD5             | 87b3cb134274be7409eab92277dae000                                  |
-> | Archived Date   | 2024-11-02 03:40:05                             |
-> | Original Link   | [https://news.sina.cn/2018-09-20/detail-ifxeuwwr6372949.d.html](https://news.sina.cn/2018-09-20/detail-ifxeuwwr6372949.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

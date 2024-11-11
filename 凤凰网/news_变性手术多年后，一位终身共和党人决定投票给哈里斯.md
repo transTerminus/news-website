@@ -40,19 +40,22 @@
 
 责任编辑：罗光磊 PN417
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性手术多年后，一位终身共和党人决定投票给哈里斯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3963 bytes                           |
-> | MD5             | e0827375dbe11e623aa223f8d59ff997                                  |
-> | Archived Date   | 2024-11-02 08:22:18                             |
-> | Original Link   | [https://news.ifeng.com/c/8dto21wSVPf](https://news.ifeng.com/c/8dto21wSVPf)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

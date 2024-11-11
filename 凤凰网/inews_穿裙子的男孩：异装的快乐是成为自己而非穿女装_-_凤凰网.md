@@ -155,19 +155,22 @@
 （文中江林为化名）  
 责任编辑人：王家乐 PX043  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | inews_穿裙子的男孩：异装的快乐是成为自己而非穿女装_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13494 bytes                           |
-> | MD5             | 087434ee487bc4be2f52f20ca299daba                                  |
-> | Archived Date   | 2024-11-09 10:03:08                             |
-> | Original Link   | [http://inews.ifeng.com/50729702/news.shtml](http://inews.ifeng.com/50729702/news.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -132,19 +132,22 @@
 
 **责任编辑：宋东泽 PN242**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 14412 bytes                           |
-> | MD5             | c2d6b101ae29a6b0716fdb1ba5ec4f28                                  |
-> | Archived Date   | 2024-11-02 08:20:38                             |
-> | Original Link   | [https://news.ifeng.com/c/8bpCz5qUZ4m](https://news.ifeng.com/c/8bpCz5qUZ4m)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

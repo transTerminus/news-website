@@ -62,19 +62,22 @@
 
 查看50条评论
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_一男子变性失败难圆女儿梦担心被男友抛弃.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4606 bytes                           |
-> | MD5             | 67b42fa0107a3834af2b29853a5fea83                                  |
-> | Archived Date   | 2024-11-02 04:15:32                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-06-19/detail-ikknscsi0610925.d.html](https://news.sina.cn/sa/2003-06-19/detail-ikknscsi0610925.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

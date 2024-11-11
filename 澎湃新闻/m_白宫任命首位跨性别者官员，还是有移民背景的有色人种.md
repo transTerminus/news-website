@@ -50,19 +50,22 @@
 
 正如拉菲•弗里德曼-格斯潘曾在跨性别人平权全国中心供职时所说：“此时此刻，我们正处在一个紧要关头。”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_白宫任命首位跨性别者官员，还是有移民背景的有色人种.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5367 bytes                           |
-> | MD5             | 721f634c25b31fa135f438c69a258218                                  |
-> | Archived Date   | 2024-11-03 08:51:54                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1366064](https://m.thepaper.cn/newsDetail_forward_1366064)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

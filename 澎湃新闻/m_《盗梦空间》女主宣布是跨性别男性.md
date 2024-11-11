@@ -69,21 +69,24 @@ Netflix称赞艾利奥特是超级英雄，只要他愿意，随时可以在《�
 
 **特别声明**: 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[https://renzheng.thepaper.cn](https://renzheng.thepaper.cn)。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了演员艾伦·佩吉于2020年12月2日通过社交媒体宣布自己身份为跨性别男性的事件。佩吉分享了他的真实感受，表示希望大家使用‘他’或‘他们’称呼自己，并更改了姓名为埃利奥特·佩吉。文中详细回顾了佩吉的演艺生涯、成名作及个人经历，阐述了他在公开出柜后的感受，包括他对跨性别社群的感激和对社会的良好期望，同时也分享了面对外界歧视和恐惧的复杂情感。此外，文章讨论了好莱坞对跨性别者和LGBTQ演员的社会环境，指出虽然佩吉的公开出柜具有积极意义，但在演艺事业上可能带来挑战。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_《盗梦空间》女主宣布是跨性别男性.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6807 bytes                           |
-> | MD5             | 9f830e078a0068d54007b8876949d030                                  |
-> | Archived Date   | 2024-11-03 08:40:48                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10272167](https://m.thepaper.cn/newsDetail_forward_10272167)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 王闪闪                               |
+> | Region          | 未知                               |
+> | Date            | 2020-12-02                                 |
+> | Tags            | 跨性别, 艾伦·佩吉, 性别认同, 好莱坞, LGBTQ, 社会支持, 个人经历, 性别表达                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

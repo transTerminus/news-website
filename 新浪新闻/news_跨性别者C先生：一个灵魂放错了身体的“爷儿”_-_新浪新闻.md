@@ -194,19 +194,22 @@ Justine的特别还体现在与C先生的前任不一样，她大方地接受拍
 
 【本文来自微信公众号“每日人物”】
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_跨性别者C先生：一个灵魂放错了身体的“爷儿”_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 24362 bytes                           |
-> | MD5             | bc4a044c9505b003b82d4c72e9e5becf                                  |
-> | Archived Date   | 2024-11-09 07:43:41                             |
-> | Original Link   | [https://news.sina.cn/sa/2017-08-19/detail-ikmyaawa7426248.d.html](https://news.sina.cn/sa/2017-08-19/detail-ikmyaawa7426248.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

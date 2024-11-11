@@ -23,19 +23,22 @@
 ### 版权信息
 新浪新闻官方
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_香港一变性“女子”疑因不堪失恋折磨跳楼殒命.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2088 bytes                           |
-> | MD5             | 2cf6b901780754f8f73c053ef4ea7ea8                                  |
-> | Archived Date   | 2024-11-02 04:46:21                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4336234.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4336234.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

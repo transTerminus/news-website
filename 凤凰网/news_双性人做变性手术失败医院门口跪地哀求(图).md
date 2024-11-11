@@ -75,19 +75,22 @@
 
 **已有0位凤凰网友参与评论**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_双性人做变性手术失败医院门口跪地哀求(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4842 bytes                           |
-> | MD5             | 1f8079779744b1287f69d0ddb335c4ee                                  |
-> | Archived Date   | 2024-11-02 08:30:07                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200902/0225_344_1032815_1.shtml](https://news.ifeng.com/society/2/200902/0225_344_1032815_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

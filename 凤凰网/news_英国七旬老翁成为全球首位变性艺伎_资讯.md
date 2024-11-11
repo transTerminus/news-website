@@ -38,19 +38,22 @@
 - 高兴
 - 路过
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国七旬老翁成为全球首位变性艺伎_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2426 bytes                           |
-> | MD5             | f267f6efb479c942e9a438e0eab50d96                                  |
-> | Archived Date   | 2024-11-02 08:37:34                             |
-> | Original Link   | [https://news.ifeng.com/world/person/200810/1023_2598_843178.shtml](https://news.ifeng.com/world/person/200810/1023_2598_843178.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

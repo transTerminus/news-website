@@ -29,19 +29,22 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美联邦法官暂停特朗普变性人参军禁令部分内容.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1791 bytes                           |
-> | MD5             | 2b76b34aa5b9aca0f896673e5ad4e6c4                                  |
-> | Archived Date   | 2024-11-02 03:23:05                             |
-> | Original Link   | [http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108](http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

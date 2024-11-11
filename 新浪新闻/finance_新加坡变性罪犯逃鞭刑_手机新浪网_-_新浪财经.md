@@ -31,19 +31,22 @@
 版权: Copyright © 1996-2012 SINA Corporation, All Rights Reserved  
 [新浪简介](http://corp.sina.com.cn/chn/)┊[网站律师](http://www.sina.com.cn/intro/lawfirm.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_新加坡变性罪犯逃鞭刑_手机新浪网_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1495 bytes                           |
-> | MD5             | 267dfe6d3d2f2e0e4f19416d5609b314                                  |
-> | Archived Date   | 2024-11-09 05:38:20                             |
-> | Original Link   | [http://finance.sina.com.cn/roll/20120307/074611531346.shtml](http://finance.sina.com.cn/roll/20120307/074611531346.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -78,19 +78,22 @@ Dalisay：是的。当然不是穿着比基尼。（笑）只是穿正式的衣�
 
 （文章首发于微信公众号：sociology前沿论文大推送。原题为：“紫领劳动：菲律宾全球呼叫中心的跨性别工人和酷儿价值”）
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_调查与研究菲律宾“跨性别”工人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 11141 bytes                           |
-> | MD5             | 49b25b9dfcdbd5cba1b4170107ec1a66                                  |
-> | Archived Date   | 2024-11-03 08:57:46                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1403001](https://m.thepaper.cn/newsDetail_forward_1403001)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

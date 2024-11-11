@@ -70,19 +70,22 @@
 
 全球第一例性别重塑外科手术始于1931年，目前全球已施行此类手术1万多例。我国第一例性别重塑外科手术在1990年施行。据不完全统计，目前已施行了200余例。异性癖病发病人群十分广泛，见于不同的民族和不同的职业，其生活经历、文化背景、宗教信仰也不尽相同。年龄最小的9岁，年龄最大的是一位91岁的老画家。在我国，异性癖的患病率在1:5万—1:8万之间。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_山西首例变性人手术成功帅哥成功变美女(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8162 bytes                           |
-> | MD5             | e2ea3e8ecc9105a31ee6ba68bf541335                                  |
-> | Archived Date   | 2024-11-02 05:30:03                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-20/detail-ikftssap2644852.d.html](https://news.sina.cn/sa/2006-06-20/detail-ikftssap2644852.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

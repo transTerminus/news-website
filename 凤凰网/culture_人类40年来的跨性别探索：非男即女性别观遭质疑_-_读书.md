@@ -64,19 +64,22 @@ Poy被赞为“最美人妖皇后”之后，手术的细节照片在网络上�
 
 ![凤凰文化](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | culture_人类40年来的跨性别探索：非男即女性别观遭质疑_-_读书.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7376 bytes                           |
-> | MD5             | 1e5694bc0a86c8c3e9dbf6a21b25c820                                  |
-> | Archived Date   | 2024-11-09 10:10:30                             |
-> | Original Link   | [https://culture.ifeng.com/yanjie/detail_2014_04/09/35591631_0.shtml](https://culture.ifeng.com/yanjie/detail_2014_04/09/35591631_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

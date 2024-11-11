@@ -110,19 +110,22 @@
 
 <input type="hidden" src="https://cmnt.sina.cn/index?product=comos&index=nchnqma6668276&tj_ch=news&is_clear=0" />
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_新闻多一度丨“跨性别”选手引争议，在体育竞技上男女差异有多大？__.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9523 bytes                           |
-> | MD5             | 6d0bd50655cfd82de7880b6bd661b445                                  |
-> | Archived Date   | 2024-11-02 03:49:25                             |
-> | Original Link   | [https://news.sina.cn/2024-08-04/detail-inchnqma6668276.d.html](https://news.sina.cn/2024-08-04/detail-inchnqma6668276.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

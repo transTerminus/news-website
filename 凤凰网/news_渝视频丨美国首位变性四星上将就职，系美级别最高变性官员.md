@@ -14,19 +14,22 @@
 
 Notice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services.”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_渝视频丨美国首位变性四星上将就职，系美级别最高变性官员.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 861 bytes                           |
-> | MD5             | 891eeebd3caddfa9b4e708a51b141b14                                  |
-> | Archived Date   | 2024-11-02 08:12:29                             |
-> | Original Link   | [https://news.ifeng.com/c/8AWXVvd97Jm](https://news.ifeng.com/c/8AWXVvd97Jm)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

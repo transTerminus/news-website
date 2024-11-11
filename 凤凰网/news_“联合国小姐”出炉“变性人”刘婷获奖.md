@@ -23,19 +23,22 @@
 
 [![凤凰新闻 天天有料](//y3.ifengimg.com/a/2015/0130/b3e486531275e3b.JPG)](http://api.3g.ifeng.com/ifengtg?adid=11345)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“联合国小姐”出炉“变性人”刘婷获奖.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2235 bytes                           |
-> | MD5             | 1ec03f2962d08b522b793a455ce864e3                                  |
-> | Archived Date   | 2024-11-02 07:37:35                             |
-> | Original Link   | [https://news.ifeng.com/a/20150926/44740018_0.shtml](https://news.ifeng.com/a/20150926/44740018_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

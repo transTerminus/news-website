@@ -80,19 +80,22 @@
 “他们的目的达不到的，一人变性手术几十万，术后用药很长时间，何况是两人，还是农民。”  
 2012-08-15
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_妻子因家庭矛盾与丈夫相约变性后仍做夫妻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6426 bytes                           |
-> | MD5             | 8b8a8203e09011e2f41294e395a1e35f                                  |
-> | Archived Date   | 2024-11-02 06:28:55                             |
-> | Original Link   | [https://news.sina.cn/sa/2012-08-13/detail-ikmyaawa4119280.d.html](https://news.sina.cn/sa/2012-08-13/detail-ikmyaawa4119280.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

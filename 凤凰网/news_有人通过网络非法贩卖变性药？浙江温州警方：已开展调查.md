@@ -21,19 +21,22 @@
 
 [查看全部评论>>](//gentie.ifeng.com/c/comment/85IwEGT3tfB)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_有人通过网络非法贩卖变性药？浙江温州警方：已开展调查.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1436 bytes                           |
-> | MD5             | a6e1f772d2e0fbdead96a120d08d1fc0                                  |
-> | Archived Date   | 2024-11-02 08:09:26                             |
-> | Original Link   | [https://news.ifeng.com/c/85IwEGT3tfB](https://news.ifeng.com/c/85IwEGT3tfB)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

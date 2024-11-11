@@ -62,19 +62,22 @@
 
 新浪新闻官方
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_白宫聘用首位变性人员工主管人事部门.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3273 bytes                           |
-> | MD5             | f67acfa39ef50a5eaf526612837f7975                                  |
-> | Archived Date   | 2024-11-02 03:25:15                             |
-> | Original Link   | [http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html](http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

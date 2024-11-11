@@ -86,19 +86,22 @@
 
 **资料来源：新京报、人民网等**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_【盘点】他们既是名人也是性少数派_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6377 bytes                           |
-> | MD5             | 23a88d03cdcf4fca7600e561e4deeabb                                  |
-> | Archived Date   | 2024-11-09 05:45:11                             |
-> | Original Link   | [http://news.sina.cn/gn/2014-12-19/detail-iawzunex7393391.d.html](http://news.sina.cn/gn/2014-12-19/detail-iawzunex7393391.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -304,19 +304,22 @@
 
 **特别声明：**以上文章内容仅代表作者本人观点，不代表 新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发布后的30日内与 新浪网联系。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_六年了，还是那么酷_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 17413 bytes                           |
-> | MD5             | d23e7248cd881d1dca3e4e7bb31b0a76                                  |
-> | Archived Date   | 2024-11-09 06:51:03                             |
-> | Original Link   | [https://k.sina.cn/article_5617148817_14ecee39101900sodr.html](https://k.sina.cn/article_5617148817_14ecee39101900sodr.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -99,19 +99,22 @@
 [评论](https://cmnt.sina.cn/index?product=comos&index=kftpnny5854991&tj_ch=news&is_clear=0)  
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_【紫牛头条】主动公布双性人身份的“他”：想勇敢面对，感谢网友的善意.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8501 bytes                           |
-> | MD5             | 93ac49d4f044d60c5e179608d08ac135                                  |
-> | Archived Date   | 2024-11-09 07:25:15                             |
-> | Original Link   | [https://news.sina.cn/2021-02-08/detail-ikftpnny5854991.d.html?cre=wappage&mod=r&loc=4&r=0&rfunc=1&tj=wap_news_relate](https://news.sina.cn/2021-02-08/detail-ikftpnny5854991.d.html?cre=wappage&mod=r&loc=4&r=0&rfunc=1&tj=wap_news_relate)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -79,19 +79,22 @@
 责任编辑：韩少华  
 校对：施鋆  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_保护儿童“纯真”背后：美国佛州家长教育权利法案与文化战争.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 25003 bytes                           |
-> | MD5             | aa80f9d45a7fa3d0fe3642834597910f                                  |
-> | Archived Date   | 2024-11-03 09:10:32                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18072458](https://m.thepaper.cn/newsDetail_forward_18072458)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

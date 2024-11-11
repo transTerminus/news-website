@@ -37,19 +37,22 @@ ___
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普禁止变性人服役医疗成本高影响凝聚力.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3003 bytes                           |
-> | MD5             | 4c265b4dbf6cab37326d2ef981b9b7f8                                  |
-> | Archived Date   | 2024-11-02 03:22:30                             |
-> | Original Link   | [http://news.sina.cn/2017-07-27/detail-ifyinwmp0193787.d.html](http://news.sina.cn/2017-07-27/detail-ifyinwmp0193787.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

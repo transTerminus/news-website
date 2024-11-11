@@ -42,19 +42,22 @@
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_香港团体关注跨性别者吁特区政府发相关证明文件_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3572 bytes                           |
-> | MD5             | 84699e9d774c7ebdb18d727bfa1d4c90                                  |
-> | Archived Date   | 2024-11-09 07:23:22                             |
-> | Original Link   | [https://news.sina.cn/2015-03-31/detail-iawzuney1573720.d.html](https://news.sina.cn/2015-03-31/detail-iawzuney1573720.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

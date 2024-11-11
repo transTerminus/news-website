@@ -42,19 +42,22 @@
 
 \[责任编辑：PN053\]
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_巴基斯坦异装癖者：在歧视中艰难讨生计(组图)男性女性_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4133 bytes                           |
-> | MD5             | 53acd3ae277d6235de93818dae662162                                  |
-> | Archived Date   | 2024-11-09 10:34:30                             |
-> | Original Link   | [https://news.ifeng.com/a/20150121/42985020_0.shtml](https://news.ifeng.com/a/20150121/42985020_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

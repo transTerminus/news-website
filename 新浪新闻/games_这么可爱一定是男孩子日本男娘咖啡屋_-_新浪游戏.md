@@ -33,19 +33,22 @@
 
 说说你的看法
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | games_这么可爱一定是男孩子日本男娘咖啡屋_-_新浪游戏.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1704 bytes                           |
-> | MD5             | bfe4fe8fece5dba8aa3f84c63a291d1b                                  |
-> | Archived Date   | 2024-11-09 05:40:18                             |
-> | Original Link   | [http://games.sina.cn/pi/eb/2013-09-13/detail-icfkptvx2820959.d.html](http://games.sina.cn/pi/eb/2013-09-13/detail-icfkptvx2820959.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

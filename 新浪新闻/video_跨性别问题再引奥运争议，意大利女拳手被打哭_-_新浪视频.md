@@ -29,19 +29,22 @@ _[0](//comment5.news.sina.com.cn/comment/skin/default.html?channel=cj&newsid=com
 
 **Copyright © 1996-2024 SINA Corporation. All Rights Reserved 新浪公司 版权所有**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | video_跨性别问题再引奥运争议，意大利女拳手被打哭_-_新浪视频.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 936 bytes                           |
-> | MD5             | 3f0a5386a8224928bda3c8cbc2322979                                  |
-> | Archived Date   | 2024-11-09 08:02:42                             |
-> | Original Link   | [https://video.sina.com.cn/p/finance/2024-08-02/detail-inchfrra1948376.d.html](https://video.sina.com.cn/p/finance/2024-08-02/detail-inchfrra1948376.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

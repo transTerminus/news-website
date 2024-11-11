@@ -56,19 +56,22 @@
 
 综上所述，网传“美国华盛顿州的SB5599法案规定如果父母不同意孩子做变性手术，当地政府就可以合法地将孩子从父母身边带走”这一说法不实。该法案是旨在确保在华盛顿州的未成年人获得“性别确认治疗”和“生殖健康护理”相关的医疗保健服务。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_明查｜华盛顿通过法案允许政府合法带走变性儿童误导_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4657 bytes                           |
-> | MD5             | 6dccda824312f7018e5b3b61ddac6bce                                  |
-> | Archived Date   | 2024-11-09 06:17:24                             |
-> | Original Link   | [https://finance.sina.cn/2023-04-26/detail-imyrrzpv4213065.d.html](https://finance.sina.cn/2023-04-26/detail-imyrrzpv4213065.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

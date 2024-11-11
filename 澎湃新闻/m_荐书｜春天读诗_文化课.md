@@ -118,19 +118,22 @@ _迎着微风起舞翩翩。_
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_荐书｜春天读诗_文化课.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12626 bytes                           |
-> | MD5             | 4e678a61fde461d316416d796eb2a4e9                                  |
-> | Archived Date   | 2024-11-10 22:29:02                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=11819424&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=11819424&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

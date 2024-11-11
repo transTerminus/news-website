@@ -68,19 +68,22 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 **查看157条评论**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英俊男子欲做变性手术艺术照作女子扮相(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5271 bytes                           |
-> | MD5             | 640d856d97c3dfa65e1f999f11bf9abc                                  |
-> | Archived Date   | 2024-11-02 05:09:18                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-22/detail-ikkntiam4653360.d.html](https://news.sina.cn/sa/2005-09-22/detail-ikkntiam4653360.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -37,19 +37,22 @@ _**8** / 8_ 日本一全年龄向“女装游戏”《僕姬计划（ボク姫PR
 
 说说你的看法  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_日本一全年龄向“女装游戏”《僕姬计划（ボク姫PROJECT）》放出了一.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4183 bytes                           |
-> | MD5             | 0b9c445833112654cb58c79366b5a694                                  |
-> | Archived Date   | 2024-11-09 06:42:59                             |
-> | Original Link   | [https://k.sina.cn/article_1893905030_p70e2b28602700p7md.html](https://k.sina.cn/article_1893905030_p70e2b28602700p7md.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

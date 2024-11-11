@@ -28,21 +28,24 @@
 
 **校对：刘威**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件介绍了复旦大学附属儿科医院开设的国内首个跨性别儿童与青少年多学科门诊，旨在为跨性别儿童和青少年提供专业的评估、诊断和干预服务。文中结合了小林的案例，描绘了她从小对性别认同的困扰和焦虑，以及最终确认为跨性别者的心理历程。小林在经历了父母的争执和内心的挣扎后，勇敢地告诉父母自己的真实想法，但家庭的反应使得小林的情况更加复杂。医院通过多学科合作，帮助小林缓解情绪、改善家庭关系，并为她提供了医疗建议，建议抑制例假以减轻焦虑情绪，等待小林成年后再自主选择是否进行手术。此项措施不仅帮助了小林，也提高了她的社会支持和自信心。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_上海开出国内首个跨性别儿童与青少年多学科门诊.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2655 bytes                           |
-> | MD5             | a669c31bc04499a04d4490bca8cc742c                                  |
-> | Archived Date   | 2024-11-03 09:04:57                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_15222528](https://m.thepaper.cn/newsDetail_forward_15222528)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-11-04                                 |
+> | Tags            | 跨性别, 儿童与青少年, 多学科门诊, 心理健康, 家庭支持, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -53,19 +53,22 @@
 **编辑**: 郭敏  
 **版权**: 凤凰网 版权所有 不得转载
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性：并非只是隆胸去喉结_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8356 bytes                           |
-> | MD5             | ebc5a2a76b77c7187200e89ef8a97277                                  |
-> | Archived Date   | 2024-11-02 08:27:59                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200708/0803_344_175604.shtml](https://news.ifeng.com/society/2/200708/0803_344_175604.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

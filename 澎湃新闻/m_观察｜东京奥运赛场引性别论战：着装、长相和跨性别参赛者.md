@@ -77,19 +77,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_观察｜东京奥运赛场引性别论战：着装、长相和跨性别参赛者.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10299 bytes                           |
-> | MD5             | dd4bd53d920b294ab2b128428d48c354                                  |
-> | Archived Date   | 2024-11-03 10:06:31                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=13782479&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=13782479&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

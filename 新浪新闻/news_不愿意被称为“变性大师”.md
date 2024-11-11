@@ -54,19 +54,22 @@
 
 版权声明：本文版权归 [新浪新闻](https://mobile.sina.com.cn/news/) 所有。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_不愿意被称为“变性大师”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5721 bytes                           |
-> | MD5             | b8c57699f8054210995ee1c005675719                                  |
-> | Archived Date   | 2024-11-02 05:06:59                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-01/detail-ikkntiam4472248.d.html?from=wap](https://news.sina.cn/sa/2005-09-01/detail-ikkntiam4472248.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

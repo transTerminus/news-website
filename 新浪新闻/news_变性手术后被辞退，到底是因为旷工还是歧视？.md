@@ -66,19 +66,22 @@
 **变性人脑子有点不正常，如大家都变性还正常吗？**  
 **时间**: 2020-07-05
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性手术后被辞退，到底是因为旷工还是歧视？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5997 bytes                           |
-> | MD5             | a31d04cfd2fa36e305e6a2dc55ca97e7                                  |
-> | Archived Date   | 2024-11-02 03:41:19                             |
-> | Original Link   | [https://news.sina.cn/2020-07-05/detail-iirczymm0681713.d.html](https://news.sina.cn/2020-07-05/detail-iirczymm0681713.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

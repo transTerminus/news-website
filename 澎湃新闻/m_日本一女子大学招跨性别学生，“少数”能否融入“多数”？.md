@@ -94,19 +94,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_日本一女子大学招跨性别学生，“少数”能否融入“多数”？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12123 bytes                           |
-> | MD5             | e14c8912003066bcd68cd84c0e42e0ac                                  |
-> | Archived Date   | 2024-11-03 08:33:54                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -27,19 +27,22 @@
 
 ---
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_17岁少年不顾父母阻拦为同性恋人卖身变性_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3083 bytes                           |
-> | MD5             | 1024fdd78f487f46839303b5a66419cf                                  |
-> | Archived Date   | 2024-11-02 08:29:45                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200812/1216_344_923486_2.shtml](https://news.ifeng.com/society/2/200812/1216_344_923486_2.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

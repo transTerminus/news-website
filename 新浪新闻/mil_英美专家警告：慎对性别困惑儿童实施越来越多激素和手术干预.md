@@ -23,19 +23,22 @@
 
 **标签**：#跨性别 #儿童 #性别困惑 #性别干预
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | mil_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4244 bytes                           |
-> | MD5             | 05e91c59b2105e38aac10f464f3bbf5c                                  |
-> | Archived Date   | 2024-11-09 07:19:10                             |
-> | Original Link   | [https://mil.sina.cn/2019-07-25/detail-ihytcerm6250622.d.html?vt=4](https://mil.sina.cn/2019-07-25/detail-ihytcerm6250622.d.html?vt=4)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

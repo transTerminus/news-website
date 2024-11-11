@@ -29,19 +29,22 @@ mic.com分析称，金钠的胜利代表了清晰的前进步伐，表明一旦�
 
 ![马杜•金钠](http://image.thepaper.cn/www/image/4/214/940.jpg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_印度选出首位变性人市长，曾靠在火车上表演歌舞糊口.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3086 bytes                           |
-> | MD5             | 86504781d5013b6c740aa825a29661df                                  |
-> | Archived Date   | 2024-11-03 10:05:53                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=1291737&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=1291737&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

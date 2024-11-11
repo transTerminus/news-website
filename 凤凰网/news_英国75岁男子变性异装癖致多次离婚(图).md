@@ -14,19 +14,22 @@
 
 **评论**: 共有评论0条
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国75岁男子变性异装癖致多次离婚(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1024 bytes                           |
-> | MD5             | 17e508b63a1cbc68e9580b60ddf416f3                                  |
-> | Archived Date   | 2024-11-02 08:30:45                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200909/0916_344_1350870.shtml](https://news.ifeng.com/society/2/200909/0916_344_1350870.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -35,19 +35,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4083 bytes                           |
-> | MD5             | cf6078ea400489166f4991557ef5e00d                                  |
-> | Archived Date   | 2024-11-03 10:13:04                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=4003464&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=4003464&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

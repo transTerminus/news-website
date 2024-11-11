@@ -23,19 +23,22 @@
 - 菲律宾首都  
 - 曼妙身材  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人在菲律宾首都展身姿[组图].md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 878 bytes                           |
-> | MD5             | bb08205c813d5a58bd6e9cca57d80675                                  |
-> | Archived Date   | 2024-11-02 08:26:31                             |
-> | Original Link   | [https://news.ifeng.com/photo/society/200810/1019_1400_836836_1.shtml](https://news.ifeng.com/photo/society/200810/1019_1400_836836_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

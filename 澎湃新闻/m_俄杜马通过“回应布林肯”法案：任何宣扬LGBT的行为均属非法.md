@@ -22,19 +22,22 @@
 图片编辑：陈飞燕  
 校对：刘威  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_俄杜马通过“回应布林肯”法案：任何宣扬LGBT的行为均属非法.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1987 bytes                           |
-> | MD5             | 4da35ce0d0d57d0cb72d759ef4b0b1c6                                  |
-> | Archived Date   | 2024-11-03 09:16:35                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_20890594](https://m.thepaper.cn/newsDetail_forward_20890594)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

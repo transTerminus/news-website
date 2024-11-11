@@ -96,19 +96,22 @@ Twitter的风格与马斯克截然不同。这家公司以自己是一个友好�
 **版权声明:**    
 特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12761 bytes                           |
-> | MD5             | 384b1c734b06be0a0bae01798b32d1b7                                  |
-> | Archived Date   | 2024-11-02 08:18:21                             |
-> | Original Link   | [https://news.ifeng.com/c/8Sj00lPSmit](https://news.ifeng.com/c/8Sj00lPSmit)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

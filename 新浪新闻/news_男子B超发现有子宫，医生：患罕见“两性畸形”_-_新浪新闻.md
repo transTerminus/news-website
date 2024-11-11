@@ -42,19 +42,22 @@
 
 ![新浪新闻 Logo](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子B超发现有子宫，医生：患罕见“两性畸形”_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5292 bytes                           |
-> | MD5             | 50a264f4e49ecbf37ed298680eae99c2                                  |
-> | Archived Date   | 2024-11-09 07:28:19                             |
-> | Original Link   | [https://news.sina.cn/2023-02-10/detail-imyffmtk6228310.d.html](https://news.sina.cn/2023-02-10/detail-imyffmtk6228310.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

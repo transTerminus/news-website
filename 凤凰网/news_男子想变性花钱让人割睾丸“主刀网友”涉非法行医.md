@@ -44,19 +44,22 @@
 
 凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子想变性花钱让人割睾丸“主刀网友”涉非法行医.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4961 bytes                           |
-> | MD5             | 20be8412dd31ba1491cc1b45a21f77a7                                  |
-> | Archived Date   | 2024-11-02 07:46:14                             |
-> | Original Link   | [https://news.ifeng.com/a/20160725/49639782_0.shtml](https://news.ifeng.com/a/20160725/49639782_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

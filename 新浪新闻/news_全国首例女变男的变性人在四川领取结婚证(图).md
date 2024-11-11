@@ -106,19 +106,22 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 **2005-07-29**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_全国首例女变男的变性人在四川领取结婚证(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10928 bytes                           |
-> | MD5             | 2dde6b5204d74306c5f969b18fb9f3db                                  |
-> | Archived Date   | 2024-11-02 04:23:08                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-31/detail-ikkntiak9012477.d.html](https://news.sina.cn/sa/2003-12-31/detail-ikkntiak9012477.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

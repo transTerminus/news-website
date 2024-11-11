@@ -32,19 +32,22 @@
 
 88字
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人小波昨向记者透露今后想法.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2065 bytes                           |
-> | MD5             | 0e115ead3bb2f030ca5fc9e931d5116e                                  |
-> | Archived Date   | 2024-11-02 05:08:07                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4552306.d.html](https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4552306.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

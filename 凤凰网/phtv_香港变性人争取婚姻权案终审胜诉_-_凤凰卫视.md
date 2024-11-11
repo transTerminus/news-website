@@ -31,19 +31,22 @@ W小姐：我非常高兴，我终于可以在香港和心爱的男朋友结婚�
 
 **责任编辑：** 马超
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | phtv_香港变性人争取婚姻权案终审胜诉_-_凤凰卫视.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3107 bytes                           |
-> | MD5             | 6f6279b5fc74748c25a9b850167e110b                                  |
-> | Archived Date   | 2024-11-09 10:07:44                             |
-> | Original Link   | [http://phtv.ifeng.com/program/zbjsj/detail_2013_05/14/25278443_0.shtml](http://phtv.ifeng.com/program/zbjsj/detail_2013_05/14/25278443_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

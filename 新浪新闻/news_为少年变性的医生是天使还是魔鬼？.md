@@ -32,19 +32,22 @@
 
 新浪新闻官方
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_为少年变性的医生是天使还是魔鬼？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4229 bytes                           |
-> | MD5             | af3ad837c46605020c908fa774e0d612                                  |
-> | Archived Date   | 2024-11-02 03:33:09                             |
-> | Original Link   | [https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html](https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -61,19 +61,22 @@
 
 很多人因此而联想到比提的怀孕很可能也是一场骗局。目前，很多美国媒体（包括《早安美国》和美国广播公司新闻网）对事件保持谨慎严肃的态度。他们还采访医生和心理学家，了解变性人生孩子的可能性和风险。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_女子变性后怀孕续：将携妻上电视露面以证真实.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4659 bytes                           |
-> | MD5             | 1dbbf730266cf7219d19fea50c588dd7                                  |
-> | Archived Date   | 2024-11-02 08:32:15                             |
-> | Original Link   | [https://news.ifeng.com/society/4/200804/0402_346_473653.shtml](https://news.ifeng.com/society/4/200804/0402_346_473653.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

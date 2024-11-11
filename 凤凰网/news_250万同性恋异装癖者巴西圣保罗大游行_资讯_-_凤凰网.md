@@ -31,19 +31,22 @@
 * 您要为您所发言论的后果负责，故请各位遵纪守法并注意语言文明。
 * 以上留言只代表网友个人观点，不代表凤凰网观点。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_250万同性恋异装癖者巴西圣保罗大游行_资讯_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1027 bytes                           |
-> | MD5             | 769275bc92529f4b1ae0ca30db49caf2                                  |
-> | Archived Date   | 2024-11-09 10:43:37                             |
-> | Original Link   | [https://news.ifeng.com/photo/200706/0611_24_133329.shtml](https://news.ifeng.com/photo/200706/0611_24_133329.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

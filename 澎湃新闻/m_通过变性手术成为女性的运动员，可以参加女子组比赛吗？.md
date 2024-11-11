@@ -92,19 +92,22 @@ Beate Dunst, Mathias Benedek, Karl Koschutnig, Emanuel Jauk, and Aljoscha C. Neu
 
 **原标题**：《通过变性手术成为女性的运动员，可以参加女子组比赛吗？**  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_通过变性手术成为女性的运动员，可以参加女子组比赛吗？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7327 bytes                           |
-> | MD5             | feee3149469e405c8f768185116803f9                                  |
-> | Archived Date   | 2024-11-03 08:23:59                             |
-> | Original Link   | [https://m.thepaper.cn/baijiahao_10960206](https://m.thepaper.cn/baijiahao_10960206)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

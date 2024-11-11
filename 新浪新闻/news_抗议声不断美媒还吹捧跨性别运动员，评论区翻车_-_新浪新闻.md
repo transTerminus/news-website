@@ -91,19 +91,22 @@ NBC的这番操作引来不少网民反对，有人直接回怼NBC及文章作�
 
 新浪新闻官方
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_抗议声不断美媒还吹捧跨性别运动员，评论区翻车_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8455 bytes                           |
-> | MD5             | fbc3b122cf4a36cc6a56bb0a87551653                                  |
-> | Archived Date   | 2024-11-09 07:27:30                             |
-> | Original Link   | [https://news.sina.cn/2022-03-22/detail-imcwiwss7497788.d.html](https://news.sina.cn/2022-03-22/detail-imcwiwss7497788.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

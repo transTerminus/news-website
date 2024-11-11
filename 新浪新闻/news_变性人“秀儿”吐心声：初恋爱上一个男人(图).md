@@ -49,19 +49,22 @@
 
 说说你的看法
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人“秀儿”吐心声：初恋爱上一个男人(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3330 bytes                           |
-> | MD5             | 11ae40e990dc795c55f5090439d0a152                                  |
-> | Archived Date   | 2024-11-02 04:26:57                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2796498.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2796498.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -56,19 +56,22 @@ _[252](https://cmnt.sina.cn/index?product=comos&index=kknscsi2806099&tj_ch=news&
 转发至微博  
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性理发师被老人骂不男不女要打官司(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4454 bytes                           |
-> | MD5             | 95b39d52474e2d7e4d1b15aba95f11e3                                  |
-> | Archived Date   | 2024-11-02 04:30:05                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-28/detail-ikknscsi2806099.d.html](https://news.sina.cn/sa/2004-02-28/detail-ikknscsi2806099.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

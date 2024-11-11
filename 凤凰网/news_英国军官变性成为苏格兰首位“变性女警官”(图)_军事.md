@@ -18,19 +18,22 @@
 
 有消息人士称，汉米尔顿女士将可在遵守规定的前提下，对妇女进行搜身，并和其他的女警官一样穿女式警服。(中新网5月3日电)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国军官变性成为苏格兰首位“变性女警官”(图)_军事.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1595 bytes                           |
-> | MD5             | 1d9dc5a959e0eb38e20b08717f23a164                                  |
-> | Archived Date   | 2024-11-02 08:23:33                             |
-> | Original Link   | [https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml](https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

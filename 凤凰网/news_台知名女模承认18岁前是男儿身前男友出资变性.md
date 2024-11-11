@@ -19,19 +19,22 @@
 
 **编辑：** 马翠
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_台知名女模承认18岁前是男儿身前男友出资变性.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 981 bytes                           |
-> | MD5             | 5444da814605a799b535790517829589                                  |
-> | Archived Date   | 2024-11-02 08:34:16                             |
-> | Original Link   | [https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml](https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

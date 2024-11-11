@@ -94,21 +94,24 @@
 **特别声明**  
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[申请链接](https://renzheng.thepaper.cn)。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章对拜登政府的新行政令进行了事实核查，重点讨论了该命令对跨性别者的权益保护，特别是与厕所和体育活动相关的争议。文章回顾了历史背景，解释了拜登行政令的内容与目的，并总结了该令在高度政治化的背景下所引发的反响。文章指出，行政令的核心是要求各部审查现有政策，以确保它们不违反反歧视法律，但并没有明确具体实施细则。此外，文章阐述了关于男女同厕以及跨性别者参加女子体育比赛的问题，分析了现有的法规与施行情况，并提到了镇压与支持跨性别权利之间的法律斗争。全篇内容不仅提供了政策介绍，还提供了对公众舆论和社会反应的整体视角。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_事实核查拜登行政令支持男女同厕和“男子”竞赛女子体育？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10600 bytes                           |
-> | MD5             | 08979448fe6063a2265c3e328f0fee2c                                  |
-> | Archived Date   | 2024-11-03 08:43:15                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10922522](https://m.thepaper.cn/newsDetail_forward_10922522)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 詹涓                               |
+> | Region          | 美国                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 行政令, 厕所, 体育运动, 反歧视法律, 拜登政府, 民权法案                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

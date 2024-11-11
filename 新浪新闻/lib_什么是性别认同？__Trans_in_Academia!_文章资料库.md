@@ -254,19 +254,22 @@ Andler(Andler, 2017)认为规范相关解释是“顺性别规范性的”，因
 
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | lib_什么是性别认同？__Trans_in_Academia!_文章资料库.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 64660 bytes                           |
-> | MD5             | 54b692986d5d26402455fe48fb09308b                                  |
-> | Archived Date   | 2024-11-09 07:11:29                             |
-> | Original Link   | [https://lib.transinacademia.org/docs/translated/philosophy/gender_identity/](https://lib.transinacademia.org/docs/translated/philosophy/gender_identity/)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -56,19 +56,22 @@
 
 ---
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_两名小伙在泰国做变性手术回国后申请更改性别.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3035 bytes                           |
-> | MD5             | 9ddddc4861dbd73b13c52bffdb8c7baf                                  |
-> | Archived Date   | 2024-11-02 06:35:06                             |
-> | Original Link   | [https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4](https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -74,19 +74,22 @@
 
 © 2017 THE NEW YORK TIMES
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | itech_跨性别人群现在可以接受一种治疗，让自己听起来更真实_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9771 bytes                           |
-> | MD5             | 32337204b78e0a6b511c7cf7c4fd634d                                  |
-> | Archived Date   | 2024-11-09 10:05:31                             |
-> | Original Link   | [http://itech.ifeng.com/44580885/news.shtml](http://itech.ifeng.com/44580885/news.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

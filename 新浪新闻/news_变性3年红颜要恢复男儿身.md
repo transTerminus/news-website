@@ -68,19 +68,22 @@
 
 太长
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性3年红颜要恢复男儿身.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4141 bytes                           |
-> | MD5             | 76d472d1f8280ee94a0d497f9a76f71e                                  |
-> | Archived Date   | 2024-11-02 05:31:28                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-27/detail-ikknscsk0430105.d.html](https://news.sina.cn/sa/2006-06-27/detail-ikknscsk0430105.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

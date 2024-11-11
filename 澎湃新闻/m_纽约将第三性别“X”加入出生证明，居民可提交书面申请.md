@@ -33,19 +33,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_纽约将第三性别“X”加入出生证明，居民可提交书面申请.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2896 bytes                           |
-> | MD5             | c9b9f6d9a3e3db681bff004c62a4921b                                  |
-> | Archived Date   | 2024-11-03 10:11:13                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

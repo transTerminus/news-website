@@ -51,19 +51,22 @@
 
 **安装:** 打开新浪新闻
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_申请变性手术须20岁以上_手机新浪网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3123 bytes                           |
-> | MD5             | 7db997c608776dd0e5254181cfed8900                                  |
-> | Archived Date   | 2024-11-02 06:06:09                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-06-16/detail-ikknscsk4896472.d.html](https://news.sina.cn/sa/2009-06-16/detail-ikknscsk4896472.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

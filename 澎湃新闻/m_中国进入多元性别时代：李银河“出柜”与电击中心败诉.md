@@ -60,21 +60,24 @@
 
 为什么需要去改变人的性取向？这个做法的合法性和合理性在哪里？只有病才需要治，如果你承认同性恋不是病，那就不需要治。就好像我无名指比食指长，明明不是个病，你非要把我无名指砍掉一节——没错，这样是可以按照你的想法“治好”我“无名指过长”问题，但这个问题本身就是你生造出来的一个伪问题。同性恋人群之所以寻求治疗，大多都是出于社会和家庭的压力。如果大家能接受他们，如果他们不用活得那么累，同性恋矫正治疗就根本就不会有市场。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文探讨了李银河以个人经历为背景发起的性别讨论，以及中国在多元性别时代的法治进展。李银河，作为中国著名的性社会学家，揭露了自己与变性人伴侣的多年来同居生活，借此回应社会对其身份的质疑。她的自白引发了对性别与性取向分类的广泛讨论，特别是对于使用传统标签的合理性与局限性，引起了学界和公众的反思。此外，中国首例同性恋电击矫正案的胜诉，标志着法律层面对同性恋非病理化的一次重要确认，显示出社会对 LGBTQ 群体的理解与接纳正在逐步改善。综上，这篇文章为我们提供了对中国性别问题的深度观察，探讨了情感、身份认同、法律的交织与冲突，反映出社会变迁中对多元性的日益重视。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_中国进入多元性别时代：李银河“出柜”与电击中心败诉.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13702 bytes                           |
-> | MD5             | d63034883ccfa6971b07de7676e8521f                                  |
-> | Archived Date   | 2024-11-03 08:47:05                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1287582](https://m.thepaper.cn/newsDetail_forward_1287582)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 李银河, 跨性别, 同性恋, 电击治疗, 性别研究, 法律政策, 酷儿理论, 社会运动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

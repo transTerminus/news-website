@@ -15,19 +15,22 @@
 
 凤凰新媒体版权所有 版权 © 2013 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_菲律宾民众集会为疑遭美军杀害变性人讨公道.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1399 bytes                           |
-> | MD5             | 324a6f55ce75cfb5693a53c5948009b0                                  |
-> | Archived Date   | 2024-11-02 07:10:02                             |
-> | Original Link   | [https://news.ifeng.com/a/20141022/42269517_0.shtml](https://news.ifeng.com/a/20141022/42269517_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

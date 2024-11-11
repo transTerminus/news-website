@@ -53,19 +53,22 @@
 
 **第三个层次：** 是完成了变性手术的，没有保留任何男性特征，这一类更应该称之为变性人，因为他们无论在生理还是法律定义上都是女性。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | ishare_变性之美的国度泰国与您讲述人妖皇后背后的故事_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4354 bytes                           |
-> | MD5             | f51a2c3a41fee050af613d60090b124c                                  |
-> | Archived Date   | 2024-11-09 10:32:41                             |
-> | Original Link   | [https://ishare.ifeng.com/c/s/7mIKllMAnpa](https://ishare.ifeng.com/c/s/7mIKllMAnpa)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

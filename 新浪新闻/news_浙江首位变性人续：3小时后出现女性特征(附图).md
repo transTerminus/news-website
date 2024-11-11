@@ -72,19 +72,22 @@
 热点资讯 精彩视频抢先看 5.0分好评  
 免费 / 绿色应用 / 优质
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_浙江首位变性人续：3小时后出现女性特征(附图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4738 bytes                           |
-> | MD5             | ab2db231876d979d820ec42df242f050                                  |
-> | Archived Date   | 2024-11-02 04:52:40                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

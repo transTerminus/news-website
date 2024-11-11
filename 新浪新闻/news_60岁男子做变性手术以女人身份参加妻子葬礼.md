@@ -47,19 +47,22 @@ Margaret称在婚姻生活中自己一直在试图掩饰自己对男性身体的
 加拿大安大略**  
 ****回复TA****
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_60岁男子做变性手术以女人身份参加妻子葬礼.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2576 bytes                           |
-> | MD5             | 1917a1d91a5d1af515f40e8ca58478f3                                  |
-> | Archived Date   | 2024-11-02 06:34:28                             |
-> | Original Link   | [https://news.sina.cn/sh/2016-05-15/detail-ifxsenvn7185186.d.html](https://news.sina.cn/sh/2016-05-15/detail-ifxsenvn7185186.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

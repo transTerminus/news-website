@@ -30,19 +30,22 @@
 
 请在此处输入评论内容。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_世卫组织重新归类“变性”不再被视为精神病.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2660 bytes                           |
-> | MD5             | 1b9dd7e534dad5d2fd70071072727490                                  |
-> | Archived Date   | 2024-11-02 04:00:06                             |
-> | Original Link   | [https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4](https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

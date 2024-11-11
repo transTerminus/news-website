@@ -32,19 +32,22 @@
 
 更多专业报道，请点击下载“界面新闻”APP
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普说变性人会给国防带来巨大负担但军方却不这么认为.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4458 bytes                           |
-> | MD5             | c10ec7a3bb7f16897702711532aed260                                  |
-> | Archived Date   | 2024-11-02 03:38:54                             |
-> | Original Link   | [https://news.sina.cn/2017-07-29/detail-ifyinryq6925888.d.html?from=wap](https://news.sina.cn/2017-07-29/detail-ifyinryq6925888.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -60,19 +60,22 @@
 
 **版权声明**: 本文章版权归凤凰网所有，未经授权，不得转载。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_吃激素、隆胸、穿女装粤84岁书法家欲变性.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5801 bytes                           |
-> | MD5             | 36c6ff76b71910dcef75bd65ef58cc48                                  |
-> | Archived Date   | 2024-11-02 07:58:56                             |
-> | Original Link   | [https://news.ifeng.com/c/7fcPpTORTiV](https://news.ifeng.com/c/7fcPpTORTiV)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

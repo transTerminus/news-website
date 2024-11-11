@@ -50,19 +50,22 @@
 
 **2014年4月15日：**印度最高法院认可了包括“海吉拉”在内的群体确认自身为第三性的权利。这一裁决要求政府在就业和教育中为第三性群体设立配额，就像已经为其他少数族裔设立的那样。法院指出：“选择自己的性别是每个人的权力。”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_揭秘第三性：亚洲多国允许性别不填男女填未定.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6955 bytes                           |
-> | MD5             | 7eeaae69543d13984cb6400a61104f60                                  |
-> | Archived Date   | 2024-11-03 08:48:04                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1297005](https://m.thepaper.cn/newsDetail_forward_1297005)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

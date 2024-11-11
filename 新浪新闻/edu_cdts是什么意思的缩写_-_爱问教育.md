@@ -17,19 +17,22 @@ cdts，该词其实有两层含义，总的来说就是异性癖群体，也就�
 **作者/编辑**: 永不放弃  
 **时间**: 2023-10-08 12:56:04
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | edu_cdts是什么意思的缩写_-_爱问教育.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2911 bytes                           |
-> | MD5             | d59185f7d73a60873236edaa93000c0c                                  |
-> | Archived Date   | 2024-11-09 06:14:48                             |
-> | Original Link   | [https://edu.iask.sina.com.cn/jy/3kTBHmN32Cr.html](https://edu.iask.sina.com.cn/jy/3kTBHmN32Cr.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

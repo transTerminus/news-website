@@ -320,19 +320,22 @@ C先生是跨性别男性，寸短，银色耳环，日常穿着男士西装和�
 
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_难以跨越的“隐形门”：跨性别者职场生存记_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 30169 bytes                           |
-> | MD5             | 36e65a6f46b229e0eb2ccb4ebb59f1c9                                  |
-> | Archived Date   | 2024-11-09 07:45:45                             |
-> | Original Link   | [https://news.sina.cn/sh/2020-01-21/detail-iihnzahk5471671.d.html](https://news.sina.cn/sh/2020-01-21/detail-iihnzahk5471671.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

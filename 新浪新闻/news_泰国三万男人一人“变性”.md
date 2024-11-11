@@ -19,19 +19,22 @@
 
 转发至微博
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国三万男人一人“变性”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1116 bytes                           |
-> | MD5             | 493476098b3f500cf6a9457f87e45d34                                  |
-> | Archived Date   | 2024-11-02 04:28:13                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -22,19 +22,22 @@
 
 [_524_](https://cmnt.sina.cn/index?product=comos&index=fykiqfe1716959&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普正式下命令禁止变性人参军.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1163 bytes                           |
-> | MD5             | f59b4dfe7022e160490dc6e36df00157                                  |
-> | Archived Date   | 2024-11-02 04:05:52                             |
-> | Original Link   | [https://news.sina.cn/global/szzx/doc-ifykiqfe1716959.d.html?wm=3049_0015](https://news.sina.cn/global/szzx/doc-ifykiqfe1716959.d.html?wm=3049_0015)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

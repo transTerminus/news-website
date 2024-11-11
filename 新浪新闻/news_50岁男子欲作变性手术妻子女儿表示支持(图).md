@@ -145,19 +145,22 @@
 **纯粹是一个变态狂！！！！**  
 **2007-01-27**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_50岁男子欲作变性手术妻子女儿表示支持(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10242 bytes                           |
-> | MD5             | 7b981fc4f083e821837d98910dfab5d2                                  |
-> | Archived Date   | 2024-11-02 05:38:44                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-11-09/detail-ikftssap2776602.d.html](https://news.sina.cn/sa/2006-11-09/detail-ikftssap2776602.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

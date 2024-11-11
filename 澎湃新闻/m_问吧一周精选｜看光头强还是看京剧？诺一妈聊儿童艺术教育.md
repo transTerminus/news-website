@@ -76,19 +76,22 @@
 
 准备考试的过程曲折又孤独，最大的敌人是自己，心态加体力。走过去，再回首，发现其实也是一个寻找自己的过程。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_问吧一周精选｜看光头强还是看京剧？诺一妈聊儿童艺术教育.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7123 bytes                           |
-> | MD5             | c69bca09fc4f763841b488aa21e07c08                                  |
-> | Archived Date   | 2024-11-03 08:59:06                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1413594](https://m.thepaper.cn/newsDetail_forward_1413594)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

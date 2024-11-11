@@ -19,19 +19,22 @@
 [**号称“中国最美男人”为演戏吃雌性激素**](http://news.ifeng.com/photo/other/200707/0710_1399_152471.shtml "号称“中国最美男人”为演戏吃雌性激素")  
 [**越南少女红星性爱视频网上曝光 全国震撼\[组图\]**](http://news.ifeng.com/photo/society/200710/1025_1400_272560.shtml "越南少女红星性爱视频网上曝光 全国震撼[组图]")
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国变性女郎再次变回男儿身[组图].md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1585 bytes                           |
-> | MD5             | ce0703fdafb9532c1ac12be2e1fd8cdb                                  |
-> | Archived Date   | 2024-11-02 08:25:57                             |
-> | Original Link   | [https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml](https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

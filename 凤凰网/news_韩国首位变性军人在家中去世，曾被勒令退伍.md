@@ -10,19 +10,22 @@
 
 Notice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services。”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_韩国首位变性军人在家中去世，曾被勒令退伍.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 755 bytes                           |
-> | MD5             | 8d1b2796fb797826e1db5d50af31843b                                  |
-> | Archived Date   | 2024-11-02 08:08:33                             |
-> | Original Link   | [https://news.ifeng.com/c/84Kp2h42zrN](https://news.ifeng.com/c/84Kp2h42zrN)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

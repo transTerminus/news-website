@@ -55,19 +55,22 @@
 **5.0分好评**  
 **免费 / 绿色应用 / 优质**  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_小伙花43万整容变性最后惊觉自己喜欢女人(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3049 bytes                           |
-> | MD5             | c50fdd3b544a3d23bb4b67838157c5fa                                  |
-> | Archived Date   | 2024-11-02 06:35:42                             |
-> | Original Link   | [https://news.sina.cn/sh/2018-03-25/detail-ifysnevn0968143.d.html](https://news.sina.cn/sh/2018-03-25/detail-ifysnevn0968143.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

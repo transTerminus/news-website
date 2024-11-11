@@ -35,19 +35,22 @@
 **评论:**  
 已有0位凤凰网友参与评论
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_韩国28岁男子强奸变性人被判刑3年.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1432 bytes                           |
-> | MD5             | 18dc4bf9ca0f73dcbbe570f913e16067                                  |
-> | Archived Date   | 2024-11-02 08:34:39                             |
-> | Original Link   | [https://news.ifeng.com/world/200902/0218_16_1021568.shtml](https://news.ifeng.com/world/200902/0218_16_1021568.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

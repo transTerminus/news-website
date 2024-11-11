@@ -112,19 +112,22 @@
 **新浪网友**: 变性对联集锦 (集自sina网友评论) ------------- 做男做女,都能发挥优势,用不着这性望着那性高. 变来变去,终究假冒伪劣,刀下去长处丧失短处留. 珍惜原性. 装备更新,投资追加,只能伸不会屈怎当大丈夫? 粉黛敷面,时光飞逝,染色体没法变难做俏佳人! 原装最好 原装设备已丢失,硬撑笑颜,泪珠满眶唯己知! 代用材料无知觉,强忍痛苦,悔恨一生向谁诉? 莫违规律 昔日皇宫门外遭阉割,弄得不男不女.疯狂斩断百姓美满姻缘,只为着帝王随心淫乱. 今朝太平盛世获自由,何需变来变去.勤劳创造大众幸福生活,普天下情人都成眷属. 后悔改性  
 **时间**: 2003-06-22
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国首例变性人的情感历程：20年女人梦(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 17103 bytes                           |
-> | MD5             | 83015dfbafb32f598f7d42b442e5c200                                  |
-> | Archived Date   | 2024-11-02 04:12:26                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html](https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -30,19 +30,22 @@ W小姐认为，当局不容许她更改出世纸性别，是违反《人权法�
 **评论**: 共有评论0条  
 **阅读更多**: [点击查看](http://comment.ifeng.com/view.php?chId=19&docId=1432112&docName=%e6%b8%af%e4%b8%80%e5%8f%98%e6%80%a7%e4%ba%ba%e6%b3%a8%e5%86%8c%e7%bb%93%e5%a9%9a%e8%a2%ab%e6%8b%92+%e4%ba%8b%e4%b8%bb%e6%8e%a7%e5%91%8a%e5%bd%93%e5%b1%80%e8%bf%9d%e5%8f%8d%e4%ba%ba%e6%9d%83&docUrl=http%3a%2f%2fnews.ifeng.com%2fhongkong%2f200911%2f1112_19_1432112.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_港一变性人注册结婚被拒事主控告当局违反人权.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3526 bytes                           |
-> | MD5             | c41eaca909f646eb0c08dbf3d6207720                                  |
-> | Archived Date   | 2024-11-02 08:22:31                             |
-> | Original Link   | [https://news.ifeng.com/hongkong/200911/1112_19_1432112.shtml](https://news.ifeng.com/hongkong/200911/1112_19_1432112.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

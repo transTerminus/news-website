@@ -31,19 +31,22 @@
 
 该院为王霞做手术，将“她”的输精管、睾丸等男性生殖器官切除，在其身体下部开了一道长8厘米左右的阴道，王霞变回了女人。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_双性人做变性手术失败医院门口跪地哀求(图)_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2169 bytes                           |
-> | MD5             | 2c5411f1e96c25dde122d6c539e98d85                                  |
-> | Archived Date   | 2024-11-09 10:44:40                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200902/0225_344_1032815.shtml](https://news.ifeng.com/society/2/200902/0225_344_1032815.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

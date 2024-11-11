@@ -39,19 +39,22 @@
 ![](http://img.ifeng.com/tres/appres/images/mood/motion_07.gif) 高兴  
 ![](http://img.ifeng.com/tres/appres/images/mood/motion_08.gif) 路过
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国一常败拳击手厌烦当猛男变性获妻支持(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2565 bytes                           |
-> | MD5             | d92311c4e9580c607dca2b1b8d836e81                                  |
-> | Archived Date   | 2024-11-02 08:35:04                             |
-> | Original Link   | [https://news.ifeng.com/world/200907/0721_16_1259642.shtml](https://news.ifeng.com/world/200907/0721_16_1259642.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

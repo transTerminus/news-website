@@ -58,19 +58,22 @@
 
 新浪新闻官方
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性45年，法律才认我是女.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6757 bytes                           |
-> | MD5             | 9d946beb7898cae3097e0655dd956eb1                                  |
-> | Archived Date   | 2024-11-02 06:10:44                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-11-25/detail-ikmxzfmi9468884.d.html?from=wap](https://news.sina.cn/sa/2009-11-25/detail-ikmxzfmi9468884.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

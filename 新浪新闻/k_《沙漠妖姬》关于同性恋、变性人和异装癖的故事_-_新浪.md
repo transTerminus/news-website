@@ -26,19 +26,22 @@ _![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20240110/c1d4-406d0172da0b2d2
 
 **特别声明：**以上文章内容仅代表作者本人观点，不代表 新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发布后的30日内与 新浪网联系。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_《沙漠妖姬》关于同性恋、变性人和异装癖的故事_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4140 bytes                           |
-> | MD5             | 2000fb02369dd8348296e499717a7d5a                                  |
-> | Archived Date   | 2024-11-09 06:39:10                             |
-> | Original Link   | [https://k.sina.cn/article_1659562320_62eae950001001toc.html](https://k.sina.cn/article_1659562320_62eae950001001toc.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

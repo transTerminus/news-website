@@ -35,19 +35,22 @@
 
 请输入评论内容  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_韩国首位变性军人死于家中：因变性被强制退伍韩军方哀悼.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1813 bytes                           |
-> | MD5             | d2a2e3ca2a3fe6ac290240d42fc51827                                  |
-> | Archived Date   | 2024-11-02 04:02:46                             |
-> | Original Link   | [https://news.sina.cn/gj/2021-03-04/detail-ikftpnnz2036929.d.html](https://news.sina.cn/gj/2021-03-04/detail-ikftpnnz2036929.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

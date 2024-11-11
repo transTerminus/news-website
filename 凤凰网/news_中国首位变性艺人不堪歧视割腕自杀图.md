@@ -25,19 +25,22 @@
 **评论**：  
 - *以上留言只代表网友个人观点，不代表凤凰网观点。*
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国首位变性艺人不堪歧视割腕自杀图.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2783 bytes                           |
-> | MD5             | af672b7fede3388a58a13d5d6f26d699                                  |
-> | Archived Date   | 2024-11-02 08:31:39                             |
-> | Original Link   | [https://news.ifeng.com/society/3/200701/0130_345_69917.shtml](https://news.ifeng.com/society/3/200701/0130_345_69917.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

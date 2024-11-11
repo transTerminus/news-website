@@ -30,19 +30,22 @@
 
 ![评论区广告](http://x0.ifengimg.com/feprod/c/2023_6_5/18_8_26/ad-logo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2919 bytes                           |
-> | MD5             | 36da3d8f0af1d41797d244856e9f9e1a                                  |
-> | Archived Date   | 2024-11-09 10:42:40                             |
-> | Original Link   | [https://news.ifeng.com/c/8e9HgZgc0re](https://news.ifeng.com/c/8e9HgZgc0re)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

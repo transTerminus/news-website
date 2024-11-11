@@ -42,19 +42,22 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 免费 / 绿色应用 / 优质
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国政府征兵强制变性人入伍引争议(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2170 bytes                           |
-> | MD5             | 1512ae9f52114824a3058e2702ad498e                                  |
-> | Archived Date   | 2024-11-02 03:37:12                             |
-> | Original Link   | [https://news.sina.cn/2017-04-07/detail-ifyecfnu7557628.d.html](https://news.sina.cn/2017-04-07/detail-ifyecfnu7557628.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

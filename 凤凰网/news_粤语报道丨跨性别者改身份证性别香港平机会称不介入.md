@@ -44,19 +44,22 @@
 
 **版权声明**: 本文作者与凤凰网，版权归原创者所有。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_粤语报道丨跨性别者改身份证性别香港平机会称不介入.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1242 bytes                           |
-> | MD5             | dcefd6aa5b6ddc99162d0a88acdba466                                  |
-> | Archived Date   | 2024-11-09 10:38:48                             |
-> | Original Link   | [https://news.ifeng.com/c/8YXZQuXGtAu](https://news.ifeng.com/c/8YXZQuXGtAu)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

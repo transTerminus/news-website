@@ -20,19 +20,22 @@ _（记者/向雨航 实习生/吴小茜 通讯员/周宁）_
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性失败成女面男身跪地求援变女人(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2545 bytes                           |
-> | MD5             | 4e6842f281655a18f432ca44a13ee8d7                                  |
-> | Archived Date   | 2024-11-02 06:17:26                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-08-03/detail-ikmyaawa3058009.d.html](https://news.sina.cn/sa/2010-08-03/detail-ikmyaawa3058009.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

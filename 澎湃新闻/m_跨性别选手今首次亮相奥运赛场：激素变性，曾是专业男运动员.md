@@ -21,19 +21,22 @@
 
 责任编辑：王卓一  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别选手今首次亮相奥运赛场：激素变性，曾是专业男运动员.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2215 bytes                           |
-> | MD5             | 24c5c1d2b8611d78474275690cb2857a                                  |
-> | Archived Date   | 2024-11-03 08:54:14                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13850994](https://m.thepaper.cn/newsDetail_forward_13850994)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

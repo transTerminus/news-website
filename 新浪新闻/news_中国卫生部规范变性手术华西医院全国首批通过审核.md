@@ -14,19 +14,22 @@
 
 四川华西医院烧伤整形外科主任、四川省美容整形协会会长岑瑛表示，此次对变性手术技术的审核和管理非常有助于病人治疗，通过审核的医疗机构是病人康复的保障，变性手术的费用，四川华西医院是严格按照全国规定标准收费，男性变为女性的生殖器切除、喉结祛除、乳房再造3项手术费用大约在5至10万元。(完)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国卫生部规范变性手术华西医院全国首批通过审核.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1832 bytes                           |
-> | MD5             | 171e558e89642f745f852bfdf145638e                                  |
-> | Archived Date   | 2024-11-02 06:23:46                             |
-> | Original Link   | [https://news.sina.cn/sa/2011-06-02/detail-ikftpnny4807712.d.html](https://news.sina.cn/sa/2011-06-02/detail-ikftpnny4807712.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

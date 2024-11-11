@@ -85,19 +85,22 @@
 
 **标签:** 变性人, 美国, 军队, 性别认同, 就业权利
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_外军变性官兵在美集会吁美允许变性人参军.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7867 bytes                           |
-> | MD5             | cf30162539f42b3a63b4934909c50fea                                  |
-> | Archived Date   | 2024-11-02 03:23:48                             |
-> | Original Link   | [http://news.sina.cn/gj/2014-10-22/detail-iawzunex4278929.d.html](http://news.sina.cn/gj/2014-10-22/detail-iawzunex4278929.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

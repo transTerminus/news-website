@@ -16,19 +16,22 @@
 
 **特别声明：**以上文章内容仅代表作者本人观点，不代表新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发布后的30日内与新浪网联系。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_中国首家跨性别儿童青少年诊所在上海成立.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2881 bytes                           |
-> | MD5             | f890af9f24975a03255a5bc596e714be                                  |
-> | Archived Date   | 2024-11-09 07:10:58                             |
-> | Original Link   | [https://k.sina.cn/article_7704856237_1cb3ec6ad00100valj.html?from=health](https://k.sina.cn/article_7704856237_1cb3ec6ad00100valj.html?from=health)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

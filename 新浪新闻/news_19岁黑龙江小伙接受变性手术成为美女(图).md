@@ -43,19 +43,22 @@
 
 [_190_](https://cmnt.sina.cn/index?product=comos&index=kknscsi8196762&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_19岁黑龙江小伙接受变性手术成为美女(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2368 bytes                           |
-> | MD5             | 642d7297cc3a678537b03897b3469a13                                  |
-> | Archived Date   | 2024-11-02 05:12:17                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-11-06/detail-ikknscsi8196762.d.html](https://news.sina.cn/sa/2005-11-06/detail-ikknscsi8196762.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

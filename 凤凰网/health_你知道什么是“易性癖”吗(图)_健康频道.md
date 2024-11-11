@@ -20,19 +20,22 @@
 
 ![特别策划：寻找中国人的信仰](http://img.ifeng.com/tres/pub_res/final_image/websj01.gif)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | health_你知道什么是“易性癖”吗(图)_健康频道.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3110 bytes                           |
-> | MD5             | ca7680e72c0e9033cd1de07894403cbf                                  |
-> | Archived Date   | 2024-11-09 09:49:01                             |
-> | Original Link   | [http://health.ifeng.com/psychology/analysis/detail_2010_08/25/2312442_0.shtml](http://health.ifeng.com/psychology/analysis/detail_2010_08/25/2312442_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -20,19 +20,22 @@
 
 [查看全部评论>>](//gentie.ifeng.com/c/comment/84LDfUegI4B)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_被勒令退伍的韩国变性军人家中意外死亡.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 972 bytes                           |
-> | MD5             | 90d5ff7f20634aca237a48bf4d272c90                                  |
-> | Archived Date   | 2024-11-02 08:09:02                             |
-> | Original Link   | [https://news.ifeng.com/c/84LDfUegI4B](https://news.ifeng.com/c/84LDfUegI4B)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

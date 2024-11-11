@@ -35,19 +35,22 @@
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | mil_拜登提名跨性别医生担任卫生部助理部长，创下历史_-_新浪军事.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2726 bytes                           |
-> | MD5             | 436ff1eda6714cff28c64b0b6891644d                                  |
-> | Archived Date   | 2024-11-09 07:19:48                             |
-> | Original Link   | [https://mil.sina.cn/2021-01-20/detail-ikftssan8785005.d.html?oid=4059580608996029&vt=4&cid=264324&node_id=264324](https://mil.sina.cn/2021-01-20/detail-ikftssan8785005.d.html?oid=4059580608996029&vt=4&cid=264324&node_id=264324)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -111,19 +111,22 @@
 
 新浪新闻官方
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_联合国决议支持同性恋权利_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4707 bytes                           |
-> | MD5             | 53910d3fb1460ef06bdb53f987c5d4a5                                  |
-> | Archived Date   | 2024-11-09 07:41:38                             |
-> | Original Link   | [https://news.sina.cn/sa/2011-06-19/detail-ikftpnny4839501.d.html](https://news.sina.cn/sa/2011-06-19/detail-ikftpnny4839501.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

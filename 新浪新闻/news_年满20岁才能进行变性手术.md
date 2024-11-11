@@ -27,19 +27,22 @@
 评论内容：  
 [说说你的看法](https://cmnt.sina.cn/index?product=comos&index=kkntian1734792&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_年满20岁才能进行变性手术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2556 bytes                           |
-> | MD5             | e2e060f2cb521df8c1208502ff3e3e3e                                  |
-> | Archived Date   | 2024-11-02 06:07:24                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html](https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

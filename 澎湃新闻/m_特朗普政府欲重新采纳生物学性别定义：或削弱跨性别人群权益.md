@@ -26,19 +26,22 @@ HHS的官员希望对1972年颁布的《教育法修正案第九条》(Title IX)
 发布时间：当地时间21日  
 标签：跨性别、政策、特朗普、奥巴马
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_特朗普政府欲重新采纳生物学性别定义：或削弱跨性别人群权益.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2663 bytes                           |
-> | MD5             | 9e4301abf0d2bd0fb984a3bbe7dba414                                  |
-> | Archived Date   | 2024-11-10 22:13:57                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2551284?from=sohu](https://m.thepaper.cn/newsDetail_forward_2551284?from=sohu)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

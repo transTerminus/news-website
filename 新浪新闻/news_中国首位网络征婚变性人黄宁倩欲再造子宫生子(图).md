@@ -64,19 +64,22 @@
 
 “男性生育”的概念最初由英国人提出，2002年的时候，中国整形医疗行业曾经有过一个“男妈妈工程”，发起者陈焕然博士介绍，男人生育从理论上可行，其步骤为：首先取一个卵子和精子，在体外受精，等新受精卵分裂到一定程度，将胚胎通过肚脐，利用腹腔镜把胚胎植入到男性腹腔的一个特定部位。这样就可以开始妊娠。后面要对“准男妈妈”进行24小时的监测，通过一个导管不断地向他的体内增补雌性激素、孕激素等，以模拟正常孕妇的体内环境。怀孕6-7个月后对“男妈妈”施行剖腹产，然后在温箱中把胎儿养大。不过，至今这一理论仍停留在创意阶段，缺乏成功生育案例。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国首位网络征婚变性人黄宁倩欲再造子宫生子(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8945 bytes                           |
-> | MD5             | ff4bc90d3abbabd0f26c8f2013ccafd8                                  |
-> | Archived Date   | 2024-11-02 06:23:14                             |
-> | Original Link   | [https://news.sina.cn/sa/2011-01-03/detail-ikftssap3485052.d.html](https://news.sina.cn/sa/2011-01-03/detail-ikftssap3485052.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

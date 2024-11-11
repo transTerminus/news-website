@@ -29,19 +29,22 @@
 
 **标签：** [怀孕](#) [孩子出生](#) [托马斯](#)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国怀孕变性人接受专访称想要更多孩子(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2202 bytes                           |
-> | MD5             | 2095442dfedd3ffa250b4bbbd1c54211                                  |
-> | Archived Date   | 2024-11-02 08:28:35                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200806/0612_344_593806.shtml](https://news.ifeng.com/society/2/200806/0612_344_593806.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

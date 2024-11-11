@@ -28,19 +28,22 @@
 **编辑**: 霍吉和  
 **版权声明**: 所有评论仅代表网友意见，凤凰网保持中立。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_圭亚那一群变性人要求修法让异装癖者免罪_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2024 bytes                           |
-> | MD5             | 71606f05acc735ec7164287e441ad1ff                                  |
-> | Archived Date   | 2024-11-02 08:36:05                             |
-> | Original Link   | [https://news.ifeng.com/world/201002/0223_16_1553490.shtml](https://news.ifeng.com/world/201002/0223_16_1553490.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

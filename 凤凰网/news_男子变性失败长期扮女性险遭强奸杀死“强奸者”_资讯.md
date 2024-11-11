@@ -22,19 +22,22 @@
 
 ---
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性失败长期扮女性险遭强奸杀死“强奸者”_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2282 bytes                           |
-> | MD5             | cbfac2c5cf67e37e14bab1f4977a358b                                  |
-> | Archived Date   | 2024-11-02 08:27:19                             |
-> | Original Link   | [https://news.ifeng.com/society/1/200811/1118_343_882606.shtml](https://news.ifeng.com/society/1/200811/1118_343_882606.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

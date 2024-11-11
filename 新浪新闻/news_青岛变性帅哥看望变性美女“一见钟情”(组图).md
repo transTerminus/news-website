@@ -47,19 +47,22 @@
 
 版权声明：本文为手机新浪网版权所有，未经允许不得转载。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_青岛变性帅哥看望变性美女“一见钟情”(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2704 bytes                           |
-> | MD5             | fff21305800eae5a604fcd0d485b0983                                  |
-> | Archived Date   | 2024-11-02 04:17:56                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-11-27/detail-ikkntiak8699836.d.html](https://news.sina.cn/sa/2003-11-27/detail-ikkntiak8699836.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

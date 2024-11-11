@@ -108,19 +108,22 @@ DSM第四版的序言中有这样一段话，“无论是行为偏离正常（�
 
 版权信息：Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | blog_跨性别者：喜欢穿女装的男孩需要治疗吗？_-_新浪网站导航.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 14056 bytes                           |
-> | MD5             | c7ca72a10c71b1bc20ed40b8361237bb                                  |
-> | Archived Date   | 2024-11-09 06:08:39                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_5b2b70620102wvvm.html](https://blog.sina.com.cn/s/blog_5b2b70620102wvvm.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

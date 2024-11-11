@@ -66,19 +66,22 @@ KCM Trade驻悉尼首席市场分析师Tim Waterer表示，“日元整个10月�
 
 [1条评论](//gentie.ifeng.com/c/comment/8e2pQtf2ZvX)/[2人参与](//gentie.ifeng.com/c/comment/8e2pQtf2ZvX)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_15年来首次！日本执政联盟未获得过半议席，日元跌至三个月新低.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5188 bytes                           |
-> | MD5             | a173924b341f75bf44c1a37bcb117339                                  |
-> | Archived Date   | 2024-11-09 10:17:28                             |
-> | Original Link   | [https://finance.ifeng.com/c/8e2pQtf2ZvX](https://finance.ifeng.com/c/8e2pQtf2ZvX)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

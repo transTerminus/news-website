@@ -67,19 +67,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性选手能否参加体育比赛？男变女后，TA的身体优势还在吗.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5605 bytes                           |
-> | MD5             | 47cbd92c994feb1a60a86c0f96bee7a6                                  |
-> | Archived Date   | 2024-11-10 22:30:57                             |
-> | Original Link   | [https://m.thepaper.cn/yidian_promDetail.jsp?contid=8994480&from=yidian](https://m.thepaper.cn/yidian_promDetail.jsp?contid=8994480&from=yidian)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

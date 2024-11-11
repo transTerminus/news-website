@@ -40,19 +40,22 @@
 
 新浪新闻官方
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国监狱为男性囚犯提供变性手术将其移往女监.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2003 bytes                           |
-> | MD5             | c183ee285e59aec2e9dbb2085e56fdb5                                  |
-> | Archived Date   | 2024-11-02 03:25:53                             |
-> | Original Link   | [http://news.sina.cn/gj/2015-10-22/detail-ifxizwti6905076.d.html](http://news.sina.cn/gj/2015-10-22/detail-ifxizwti6905076.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

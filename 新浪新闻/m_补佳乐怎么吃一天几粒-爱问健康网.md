@@ -11,19 +11,22 @@
 
 补佳乐怎么吃一天吃几粒，需要根据病情来决定，补佳乐它的主要成分，是戊酸雌二醇，它主要是补充体内的雌激素，所以当体内的雌激素差的比较多的时候，用的量就要大一些。当雌激素差的比较少，用的量就要小一些。所以在用药之前就需要进行评估，看体内雌激素的水平。平常还必须在医生的指导下使用，这样才比较安全。因为要不有它的副作用，其中最常见的就是静脉的栓塞，所以用药的过程中就需要关注他的不良反应。如果出现了局部的疼痛或者红肿，就需要复诊。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_补佳乐怎么吃一天几粒-爱问健康网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1683 bytes                           |
-> | MD5             | d6195411e3d9e5d3f51789240dfc7e18                                  |
-> | Archived Date   | 2024-11-09 07:16:59                             |
-> | Original Link   | [https://m.yyk.iask.sina.com.cn/q/OmYD4Nei79N.html](https://m.yyk.iask.sina.com.cn/q/OmYD4Nei79N.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -8,19 +8,22 @@
 
 泰国到当兵年龄的男子，每年4月便要向军方报到，其中包括变性人。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_泰国人妖皇后现身征兵现场_-_凤凰网财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 315 bytes                           |
-> | MD5             | 261d9c3cfa5942ebba666ae1e597e4d2                                  |
-> | Archived Date   | 2024-11-09 10:16:19                             |
-> | Original Link   | [https://finance.ifeng.com/c/7Zy0CAmFi3E](https://finance.ifeng.com/c/7Zy0CAmFi3E)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

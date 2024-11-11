@@ -50,19 +50,22 @@
 **有点美女味道，比“湖南小伙变性感美女 走上从艺之路”强多了。。。。。**  
 **2005-09-13**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_帅哥变性成美女续：单位欢迎其回来上班(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4016 bytes                           |
-> | MD5             | 9c3d395e3b4241c810b1df5f2204d87c                                  |
-> | Archived Date   | 2024-11-02 05:08:44                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html](https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

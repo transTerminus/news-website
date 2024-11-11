@@ -40,19 +40,22 @@ BBC报道称，最高法院15日一致驳回了艾伦凯恩的上诉，指出填
 
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | mil_英国最高法院：生活中性别自己定但护照不搞中性_-_新浪军事.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3776 bytes                           |
-> | MD5             | febcccf0c323acd567a7d42d2d5dec25                                  |
-> | Archived Date   | 2024-11-09 07:20:32                             |
-> | Original Link   | [https://mil.sina.cn/dgby/2021-12-16/detail-ikyamrmy9306459.d.html](https://mil.sina.cn/dgby/2021-12-16/detail-ikyamrmy9306459.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -64,19 +64,22 @@
 
 **责任编辑**：杨璐妍 PX285
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“撕裂”之战⑧｜高调支持特朗普背后，马斯克究竟想要什么？_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6813 bytes                           |
-> | MD5             | edc70c3fbc7ec06ee5a8cf3bbe2abd5f                                  |
-> | Archived Date   | 2024-11-09 10:43:15                             |
-> | Original Link   | [https://news.ifeng.com/c/8e9kLIpwmrY](https://news.ifeng.com/c/8e9kLIpwmrY)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

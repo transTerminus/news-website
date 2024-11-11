@@ -30,19 +30,22 @@
 **编辑：zkx**  
 **标签：变性手术、性别问题、法律诉讼**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_50多岁男子变性手术后成“不男不女”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3704 bytes                           |
-> | MD5             | 2552dba1d1ea541ffeba046029b128aa                                  |
-> | Archived Date   | 2024-11-02 08:24:25                             |
-> | Original Link   | [https://news.ifeng.com/photo/200702/0214_24_77208.shtml](https://news.ifeng.com/photo/200702/0214_24_77208.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

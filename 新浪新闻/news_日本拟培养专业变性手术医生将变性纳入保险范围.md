@@ -25,19 +25,22 @@
 ### 评论
 请说说你的看法
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_日本拟培养专业变性手术医生将变性纳入保险范围.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1405 bytes                           |
-> | MD5             | fa8064a4ad07a0a85487fd6570dde5dc                                  |
-> | Archived Date   | 2024-11-02 03:50:35                             |
-> | Original Link   | [https://news.sina.cn/gj/2015-03-23/detail-iavxeafs2022705.d.html](https://news.sina.cn/gj/2015-03-23/detail-iavxeafs2022705.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

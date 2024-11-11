@@ -27,19 +27,22 @@
 
 **标签:** 跨性别角色, DC电影, Alysia Yeoh, 蝙蝠女
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | ent_DC真人电影首个跨性别角色曝光由跨性别演员出演_-_娱乐-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1402 bytes                           |
-> | MD5             | 48b9d70faa3ac05b49d1f3668c2ac48d                                  |
-> | Archived Date   | 2024-11-09 06:16:01                             |
-> | Original Link   | [https://ent.sina.cn/film/foreign/2022-01-29/detail-ikyamrmz8188378.d.html](https://ent.sina.cn/film/foreign/2022-01-29/detail-ikyamrmz8188378.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

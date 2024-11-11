@@ -50,19 +50,22 @@
 
 《请以你的名字呼唤我》剧照。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_特朗普提名新大法官，美国性少数群体前景不容乐观.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 11241 bytes                           |
-> | MD5             | 62a98d5a2df73b4f4633fa6128e630b5                                  |
-> | Archived Date   | 2024-11-03 08:34:55                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2284387&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2284387&from=kuaibao)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

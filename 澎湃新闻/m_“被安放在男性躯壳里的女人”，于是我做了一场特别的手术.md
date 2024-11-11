@@ -131,21 +131,24 @@
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问 <https://renzheng.thepaper.cn>
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文记录了一位跨性别女性的手术经历及其转变的生命故事。作者讲述了她从小受到性别认同困扰，经历了多年的药物治疗、不同工作环境下的性别表达，以及与个人情感的挣扎。2019年，她决定赴泰国接受跨性别手术，实现了身体与性别认同的统一。文章细致描述了手术前的准备、手术过程中的心路历程、以及术后恢复的挑战和成就。同时，作者反思了性别与社会对于女性的要求，表达了对自己真实身份的认同与自豪。整篇文章展现了跨性别经历的复杂性和个人的坚韧精神，旨在增强公众对跨性别者经历的理解与支持。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_“被安放在男性躯壳里的女人”，于是我做了一场特别的手术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 16265 bytes                           |
-> | MD5             | b18b784f8b52d944909560724f34332f                                  |
-> | Archived Date   | 2024-11-03 09:12:07                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18537620](https://m.thepaper.cn/newsDetail_forward_18537620)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 樱泽枫                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2019-01-25                                 |
+> | Tags            | 跨性别手术, 性别认同, 生命故事, 医疗资源, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

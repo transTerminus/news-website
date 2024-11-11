@@ -36,19 +36,22 @@
 **责任编辑：** 徐晓阳  
 **图片编辑：** 施佳慧  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_男子B超发现有子宫，医生：患罕见“两性畸形”，要看其想以什么性别_.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4950 bytes                           |
-> | MD5             | 4646f5fde97402f13451390e06d56c4a                                  |
-> | Archived Date   | 2024-11-10 22:09:34                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_21876762](https://m.thepaper.cn/newsDetail_forward_21876762)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

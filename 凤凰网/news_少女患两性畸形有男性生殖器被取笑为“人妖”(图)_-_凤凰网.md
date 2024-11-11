@@ -114,19 +114,22 @@
 
 标签：[喉结](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%96%89%E7%BB%93) [姥姥](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A7%A5%E5%A7%A5) [发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%91%E8%82%B2)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_少女患两性畸形有男性生殖器被取笑为“人妖”(图)_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 11811 bytes                           |
-> | MD5             | 5f3d07c385bc252a67c40b31294f5112                                  |
-> | Archived Date   | 2024-11-09 10:36:35                             |
-> | Original Link   | [https://news.ifeng.com/a/20160329/48246967_0.shtml](https://news.ifeng.com/a/20160329/48246967_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

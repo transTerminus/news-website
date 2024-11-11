@@ -142,19 +142,22 @@ Nathee Teerarojanapong这样解释。
 -   [变性](/tag/变性)
 -   [美元](/tag/美元)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | global_全世界每年有多少人去泰国做变性手术？_-_地球日报.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9839 bytes                           |
-> | MD5             | ed2018f1da38b8e49cb9f163fe750fea                                  |
-> | Archived Date   | 2024-11-09 05:42:24                             |
-> | Original Link   | [http://global.sina.cn/szzx/article/20210413/0859f109f4c51000.html](http://global.sina.cn/szzx/article/20210413/0859f109f4c51000.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

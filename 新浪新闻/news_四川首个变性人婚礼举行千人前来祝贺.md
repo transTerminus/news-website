@@ -32,19 +32,22 @@
 **和变性人结婚的人可能也是变性人吧！**  
 **时间**: 2004-05-02
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_四川首个变性人婚礼举行千人前来祝贺.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3249 bytes                           |
-> | MD5             | c38cc9b82117da328bae69f4a7396fc2                                  |
-> | Archived Date   | 2024-11-02 04:37:05                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html](https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

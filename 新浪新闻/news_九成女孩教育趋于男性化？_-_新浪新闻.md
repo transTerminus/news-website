@@ -73,19 +73,22 @@
 
 花季少女李明旋用生命的代价敲响了警钟——学校不但传授知识，更要注意学生人格的培养；学校不仅要关心学生的学习成绩，更要关心他们的身心健康。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_九成女孩教育趋于男性化？_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6318 bytes                           |
-> | MD5             | 1d05a27eb5d5ab390fb1a01668d5bc00                                  |
-> | Archived Date   | 2024-11-09 07:48:34                             |
-> | Original Link   | [https://news.sina.com.cn/c/2005-11-01/14407327607s.shtml](https://news.sina.com.cn/c/2005-11-01/14407327607s.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

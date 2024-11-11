@@ -61,19 +61,22 @@
 新浪网友  
 ****回复TA**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_32岁男子欲做变性手术曾因不愿亲热气走女友.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4257 bytes                           |
-> | MD5             | d28fd1549b624465aaaa20cecd17fa2b                                  |
-> | Archived Date   | 2024-11-02 04:59:48                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-04-25/detail-ikknscsi6493449.d.html](https://news.sina.cn/sa/2005-04-25/detail-ikknscsi6493449.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

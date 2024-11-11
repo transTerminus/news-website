@@ -29,19 +29,22 @@
 
 这正是：审美多元尊重为先，涵养气质莫缺包容。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | culture_人民日报：我们不认同所谓“娘炮”等带有贬损性的说法_-_读书.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5180 bytes                           |
-> | MD5             | f8757b478f095739e3fde28e42acbc90                                  |
-> | Archived Date   | 2024-11-09 10:09:49                             |
-> | Original Link   | [https://culture.ifeng.com/c/7g08mWn4K36](https://culture.ifeng.com/c/7g08mWn4K36)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

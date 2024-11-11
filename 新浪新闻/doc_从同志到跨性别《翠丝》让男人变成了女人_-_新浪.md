@@ -176,19 +176,22 @@
 
 **关键词:** [翠丝](http://tags.ent.sina.com.cn/翠丝) [丹麦女孩](http://tags.ent.sina.com.cn/丹麦女孩) [姜皓文](http://tags.ent.sina.com.cn/姜皓文)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | doc_从同志到跨性别《翠丝》让男人变成了女人_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10002 bytes                           |
-> | MD5             | 15d542c4c0b2d56b6c79508ac07d5d08                                  |
-> | Archived Date   | 2024-11-09 05:33:26                             |
-> | Original Link   | [http://doc.sina.cn/?id=comos:hmutuec0791987](http://doc.sina.cn/?id=comos:hmutuec0791987)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -70,21 +70,24 @@
 
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[https://renzheng.thepaper.cn](https://renzheng.thepaper.cn)。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讲述了弗兰克·拜尔德（Frank Baird）发起的“穿上高跟鞋，走一英里路”的活动，这是一种通过男性穿高跟鞋来引起对家庭暴力的关注并激发同理心的方法。文章探讨了异装癖的新的社会认知，以及性别认同的多样性，强调了共情在社会互动中的重要性。通过虚拟现实等现代技术，人们可以更深入地理解他人的经历和感受。文中提到了卡洛琳·巴克斯鲍姆（Carolyn Bucksbaum）和医生马克·西格勒（Mark Siegler）关于医患关系和共情的重要性，展示了一系列关于如何提升共情能力的具体策略与思考。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_什么？学着做一个异装癖!？_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7889 bytes                           |
-> | MD5             | 1b4fc64d476e5f57bcb0cf59e8e35637                                  |
-> | Archived Date   | 2024-11-03 09:24:33                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2685952](https://m.thepaper.cn/newsDetail_forward_2685952)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 异装癖, 共情, 家庭暴力, 虚拟现实, 社会认知, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

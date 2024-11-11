@@ -96,19 +96,22 @@
 **新浪网友0**: 变性人，终究会后悔的，以后的人生之路必将以悲惨作结局！奉劝所有有此想法者，万思而后行，关键在于调整自己的心态！希望媒体少报道此类新闻，不要误导贻害他人！  
 **时间**: 2006-11-10
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_独生子私自变性父母打砸美容院索赔360万美元.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7803 bytes                           |
-> | MD5             | c8ddd6add6aa542e0bbc74fa0ee2e914                                  |
-> | Archived Date   | 2024-11-02 05:40:20                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-11-10/detail-ikftpnny3765768.d.html](https://news.sina.cn/sa/2006-11-10/detail-ikftpnny3765768.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

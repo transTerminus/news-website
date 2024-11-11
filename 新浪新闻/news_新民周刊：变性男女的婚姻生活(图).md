@@ -111,19 +111,22 @@
 
 ![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_新民周刊：变性男女的婚姻生活(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 15092 bytes                           |
-> | MD5             | d1591915d3d304895c9289cbc823e060                                  |
-> | Archived Date   | 2024-11-02 04:31:19                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-03-05/detail-ikknscsi2823988.d.html](https://news.sina.cn/sa/2004-03-05/detail-ikknscsi2823988.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

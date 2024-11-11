@@ -13,19 +13,22 @@
 
 直到步入社会后，母亲前往探视，打开衣柜乍见满满女装，“小薇”的性取向问题才在家族中引爆开来，从此与家人渐行渐远。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_为筹钱变性原台军士兵男扮女装下海陪酒.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1021 bytes                           |
-> | MD5             | 4cfdd8edf89c22dc80316f08a23dacf9                                  |
-> | Archived Date   | 2024-11-02 08:23:56                             |
-> | Original Link   | [https://news.ifeng.com/mil/taiwan/200809/0922_1569_797758.shtml](https://news.ifeng.com/mil/taiwan/200809/0922_1569_797758.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

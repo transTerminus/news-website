@@ -113,19 +113,22 @@
 热点资讯 精彩视频抢先看 5.0分好评  
 免费 / 绿色应用 / 优质
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人“莉莉”被取消环球小姐参赛资格(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8318 bytes                           |
-> | MD5             | 067967ca6f06574bb5e82ea1be48c16d                                  |
-> | Archived Date   | 2024-11-02 04:29:26                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638393.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638393.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

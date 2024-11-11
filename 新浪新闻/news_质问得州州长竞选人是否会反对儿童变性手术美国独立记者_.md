@@ -58,19 +58,22 @@
 
 责任编辑：朱学森 SN240
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_质问得州州长竞选人是否会反对儿童变性手术美国独立记者_.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5112 bytes                           |
-> | MD5             | b71fcd92adda1821740d8948b8b3a303                                  |
-> | Archived Date   | 2024-11-02 03:47:36                             |
-> | Original Link   | [https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html](https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

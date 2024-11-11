@@ -66,19 +66,22 @@
 
 文章关键词： [加拿大](http://tags.finance.sina.com.cn/加拿大) [推特](http://tags.finance.sina.com.cn/推特) [约翰斯通](http://tags.finance.sina.com.cn/约翰斯通) [美国](http://tags.finance.sina.com.cn/美国)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | cj_让跨性别者登妇女节广告，好时被抵制_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5438 bytes                           |
-> | MD5             | 00d603fb9965803d533973f6e9bb2abb                                  |
-> | Archived Date   | 2024-11-09 06:12:08                             |
-> | Original Link   | [https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2023-03-04%2Fdoc-imyisrka1340562.shtml&from=redirect](https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2023-03-04%2Fdoc-imyisrka1340562.shtml&from=redirect)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

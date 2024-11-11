@@ -20,19 +20,22 @@
 
 ![](http://x0.ifengimg.com/feprod/c/2023_6_5/18_8_26/ad-logo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_拜登提名美国政府首位变性人政客.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 992 bytes                           |
-> | MD5             | a7af633d6e2bc5ed2d7ca5a1aff8e66f                                  |
-> | Archived Date   | 2024-11-02 08:08:11                             |
-> | Original Link   | [https://news.ifeng.com/c/83BGhT6Ygsl](https://news.ifeng.com/c/83BGhT6Ygsl)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

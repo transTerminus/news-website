@@ -123,19 +123,22 @@
 
 ![评论区](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国第一例变性人作客新浪谈20年情感经历(实录).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9943 bytes                           |
-> | MD5             | 719c29f70f4b7f732b339c11db534d00                                  |
-> | Archived Date   | 2024-11-02 04:13:05                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-04-24/detail-ikkntiak7300608.d.html](https://news.sina.cn/sa/2003-04-24/detail-ikkntiak7300608.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

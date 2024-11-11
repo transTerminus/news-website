@@ -36,19 +36,22 @@
 
 标签：[性发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%8F%91%E8%82%B2) [发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%91%E8%82%B2) [男孩](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E5%AD%A9)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国为性别认同障碍儿童提供药物辅助变性手术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2983 bytes                           |
-> | MD5             | fa0d9df10e886c6978b421b2da938169                                  |
-> | Archived Date   | 2024-11-02 06:54:08                             |
-> | Original Link   | [https://news.ifeng.com/a/20140521/40395744_0.shtml](https://news.ifeng.com/a/20140521/40395744_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

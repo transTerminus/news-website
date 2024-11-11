@@ -53,19 +53,22 @@
 
 版权 © 新京报网 2021
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_出圈丨专访医生潘柏林：跨性别群体是个隐秘的角落大多纠结痛苦.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1623 bytes                           |
-> | MD5             | c3443af23502360406b94f752a040eca                                  |
-> | Archived Date   | 2024-11-09 06:20:20                             |
-> | Original Link   | [https://finance.sina.cn/tech/2021-07-27/detail-ikqciyzk7982304.d.html](https://finance.sina.cn/tech/2021-07-27/detail-ikqciyzk7982304.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

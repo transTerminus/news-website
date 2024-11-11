@@ -104,19 +104,22 @@
 
 标签：[赛区](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%B5%9B%E5%8C%BA) [总决赛](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%BB%E5%86%B3%E8%B5%9B) [佳丽](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%BD%B3%E4%B8%BD)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“道德模范”刘婷变性后参加选美.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10506 bytes                           |
-> | MD5             | 50c8f5a2b6cc45e6dfa27668c541d32e                                  |
-> | Archived Date   | 2024-11-02 07:35:53                             |
-> | Original Link   | [https://news.ifeng.com/a/20150923/44713102_0.shtml](https://news.ifeng.com/a/20150923/44713102_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

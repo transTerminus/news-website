@@ -64,19 +64,22 @@
 
 　　去年，巴里斯就成功说服了美国国立卫生研究院改变挑选年轻科学家的方法。经过这里挑选的科学家可以获得每年50万美元的奖金。在2004年，该研究院选择的64名科学家中有60个都是男性。明年他还打算说服更多的奖学金项目，在选拔的时候更多考虑女性。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_斯坦福变性教授挑战性别歧视_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8095 bytes                           |
-> | MD5             | 84d6cba66afaa6b42fec1f2169273e70                                  |
-> | Archived Date   | 2024-11-09 07:51:02                             |
-> | Original Link   | [https://news.sina.com.cn/w/2006-07-20/00449511764s.shtml](https://news.sina.com.cn/w/2006-07-20/00449511764s.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

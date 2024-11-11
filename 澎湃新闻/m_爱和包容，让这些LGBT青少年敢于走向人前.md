@@ -48,19 +48,22 @@ Riley Roberts有两个母亲，但是在他18岁的时候，他所生活的内�
 
 ![二维码](http://image.thepaper.cn/www/image/5/244/752.jpg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_爱和包容，让这些LGBT青少年敢于走向人前.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4603 bytes                           |
-> | MD5             | a685ac3f5a4178c26394d65881e639f1                                  |
-> | Archived Date   | 2024-11-03 09:05:23                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1552978](https://m.thepaper.cn/newsDetail_forward_1552978)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

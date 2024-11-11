@@ -26,21 +26,24 @@
 
 从1956年离家出走并申请离婚，直到1959年春天，卡罗琳才终于等到法院判决。4月23日伦敦的《每日邮报》刊登了两人离婚的消息：“二十七岁的吉尼斯女继承人卡罗琳·弗洛伊德与三十五岁的卢西安·弗洛伊德于今日在美国洛杉矶离婚。她在法庭上公开证实她丈夫说过对二人婚姻无论发生什么都无所谓之后，法庭以精神虐待为由准许了她的离婚诉求。”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章深入探讨了艺术家卢西安·弗洛伊德与其妻子卡罗琳·布莱克伍德的婚姻生活与分手原因。文章首先描述了他们在伦敦苏荷区的生活，周围充满了艺术家的社交活动和创作氛围。他们的婚姻在开始时充满了激情与友谊，但随着时间推移，卢西安的赌瘾、酗酒以及与周围朋友的关系影响了他们的婚姻。在一顿精心准备的晚餐上，卢西安由于没有食欲而无视卡罗琳的努力，这一举动成为她离开的导火索。卡罗琳最终选择离婚，并在文章中描述了她离开卢西安后与不同男性的关系，以及卢西安在失去她后的变化，包括酗酒和性别观点的改变。整篇文章不仅涉及爱情的复杂性，也反映了个人生活如何与社会艺术环境交织在一起。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_二十世纪最伟大的艺术家，分手只因一顿饭_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5458 bytes                           |
-> | MD5             | 5714046881d75425c5eca427765538a7                                  |
-> | Archived Date   | 2024-11-10 22:03:23                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1379282](https://m.thepaper.cn/newsDetail_forward_1379282)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 婚姻与分手, 艺术家, 社会环境, 人生故事, 英国, 卢西安·弗洛伊德, 卡罗琳·布莱克伍德                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

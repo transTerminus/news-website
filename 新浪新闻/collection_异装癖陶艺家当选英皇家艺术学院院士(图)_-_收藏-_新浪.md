@@ -66,19 +66,22 @@
 
 **版权:** Copyright © 1996-2011 SINA Corporation, All Rights Reserved 新浪公司版权所有
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | collection_异装癖陶艺家当选英皇家艺术学院院士(图)_-_收藏-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8495 bytes                           |
-> | MD5             | 1f6945115eb94a2d3ccb8d95b6d3c503                                  |
-> | Archived Date   | 2024-11-09 05:30:36                             |
-> | Original Link   | [http://collection.sina.com.cn/cqty/20110409/100422671.shtml](http://collection.sina.com.cn/cqty/20110409/100422671.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

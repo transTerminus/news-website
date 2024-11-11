@@ -32,19 +32,22 @@
 
 版权信息：凤凰新媒体版权所有 Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_香港变性人可结婚，是尊重少数人权利.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4238 bytes                           |
-> | MD5             | 782fceef646428c2ca1321bea864b1f6                                  |
-> | Archived Date   | 2024-11-02 07:12:20                             |
-> | Original Link   | [https://news.ifeng.com/a/20141028/42313974_0.shtml](https://news.ifeng.com/a/20141028/42313974_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

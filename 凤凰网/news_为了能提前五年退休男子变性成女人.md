@@ -52,19 +52,22 @@
 
 责任编辑：李文婷 PX019
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_为了能提前五年退休男子变性成女人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4049 bytes                           |
-> | MD5             | 6cd180fdc13ce8c7d765840dab1f38a8                                  |
-> | Archived Date   | 2024-11-02 07:51:48                             |
-> | Original Link   | [https://news.ifeng.com/a/20180327/57087620_0.shtml](https://news.ifeng.com/a/20180327/57087620_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

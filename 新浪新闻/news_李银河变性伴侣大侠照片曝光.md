@@ -142,19 +142,22 @@
 **本人非常尊重文章里面提到的人性的自由，即使是同性恋，又不影响或破坏他人的生活，关乎围观者什么事？请宽容对待这一事实！**  
 **2014-12-21**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_李银河变性伴侣大侠照片曝光.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13099 bytes                           |
-> | MD5             | 92d7fd53749eb0a387a67a3c315c45b5                                  |
-> | Archived Date   | 2024-11-02 06:33:13                             |
-> | Original Link   | [https://news.sina.cn/sh/2014-12-21/detail-iavxeafr8757899.d.html?wm=3049_0015](https://news.sina.cn/sh/2014-12-21/detail-iavxeafr8757899.d.html?wm=3049_0015)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

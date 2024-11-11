@@ -169,19 +169,22 @@ CT下双侧隐睾的图像
 
 **阅读原文**: [链接](http://mp.weixin.qq.com/s?__biz=MzU0ODE1NDE0NQ==&mid=2247537113&idx=1&sn=bcef338cfc0d390cd31e91b9add68f89&chksm=fb416f97cc36e68157fc054515191d462fd009b9eca6e3ae9c3c24056e515b7e584feaa2ddc4&scene=4#wechat_redirect)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_天生拥有双份生殖系统，他们背负的争议与痛苦远不止双倍_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13746 bytes                           |
-> | MD5             | 088dc1c26f63712c5886c9b33687e68f                                  |
-> | Archived Date   | 2024-11-10 22:20:41                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8224680](https://m.thepaper.cn/newsDetail_forward_8224680)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

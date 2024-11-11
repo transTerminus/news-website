@@ -10,19 +10,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_美国跨性别前奥运冠军凯特琳·詹娜将竞选加州州长.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1100 bytes                           |
-> | MD5             | c575b20ba025f3c94545d5ca72e1df7a                                  |
-> | Archived Date   | 2024-11-03 08:30:24                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=12368441&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=12368441&from=kuaibao)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

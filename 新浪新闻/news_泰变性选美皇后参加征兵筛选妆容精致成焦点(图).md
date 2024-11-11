@@ -54,19 +54,22 @@
 
 ---
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰变性选美皇后参加征兵筛选妆容精致成焦点(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3578 bytes                           |
-> | MD5             | 3e10dd5ef2f6dca497e5fd01e80e134d                                  |
-> | Archived Date   | 2024-11-02 03:59:32                             |
-> | Original Link   | [https://news.sina.cn/gj/2019-04-02/detail-ihtxyzsm2620398.d.html?vt=4](https://news.sina.cn/gj/2019-04-02/detail-ihtxyzsm2620398.d.html?vt=4)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

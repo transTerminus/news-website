@@ -26,19 +26,22 @@
 
 **标签**: 变性人, 治疗, 男童
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_德16岁男童做变性手术成全球最年轻变性人[组图].md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1808 bytes                           |
-> | MD5             | d985c06d107eda5b2b1c947e43f40fd6                                  |
-> | Archived Date   | 2024-11-02 08:26:54                             |
-> | Original Link   | [https://news.ifeng.com/photo/society/200902/0205_1400_996932.shtml](https://news.ifeng.com/photo/society/200902/0205_1400_996932.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

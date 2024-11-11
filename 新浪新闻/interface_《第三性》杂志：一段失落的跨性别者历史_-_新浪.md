@@ -59,19 +59,22 @@
 **来源：** 巴黎评论  
 **原标题：** A Lost Piece of Trans History  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | interface_《第三性》杂志：一段失落的跨性别者历史_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 16535 bytes                           |
-> | MD5             | b75ced98b67d0533d4038c633038af64                                  |
-> | Archived Date   | 2024-11-09 06:32:43                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2019-01-21%2Fdoc-ihrfqziz9582232.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2019-01-21%2Fdoc-ihrfqziz9582232.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

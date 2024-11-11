@@ -55,19 +55,22 @@
 
 [欢迎发表评论](http://comment4.news.sina.com.cn/comment/comment4.html?channel=sh&newsid=1-1-22579890&style=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性手术解禁男变女花费5万女变男翻番.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5222 bytes                           |
-> | MD5             | 7ac60505b9e519bad49d1c3d3e763feb                                  |
-> | Archived Date   | 2024-11-02 03:30:29                             |
-> | Original Link   | [http://news.sina.com.cn/s/2011-06-03/050122579890.shtml](http://news.sina.com.cn/s/2011-06-03/050122579890.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

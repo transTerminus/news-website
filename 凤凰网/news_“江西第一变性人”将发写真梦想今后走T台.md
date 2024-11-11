@@ -35,19 +35,22 @@
 
 (本文章版权归凤凰网所有，未经授权，不得转载)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“江西第一变性人”将发写真梦想今后走T台.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2280 bytes                           |
-> | MD5             | 03f4b700245e004fe16d7680b0643720                                  |
-> | Archived Date   | 2024-11-02 07:54:42                             |
-> | Original Link   | [https://news.ifeng.com/c/7fYvyOxZOhw](https://news.ifeng.com/c/7fYvyOxZOhw)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

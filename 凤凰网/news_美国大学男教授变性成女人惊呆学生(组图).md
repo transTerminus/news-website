@@ -44,19 +44,22 @@
 - 学生
 - 拉丁
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国大学男教授变性成女人惊呆学生(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4528 bytes                           |
-> | MD5             | 39615a81f57836e7eb32ccfb45588917                                  |
-> | Archived Date   | 2024-11-02 08:34:27                             |
-> | Original Link   | [https://news.ifeng.com/world/2/200809/0909_2591_773131.shtml](https://news.ifeng.com/world/2/200809/0909_2591_773131.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

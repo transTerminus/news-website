@@ -23,19 +23,22 @@
 
 文明上网，不传谣言，登录评论！
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_巴西变性人参加项目课程不逃课可获奖学金.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1392 bytes                           |
-> | MD5             | f0839924cac60c2fe7a9d0d50bd291dc                                  |
-> | Archived Date   | 2024-11-02 07:29:24                             |
-> | Original Link   | [https://news.ifeng.com/a/20150408/43507029_0.shtml](https://news.ifeng.com/a/20150408/43507029_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

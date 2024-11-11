@@ -139,19 +139,22 @@
 
 离婚后，章琳自己在镇上开了一家小理发店，杨启成来店里做学徒，两人由此开始了他们不同寻常的“爱情”。在杨启成的支持下，章琳做了变性手术，实现了做女人的梦想。2004年5月1日，章琳和杨启成结婚。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_南方人物周刊：中国首对变性人夫妻的爱情生活.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 14238 bytes                           |
-> | MD5             | ddc78c32946ec556e9467fa626f0d8a0                                  |
-> | Archived Date   | 2024-11-02 05:10:30                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-10-18/detail-ikkntiam4871362.d.html](https://news.sina.cn/sa/2005-10-18/detail-ikkntiam4871362.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

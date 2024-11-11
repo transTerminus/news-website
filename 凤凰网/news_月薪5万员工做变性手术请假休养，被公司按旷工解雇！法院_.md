@@ -115,19 +115,22 @@
 
 **本院亦提示小高要珍惜社会给予的尊重和保护，在维护自身权利的同时不要滥用权利，以更加坦诚、平和的心态面对公司，力争在新的岗位上取得更优异的成绩**。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院_.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8750 bytes                           |
-> | MD5             | 33fcf17ad05bacee7d77f755ae076c2e                                  |
-> | Archived Date   | 2024-11-02 08:18:47                             |
-> | Original Link   | [https://news.ifeng.com/c/8V71wISWoQW](https://news.ifeng.com/c/8V71wISWoQW)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

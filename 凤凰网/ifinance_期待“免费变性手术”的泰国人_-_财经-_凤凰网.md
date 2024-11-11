@@ -28,19 +28,22 @@
 **标签**: 泰国, 跨性别, 手术, 医疗, 性别重置  
 **作者**: 不详  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | ifinance_期待“免费变性手术”的泰国人_-_财经-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2274 bytes                           |
-> | MD5             | 59a4d66832c6db572631b392a55fd015                                  |
-> | Archived Date   | 2024-11-09 09:50:10                             |
-> | Original Link   | [http://ifinance.ifeng.com/13734504/news.shtml](http://ifinance.ifeng.com/13734504/news.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

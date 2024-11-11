@@ -218,19 +218,22 @@ H.C现在把刘海梳起来，露出光洁的额头，并且开始化妆，原�
 
 **责任编辑人：陈思宇 PN121**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | inews_药娘群像：与身体斗争的这些年.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 26689 bytes                           |
-> | MD5             | db6977fc3e8b3029d3697b71dfcfd3cc                                  |
-> | Archived Date   | 2024-11-02 06:51:12                             |
-> | Original Link   | [http://inews.ifeng.com/51900796/news.shtml](http://inews.ifeng.com/51900796/news.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

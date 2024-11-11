@@ -37,19 +37,22 @@
 **评分:** 5.0分  
 **版权:** 免费 / 绿色应用 / 优质
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_泰国人妖接待游客的时候，为啥要偷服“避孕药”？答案很现实_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3138 bytes                           |
-> | MD5             | 0946feb8160c5d4603ecf06454ab7fb9                                  |
-> | Archived Date   | 2024-11-09 07:07:25                             |
-> | Original Link   | [https://k.sina.cn/article_6743639342_p191f3c52e00100quve.html?from=travel](https://k.sina.cn/article_6743639342_p191f3c52e00100quve.html?from=travel)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

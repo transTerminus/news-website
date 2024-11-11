@@ -96,21 +96,24 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《性别是条毛毛虫》是凯特·伯恩斯坦撰写的一本重要作品，该书通过幽默及坦诚的笔触详细叙述了她个人从异性恋男性转变为同性恋女性的心路历程。文章的核心围绕跨性别者的身份认同与变性体验展开，揭示了文化对性别的固有假设和偏见。凯特的故事不仅是她个人的经历，也是对跨性别社群现状的深刻反思，她讲述了自身对于变性手术的挣扎，以及对社会和文化性别规范的质疑。她强调，跨性别者的经验通常被忽视，而这种剥夺感使得许多人感到孤独与无助。在信中，她呼吁跨性别者们应开始相互沟通，了解彼此的经历与认同，从而形成独立的跨性别社群。文章还探讨了跨性别者在社会中的不同身份与地位，以及如何面对外界的误解和刻板印象。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_《性别是条毛毛虫》作者：我们还处于跨性别社群的草创期.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12808 bytes                           |
-> | MD5             | 4a0c39b85ac1b3e19aaa1abd84fa42a4                                  |
-> | Archived Date   | 2024-11-03 10:04:40                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=1287154&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=1287154&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 凯特·伯恩斯坦                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2022-12-18                                 |
+> | Tags            | 跨性别, 性别研究, 生命故事, 社会文化, 医疗资源, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

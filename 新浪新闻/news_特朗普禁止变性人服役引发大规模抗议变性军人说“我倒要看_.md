@@ -38,19 +38,22 @@
 
 请说说你的看法：
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普禁止变性人服役引发大规模抗议变性军人说“我倒要看_.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3787 bytes                           |
-> | MD5             | d3c3aaa6656df5383815ca885eb8e1f7                                  |
-> | Archived Date   | 2024-11-02 03:21:55                             |
-> | Original Link   | [http://news.sina.cn/2017-07-27/detail-ifyinryq6505115.d.html](http://news.sina.cn/2017-07-27/detail-ifyinryq6505115.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

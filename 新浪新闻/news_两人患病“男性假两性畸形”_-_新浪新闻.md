@@ -39,19 +39,22 @@
 
 “我嘴笨，千万句感谢的话我不知咋说。”小芸的母亲一个朴实的农家妇女说着说着已是泪干行……
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_两人患病“男性假两性畸形”_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2329 bytes                           |
-> | MD5             | 43cd7d749b88e5b5fdcedfbe67eff797                                  |
-> | Archived Date   | 2024-11-09 05:46:38                             |
-> | Original Link   | [http://news.sina.com.cn/s/2003-07-17/13151362227.html](http://news.sina.com.cn/s/2003-07-17/13151362227.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

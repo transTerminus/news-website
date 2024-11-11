@@ -71,19 +71,22 @@
 
 几年以前，樊培孝的腿摔坏了，在骨科医院住了一个月，回来以后，发现60多岁的儿子正在学开车。儿子告诉他，学会了，就可以开车带她出去玩。儿子去世，对樊培孝来说是不小的打击。瘫在沙发上，她老泪纵横。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_西南“变性手术之父”离世曾成功手术32例(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8305 bytes                           |
-> | MD5             | 975ef610146f1a85b9f9a64e75dd60e4                                  |
-> | Archived Date   | 2024-11-02 06:01:38                             |
-> | Original Link   | [https://news.sina.cn/sa/2008-07-24/detail-ikknscsk3964384.d.html](https://news.sina.cn/sa/2008-07-24/detail-ikknscsk3964384.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -42,19 +42,22 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_唯罗纳整就变性人生_手机新浪网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2285 bytes                           |
-> | MD5             | ab27cb8c78299c55284bd128977b26db                                  |
-> | Archived Date   | 2024-11-02 06:29:27                             |
-> | Original Link   | [https://news.sina.cn/sa/2012-09-14/detail-ikmyaawa4224599.d.html](https://news.sina.cn/sa/2012-09-14/detail-ikmyaawa4224599.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

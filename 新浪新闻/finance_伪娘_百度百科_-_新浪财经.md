@@ -253,19 +253,22 @@ CD是英文 Cross-dress 的缩写，意思是变装。TS是英文 TransSexual �
 **发布时间**: 2010.05.18  
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_伪娘_百度百科_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 16069 bytes                           |
-> | MD5             | f0ed2183cc1808a6d452f8bae032467c                                  |
-> | Archived Date   | 2024-11-09 06:19:37                             |
-> | Original Link   | [https://finance.sina.cn/sa/2010-05-18/detail-ikkntiam5361169.d.html](https://finance.sina.cn/sa/2010-05-18/detail-ikkntiam5361169.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

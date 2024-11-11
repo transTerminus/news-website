@@ -183,19 +183,22 @@ LGBT+群体早已全部去精神病理化。扭转治疗 LGBT+也被证明是无
 凤凰账号/新浪微博  
 [查看全部评论>>](//gentie.ifeng.com/c/comment/86JniSEpZQg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_在人间_一位跨性别者的17岁：逃离，流浪，自残_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 17518 bytes                           |
-> | MD5             | af3529d132888661f8a97451b56b5c29                                  |
-> | Archived Date   | 2024-11-09 10:37:45                             |
-> | Original Link   | [https://news.ifeng.com/c/86JniSEpZQg](https://news.ifeng.com/c/86JniSEpZQg)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

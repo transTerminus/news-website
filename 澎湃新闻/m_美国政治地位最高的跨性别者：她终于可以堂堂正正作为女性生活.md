@@ -124,19 +124,22 @@
 **特别声明**  
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问 https://renzheng.thepaper.cn。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_美国政治地位最高的跨性别者：她终于可以堂堂正正作为女性生活.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12302 bytes                           |
-> | MD5             | c58d6f92ae4ac5a7d8f35b75255ef031                                  |
-> | Archived Date   | 2024-11-10 22:24:11                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9905660](https://m.thepaper.cn/newsDetail_forward_9905660)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -17,19 +17,22 @@
 **评论**: [评论信息未提供]  
 **参考资料**: [参考资料未提供]  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_实习医生私自帮人做变性手术致对方丧失生育能力，被提起公诉.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1375 bytes                           |
-> | MD5             | f757e3fef4e22d579d118e866726f98a                                  |
-> | Archived Date   | 2024-11-10 22:07:14                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1704076](https://m.thepaper.cn/newsDetail_forward_1704076)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

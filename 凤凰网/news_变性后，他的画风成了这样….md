@@ -19,19 +19,22 @@
 
 [![金智媛高智感珠宝大片 简洁优雅的灵动之美](//d.ifengimg.com/w180_h122_q90/x0.ifengimg.com/ucms/2024_44/3CE8941A93B1FDFCBB8BB87344BB730B4EE8F953_size114_w1080_h788.jpg)](https://fashion.ifeng.com/c/8e7kN0aVnpl "金智媛高智感珠宝大片 简洁优雅的灵动之美")
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性后，他的画风成了这样….md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1692 bytes                           |
-> | MD5             | 3345e6a4b17baf555d26b07fc037ddaf                                  |
-> | Archived Date   | 2024-11-02 07:56:52                             |
-> | Original Link   | [https://news.ifeng.com/c/7fa6Bg75zP6](https://news.ifeng.com/c/7fa6Bg75zP6)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

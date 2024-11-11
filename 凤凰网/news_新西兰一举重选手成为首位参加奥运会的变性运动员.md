@@ -20,19 +20,22 @@
 
 [查看全部评论>>](//gentie.ifeng.com/c/comment/87FtgLr4Yq1)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_新西兰一举重选手成为首位参加奥运会的变性运动员.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1217 bytes                           |
-> | MD5             | d49ad853110fb89e1a5a5fe5c80d4efb                                  |
-> | Archived Date   | 2024-11-02 08:11:41                             |
-> | Original Link   | [https://news.ifeng.com/c/87FtgLr4Yq1](https://news.ifeng.com/c/87FtgLr4Yq1)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -70,19 +70,22 @@
 
 责任编辑人：马明月 PP002
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | igongyi_中国性少数群体生存状况调查报告丨报告解读_-_公益-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4981 bytes                           |
-> | MD5             | f65cdd5ef8316134a8f674d475e726d7                                  |
-> | Archived Date   | 2024-11-09 09:56:25                             |
-> | Original Link   | [http://igongyi.ifeng.com/44831483/news.shtml](http://igongyi.ifeng.com/44831483/news.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

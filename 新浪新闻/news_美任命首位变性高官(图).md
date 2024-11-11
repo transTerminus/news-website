@@ -58,19 +58,22 @@
 
 免责声明： 本文来自华商报。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美任命首位变性高官(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4885 bytes                           |
-> | MD5             | 8e2be9b4bc5ab0580263d12dc54e235a                                  |
-> | Archived Date   | 2024-11-02 06:13:42                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-01-06/detail-ikmxzfmi9598818.d.html](https://news.sina.cn/sa/2010-01-06/detail-ikmxzfmi9598818.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

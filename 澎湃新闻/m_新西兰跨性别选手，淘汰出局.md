@@ -182,19 +182,22 @@ END
 
 [阅读原文](http://mp.weixin.qq.com/s/a-h5myM1ZhiMisUC0whwFg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_新西兰跨性别选手，淘汰出局.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12474 bytes                           |
-> | MD5             | e04b6053594e9c0fab90d602b257c7ed                                  |
-> | Archived Date   | 2024-11-03 08:55:35                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13887853](https://m.thepaper.cn/newsDetail_forward_13887853)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

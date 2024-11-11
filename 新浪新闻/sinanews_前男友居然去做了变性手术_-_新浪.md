@@ -62,19 +62,22 @@
 
 **标签：** #变性手术 #跨性别 #社会话题
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | sinanews_前男友居然去做了变性手术_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3699 bytes                           |
-> | MD5             | 4c6724a5835210af7e885a6390f64d79                                  |
-> | Archived Date   | 2024-11-09 07:52:54                             |
-> | Original Link   | [https://sinanews.sina.cn/native_page/quanzi_814604800018784257.html](https://sinanews.sina.cn/native_page/quanzi_814604800018784257.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

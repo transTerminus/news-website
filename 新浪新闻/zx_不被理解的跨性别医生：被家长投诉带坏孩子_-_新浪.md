@@ -167,19 +167,22 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | zx_不被理解的跨性别医生：被家长投诉带坏孩子_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 20431 bytes                           |
-> | MD5             | 3a4f37bcd5651f7928458fc75aafd111                                  |
-> | Archived Date   | 2024-11-09 08:34:10                             |
-> | Original Link   | [https://zx.sina.cn/sh/2021-07-27/zx-ikqcfnca9287773.d.html](https://zx.sina.cn/sh/2021-07-27/zx-ikqcfnca9287773.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -51,19 +51,22 @@
 **2013-10-01**  
 新浪网友
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_跨性人入境台湾证件性别栏注明“X性”(图)_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3251 bytes                           |
-> | MD5             | a5940b9a07663fb897cfecfbcdd54dcb                                  |
-> | Archived Date   | 2024-11-09 07:43:02                             |
-> | Original Link   | [https://news.sina.cn/sa/2013-10-01/detail-ikmyaawa5363806.d.html](https://news.sina.cn/sa/2013-10-01/detail-ikmyaawa5363806.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

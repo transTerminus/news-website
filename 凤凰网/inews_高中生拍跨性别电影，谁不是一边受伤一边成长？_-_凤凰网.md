@@ -166,19 +166,22 @@
 
 文章为每日人物原创，尊重原创，侵权必究。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | inews_高中生拍跨性别电影，谁不是一边受伤一边成长？_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13636 bytes                           |
-> | MD5             | 687d83950c08c8d64e9816d6a427b0c5                                  |
-> | Archived Date   | 2024-11-09 10:03:40                             |
-> | Original Link   | [http://inews.ifeng.com/51543546/news.shtml](http://inews.ifeng.com/51543546/news.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -40,19 +40,22 @@
 
 太长
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英首名变性女兵上前线.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1656 bytes                           |
-> | MD5             | bc68885fdf9ebabaeaf556d3973a616f                                  |
-> | Archived Date   | 2024-11-02 03:57:07                             |
-> | Original Link   | [https://news.sina.cn/gj/2016-09-19/detail-ifxvykwk5110304.d.html?from=wap](https://news.sina.cn/gj/2016-09-19/detail-ifxvykwk5110304.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

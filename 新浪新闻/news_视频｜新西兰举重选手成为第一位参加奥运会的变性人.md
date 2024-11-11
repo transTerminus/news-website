@@ -47,19 +47,22 @@
 
 免费 / 绿色应用 / 优质
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_视频｜新西兰举重选手成为第一位参加奥运会的变性人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2165 bytes                           |
-> | MD5             | 04fd39616ec4d18bd27c402a7a8d893f                                  |
-> | Archived Date   | 2024-11-02 03:43:05                             |
-> | Original Link   | [https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032](https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -56,19 +56,22 @@
 
 **标签:** 整形手术, 性别认同, 社会性别
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_欲整形发现原是男人身“女孩”不愿做变性手术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4365 bytes                           |
-> | MD5             | 33113780a99e915ff2eb0c3a49d70ccf                                  |
-> | Archived Date   | 2024-11-02 04:24:24                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html](https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

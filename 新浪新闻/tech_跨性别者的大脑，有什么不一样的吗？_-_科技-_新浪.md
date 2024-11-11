@@ -98,19 +98,22 @@ Savic说，她希望对跨性别的研究结果将有助于使性别认同成为
 **2020-08-08**  
 山西太原
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | tech_跨性别者的大脑，有什么不一样的吗？_-_科技-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 15370 bytes                           |
-> | MD5             | 3cf1206d9f7d7fd191abe554ab8a0f41                                  |
-> | Archived Date   | 2024-11-09 07:57:23                             |
-> | Original Link   | [https://tech.sina.cn/d/bk/2020-08-08/detail-iivhvpwx9803635.d.html](https://tech.sina.cn/d/bk/2020-08-08/detail-iivhvpwx9803635.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

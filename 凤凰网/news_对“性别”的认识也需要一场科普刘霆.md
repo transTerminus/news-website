@@ -39,19 +39,22 @@
 
 **标签**: [刘霆](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%98%E9%9C%86) [性征](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%BE%81) [模范](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%A8%A1%E8%8C%83)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_对“性别”的认识也需要一场科普刘霆.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4985 bytes                           |
-> | MD5             | b99f4363d8c2f5087d2789cc38bd9b01                                  |
-> | Archived Date   | 2024-11-02 07:31:41                             |
-> | Original Link   | [https://news.ifeng.com/a/20150410/43520143_0.shtml](https://news.ifeng.com/a/20150410/43520143_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -27,19 +27,22 @@
 
 转发至微博
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_首例变性人离婚案开庭变性人妻不堪压力分手.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1565 bytes                           |
-> | MD5             | 1361001eeae30a51615bd7d9a883af41                                  |
-> | Archived Date   | 2024-11-02 05:36:17                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-13/detail-ikknscsk0770603.d.html?from=wap](https://news.sina.cn/sa/2006-08-13/detail-ikknscsk0770603.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

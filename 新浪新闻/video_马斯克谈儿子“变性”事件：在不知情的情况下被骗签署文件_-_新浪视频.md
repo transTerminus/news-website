@@ -33,19 +33,22 @@
 
 **备注：** 本文讨论了马斯克关于其儿子的跨性别事件所发表的看法，以及他对美国社会现状的批评。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | video_马斯克谈儿子“变性”事件：在不知情的情况下被骗签署文件_-_新浪视频.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1084 bytes                           |
-> | MD5             | 86d3d1971c766e1b55eed8c90c4f834f                                  |
-> | Archived Date   | 2024-11-09 07:59:24                             |
-> | Original Link   | [https://video.sina.cn/finance/2024-07-23/detail-incfcpey8086817.d.html?vt=4&pos=108&his=0](https://video.sina.cn/finance/2024-07-23/detail-incfcpey8086817.d.html?vt=4&pos=108&his=0)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

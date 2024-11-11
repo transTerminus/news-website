@@ -115,19 +115,22 @@ Gilles-Harrison氏阴茎再造术
 
 **阅读原文**: [点击这里](http://mp.weixin.qq.com/s/JivbCK_jOsUKgXZ2IQMVQg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别运动员引发的公平性争议背后，跨性别没你想的那么简单.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8203 bytes                           |
-> | MD5             | e920c2c27d2055dbafa97f85547008e8                                  |
-> | Archived Date   | 2024-11-03 08:59:35                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14217420](https://m.thepaper.cn/newsDetail_forward_14217420)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

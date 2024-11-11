@@ -295,19 +295,22 @@
 
 **特别声明：**以上文章内容仅代表作者本人观点，不代表 新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发布后的30日内与 新浪网联系。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_一部看完让你隐隐作痛的电影，关于性别认知障碍者的深刻认识。_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 14573 bytes                           |
-> | MD5             | d8af9e7f89fdbeb2ae2c83986639aedb                                  |
-> | Archived Date   | 2024-11-09 06:47:06                             |
-> | Original Link   | [https://k.sina.cn/article_3162448131_bc7f210302700gqsf.html](https://k.sina.cn/article_3162448131_bc7f210302700gqsf.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

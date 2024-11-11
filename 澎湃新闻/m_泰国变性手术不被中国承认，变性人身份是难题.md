@@ -44,19 +44,22 @@
 
 本月17日，新西兰统计局在一份声明中表示，“多样性别”（Gender diverse）将成为新的性别分类标准中除“男性”、“女性”之外的第三类分类。根据新西兰统计局在其网站上公布的信息，性别认定标准将有两个层级，第一层级共有3类，为男性、女性与多样性别。在多样性别类下包括：不进行进一步定义的多样性别、男性跨越成为女性者、女性跨越成为男性者、未分类多样性别，共4类。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_泰国变性手术不被中国承认，变性人身份是难题.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9774 bytes                           |
-> | MD5             | 9f6f40e22b486c1f30e450974f089298                                  |
-> | Archived Date   | 2024-11-03 08:51:23                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1357343](https://m.thepaper.cn/newsDetail_forward_1357343)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

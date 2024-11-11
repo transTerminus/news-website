@@ -65,19 +65,22 @@
   **一根屌就这样变成逼了**  
   **2015-12-09 广东河源**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | tech_变性手术是如何进行的？动画揭示整个手术过程_-_科技-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6251 bytes                           |
-> | MD5             | 6008355a5c8e8ba3367fa5dd7c5491f3                                  |
-> | Archived Date   | 2024-11-09 07:56:30                             |
-> | Original Link   | [https://tech.sina.cn/d/bk/2015-12-09/detail-ifxmnurf8459384.d.html](https://tech.sina.cn/d/bk/2015-12-09/detail-ifxmnurf8459384.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

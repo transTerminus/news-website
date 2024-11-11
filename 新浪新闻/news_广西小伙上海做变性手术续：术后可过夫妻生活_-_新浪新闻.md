@@ -23,19 +23,22 @@
 【[相关链接](http://news.sina.com.cn/s/2006-06-13/150010144335.shtml)】  
 **版权**: 本文版权归[新浪网](http://www.sina.com.cn)所有，转载请注明来源。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_广西小伙上海做变性手术续：术后可过夫妻生活_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2168 bytes                           |
-> | MD5             | 0e26247146fb25dabb32a081ab28ad1b                                  |
-> | Archived Date   | 2024-11-09 07:50:10                             |
-> | Original Link   | [https://news.sina.com.cn/s/2006-06-14/104810152533.shtml](https://news.sina.com.cn/s/2006-06-14/104810152533.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

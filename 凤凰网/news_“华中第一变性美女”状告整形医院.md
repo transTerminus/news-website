@@ -28,19 +28,22 @@
 
 (本文章版权归凤凰网所有，未经授权，不得转载)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“华中第一变性美女”状告整形医院.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2668 bytes                           |
-> | MD5             | f605efbbbad8f6d28ab43e6207eead29                                  |
-> | Archived Date   | 2024-11-02 07:55:50                             |
-> | Original Link   | [https://news.ifeng.com/c/7fZWKnSpbo9](https://news.ifeng.com/c/7fZWKnSpbo9)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

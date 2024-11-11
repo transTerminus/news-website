@@ -44,19 +44,22 @@
 
 本文系观察者网独家稿件，未经授权，不得转载。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_苏格兰要让变性“更容易”，英国政府坐不住了.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3240 bytes                           |
-> | MD5             | c1929f10094acd08b5672f976b58471b                                  |
-> | Archived Date   | 2024-11-02 03:48:10                             |
-> | Original Link   | [https://news.sina.cn/2023-01-15/detail-imyaftrk2097270.d.html](https://news.sina.cn/2023-01-15/detail-imyaftrk2097270.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

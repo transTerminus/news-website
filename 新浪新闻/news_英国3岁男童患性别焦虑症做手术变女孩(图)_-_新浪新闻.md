@@ -27,19 +27,22 @@
 Copyright ©1996-2015 SINA Corporation, All Rights Reserved
 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国3岁男童患性别焦虑症做手术变女孩(图)_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2538 bytes                           |
-> | MD5             | f6924d28366cecc2acae3b6145f8ebfc                                  |
-> | Archived Date   | 2024-11-09 05:46:12                             |
-> | Original Link   | [http://news.sina.com.cn/o/2015-12-08/doc-ifxmhqac0191108.shtml](http://news.sina.com.cn/o/2015-12-08/doc-ifxmhqac0191108.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

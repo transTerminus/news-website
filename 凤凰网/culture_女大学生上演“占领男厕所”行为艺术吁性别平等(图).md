@@ -29,19 +29,22 @@
 
 \[责任编辑：吕美静\]
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | culture_女大学生上演“占领男厕所”行为艺术吁性别平等(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2162 bytes                           |
-> | MD5             | f3e98cd1af00af656ea1a978f14e80c4                                  |
-> | Archived Date   | 2024-11-09 09:45:40                             |
-> | Original Link   | [http://culture.ifeng.com/8/detail_2012_02/20/12631403_1.shtml](http://culture.ifeng.com/8/detail_2012_02/20/12631403_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

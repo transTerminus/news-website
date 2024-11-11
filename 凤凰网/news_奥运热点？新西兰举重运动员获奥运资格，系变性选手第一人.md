@@ -19,19 +19,22 @@
 
 [发表评论](https://gentie.ifeng.com/c/comment/861myRSp2JI)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_奥运热点？新西兰举重运动员获奥运资格，系变性选手第一人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1163 bytes                           |
-> | MD5             | 8375fc30860b4c2b5effc8a6cb1cebf5                                  |
-> | Archived Date   | 2024-11-02 08:10:18                             |
-> | Original Link   | [https://news.ifeng.com/c/861myRSp2JI](https://news.ifeng.com/c/861myRSp2JI)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -204,19 +204,22 @@ Macaleo一个人去了上海的医院，诊断结果在她的预料之中：她�
 
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_潘柏林：跨性别治疗很冷门，但TA们需要医学支持.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 20351 bytes                           |
-> | MD5             | 4bc4aa3b71164fda57ac6d618f912dd7                                  |
-> | Archived Date   | 2024-11-03 09:48:57                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8786958](https://m.thepaper.cn/newsDetail_forward_8786958)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

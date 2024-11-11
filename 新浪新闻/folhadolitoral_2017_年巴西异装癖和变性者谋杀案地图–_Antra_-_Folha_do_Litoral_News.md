@@ -36,19 +36,22 @@ Antra的数据显示，2017年全国共发生179起谋杀案
 - [YouTube](https://www.youtube.com/@FolhadoLitoralNews)
 - [LinkedIn](https://www.linkedin.com/company/folha-do-litoral-news/)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | folhadolitoral_2017_年巴西异装癖和变性者谋杀案地图–_Antra_-_Folha_do_Litoral_News.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1911 bytes                           |
-> | MD5             | 2c26b282bfe54525941e255d57956a8e                                  |
-> | Archived Date   | 2024-11-09 06:30:39                             |
-> | Original Link   | [https://folhadolitoral.com.br/zh-CN/coluna-do-guru/mapa-dos-assassinatos-de-travestis-e-transexuais-brasileiras-em-2017-antra](https://folhadolitoral.com.br/zh-CN/coluna-do-guru/mapa-dos-assassinatos-de-travestis-e-transexuais-brasileiras-em-2017-antra)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

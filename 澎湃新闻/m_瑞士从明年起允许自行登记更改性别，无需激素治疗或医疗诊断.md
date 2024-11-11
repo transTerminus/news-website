@@ -16,19 +16,22 @@
 **图片编辑：** 陈飞燕  
 **校对：** 刘威  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_瑞士从明年起允许自行登记更改性别，无需激素治疗或医疗诊断.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1387 bytes                           |
-> | MD5             | 1e438f14910df58e0bdd0c33338b0749                                  |
-> | Archived Date   | 2024-11-03 09:06:26                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16023379](https://m.thepaper.cn/newsDetail_forward_16023379)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

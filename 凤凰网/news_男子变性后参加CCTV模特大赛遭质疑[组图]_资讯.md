@@ -42,19 +42,22 @@
 
 **标签**: 退赛, 变性美女, 林青
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性后参加CCTV模特大赛遭质疑[组图]_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3124 bytes                           |
-> | MD5             | 19c64294f2f6334b3d6711eecbf99bee                                  |
-> | Archived Date   | 2024-11-02 08:26:20                             |
-> | Original Link   | [https://news.ifeng.com/photo/society/200809/0911_1400_780210.shtml](https://news.ifeng.com/photo/society/200809/0911_1400_780210.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

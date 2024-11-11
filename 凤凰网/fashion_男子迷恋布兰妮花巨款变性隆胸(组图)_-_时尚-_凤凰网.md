@@ -50,19 +50,22 @@
 
 **版权信息:** 凤凰新媒体 版权所有 © 2013 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | fashion_男子迷恋布兰妮花巨款变性隆胸(组图)_-_时尚-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3706 bytes                           |
-> | MD5             | 9d8ffe29223cc436de2b72c9283e392a                                  |
-> | Archived Date   | 2024-11-09 10:13:52                             |
-> | Original Link   | [https://fashion.ifeng.com/health/longevity/photo/detail_2012_08/01/16460369_0.shtml](https://fashion.ifeng.com/health/longevity/photo/detail_2012_08/01/16460369_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

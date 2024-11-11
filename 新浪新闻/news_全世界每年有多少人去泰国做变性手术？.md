@@ -146,19 +146,22 @@ Thep Vechavisit医生
 
 Nathee Teerarojanapong这样解释。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_全世界每年有多少人去泰国做变性手术？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10931 bytes                           |
-> | MD5             | dc6c187a60121e0be51c9c9c00a16f8b                                  |
-> | Archived Date   | 2024-11-02 03:28:26                             |
-> | Original Link   | [http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html](http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

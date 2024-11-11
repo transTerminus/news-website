@@ -86,19 +86,22 @@
 **刊登这些新闻比贩黄还毒 记者为了一时之功利,会致一个无辜于死地.别人日后如何生活? 为别人想想吧!!! 笔下留情!**  
 2006-06-07  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_深圳首例变性手术续：三月后可过性生活(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6493 bytes                           |
-> | MD5             | 155a3d159696b81f5b743756750f5ae3                                  |
-> | Archived Date   | 2024-11-02 05:28:18                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html](https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

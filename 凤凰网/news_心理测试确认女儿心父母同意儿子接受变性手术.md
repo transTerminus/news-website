@@ -48,19 +48,22 @@
 - 高兴
 - 路过
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_心理测试确认女儿心父母同意儿子接受变性手术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4240 bytes                           |
-> | MD5             | 590c819723ca222655db3a876fe2bd07                                  |
-> | Archived Date   | 2024-11-02 08:29:21                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200811/1104_344_862346.shtml](https://news.ifeng.com/society/2/200811/1104_344_862346.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

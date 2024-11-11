@@ -101,19 +101,22 @@
 
 ![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13056 bytes                           |
-> | MD5             | 26131d304a36f6a0b0a29cc40fe173e0                                  |
-> | Archived Date   | 2024-11-09 07:32:43                             |
-> | Original Link   | [https://news.sina.cn/gn/2020-02-22/detail-iimxyqvz4868465.d.html](https://news.sina.cn/gn/2020-02-22/detail-iimxyqvz4868465.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

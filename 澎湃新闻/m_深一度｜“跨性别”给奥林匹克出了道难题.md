@@ -102,19 +102,22 @@
 
 **校对：施鋆**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_深一度｜“跨性别”给奥林匹克出了道难题.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10296 bytes                           |
-> | MD5             | 51f14bcc84b71965e2a9e81367e4a991                                  |
-> | Archived Date   | 2024-11-03 09:26:32                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28290431](https://m.thepaper.cn/newsDetail_forward_28290431)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

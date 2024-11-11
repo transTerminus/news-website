@@ -46,19 +46,22 @@
 
 版权信息：Copyright © 1996-2008 SINA Corporation, All Rights Reserved
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人陈莉莉参加环球小姐选美_新闻中心_新浪网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2973 bytes                           |
-> | MD5             | e315a09a1c2288a06d2a81268ce86e69                                  |
-> | Archived Date   | 2024-11-09 05:48:19                             |
-> | Original Link   | [http://news.sina.com.cn/z/schelilixuanmei/](http://news.sina.com.cn/z/schelilixuanmei/)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

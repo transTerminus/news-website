@@ -83,21 +83,24 @@ C罗伊布涂抹口红，向家庭暴力亮出红牌
 
 加载失败，请点击重试
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是来自澎湃新闻的个人主页，记录了名为波平顿爵士的用户在平台上的一些动态。主页包含了用户的基本信息，如IP属地为天津、关注、粉丝和获赞数量均为0。接下来是用户的评论记录，其中包括对社会事件的观点和回复。评论中提到了关于社交媒体上的互动，如对快递服务的讨论以及对变性人群体的评论。用户提及变性后改身份证受阻的话题，并参与讨论男性在与女性交往时是否要查身份证的问题。这些评论反映了跨性别者在社会中的生存现状，以及他们在面对法律和社会接受度时所遇到的挑战。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_个人主页.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2352 bytes                           |
-> | MD5             | ff266c6fd215694035f10de9389a2961                                  |
-> | Archived Date   | 2024-11-03 10:02:46                             |
-> | Original Link   | [https://m.thepaper.cn/user_6008878671](https://m.thepaper.cn/user_6008878671)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 未知                               |
+> | Region          | 天津, 中国                               |
+> | Date            | 未知                                 |
+> | Tags            | 个人主页, 跨性别, 社交媒体, 法律政策, 生存现状, 评论记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

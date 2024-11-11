@@ -177,19 +177,22 @@
 **特别声明**  
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问 [澎湃号申请链接](https://renzheng.thepaper.cn)。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别者网络主播之路，我感受到的屈辱与温暖.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 15318 bytes                           |
-> | MD5             | cf5af20eaf47e31bf2a6d2fe4b33804a                                  |
-> | Archived Date   | 2024-11-03 09:20:58                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2279418?from=sohu](https://m.thepaper.cn/newsDetail_forward_2279418?from=sohu)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

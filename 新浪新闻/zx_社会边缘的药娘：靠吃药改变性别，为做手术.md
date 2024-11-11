@@ -141,19 +141,22 @@
 
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | zx_社会边缘的药娘：靠吃药改变性别，为做手术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 16464 bytes                           |
-> | MD5             | d1a4e3cf5faf7e8523483cd5d95d1898                                  |
-> | Archived Date   | 2024-11-09 08:33:23                             |
-> | Original Link   | [https://zx.sina.cn/2021-10-10/zx-iktzscyx8845153.d.html](https://zx.sina.cn/2021-10-10/zx-iktzscyx8845153.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

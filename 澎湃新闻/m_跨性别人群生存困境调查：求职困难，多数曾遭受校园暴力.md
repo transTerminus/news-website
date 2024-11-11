@@ -101,19 +101,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13147 bytes                           |
-> | MD5             | 7d1fc48a09d0cb98267eaf09c5a0199d                                  |
-> | Archived Date   | 2024-11-03 08:38:20                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

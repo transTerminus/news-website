@@ -80,19 +80,22 @@
 **新浪网友2**: 呵呵，比我还变态  
 **评论时间**: 2004-12-02
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_南京周末：准变性人高婷婷的尴尬独角戏(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13212 bytes                           |
-> | MD5             | d444da9349814909a54f13c577e5c424                                  |
-> | Archived Date   | 2024-11-02 04:51:00                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-11-24/detail-ikkntiam1753039.d.html](https://news.sina.cn/sa/2004-11-24/detail-ikkntiam1753039.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

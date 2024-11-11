@@ -58,19 +58,22 @@
 
 注意：以上内容为实际提取的正文及相关信息，没有额外的网页结构或广告信息。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_几经波折美国最终正式禁止绝大多数变性人参军.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3129 bytes                           |
-> | MD5             | b8c411fa4c786fb7e24e0b7ee3b1e0b4                                  |
-> | Archived Date   | 2024-11-02 04:06:28                             |
-> | Original Link   | [https://news.sina.cn/global/szzx/doc-ifyspymq2941430.d.html](https://news.sina.cn/global/szzx/doc-ifyspymq2941430.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

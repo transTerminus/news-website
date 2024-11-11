@@ -20,19 +20,22 @@
 
 共有评论0条。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_日本变性人选美皇后凯旋后推出首部写真集.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1414 bytes                           |
-> | MD5             | 5e74d2cc9915b6473af4a72feba89668                                  |
-> | Archived Date   | 2024-11-02 08:35:16                             |
-> | Original Link   | [https://news.ifeng.com/world/200911/1104_16_1420654_1.shtml](https://news.ifeng.com/world/200911/1104_16_1420654_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

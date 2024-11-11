@@ -58,19 +58,22 @@
 
 责任编辑：朱凡
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_澎湃思想周报｜罗琳与跨性别群体之争；以色列吞并西岸计划.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 16754 bytes                           |
-> | MD5             | e3bf61b002373136a7d21ada339d89e7                                  |
-> | Archived Date   | 2024-11-03 09:46:27                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8343874](https://m.thepaper.cn/newsDetail_forward_8343874)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

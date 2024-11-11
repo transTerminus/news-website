@@ -50,19 +50,22 @@
 **新浪网友0**：祝福她的新生。相信生命会因此改变。  
 **时间**：2006-08-22  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人买高跟鞋逛街被市民夸漂亮.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3687 bytes                           |
-> | MD5             | d53a53d4f71559f54fabb96c9f782d06                                  |
-> | Archived Date   | 2024-11-02 05:37:31                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html](https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -130,19 +130,22 @@
 **版权声明**
 本组报道为原创报道，转载请注明出处。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_女子变成双性人续：拥有两套生殖系统全国罕见_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9169 bytes                           |
-> | MD5             | 16206ce597351300953d022300e8ea28                                  |
-> | Archived Date   | 2024-11-09 07:34:57                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-01-11/detail-ikknscsi5479858.d.html](https://news.sina.cn/sa/2005-01-11/detail-ikknscsi5479858.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

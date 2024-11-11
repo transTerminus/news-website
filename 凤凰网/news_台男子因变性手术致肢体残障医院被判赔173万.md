@@ -17,19 +17,22 @@
 
 对于判决结果，医院指出，依病患出院后4年间在北荣及其它医院的病历数据显示，病患的四肢动作、感觉神经及运动功能皆为良好，期间病患甚至表示，可以站立从事餐饮工作，没有任何左脚异状、不良于行，或腓神经受伤的纪录。直到2004年1月，病患在受到膝部拉伤及扭伤的伤害后，2005年9月才到医院开立诊断证明，脚伤与2000年的手术应该没有相当因果关系，院方会提起上诉。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_台男子因变性手术致肢体残障医院被判赔173万.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2346 bytes                           |
-> | MD5             | 70277da22a4dbff37c562141ece18237                                  |
-> | Archived Date   | 2024-11-02 08:34:04                             |
-> | Original Link   | [https://news.ifeng.com/taiwan/2/200909/0903_352_1333997.shtml](https://news.ifeng.com/taiwan/2/200909/0903_352_1333997.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

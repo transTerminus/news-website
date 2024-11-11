@@ -122,19 +122,22 @@ LGBT变装皇后大赛比赛现场，Maira（左一）正在介绍选手，文�
 
 “我很佩服金星的勇气，做手术拗断了7根肋骨。”米可把金星当作励志偶像，尽管变性手术很痛苦而且价格高昂，但还是米可的奋斗目标，“我最大的愿望就是做一个平凡的女人，有一个爱我的人，和一个小孩。”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_变装皇后：挤进大码高跟鞋，他们让心里的女孩站上舞台.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12134 bytes                           |
-> | MD5             | fec44079b52bfcbb61c52888545cc0cb                                  |
-> | Archived Date   | 2024-11-03 09:03:01                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1478999](https://m.thepaper.cn/newsDetail_forward_1478999)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

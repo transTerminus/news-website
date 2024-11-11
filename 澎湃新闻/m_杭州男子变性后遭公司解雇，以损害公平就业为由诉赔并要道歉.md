@@ -27,19 +27,22 @@
 
 ![](http://image.thepaper.cn/www/image/40/139/756.jpg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_杭州男子变性后遭公司解雇，以损害公平就业为由诉赔并要道歉.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2717 bytes                           |
-> | MD5             | eba10eb71b22abe39c412a82e9a4c539                                  |
-> | Archived Date   | 2024-11-03 10:13:41                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=5138773&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=5138773&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

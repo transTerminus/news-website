@@ -125,19 +125,22 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 【评论】
 [33](//gentie.ifeng.com/c/comment/8dzH34mQYkC) 条评论/[153](//gentie.ifeng.com/c/comment/8dzH34mQYkC) 人参与网友评论｜[跟帖管理](//gentie.ifengimg.com/commentManage)｜[举报](//gentie.ifeng.com/superviseReport)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_为什么大家突然不爱看电影了？_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 25008 bytes                           |
-> | MD5             | eeae34015df994cf045438a472cc8e0f                                  |
-> | Archived Date   | 2024-11-09 10:42:12                             |
-> | Original Link   | [https://news.ifeng.com/c/8dzH34mQYkC](https://news.ifeng.com/c/8dzH34mQYkC)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

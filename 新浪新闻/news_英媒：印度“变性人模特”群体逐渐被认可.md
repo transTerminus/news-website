@@ -43,19 +43,22 @@
 “我们的目标是不仅让他们成为模特，还让他们需要获得经济利益。有杂志愿意来找我们，就算是帮了我们大忙，我们对此应心怀感激。对于其他模特来说，只要外形俊美，就不愁收入，但我们并不是这样。那么，我们该做些什么呢？乞讨之人没资格挑肥拣瘦。”  
 （实习编译：吕艺杰 审稿：谭利娅）
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英媒：印度“变性人模特”群体逐渐被认可.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5883 bytes                           |
-> | MD5             | ac7c3fde78a37821679ad35e81bbf125                                  |
-> | Archived Date   | 2024-11-02 03:36:03                             |
-> | Original Link   | [https://news.sina.cn/2016-09-18/detail-ifxvyrit2761133.d.html](https://news.sina.cn/2016-09-18/detail-ifxvyrit2761133.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

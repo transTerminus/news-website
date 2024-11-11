@@ -52,19 +52,22 @@
 
 稿源：红网 作者：董雷
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_19岁湖南小伙要做江西第一变性人（组图）.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4076 bytes                           |
-> | MD5             | efd3913dd75e3300f5ef3f6876043cc5                                  |
-> | Archived Date   | 2024-11-02 06:04:37                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-04-08/detail-ikknscsk4662097.d.html](https://news.sina.cn/sa/2009-04-08/detail-ikknscsk4662097.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

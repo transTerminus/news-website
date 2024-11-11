@@ -43,21 +43,24 @@
 **原标题**：《Nature：雄激素治疗后的跨性别男性，免疫系统被重塑**  
 特别声明：本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[澎湃号认证](https://renzheng.thepaper.cn)。**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章讨论了雄激素治疗对跨性别男性免疫系统的影响，特别是生命过程中免疫反应的性别差异。研究显示，在进行性别肯定睾酮治疗的跨性别男性中，其免疫反应在治疗后的3个月内开始发生显著变化，逐渐向顺性别男性的免疫特征靠拢。文章还回顾了与疾病感染、炎症及自身免疫疾病相关的性别差异，指出男性和女性在免疫反应上的明显不同，揭示了性激素在调节免疫反应中的重要作用。研究强调了对跨性别群体医疗护理的重要性，尤其是在提供性别肯定激素治疗时，理解这些治疗的免疫学影响将有助于改善跨性别男性的整体健康和福祉。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_Nature：雄激素治疗后的跨性别男性，免疫系统被重塑.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4906 bytes                           |
-> | MD5             | bc1c7fb3f81ddc2734b04874313169df                                  |
-> | Archived Date   | 2024-11-03 09:27:55                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28638946](https://m.thepaper.cn/newsDetail_forward_28638946)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 王聪                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2024-09-04                                 |
+> | Tags            | 跨性别, 雄激素治疗, 免疫系统, 医学研究, 性别差异, 健康护理, 睾酮, 科研                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

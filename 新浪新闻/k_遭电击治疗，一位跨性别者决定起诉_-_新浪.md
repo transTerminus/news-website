@@ -286,19 +286,22 @@ MECT是指在使用静脉麻醉药和肌松剂使患者意识消失后，以一�
 
 **特别声明：** 以上文章内容仅代表作者本人观点，不代表 新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发布后的30日内与 新浪网联系。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_遭电击治疗，一位跨性别者决定起诉_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 25148 bytes                           |
-> | MD5             | 7ddafc9b2d440725902a70220d1fcb68                                  |
-> | Archived Date   | 2024-11-09 06:49:21                             |
-> | Original Link   | [https://k.sina.cn/article_5044281310_12ca99fde020028bzq.html](https://k.sina.cn/article_5044281310_12ca99fde020028bzq.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

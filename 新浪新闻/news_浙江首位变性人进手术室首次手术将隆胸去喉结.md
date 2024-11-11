@@ -41,19 +41,22 @@
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_浙江首位变性人进手术室首次手术将隆胸去喉结.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2446 bytes                           |
-> | MD5             | 32a38a1e0e60c2e3f4573903bfbf6c9d                                  |
-> | Archived Date   | 2024-11-02 04:51:33                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1829701.d.html](https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1829701.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

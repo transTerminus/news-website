@@ -65,19 +65,22 @@
 
 今年6月，卫生部印发了《变性手术技术管理规范（征求意见稿）》，对实施变性手术的医院和医生设定了最低标准，对变性手术患者设定了必须要满足的条件。我建议将这个意见稿扩大到完善社会制度上，卫生部门、司法部门还有民政部门，几个部门联合出一个规范。这个病，医疗之外的问题至少占一半比重，要由社会上的有关部门来关注才真的有意义。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性女寒冰冰：手术刀不能解决所有问题.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6462 bytes                           |
-> | MD5             | 3f9ab915cc39db7d1f3dec36528e8ac2                                  |
-> | Archived Date   | 2024-11-02 08:33:26                             |
-> | Original Link   | [https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml](https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

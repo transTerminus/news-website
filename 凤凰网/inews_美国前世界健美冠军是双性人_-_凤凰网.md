@@ -30,19 +30,22 @@
 ## 版权
 本文版权归原作者所有，转载请注明来源。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | inews_美国前世界健美冠军是双性人_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1722 bytes                           |
-> | MD5             | b02f6959fb0a53e4c2a977d50a2c07d1                                  |
-> | Archived Date   | 2024-11-09 09:56:55                             |
-> | Original Link   | [http://inews.ifeng.com/44319987/news.shtml](http://inews.ifeng.com/44319987/news.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

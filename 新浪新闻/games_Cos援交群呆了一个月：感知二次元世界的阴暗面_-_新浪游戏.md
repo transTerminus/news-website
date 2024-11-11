@@ -97,19 +97,22 @@
 
 就在这篇文章发稿前两天，前文中提到的1200人“cos援交群”已经因涉及相关违规条例，被永久封停。但其他几个人数较少的“cos援交群”，仍然在继续运转中。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | games_Cos援交群呆了一个月：感知二次元世界的阴暗面_-_新浪游戏.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 11812 bytes                           |
-> | MD5             | 5046e6d5d730d94a214ae637b74add73                                  |
-> | Archived Date   | 2024-11-09 05:39:46                             |
-> | Original Link   | [http://games.sina.cn/gn/ol/2017-02-24/detail-ifyavvsh6209217.d.html](http://games.sina.cn/gn/ol/2017-02-24/detail-ifyavvsh6209217.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

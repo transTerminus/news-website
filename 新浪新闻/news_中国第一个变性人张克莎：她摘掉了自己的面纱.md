@@ -113,19 +113,22 @@
 
 邓映如：我的确经常要回答一些关于变性乃至其他问题的询问，却断不敢以专家自诩。至于谁向谁求爱的事，原本是谁也管不着的平常事，我不知哪位先生竟然有此能耐弄得沸沸扬扬，把原本私密的事情搅得满世界都知道。这真的是一种本事，一般人还学不来。我只是有时也想：可不可以不用作家的名义呀？（文/王岩）
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国第一个变性人张克莎：她摘掉了自己的面纱.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 17219 bytes                           |
-> | MD5             | 77620d993a99832b7ddba211a1c57002                                  |
-> | Archived Date   | 2024-11-02 04:16:44                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-07-15/detail-ikkntiak7622534.d.html](https://news.sina.cn/sa/2003-07-15/detail-ikkntiak7622534.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -16,19 +16,22 @@
 **免费 / 绿色应用 / 优质**  
 **安装**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | sinanews_一觉醒来变性了怎么办？这些大学生也太敢想了_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8472 bytes                           |
-> | MD5             | 4a5cd30898cf99af6b00167924811983                                  |
-> | Archived Date   | 2024-11-09 05:49:01                             |
-> | Original Link   | [http://sinanews.sina.cn/wb-audit/video/2017-10-30/detail-ifynfrfn0490007.d.html](http://sinanews.sina.cn/wb-audit/video/2017-10-30/detail-ifynfrfn0490007.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

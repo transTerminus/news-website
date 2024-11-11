@@ -34,19 +34,22 @@
 时间: 2016年6月30日
 标签: 跨性别者、美国军队、变性手术、国防部
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别者可公开在美国军队服役，想做变性手术的国防部给报销.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3509 bytes                           |
-> | MD5             | 08b2f32d187b792f2cae237c0ff6a8ed                                  |
-> | Archived Date   | 2024-11-03 09:04:04                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1492030](https://m.thepaper.cn/newsDetail_forward_1492030)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

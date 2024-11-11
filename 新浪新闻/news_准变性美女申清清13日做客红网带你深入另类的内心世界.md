@@ -22,19 +22,22 @@
 
 11月13日上午10点，红网将邀请申清清、湖南省人民医院预防保健科主任医师、心理咨询专家熊敏辉以及长沙亚韩医疗美容医院院长李凡年做客红网嘉宾访谈室，一起深入一个“准变性人”的内心世界，并与广大网友进行互动，欢迎网友届时提问。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_准变性美女申清清13日做客红网带你深入另类的内心世界.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1477 bytes                           |
-> | MD5             | 99f574ca8b77609e23c6d95bc8fac467                                  |
-> | Archived Date   | 2024-11-02 06:03:52                             |
-> | Original Link   | [https://news.sina.cn/sa/2008-11-12/detail-ikkntian1071258.d.html](https://news.sina.cn/sa/2008-11-12/detail-ikkntian1071258.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

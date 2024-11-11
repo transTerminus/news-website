@@ -49,19 +49,22 @@
 - [众目睽睽之下现“原形” 英易性癖起诉航空公司](http://news.sina.com.cn/s/2001-09-09/351642.html) 2001-09-09 04:25:50  
 - [一易性癖患者10年变性“抗争”：不变性宁愿死](http://news.sina.com.cn/s/233336.html) 2001-04-17 05:40:27  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_混血男子有易性癖想做女人不认同自己是同性恋_手机新浪网_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7443 bytes                           |
-> | MD5             | 0980c7908ddc3bad315884abb33aaeea                                  |
-> | Archived Date   | 2024-11-09 05:46:59                             |
-> | Original Link   | [http://news.sina.com.cn/s/2006-02-22/08348273558s.shtml](http://news.sina.com.cn/s/2006-02-22/08348273558s.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

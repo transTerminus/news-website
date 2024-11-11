@@ -73,21 +73,24 @@
 **来源 | 观察者网**  
 **原标题：《JK罗琳的事儿越来越魔幻了…》**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了著名作家J.K.罗琳因其声援反跨性别言论而引发的争议，详细描述了她在社交媒体遭受人肉搜索以及暴力威胁的经过。文章提到罗琳在推特上揭露其家庭住址被公开，以及收到死亡威胁的情况。她坚决表示不会因这些威胁而停止为女性性别权利发声。针对她的言论，文章指出已经有多位知名英国艺人和演员表示支持跨性别女性，反对罗琳的立场，借此引发对女性和跨性别者权益的广泛辩论，探讨了性别认同、权利和社会舆论等深层次议题。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_JK罗琳的事儿越来越魔幻了….md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8564 bytes                           |
-> | MD5             | 57bce7783d3533461a8ac563ab3b3d27                                  |
-> | Archived Date   | 2024-11-03 08:26:35                             |
-> | Original Link   | [https://m.thepaper.cn/baijiahao_15519363](https://m.thepaper.cn/baijiahao_15519363)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 陶梦                               |
+> | Region          | 英国                               |
+> | Date            | 2021-11-23                                 |
+> | Tags            | 跨性别, 女性权利, JK罗琳, 社交媒体, 人肉搜索, 死亡威胁, 社会舆论, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

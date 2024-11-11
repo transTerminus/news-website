@@ -98,19 +98,22 @@
 **热点资讯 精彩视频抢先看 5.0分好评**  
 **安装**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_少年因生殖器畸形被误当女孩抚养成功变性.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7297 bytes                           |
-> | MD5             | bf6009464ca9cdf9218a3527ebac6512                                  |
-> | Archived Date   | 2024-11-02 06:18:40                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-08-26/detail-ikftssap3351098.d.html](https://news.sina.cn/sa/2010-08-26/detail-ikftssap3351098.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

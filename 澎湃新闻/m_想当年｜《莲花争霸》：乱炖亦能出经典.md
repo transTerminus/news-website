@@ -66,19 +66,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_想当年｜《莲花争霸》：乱炖亦能出经典.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7049 bytes                           |
-> | MD5             | 51479d34388499861aa1d828cc35e2ce                                  |
-> | Archived Date   | 2024-11-10 21:52:41                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=27918367&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=27918367&from=kuaibao)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

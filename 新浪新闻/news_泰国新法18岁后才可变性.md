@@ -29,19 +29,22 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国新法18岁后才可变性.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1395 bytes                           |
-> | MD5             | 0470f0cd0fbb63a54b117001d89103bc                                  |
-> | Archived Date   | 2024-11-02 06:08:48                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-09-14/detail-ikmxzfmi9279825.d.html](https://news.sina.cn/sa/2009-09-14/detail-ikmxzfmi9279825.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

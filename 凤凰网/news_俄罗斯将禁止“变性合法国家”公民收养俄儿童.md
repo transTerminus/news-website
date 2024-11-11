@@ -30,19 +30,22 @@
 最热评论  
 [23](//gentie.ifeng.com/c/comment/8cvsmeb23iC) 条评论/[345](//gentie.ifeng.com/c/comment/8cvsmeb23iC) 人参与网友评论
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_俄罗斯将禁止“变性合法国家”公民收养俄儿童.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2196 bytes                           |
-> | MD5             | f1d0ecd284821e54953ce9a88b752079                                  |
-> | Archived Date   | 2024-11-02 08:21:28                             |
-> | Original Link   | [https://news.ifeng.com/c/8cvsmeb23iC](https://news.ifeng.com/c/8cvsmeb23iC)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

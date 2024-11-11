@@ -33,19 +33,22 @@ Blair Partnership表示：“作为一家文学经纪公司，我们重视所有
 ![](http://stadig.ifeng.com/appsta.js?datatype=newsappsns&mos=Linux&userkey=&ua=&share=unknown&session=2024-11-09%2B09%3A49%3A30%23action%23type%3Dbacklaunch%24ref%3Dhttps%3A%2F%2Ficulture.ifeng.com%2F66572657%2Fnews.shtml%24kind%3Darticle%24od%3D)
 ![](http://p0.ifengimg.com/fe/iphone_ifeng/images/fx2_98804fab.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | iculture_J·K·罗琳经纪公司拒发跨性别权利声明，致使四位作家解约_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3588 bytes                           |
-> | MD5             | be57e5b35137b4ea9f88d71945d48f0a                                  |
-> | Archived Date   | 2024-11-09 09:49:40                             |
-> | Original Link   | [http://iculture.ifeng.com/66572657/news.shtml](http://iculture.ifeng.com/66572657/news.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

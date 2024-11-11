@@ -48,19 +48,22 @@
 
 标签：[美容](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%BE%8E%E5%AE%B9) [变性人](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%98%E6%80%A7%E4%BA%BA) [泰国](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B3%B0%E5%9B%BD)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国有望立法承认第三性别(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7509 bytes                           |
-> | MD5             | ddf3672c39711407ea9a8b045cdd3133                                  |
-> | Archived Date   | 2024-11-02 07:22:33                             |
-> | Original Link   | [https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

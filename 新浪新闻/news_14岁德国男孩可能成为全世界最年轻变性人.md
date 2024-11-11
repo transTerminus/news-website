@@ -19,19 +19,22 @@
 
 ![重要图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_14岁德国男孩可能成为全世界最年轻变性人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1909 bytes                           |
-> | MD5             | 7bcd6588b5fb3514281c7a24fe91b8d0                                  |
-> | Archived Date   | 2024-11-02 05:44:16                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-01-31/detail-ikkntiam8631860.d.html](https://news.sina.cn/sa/2007-01-31/detail-ikkntiam8631860.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

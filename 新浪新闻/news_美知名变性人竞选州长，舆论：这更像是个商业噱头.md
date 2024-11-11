@@ -45,19 +45,22 @@
 
 [_53_](https://cmnt.sina.cn/index?product=comos&index=kmxzfmk9359910&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美知名变性人竞选州长，舆论：这更像是个商业噱头.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3756 bytes                           |
-> | MD5             | 3a4a006aefe66d6660a2b0e40b4f7f01                                  |
-> | Archived Date   | 2024-11-02 04:04:01                             |
-> | Original Link   | [https://news.sina.cn/gj/2021-04-28/detail-ikmxzfmk9359910.d.html](https://news.sina.cn/gj/2021-04-28/detail-ikmxzfmk9359910.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

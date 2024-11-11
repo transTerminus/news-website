@@ -26,19 +26,22 @@
 
 文明上网，不传谣言，登录评论！
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_一夜情后发现情人是“变性人”_俄医生将情人肢解.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1958 bytes                           |
-> | MD5             | 80cf3f26a21f00ed3cdbd181ace69df9                                  |
-> | Archived Date   | 2024-11-02 08:02:29                             |
-> | Original Link   | [https://news.ifeng.com/c/7mNXWq7ALhY](https://news.ifeng.com/c/7mNXWq7ALhY)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

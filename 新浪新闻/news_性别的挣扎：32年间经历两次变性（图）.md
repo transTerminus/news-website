@@ -80,19 +80,22 @@
 
 **标签：** 性别，变性，心理健康，社会认同
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_性别的挣扎：32年间经历两次变性（图）.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7369 bytes                           |
-> | MD5             | d1c1277bf6961887405466350b3458f1                                  |
-> | Archived Date   | 2024-11-02 05:23:19                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-04-26/detail-ikknscsk0116036.d.html](https://news.sina.cn/sa/2006-04-26/detail-ikknscsk0116036.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

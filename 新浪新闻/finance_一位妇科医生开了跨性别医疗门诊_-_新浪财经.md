@@ -69,19 +69,22 @@
 责编：田栋梁  
 编辑：赵 静
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_一位妇科医生开了跨性别医疗门诊_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 11752 bytes                           |
-> | MD5             | fe6713edb0f235ebbc53b4a8377a1c1d                                  |
-> | Archived Date   | 2024-11-09 06:26:04                             |
-> | Original Link   | [https://finance.sina.com.cn/stock/stockzmt/2024-09-08/doc-incnmzsa6529072.shtml](https://finance.sina.com.cn/stock/stockzmt/2024-09-08/doc-incnmzsa6529072.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

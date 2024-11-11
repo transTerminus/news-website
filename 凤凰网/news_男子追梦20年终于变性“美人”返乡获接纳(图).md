@@ -29,19 +29,22 @@
 
 两年前，阿风透过朋友介绍到台北一家医院找到整型医师，经过多次手术，及长达两年多的心理辅导，终于完成“她”的心愿。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子追梦20年终于变性“美人”返乡获接纳(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2682 bytes                           |
-> | MD5             | 171cb22724b52715a3fa9d77e26fd774                                  |
-> | Archived Date   | 2024-11-02 08:29:33                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200811/1120_344_888198.shtml](https://news.ifeng.com/society/2/200811/1120_344_888198.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

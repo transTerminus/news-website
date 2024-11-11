@@ -58,19 +58,22 @@
 
 ========================================
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_最彻底的人造美女--变性人刘晓晶专访(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6698 bytes                           |
-> | MD5             | 66954409e63acef736c3d42a2b207d8e                                  |
-> | Archived Date   | 2024-11-02 04:55:02                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-15/detail-ikknscsi5177459.d.html](https://news.sina.cn/sa/2004-12-15/detail-ikknscsi5177459.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

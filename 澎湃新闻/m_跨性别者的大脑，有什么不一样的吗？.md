@@ -80,19 +80,22 @@ Savic说，她希望对跨性别的研究结果将有助于使性别认同成为
 **版权声明**: 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。  
 **关键词**: 跨性别者, 大脑, 性别认同, 性别焦虑症, 生物学
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别者的大脑，有什么不一样的吗？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 14542 bytes                           |
-> | MD5             | c1fe47fc3e2f7fa3f4285b518a8bdca3                                  |
-> | Archived Date   | 2024-11-03 09:47:54                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8627724](https://m.thepaper.cn/newsDetail_forward_8627724)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

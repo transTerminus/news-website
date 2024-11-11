@@ -28,19 +28,22 @@
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)  
 **标签**：变性, 年轻, 法律, 医疗
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_西班牙16岁少年变美少女成最年轻变性人之一(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1978 bytes                           |
-> | MD5             | cbf9ed5c8bd619758ee3047e5b7b53de                                  |
-> | Archived Date   | 2024-11-02 06:14:16                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html](https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

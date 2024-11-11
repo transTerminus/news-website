@@ -109,21 +109,24 @@ LGBT文学可以追溯到古典时代。在二十世纪，E·M·福斯特、弗�
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了当代小说的衰落现象，特别是女性作家在这种变化中所受到的影响。一位匿名评论家在《评论家》杂志上发表文章，声称当代英文小说正在衰退，并提出三个主要原因：作家缺乏写作技巧，出版市场变得势利，小说的主题不再关注普遍的道德问题，而是转向了“身份政治”。对此，女性专栏作家瑞安·露西·科斯莱特提出了质疑，认为这些观点潜藏着对女性作家的偏见，指出当代写作应该是多元的，而不是单一的标准所限。文中提到，随着对LGBT文学的重新关注，该文学已经成为全球文学中的重要组成部分，尤其在当下强调多样性和包容性的社会中。文末还提到了文学场域内对反种族主义和族裔作家的支持和重视，呼应了当下许多社会运动的热点议题。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_世界文学新动向｜小说在衰落？这次“杀死”它的是女性？_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 23096 bytes                           |
-> | MD5             | 153952ac9779781a949da5f0140312c6                                  |
-> | Archived Date   | 2024-11-10 22:30:26                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=8248806&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=8248806&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-07-13                                 |
+> | Tags            | 文学评论, 女性作家, 小说衰退, LGBT文学, 社会政治, 跨性别议题, 反种族主义                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

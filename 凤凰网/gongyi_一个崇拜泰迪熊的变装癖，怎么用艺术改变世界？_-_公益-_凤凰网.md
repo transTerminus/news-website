@@ -166,19 +166,22 @@
 
 **推荐:** 0条评论 | 0人参与网友评论 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | gongyi_一个崇拜泰迪熊的变装癖，怎么用艺术改变世界？_-_公益-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13205 bytes                           |
-> | MD5             | 4222b3e5d878d12b489ba9309b7bd52d                                  |
-> | Archived Date   | 2024-11-09 10:18:59                             |
-> | Original Link   | [https://gongyi.ifeng.com/c/7hD9UdlruFr](https://gongyi.ifeng.com/c/7hD9UdlruFr)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

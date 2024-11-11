@@ -48,19 +48,22 @@ CD则在许多领域被认为是一种时尚和生活方式，受到不少人的
 
 **特别声明：** 以上文章内容仅代表作者本人观点，不代表 新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发布后的30日内与 新浪网联系。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_男娘，伪娘，CD，TS为什么越来越多_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3301 bytes                           |
-> | MD5             | 6a342acd70b38e99ebd4a28368e63c0f                                  |
-> | Archived Date   | 2024-11-09 06:54:25                             |
-> | Original Link   | [https://k.sina.cn/article_6054885179_168e6373b00101876e.html](https://k.sina.cn/article_6054885179_168e6373b00101876e.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

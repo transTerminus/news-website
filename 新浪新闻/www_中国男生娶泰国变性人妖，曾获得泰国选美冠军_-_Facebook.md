@@ -28,19 +28,22 @@
 - 评论数：130条
 - 标签：#跨性别 #泰国选美 #新闻 #社会话题
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | www_中国男生娶泰国变性人妖，曾获得泰国选美冠军_-_Facebook.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1613 bytes                           |
-> | MD5             | 376c70e2e34d9a422096963ea5b302dc                                  |
-> | Archived Date   | 2024-11-09 08:11:40                             |
-> | Original Link   | [https://www.facebook.com/sinausnews/videos/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%94%9F%E5%A8%B6%E6%B3%B0%E5%9B%BD%E5%8F%98%E6%80%A7%E4%BA%BA%E5%A6%96%E6%9B%BE%E8%8E%B7%E5%BE%97%E6%B3%B0%E5%9B%BD%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B/405717926665953/?locale=zh_CN](https://www.facebook.com/sinausnews/videos/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%94%9F%E5%A8%B6%E6%B3%B0%E5%9B%BD%E5%8F%98%E6%80%A7%E4%BA%BA%E5%A6%96%E6%9B%BE%E8%8E%B7%E5%BE%97%E6%B3%B0%E5%9B%BD%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B/405717926665953/?locale=zh_CN)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -25,19 +25,22 @@
 
 [评论链接](https://cmnt.sina.cn/index?product=comos&index=ircuyvi6232664&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_80后变性人找工作遇暗门槛：屡被提结婚生子.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1100 bytes                           |
-> | MD5             | a2682336a5dd915124dc808d12e9b738                                  |
-> | Archived Date   | 2024-11-02 06:36:57                             |
-> | Original Link   | [https://news.sina.cn/sh/2020-06-02/detail-iircuyvi6232664.d.html](https://news.sina.cn/sh/2020-06-02/detail-iircuyvi6232664.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

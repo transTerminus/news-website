@@ -20,19 +20,22 @@
 
 **评论：** 共有评论0条  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国男子不惜变性逃避5万英镑债务.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1390 bytes                           |
-> | MD5             | ed89fa79a15e367db7ae1686cae6dd69                                  |
-> | Archived Date   | 2024-11-02 08:36:30                             |
-> | Original Link   | [https://news.ifeng.com/world/201003/0321_16_1582050.shtml](https://news.ifeng.com/world/201003/0321_16_1582050.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

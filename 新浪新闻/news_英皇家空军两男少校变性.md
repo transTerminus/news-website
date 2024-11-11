@@ -36,19 +36,22 @@
 
 **操作**: [转发至微博](https://cmnt.sina.cn/index?product=comos&index=kkntiam1830551&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英皇家空军两男少校变性.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2440 bytes                           |
-> | MD5             | 1504119a8a288fb47f684d9a815aa8c6                                  |
-> | Archived Date   | 2024-11-02 04:52:07                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1830551.d.html](https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1830551.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

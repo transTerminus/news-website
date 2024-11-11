@@ -60,19 +60,22 @@
 **编辑**: 郑新洽  
 **版权所有**: 凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_国际变性人选美大赛颁奖现场_资讯频道.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2541 bytes                           |
-> | MD5             | 8c670d043fc6a97506aa5e6d28f53079                                  |
-> | Archived Date   | 2024-11-02 07:48:06                             |
-> | Original Link   | [https://news.ifeng.com/a/20170311/50771098_0.shtml](https://news.ifeng.com/a/20170311/50771098_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

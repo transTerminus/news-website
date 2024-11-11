@@ -40,21 +40,24 @@
 **特别声明**  
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文探讨了跨性别和双性人群体，尤其是南亚及东南亚地区的“海吉拉”群体，以及台湾导演蔡宓洁的电影《海吉拉》。文章涉及了影片中女主角刘宛婷的变性经历，揭示了传统性别观念与自我认同之间的冲突。通过对传统与现代文化的对比，文章提及了性别身份与社会性别之间的复杂关系，以及巴特勒等理论家对身体与性别的探讨，反映出社会对跨性别者的偏见与挑战。结尾部分，影片中的刘廷试图在身体与灵魂的矛盾中找到自我认同，表达了对未来希望与困境的深刻反思。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_《海吉拉》：请拥抱我的灵魂在我的躯壳之上.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12817 bytes                           |
-> | MD5             | ded2b5904169f29961a5c2e0ff28e261                                  |
-> | Archived Date   | 2024-11-03 08:42:13                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10856403](https://m.thepaper.cn/newsDetail_forward_10856403)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 傅子宸                               |
+> | Region          | 台湾                               |
+> | Date            | 未知                                 |
+> | Tags            | 海吉拉, 跨性别, 双性人, 性别认同, 社会文化, 电影评论, 蔡宓洁, 女权主义, 性别理论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

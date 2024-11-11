@@ -53,19 +53,22 @@
 大钱使节武器不有  
 **时间：2006-03-28**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_四川一对男女欲变性愿互相移植生殖器官.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6159 bytes                           |
-> | MD5             | 99002f2d94e2a2144a7ba091f654c8f2                                  |
-> | Archived Date   | 2024-11-02 05:18:15                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-01-10/detail-ikkntiam6330733.d.html](https://news.sina.cn/sa/2006-01-10/detail-ikkntiam6330733.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

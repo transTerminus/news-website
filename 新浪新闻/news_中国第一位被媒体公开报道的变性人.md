@@ -53,19 +53,22 @@
 **时间**: 2007-04-29  
 新浪网友
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国第一位被媒体公开报道的变性人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4654 bytes                           |
-> | MD5             | 5f527ef3514669ce8fc9473897cca799                                  |
-> | Archived Date   | 2024-11-02 05:52:08                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-04-26/detail-ikftssap2870413.d.html](https://news.sina.cn/sa/2007-04-26/detail-ikftssap2870413.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

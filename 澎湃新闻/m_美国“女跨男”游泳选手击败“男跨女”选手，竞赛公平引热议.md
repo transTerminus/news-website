@@ -90,19 +90,22 @@
 **原标题**: 《"男跨女"游泳输给了"女跨男"，美国网民蒙圈了》  
 [阅读原文](http://mp.weixin.qq.com/s/Iyu5hGcXFX7PARMTg-O9Vw)  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_美国“女跨男”游泳选手击败“男跨女”选手，竞赛公平引热议.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5924 bytes                           |
-> | MD5             | edddf8850792cd0801487d7400bf82f4                                  |
-> | Archived Date   | 2024-11-03 09:07:27                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16221545](https://m.thepaper.cn/newsDetail_forward_16221545)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -42,19 +42,22 @@
 88字  
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_参赛者必须是“自然美女”环姐总部突拒变性人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3586 bytes                           |
-> | MD5             | 90ff8f4c4befbfcb22103a7b2fbea5f4                                  |
-> | Archived Date   | 2024-11-02 04:28:52                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638355.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638355.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

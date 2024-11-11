@@ -24,19 +24,22 @@
 
 2013年，美国男童子军协会投票通过了允许公开身份的同性恋少年加入童子军的决议。今年早些时候，美国前国防部长、现任美国男童子军协会主席罗伯特·盖兹（Robert Gates）表示，组织内应该尽快废除对成年男同性恋的诸多限制。目前，美国男童子军会的17人委员会已在上周五投票通过废除禁令的决议。若是通过即将进行的80人委员会投票，这项禁令将在本月底正式被废除。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_美国或允许跨性别者参军，废除同性恋不得任男童子军领袖禁令.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3627 bytes                           |
-> | MD5             | d7938cfd7aecfdbfdb8e0339a111465a                                  |
-> | Archived Date   | 2024-11-03 08:50:55                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1352313](https://m.thepaper.cn/newsDetail_forward_1352313)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -38,19 +38,22 @@ LGBTQ团体严厉批评了梵蒂冈的这份文件，并表示教义办公室在
 
 \[责任编辑：罗光磊 PN417\]
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_教皇在LGBTQ会议上被敦促撤销对“性别肯定护理”的禁令.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3448 bytes                           |
-> | MD5             | 636ffcb29b245152428eadc4daaa8343                                  |
-> | Archived Date   | 2024-11-02 08:21:52                             |
-> | Original Link   | [https://news.ifeng.com/c/8deHXkurQqh](https://news.ifeng.com/c/8deHXkurQqh)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

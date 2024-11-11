@@ -110,19 +110,22 @@
 **2022-06-19**  
 **上海**  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性正变得越来越低龄化和匆忙，一些青少年后悔改变性别了.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12668 bytes                           |
-> | MD5             | 991321203891520a24ffe2ccfd38e44d                                  |
-> | Archived Date   | 2024-11-02 03:46:00                             |
-> | Original Link   | [https://news.sina.cn/2022-06-19/detail-imizirau9379133.d.html](https://news.sina.cn/2022-06-19/detail-imizirau9379133.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

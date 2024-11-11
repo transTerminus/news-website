@@ -59,19 +59,22 @@
 **日期**: 2009-03-04  
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性美女讲述变性前后：最渴望得到理解.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8411 bytes                           |
-> | MD5             | f8b33bb04083d8b5cd75c25ac129b863                                  |
-> | Archived Date   | 2024-11-02 05:44:53                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-03-04/detail-ikftpnny3830533.d.html](https://news.sina.cn/sa/2007-03-04/detail-ikftpnny3830533.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

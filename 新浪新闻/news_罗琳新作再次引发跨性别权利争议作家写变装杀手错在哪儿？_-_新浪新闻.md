@@ -69,19 +69,22 @@ J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因
 
 **责任编辑：朱学森 SN240**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_罗琳新作再次引发跨性别权利争议作家写变装杀手错在哪儿？_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7777 bytes                           |
-> | MD5             | 35e423509bf605360d06c2103c7f8656                                  |
-> | Archived Date   | 2024-11-09 07:29:43                             |
-> | Original Link   | [https://news.sina.cn/gj/2020-09-16/detail-iivhuipp4727046.d.html](https://news.sina.cn/gj/2020-09-16/detail-iivhuipp4727046.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

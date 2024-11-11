@@ -12,19 +12,22 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_重庆27岁“跨性别者”放弃变性：希望更多人接纳“ta”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 658 bytes                           |
-> | MD5             | 59d61db7262534ded770c506f433dfa3                                  |
-> | Archived Date   | 2024-11-02 06:38:12                             |
-> | Original Link   | [https://news.sina.cn/sh/2020-10-14/detail-iiznctkc5489833.d.html](https://news.sina.cn/sh/2020-10-14/detail-iiznctkc5489833.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -23,19 +23,22 @@
 - 糖尿病人血糖高，千万不能吃的12个菜，调整一下吃这10个菜，血糖更好！  
 - 这就是美国下任副总统的发言，这就是中国某些人口中的优雅！
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | video_变性手术是如何进行的？最新动画揭示整个变性手术过程.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8852 bytes                           |
-> | MD5             | 42b4e3b56bcd908a9e9bc87ad9ad6cc4                                  |
-> | Archived Date   | 2024-11-09 05:53:00                             |
-> | Original Link   | [http://video.sina.cn/tech/2015-12-08/detail-ifxmnurf8414178.d.html](http://video.sina.cn/tech/2015-12-08/detail-ifxmnurf8414178.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

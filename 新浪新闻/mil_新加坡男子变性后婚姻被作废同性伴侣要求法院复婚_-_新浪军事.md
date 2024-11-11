@@ -30,19 +30,22 @@
 
 **版权**: 本文版权归原作者所有，未经授权，不得转载。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | mil_新加坡男子变性后婚姻被作废同性伴侣要求法院复婚_-_新浪军事.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1588 bytes                           |
-> | MD5             | 51794c068b0a169026ae81cc1940e2a1                                  |
-> | Archived Date   | 2024-11-09 07:18:26                             |
-> | Original Link   | [https://mil.sina.cn/2018-04-03/detail-ifyteqtq3088747.d.html](https://mil.sina.cn/2018-04-03/detail-ifyteqtq3088747.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

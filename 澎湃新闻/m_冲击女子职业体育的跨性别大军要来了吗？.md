@@ -108,19 +108,22 @@
 [阅读原文](http://mp.weixin.qq.com/s/YSiuojuhEIwOhNaOR2nLVQ)  
 **原文链接**：冲击女子职业体育的变性大军要来了吗？
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_冲击女子职业体育的跨性别大军要来了吗？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10858 bytes                           |
-> | MD5             | 4d8e5acf2426bc629b4ab7b675ab89b1                                  |
-> | Archived Date   | 2024-11-03 09:02:26                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14527332?from=](https://m.thepaper.cn/newsDetail_forward_14527332?from=)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

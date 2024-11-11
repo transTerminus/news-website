@@ -145,19 +145,22 @@ WHO (2019). ICD-11: Classifying disease to map the way we live and die. https://
 
 RNZ (2017, December 7). Laurel Hubbard: I have to block out the criticism. https://www.youtube.com/watch?v=7JYerPYsts
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_跨性别运动员参加奥运：“成为自己”有什么错？_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 25470 bytes                           |
-> | MD5             | 9ca3ec385da83b3e3a03af004dc3f99e                                  |
-> | Archived Date   | 2024-11-09 06:29:06                             |
-> | Original Link   | [https://finance.sina.com.cn/wm/2021-08-04/doc-ikqciyzk9568178.shtml](https://finance.sina.com.cn/wm/2021-08-04/doc-ikqciyzk9568178.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

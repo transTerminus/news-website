@@ -59,19 +59,22 @@
 
 ![新浪新闻 logo](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_大学生寻求社会帮助欲变性做女人(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6622 bytes                           |
-> | MD5             | f8d11951238cebad6716de964bcbb50f                                  |
-> | Archived Date   | 2024-11-02 06:11:55                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-12-18/detail-ikmxzfmi9542799.d.html](https://news.sina.cn/sa/2009-12-18/detail-ikmxzfmi9542799.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

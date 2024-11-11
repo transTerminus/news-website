@@ -14,19 +14,22 @@
 
 校对：丁晓
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_特朗普取消奥巴马“跨性别厕所令”，要留给各州自己决定.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1591 bytes                           |
-> | MD5             | 850d8f53319d353175701cfdc51769aa                                  |
-> | Archived Date   | 2024-11-03 09:07:57                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1625665](https://m.thepaper.cn/newsDetail_forward_1625665)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

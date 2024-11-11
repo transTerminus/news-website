@@ -69,19 +69,22 @@
 
 严重的易性癖患者都有自杀倾向，对他们实施手术，在帮助其完成性别、社会角色转变的同时，还将挽救他们的生命。所以变性手术不只是换性别这样简单，如何在手术后以一种完全不同的社会角色面对周围的人，确定社会关系，是所有易性癖病人不能忽略的问题。对于这些性别认知错位的易性癖患者，人们应该多一些理解、多一点宽容。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_申请变性手术须满足五个条件_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5774 bytes                           |
-> | MD5             | 5d01289377ba5bb17ab2ddaca1e2e4b9                                  |
-> | Archived Date   | 2024-11-09 05:45:34                             |
-> | Original Link   | [http://news.sina.com.cn/c/2009-11-22/024116646509s.shtml](http://news.sina.com.cn/c/2009-11-22/024116646509s.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -28,19 +28,22 @@
 
 版权声明：本内容为大众网-齐鲁晚报发布。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人贩毒逃过新加坡鞭刑.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1526 bytes                           |
-> | MD5             | f86c5939ba8bac21ae7d5a03147b6626                                  |
-> | Archived Date   | 2024-11-02 05:20:12                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-01-22/detail-ikkntiam6408504.d.html](https://news.sina.cn/sa/2006-01-22/detail-ikkntiam6408504.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

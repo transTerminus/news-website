@@ -29,19 +29,22 @@
 **标签**: #跨性别 #变性手术 #何清濂 #易性病 #医学治疗  
 **评论**: [评论链接](http://comment4.news.sina.com.cn/comment/comment4.html?channel=kj&newsid=2-1-725805)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | tech_变性手术之父何清濂：变性患者不等于同性恋_-_科技-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2763 bytes                           |
-> | MD5             | 11b6d097e379d606b3676a4a71719131                                  |
-> | Archived Date   | 2024-11-09 05:50:56                             |
-> | Original Link   | [http://tech.sina.com.cn/d/2005-09-21/1411725805.shtml](http://tech.sina.com.cn/d/2005-09-21/1411725805.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -112,19 +112,22 @@
 
 ![评论](https://tp3.sinaimg.cn/1392597202/50/0/1)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_成都变性人领到结婚证将于五一节结婚(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 11068 bytes                           |
-> | MD5             | 1a235963cbbabdb3c092ceb05f296060                                  |
-> | Archived Date   | 2024-11-02 04:31:54                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-03-16/detail-ikknscsi2856728.d.html](https://news.sina.cn/sa/2004-03-16/detail-ikknscsi2856728.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

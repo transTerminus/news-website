@@ -28,19 +28,22 @@
 - 1条评论
 - 1人参与
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国足坛网红要参加大选希望成首位变性人总理.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1831 bytes                           |
-> | MD5             | 21e767bc7c75fa4990150f4f0a1e31f2                                  |
-> | Archived Date   | 2024-11-02 08:01:38                             |
-> | Original Link   | [https://news.ifeng.com/c/7kJaT8dbG0u](https://news.ifeng.com/c/7kJaT8dbG0u)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -133,19 +133,22 @@
 **你很勇敢，支持你!人生苦短,努力**  
 **时间**: 2010-11-01
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_大一男生患易性癖疾病欲做变性手术(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8201 bytes                           |
-> | MD5             | 05b819f2bf73d8aa5367e176505e156a                                  |
-> | Archived Date   | 2024-11-02 06:19:54                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-10-29/detail-ikftssap3386716.d.html](https://news.sina.cn/sa/2010-10-29/detail-ikftssap3386716.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

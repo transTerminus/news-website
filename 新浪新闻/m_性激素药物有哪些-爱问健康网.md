@@ -22,19 +22,22 @@
 
 **版权声明**: 本文内容及图片来源于爱问健康网，版权归原作者所有。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_性激素药物有哪些-爱问健康网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1006 bytes                           |
-> | MD5             | 2be67dfa96523af9c749af10ef99a5b8                                  |
-> | Archived Date   | 2024-11-09 07:16:35                             |
-> | Original Link   | [https://m.yyk.iask.sina.com.cn/q/878S9Pwgx4Rt.html](https://m.yyk.iask.sina.com.cn/q/878S9Pwgx4Rt.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

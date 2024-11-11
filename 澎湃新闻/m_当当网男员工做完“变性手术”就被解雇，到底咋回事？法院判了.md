@@ -116,19 +116,22 @@
 
 **原标题：《当当网男员工做完“变性手术”就被解雇，到底咋回事？法院判了》**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_当当网男员工做完“变性手术”就被解雇，到底咋回事？法院判了.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9720 bytes                           |
-> | MD5             | c5ef973ac08f05fd486ebc4b1fece3d9                                  |
-> | Archived Date   | 2024-11-03 09:44:49                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8176623](https://m.thepaper.cn/newsDetail_forward_8176623)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

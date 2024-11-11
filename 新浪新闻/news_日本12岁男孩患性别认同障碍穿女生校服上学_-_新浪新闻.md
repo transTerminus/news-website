@@ -18,19 +18,22 @@ GID学会理事长、日本冈山大学的中塚干也教授介绍，每几千�
 
 (原标题：日本12岁男孩患性别认同障碍 新学期穿女生校服上学(图))
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_日本12岁男孩患性别认同障碍穿女生校服上学_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1887 bytes                           |
-> | MD5             | 0a1e4fb4ac425ec9d5659011ad51fee9                                  |
-> | Archived Date   | 2024-11-02 03:30:41                             |
-> | Original Link   | [http://news.sina.com.cn/w/2014-03-24/143329779858.shtml](http://news.sina.com.cn/w/2014-03-24/143329779858.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

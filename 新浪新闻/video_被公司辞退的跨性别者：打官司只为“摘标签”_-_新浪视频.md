@@ -26,19 +26,22 @@
 
 **注意**：内容已清理，去除了无关的信息，仅保留了与跨性别相关的内容。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | video_被公司辞退的跨性别者：打官司只为“摘标签”_-_新浪视频.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8491 bytes                           |
-> | MD5             | b89abdc24699890a654a95e8de76b32b                                  |
-> | Archived Date   | 2024-11-09 08:00:52                             |
-> | Original Link   | [https://video.sina.cn/news/2019-12-19/detail-iihnzahi8594065.d.html](https://video.sina.cn/news/2019-12-19/detail-iihnzahi8594065.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -28,19 +28,22 @@
 * 您要为您发言论的后果负责，故请各位遵纪守法并注意语言文明。  
 * 以上留言只代表网友个人观点，不代表凤凰网观点。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_宋祖德扬言要变性做女人“手术要让章子怡主刀”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2639 bytes                           |
-> | MD5             | b47a9661f9ba0f677f021a1932e75252                                  |
-> | Archived Date   | 2024-11-02 08:31:11                             |
-> | Original Link   | [https://news.ifeng.com/society/200610/1026_20_24178.shtml](https://news.ifeng.com/society/200610/1026_20_24178.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

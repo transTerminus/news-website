@@ -34,19 +34,22 @@
 
 ## 快来新闻客户端参与评论获金币兑礼品吧！
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_张克莎变性20年后笑对大众她比女人还女人(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3797 bytes                           |
-> | MD5             | 08f2669d8854312419cfff275e631abf                                  |
-> | Archived Date   | 2024-11-02 04:14:55                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-06-09/detail-ikknscsi0579172.d.html](https://news.sina.cn/sa/2003-06-09/detail-ikknscsi0579172.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

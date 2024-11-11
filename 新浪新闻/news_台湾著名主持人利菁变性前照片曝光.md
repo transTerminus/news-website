@@ -15,19 +15,22 @@
 
 据悉，利菁一出生就是双性人，从小因此颇受煎熬，国中就决定做女人的她终于在大学二年级花费十几万去泰国做了变性手术。2004年，利菁被踢爆是变性人，乐观的她大胆承认，她的事业更是如日中天。孰知，旧年照片如今又被翻出。对于这次曝光的照片，很多网友在惊叹对比差别之大时，更多的是祝福和支持：“其实她也挺不容易的”。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_台湾著名主持人利菁变性前照片曝光.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 942 bytes                           |
-> | MD5             | ab7e94b2b1b63ac99be3a8856bc659a2                                  |
-> | Archived Date   | 2024-11-02 06:05:16                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-05-07/detail-ikkntian1600849.d.html](https://news.sina.cn/sa/2009-05-07/detail-ikkntian1600849.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

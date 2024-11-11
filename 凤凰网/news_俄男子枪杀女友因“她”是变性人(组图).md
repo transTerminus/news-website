@@ -24,19 +24,22 @@
 
 目前，有关方面正在对弗拉基米尔进行心理评估，评估结果出来后才能决定是否对弗拉基米尔进行正式起诉。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_俄男子枪杀女友因“她”是变性人(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1784 bytes                           |
-> | MD5             | 24175f14da2b3628082e84ec2cf9021f                                  |
-> | Archived Date   | 2024-11-02 08:34:51                             |
-> | Original Link   | [https://news.ifeng.com/world/200907/0712_16_1245304.shtml](https://news.ifeng.com/world/200907/0712_16_1245304.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

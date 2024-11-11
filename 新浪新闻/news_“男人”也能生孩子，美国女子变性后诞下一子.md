@@ -80,19 +80,22 @@ Bennett Kaspar-Williams表示，尽管生孩子给自己带来了一些挑战，
 
 **贵州黔西南布依族苗族自治州**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“男人”也能生孩子，美国女子变性后诞下一子.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3974 bytes                           |
-> | MD5             | 2dcb919d90ba6000a986eb6638e1bc7d                                  |
-> | Archived Date   | 2024-11-02 06:38:54                             |
-> | Original Link   | [https://news.sina.cn/sh/2021-12-23/detail-ikyamrmz0799083.d.html](https://news.sina.cn/sh/2021-12-23/detail-ikyamrmz0799083.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

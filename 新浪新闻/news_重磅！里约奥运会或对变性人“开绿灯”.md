@@ -65,19 +65,22 @@ IOC医学主任巴吉特认为新的规定势在必行：“这是一个科学�
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_重磅！里约奥运会或对变性人“开绿灯”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6979 bytes                           |
-> | MD5             | 8d2d227cca6e341a9163c04aae9a8680                                  |
-> | Archived Date   | 2024-11-02 03:34:53                             |
-> | Original Link   | [https://news.sina.cn/2016-01-26/detail-ifxnurxn9986831.d.html](https://news.sina.cn/2016-01-26/detail-ifxnurxn9986831.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

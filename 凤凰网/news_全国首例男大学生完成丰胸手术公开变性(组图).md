@@ -33,19 +33,22 @@
 
 **评论**: [点击此处发表评论](http://cmt.ifeng.com/viewcmts.do?chId=344&docId=76196&docName=%e5%85%a8%e5%9b%bd%e9%a6%96%e4%be%8b%e7%94%b7%e5%a4%a7%e5%ad%a6%e7%94%9f%e5%ae%8c%e6%88%90%e4%b8%b0%e8%83%b8%e6%89%8b%e6%9c%af%e5%85%ac%e5%bc%80%e5%8f%98%e6%80%a7\(%e7%bb%84%e5%9b%be\)&docUrl=http%3a%2f%2fnews.ifeng.com%2fsociety%2f2%2f200702%2f0213_344_76196.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_全国首例男大学生完成丰胸手术公开变性(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1707 bytes                           |
-> | MD5             | b2fd7a67e23730bdecd2cb946eb68c9d                                  |
-> | Archived Date   | 2024-11-02 08:27:33                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200702/0213_344_76196_1.shtml](https://news.ifeng.com/society/2/200702/0213_344_76196_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

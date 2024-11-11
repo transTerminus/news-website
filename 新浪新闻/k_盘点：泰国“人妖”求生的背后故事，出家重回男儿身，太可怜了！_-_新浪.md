@@ -34,19 +34,22 @@ _![](https://n.sinaimg.cn/sinacn10209/198/w99h99/20191010/4e50-ifrwayx4023514.jp
 
 **特别声明：**以上文章内容仅代表作者本人观点，不代表 新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发布后的30日内与 新浪网联系。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_盘点：泰国“人妖”求生的背后故事，出家重回男儿身，太可怜了！_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4018 bytes                           |
-> | MD5             | e52b13eef7df53aabfe2af6bcf3429e5                                  |
-> | Archived Date   | 2024-11-09 05:43:35                             |
-> | Original Link   | [http://k.sina.cn/article_7037282922_1a3746a6a00100r234.html?from=travel](http://k.sina.cn/article_7037282922_1a3746a6a00100r234.html?from=travel)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

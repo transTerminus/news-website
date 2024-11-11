@@ -43,19 +43,22 @@
 
 立即转发  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_申请变性手术须年满20岁.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3014 bytes                           |
-> | MD5             | 45ad989f85025f5272dbd6d1f4dd1dd8                                  |
-> | Archived Date   | 2024-11-02 06:06:51                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-06-17/detail-ikknscsk4897771.d.html](https://news.sina.cn/sa/2009-06-17/detail-ikknscsk4897771.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

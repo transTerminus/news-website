@@ -22,19 +22,22 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_最老变性人彻底变女人（图）.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 817 bytes                           |
-> | MD5             | 13c39c6b0aa75ccba4b592452e733410                                  |
-> | Archived Date   | 2024-11-02 05:52:45                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-04-27/detail-ikknscsk2159177.d.html](https://news.sina.cn/sa/2007-04-27/detail-ikknscsk2159177.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

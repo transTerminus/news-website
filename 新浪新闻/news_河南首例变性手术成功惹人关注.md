@@ -18,19 +18,22 @@
 
 请您发表意见或评论。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_河南首例变性手术成功惹人关注.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1438 bytes                           |
-> | MD5             | 2314d45c84f679b1741dbd9de43232bc                                  |
-> | Archived Date   | 2024-11-02 04:10:04                             |
-> | Original Link   | [https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap](https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

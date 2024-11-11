@@ -22,19 +22,22 @@
 
 如有版权问题，请联系原作者。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“变性人”入住旅西华人旅馆裸身现春光惊煞住客.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3013 bytes                           |
-> | MD5             | 212ee3f5e969eb9eb9afe1ec15336802                                  |
-> | Archived Date   | 2024-11-02 06:25:53                             |
-> | Original Link   | [https://news.sina.cn/sa/2011-07-09/detail-ikmxzfmk0609096.d.html](https://news.sina.cn/sa/2011-07-09/detail-ikmxzfmk0609096.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

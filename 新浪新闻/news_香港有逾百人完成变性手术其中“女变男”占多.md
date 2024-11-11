@@ -23,19 +23,22 @@
 
 *版权声明: 本文来源于中国新闻网，内容仅供参考。*
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_香港有逾百人完成变性手术其中“女变男”占多.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1720 bytes                           |
-> | MD5             | 9581549f1576689315317090fc87ca2f                                  |
-> | Archived Date   | 2024-11-02 04:47:29                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -123,19 +123,22 @@ _“来回来去在自己人圈里争论、宣传、辩论，很难改变什么�
 责任编辑：伍勤
 校对：丁晓
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_让华人家长恐慌的新西兰性教育，到底教什么？_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 21645 bytes                           |
-> | MD5             | f292f05033dd8838418d8fa4b39f58e1                                  |
-> | Archived Date   | 2024-11-10 22:16:07                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3065228](https://m.thepaper.cn/newsDetail_forward_3065228)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

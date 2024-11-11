@@ -70,19 +70,22 @@
 
 我觉得，男孩与女孩还是应该各美其美，若星星如太阳一般在天空大放光芒，人类又怎会欣赏繁星; 如果太阳像星星一样幽暗，人类的明天也无法想象。（重庆市合川区草街古圣寺育才小学 肖晓旭）
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_半月谈讨论男女孩性别错位：教育人士称现象普遍，社会渐包容.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12093 bytes                           |
-> | MD5             | 03d746bdf6294615551d13c49bf74b45                                  |
-> | Archived Date   | 2024-11-10 22:02:17                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1319923](https://m.thepaper.cn/newsDetail_forward_1319923)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -25,19 +25,22 @@
 
 ![插图](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人当选港特首选委称工作生活不受影响(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2894 bytes                           |
-> | MD5             | da8ea8be908914443919c16b5ab5fa65                                  |
-> | Archived Date   | 2024-11-02 06:18:01                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-08-11/detail-ikmyaawa3070670.d.html](https://news.sina.cn/sa/2010-08-11/detail-ikmyaawa3070670.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

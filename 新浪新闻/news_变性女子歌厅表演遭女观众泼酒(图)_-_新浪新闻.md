@@ -64,19 +64,22 @@
 
 \[1\] [\[2\]](http://news.sina.com.cn/s/2007-03-26/105612615759.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性女子歌厅表演遭女观众泼酒(图)_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5318 bytes                           |
-> | MD5             | b8fd42ef5610f35ee60655ae861a00bc                                  |
-> | Archived Date   | 2024-11-09 05:47:23                             |
-> | Original Link   | [http://news.sina.com.cn/s/2007-03-26/105612615756.shtml](http://news.sina.com.cn/s/2007-03-26/105612615756.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

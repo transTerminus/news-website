@@ -29,19 +29,22 @@
 
 **标签**: [男友](#) [刘昌福](#) [变性手术](#) 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性女人后携男友回老家大秀恩爱(图)_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2801 bytes                           |
-> | MD5             | fb822e59ec7ea8ef4316773dbf6c784d                                  |
-> | Archived Date   | 2024-11-02 08:28:24                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200804/0421_344_499789.shtml](https://news.ifeng.com/society/2/200804/0421_344_499789.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

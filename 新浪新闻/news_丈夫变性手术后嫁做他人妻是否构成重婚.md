@@ -38,19 +38,22 @@
 
 ![新浪新闻logo](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_丈夫变性手术后嫁做他人妻是否构成重婚.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5615 bytes                           |
-> | MD5             | 9627b4ca6f99ce681ae0e0d0db5bf226                                  |
-> | Archived Date   | 2024-11-02 04:50:26                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-11-12/detail-ikknscsi4799363.d.html](https://news.sina.cn/sa/2004-11-12/detail-ikknscsi4799363.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

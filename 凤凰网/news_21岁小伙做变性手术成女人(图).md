@@ -24,19 +24,22 @@
 **标签**：变性手术，女人  
 **评论**：2位网友发表评论  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_21岁小伙做变性手术成女人(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1602 bytes                           |
-> | MD5             | 42e741a45c7da595771c2621084759ea                                  |
-> | Archived Date   | 2024-11-02 08:33:11                             |
-> | Original Link   | [https://news.ifeng.com/society/4/200907/0701_346_1228071.shtml](https://news.ifeng.com/society/4/200907/0701_346_1228071.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

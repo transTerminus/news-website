@@ -71,19 +71,22 @@
 
 本文来源：医学界妇产科频道  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别运动员“三连举”失败，这件事一直有争议.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4458 bytes                           |
-> | MD5             | ccf52652a8555b8c6478a771a34ed2bc                                  |
-> | Archived Date   | 2024-11-03 08:57:22                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13911151](https://m.thepaper.cn/newsDetail_forward_13911151)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

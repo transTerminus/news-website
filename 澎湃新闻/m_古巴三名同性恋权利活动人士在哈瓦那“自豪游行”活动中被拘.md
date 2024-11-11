@@ -19,19 +19,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_古巴三名同性恋权利活动人士在哈瓦那“自豪游行”活动中被拘.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2063 bytes                           |
-> | MD5             | 82045c16c2256bbee1a9c06abffeae29                                  |
-> | Archived Date   | 2024-11-03 10:12:28                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -72,19 +72,22 @@ Lawrence案的宣判扫清了通向同性婚姻合法化之路上的一个巨大
 
 以上讨论的同性婚姻合法化以及由此延伸的跨性别者问题，其意义绝非仅仅局限在LGBT人群之中，而是象征着我们所身处的这个社会的多元化与个人化进程的不可逆转。如以上所讨论的，同性婚姻在某种意义上可以被视为伴侣关系多样化的开端，而跨性别者议题的广泛和深入，象征着性别这一包含最多刻板印象的领域的逐步开放，传统的“男子气概”、“女性气质”概念将受到更大的挑战。从这些角度而言，LGBT人群所引发的这些议题，与全社会每个人的利益都息息相关，这将是一个更加注重自我表达，而非社会约束的时代；这也将是一个更加相互尊重，而非党同伐异的时代。人类社会数千年数百年来所形成的种种传统，正在受到每一个个体从其自身视角出发的仔细探查。我们该怎样认识自己，以怎样的方式结合成一个家庭，又以怎样的方式组合成一个社会？更加自我，更加独立，更加分散，却更加充满责任。尽管LGBT人群所面临的艰难处境不会为其他人群所经历，但在更广泛的意义上，多元和平等紧密相关，自由和尊重永远相互依存，那些社会中少数派被怎样对待的方式，恰恰决定了我们所有人权利的边界止于何处。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_别以为同性婚姻合法化就太平了，之后是无尽的争议.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 31076 bytes                           |
-> | MD5             | 691c88e29e194fc156dc504f14480799                                  |
-> | Archived Date   | 2024-11-03 08:50:24                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1346065](https://m.thepaper.cn/newsDetail_forward_1346065)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

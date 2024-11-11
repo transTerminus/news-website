@@ -17,19 +17,22 @@
 **地址**: [凤凰网](http://weibo.com/phoenixnewmedia)  
 **版权所有**: 凤凰新媒体 Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_大胡子“美女歌神”变身照曝光变性前是奶油小生(高清组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1952 bytes                           |
-> | MD5             | 8c7f6b139ba196174ee16e976821158a                                  |
-> | Archived Date   | 2024-11-02 06:53:03                             |
-> | Original Link   | [https://news.ifeng.com/a/20140512/40261436_7.shtml](https://news.ifeng.com/a/20140512/40261436_7.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

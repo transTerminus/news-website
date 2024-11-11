@@ -13,19 +13,22 @@
 
 张彩媛曾在SBS综艺节目《真实游戏》中以男扮女装惊艳亮相，之后真正接受变性手术，再次出现在电视节目中，曾引起热门话题。目前，刚刚得知死亡消息的张彩媛的朋友们纷纷登录故人的迷你小窝，留下追悼怀念的文字。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_韩国变性艺人张彩媛自杀身亡(图)_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1093 bytes                           |
-> | MD5             | 9915e396ead1a3fd3bd9a68c5360abe9                                  |
-> | Archived Date   | 2024-11-02 08:29:09                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200810/1006_344_818594.shtml](https://news.ifeng.com/society/2/200810/1006_344_818594.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

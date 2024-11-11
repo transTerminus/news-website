@@ -101,19 +101,22 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 
   ![特朗普竞选集会](https://d.ifengimg.com/w72_h40/x0.ifengimg.com/ucms/2024_44/037C4CA76C115890E262748898F57E1EAA222B9C_size73_w975_h549.jpg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_维密迎首位变性模特高管曾因反对变性人代言被喷.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6024 bytes                           |
-> | MD5             | e43be807a324785d2cbb8a9132832562                                  |
-> | Archived Date   | 2024-11-02 08:04:58                             |
-> | Original Link   | [https://news.ifeng.com/c/7ouj0SdFrV8](https://news.ifeng.com/c/7ouj0SdFrV8)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -28,19 +28,22 @@ RT称，2022年2月俄罗斯对乌克兰发起特别军事行动后不久，乌�
 
 ![](http://x0.ifengimg.com/feprod/c/2023_6_5/18_8_26/ad-logo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_外媒：为逃避兵役，乌克兰一男子男扮女装持家人护照试图出境被拦下.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3673 bytes                           |
-> | MD5             | fb4ecc56a05f8e6f2ae2f62c70131ad9                                  |
-> | Archived Date   | 2024-11-09 10:39:18                             |
-> | Original Link   | [https://news.ifeng.com/c/8ZORjhzMq5k](https://news.ifeng.com/c/8ZORjhzMq5k)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

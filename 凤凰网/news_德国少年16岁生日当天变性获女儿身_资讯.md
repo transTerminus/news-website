@@ -32,19 +32,22 @@
 - 高兴 
 - 路过 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_德国少年16岁生日当天变性获女儿身_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1454 bytes                           |
-> | MD5             | 52ebe1f478adfe1e6bf9ab08f4925135                                  |
-> | Archived Date   | 2024-11-02 08:29:55                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200902/0206_344_997352.shtml](https://news.ifeng.com/society/2/200902/0206_344_997352.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

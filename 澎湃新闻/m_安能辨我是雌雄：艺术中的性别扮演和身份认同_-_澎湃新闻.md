@@ -48,19 +48,22 @@
 
 卡斯•伯德（Cass Bird）在摄影中展现了那些身处社会性别边缘的人群的正面形象。她以此展现一个世界，像惠特曼那样拒绝社会的清规戒律。这张照片拍摄于布鲁克林的一个屋顶上，伯德的朋友马考莱（Macaulay）带着个帽子盯着镜头，帽子上写“我看起来就像我爸。”马考莱的社会性别看起来很模糊，她顶着的宣言亦如是。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_安能辨我是雌雄：艺术中的性别扮演和身份认同_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9342 bytes                           |
-> | MD5             | 8acd05895b1507fe5f9ed731529c7fea                                  |
-> | Archived Date   | 2024-11-10 22:01:39                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1287912](https://m.thepaper.cn/newsDetail_forward_1287912)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

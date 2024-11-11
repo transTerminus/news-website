@@ -366,19 +366,22 @@
 
 (本文章版权归凤凰网所有，未经授权，不得转载)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | i_女生居然也能体验“勃起”的感觉？变性手术全过程揭秘_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7822 bytes                           |
-> | MD5             | 959425ff094fe2e547f800aaf9301ddc                                  |
-> | Archived Date   | 2024-11-09 10:23:18                             |
-> | Original Link   | [https://i.ifeng.com/c/82qwqDlG6cL](https://i.ifeng.com/c/82qwqDlG6cL)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

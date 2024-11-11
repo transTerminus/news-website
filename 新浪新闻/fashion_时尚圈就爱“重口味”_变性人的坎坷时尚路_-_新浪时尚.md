@@ -65,19 +65,22 @@ Candy Darling
 
 Lea T说，希望看到今年变性人在时尚界的高曝光率可以成为新的“启蒙运动”的先导。“我渴望看到重大的变革，”她说，“也希望人们能改变对我们的看法——希望这仅仅是一个开始。”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | fashion_时尚圈就爱“重口味”_变性人的坎坷时尚路_-_新浪时尚.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8114 bytes                           |
-> | MD5             | 4e3d535ca292677373025f9f80a05918                                  |
-> | Archived Date   | 2024-11-09 05:38:00                             |
-> | Original Link   | [http://fashion.eladies.sina.com.cn/industry/2011/0106/074619613_2.shtml](http://fashion.eladies.sina.com.cn/industry/2011/0106/074619613_2.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -18,19 +18,22 @@
 
 第三个层次，就是所谓的人妖了，已经做了净身手术，对男性世界已没有什么留恋。叫变性人好一点，叫人妖是对他们的贬称，因为人妖主要指的是那些出来卖唱表演的。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_解读泰国美艳人妖的辛酸生活_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2223 bytes                           |
-> | MD5             | e4d90cd7e401aa939223ae52c97d6fcc                                  |
-> | Archived Date   | 2024-11-09 07:50:35                             |
-> | Original Link   | [https://news.sina.com.cn/w/2005-10-09/00167116914s.shtml](https://news.sina.com.cn/w/2005-10-09/00167116914s.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

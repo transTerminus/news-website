@@ -68,19 +68,22 @@
 **他〈她〉是不是心理不平衡啊？还亏他〈她〉好意思去参加，还到处犯贱，生怕别人不知道他〈她〉变性。。。变态狂！！！！！！！**  
 **2004-07-02**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人陈莉莉被劫后首次露面称对将来很迷惘.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4472 bytes                           |
-> | MD5             | 652c2b9336d2cedd4a2a1c6a458fb7f4                                  |
-> | Archived Date   | 2024-11-02 04:32:32                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html](https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

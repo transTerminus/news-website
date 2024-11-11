@@ -35,19 +35,22 @@
 
 立即转发
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_做变性手术涉嫌故意伤害罪吗.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4505 bytes                           |
-> | MD5             | 860a3c54a88c32b5f7202e33e8b15731                                  |
-> | Archived Date   | 2024-11-02 06:02:24                             |
-> | Original Link   | [https://news.sina.cn/sa/2008-09-24/detail-ikkntian0956898.d.html](https://news.sina.cn/sa/2008-09-24/detail-ikkntian0956898.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

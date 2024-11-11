@@ -63,19 +63,22 @@
 
 **热门评论**: [点击查看更多评论](https://cmnt.sina.cn/index?product=comos&index=kftpnny4270913&tj_ch=news&is_clear=0) 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_28岁男子为变性挥刀自宫母亲曾要断绝关系.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7228 bytes                           |
-> | MD5             | 1181a815f33c03580008813cb1562bd0                                  |
-> | Archived Date   | 2024-11-02 06:14:55                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-03-17/detail-ikftpnny4270913.d.html](https://news.sina.cn/sa/2010-03-17/detail-ikftpnny4270913.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

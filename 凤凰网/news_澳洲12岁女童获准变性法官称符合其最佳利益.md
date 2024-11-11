@@ -18,19 +18,22 @@
 
 **标签**: [女童](#) [法官](#) [变性](#)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_澳洲12岁女童获准变性法官称符合其最佳利益.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1542 bytes                           |
-> | MD5             | 325a472565302f3e262fbd02152ae349                                  |
-> | Archived Date   | 2024-11-02 08:32:27                             |
-> | Original Link   | [https://news.ifeng.com/society/4/200805/0526_346_562820.shtml](https://news.ifeng.com/society/4/200805/0526_346_562820.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

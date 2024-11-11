@@ -61,19 +61,22 @@
 ---
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_帅哥变性成美女续：男友否认自己是同性恋者.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4392 bytes                           |
-> | MD5             | 22bae27ad89001e25b09a30df6142c29                                  |
-> | Archived Date   | 2024-11-02 05:07:33                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4551779.d.html](https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4551779.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

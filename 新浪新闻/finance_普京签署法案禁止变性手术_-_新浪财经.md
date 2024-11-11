@@ -30,19 +30,22 @@
 
 本文系观察者网独家稿件，未经授权，不得转载。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_普京签署法案禁止变性手术_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2981 bytes                           |
-> | MD5             | 80aa2ad82c6bc5bd48ba603345e187c9                                  |
-> | Archived Date   | 2024-11-09 06:25:16                             |
-> | Original Link   | [https://finance.sina.com.cn/roll/2023-07-25/doc-imzcwnsv8049871.shtml](https://finance.sina.com.cn/roll/2023-07-25/doc-imzcwnsv8049871.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

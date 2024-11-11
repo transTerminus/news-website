@@ -14,19 +14,22 @@
 
 标签：[学生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A6%E7%94%9F) [学期](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A6%E6%9C%9F) [家长](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AE%B6%E9%95%BF)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_难忍其辱！美国变性学生状告学校设立单独卫生间.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2172 bytes                           |
-> | MD5             | 0aafc2c7c82f74a99c06944d71d55fd6                                  |
-> | Archived Date   | 2024-11-02 07:33:25                             |
-> | Original Link   | [https://news.ifeng.com/a/20150617/43995387_0.shtml](https://news.ifeng.com/a/20150617/43995387_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

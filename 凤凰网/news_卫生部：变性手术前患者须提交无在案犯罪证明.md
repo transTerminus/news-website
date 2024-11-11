@@ -53,19 +53,22 @@
 - 患者隐私
 - 变性手术
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_卫生部：变性手术前患者须提交无在案犯罪证明.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3613 bytes                           |
-> | MD5             | 5845396f11a63e92b121c3f86fb82d8e                                  |
-> | Archived Date   | 2024-11-02 08:22:55                             |
-> | Original Link   | [https://news.ifeng.com/mainland/200906/0616_17_1205012.shtml](https://news.ifeng.com/mainland/200906/0616_17_1205012.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

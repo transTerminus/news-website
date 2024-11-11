@@ -72,19 +72,22 @@
 **2011-06-24**  
 新浪网友
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_90后男子变性手术后色诱抢劫男网友(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10236 bytes                           |
-> | MD5             | 663d05e04b2a84cf4e1106f2f2032244                                  |
-> | Archived Date   | 2024-11-02 06:24:29                             |
-> | Original Link   | [https://news.sina.cn/sa/2011-06-24/detail-ikftpnny4851413.d.html](https://news.sina.cn/sa/2011-06-24/detail-ikftpnny4851413.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

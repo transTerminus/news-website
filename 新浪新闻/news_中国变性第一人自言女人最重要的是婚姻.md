@@ -33,19 +33,22 @@
 **作者**: 本报记者王路  
 **编辑**: 实习生田艳
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国变性第一人自言女人最重要的是婚姻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4476 bytes                           |
-> | MD5             | 8183d07e4493dc8126deb6e84592a4d7                                  |
-> | Archived Date   | 2024-11-02 04:13:43                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html](https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

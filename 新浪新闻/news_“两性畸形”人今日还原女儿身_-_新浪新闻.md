@@ -31,19 +31,22 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 立即转发  
 [_0_](https://cmnt.sina.cn/index?product=comos&index=kmyaawa2451727&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“两性畸形”人今日还原女儿身_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2029 bytes                           |
-> | MD5             | 596f25112500f95468a880369f9281c6                                  |
-> | Archived Date   | 2024-11-09 07:40:10                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-01-05/detail-ikmyaawa2451727.d.html](https://news.sina.cn/sa/2010-01-05/detail-ikmyaawa2451727.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

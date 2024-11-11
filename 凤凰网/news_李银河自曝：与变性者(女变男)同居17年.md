@@ -62,19 +62,22 @@
 **责任编辑**：PN048  
 ![二维码](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_李银河自曝：与变性者(女变男)同居17年.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7760 bytes                           |
-> | MD5             | 513dda9b940adf63b6e42279ff5d444d                                  |
-> | Archived Date   | 2024-11-02 07:16:45                             |
-> | Original Link   | [https://news.ifeng.com/a/20141218/42748249_0.shtml](https://news.ifeng.com/a/20141218/42748249_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

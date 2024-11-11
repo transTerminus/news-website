@@ -31,19 +31,22 @@
 
 **编辑**：霍吉和
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国变性第一人：妩媚妖娆曾被毕加索追求(组图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2451 bytes                           |
-> | MD5             | 156394b18a41466a95e94116a8dd9732                                  |
-> | Archived Date   | 2024-11-02 08:35:28                             |
-> | Original Link   | [https://news.ifeng.com/world/200911/1125_16_1450142.shtml](https://news.ifeng.com/world/200911/1125_16_1450142.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

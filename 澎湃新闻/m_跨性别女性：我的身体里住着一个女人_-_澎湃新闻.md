@@ -82,19 +82,22 @@
 **编辑：涂艺秋**  
 **原标题：《跨性别女性：我的身体里住着一个女人 | 特稿**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别女性：我的身体里住着一个女人_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 11753 bytes                           |
-> | MD5             | d3c9e2b596c8c6c4e38dac3d256c7101                                  |
-> | Archived Date   | 2024-11-10 21:47:27                             |
-> | Original Link   | [https://m.thepaper.cn/baijiahao_5435150?sdkver=e06426d6&clientprefetch=1](https://m.thepaper.cn/baijiahao_5435150?sdkver=e06426d6&clientprefetch=1)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -38,19 +38,22 @@
 
 **责任编辑**：吕凡 PN144
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_苏纳克：我将修改法律，禁止跨性别女性使用女厕所_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3393 bytes                           |
-> | MD5             | 5d8d4d2fe5b1800413891994e036e327                                  |
-> | Archived Date   | 2024-11-09 10:39:52                             |
-> | Original Link   | [https://news.ifeng.com/c/8a7NPuDoiwI](https://news.ifeng.com/c/8a7NPuDoiwI)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

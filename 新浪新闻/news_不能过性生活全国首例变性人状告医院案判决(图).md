@@ -50,19 +50,22 @@
 
 热门评论中，大家对于案件的看法激烈，反映了社会对变性人群体的关注与争议。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_不能过性生活全国首例变性人状告医院案判决(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4089 bytes                           |
-> | MD5             | d4e15ec4a5fd32fe85cf69e41718f67a                                  |
-> | Archived Date   | 2024-11-02 04:10:39                             |
-> | Original Link   | [https://news.sina.cn/sa/2002-04-27/detail-ikkntiak6990110.d.html](https://news.sina.cn/sa/2002-04-27/detail-ikkntiak6990110.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

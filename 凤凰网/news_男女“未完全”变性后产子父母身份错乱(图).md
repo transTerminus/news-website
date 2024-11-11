@@ -25,19 +25,22 @@
 
 \[责任编辑：PN040\]
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男女“未完全”变性后产子父母身份错乱(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2466 bytes                           |
-> | MD5             | 6eeb53c14d522515f6e7237b0101ade4                                  |
-> | Archived Date   | 2024-11-02 06:59:40                             |
-> | Original Link   | [https://news.ifeng.com/a/20140812/41534502_0.shtml](https://news.ifeng.com/a/20140812/41534502_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

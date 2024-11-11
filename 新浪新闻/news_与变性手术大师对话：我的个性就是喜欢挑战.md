@@ -85,19 +85,22 @@
 
 ![评论](https://tp3.sinaimg.cn/1392597202/50/0/1)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_与变性手术大师对话：我的个性就是喜欢挑战.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8754 bytes                           |
-> | MD5             | b6376e347f3c085b3066a4d7798ec56a                                  |
-> | Archived Date   | 2024-11-02 04:56:56                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-01-08/detail-ikknscsi5444404.d.html](https://news.sina.cn/sa/2005-01-08/detail-ikknscsi5444404.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

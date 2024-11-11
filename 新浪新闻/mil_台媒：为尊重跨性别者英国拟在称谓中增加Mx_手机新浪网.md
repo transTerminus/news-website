@@ -156,19 +156,22 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | mil_台媒：为尊重跨性别者英国拟在称谓中增加Mx_手机新浪网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 13550 bytes                           |
-> | MD5             | eb0a58cdc2e4e2280fb11a027b5f44c0                                  |
-> | Archived Date   | 2024-11-09 07:17:45                             |
-> | Original Link   | [https://mil.sina.cn/2015-05-04/detail-iawzuney4857343.d.html?from=wap](https://mil.sina.cn/2015-05-04/detail-iawzuney4857343.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

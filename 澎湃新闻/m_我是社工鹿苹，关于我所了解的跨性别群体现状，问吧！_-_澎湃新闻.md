@@ -122,19 +122,22 @@
 2024-10-12 ∙ 重庆  
 非常感谢你对这个议题的关注，也许你可以先关注“跨儿心理”这样的跨性别科普账号，里面有非常多的专业知识与生命故事，并通过参加相关活动和跨性别者在线下建立信任与友谊。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12356 bytes                           |
-> | MD5             | cf2def993c2458dec74201a9d3b84c6e                                  |
-> | Archived Date   | 2024-11-10 21:46:10                             |
-> | Original Link   | [https://m.thepaper.cn/asktopic_detail_10027872](https://m.thepaper.cn/asktopic_detail_10027872)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

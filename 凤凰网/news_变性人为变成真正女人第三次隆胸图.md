@@ -51,19 +51,22 @@
 
 **版权声明：** (本文章版权归凤凰网所有，未经授权，不得转载)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人为变成真正女人第三次隆胸图.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4617 bytes                           |
-> | MD5             | 94822831b9439184d700ed60e3d1f5ea                                  |
-> | Archived Date   | 2024-11-02 07:52:40                             |
-> | Original Link   | [https://news.ifeng.com/c/7fYI85HChNK](https://news.ifeng.com/c/7fYI85HChNK)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

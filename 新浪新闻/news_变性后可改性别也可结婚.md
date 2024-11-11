@@ -35,19 +35,22 @@
 
 88字  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性后可改性别也可结婚.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2526 bytes                           |
-> | MD5             | 21a4bba2b3917523364ac98fc94d1a13                                  |
-> | Archived Date   | 2024-11-02 04:34:56                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-03-31/detail-ikknscsi2913538.d.html](https://news.sina.cn/sa/2004-03-31/detail-ikknscsi2913538.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

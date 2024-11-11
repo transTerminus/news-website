@@ -54,19 +54,22 @@
 **疯狗记者可以啊，这标题**  
 *2018-08-29 江西赣州*
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_18岁少年宾馆做变性手术“医生”看视频学的技术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3682 bytes                           |
-> | MD5             | 337332b09985dfba0afc9e43e2a0521d                                  |
-> | Archived Date   | 2024-11-02 03:30:18                             |
-> | Original Link   | [http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html](http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

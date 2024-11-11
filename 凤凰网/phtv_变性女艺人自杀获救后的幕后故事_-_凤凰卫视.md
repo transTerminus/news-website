@@ -44,19 +44,22 @@
 
 **版权信息**: 凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2292 bytes                           |
-> | MD5             | 1e19c4f1750526856c8ef1725f3caf49                                  |
-> | Archived Date   | 2024-11-09 10:07:06                             |
-> | Original Link   | [http://phtv.ifeng.com/program/lnrs/detail_2007_04/27/1061640_0.shtml](http://phtv.ifeng.com/program/lnrs/detail_2007_04/27/1061640_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

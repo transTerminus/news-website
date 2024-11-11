@@ -14,19 +14,22 @@
 
 10月7日，数位“佳丽”参加了菲律宾举行的一次特殊选美比赛，这次比赛的参加者多为变性者或装扮成女性的人。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_“变性靓女”选美大赛热辣秀性感[组图].md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 754 bytes                           |
-> | MD5             | 19e207b42d0137a63efa1a7338856a6d                                  |
-> | Archived Date   | 2024-11-02 08:37:12                             |
-> | Original Link   | [https://news.ifeng.com/world/oddnews/200810/1008_2593_821612.shtml](https://news.ifeng.com/world/oddnews/200810/1008_2593_821612.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

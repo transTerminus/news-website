@@ -40,19 +40,22 @@
 
 即刻评论内容可以在网页中进行。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英50岁男子两次变性都交桃花运富豪向她求婚(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3062 bytes                           |
-> | MD5             | bb9497e87438dac3a45b378c3c913edc                                  |
-> | Archived Date   | 2024-11-02 06:21:26                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-11-09/detail-ikmyaawa3190375.d.html](https://news.sina.cn/sa/2010-11-09/detail-ikmyaawa3190375.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

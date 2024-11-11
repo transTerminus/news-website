@@ -66,19 +66,22 @@
 
 标签： [养父母](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%85%BB%E7%88%B6%E6%AF%8D) [生长发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%9F%E9%95%BF%E5%8F%91%E8%82%B2) [小伙伴](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B0%8F%E4%BC%99%E4%BC%B4)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_孩子想变性家长怎么办？养父母生长发育.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9104 bytes                           |
-> | MD5             | 4f5ece8965de800028fb6a02a72874a9                                  |
-> | Archived Date   | 2024-11-02 07:17:34                             |
-> | Original Link   | [https://news.ifeng.com/a/20141221/42763329_0.shtml](https://news.ifeng.com/a/20141221/42763329_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

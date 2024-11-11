@@ -32,19 +32,22 @@
 京ICP证030609号  
 本站通用网址：凤凰网建议使用IE5.5以上版本浏览
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_解密50岁老汉变性手术过程.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 862 bytes                           |
-> | MD5             | ac68b216c90a5ca9c0ce26250a0905f0                                  |
-> | Archived Date   | 2024-11-02 08:24:48                             |
-> | Original Link   | [https://news.ifeng.com/photo/200704/0429_24_111458_4.shtml](https://news.ifeng.com/photo/200704/0429_24_111458_4.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

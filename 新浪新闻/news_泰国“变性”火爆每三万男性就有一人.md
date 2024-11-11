@@ -25,19 +25,22 @@
 
 **评论**: 请输入评论内容
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国“变性”火爆每三万男性就有一人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1409 bytes                           |
-> | MD5             | 51d892a023caa3e1b5d41ed24ab1f756                                  |
-> | Archived Date   | 2024-11-02 04:27:34                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2799549.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2799549.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

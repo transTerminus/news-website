@@ -148,19 +148,22 @@
 
 [阅读原文](http://mp.weixin.qq.com/s/voT8wdDrVeQvv6XbNXY4Sw)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_阉割、变性……被困在男人躯壳中的“药娘”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7683 bytes                           |
-> | MD5             | 62d1722c2560dd3f11aef412591b38ed                                  |
-> | Archived Date   | 2024-11-03 09:01:03                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14338990](https://m.thepaper.cn/newsDetail_forward_14338990)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -18,19 +18,22 @@
 
 标签：[诊断](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%AF%8A%E6%96%AD) [手术](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%89%8B%E6%9C%AF) [医疗美容](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8C%BB%E7%96%97%E7%BE%8E%E5%AE%B9)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人“曼音”深圳圆梦“脱”去男儿身成真女人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2885 bytes                           |
-> | MD5             | 8833031ce265988b1dca5248cef44428                                  |
-> | Archived Date   | 2024-11-02 06:51:50                             |
-> | Original Link   | [https://news.ifeng.com/a/20140508/40212392_4.shtml](https://news.ifeng.com/a/20140508/40212392_4.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

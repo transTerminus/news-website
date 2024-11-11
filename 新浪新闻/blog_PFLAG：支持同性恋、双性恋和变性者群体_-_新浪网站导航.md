@@ -43,19 +43,22 @@ PFLAG was formerly known as Parents, Friends and Family of Lesbians and Gays.
 
 阅读(623) ┊ 收藏(0) ┊ 喜欢(0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | blog_PFLAG：支持同性恋、双性恋和变性者群体_-_新浪网站导航.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3907 bytes                           |
-> | MD5             | fe461b8fdec6011164287b9dea389476                                  |
-> | Archived Date   | 2024-11-09 06:09:17                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_67f297b00102ejl4.html](https://blog.sina.com.cn/s/blog_67f297b00102ejl4.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

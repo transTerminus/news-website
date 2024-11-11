@@ -36,19 +36,22 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_继金星后又一男星变性成功，手术后疼的满地爬.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3108 bytes                           |
-> | MD5             | b2c14e6215c6e347e7c64f09efaa4720                                  |
-> | Archived Date   | 2024-11-02 08:03:19                             |
-> | Original Link   | [https://news.ifeng.com/c/7nY3bf3aYtr](https://news.ifeng.com/c/7nY3bf3aYtr)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -18,19 +18,22 @@
 
 凤凰新媒体版权所有 Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_越南变性人裸体站警车旁引围观警方称其只是在秀身材.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1611 bytes                           |
-> | MD5             | 1c9e9f5595b3f1c4e1f204954aa6cc18                                  |
-> | Archived Date   | 2024-11-02 07:15:19                             |
-> | Original Link   | [https://news.ifeng.com/a/20141201/42614803_1.shtml](https://news.ifeng.com/a/20141201/42614803_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

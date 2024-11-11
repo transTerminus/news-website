@@ -295,19 +295,22 @@ IOC批准关于变形运动员参赛的共识。
 **时间**：2021-07-27  
 **地点**：河北秦皇岛  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_别再骂那个变性运动员了.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 19827 bytes                           |
-> | MD5             | aa533f320a7c2d46b31ac195aa44aea7                                  |
-> | Archived Date   | 2024-11-02 03:43:52                             |
-> | Original Link   | [https://news.sina.cn/2021-07-27/detail-ikqciyzk7832371.d.html](https://news.sina.cn/2021-07-27/detail-ikqciyzk7832371.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

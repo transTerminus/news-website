@@ -71,19 +71,22 @@
 前一篇：[东南亚观光 ——（四）水调歌头  芭提雅](//blog.sina.com.cn/s/blog_53175a1a0102y704.html)  
 后一篇：[东南亚观光 ——（六）清平乐 游黄金屋](//blog.sina.com.cn/s/blog_53175a1a0102ygpm.html)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | blog_东南亚观光——（五）七律观泰国人妖有感.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4448 bytes                           |
-> | MD5             | 171f3f36ebcd3800b94f3e6087f76b7d                                  |
-> | Archived Date   | 2024-11-09 06:06:57                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_53175a1a0102y8k0.html](https://blog.sina.com.cn/s/blog_53175a1a0102y8k0.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

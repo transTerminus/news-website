@@ -96,19 +96,22 @@ Kai Bar里有比女孩儿还漂亮精致的变性人，有男扮女装的异装�
 ![扫码共分享](https://wx3/large/006zi668ly1fiftt6cvi3j30zk0bvq30.jpg)  
 ![扫码共分享](https://wx2/large/006zi668ly1fifttb17bfj30xa12kq7b.jpg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | blog_不是同性恋，不是异装癖，只是跨性别_-_新浪网站导航.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7392 bytes                           |
-> | MD5             | 627ac9d79b46df54288b3d2b9cef0342                                  |
-> | Archived Date   | 2024-11-09 06:02:07                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_166b7b2740102xuoz.html](https://blog.sina.com.cn/s/blog_166b7b2740102xuoz.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

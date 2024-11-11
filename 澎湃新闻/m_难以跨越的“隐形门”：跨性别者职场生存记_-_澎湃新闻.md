@@ -323,19 +323,22 @@ C先生是跨性别男性，寸短，银色耳环，日常穿着男士西装和�
 
 （为保护受访者隐私，文中部分人物为化名）
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_难以跨越的“隐形门”：跨性别者职场生存记_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 29495 bytes                           |
-> | MD5             | 20278b12cddfc1ea0dab9502e1b799a9                                  |
-> | Archived Date   | 2024-11-03 09:38:59                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5530241](https://m.thepaper.cn/newsDetail_forward_5530241)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

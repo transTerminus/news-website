@@ -17,19 +17,22 @@
 说说你的看法  
 [转发至微博](https://cmnt.sina.cn/index?product=comos&index=kkntiak9224033&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人换了张“女人脸”_对新容貌非常满意.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1297 bytes                           |
-> | MD5             | ac844dc470d0191c410f971373375d27                                  |
-> | Archived Date   | 2024-11-02 04:25:39                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-01-17/detail-ikkntiak9224033.d.html](https://news.sina.cn/sa/2004-01-17/detail-ikkntiak9224033.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

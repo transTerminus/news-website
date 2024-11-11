@@ -13,19 +13,22 @@
 来源：凤凰网  
 标签：变性人选美, 日本, 春菜爱, 泰国
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_日本变性艺人夺人妖选美后冠[图集].md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 624 bytes                           |
-> | MD5             | 1e86f54cd603fb5324fcb86b869c9729                                  |
-> | Archived Date   | 2024-11-02 08:25:11                             |
-> | Original Link   | [https://news.ifeng.com/photo/hot/200911/1102_5486_1415931.shtml](https://news.ifeng.com/photo/hot/200911/1102_5486_1415931.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

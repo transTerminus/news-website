@@ -46,19 +46,22 @@
 - 高兴
 - 路过
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国出现历史上首位变性市长欲会奥巴马[图].md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2689 bytes                           |
-> | MD5             | 1879dbbad87a4a82e57aa248c7479a2e                                  |
-> | Archived Date   | 2024-11-02 08:25:22                             |
-> | Original Link   | [https://news.ifeng.com/photo/news/200811/1109_1397_869359.shtml](https://news.ifeng.com/photo/news/200811/1109_1397_869359.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

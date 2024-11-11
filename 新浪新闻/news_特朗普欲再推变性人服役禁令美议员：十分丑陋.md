@@ -44,19 +44,22 @@
 好的评论会让人崇拜  
 查看1条评论  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普欲再推变性人服役禁令美议员：十分丑陋.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4541 bytes                           |
-> | MD5             | b4e00819db93ab85eefcd4df558fb867                                  |
-> | Archived Date   | 2024-11-02 03:38:21                             |
-> | Original Link   | [https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap](https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

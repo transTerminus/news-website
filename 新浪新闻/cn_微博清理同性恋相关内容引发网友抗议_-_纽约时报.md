@@ -64,19 +64,22 @@
   **时间**: 2015年8月21日  
   ![教材污名化同性恋，学生诉教育部](https://static01.nyt.com/images/2015/08/19/world/18sino-textbook01/18sino-textbook01-thumbLarge-v2.jpg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | cn_微博清理同性恋相关内容引发网友抗议_-_纽约时报.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5767 bytes                           |
-> | MD5             | 428095b2ebd06d6427f269415864714f                                  |
-> | Archived Date   | 2024-11-09 06:12:35                             |
-> | Original Link   | [https://cn.nytimes.com/china/20180416/china-gay-ban-sina-weibo-/](https://cn.nytimes.com/china/20180416/china-gay-ban-sina-weibo-/)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

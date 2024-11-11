@@ -55,21 +55,24 @@
 
 特别声明：本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[澎湃号申请](https://renzheng.thepaper.cn)。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件讨论了加利福尼亚州即将出台的相关新法案，涉及跨性别女性在监狱中的安置问题。文章中讲述了杰伊·史密斯这位跨性别女性在男子监狱中遭受的严重暴力和性侵犯的经历，揭示了跨性别者在监禁时所面临的特有困境，包括缺乏尊重和保护。提到的SB 132法案旨在改善跨性别者的监禁条件，让监狱管理更符合其性别身份和个人安全需求。文中引用了多方证据，显示跨性别女性在监狱中受到性侵犯的高发率，并探讨了法案实施遇到的挑战和社会反响。文章中也提到，不仅加州在进行这方面的改革，纽约、华盛顿等地区也在采取类似措施。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_一个跨性别女性犯罪时，应该被关在男子监狱还是女子监狱？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7901 bytes                           |
-> | MD5             | 86a6d4139adbf5716876ffe2e4292dec                                  |
-> | Archived Date   | 2024-11-03 09:47:22                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8541731](https://m.thepaper.cn/newsDetail_forward_8541731)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | Kim Tran（翻译：mecho）                               |
+> | Region          | 美国                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 监狱政策, 法律改革, 性别身份, 杰伊·史密斯, SB 132法案, 性别暴力, 跨性别权利, 监禁条件                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

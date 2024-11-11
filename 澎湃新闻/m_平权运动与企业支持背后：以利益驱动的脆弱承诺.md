@@ -93,19 +93,22 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_平权运动与企业支持背后：以利益驱动的脆弱承诺.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 32355 bytes                           |
-> | MD5             | 4700233fb60b4d8664afe31bb56865b2                                  |
-> | Archived Date   | 2024-11-03 08:33:27                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

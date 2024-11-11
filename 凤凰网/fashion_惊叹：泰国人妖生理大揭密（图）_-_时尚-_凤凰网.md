@@ -32,19 +32,22 @@
 ### 参考资料
 - 凤凰网旅游：[惊叹：泰国人妖生理大揭密（图）](http://fashion.ifeng.com/travel/culture/detail_2006_11/22/141587_0.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | fashion_惊叹：泰国人妖生理大揭密（图）_-_时尚-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1953 bytes                           |
-> | MD5             | 24e13d34f366e329f4f5f375543f87f6                                  |
-> | Archived Date   | 2024-11-09 10:15:07                             |
-> | Original Link   | [https://fashion.ifeng.com/travel/culture/detail_2006_11/22/141587_1.shtml](https://fashion.ifeng.com/travel/culture/detail_2006_11/22/141587_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -52,19 +52,22 @@
 
 说说你的看法
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子做变性手术意外中断医院被判赔偿5万元.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3827 bytes                           |
-> | MD5             | af52649ae641b481194bd86535ec1956                                  |
-> | Archived Date   | 2024-11-02 05:01:31                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html](https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

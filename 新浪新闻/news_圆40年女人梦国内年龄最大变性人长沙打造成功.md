@@ -49,19 +49,22 @@
 
 (稿源：红网)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_圆40年女人梦国内年龄最大变性人长沙打造成功.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3769 bytes                           |
-> | MD5             | d959585b8440da22b184270e9cd35a15                                  |
-> | Archived Date   | 2024-11-02 05:17:05                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-12-14/detail-ikkntiam6141197.d.html](https://news.sina.cn/sa/2005-12-14/detail-ikkntiam6141197.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

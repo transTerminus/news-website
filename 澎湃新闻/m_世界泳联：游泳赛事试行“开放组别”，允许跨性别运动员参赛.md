@@ -18,21 +18,24 @@
 
 据悉，由于仍有许多问题有待进一步讨论及解决，试行“开放组别”后的首次游泳赛事将在律师和科学家的参与下展开。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了2023年7月25日世界泳联有关游泳赛事将试行“开放组别”的公告，允许跨性别运动员参加该组别的赛事。世界泳联主席侯赛因·阿尔-穆萨拉姆在日本福冈举行的世界游泳锦标赛上表示，这一新规的制定是为了进一步开放游泳运动，使其能够包容所有性别的运动员。但具体的赛事安排和时间尚未确认。文章还回顾了跨性别运动员参与游泳赛事的相关争议，特别提到了美国跨性别游泳运动员利亚·托马斯在女子500米自由泳锦标赛中获胜引发的讨论。对于参与体育赛事的规则，世界泳联已于2022年采取了一系列措施，限制跨性别运动员参与女子项目，并致力于创建“开放组别”。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_世界泳联：游泳赛事试行“开放组别”，允许跨性别运动员参赛.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1939 bytes                           |
-> | MD5             | f427f436e9998a12c809578d042c36fc                                  |
-> | Archived Date   | 2024-11-03 09:22:26                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_23993069?from=](https://m.thepaper.cn/newsDetail_forward_23993069?from=)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 侯丹玮                               |
+> | Region          | 未知                               |
+> | Date            | 2023-07-25                                 |
+> | Tags            | 跨性别运动员, 世界泳联, 开放组别, 游泳赛事, 体育政策, 性别包容, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

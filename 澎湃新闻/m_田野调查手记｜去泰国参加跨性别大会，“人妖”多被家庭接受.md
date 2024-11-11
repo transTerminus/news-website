@@ -107,19 +107,22 @@
 责任编辑：钱冠宇  
 校对：徐亦嘉  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_田野调查手记｜去泰国参加跨性别大会，“人妖”多被家庭接受.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 18055 bytes                           |
-> | MD5             | 154f465d26e43589f9cf54ee97116cbb                                  |
-> | Archived Date   | 2024-11-10 21:50:55                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2095342&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2095342&from=kuaibao)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

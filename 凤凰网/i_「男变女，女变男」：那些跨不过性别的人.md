@@ -247,19 +247,22 @@
 
 **竹签扎嘴、帽子蒙头旋转、提腿倒立…**家长反映幼师虐童，警方回应
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | i_「男变女，女变男」：那些跨不过性别的人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 21332 bytes                           |
-> | MD5             | 6e560e0f0f717c145516d81fa42f0718                                  |
-> | Archived Date   | 2024-11-09 10:28:48                             |
-> | Original Link   | [https://i.ifeng.com/c/8PmvNTdI3ve](https://i.ifeng.com/c/8PmvNTdI3ve)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -42,19 +42,22 @@
 **评论**: 共有评论0条 
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | culture_李银河解读男扮女装：“伪娘”与异装癖不一样_文化频道_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4138 bytes                           |
-> | MD5             | 908569b1c79217935cb902080deeac9c                                  |
-> | Archived Date   | 2024-11-09 09:47:00                             |
-> | Original Link   | [http://culture.ifeng.com/whrd/detail_2010_05/09/1498278_0.shtml](http://culture.ifeng.com/whrd/detail_2010_05/09/1498278_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

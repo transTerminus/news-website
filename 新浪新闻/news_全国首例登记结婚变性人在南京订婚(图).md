@@ -144,19 +144,22 @@
 **q**  
 **2004-05-03**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_全国首例登记结婚变性人在南京订婚(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 10552 bytes                           |
-> | MD5             | c0d2c72429173e028388feb8cb0c2e6e                                  |
-> | Archived Date   | 2024-11-02 04:36:22                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-04-25/detail-ikkntiak9841148.d.html](https://news.sina.cn/sa/2004-04-25/detail-ikkntiak9841148.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

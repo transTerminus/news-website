@@ -33,19 +33,22 @@ GID和间性一样，都是因基因或荷尔蒙异常，而未能在生理和�
 ---
 **版权**：本文来源于21世纪经济报道
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人法律地位渐趋明确阴阳人社会角色仍尴尬.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5844 bytes                           |
-> | MD5             | ac84ce10f452ce065ec3e941073f1b58                                  |
-> | Archived Date   | 2024-11-02 08:33:39                             |
-> | Original Link   | [https://news.ifeng.com/society/5/200911/1125_2579_1449691.shtml](https://news.ifeng.com/society/5/200911/1125_2579_1449691.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

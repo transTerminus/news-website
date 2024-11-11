@@ -30,19 +30,22 @@
 
 所有评论仅代表网友意见，凤凰网保持中立。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_奥巴马任命首位变性人高官出自雷声导弹公司.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1807 bytes                           |
-> | MD5             | 4bb5e753e981d411b766cbb905fa10fb                                  |
-> | Archived Date   | 2024-11-02 08:23:45                             |
-> | Original Link   | [https://news.ifeng.com/mil/3/201001/0106_341_1499965.shtml](https://news.ifeng.com/mil/3/201001/0106_341_1499965.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

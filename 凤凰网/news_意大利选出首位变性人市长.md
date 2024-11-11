@@ -6,19 +6,22 @@
 
 5月29日报道，当地时间5月28日，意大利特罗梅洛市，40岁的变性人内格里（Gianmarco Negri）当选特罗梅洛市市长，内格里也由此成为意大利首位变性人市长。来源：IC photo
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_意大利选出首位变性人市长.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 439 bytes                           |
-> | MD5             | d3eb6a1da2d60b51e6bf86eb8b2cc768                                  |
-> | Archived Date   | 2024-11-02 08:02:48                             |
-> | Original Link   | [https://news.ifeng.com/c/7n50ehBU0yO](https://news.ifeng.com/c/7n50ehBU0yO)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

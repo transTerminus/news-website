@@ -33,19 +33,22 @@
 
 实习生 付陈陈 摄影报道（发自中山）
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性美女陈莉莉：想要有个家，在家当贵夫人.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3289 bytes                           |
-> | MD5             | f32b260afc68064f75421f11e3358a40                                  |
-> | Archived Date   | 2024-11-02 07:58:29                             |
-> | Original Link   | [https://news.ifeng.com/c/7fcJ447ZOGi](https://news.ifeng.com/c/7fcJ447ZOGi)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

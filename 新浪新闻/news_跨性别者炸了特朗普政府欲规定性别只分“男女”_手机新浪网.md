@@ -38,19 +38,22 @@
 
 _[5](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=gj&newsid=comos-hmxrkzw3667667)_条评论 | _[60](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=gj&newsid=comos-hmxrkzw3667667)_人参与网友评论
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_跨性别者炸了特朗普政府欲规定性别只分“男女”_手机新浪网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3624 bytes                           |
-> | MD5             | a47fc61a72b78b6d805eeb903a9e81c0                                  |
-> | Archived Date   | 2024-11-02 06:39:30                             |
-> | Original Link   | [https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml](https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

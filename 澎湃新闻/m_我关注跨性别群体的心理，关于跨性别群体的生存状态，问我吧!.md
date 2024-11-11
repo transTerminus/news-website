@@ -210,19 +210,22 @@ TS里面是不是男性居多？文中的主人公似乎都是男性，为什么
 2015-12-23 ∙ 未知  
 您好，心理咨询师和心理医生还是有些区别的，心理咨询师只能处理一般心理问题，严重心理问题。神经症性质的心理问题，还有精神病性质的，则需要心理医生，或者叫精神科医生来解决，因为有些是需要服用一定的药物的。心理咨询师是通过专业的心理疏导方式，特有的咨询技术，针对心理问题的成因机理进行救助。因为社会系统对有心理问题的人的认识往往停留在症状行为上，因此很难通过劝说改变一个人的心理状态。咨询师则具有更专业的眼光，来发现心理问题的深层内容。就这个跨性别群体，我所关注的出发点来自其家庭和社会压力导致他们太多不该发生的悲剧，我希望能帮助他们了解自己的人格优势以及缺陷，更好的让他们能认识到自己，减少这个性少数人群多数的悲剧人生。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_我关注跨性别群体的心理，关于跨性别群体的生存状态，问我吧!.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12276 bytes                           |
-> | MD5             | b2196e809cabeb8ac8df6dbf42859ad7                                  |
-> | Archived Date   | 2024-11-03 08:22:21                             |
-> | Original Link   | [https://m.thepaper.cn/asktopic_detail_10001458](https://m.thepaper.cn/asktopic_detail_10001458)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

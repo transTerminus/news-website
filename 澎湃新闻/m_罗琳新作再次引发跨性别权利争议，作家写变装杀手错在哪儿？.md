@@ -67,19 +67,22 @@ J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_罗琳新作再次引发跨性别权利争议，作家写变装杀手错在哪儿？.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7521 bytes                           |
-> | MD5             | 93489603772041ffd3f7696f5d8cff6b                                  |
-> | Archived Date   | 2024-11-10 21:53:15                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=9199799&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=9199799&from=kuaibao)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

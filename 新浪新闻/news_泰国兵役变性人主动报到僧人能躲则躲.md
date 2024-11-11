@@ -51,19 +51,22 @@
 
 **版权声明**: 海外网系人民日报海外版官方网站，本文由海外网独家编译报道。欢迎转载，转载请注明海外网稿源。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国兵役变性人主动报到僧人能躲则躲.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3884 bytes                           |
-> | MD5             | 42414f14625e037c9899c8526e7440bf                                  |
-> | Archived Date   | 2024-11-02 03:36:37                             |
-> | Original Link   | [https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap](https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -57,19 +57,22 @@
 
 **责任编辑**: 柯劲杰 PN173
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | i_罗琳的《哈利·波特与魔法石》_被英国大学打上了“性别预警”_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6485 bytes                           |
-> | MD5             | fab390270019414dd2aa4cc8eb5ac843                                  |
-> | Archived Date   | 2024-11-09 10:24:32                             |
-> | Original Link   | [https://i.ifeng.com/c/8DCaXTCa7Ix](https://i.ifeng.com/c/8DCaXTCa7Ix)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

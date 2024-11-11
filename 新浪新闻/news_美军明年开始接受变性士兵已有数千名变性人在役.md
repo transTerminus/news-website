@@ -43,19 +43,22 @@
 **作者**: 参考消息  
 **编辑**: 参考消息
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美军明年开始接受变性士兵已有数千名变性人在役.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2715 bytes                           |
-> | MD5             | d90f2a3c2a4dc78a997aab6e800afab8                                  |
-> | Archived Date   | 2024-11-02 06:32:36                             |
-> | Original Link   | [https://news.sina.cn/sa/2017-12-14/detail-ikmxzfmk4893175.d.html](https://news.sina.cn/sa/2017-12-14/detail-ikmxzfmk4893175.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -22,19 +22,22 @@
 
 [快来湖里拍飞机！和厦航空姐一起打卡.......](https://fj.sina.cn/hulitoutiao/2024-11-07/detail-incvfpze0928578.d.html?vt=4)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | fj_第十届“嗓音医学新进展学习班”在厦召开_-_新浪福建.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1514 bytes                           |
-> | MD5             | a2e990915900cb54418a260ffa42c163                                  |
-> | Archived Date   | 2024-11-09 05:38:50                             |
-> | Original Link   | [http://fj.sina.cn/news/2022-11-05/detail-imqqsmrp5038927.d.html](http://fj.sina.cn/news/2022-11-05/detail-imqqsmrp5038927.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

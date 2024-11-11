@@ -73,19 +73,22 @@
 **2015-06-03**  
 新浪网友
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国65岁十项全能奥运冠军变性成女郎(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4988 bytes                           |
-> | MD5             | 30e172d78937c85d04fdd33371ff21bd                                  |
-> | Archived Date   | 2024-11-02 03:52:59                             |
-> | Original Link   | [https://news.sina.cn/gj/2015-06-03/detail-ianfzhne7311486.d.html](https://news.sina.cn/gj/2015-06-03/detail-ianfzhne7311486.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

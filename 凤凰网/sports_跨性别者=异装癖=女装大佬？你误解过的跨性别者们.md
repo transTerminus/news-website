@@ -20,19 +20,22 @@
 
 **声明：** 去你的野生性教育，是时候认真谈性了！
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | sports_跨性别者=异装癖=女装大佬？你误解过的跨性别者们.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1057 bytes                           |
-> | MD5             | 43c4f0bec8787a5aa68f3a46b05912fd                                  |
-> | Archived Date   | 2024-11-09 10:09:05                             |
-> | Original Link   | [http://sports.ifeng.com/c/7ktCYZxriHK](http://sports.ifeng.com/c/7ktCYZxriHK)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

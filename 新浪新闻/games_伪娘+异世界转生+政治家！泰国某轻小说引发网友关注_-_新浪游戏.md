@@ -21,19 +21,22 @@
 
 [_0_](http://cmnt.sina.cn/index?product=comos&index=fxeuwws3058092&tj_ch=yx)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | games_伪娘+异世界转生+政治家！泰国某轻小说引发网友关注_-_新浪游戏.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1208 bytes                           |
-> | MD5             | 0b72192faaec2b676a97179556c5d41b                                  |
-> | Archived Date   | 2024-11-09 05:40:49                             |
-> | Original Link   | [http://games.sina.cn/pi/gp/2018-10-11/detail-ifxeuwws3058092.d.html](http://games.sina.cn/pi/gp/2018-10-11/detail-ifxeuwws3058092.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -28,19 +28,22 @@
 
 即刻分享你的看法。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_印度金奈任命变性人担任副警察督察开全国先例.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1864 bytes                           |
-> | MD5             | 8e979c6aac48f0351b196bbc5e533dbf                                  |
-> | Archived Date   | 2024-11-02 03:33:44                             |
-> | Original Link   | [https://news.sina.cn/2015-11-06/detail-ifxknivr4221535.d.html?from=wap](https://news.sina.cn/2015-11-06/detail-ifxknivr4221535.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

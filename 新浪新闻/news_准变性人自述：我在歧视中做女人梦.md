@@ -140,19 +140,22 @@
 **看同窗好友,早攻读硕士博士,十五志于学刚登途便知路遥需马力. 想自身思维,拈不清生角旦角,五十天命年仍踟躇方识光阴似飞箭. 不变最好**  
 **2006-04-09**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_准变性人自述：我在歧视中做女人梦.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12803 bytes                           |
-> | MD5             | 7ef98acbc7295e404caf2dd7d85773d7                                  |
-> | Archived Date   | 2024-11-02 05:22:40                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-04-09/detail-ikkntiam6831844.d.html](https://news.sina.cn/sa/2006-04-09/detail-ikkntiam6831844.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

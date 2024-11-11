@@ -111,19 +111,22 @@ Mario Montez也是安迪·沃霍尔工厂培养出的一位明星。他以男扮
 展期：2015.10.30-2016.1.24  
 多伦多电影节Bell Lightbox文化大厦
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | culture_在地下电影和造星工厂，重新发现安迪·沃霍尔_-_读书-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12663 bytes                           |
-> | MD5             | 4e8d9c4d599540a201bc1e8b5a5d5a85                                  |
-> | Archived Date   | 2024-11-09 09:46:21                             |
-> | Original Link   | [http://culture.ifeng.com/a/20151120/46321714_0.shtml](http://culture.ifeng.com/a/20151120/46321714_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

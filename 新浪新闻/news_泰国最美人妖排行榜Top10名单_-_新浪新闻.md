@@ -81,19 +81,22 @@ Poy曾经说道：“从我很小的时候我就很想成为女人，不过在�
 任何人都是平等的  
 **时间**：2015-03-27
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国最美人妖排行榜Top10名单_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5469 bytes                           |
-> | MD5             | 75842b5d46453c170ff5dc22b88e9059                                  |
-> | Archived Date   | 2024-11-09 05:44:22                             |
-> | Original Link   | [http://news.sina.cn/2015-03-27/detail-iavxeafs2850181.d.html](http://news.sina.cn/2015-03-27/detail-iavxeafs2850181.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

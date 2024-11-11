@@ -42,19 +42,22 @@
 变态不是自残的理由，既然如此不满足自己性别，死了吧！  
 **2013-09-11**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_29岁男子变性不遂用剪刀自阉称想做女人(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2930 bytes                           |
-> | MD5             | 914c58042afff461952147131c34eb6e                                  |
-> | Archived Date   | 2024-11-02 06:30:38                             |
-> | Original Link   | [https://news.sina.cn/sa/2013-01-06/detail-ikmxzfmk1700521.d.html](https://news.sina.cn/sa/2013-01-06/detail-ikmxzfmk1700521.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

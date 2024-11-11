@@ -50,19 +50,22 @@
 
 ---
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性女子要价千万美元出售自传书稿(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2407 bytes                           |
-> | MD5             | 71ba9331ef79d777ea5b7e23cbd488d7                                  |
-> | Archived Date   | 2024-11-02 05:32:44                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html](https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -23,19 +23,22 @@
 
 另外，玛丽还计划巡回各地，让其它变性人也可以体验到艺妓文化的优雅和美丽。他强调，“我知道，那是在变性人社群中，很多女士都会喜爱的感觉”。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国防部前职员变性当艺妓[组图].md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2259 bytes                           |
-> | MD5             | 4fbac8b6d31b1c08dc8b12e5cce74c69                                  |
-> | Archived Date   | 2024-11-02 08:26:42                             |
-> | Original Link   | [https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml](https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

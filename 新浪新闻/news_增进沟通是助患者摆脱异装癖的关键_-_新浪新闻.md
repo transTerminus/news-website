@@ -46,19 +46,22 @@
 版权 © 1996-2007 SINA Corporation, All Rights Reserved  
 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_增进沟通是助患者摆脱异装癖的关键_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4844 bytes                           |
-> | MD5             | cf6ffb5abe41e4d35134f0c1c99283c2                                  |
-> | Archived Date   | 2024-11-09 07:48:56                             |
-> | Original Link   | [https://news.sina.com.cn/h/2007-08-16/102613676764.shtml](https://news.sina.com.cn/h/2007-08-16/102613676764.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -30,19 +30,22 @@
 - **gender identity disorder**：性身份障碍，性别紊乱症
 - **endocrinologist**：内分泌学家
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国监狱拒绝为杀妻囚犯提供变性治疗被诉.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3664 bytes                           |
-> | MD5             | 8290cbcf17051b2d1f091fc316c9556e                                  |
-> | Archived Date   | 2024-11-02 08:37:01                             |
-> | Original Link   | [https://news.ifeng.com/world/oddnews/200802/0228_2593_416881.shtml](https://news.ifeng.com/world/oddnews/200802/0228_2593_416881.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

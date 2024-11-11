@@ -23,19 +23,22 @@
 说说你的看法  
 [转发至微博](https://cmnt.sina.cn/index?product=comos&index=kknscsi2168767&tj_ch=news&is_clear=0)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人离婚遇法律空白.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1837 bytes                           |
-> | MD5             | 945ae9617a833cefa89c4e90310a52da                                  |
-> | Archived Date   | 2024-11-02 04:22:34                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html](https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

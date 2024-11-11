@@ -40,21 +40,24 @@ Tony Marchant在采访里提到，现在在英国，凡是有性别认知障碍�
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章来自澎湃新闻，讨论了英国ITV最近推出的电视剧《蝴蝶》(Butterfly)，这是一部聚焦性别认知障碍的家庭剧。故事围绕一位11岁的男孩Max展开，他对自己的性别身份产生了疑虑，希望能够成为女孩。这部剧通过Max的经历，展现了他及其家庭面临的心理挑战和社会压力。文章详细分析了剧本的深度和温暖，描绘了家长对孩子身份认同的挣扎以及社会对跨性别群体的偏见，并引述编剧Tony Marchant对现状的看法和对剧作意图的阐述。此剧不仅向观众呈现了跨性别者的复杂性，也希望能够促进社会对这一群体的理解与接纳。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_《蝴蝶》：看看欧洲TVB在放什么剧.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6251 bytes                           |
-> | MD5             | b214f087bf120f66df1ea0313859c4db                                  |
-> | Archived Date   | 2024-11-03 10:16:29                             |
-> | Original Link   | [https://m.thepaper.cn/yidian_promDetail.jsp?contid=2543439&from=yidian](https://m.thepaper.cn/yidian_promDetail.jsp?contid=2543439&from=yidian)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 英国                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 性别认知, 电视剧, 家庭剧, 社会偏见, 心理健康, 成长故事, Tony Marchant                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

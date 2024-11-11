@@ -74,19 +74,22 @@ Athlete Ally批评了国际泳联的决定，称国际泳联对跨性别运动�
 
 **参考资料:** 所有附带图片均需标注来源。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | interface_国际泳联：限制跨性别运动员参加女子比赛_手机新浪网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6783 bytes                           |
-> | MD5             | d53875cee4da832b69b9a64a4befedf9                                  |
-> | Archived Date   | 2024-11-09 06:33:26                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fchanjing%2Fcyxw%2F2022-06-20%2Fdoc-imizirau9556067.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fchanjing%2Fcyxw%2F2022-06-20%2Fdoc-imizirau9556067.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

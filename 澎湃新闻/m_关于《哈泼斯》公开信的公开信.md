@@ -253,19 +253,22 @@ J.K.罗琳，签名者之一，在推特上喋喋不休地谈论跨性别恐惧�
 
 责任编辑：韩少华
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_关于《哈泼斯》公开信的公开信.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 29652 bytes                           |
-> | MD5             | da4f582778985a96379b89f5e28964f4                                  |
-> | Archived Date   | 2024-11-03 09:45:19                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8313061](https://m.thepaper.cn/newsDetail_forward_8313061)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

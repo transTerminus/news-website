@@ -71,19 +71,22 @@
 **时间**：2015-05-31  
 
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_法媒：阿根廷推性别认定法做变性手术不花钱.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4068 bytes                           |
-> | MD5             | e0e678c549b810e3369391aa15ddd29f                                  |
-> | Archived Date   | 2024-11-02 03:51:50                             |
-> | Original Link   | [https://news.sina.cn/gj/2015-05-31/detail-icczmvup2620915.d.html](https://news.sina.cn/gj/2015-05-31/detail-icczmvup2620915.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

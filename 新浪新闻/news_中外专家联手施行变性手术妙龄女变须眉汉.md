@@ -40,19 +40,22 @@
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中外专家联手施行变性手术妙龄女变须眉汉.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4401 bytes                           |
-> | MD5             | def7139836602e6bdb7ab6288a5d734e                                  |
-> | Archived Date   | 2024-11-02 04:35:38                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-04-13/detail-ikkntiak9802119.d.html?from=wap](https://news.sina.cn/sa/2004-04-13/detail-ikkntiak9802119.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

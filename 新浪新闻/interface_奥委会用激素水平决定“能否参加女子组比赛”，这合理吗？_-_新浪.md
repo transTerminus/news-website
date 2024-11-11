@@ -272,19 +272,22 @@
 16. Questions raised about fairness in Olympics qualification criteria. (2021). Retrieved from [链接](https://www.savewomenssport.com/media-releases/may-7th-2021----questions-raised-about-fairness-in-olympics-qualification-criteria-)
 17. WEIGHTLIFTING AND AGE. (2018). Retrieved from [链接](https://torokhtiy.com/blogs/warm-body-cold-mind/weightlifting-and-age)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | interface_奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 24897 bytes                           |
-> | MD5             | 597744c344bb20f02c9e8c8ab2a3d323                                  |
-> | Archived Date   | 2024-11-09 06:32:00                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-08-06%2Fdoc-ikqcfncc1273700.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-08-06%2Fdoc-ikqcfncc1273700.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

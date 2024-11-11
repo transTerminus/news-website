@@ -69,19 +69,22 @@
 
 （评论内容省略）
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国刑法学“被变性”引争议司法部展开调查.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5650 bytes                           |
-> | MD5             | a965022b8094311c3bf2f5f570c42d5b                                  |
-> | Archived Date   | 2024-11-02 08:22:43                             |
-> | Original Link   | [https://news.ifeng.com/mainland/200906/0604_17_1187459_1.shtml](https://news.ifeng.com/mainland/200906/0604_17_1187459_1.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

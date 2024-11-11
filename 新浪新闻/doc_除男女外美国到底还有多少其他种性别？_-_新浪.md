@@ -71,19 +71,22 @@
 - +1 [最后的某某人](http://weibo.com/u/3873257525)：「自由是好事，但如果泛滥则不可想象」 2014-5-26 14:26
 - +1 [zypd2312](http://weibo.com/u/1459219732)：「楼主高见，深表赞同」 2014-5-26 09:37
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | doc_除男女外美国到底还有多少其他种性别？_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7537 bytes                           |
-> | MD5             | 1ac6dc034d5a9e8bf802c2612aecc8d1                                  |
-> | Archived Date   | 2024-11-09 05:35:18                             |
-> | Original Link   | [http://doc.sina.cn/?id=gsps:42-296-1044](http://doc.sina.cn/?id=gsps:42-296-1044)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

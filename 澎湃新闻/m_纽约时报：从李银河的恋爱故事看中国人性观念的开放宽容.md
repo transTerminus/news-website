@@ -52,19 +52,22 @@
 
 **（编译 葛沁怡 上海外国语大学英国研究中心iChina媒体工作室为报道提供帮助）**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_纽约时报：从李银河的恋爱故事看中国人性观念的开放宽容.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5432 bytes                           |
-> | MD5             | 17bfb48232e7bac6008ef39baf85bd87                                  |
-> | Archived Date   | 2024-11-03 08:48:28                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1309571](https://m.thepaper.cn/newsDetail_forward_1309571)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

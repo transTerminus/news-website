@@ -25,19 +25,22 @@
 
 **版权：** © 2012 SINA Corporation, All Rights Reserved
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_人妖表演，欲将国人艺术品位引向何方_-_新浪新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2798 bytes                           |
-> | MD5             | 0f5bb9c79274168c05a05554a1dd2126                                  |
-> | Archived Date   | 2024-11-09 07:49:44                             |
-> | Original Link   | [https://news.sina.com.cn/o/2012-10-13/005425348198.shtml](https://news.sina.com.cn/o/2012-10-13/005425348198.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -17,19 +17,22 @@
 Copyright © 1996 - 2018 SINA Corporation, All Rights Reserved  
 新浪公司版权所有
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | gd_“药娘”拿激素当糖吃：不吃我会抑郁_-_新浪广东.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 780 bytes                           |
-> | MD5             | 6166c408ce6bdb19c5f933bc1cebef90                                  |
-> | Archived Date   | 2024-11-09 05:41:46                             |
-> | Original Link   | [http://gd.sina.com.cn/news/2018-08-16/detail-ihhvciiv8858410.shtml](http://gd.sina.com.cn/news/2018-08-16/detail-ihhvciiv8858410.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

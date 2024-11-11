@@ -53,19 +53,22 @@
 ### 评论
 [已有0位凤凰网友参与评论]
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4687 bytes                           |
-> | MD5             | 4204ae07d7ecc21a9953135b5cf7548c                                  |
-> | Archived Date   | 2024-11-02 08:32:56                             |
-> | Original Link   | [https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml](https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

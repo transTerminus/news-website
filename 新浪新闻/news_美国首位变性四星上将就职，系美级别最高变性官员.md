@@ -51,19 +51,22 @@
 
 **标签**：#变性四星上将 #蕾切尔·莱文 #美国公共卫生服务 #政治配额 #新冠疫情处理
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国首位变性四星上将就职，系美级别最高变性官员.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2267 bytes                           |
-> | MD5             | 3a073cb58905647457ab1d8bb14b40ac                                  |
-> | Archived Date   | 2024-11-02 04:05:15                             |
-> | Original Link   | [https://news.sina.cn/gj/2021-10-21/detail-iktzscyy0847706.d.html](https://news.sina.cn/gj/2021-10-21/detail-iktzscyy0847706.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

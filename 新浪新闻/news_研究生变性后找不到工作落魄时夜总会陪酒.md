@@ -108,19 +108,22 @@
 **这本来就是一种心理病态，还想别人正常地看待你？**  
 **时间：2012-03-22**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_研究生变性后找不到工作落魄时夜总会陪酒.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 11888 bytes                           |
-> | MD5             | 0f632e1f15b32251b9414e77d3309624                                  |
-> | Archived Date   | 2024-11-02 06:27:41                             |
-> | Original Link   | [https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html](https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -65,19 +65,22 @@
 
 **版权声明**: 本文章版权归凤凰网所有，未经授权，不得转载
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_上海52岁男子做变性手术成女人盼按女性身份退休.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7280 bytes                           |
-> | MD5             | 3a496aade1e975293e095002da9d5fef                                  |
-> | Archived Date   | 2024-11-02 07:57:17                             |
-> | Original Link   | [https://news.ifeng.com/c/7fb6q05pZiu](https://news.ifeng.com/c/7fb6q05pZiu)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

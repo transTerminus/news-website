@@ -96,19 +96,22 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性手术20年合法路.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 15716 bytes                           |
-> | MD5             | 0a373fa4f4272ea7e92cbf9189dae6fa                                  |
-> | Archived Date   | 2024-11-02 06:08:05                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-08-28/detail-ikftssap3189440.d.html](https://news.sina.cn/sa/2009-08-28/detail-ikftssap3189440.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

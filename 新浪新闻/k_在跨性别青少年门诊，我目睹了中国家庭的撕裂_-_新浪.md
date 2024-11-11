@@ -508,19 +508,22 @@ _![](https://n.sinaimg.cn/sinakd10201/360/w180h180/20200407/e50c-irtymmw7775468.
 
 **发布于：浙江**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | k_在跨性别青少年门诊，我目睹了中国家庭的撕裂_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 26381 bytes                           |
-> | MD5             | 22c152ae37343ea01922929d1e0bcf4b                                  |
-> | Archived Date   | 2024-11-09 06:53:00                             |
-> | Original Link   | [https://k.sina.cn/article_5734996980_155d51bf40190131fn.html?from=mood](https://k.sina.cn/article_5734996980_155d51bf40190131fn.html?from=mood)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

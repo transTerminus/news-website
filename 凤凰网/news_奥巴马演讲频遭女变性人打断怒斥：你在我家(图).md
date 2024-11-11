@@ -39,19 +39,22 @@
 
 **标签：** [奥巴马](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A5%A5%E5%B7%B4%E9%A9%AC) [古铁雷斯](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%A4%E9%93%81%E9%9B%B7%E6%96%AF) [白宫](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%99%BD%E5%AE%AB)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_奥巴马演讲频遭女变性人打断怒斥：你在我家(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3714 bytes                           |
-> | MD5             | 77311fdc9405fb0690b17066f99aaeee                                  |
-> | Archived Date   | 2024-11-02 07:34:03                             |
-> | Original Link   | [https://news.ifeng.com/a/20150626/44044902_0.shtml](https://news.ifeng.com/a/20150626/44044902_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

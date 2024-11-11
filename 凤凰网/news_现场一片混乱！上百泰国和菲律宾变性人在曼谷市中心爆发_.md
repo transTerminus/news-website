@@ -23,19 +23,22 @@
 
 目前，泰国警方已经拘留了主要闹事者，并再度强调处置会公平公正、公开透明。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_现场一片混乱！上百泰国和菲律宾变性人在曼谷市中心爆发_.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2215 bytes                           |
-> | MD5             | e2f317af8a5728b63b88f2705e278b92                                  |
-> | Archived Date   | 2024-11-02 08:19:16                             |
-> | Original Link   | [https://news.ifeng.com/c/8XjVpZOFdgX](https://news.ifeng.com/c/8XjVpZOFdgX)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

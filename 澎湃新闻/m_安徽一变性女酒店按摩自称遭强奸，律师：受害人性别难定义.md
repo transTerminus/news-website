@@ -37,19 +37,22 @@
 
 那么，这种情况算不算强奸？有民警认为，因为刑法“强奸罪”的司法解释中，关于强奸案的受害者群体是“妇女”，“该案中受害人是变性人身份，是否属于‘妇女’范畴，还有待探讨。”采访中，也有民警认为，如果小芳说的属实，这种行为则属于强奸。据悉，目前办案单位还在就此事进行进一步调查。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_安徽一变性女酒店按摩自称遭强奸，律师：受害人性别难定义.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3599 bytes                           |
-> | MD5             | 7b7b77ce8e5eaf9583a5ea70f7f69652                                  |
-> | Archived Date   | 2024-11-03 09:03:32                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1483533?hotComm=true](https://m.thepaper.cn/newsDetail_forward_1483533?hotComm=true)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

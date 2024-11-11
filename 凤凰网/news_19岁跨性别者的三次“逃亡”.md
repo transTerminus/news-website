@@ -39,19 +39,22 @@
 
 如需进一步了解，您可以访问 [凤凰网视频](http://v.ifeng.com/#_v_mininav_logo_pc)。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_19岁跨性别者的三次“逃亡”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1423 bytes                           |
-> | MD5             | bf1bab7b30919378f5a6b2321314ac96                                  |
-> | Archived Date   | 2024-11-09 10:37:11                             |
-> | Original Link   | [https://news.ifeng.com/c/7xjTkFyStMG](https://news.ifeng.com/c/7xjTkFyStMG)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

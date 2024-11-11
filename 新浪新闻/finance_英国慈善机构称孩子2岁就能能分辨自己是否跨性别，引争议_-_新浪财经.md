@@ -54,19 +54,22 @@
 
 文章关键词：[英国](http://tags.finance.sina.com.cn/英国)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_英国慈善机构称孩子2岁就能能分辨自己是否跨性别，引争议_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 4389 bytes                           |
-> | MD5             | 1b087a4ecc7624066d4316601cfeaf06                                  |
-> | Archived Date   | 2024-11-09 06:21:15                             |
-> | Original Link   | [https://finance.sina.com.cn/chanjing/cyxw/2022-07-25/doc-imizirav5368774.shtml](https://finance.sina.com.cn/chanjing/cyxw/2022-07-25/doc-imizirav5368774.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

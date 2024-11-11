@@ -31,19 +31,22 @@
 
 昨日，在云南赛区决赛中，林青取得了前10名的好成绩，并获得“最受关注奖”，但由于云南赛区只有冠、亚军才能参加在北京进行的总决赛，因此林青无缘总决赛。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性后参加CCTV模特大赛遭质疑(组图)_资讯.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2910 bytes                           |
-> | MD5             | 3039b8cb85835d689024bc90a4292138                                  |
-> | Archived Date   | 2024-11-02 08:28:58                             |
-> | Original Link   | [https://news.ifeng.com/society/2/200809/0911_344_779109.shtml](https://news.ifeng.com/society/2/200809/0911_344_779109.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

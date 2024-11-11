@@ -256,19 +256,22 @@ Copyright © 1996-2024 SINA Corporation
 
 All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_遭电击治疗，一位跨性别者决定起诉_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 24974 bytes                           |
-> | MD5             | 6c05e330d9daf5ff21f15c816815be24                                  |
-> | Archived Date   | 2024-11-09 06:23:40                             |
-> | Original Link   | [https://finance.sina.com.cn/jjxw/2024-09-24/doc-incqfhau9380637.shtml](https://finance.sina.com.cn/jjxw/2024-09-24/doc-incqfhau9380637.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

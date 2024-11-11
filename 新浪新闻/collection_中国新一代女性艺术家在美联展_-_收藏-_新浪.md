@@ -181,19 +181,22 @@ _来源：新浪收藏_
 **来源：** 99艺术网  
 **作者：** 魏娜
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | collection_中国新一代女性艺术家在美联展_-_收藏-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 15765 bytes                           |
-> | MD5             | 9c034da033679c9b539707a8cdeac50f                                  |
-> | Archived Date   | 2024-11-09 06:13:18                             |
-> | Original Link   | [https://collection.sina.cn/youdiao/2016-08-30/detail-ifxvixer7450765.d.html](https://collection.sina.cn/youdiao/2016-08-30/detail-ifxvixer7450765.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

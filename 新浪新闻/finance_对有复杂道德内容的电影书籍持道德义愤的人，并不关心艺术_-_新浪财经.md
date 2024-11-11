@@ -38,19 +38,22 @@
 
 《划清界限？：如何对待失德艺术家的作品》，\[美国\]埃里克·豪陶洛·马瑟斯著，郭硕博译，译林出版社2024年8月。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_对有复杂道德内容的电影书籍持道德义愤的人，并不关心艺术_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 18253 bytes                           |
-> | MD5             | de0b8296d9374f38de8aee035ef4caca                                  |
-> | Archived Date   | 2024-11-09 06:22:49                             |
-> | Original Link   | [https://finance.sina.com.cn/jjxw/2024-09-04/doc-incmykkm9423220.shtml](https://finance.sina.com.cn/jjxw/2024-09-04/doc-incmykkm9423220.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

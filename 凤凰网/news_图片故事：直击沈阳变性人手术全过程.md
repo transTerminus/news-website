@@ -17,19 +17,22 @@
 
 版权：凤凰新媒体版权所有，未经授权不得转载。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_图片故事：直击沈阳变性人手术全过程.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1049 bytes                           |
-> | MD5             | 48bdcfabbb3f3c52305935563d09daa5                                  |
-> | Archived Date   | 2024-11-02 08:24:11                             |
-> | Original Link   | [https://news.ifeng.com/photo/200612/1213_24_47782.shtml](https://news.ifeng.com/photo/200612/1213_24_47782.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

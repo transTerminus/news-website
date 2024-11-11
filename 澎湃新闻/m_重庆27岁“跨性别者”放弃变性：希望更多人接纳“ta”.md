@@ -9,19 +9,22 @@
 
 **来源：** 七环视频
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_重庆27岁“跨性别者”放弃变性：希望更多人接纳“ta”.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 499 bytes                           |
-> | MD5             | 9a28e13bd879e79178b4143f1e268ab4                                  |
-> | Archived Date   | 2024-11-10 22:22:21                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9541010](https://m.thepaper.cn/newsDetail_forward_9541010)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

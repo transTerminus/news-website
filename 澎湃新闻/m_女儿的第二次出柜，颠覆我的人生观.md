@@ -297,19 +297,22 @@
 **原标题：** 《女儿的第二次出柜，颠覆我的人生观》  
 **特别声明：** 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[澎湃号](https://renzheng.thepaper.cn)。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_女儿的第二次出柜，颠覆我的人生观.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 26056 bytes                           |
-> | MD5             | 816866301e1dfa59f69d525b76679d07                                  |
-> | Archived Date   | 2024-11-03 09:37:10                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5221979](https://m.thepaper.cn/newsDetail_forward_5221979)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

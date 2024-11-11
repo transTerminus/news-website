@@ -69,19 +69,22 @@
 
 **[立即加入讨论](javascript:void(0))**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_两变性人被疑并非恋人两人可能为医院代言(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 6636 bytes                           |
-> | MD5             | 38d21b5b7b5f1ec34280f1d022f30342                                  |
-> | Archived Date   | 2024-11-02 05:32:05                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-28/detail-ikftssap2652020.d.html](https://news.sina.cn/sa/2006-06-28/detail-ikftssap2652020.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

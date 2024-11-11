@@ -23,19 +23,22 @@
 
 **标签**: #变性后与妻子成姐妹#
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国一男子变性后与妻子成好姐妹.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 965 bytes                           |
-> | MD5             | c0f191ed812fc4765c779d1c1bf51f4a                                  |
-> | Archived Date   | 2024-11-02 03:35:26                             |
-> | Original Link   | [https://news.sina.cn/2016-02-02/detail-ifxnzanh0604105.d.html](https://news.sina.cn/2016-02-02/detail-ifxnzanh0604105.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

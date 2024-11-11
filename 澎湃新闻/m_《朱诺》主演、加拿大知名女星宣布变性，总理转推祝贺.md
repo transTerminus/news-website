@@ -70,21 +70,24 @@ Elliot在杰森·瑞特曼（Jason Reitman）的电影《朱诺（Juno）》（2
 
 **原标题**: 《《朱诺》主演、加拿大知名女星宣布变性，总理转推祝贺**
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了加拿大著名女演员艾伦·佩吉（现在名为Elliot Page）宣布自己为跨性别者，并改用新名字和代词的消息。这一公告是在社交媒体上发布，Elliot表达了自己的自我认同，感谢支持他的人，并希望能够帮助其他跨性别者。他还提及跨性别社群面临的险恶现状，强调对歧视和暴力的不满。同时，加拿大总理特鲁多和其他名人对Elliot的勇气表示支持，称他是无数跨性别者的领头人，并表达了对改善跨性别者生活的支持。文末还介绍了Elliot的生平与演艺事业，强调他曾因电影《朱诺》而广为人知，并在此后续写演艺生涯的辉煌。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_《朱诺》主演、加拿大知名女星宣布变性，总理转推祝贺.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8872 bytes                           |
-> | MD5             | 5764ef1f030956eb0c2689163332dade                                  |
-> | Archived Date   | 2024-11-03 08:40:21                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10246535](https://m.thepaper.cn/newsDetail_forward_10246535)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 吴怡逍 王佑民                               |
+> | Region          | 加拿大                               |
+> | Date            | 2020-12-01                                 |
+> | Tags            | 跨性别, 艾伦·佩吉, Elliot Page, 社会支持, 性别认同, 人权运动, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

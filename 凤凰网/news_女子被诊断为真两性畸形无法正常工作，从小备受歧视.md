@@ -13,19 +13,22 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 下载客户端独家抢先看  
 中国关怀，全球视野，我们独立而负责任
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_女子被诊断为真两性畸形无法正常工作，从小备受歧视.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1030 bytes                           |
-> | MD5             | 7472e093e8dff44af58243169a35c902                                  |
-> | Archived Date   | 2024-11-09 10:38:13                             |
-> | Original Link   | [https://news.ifeng.com/c/8S8c8VLzXs9](https://news.ifeng.com/c/8S8c8VLzXs9)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

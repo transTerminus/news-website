@@ -249,19 +249,22 @@ CS OL－崔智云
 Copyright © 1996 - 2014 SINA Corporation, All Rights Reserved  
 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | games_快男伪娘引爆娘时代细数游戏中的伪娘子_-_新浪游戏.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12975 bytes                           |
-> | MD5             | 6a9d85e6ecad7fe023a71d0fa2658cab                                  |
-> | Archived Date   | 2024-11-09 05:41:12                             |
-> | Original Link   | [http://games.sina.com.cn/zt/weiniang2010/index.shtml](http://games.sina.com.cn/zt/weiniang2010/index.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

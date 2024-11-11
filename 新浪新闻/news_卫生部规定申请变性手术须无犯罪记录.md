@@ -24,19 +24,22 @@
 **标签：** [变性手术](#)  
 **来源：** 新浪新闻
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_卫生部规定申请变性手术须无犯罪记录.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1750 bytes                           |
-> | MD5             | c9ca7610144447851dd9293f2dfabaca                                  |
-> | Archived Date   | 2024-11-02 06:11:18                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-12-16/detail-ikftssap3237978.d.html](https://news.sina.cn/sa/2009-12-16/detail-ikftssap3237978.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

@@ -34,19 +34,22 @@ Copyright © 1996-2016 SINA Corporation, All Rights Reserved
 
 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | doc_《守望先锋》男英雄性转同人_-_新浪.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1532 bytes                           |
-> | MD5             | f75c0f42cf74a3a3596a039b117b7489                                  |
-> | Archived Date   | 2024-11-09 05:31:35                             |
-> | Original Link   | [http://doc.sina.cn/?id=comos:fyarmcu6039813](http://doc.sina.cn/?id=comos:fyarmcu6039813)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

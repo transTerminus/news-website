@@ -53,19 +53,22 @@
 热点资讯 精彩视频抢先看 5.0分好评  
 免费 / 绿色应用 / 优质
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_香港将提供变性手术一条龙服务(图).md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3305 bytes                           |
-> | MD5             | d1eac37a883c83605d8ef12d415bc1f3                                  |
-> | Archived Date   | 2024-11-02 06:31:16                             |
-> | Original Link   | [https://news.sina.cn/sa/2013-09-27/detail-ikmxzfmk2495610.d.html](https://news.sina.cn/sa/2013-09-27/detail-ikmxzfmk2495610.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

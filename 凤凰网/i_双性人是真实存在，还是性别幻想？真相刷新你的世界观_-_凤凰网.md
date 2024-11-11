@@ -86,19 +86,22 @@ PS：卵睾是指同一性腺中兼有睾丸和卵巢组织，是真两性畸形
 
 **特别声明：** 以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | i_双性人是真实存在，还是性别幻想？真相刷新你的世界观_-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5899 bytes                           |
-> | MD5             | 3585010019d399de40dfff391ad0ed07                                  |
-> | Archived Date   | 2024-11-09 10:23:53                             |
-> | Original Link   | [https://i.ifeng.com/c/8Cc7AhietnM](https://i.ifeng.com/c/8Cc7AhietnM)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

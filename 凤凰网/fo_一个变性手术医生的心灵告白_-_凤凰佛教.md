@@ -23,19 +23,22 @@
 
 ![帕苏帕蒂那寺](http://imgco.ifeng.com/tres/fojiao/0108g06.jpg)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | fo_一个变性手术医生的心灵告白_-_凤凰佛教.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 3872 bytes                           |
-> | MD5             | 52bfd270bc8dc6439e6a433789c813b3                                  |
-> | Archived Date   | 2024-11-09 10:18:19                             |
-> | Original Link   | [https://fo.ifeng.com/zhongsheng/200808/0812_42_51154.shtml](https://fo.ifeng.com/zhongsheng/200808/0812_42_51154.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

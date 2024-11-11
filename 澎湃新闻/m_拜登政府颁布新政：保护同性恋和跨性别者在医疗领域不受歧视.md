@@ -17,19 +17,22 @@
 **标签**：跨性别, LGBTQ, 健康政策, 拜登政府  
 **版权**：© 2023 相关媒体版权所有  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1773 bytes                           |
-> | MD5             | 74412782ed88d193f5e3aea0ed9ce8d2                                  |
-> | Archived Date   | 2024-11-10 22:00:55                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_12605520](https://m.thepaper.cn/newsDetail_forward_12605520)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

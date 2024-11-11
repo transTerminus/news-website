@@ -30,19 +30,22 @@
 
 转发至微博
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_保加里亚男子变性成妖艳女子变性后不用蹲牢.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2192 bytes                           |
-> | MD5             | 5f7d2809f75dd42254596f5306625690                                  |
-> | Archived Date   | 2024-11-02 05:06:20                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4144801.d.html](https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4144801.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

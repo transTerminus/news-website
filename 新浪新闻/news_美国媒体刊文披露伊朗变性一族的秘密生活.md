@@ -54,19 +54,22 @@
 
 **作者：** 新浪新闻官方
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国媒体刊文披露伊朗变性一族的秘密生活.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5541 bytes                           |
-> | MD5             | 146b93c1738198aaa10f8d964d1b9ed3                                  |
-> | Archived Date   | 2024-11-02 04:57:28                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-01-25/detail-ikknscsi5634736.d.html?from=wap](https://news.sina.cn/sa/2005-01-25/detail-ikknscsi5634736.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

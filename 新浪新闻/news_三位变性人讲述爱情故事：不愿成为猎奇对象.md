@@ -86,19 +86,22 @@
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_三位变性人讲述爱情故事：不愿成为猎奇对象.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 9573 bytes                           |
-> | MD5             | 01af1935398db911f6f8fc2f0e460024                                  |
-> | Archived Date   | 2024-11-02 05:27:43                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-01/detail-ikftssap2625271.d.html](https://news.sina.cn/sa/2006-06-01/detail-ikftssap2625271.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

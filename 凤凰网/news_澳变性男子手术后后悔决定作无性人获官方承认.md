@@ -18,19 +18,22 @@
 
 **编辑**: 汪敏
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_澳变性男子手术后后悔决定作无性人获官方承认.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 901 bytes                           |
-> | MD5             | 344b0ba52d890cb6fd530010d56d78cd                                  |
-> | Archived Date   | 2024-11-02 08:36:17                             |
-> | Original Link   | [https://news.ifeng.com/world/201003/0316_16_1577161.shtml](https://news.ifeng.com/world/201003/0316_16_1577161.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

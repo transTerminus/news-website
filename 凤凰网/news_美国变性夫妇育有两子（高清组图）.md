@@ -16,19 +16,22 @@
 
 **版权**：凤凰新媒体 版权所有  Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国变性夫妇育有两子（高清组图）.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1904 bytes                           |
-> | MD5             | 9204a10dc399cc94114666f958bd470d                                  |
-> | Archived Date   | 2024-11-02 07:00:29                             |
-> | Original Link   | [https://news.ifeng.com/a/20140812/41537072_2.shtml](https://news.ifeng.com/a/20140812/41537072_2.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

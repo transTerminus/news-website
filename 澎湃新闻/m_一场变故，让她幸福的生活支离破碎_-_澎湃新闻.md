@@ -70,21 +70,24 @@
 **特别声明**  
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问 [https://renzheng.thepaper.cn](https://renzheng.thepaper.cn)。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讲述了一位名叫小刘的95后女孩的真实故事，她在即将订婚之际，通过妇科检查发现自己其实是双性人，这一发现彻底改变了她的生活轨迹。小刘从小就因为学习差而早早步入社会，生活中经历了一段美好的爱情，然而在即将步入婚姻时，她因为担心未来的生育问题而去医院检查。检查结果显示她的染色体核型为46XY，且没有子宫和卵巢，最终被诊断为“男性假两性畸形”。本文详细解释了双性人和两性畸形的医学知识，包括其发生的机制与分类，然而小刘的故事更是反映了这一群体所面临的社会压力与心理挑战。全文不仅提供了医学背景知识，也引发大众对这一话题的关注与理解，呼吁对双性人的关怀与尊重。
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_一场变故，让她幸福的生活支离破碎_-_澎湃新闻.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 5127 bytes                           |
-> | MD5             | b383422efe23633b4b2c9b62175d14dc                                  |
-> | Archived Date   | 2024-11-10 22:21:14                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8621110](https://m.thepaper.cn/newsDetail_forward_8621110)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | 澎湃号自由撰稿人                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 双性人, 性别畸形, 医学知识, 心理压力, 社会关怀, 生命故事, 爱情故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

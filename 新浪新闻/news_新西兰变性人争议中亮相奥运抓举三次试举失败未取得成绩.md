@@ -44,19 +44,22 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_新西兰变性人争议中亮相奥运抓举三次试举失败未取得成绩.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2729 bytes                           |
-> | MD5             | 9d11c7fe44f4fc8826616a1102b1f8b7                                  |
-> | Archived Date   | 2024-11-02 04:04:39                             |
-> | Original Link   | [https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap](https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

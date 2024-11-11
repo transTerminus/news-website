@@ -127,19 +127,22 @@ Ad Astra的课程以人工智能、编码和应用科学为主。该校校长乔
 
 原标题：《深度 | 马斯克大儿子申请变性改名 拒与父亲有任何关系》
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_马斯克大儿子申请变性改名，拒与父亲有任何关系.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 12977 bytes                           |
-> | MD5             | 3f2ac64d65c54bf483bb87448244c684                                  |
-> | Archived Date   | 2024-11-03 09:14:01                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18684920](https://m.thepaper.cn/newsDetail_forward_18684920)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

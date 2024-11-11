@@ -6,19 +6,22 @@
 
 责任编辑：储静伟
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别者告原单位案将二审：疑因变性被辞.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 428 bytes                           |
-> | MD5             | db8f519268274f5d0abddffede3b79ef                                  |
-> | Archived Date   | 2024-11-03 09:42:18                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7581353](https://m.thepaper.cn/newsDetail_forward_7581353)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

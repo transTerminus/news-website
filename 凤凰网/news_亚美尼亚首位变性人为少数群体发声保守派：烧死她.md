@@ -16,19 +16,22 @@
 
 [查看全部评论>>](//gentie.ifeng.com/c/comment/7mEw4vOFx4q)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_亚美尼亚首位变性人为少数群体发声保守派：烧死她.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1131 bytes                           |
-> | MD5             | abdb9d9049c4bf97e92c6fd16608e940                                  |
-> | Archived Date   | 2024-11-02 08:02:04                             |
-> | Original Link   | [https://news.ifeng.com/c/7mEw4vOFx4q](https://news.ifeng.com/c/7mEw4vOFx4q)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

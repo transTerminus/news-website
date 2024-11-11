@@ -29,19 +29,22 @@
 
 **标签**: 健康, 政策, 变性
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_丹麦修改疾病指南“想变性”不再是病.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1589 bytes                           |
-> | MD5             | 307395d6966b1b90f3135c1ec2c56e7e                                  |
-> | Archived Date   | 2024-11-02 03:55:19                             |
-> | Original Link   | [https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html](https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

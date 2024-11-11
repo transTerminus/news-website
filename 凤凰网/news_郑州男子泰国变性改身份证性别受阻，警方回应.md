@@ -11,19 +11,22 @@
 
 Notice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services.”
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_郑州男子泰国变性改身份证性别受阻，警方回应.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 788 bytes                           |
-> | MD5             | f88e3f676b50aaf88239a0eda62fc7e5                                  |
-> | Archived Date   | 2024-11-02 08:07:37                             |
-> | Original Link   | [https://news.ifeng.com/c/7vX52bsGnLP](https://news.ifeng.com/c/7vX52bsGnLP)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

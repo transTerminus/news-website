@@ -76,19 +76,22 @@
 
 **免责声明**：本文仅代表作者个人观点，与凤凰网无关。其原创性以及文中陈述文字和内容未经本站证实，对本文以及其中全部或者部分内容、文字的真实性、完整性、及时性本站不作任何保证或承诺，请读者仅作参考，并请自行核实相关内容。
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | fashion_新婚夫妻相约一起变性变性真如想象般美好吗_-_时尚-_凤凰网.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 8980 bytes                           |
-> | MD5             | 1ee05160154ed36a82bb2afdd0ba6136                                  |
-> | Archived Date   | 2024-11-09 10:14:38                             |
-> | Original Link   | [https://fashion.ifeng.com/health/yiyao/chanjing/detail_2012_08/14/16792063_0.shtml](https://fashion.ifeng.com/health/yiyao/chanjing/detail_2012_08/14/16792063_0.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

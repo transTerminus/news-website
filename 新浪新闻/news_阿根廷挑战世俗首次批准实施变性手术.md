@@ -27,19 +27,22 @@ ___
 5.0分好评  
 免费 / 绿色应用 / 优质  
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_阿根廷挑战世俗首次批准实施变性手术.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 1946 bytes                           |
-> | MD5             | c3995d2241cb5a40cf773d4c6a666b68                                  |
-> | Archived Date   | 2024-11-02 04:59:12                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-04-24/detail-ikknscsi6487970.d.html](https://news.sina.cn/sa/2005-04-24/detail-ikknscsi6487970.d.html)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

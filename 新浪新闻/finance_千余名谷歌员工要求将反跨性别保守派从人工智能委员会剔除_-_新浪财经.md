@@ -70,19 +70,22 @@ LGBTQ指性少数群体，即女同性恋者、男同性恋者、双性恋者、
 Copyright © 1996-2019 SINA Corporation 
 All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | finance_千余名谷歌员工要求将反跨性别保守派从人工智能委员会剔除_-_新浪财经.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 7662 bytes                           |
-> | MD5             | d066ef4abad509d7e1bc219d36b7e3b3                                  |
-> | Archived Date   | 2024-11-09 06:24:25                             |
-> | Original Link   | [https://finance.sina.com.cn/roll/2019-04-02/doc-ihsxncvh7575628.shtml](https://finance.sina.com.cn/roll/2019-04-02/doc-ihsxncvh7575628.shtml)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >

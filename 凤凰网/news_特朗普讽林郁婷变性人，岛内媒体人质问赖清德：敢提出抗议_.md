@@ -29,19 +29,22 @@
 
 [查看全部评论>>](//gentie.ifeng.com/c/comment/8cAyW68n3Aj)
 
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
 > 附加信息 [Processed Page Metadata]
 >
 > | Attribute       | Value                                  |
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普讽林郁婷变性人，岛内媒体人质问赖清德：敢提出抗议_.md                             |
-> | Type            | webpage                                 |
-> | Format          | Markdown                               |
 > | Size            | 2254 bytes                           |
-> | MD5             | a1a11b405eb6f353e0ef09fb98e72b8e                                  |
-> | Archived Date   | 2024-11-02 08:21:03                             |
-> | Original Link   | [https://news.ifeng.com/c/8cAyW68n3Aj](https://news.ifeng.com/c/8cAyW68n3Aj)                         |
-> | Author          | [Unknown author(update needed)]                              |
-> | Region          | [Unknown region(update needed)]                              |
+> | Archived Date   | [Unknown archived date(update needed)]                             |
+> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Author          | [Unknown author(update needed)]                               |
+> | Region          | [Unknown region(update needed)]                               |
 > | Date            | [Unknown date(update needed)]                                 |
 > | Tags            | [Unknown tags(update needed)]                                 |
 >
