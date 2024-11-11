@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了2019年泰国征兵筛选活动中，一位变性选美皇后帕努蓬的故事。文章详细描述了泰国法律规定，所有出生时为男性的公民在年满21岁后必须参加征兵，而已经完成变性手术的变性人可以免除服役。帕努蓬在众多变性人选美比赛中表现出色，目前就读于戏剧艺术学院，并在征兵现场展示了她的漂亮妆容，成为了全场的焦点。她参与征兵筛选旨在履行作为“泰国男儿”的责任，同时也借此机会表明自己已无论身心都已是女性，并携带相关医疗证明以支持自我认同。此事件还引起了公众的讨论，对变性人在征兵过程中的特殊待遇及法律规定进行了深刻的反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -66,12 +66,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰变性选美皇后参加征兵筛选妆容精致成焦点(图).md                             |
 > | Size            | 3578 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:59:32                             |
+> | Original Link   | [https://news.sina.cn/gj/2019-04-02/detail-ihtxyzsm2620398.d.html?vt=4](https://news.sina.cn/gj/2019-04-02/detail-ihtxyzsm2620398.d.html?vt=4)                       |
+> | Author          | 海外网                               |
+> | Region          | 泰国                               |
+> | Date            | 2019-04-02                                 |
+> | Tags            | 变性人, 征兵筛选, 社会法律, 性别认同, 泰国文化, 跨性别权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -99,7 +99,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自澎湃新闻，报道了北京一名新娘张女士向法院递交诉讼，要求确认其与丈夫刘先生的婚姻登记无效。由于在婚后发现丈夫没有男性特征且无男性器官，张女士认为在婚前刘先生隐瞒了自身曾被诊断为两性畸形的事实，且其身份信息曾由女性变更为男性。此事引发了法律专家对婚姻无效情形的讨论，律师熊麒解释了确认婚姻无效的法律依据，同时指出医疗限制以及婚前检查的重要性。此案件在法律上具有一定的复杂性，因涉及性别认定、医疗条件及婚姻法的适用。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -108,12 +108,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_法治课｜北京一新娘诉丈夫无男性器官，这桩婚姻能否认定无效.md                             |
 > | Size            | 6502 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:29:47                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=1694661&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=1694661&from=wifiKey)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-05-26                                 |
+> | Tags            | 跨性别, 婚姻法, 医疗资源, 法律政策, 社会环境, 社会议题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

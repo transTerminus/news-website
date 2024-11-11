@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了印度成立了一个针对变性人、去势者和第三性别者的婚姻网站，名为“Thirunangai”。该网站的创建意在帮助“海吉拉斯”群体（意指变性人、去势者等）找对象，以帮助他们从社会的边缘回归主流。文章详细描述了变性人在印度的社会处境，很多人在社会的耻辱感驱动下放弃教育，甚至以乞讨为生。网站的创建者卡尔基·苏巴拉尼亚，一位变性者，表达了希望通过该平台促成真正的婚姻，并改善对“海吉拉斯”群体的社会态度的愿望。文章指出，尽管社会存在挑战，但印度人在对待变性人的态度上正发生变化，引用了历史背景和其他国家的例子作为对比。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -35,12 +35,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_印度第三性婚姻网站帮变性人、去势者、人妖找对象.md                             |
 > | Size            | 3249 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:10:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-11-12/detail-ikmyaawa2293442.d.html](https://news.sina.cn/sa/2009-11-12/detail-ikmyaawa2293442.d.html)                       |
+> | Author          | 国际在线                               |
+> | Region          | 印度                               |
+> | Date            | 2009-11-12                                 |
+> | Tags            | 跨性别, 婚姻网站, 海吉拉斯, 印度, 社会变迁, 人权, 性别身份                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

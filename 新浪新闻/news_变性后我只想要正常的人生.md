@@ -134,7 +134,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了名为百合的变性人经历，最初的生活背景与成长过程，及其变性手术后的生活和心理状态。百合在十几岁时便感到与自身性别的不符，在与家人产生矛盾后，选择通过手术来改变性别。文章细腻地描绘了她变性后的生活——在社会中艰难求生，她虽然能够被称为女性，却也面临着诸多挑战和社会偏见；与此同时，百合渴望一种正常的、和谐美好的生活，但现实中的困境与孤独让她感到无奈。尽管经历混乱，但她对自己变性并不后悔，认为能去女厕是她最大的快乐之一。采访也提出了对变性手术随意性的反思，揭示了我国对于变性人的法律和社会的理解尚显不足。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -143,12 +143,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性后我只想要正常的人生.md                             |
 > | Size            | 9809 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:21:58                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-03-23/detail-ikkntiam6706625.d.html](https://news.sina.cn/sa/2006-03-23/detail-ikkntiam6706625.d.html)                       |
+> | Author          | 林洁，彭文怡                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-03-23                                 |
+> | Tags            | 变性人, 生存现状, 生命故事, 心理状态, 社会问题, 法律政策, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

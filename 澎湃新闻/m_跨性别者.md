@@ -77,7 +77,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档汇集了一系列关于跨性别者的报道和故事，主要包括跨性别者在社会、法律及医疗领域中的经历与挑战。第一部分讲述了一位跨性别者因遭受电击治疗而决定提起诉讼的案例，反映了跨性别者面临的医疗暴力问题。第二部分聚焦于美国历史上首位跨性别四星上将的任命，展示了军队在性别身份方面所做出的努力及社会对性别多元化的期待。接下来的报道涉及网飞节目涉嫌歧视跨性别者的抗议行动，以及一起涉及跨性别男性的性侵事件，反映了社会对跨性别者的争议和法律保护的不足。此外，文件还探讨了一位38岁父亲决定转变性别的生活故事，以及荷兰政府对被迫绝育的跨性别者的赔偿问题，展示了国家政策与个人经历之间的矛盾。最后，记录了关于跨性别者生存现状的真实案例与对社会接纳的期望。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -86,12 +86,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别者.md                             |
 > | Size            | 3120 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:56:35                             |
+> | Original Link   | [https://m.thepaper.cn/tag/78589](https://m.thepaper.cn/tag/78589)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 2024-09-24                                 |
+> | Tags            | 跨性别者, 医疗暴力, 法律与政策, 社会抗议, 生存现状, 性别认同, 转性经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

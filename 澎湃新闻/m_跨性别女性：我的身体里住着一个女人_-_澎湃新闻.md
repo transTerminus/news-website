@@ -85,7 +85,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文探讨了跨性别女性的心理健康问题和社会环境。文中通过讲述亦诗的生命故事，展现了她在性别认同与身体认知上的挣扎，以及与家人、朋友的关系。亦诗自幼感知到自己的性别认同与生理性别不符，在经历了多次抑郁和自杀未遂的情况下，最终向家人和医生求助。文章指出，跨性别群体常常面临心理健康问题，无法获得家庭支持，因而可能造成严重的自残行为和自杀倾向。此外，文中还引用了《2017 年中国跨性别群体生存现状调查报告》的数据，展示了跨性别群体的焦虑与抑郁情况，强调社会、家庭对跨性别者的包容与理解的重要性。整篇文章不仅是对亦诗个人故事的叙述，也反映了跨性别者共同的生存现状及心理挑战，以及对社会认同和法律支持的渴望。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -94,12 +94,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别女性：我的身体里住着一个女人_-_澎湃新闻.md                             |
 > | Size            | 11753 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 21:47:27                             |
+> | Original Link   | [https://m.thepaper.cn/baijiahao_5435150?sdkver=e06426d6&clientprefetch=1](https://m.thepaper.cn/baijiahao_5435150?sdkver=e06426d6&clientprefetch=1)                       |
+> | Author          | 湃客特稿部                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-01-07                                 |
+> | Tags            | 跨性别, 心理健康, 生命故事, 社会环境, 法律政策, 数据统计, 抑郁, 自杀, 家庭支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

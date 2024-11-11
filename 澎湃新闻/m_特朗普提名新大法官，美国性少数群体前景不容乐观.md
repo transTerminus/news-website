@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自澎湃新闻，讨论了特朗普提名新大法官布雷特·卡瓦诺对美国性少数群体（LGBTQ）权利的潜在影响。文章回顾了近二十年来性少数群体在获得权利方面的进展，尤其是同性婚姻的合法化，但同时警示这一进程并非稳固，面临着保守派的反弹与挑战。文章提到，性少数群体的权利主要依赖各州的立法保护，而联邦层面的保护相对薄弱，甚至可能因司法环境的变化而遭到削弱。随着新大法官的任命，许多权利，尤其是在跨性别者的领域，可能会受到更大压迫。文中提到跨性别者在社会中的境况与同性恋者相似，但其挑战更为艰难，因为跨性别者的权利在法律层面仍缺乏充分的保护。整体来看，文章传达了一种对未来的忧虑，性少数群体所取得的权利可能面临政权变动带来的重大不确定性与威胁。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -62,12 +62,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_特朗普提名新大法官，美国性少数群体前景不容乐观.md                             |
 > | Size            | 11241 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:34:55                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2284387&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2284387&from=kuaibao)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2018-07-31                                 |
+> | Tags            | 性少数群体, 跨性别者, 法律政策, 社会环境, 特朗普, LGBTQ, 婚姻合法化, 司法判决, 人权, 社会运动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了一起震惊公众的凶杀案，案件发生在俄罗斯库尔斯克市。事件的起因是一名医生米哈伊尔•吉洪诺夫与变性女性利卡斯发生“一夜情”后，发现其真实性别为女性，进而愤怒地将其杀害并肢解。文中详细描述了案件经过，包括两人之间的冲突、医生的犯罪行为以及警方后来的调查。死者利卡斯在几年前进行过变性手术并合法改变了身份信息，文章同时指出，这一案例在社交媒体上引发了公众对于跨性别人群生存状况和社会偏见的讨论。整个事件令人感到震惊，也反映了社会对跨性别者的偏见和暴力行为的悲惨现实。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -56,12 +56,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_一夜情后发现她是“变性人”_俄医生怒将情人肢解.md                             |
 > | Size            | 2262 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:36:21                             |
+> | Original Link   | [https://news.sina.cn/sh/2019-05-03/detail-ihvhiqax6443026.d.html?vt=4](https://news.sina.cn/sh/2019-05-03/detail-ihvhiqax6443026.d.html?vt=4)                       |
+> | Author          | 任洁                               |
+> | Region          | 俄罗斯                               |
+> | Date            | 2019-05-03                                 |
+> | Tags            | 跨性别, 暴力犯罪, 社会偏见, 凶杀案, 性别认同, 法律问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

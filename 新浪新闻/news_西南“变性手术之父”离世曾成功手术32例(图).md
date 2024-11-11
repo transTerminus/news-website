@@ -74,7 +74,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了被誉为西南“变性手术之父”的邹景贵教授于2008年去世的消息。邹教授生前是四川大学华西医院美容中心的主任，因其成功实施32例变性手术而闻名。他的第一例手术是在1996年，为一位生理心理矛盾的男子做了变性手术，深受患者们的信任和爱戴。在去世前，邹教授因直肠癌接受治疗，但终未能康复，享年近70岁。文章中详细描述了他的医疗历程、遭受的社会争议、学生与家人对他的深切怀念，以及他为变性人群体所付出的努力和贡献。邹教授曾在工作中倾听患者的需求、理解他们的痛苦，并努力帮助他们走向新生，他的去世对医学界和社会都产生了深远影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -83,12 +83,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_西南“变性手术之父”离世曾成功手术32例(图).md                             |
 > | Size            | 8305 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:01:38                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-07-24/detail-ikknscsk3964384.d.html](https://news.sina.cn/sa/2008-07-24/detail-ikknscsk3964384.d.html)                       |
+> | Author          | 谭晓娟、肖莹佩                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-07-24                                 |
+> | Tags            | 跨性别, 变性手术, 邹景贵, 生命故事, 医疗经历, 社会影响                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

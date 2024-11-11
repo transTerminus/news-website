@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了一位名为谢小馨的跨性别女性的故事。小馨于2006年4月28日在福州进行变性手术，之后参加了2006年环球国际小姐大赛福建赛区的总决赛，并获得了最上镜奖。她在自己的博客上发布了征婚信息，寻求一位男性伴侣，条件包括希望对方能够接受她的变性身份，并且具备一定的经济实力。这条征婚消息引起了网友们的广泛讨论，其中有人支持她勇敢追求幸福，也有人认为此举是在炒作。文章通过小馨的经历反映了社会对跨性别群体的多元看法，以及她在寻求爱情过程中的挑战与勇气。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,12 +39,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_福建变性美女博客征婚曾参加选美获奖.md                             |
 > | Size            | 2286 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:24:37                             |
+> | Original Link   | [https://news.ifeng.com/photo/200703/0329_24_94866.shtml](https://news.ifeng.com/photo/200703/0329_24_94866.shtml)                       |
+> | Author          | 凤凰新媒体                               |
+> | Region          | 福建，中国                               |
+> | Date            | 2007-03-29                                 |
+> | Tags            | 跨性别, 变性经历, 征婚, 社会讨论, 个人故事, 环球国际小姐大赛                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

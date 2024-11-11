@@ -90,7 +90,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位22岁男性黄微（化名）的变性故事和生活经历。文章详细叙述了他在性别认同上的挣扎，及因变性手术不成功而导致的身份困境。黄微从小便感受到性别上的困扰，想要成为女性。然而在接受变性手术的过程中，由于医院的草率和他的无知，手术未能成功，他的身份证性别仍然为男性，导致他成为无法融入社会的“黑户”。文中描绘了他在学校和生活中的诸多艰难时刻，以及因无法实现自己真实身份的痛苦。最后，黄微发出对社会理解和尊重的呼唤，呼吁人们给予跨性别者更多的关爱与支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -99,12 +99,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男青年变性未成功性别与身份证不符成黑户(图).md                             |
 > | Size            | 10545 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:16:50                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-06-30/detail-ikftssap3323692.d.html](https://news.sina.cn/sa/2010-06-30/detail-ikftssap3323692.d.html)                       |
+> | Author          | 深圳晚报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2010-06-30                                 |
+> | Tags            | 跨性别, 生命故事, 医疗经历, 法律与社会, 性别认同, 社会现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

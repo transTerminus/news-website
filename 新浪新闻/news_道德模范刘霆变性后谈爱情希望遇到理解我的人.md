@@ -100,7 +100,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了道德模范刘霆的变性经历与个人感悟。刘霆于2014年宣布将进行变性手术，并在2015年完成手术，公开身份转换为刘婷。文章详细回顾了刘霆的成长过程，展现了他从小的性别认同与家庭背景，及其对变性手术的坚定选择。刘霆母亲对其选择的初步不能理解，后来逐步支持并理解了刘霆的真实自我。此外，文中还提到刘霆对未来的期望，如希望遇见能理解自己的人和对娱乐圈的向往。著名社会学家李银河也对刘霆的决定给予了认可，并呼吁社会对跨性别人群展现更多理解与包容。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -109,12 +109,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_道德模范刘霆变性后谈爱情希望遇到理解我的人.md                             |
 > | Size            | 7802 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:33:52                             |
+> | Original Link   | [https://news.sina.cn/sh/2015-04-09/detail-iawzuney2837357.d.html](https://news.sina.cn/sh/2015-04-09/detail-iawzuney2837357.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-04-09                                 |
+> | Tags            | 跨性别, 变性手术, 生命故事, 家庭关系, 社会接受, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

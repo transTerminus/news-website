@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了在巴西圣保罗举行的同性恋及异装癖大游行，活动在2007年6月10日举行，参与人数达250万，创下了全球同性恋游行人数的最高纪录。这场游行得到了巴西官方的支持，巴西观光部长也参与了此次活动，旨在推动旅游业的发展。游行不仅展现了对性的包容和多样性，同时也体现了跨性别和同性恋群体在社会中逐步获得的认同和支持。文章配有游行的照片，以增强视觉效果，描绘了活动现场的热闹场面。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_250万同性恋异装癖者巴西圣保罗大游行_资讯_-_凤凰网.md                             |
 > | Size            | 1027 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:43:37                             |
+> | Original Link   | [https://news.ifeng.com/photo/200706/0611_24_133329.shtml](https://news.ifeng.com/photo/200706/0611_24_133329.shtml)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 巴西                               |
+> | Date            | 2007-06-10                                 |
+> | Tags            | 跨性别, 同性恋, 游行, 巴西圣保罗, 社会活动, 反歧视                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

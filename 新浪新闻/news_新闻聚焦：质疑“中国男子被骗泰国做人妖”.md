@@ -100,7 +100,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于跨性别问题和人妖现象的新闻报道，题为《新闻聚焦：质疑“中国男子被骗泰国做人妖”》。报道讲述了2004年中国第一位被媒体称为“人造人妖”的莎莎的过渡经历，以及湖南大学生孙卿被骗子贩卖到泰国做人妖的悲惨故事。文章探讨了这些事件的背景，以及中国政府对这种现象的关注与回应，突显了此类事情在社会中的隐秘性与严重性。通过一系列调查，记者对涉及的人妖现象进行了深入剖析，包括人妖的成因、培养与生存状况，揭示了人妖作为社会边缘群体所面临的重重困境和歧视。文末附有评论，反映了公众对此话题的不同看法和情感。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -109,12 +109,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_新闻聚焦：质疑“中国男子被骗泰国做人妖”.md                             |
 > | Size            | 14335 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:34:03                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-04-14/detail-ikknscsi2963371.d.html](https://news.sina.cn/sa/2004-04-14/detail-ikknscsi2963371.d.html)                       |
+> | Author          | 本报记者/张辰                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-04-14                                 |
+> | Tags            | 跨性别, 人妖, 社会问题, 媒体报道, 法律政策, 生命故事与过渡经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -123,7 +123,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细报道了道德模范刘霆（现称刘婷）的变性经历，记录了她从男性转变为女性的心路历程及生活状态。刘婷在经历了家庭变故和个人奋斗之后，选择了接受变性手术，并勇敢地公开自己的故事，以期望获得社会的理解和包容。在文中，她谈及了对未来的期待，包括演艺事业的追求及个人生活的规划。采访中，刘婷展示了她在手术后的新生活，包括她的母亲对她的支持和祝福，同时也提到了她在手术过程中的感受，以及法律程序中性别变更的复杂性。整篇文章反映了一个跨性别者在变性后的新生和希望，同时也揭示了社会对跨性别者的看法和态度变化。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -132,12 +132,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_道德模范刘霆变性后穿黑色短裙受访将演电影.md                             |
 > | Size            | 9434 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:29:07                             |
+> | Original Link   | [http://news.sina.cn/gn/2015-04-08/detail-iawzuney2805903.d.html](http://news.sina.cn/gn/2015-04-08/detail-iawzuney2805903.d.html)                       |
+> | Author          | 环球时报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-04-08                                 |
+> | Tags            | 跨性别, 变性经历, 道德模范, 社会包容, 个人故事, 医疗经历, 法律程序, 演艺事业, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

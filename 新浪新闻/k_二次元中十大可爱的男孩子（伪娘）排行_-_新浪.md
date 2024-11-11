@@ -59,7 +59,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于二次元世界中十大可爱的男孩子（伪娘）的排行文章，详细介绍了排名第十到第一的角色及其出处。这些角色经常在动漫中出现，并以其可爱的形象受到了众多粉丝的喜爱。作者从多个著名的动漫作品中选出了这些角色，包括《搞基日常》、《弹丸破论》、《命运石之门》、《约会大作战》等，每个角色都配有图片和简短的介绍。文章还提到，二次元文化中的伪娘现象广受欢迎，吸引了不少绅士们的关注与收藏。最后，作者强调，所有观点仅代表个人，不代表新浪网的观点或立场。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -68,12 +68,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_二次元中十大可爱的男孩子（伪娘）排行_-_新浪.md                             |
 > | Size            | 2862 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:04:18                             |
+> | Original Link   | [https://k.sina.cn/article_6458748844_180f8afac001004brt.html](https://k.sina.cn/article_6458748844_180f8afac001004brt.html)                       |
+> | Author          | 新浪网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2018-03-06                                 |
+> | Tags            | 二次元, 伪娘, 动漫角色, 排名, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

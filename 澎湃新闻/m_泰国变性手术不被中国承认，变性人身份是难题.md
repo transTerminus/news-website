@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了四川资中县的小林在完成泰国的变性手术后，申请更改户籍性别所遇到的困难。根据公安部的《批复》，小林需要提供国内三级医院出具的性别鉴定证明，但因其手术是在泰国进行，导致其证明材料不符合相关规定，这一事件引发了对变性人身份认证和法律政策的深入思考。文中还列举了其他成功更改性别登记的案例，说明在法律和政策的空白状态下，变性人面临着复杂的身份认定问题与生活困境。文章最后提及国际上对第三性别的认定和法律法规的逐步完善，比较了国外与我国在性别法律认定方面的差异和现状。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -56,12 +56,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_泰国变性手术不被中国承认，变性人身份是难题.md                             |
 > | Size            | 9774 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:51:23                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1357343](https://m.thepaper.cn/newsDetail_forward_1357343)                       |
+> | Author          | 未知                               |
+> | Region          | 中国                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 变性手术, 性别认定, 法律政策, 社会环境, 个人故事, 身份问题, 性别平等                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

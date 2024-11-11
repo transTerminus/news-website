@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一起发生在杭州的非法变性手术案例。18岁的青少年小斌为了实现自己的性别认同，选择通过QQ群结识自称能进行变性手术的‘医生’小俊，后者其实缺乏任何医学培训和执业资格，仅凭网络视频进行手术。手术在一家快捷酒店中进行，最终导致小斌承受了无法逆转的严重后果。小斌的父母在得知情况后报警，最终小俊被判刑三年半。该案件引发了对非法医疗行为和跨性别者生存现状的深思，突显了性别认同与医疗需求之间的矛盾，以及社会对跨性别者的法律及医疗支持缺失。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -52,12 +52,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_22岁“医生”学视频给小伙做变性手术被判3年半.md                             |
 > | Size            | 3406 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:40:05                             |
+> | Original Link   | [https://news.sina.cn/2018-09-20/detail-ifxeuwwr6372949.d.html](https://news.sina.cn/2018-09-20/detail-ifxeuwwr6372949.d.html)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2018-09-20                                 |
+> | Tags            | 跨性别, 非法手术, 性别认同, 医疗安全, 法律案件                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -61,8 +61,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_《女子的生活》：神户女装大佬图鉴_-_澎湃新闻.md                             |
 > | Size            | 6315 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-10 21:49:27                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=1944671&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=1944671&from=kuaibao)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 日本                               |
 > | Date            | 2018-01-11                                 |

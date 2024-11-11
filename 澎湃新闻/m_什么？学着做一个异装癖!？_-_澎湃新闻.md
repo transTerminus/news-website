@@ -82,8 +82,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_什么？学着做一个异装癖!？_-_澎湃新闻.md                             |
 > | Size            | 7889 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:24:33                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2685952](https://m.thepaper.cn/newsDetail_forward_2685952)                       |
 > | Author          | 未知                               |
 > | Region          | 未知                               |
 > | Date            | 未知                                 |

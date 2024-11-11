@@ -64,7 +64,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了2023年6月2日，推特信任与安全主管艾拉·欧文辞职的事件，辞职与马斯克对推特内容审核政策的抨击密切相关。欧文在推特负责内容审核，其离职引发人们对推特未来内容审查和品牌安全的担忧。报道提到马斯克支持的一部影片《何为女人》引起的争议，电影因其反对变性主题而限流，马斯克对此表示不满并将这一情况与推特的内容审核政策关系起来。同时，此事件反映了推特在处理变性议题时的复杂态度和内部矛盾。文章还探讨了推特高管的离职如何可能影响该平台的商业形象和收入，进一步看到了马斯克与右翼媒体之间的互动和影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -73,12 +73,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职.md                             |
 > | Size            | 7715 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:17:02                             |
+> | Original Link   | [https://news.ifeng.com/c/8QN3dad23rZ](https://news.ifeng.com/c/8QN3dad23rZ)                       |
+> | Author          | 观察者网 李泽西                               |
+> | Region          | 美国                               |
+> | Date            | 2023-06-05                                 |
+> | Tags            | 跨性别, 推特, 审查政策, 马斯克, 性别议题, 反变性电影, 内容审核                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

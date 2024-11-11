@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了凯特琳·詹纳（Caitlyn Jenner）的变性历程及其在艺术创作上的变化。2017年12月11日，凯特琳在美国洛杉矶的一家餐厅用晚餐时被媒体捕捉到。作为变性人的她不仅支持跨性别者，还在艺术表达上展现出新的风格与感受。文章引用了不同的图片来展示她的生活方式与艺术风格的演变，强调她作为变性人的经历如何影响了她的创作视角。此文本不仅涉及个人的过渡经历，还反映了变性人在社会中的生存状态，对跨性别群体的访问与关注具有重要意义。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -31,12 +31,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性后，他的画风成了这样….md                             |
 > | Size            | 1692 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:56:52                             |
+> | Original Link   | [https://news.ifeng.com/c/7fa6Bg75zP6](https://news.ifeng.com/c/7fa6Bg75zP6)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2017-12-12                                 |
+> | Tags            | 跨性别, 凯特琳·詹纳, 变性经历, 艺术创作, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

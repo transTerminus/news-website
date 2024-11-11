@@ -305,7 +305,7 @@ Nikka所在的女装圈是一个相对封闭的群体。这个群体完全采取
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细探讨了异装文化和跨性别群体的生存状态，通过作者对几位不同个体的深入访谈，揭示了他们的内心挣扎与成长历程。陈雨萌通过讲述Nikka和乙非等人的故事，描述了社会对异装人士的误解、歧视以及他们在自我认同和社会接纳方面的挑战。在这个过程中，不仅探讨了异装与性别认知的关系，还提及了精神健康、家庭支持及专业医疗的重要性。探讨了跨性别群体的心理健康状况及其与抑郁共存的现实，强调了通过医疗和心理帮助如何能够缓解他们面临的痛苦和焦虑。采访还涉及到社会对异装文化的认知与接受，呼吁更多理解和支持以促进基础对话和社会包容。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -314,12 +314,12 @@ Nikka所在的女装圈是一个相对封闭的群体。这个群体完全采取
 > |-----------------|----------------------------------------|
 > | Filename        | m_异装：我与我周旋久，宁做我.md                             |
 > | Size            | 26389 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:33:37                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3959346](https://m.thepaper.cn/newsDetail_forward_3959346)                       |
+> | Author          | 陈雨萌                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 异装文化, 心理健康, 性别认同, 社会歧视, 医疗资源, 生命故事, 个人经历, 法律政策, 男扮女装, 女扮男装                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

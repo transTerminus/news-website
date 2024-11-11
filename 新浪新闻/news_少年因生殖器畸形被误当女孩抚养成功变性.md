@@ -101,7 +101,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了两名由于出生时外生殖器发育畸形被误认为女孩的少年，通过手术成功实现性别转换的故事。报道指出，两名少年在青春期时，因多年来未发育的月经让他们开始怀疑自身性别，经过医院检查确认，他们的性别染色体为男性的46XY，而非女性的46XX。最终，在多次沟通后，在珠江医院接受了先进的单孔腹腔镜手术，成功去除男性生理特征，重建女性生殖系统，成为了拥有女性身份的“小靓女”。术后，有关医生强调了性别确认的重要性，并提醒早期确认婴儿性别能够提高生育能力。故事充满对家庭和社会支持的肯定，同时也反映了性别认同和生存状况的复杂性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -110,12 +110,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_少年因生殖器畸形被误当女孩抚养成功变性.md                             |
 > | Size            | 7297 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:18:40                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-08-26/detail-ikftssap3351098.d.html](https://news.sina.cn/sa/2010-08-26/detail-ikftssap3351098.d.html)                       |
+> | Author          | 广州日报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2010-08-26                                 |
+> | Tags            | 跨性别, 性别身份, 变性手术, 医疗资源, 社会心理, 生命故事, 青春期                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

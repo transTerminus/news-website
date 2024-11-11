@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了印尼的变性人群体在社会中的地位与经历，重点介绍了他们所面临的挑战和获得的尊重。在印尼，变性人被视为神的使者，并常常受到社区的尊崇。尽管大部分变性人依靠性交易为生，但他们的存在和角色在文化中具有重要意义。文章提到，变性人和同性恋者在印尼社会中受到截然不同的对待，前者能公开出现在公众场合，甚至在一些宗教仪式中扮演重要角色。文中还提到许多变性人选择通过低质量的荷尔蒙激素和简易手段来改变自己的性别特征，而接受正规变性手术的人则相对较少。通过对个体故事的叙述，文章提供了对变性人文化的深刻理解以及他们在印尼复杂社会环境中的生存状态。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -48,12 +48,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_印尼变性人受社会尊崇被视为神的使者(图).md                             |
 > | Size            | 5526 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:58:37                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-04-01/detail-ikkntiam3120778.d.html](https://news.sina.cn/sa/2005-04-01/detail-ikkntiam3120778.d.html)                       |
+> | Author          | 桂龙新闻网                               |
+> | Region          | 印尼                               |
+> | Date            | 2005-04-01                                 |
+> | Tags            | 变性人, 跨性别, 性别认同, 社会认同, 变性经历, 印尼文化, 性别角色, 荷尔蒙治疗, 社会尊重                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

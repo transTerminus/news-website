@@ -34,8 +34,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_两千名跨性别者被迫绝育，荷兰政府道歉并赔偿每人五千欧元.md                             |
 > | Size            | 2366 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 10:03:27                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=10249037&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10249037&from=wifiKey)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 未知                               |
 > | Date            | 2022-12-03                                 |

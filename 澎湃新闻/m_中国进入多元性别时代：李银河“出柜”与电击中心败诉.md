@@ -72,8 +72,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_中国进入多元性别时代：李银河“出柜”与电击中心败诉.md                             |
 > | Size            | 13702 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:47:05                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1287582](https://m.thepaper.cn/newsDetail_forward_1287582)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 中国大陆                               |
 > | Date            | 未知                                 |

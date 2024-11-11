@@ -164,7 +164,7 @@ wikiHow里还提醒我，需要向父母解释为什么以前没有和他们说�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章详细讲述了作者诺一作为性别流动者的自我认同和成长经历，分享了她从性别认同的探索到决定面对家人的出柜计划的过程。在文章中，诺一回忆起她小时候与朋友之间的情感，强调了她对性别流体概念的理解，以及在国内外生活中所遇到的挑战和压力。她表达了在寻找自我认同的过程中所经历的孤独和绝望，并对未来的期许进行了展望。诺一还特别提到了她为家人的出柜计划，认真思考如何与父母沟通，并计划制定一个对她和父母都能接受的方式。最后，诺一表达了希望未来能与爱人合法结婚，并与家人分享生活的愿望。这篇文章不仅是个人的成长故事，也反映了跨性别者在寻找自我、面对家人和社会的挑战时，所需的勇气和坚定。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -173,12 +173,12 @@ wikiHow里还提醒我，需要向父母解释为什么以前没有和他们说�
 > |-----------------|----------------------------------------|
 > | Filename        | tech_性别流动者：这样的双重身份是时候放下了_-_科技-_新浪.md                             |
 > | Size            | 19720 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:54:53                             |
+> | Original Link   | [https://tech.sina.cn/2020-05-18/detail-iirczymk2174558.d.html](https://tech.sina.cn/2020-05-18/detail-iirczymk2174558.d.html)                       |
+> | Author          | 诺一                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-05-18                                 |
+> | Tags            | 性别流动者, 自我认同, 出柜经历, LGBTQ+, 心理咨询, 社会环境, 跨性别, 性向, 亲密关系, 自我探索                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

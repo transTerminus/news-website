@@ -14,7 +14,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了知名跨性别女性金星首次与母亲谈论自己变性经历的故事。在一次访谈中，金星表达了她在性别认同过程中的感受以及与母亲之间的沟通。母亲在听到金星的决定时表现得非常坦然和支持，这对于跨性别群体来说是一个积极的示范，展现了家庭接受和理解的重要性。文中提到，金星的母亲并没有反对，而是选择理解和支持她的生活选择，体现了现代家庭对跨性别话题的开放态度。该视频播放次数达到302.5万次，表明这一话题引起了广泛关注。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -23,12 +23,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_金星首次和母亲提变性时，母亲十分坦然的就接受了.md                             |
 > | Size            | 811 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:09:50                             |
+> | Original Link   | [https://news.ifeng.com/c/85tGQMcDBB5](https://news.ifeng.com/c/85tGQMcDBB5)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 北京市                               |
+> | Date            | 2021-05-01                                 |
+> | Tags            | 跨性别, 性别认同, 家庭支持, 金星, 中国社会, 文化讨论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了来自英国的佩里（Lleahan Perry）面对自己父亲史蒂芬（Stephen）和丈夫帕伦特（Parent）同时决定变性的经历。佩里在文章中分享，她的父亲从6岁起就希望能够成为女性，在她13岁时才向佩里坦白。经过多年的支持与理解，父亲在45岁时最终开始变性，并改名为海伦（Helen），而佩里对此表示祝福并认为海伦应该做真正的自己。佩里在接近20岁时，未婚夫帕伦特也表示希望变成女性，这让她感到震惊。经过深谈后，两人决定一起接受变性手术。佩里与帕伦特在变性手术前结婚，并期待成为父母。文章还提到，海伦也找到了一位新伴侣，她计划在10月份进行变性手术。这篇报道生动地描绘了佩里所面临的复杂情感以及对亲人的支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -46,12 +46,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国一女子支持父亲和丈夫变性三人成“闺密”.md                             |
 > | Size            | 2556 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:55:26                             |
+> | Original Link   | [https://news.ifeng.com/a/20140724/41296302_0.shtml](https://news.ifeng.com/a/20140724/41296302_0.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 英国                               |
+> | Date            | 2014-07-24                                 |
+> | Tags            | 跨性别, 变性, 性别认同, 家族支持, 个人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

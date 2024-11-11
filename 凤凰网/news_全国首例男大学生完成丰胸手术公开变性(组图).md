@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了全国首例男大学生成功完成丰胸手术并公开变性事件的详细信息。文章中讲述了变性者何强（现名何嫱）的个人故事，包括其家庭背景、变性动机和过程。何强自小承受着来自父母的巨大压力，由于父母希望传宗接代，何强的变性意愿曾遭到强烈反对。他在手术前对未来的期待，表示手术成功后希望可以像正常女性一样生活和工作，并与心爱的人建立关系。同时，文件中还提及了社会对变性人的普遍看法与挑战，反映了何强在追求自我认同过程中的心路历程，展示了跨性别群体在社会中所遭遇的困难与坚韧。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -45,12 +45,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_全国首例男大学生完成丰胸手术公开变性(组图).md                             |
 > | Size            | 1707 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:27:33                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200702/0213_344_76196_1.shtml](https://news.ifeng.com/society/2/200702/0213_344_76196_1.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-02-13                                 |
+> | Tags            | 变性, 跨性别, 丰胸手术, 生命故事, 社会环境, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一场于2012年2月19日在广州街头上演的行为艺术活动，名为“占领男厕所”。此次活动由几位女大学生发起，旨在呼吁社会关注性别平等及男女厕位不均衡的问题。活动中，参与者通过直接的行为艺术方式，向公众展示了女性在公共场所上厕所时面临的困扰，尤其是在生理期时的身体不适与排队的尴尬。此外，中山大学性别教育论坛的副教授柯倩婷在现场表达了对增加女厕数量和设置无性别厕所的支持，认为这不仅能满足女性的需求，也能提升城市的文明程度。文章还讨论了无性别厕所的可行性，特别是对中性化人群和跨性别群体的影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -41,12 +41,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | culture_女大学生上演“占领男厕所”行为艺术吁性别平等(图).md                             |
 > | Size            | 2162 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 09:45:40                             |
+> | Original Link   | [http://culture.ifeng.com/8/detail_2012_02/20/12631403_1.shtml](http://culture.ifeng.com/8/detail_2012_02/20/12631403_1.shtml)                       |
+> | Author          | 林霞虹                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2012-02-20                                 |
+> | Tags            | 女大学生, 行为艺术, 性别平等, 无性别厕所, 中性化人群, 跨性别群体                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

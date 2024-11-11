@@ -71,7 +71,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名叫红颜的跨性别者的故事，她在生活的压力下选择了变性。在经历了三年的女儿身生活后，红颜决定再度变回男儿身，准备进行乳房改回手术。文章详细描述了红颜在河北的成长经历，以及为了生存而投身夜总会工作的经过。她和另一位变性者雪儿的相伴经历，展现了她们在追求个人生活与社会接受之间的挣扎。红颜渴望返回平静的生活，并计划和雪儿一起在海滨城市开美容院，体现了她们对未来的憧憬与希望。整篇文章扼要记录了现代跨性别者面对的挑战与心理历程，对于理解跨性别者的生活和变性决策提供了宝贵的视角。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -80,12 +80,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性3年红颜要恢复男儿身.md                             |
 > | Size            | 4141 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:31:28                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-27/detail-ikknscsk0430105.d.html](https://news.sina.cn/sa/2006-06-27/detail-ikknscsk0430105.d.html)                       |
+> | Author          | 南方日报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-06-27                                 |
+> | Tags            | 跨性别, 变性手术, 心理健康, 个人故事, 社会接受, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -43,7 +43,7 @@ BBC报道称，最高法院15日一致驳回了艾伦凯恩的上诉，指出填
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了英国最高法院对维权人士艾伦凯恩（Christie Elan-Cane）提出的关于性别中立护照的法律挑战，法院于2021年12月15日驳回案件，认为法律文件上的性别必须清晰界定。艾伦凯恩主张在护照上使用“X”性别标记，挑战英国护照上仅提供男性与女性两种选项的政策。艾伦表示，此裁决违反了人权法，认为英国的政策具有歧视性，同时提到了其他国家已经开始承认中性护照的进步。尽管最高法院的判决不利，艾伦凯恩仍表示会将此案上诉至欧洲人权法院，以维护个人的隐私权。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -52,12 +52,12 @@ BBC报道称，最高法院15日一致驳回了艾伦凯恩的上诉，指出填
 > |-----------------|----------------------------------------|
 > | Filename        | mil_英国最高法院：生活中性别自己定但护照不搞中性_-_新浪军事.md                             |
 > | Size            | 3776 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:20:32                             |
+> | Original Link   | [https://mil.sina.cn/dgby/2021-12-16/detail-ikyamrmy9306459.d.html](https://mil.sina.cn/dgby/2021-12-16/detail-ikyamrmy9306459.d.html)                       |
+> | Author          | 观察者网 李丽                               |
+> | Region          | 英国                               |
+> | Date            | 2021-12-15                                 |
+> | Tags            | 护照政策, 性别中立, 非二元性别, 法律案例, 艾伦凯恩, 人权, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

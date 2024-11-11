@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国《纽约时报》记者因其对跨性别议题的报道而遭到愤怒袭击的一起事件。根据美媒福克斯新闻的报道，在一次公共场合，一名袭击者因不满该记者的文章而向她吐口水，指责她“试图消灭变性人”。文章指出，这位记者参与的报道讨论了跨性别儿童的医疗护理问题，这引发了部分LGBTQ群体的强烈反对和批评，认为《纽约时报》在报道中存在偏见与不负责任的态度。尽管《纽约时报》在此事后回应支持公平独立的报道，强调其报道并无偏见，但批评声不断。文中还提到，许多记者和订阅者对该报的报道表示失望，指责其追随极右翼的仇恨组织，关注性别多样性问题的报道也成为了一场争议的焦点。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -64,12 +64,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_“你试图消灭变性人！”《纽约时报》记者被吐口水.md                             |
 > | Size            | 5084 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:14:38                             |
+> | Original Link   | [https://news.ifeng.com/c/8Nt68btRKBp](https://news.ifeng.com/c/8Nt68btRKBp)                       |
+> | Author          | 观察者网                               |
+> | Region          | 美国                               |
+> | Date            | 2023-03-04                                 |
+> | Tags            | 跨性别, 媒体报道, 法律政策, 社会批评, 性别多样性, 《纽约时报》                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -20,7 +20,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自澎湃新闻，报道了德国政府计划提出的“自决法”，旨在简化个人更改姓名和法定性别的程序。根据这项法案，成年人不再需要通过繁琐的程序即可在登记处更改姓名和性别。当前的法律要求跨性别者必须经历两名专家和一名法官的评估，这一过程既漫长又耗费资金，令人感到有辱人格。德国家庭部长丽萨·鲍斯对此表示，当前法律必须被更新为更符合现代需求的法律，保护个人的自我认同。此次法案还将允许13岁及以上的青少年在获得父母或监护人同意后更改其姓名和性别。司法部长马可·布施曼相信这一法案将在今年晚些时候通过。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -29,12 +29,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_德政府拟提出“自决法”，简化民众改变性别和姓名的程序.md                             |
 > | Size            | 1382 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 10:10:00                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=18815377&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=18815377&from=wifiKey)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 德国                               |
+> | Date            | 2023-06-30                                 |
+> | Tags            | 自决法, 跨性别, 姓名更改, 性别认同, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

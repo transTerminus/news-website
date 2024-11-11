@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了“伪娘”现象及其在社会文化中的位置，作者恋_怡婷引用了伦理学教授和心理学家的观点，认为这是一种艺术表现形态，应该以欣赏的态度看待，而不是带有偏见的侮辱。文章讨论了伪娘在当代社会中的表现，特别是商业化现象和对未成年人可能产生的影响。作者提到，虽然伪娘是一种非主流现象，但其背后反映了人们对性别认知的复杂性和社会进步的影响。最终，作者倡导在欣赏伪娘的美的同时，也要警惕可能带来的社会影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -41,12 +41,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | blog_伪娘CD变装现象,与其侮辱不如欣赏_-_新浪网站导航.md                             |
 > | Size            | 2749 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:09:48                             |
+> | Original Link   | [https://blog.sina.com.cn/s/blog_e8c4087b0101ifoi.html](https://blog.sina.com.cn/s/blog_e8c4087b0101ifoi.html)                       |
+> | Author          | 恋_怡婷                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2014-05-22                                 |
+> | Tags            | 伪娘, CD变装, 性别认知, 艺术表现, 社会现象, 性别研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

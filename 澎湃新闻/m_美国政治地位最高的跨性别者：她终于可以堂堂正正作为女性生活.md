@@ -127,7 +127,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了萨拉·麦克布莱德（Sarah McBride）的故事，她是一名民主党人，也是美国历史上首位公开跨性别的州参议员，曾在2020年当选特拉华州参议员。在文章中，麦克布莱德分享了她的个人经历，包括她的过渡过程与政治生涯，从青少年时期的身份挣扎，到在母亲和社会环境中所遭受的困惑与支持。文章详细描述了她作为跨性别者所面临的挑战以及她在推动跨性别权益和政策方面的努力。特别提到她与已故丈夫安德鲁·克雷的感人故事，以及她在推动《性别认同非歧视法》的成功与影响。最后，麦克布莱德希望能够激励更多的性少数群体，鼓励他们在生活中做真实的自己。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -136,12 +136,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_美国政治地位最高的跨性别者：她终于可以堂堂正正作为女性生活.md                             |
 > | Size            | 12302 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:24:11                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9905660](https://m.thepaper.cn/newsDetail_forward_9905660)                       |
+> | Author          | 奥布雷                               |
+> | Region          | 美国                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 政治权益, 个人故事, 性别认同, 社会运动, LGBTQ, 医疗权益                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

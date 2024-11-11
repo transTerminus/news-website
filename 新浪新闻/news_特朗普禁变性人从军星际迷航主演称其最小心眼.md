@@ -73,7 +73,7 @@ LGBT权益组织GLAAD表示，特朗普禁止变性人参军，是对所有属�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了2017年美国总统唐纳德·特朗普在个人推特上宣布禁止变性人参军的决定，此举引起了广泛的争议和批评。文中详细报道了特朗普的声明背景，他声称此决定是为了确保美军能够取得胜利，并提及了变性人可能带来的医疗费用负担。此外，文章还引述了美国政界人士和LGBT权利组织的反对意见，包括民主党领袖对这一禁令的抗议，认为这是歧视行为。同时，涉及多位好莱坞明星对此事的看法，这些反响表明了特朗普政策对变性人群体的直接影响与批评。整篇文章通过例举不同人士的评论，为读者展现了此次事件的复杂社会背景。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -82,12 +82,12 @@ LGBT权益组织GLAAD表示，特朗普禁止变性人参军，是对所有属�
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普禁变性人从军星际迷航主演称其最小心眼.md                             |
 > | Size            | 6641 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:57:44                             |
+> | Original Link   | [https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2586979.d.html?vt=4](https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2586979.d.html?vt=4)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2017-07-27                                 |
+> | Tags            | 特朗普, 变性人, 参军禁令, LGBT权益, 社会评论, 政治                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

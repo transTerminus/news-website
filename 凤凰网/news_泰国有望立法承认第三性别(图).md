@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了泰国宪法起草委员会正在讨论一份承认第三性别的草案，旨在为变性人群体提供法律支持与保护。报道中包含变性人尼乌玛的个人故事，她谈及了自己从小感到性别困惑的经历，以及在家庭和社会中的努力与挑战。文中提到，尽管泰国对于变性人相对开放，但在就业和社会接纳度上，变性人仍然面临严重的歧视和偏见。变性人尼乌玛表达了对法律草案通过的希望，认为这将给予变性人法律上的身份认可，帮助他们在社会中平等发展。同时，文章提及了泰国变性女性协会和非政府组织对草案的不同看法，显示出关于性别认同和法律保障的复杂性。整体而言，文章探讨了泰国社会在认可第三性别方面的进展，以及变性人所面临的现实困境与法律需求。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -60,12 +60,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国有望立法承认第三性别(图).md                             |
 > | Size            | 7509 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:22:33                             |
+> | Original Link   | [https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150211/43156608_0.shtml?wratingModule=1_9_1)                       |
+> | Author          | 国际在线                               |
+> | Region          | 泰国                               |
+> | Date            | 2015-02-11                                 |
+> | Tags            | 变性人, 泰国, 第三性别, 法律政策, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

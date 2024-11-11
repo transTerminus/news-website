@@ -144,7 +144,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是由澎湃新闻发布的核查报告，主要针对关于美国当选总统拜登内阁成员的虚假信息进行反驳。报告指出，有人在社交平台上声称拜登团队中有多位跨性别者、同性恋者和入过监狱的人物。此文提供了逐一驳斥这些不实陈述的详细信息，强调拜登提名的内阁团队是美国历史上最具多样性和代表性的搭配。文中提到的几位重要人选包括国防部长劳埃德·奥斯汀，财政部长珍妮特·耶伦，以及教育部长米格尔·卡多纳等，均被详细介绍并澄清了与之相关的谣言。此外，文章还提到拜登政府的性别和族裔比例问题，并指出此次内阁的组成在历史上具有里程碑式的意义。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -153,12 +153,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_核查_拜登内阁都不是“正常人”？假！.md                             |
 > | Size            | 9903 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:41:43                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10856245](https://m.thepaper.cn/newsDetail_forward_10856245)                       |
+> | Author          | 有据核查                               |
+> | Region          | 美国                               |
+> | Date            | 2021-01-07                                 |
+> | Tags            | 拜登内阁, 跨性别, 同性恋, 虚假信息, 社会媒体, 政治核查, 美国政府, 族裔多样性                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

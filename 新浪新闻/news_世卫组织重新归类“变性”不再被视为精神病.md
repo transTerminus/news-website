@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了世界卫生组织重新归类“变性”一事，尤其是跨性别者的医学分类。根据环球网的报道，世卫组织决定将跨性别者（即性别不一致者）这一术语从精神疾病章节移至性健康章节，此提案已获得投票通过。这一重要变化是在2018年通过的，目的是为了减少对跨性别者的污名，并提高其社会接受度。警示精神健康状况的病理化不仅会给人带来耻辱感，也会影响到跨性别者寻求医疗帮助的意愿。世卫组织在其新修订的国际疾病和相关健康问题统计分类（ICD-11）中明确指出，性别改变的行为和偏好不是诊断心理健康的基础。对此，跨性别和性别多元化的活动人士对此次重新归类表示欢迎，认为这是对跨性别者人性的重要认可，体现了社会对跨性别者的日益尊重和理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -42,12 +42,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_世卫组织重新归类“变性”不再被视为精神病.md                             |
 > | Size            | 2660 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:00:06                             |
+> | Original Link   | [https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4](https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4)                       |
+> | Author          | 环球网官方账号                               |
+> | Region          | 中国                               |
+> | Date            | 2019-05-30                                 |
+> | Tags            | 跨性别, 世卫组织, 性别不一致, 精神健康, 社会接受度, 医疗资源, 跨性别政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

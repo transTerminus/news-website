@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了两名英皇家空军的男少校自愿接受变性手术的事件，揭示了变性在军队中的影响和相关性。根据四川新闻网的采访，报道指出这两位少校原本都是具有阳刚气质的男性，经过变性手术后分别改名为苏·布朗和托妮·戴乌尔斯特，重返军队后愿望被称为“夫人”。特别值得一提的是，英国国防部对这一事件采取了宽容态度，认为性别转换是医疗问题，应提供相应支持。手术的费用高达6万英镑，可能由国防部报销，这在军队中尚属首次。此事件引起了公众的广泛关注和讨论，也反映了社会对变性人群体的态度逐渐发生变化。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -48,12 +48,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英皇家空军两男少校变性.md                             |
 > | Size            | 2440 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:52:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1830551.d.html](https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1830551.d.html)                       |
+> | Author          | 新浪新闻官方                               |
+> | Region          | 英国                               |
+> | Date            | 2004-12-01                                 |
+> | Tags            | 变性, 跨性别, 军队, 性别认同, 医疗支持, 社会态度                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

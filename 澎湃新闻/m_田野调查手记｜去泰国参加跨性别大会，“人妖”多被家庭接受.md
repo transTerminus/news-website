@@ -110,7 +110,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇田野调查手记，记录了作者在2017年参加泰国跨性别大会（亚太地区）的经历与观察。文章中提到了一名巴基斯坦的男同性恋者松松，他以隐秘的身份在LGBT组织工作并探讨了自身的性别认同问题。松松的故事反映了南亚国家对跨性别者和男同性恋者的复杂认同与家庭环境的影响。作者还与其他跨性别代表、如跨性别男性玛尼及泰国的‘人妖’进行了交流，探讨了文化背景下性别认同的多样性。会议中讨论了跨性别人群的权益和健康问题，强调了国际交流对提升跨性别者生活质量的积极作用。本文也提及了跨性别女性卡姆兰和妮莉在推动跨性别权利及文化活动中的角色，特别是在担任电影节策划人方面的贡献。整个故事不仅呈现了跨性别者的生存与斗争，也探讨了爱与身份认同的流动性与复杂性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -119,12 +119,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_田野调查手记｜去泰国参加跨性别大会，“人妖”多被家庭接受.md                             |
 > | Size            | 18055 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 21:50:55                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2095342&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2095342&from=kuaibao)                       |
+> | Author          | 未知                               |
+> | Region          | 巴基斯坦                               |
+> | Date            | 2017-09-01                                 |
+> | Tags            | 跨性别, 男同性恋, 田野调查, 泰国, 跨性别大会, 家庭接受度, 性别认同, 医疗资源, 文化交流                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

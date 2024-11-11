@@ -213,7 +213,7 @@ TS里面是不是男性居多？文中的主人公似乎都是男性，为什么
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了对跨性别群体心理及生存状态的关注，采用问答的方式探讨了跨性别者面临的种种问题和社会障碍。主要通过几位提问者的提问以及专家孙蕴珍的回答，涵盖了跨性别者的心理现状、社会认同、家庭支持等话题。文中提及跨性别者在社会中的比例、接受度，以及面对歧视时的心理压力等，同时也有关于医疗资源和人格认同的讨论。孙蕴珍指出跨性别者的生活状态与社会接纳程度密切相关，并强调专业心理咨询的重要性，尤其是在家庭支持的缺失下，跨性别个体往往面临更大的生活压力和心理困扰。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -222,12 +222,12 @@ TS里面是不是男性居多？文中的主人公似乎都是男性，为什么
 > |-----------------|----------------------------------------|
 > | Filename        | m_我关注跨性别群体的心理，关于跨性别群体的生存状态，问我吧!.md                             |
 > | Size            | 12276 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:22:21                             |
+> | Original Link   | [https://m.thepaper.cn/asktopic_detail_10001458](https://m.thepaper.cn/asktopic_detail_10001458)                       |
+> | Author          | 未知                               |
+> | Region          | 中国                               |
+> | Date            | 2015-12-23                                 |
+> | Tags            | 跨性别, 心理健康, 社会环境, 医疗心理, 性别认同, 家庭支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -30,7 +30,7 @@ Copyright ©1996-2015 SINA Corporation, All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了苏格兰一名3岁男童丹尼尔患性别焦虑症的故事，他希望通过手术变成女孩。虽然丹尼尔的父母最初对他的决定感到震惊，但他们选择尊重和支持孩子的选择。丹尼尔的母亲在了解到孩子的真实感受后，决定带他去进行心理咨询。最终，经过评估，丹尼尔被诊断为性别焦虑症，诊断结果建议孩子以女孩的方式生活。全家人在努力的帮助下，丹尼尔开始适应新的生活，并且变得更加快乐。文章强调了家庭对跨性别儿童支持的重要性，同时也提到丹尼尔母亲在社交媒体上建立的专页，旨在鼓励其他面临相似情况的家庭分享自己的经验。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,12 +39,12 @@ Copyright ©1996-2015 SINA Corporation, All Rights Reserved
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国3岁男童患性别焦虑症做手术变女孩(图)_-_新浪新闻.md                             |
 > | Size            | 2538 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:46:12                             |
+> | Original Link   | [http://news.sina.com.cn/o/2015-12-08/doc-ifxmhqac0191108.shtml](http://news.sina.com.cn/o/2015-12-08/doc-ifxmhqac0191108.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 英国                               |
+> | Date            | 2015-12-08                                 |
+> | Tags            | 性别焦虑症, 跨性别儿童, 心理咨询, 家庭支持, 社会认同, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

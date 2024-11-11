@@ -40,8 +40,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_上海开出国内首个跨性别儿童与青少年多学科门诊.md                             |
 > | Size            | 2655 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:04:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_15222528](https://m.thepaper.cn/newsDetail_forward_15222528)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2023-11-04                                 |

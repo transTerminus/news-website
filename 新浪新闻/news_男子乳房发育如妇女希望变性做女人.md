@@ -81,7 +81,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了38岁的四川男子刘昌福的性别认同困扰与希望变性为女性的故事。尽管身份证上显示为男性，但刘昌福自幼便显露出女性的第二性征，例如乳房发育，且性格和兴趣也趋向于女性化。由于家庭和社会的压迫，刘昌福于24岁时迫于压力与一位女子结婚，但两人始终未能育有孩子。随着时间推移，他逐渐意识到自己的性别身份，并希望能够通过手术变性。文章详细叙述了他的生活经历，包括他在深圳打工的艰辛和内心的挣扎，以及医疗诊断过程中医生对其性别特征的评估。整篇文章描绘了刘昌福复杂的心路历程及社会对跨性别者的误解与偏见。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -90,12 +90,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子乳房发育如妇女希望变性做女人.md                             |
 > | Size            | 6538 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-11 07:01:46                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-11-22/detail-ikftpnny3964019.d.html?from=wap](https://news.sina.cn/sa/2007-11-22/detail-ikftpnny3964019.d.html?from=wap)                       |
+> | Author          | 深圳特区报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-11-22                                 |
+> | Tags            | 跨性别, 变性手术, 性别认同, 人生故事, 社会环境, 医疗经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

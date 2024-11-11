@@ -60,7 +60,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由中国新闻网发布，主要讨论了女变男阴茎再造手术的医学背景与技术细节。提到了进行阴茎再造手术的医学难点，包括生殖器的生理功能与再造后的功能限制。陈焕然博士作为相关领域的专家，深入解析了手术的复杂性与再造过程中的材料选择、操作步骤及其可能出现的挑战。针对阴茎再造的生育能力和性感觉问题，陈焕然明确指出，变性手术后的个体因身体结构改变而无法产生精子，而事故导致的部分生理损害者则可能仍保有生育能力。此外，文中提出，要实现人造阴茎的有效功能，医学技术还有待突破，特别是在勃起功能和性感觉的恢复上。
+
+整篇文章从医疗知识出发，讨论了一个在社会中较具敏感性的话题，旨在增进理解和讨论医美领域更为复杂的现实情况。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -69,12 +71,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_专家解析女变男阴茎再造能生育无性感觉(图).md                             |
 > | Size            | 6274 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:33:18                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html](https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html)                       |
+> | Author          | 刘慧                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-07-06                                 |
+> | Tags            | 医学, 跨性别, 阴茎再造, 陈焕然, 生育能力, 医疗伦理, 医疗技术, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -186,7 +186,7 @@ LGBT+群体早已全部去精神病理化。扭转治疗 LGBT+也被证明是无
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名叫黄晓迪的跨性别者的真实经历，她在17岁时因性别认同问题被父母送往一所特殊教育学校。在被迫改造的过程中，她遭遇了严酷的体罚和心理虐待，经历了无尽的压迫和绝望。文中详细描述了黄晓迪的逃离过程，以及她对自身身份的挣扎与反抗。通过她的故事，揭示了社会对跨性别者的误解和偏见，以及在中国大陆仍有的“扭转治疗”现象。文章中还提到跨性别者的生存状况与面临的困难，并指出2018年世界卫生组织对跨性别病理化的去除，为该群体争取了部分权益。黄晓迪的故事不仅是个体经历，也是对整个性别认同问题的深思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -195,12 +195,12 @@ LGBT+群体早已全部去精神病理化。扭转治疗 LGBT+也被证明是无
 > |-----------------|----------------------------------------|
 > | Filename        | news_在人间_一位跨性别者的17岁：逃离，流浪，自残_-_凤凰网.md                             |
 > | Size            | 17518 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:37:45                             |
+> | Original Link   | [https://news.ifeng.com/c/86JniSEpZQg](https://news.ifeng.com/c/86JniSEpZQg)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 内蒙古自治区，中国                               |
+> | Date            | 2021-05-17                                 |
+> | Tags            | 跨性别, 生存现状, 个人经历, 性别认同, 扭转治疗, 社会环境, 权利争取                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

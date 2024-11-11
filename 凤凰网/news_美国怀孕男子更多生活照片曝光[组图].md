@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自凤凰网，记录了美国怀孕男子比提的生活故事与过渡经历。比提原为女性，经历了变性手术后，与恋人南茜结婚。为了帮助南茜实现生育的愿望，比提在怀孕五个月时分享了与妻子共同生活的照片。文中提到比提将于2008年7月3日产下一名女婴，内容反映了跨性别者在家庭生活中的真实情况及对传统性别角色的挑战。文章包含了比提的旧照和与妻子的合影，生动传达了他们的爱情故事和生活状态。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -37,12 +37,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国怀孕男子更多生活照片曝光[组图].md                             |
 > | Size            | 1609 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:26:09                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200804/0407_1400_478267_3.shtml](https://news.ifeng.com/photo/society/200804/0407_1400_478267_3.shtml)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 美国                               |
+> | Date            | 2008-04-07                                 |
+> | Tags            | 跨性别, 怀孕男子, 变性, 家庭生活, 爱与支持, 社会性别                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为新京报网的一篇专访文章，主题围绕跨性别群体的医疗和社会处境展开。近日，温州地下变性药事件引起了公众的广泛关注，跨性别者群体长期处于隐秘状态，因缺乏正规的医疗帮助而面临重重困难。文章特别采访了北医三院核心医生潘柏林及一位跨性别者，探讨了他们的经历与挑战。专访揭示了外界对跨性别群体的认知不足和误解，希望引起社会对这一隐秘角落的重视与理解。内容中提到：跨性别群体不仅需要医疗帮助，同时也希望能够被社会所接纳。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -65,12 +65,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | finance_出圈丨专访医生潘柏林：跨性别群体是个隐秘的角落大多纠结痛苦.md                             |
 > | Size            | 1623 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:20:20                             |
+> | Original Link   | [https://finance.sina.cn/tech/2021-07-27/detail-ikqciyzk7982304.d.html](https://finance.sina.cn/tech/2021-07-27/detail-ikqciyzk7982304.d.html)                       |
+> | Author          | 新京报网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-07-27                                 |
+> | Tags            | 跨性别, 医疗资源, 社会问题, 生命故事, 政策与法律                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

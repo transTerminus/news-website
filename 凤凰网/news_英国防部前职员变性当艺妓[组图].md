@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了英国国防部前职员玛丽（原名马孔）在年过七旬后，开始接受变性手术，最终成为全球首位变性艺伎的故事。文件强调，虽然在日本法律上只有女性才能担任艺伎，但由于玛丽的坚持和日本观光局的特殊安排，她得以穿上艺妓的服装，体验这一传统文化。玛丽谈到她的过渡经历，她在迈向女性身份的过程中所面临的挑战，以及社会对变性人的普遍误解与偏见。文中还提到玛丽在2004年开始接受变性手术，经历了众多心理与身体上的转变，并为实现自己的梦想而努力，包括未来计划推广艺妓的文化供其它变性人体验。整个故事不仅反映了个体的转变历程，亦涉及法律政策与社会环境对于跨性别者的影响，以及如何透过公共文化体验找到生存的优雅与自我认同。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -35,12 +35,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国防部前职员变性当艺妓[组图].md                             |
 > | Size            | 2259 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:26:42                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml](https://news.ifeng.com/photo/society/200810/1023_1400_843341.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 2008-10-23                                 |
+> | Tags            | 变性手术, 艺妓, 跨性别, 生活故事, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

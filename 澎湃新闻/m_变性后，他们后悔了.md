@@ -100,7 +100,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了跨性别者在经历变性后后悔的情况，并探讨了有关性别认同的复杂性。文章通过具体案例，讲述了两位年轻人的故事：17岁的克洛伊·科尔和23岁的海伦娜·克施纳。在她们的叙述中，克洛伊表达了因早期决定变性而感受到的重大失落与悔恨，特别是在经历不可逆转的医疗手术后。她提到自己在身体和心理上都遭遇了极大的挑战，如情绪变化、身体认同问题和生育能力受损等。报道指出，越来越多的青少年在没有充分评估的情况下选择变性，容易受到社交媒体和环境的影响。此外，心理健康问题常常被忽视，专家们呼吁在进行跨性别医疗干预前应进行充分的心理评估和审慎的考虑。文章最终探讨了追踪和处理“去性别转换者”面临的医疗后果的重要性，以及当前美国部分州对未成年人变性治疗的法律限制，提出了医疗转变不应匆忙的观点。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -109,12 +109,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性后，他们后悔了.md                             |
 > | Size            | 12214 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:12:31                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18645344](https://m.thepaper.cn/newsDetail_forward_18645344)                       |
+> | Author          | 环球时报                               |
+> | Region          | 美国                               |
+> | Date            | 2023-06-18                                 |
+> | Tags            | 变性, 跨性别者, 心理健康, 医疗后果, 性别认同, 去性别转换, 社交媒体影响, 法律政策, 青少年, 个人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

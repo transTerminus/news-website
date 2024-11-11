@@ -74,7 +74,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了东京奥运会中，跨性别运动员劳蕾尔·哈伯德的表现及其引发的争议。2021年8月2日，哈伯德在女子举重比赛中未能获得奖牌，3次抓举失败，引发了公众对跨性别者参赛公平性的热烈讨论。国际奥委会的相关政策允许跨性别运动员参赛，但争议在于其睾酮水平等生理特点是否给予了不公正的优势。本文引用了相关医学和科学研究，探讨了跨性别运动员参与体育活动的社会影响与挑战。哈伯德的背景和变性经历也被详细介绍，强调跨性别者身份的复杂性和多样性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -83,12 +83,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别运动员“三连举”失败，这件事一直有争议.md                             |
 > | Size            | 4458 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:57:22                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13911151](https://m.thepaper.cn/newsDetail_forward_13911151)                       |
+> | Author          | 小香蕉                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-08-02                                 |
+> | Tags            | 跨性别, 奥运会, 体育平等, 医学研究, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

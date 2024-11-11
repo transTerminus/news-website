@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了两名泰国变性毒贩在新加坡的法律审判问题。根据新加坡的法律，男性和女性对于相同的罪行处以不同的刑罚，其中男性会受到鞭刑而女性则会免于此刑罚。文件详细描述了在新加坡警方抓获的两名变性毒贩，怀有毒品的男性身份在法律上难以界定，引起法庭对其性别认定的争议。文件总结了法庭对他们的处理结果：最终由于医学鉴定证明这两人均为经过变性手术的女性，法庭决定免除他们的鞭刑，转送至女子监狱进行劳动教育。该事件不仅引发了对法律和性别定义的思考，也反映了跨性别者在法律程序中的特殊困境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -40,12 +40,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人贩毒逃过新加坡鞭刑.md                             |
 > | Size            | 1526 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:20:12                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-01-22/detail-ikkntiam6408504.d.html](https://news.sina.cn/sa/2006-01-22/detail-ikkntiam6408504.d.html)                       |
+> | Author          | 大众网-齐鲁晚报                               |
+> | Region          | 新加坡                               |
+> | Date            | 2006-01-22                                 |
+> | Tags            | 跨性别, 法律, 毒品犯罪, 鞭刑, 医法律问题, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

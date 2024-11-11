@@ -45,7 +45,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了泰国政府的征兵政策对变性人群体造成的影响，特别是强制要求变性人参军的争议。根据泰国法律，所有男性青年必须参与抽签，而当身份证件上的性别无法更改时，变性人也不可避免地卷入这一要求。文中提到，许多穿着女性服装的变性者在参军抽签中面临尴尬局面，导致她们与社会期望之间产生巨大冲突。此外，报告中还提到媒体对此事的调侃式报道进一步加重了变性人群体的心理压力。该事件引发了变性人权联盟的强烈抗议，反映出变性人群体在法律和社会层面上所面临的困境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -54,12 +54,12 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国政府征兵强制变性人入伍引争议(图).md                             |
 > | Size            | 2170 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:37:12                             |
+> | Original Link   | [https://news.sina.cn/2017-04-07/detail-ifyecfnu7557628.d.html](https://news.sina.cn/2017-04-07/detail-ifyecfnu7557628.d.html)                       |
+> | Author          | 环球网                               |
+> | Region          | 泰国                               |
+> | Date            | 2017-04-07                                 |
+> | Tags            | 变性人, 征兵政策, 社会争议, 人权, 泰国, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

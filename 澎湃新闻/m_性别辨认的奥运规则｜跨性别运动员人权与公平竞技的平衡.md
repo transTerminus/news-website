@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章由澎湃新闻发布，探讨了跨性别运动员在国际体育赛事中面临的人权与公平竞争的问题，尤其是在2021年东京奥运会前夕。文章首先介绍了性少数群体的定义和权利重要性，并提到自2004年《性别同一性障碍特例法》实施以来，升值跨性别者的法律地位。重点讨论了新西兰跨性别举重选手劳蕾尔·哈伯德的案例，她成为首位公开跨性别身份的奥运运动员，同时引发了关于竞技规则和性别认同的广泛争议。文中阐述了国际奥委会的性别辨认规则，特别是男性转为女性参赛的条件，以及不同国家和机构对跨性别运动员的政策差异，包括对睾酮水平的要求。此外，文中还提及了科学与伦理之间的张力，以及在推进人权与保持比赛公平性之间的挑战。文章结尾反思了未来关于性别和公平的争论可能永无止境的现象。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -41,12 +41,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_性别辨认的奥运规则｜跨性别运动员人权与公平竞技的平衡.md                             |
 > | Size            | 5511 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:56:01                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13900171](https://m.thepaper.cn/newsDetail_forward_13900171)                       |
+> | Author          | 彭益鸿                               |
+> | Region          | 未知                               |
+> | Date            | 2021-07-01                                 |
+> | Tags            | 跨性别运动员, 人权, 公平竞技, 奥运会, 性别辨认, 劳蕾尔·哈伯德, 性别少数群体, 法律政策, 日本, 体育竞技, 睾酮水平                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -91,7 +91,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了31岁宁夏女子耿子通过变性手术实现成为男性的过程，揭示了她在多年的易性癖背景下所经历的心理挣扎与生存现实。文中详细描述了耿子自中学时期发现自己的性别认同困扰，逐步走向变性之路的心路历程。从第一次体验女性身体变化的无助感，到与初恋女友相爱却又因性别认同的障碍而分离，再到最后在广东武警医院完成变性手术的经历，耿子不仅描绘了自己的性别转换之梦，还表达了对未来生活的期待与向往。本文还涉及对变性手术的医疗技术细节及术后心理适应的讨论，同时提出社会对跨性别者应有的支持与理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -100,12 +100,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_31岁女子易性癖折磨十多年广州成功变性(图)_-_新浪新闻.md                             |
 > | Size            | 8313 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:36:43                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4142891.d.html](https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4142891.d.html)                       |
+> | Author          | 新快报记者 钟起龙 凌宇 实习生 刘烨                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2005-07-20                                 |
+> | Tags            | 跨性别, 变性手术, 生命故事, 易性癖, 社会态度, 医疗资源与经验                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

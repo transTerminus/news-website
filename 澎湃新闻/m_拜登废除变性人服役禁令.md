@@ -115,7 +115,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国总统拜登废除变性人在美军服役的禁令，关注到这一政策的历史背景及其对跨性别者的影响。故事首先回顾了川普政府时期的禁令，以及拜登在上任后采用行政命令推翻这一政策的决策过程。文中提到，拜登认为‘性别身份不应成为服兵役的障碍’，并列出一系列新规定，包括禁止因性别认同而被退伍和设立允许变性军人公开服役的程序。此举标志着美国在对待跨性别者权益方面的一次重要转变。文章中还涵盖了拜登政府的其它政策计划，包括在移民、医保和气候等领域的行政行动，显示出其广泛的政策影响力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -124,12 +124,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_拜登废除变性人服役禁令.md                             |
 > | Size            | 7770 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:43:46                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10948542](https://m.thepaper.cn/newsDetail_forward_10948542)                       |
+> | Author          | ChineseInNY                               |
+> | Region          | 美国                               |
+> | Date            | 2021-01-25                                 |
+> | Tags            | 跨性别, 美军服役, 拜登, 政策变化, 美国政治, 权益保障                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -109,7 +109,7 @@ _![](https://n.sinaimg.cn/sinacn10207/358/w179h179/20191010/0be4-ifrwayx3529515.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了性别流动性这一概念，以及当代社会如何对性别认同和表达有了新的理解。通过卡拉·埃尔南多的个人经历，文章详细阐述了非二元性别身份的成长过程，以及一个人在性别表达上的灵活性如何受到内心自我与外部环境的影响。专家指出，性别并不是一个固定的概念，而是一个取决于多种因素、能够变化的认知。文章还提到越来越多的年轻人开始认同性别流动性，而这种现象的增加与互联网的普及和对语言定义的拓展息息相关。整体来看，本文旨在呼吁对性别认同的包容与理解，并探讨构建一个更灵活和开放的性别认同环境的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -118,12 +118,12 @@ _![](https://n.sinaimg.cn/sinacn10207/358/w179h179/20191010/0be4-ifrwayx3529515.
 > |-----------------|----------------------------------------|
 > | Filename        | k_性别是流动的吗？我们的性别表达是如何被建构的？_-_新浪.md                             |
 > | Size            | 10070 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:38:32                             |
+> | Original Link   | [https://k.sina.cn/article_1642294753_61e36de1027016f7s.html](https://k.sina.cn/article_1642294753_61e36de1027016f7s.html)                       |
+> | Author          | 译言网官方账号                               |
+> | Region          | 未知                               |
+> | Date            | 2022-09-19                                 |
+> | Tags            | 性别流动性, 非二元性别, 性别认同, 性别表达, 社会文化, 心理学研究, 跨性别经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

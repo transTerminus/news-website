@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了宋祖德在2006年金鸡百花电影节发布会上引发的争议事件。他宣称将要进行变性手术以陪伴其母亲，并表示手术将由知名女星章子怡主刀。此言论引起现场观众的哄笑和演员的不满，李小萌和郑萌因此愤而离场。尽管他的言论充满了戏谑的性质，体现了社会对跨性别议题的关注与讨论，但也引发了关于严肃性和对跨性别者态度的反思。该事件显示出公众对跨性别问题的认知以及媒体在其中的角色，并强调了跨性别者在家庭和社会中的特殊位置。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -40,12 +40,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_宋祖德扬言要变性做女人“手术要让章子怡主刀”.md                             |
 > | Size            | 2639 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:31:11                             |
+> | Original Link   | [https://news.ifeng.com/society/200610/1026_20_24178.shtml](https://news.ifeng.com/society/200610/1026_20_24178.shtml)                       |
+> | Author          | 凤凰新媒体                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-10-26                                 |
+> | Tags            | 跨性别, 公众人物, 社会争议, 变性手术, 电影节, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

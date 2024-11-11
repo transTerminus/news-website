@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了2015年6月24日，美国总统奥巴马在白宫发表演讲时遇到了一名女变性人珍妮赛特·古铁雷斯的插话事件。古铁雷斯因要求关注LGBT（女性、同性恋、双性恋及变性者）移民的艰难境遇而多次打断了奥巴马的演讲，最终被驱逐出场。在演讲过程中，奥巴马呼吁尊重和合适的对话，表示打断演讲者是一种不尊重的行为。古铁雷斯的行为则突显了对LGBT群体在美国面临的生存问题的迫切关注，尤其是在拘留环境中的严峻现状。事件引起了媒体的广泛关注，并讨论了LGBT移民的权利和美国政府的政策。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_奥巴马演讲频遭女变性人打断怒斥：你在我家(图).md                             |
 > | Size            | 3714 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:34:03                             |
+> | Original Link   | [https://news.ifeng.com/a/20150626/44044902_0.shtml](https://news.ifeng.com/a/20150626/44044902_0.shtml)                       |
+> | Author          | 新京报                               |
+> | Region          | 美国                               |
+> | Date            | 2015-06-24                                 |
+> | Tags            | 跨性别, LGBT权利, 奥巴马, 古铁雷斯, 白宫演讲                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

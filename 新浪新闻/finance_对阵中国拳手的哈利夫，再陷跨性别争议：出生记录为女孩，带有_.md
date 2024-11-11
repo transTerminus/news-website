@@ -152,7 +152,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了阿尔及利亚跨性别拳击运动员伊曼妮·哈利夫在2024年巴黎奥运会上引发的争议。文章介绍了哈利夫的比赛表现以及在比赛中与中国拳手杨柳对阵的情况，重点提到其性别身份的争议及其出生记录。文章指出，哈利夫因被质疑其性别而受到广泛关注，许多人对此表示不满，并引发社会对跨性别运动员在体育比赛中公平性的讨论。与此同时，文章还提到哈利夫的成长背景，她从小就热爱运动并面对巨大挑战，从而成为一名优异的拳击手。此外，文章还探讨了国际拳击协会（IBA）在性别检测方面的争议及其对精神健康和社会环境带来的影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -161,12 +161,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | finance_对阵中国拳手的哈利夫，再陷跨性别争议：出生记录为女孩，带有_.md                             |
 > | Size            | 13488 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:22:03                             |
+> | Original Link   | [https://finance.sina.com.cn/jjxw/2024-08-10/doc-incicncf9908119.shtml](https://finance.sina.com.cn/jjxw/2024-08-10/doc-incicncf9908119.shtml)                       |
+> | Author          | 时代周报-时代在线                               |
+> | Region          | 未知                               |
+> | Date            | 2024-08-10                                 |
+> | Tags            | 跨性别, 拳击, 哈利夫, 巴黎奥运会, 性别争议, 阿尔及利亚                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

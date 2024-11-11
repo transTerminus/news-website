@@ -68,7 +68,7 @@ LGBTQ+权利组织和一些游泳运动员则表示，这项政策会伤害跨�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了国际泳联于2022年6月19日通过的新的‘性别包容政策’，该政策对跨性别运动员参加女子赛事的资格设定了严格的标准。根据新政策，只有在12岁之前完成变性且体内睾酮水平保持在2.5nmol/L以下的变性游泳运动员才能参加女子赛事。这一政策的出台目的在于维护运动的公平性，但同时也引发了跨性别运动员和LGBTQ+权利组织的广泛争议与反对。许多人认为新的标准是歧视性的，严重影响了跨性别女性的参赛资格。国际泳联在政策中进一步提出，将尝试设立开放组别以包容所有运动员。文件还提到了宾夕法尼亚大学的变性运动员利亚·托马斯的比赛情况，以及对政策的不同看法和反响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -77,12 +77,12 @@ LGBTQ+权利组织和一些游泳运动员则表示，这项政策会伤害跨�
 > |-----------------|----------------------------------------|
 > | Filename        | m_国际泳联限制跨性别者参加女子赛事.md                             |
 > | Size            | 6408 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:13:04                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18667907](https://m.thepaper.cn/newsDetail_forward_18667907)                       |
+> | Author          | 纽约时间国际领域创作者                               |
+> | Region          | 未知                               |
+> | Date            | 2022-06-19                                 |
+> | Tags            | 跨性别, 游泳, 国际泳联, 性别包容政策, 运动员权益, 法律政策, LGBTQ+权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

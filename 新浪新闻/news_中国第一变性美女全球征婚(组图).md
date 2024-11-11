@@ -131,7 +131,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章主要讲述了中国第一变性美女寒冰冰通过网络进行全球征婚的事情。文章详细描述了寒冰冰的征婚宣言，表达了她对爱情的渴望，以及她作为跨性别女性在社会中过渡的经历。寒冰冰在文中提到，她虽然面临社会的压力与误解，但依然希望能找到一个合适的伴侣。征婚的具体要求显示出她对理想伴侣的明确标准，其中包括个人的外貌及生活方式。此外，文章中还引入了寒冰冰的周围人的看法，包括她家人的支持和一些网友的反应，展现了不同的社会态度。整体上，这篇文章不仅记录了一位跨性别女性的个人故事，也反映了社会对跨性别者婚恋问题的关注与讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -140,12 +140,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国第一变性美女全球征婚(组图).md                             |
 > | Size            | 5491 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:53:24                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-05-15/detail-ikknscsk2231845.d.html?from=wap](https://news.sina.cn/sa/2007-05-15/detail-ikknscsk2231845.d.html?from=wap)                       |
+> | Author          | 大河网-河南商报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-05-15                                 |
+> | Tags            | 跨性别, 变性, 婚恋, 个人故事, 社会反响, 网络征婚                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

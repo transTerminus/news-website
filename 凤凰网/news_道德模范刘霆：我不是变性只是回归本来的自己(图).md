@@ -89,7 +89,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了全国道德模范刘霆的故事，她在经历了多年的内心挣扎后，最终选择了进行变性手术，并在成功手术后首次公开亮相。作者详细记录了刘霆的成长经历，从幼年开始，她就表现出与传统性别角色不符的倾向。刘霆的转变不仅是外在的形象变化，更是她个人身份认同的重塑，她强调自己并非变性，而是‘回归本来的自己’。在手术之后，刘霆感受到前所未有的解脱，并希望未来能够活出真实自我。同时，刘霆的母亲也在故事中展现出理解与支持，逐渐接受了刘霆的选择，并希望她能真正成为自己想成为的女性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -98,12 +98,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_道德模范刘霆：我不是变性只是回归本来的自己(图).md                             |
 > | Size            | 8100 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:30:16                             |
+> | Original Link   | [https://news.ifeng.com/a/20150409/43511939_0.shtml](https://news.ifeng.com/a/20150409/43511939_0.shtml)                       |
+> | Author          | 新快报记者罗汉章陈海生                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-04-09                                 |
+> | Tags            | 刘霆, 模范, 还性, 跨性别, 个人故事, 医疗经历, 社会接纳                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

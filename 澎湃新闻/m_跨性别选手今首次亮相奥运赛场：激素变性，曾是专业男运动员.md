@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了跨性别选手劳蕾尔·哈伯德在2021年东京奥运会上首次亮相赛场的经历，哈伯德是第一位公开身份的变性女性运动员参加奥运会。文章详细描述了哈伯德的背景，指出她出生为男性，曾是一名男子运动员，并在2013年开始接受激素疗法以转变为女性，重新参与举重比赛。哈伯德在资格赛中以285公斤的成绩锁定了奥运参赛资格，国际奥委会对她的参赛表示了支持，称这是奥林匹克运动的重要里程碑。同时，文章也提到这一事件引发了关于公平竞争、生命伦理及人权的广泛讨论。支持者认可哈伯德的参与是包容的象征，而反对者则质疑她所拥有的身体优势对其他女性选手的公平性。文件中还提到中国选手李雯雯与哈伯德同场竞技，以及她的比赛成就与潜力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -33,12 +33,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别选手今首次亮相奥运赛场：激素变性，曾是专业男运动员.md                             |
 > | Size            | 2215 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:54:14                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13850994](https://m.thepaper.cn/newsDetail_forward_13850994)                       |
+> | Author          | 未知                               |
+> | Region          | 新西兰                               |
+> | Date            | 2021-08-02                                 |
+> | Tags            | 跨性别运动员, 东京奥运会, 劳蕾尔·哈伯德, 运动公平性, 人权, 生命伦理, 女性运动员                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

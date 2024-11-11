@@ -55,8 +55,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_Nature：雄激素治疗后的跨性别男性，免疫系统被重塑.md                             |
 > | Size            | 4906 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:27:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28638946](https://m.thepaper.cn/newsDetail_forward_28638946)                       |
 > | Author          | 王聪                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2024-09-04                                 |

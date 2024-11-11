@@ -114,7 +114,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文对美国新总统拜登签署的一项重要行政命令进行了核查与解析，该命令旨在防止和打击基于性别认同或性取向的歧视。文件指出，拜登在2021年1月20日上任后签署的行政命令中提到：“儿童应该能在学校学习，而不必担心是否会被拒绝进入洗手间、更衣室或参加学校体育活动。”此命令为跨性别人士特别是变性女性参与女子体育比赛的相关法律政策变化提供了可能的支持。虽然行政命令没有具体条款提出变性女性参与女子运动的要求，但它标志着政府在性别平等与反歧视方面的坚定立场。文件还提到美国大学对变性运动员的参赛规则以及各州的相关政策，展示了跨性别者在美国体育领域面临的法律现状和社会反响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -123,12 +123,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_核查拜登要求学校必须接受变性人参加女子运动会？部分虚假.md                             |
 > | Size            | 8694 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:42:42                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10917581](https://m.thepaper.cn/newsDetail_forward_10917581)                       |
+> | Author          | 有据团队                               |
+> | Region          | 美国                               |
+> | Date            | 2021-01-20                                 |
+> | Tags            | 政治, 社会, 跨性别运动, 法律政策, 性别歧视, 行政命令, 体育比赛                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

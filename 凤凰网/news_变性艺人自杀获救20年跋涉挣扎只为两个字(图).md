@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了变性艺人梦琪的悲惨经历，她在经过20年的挣扎后尝试自杀，幸免于难，接受了采访，披露了她成为女性的真实过程与内心的痛苦。文章通过梦琪的自述，描绘了她从小对性别身份的认同，以及在社会压力与自我认同间的斗争。梦琪回忆了自己早年的困惑与痛苦，她感到自己是一个‘多余的人’。在手术后，她终于感到重生，但其后续生活中依然面临种种挑战。文章深入探讨了变性人的生存现状，以及社会对于性别身份的不理解与偏见，反映了跨性别社群的所思所想。由此，文章不仅是对梦琪个人故事的讲述，也是对跨性别者在社会中所遭受压力的深刻反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -88,12 +88,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性艺人自杀获救20年跋涉挣扎只为两个字(图).md                             |
 > | Size            | 8078 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:31:51                             |
+> | Original Link   | [https://news.ifeng.com/society/3/200704/0426_345_109635.shtml](https://news.ifeng.com/society/3/200704/0426_345_109635.shtml)                       |
+> | Author          | 凤凰新媒体                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-04-26                                 |
+> | Tags            | 变性, 人生故事, 心理健康, 社会环境, 自杀未遂                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

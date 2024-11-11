@@ -71,7 +71,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位名为俊杰的男子对变性手术的渴望和经历。内容开头描述了俊杰向媒体倾诉他想变成女性的心情，以及他与艺术照的接触，展现了他的内心挣扎与痛苦。他在整形医院与专家的对话中，坦诚自己已经做好心理准备，并理解变性手术后的复杂性。文章中提到，俊杰的经历不仅是个人的选择，还反映出社会对跨性别群体的偏见与歧视。文章深入探讨了变性手术前所需的心理评估以及社会支持的重要性，同时呼吁社会对这一群体的理解和尊重，反映了他们所面临的生存现状和心理健康问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -80,12 +80,12 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 > |-----------------|----------------------------------------|
 > | Filename        | news_英俊男子欲做变性手术艺术照作女子扮相(组图).md                             |
 > | Size            | 5271 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:09:18                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-09-22/detail-ikkntiam4653360.d.html](https://news.sina.cn/sa/2005-09-22/detail-ikkntiam4653360.d.html)                       |
+> | Author          | 四川新闻网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2005-09-22                                 |
+> | Tags            | 变性手术, 跨性别, 心理健康, 社会问题, 生命故事, 过渡经历, 整形医院, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -50,7 +50,7 @@ Margaret称在婚姻生活中自己一直在试图掩饰自己对男性身体的
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位名叫Margaret Pepper的跨性别女性的故事。她在长达几十年的男性生活后，终于在妻子患上老年痴呆并入院治疗的时候，决定接受变性手术，以女性身份重新开始自己的生活。这篇文章详细描述了Margaret的内心挣扎与转变过程，尤其是在与妻子Anita的婚姻中，她如何掩饰自己的真实身份，直到向妻子坦白自己想变为女性的渴望。Margaret在2004年进行的全面变性手术后，以女性的身份参加了妻子的葬礼。这一举动引发了社会对跨性别者身份的讨论，文章最后还包含了网友对此事件的看法与评论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -59,12 +59,12 @@ Margaret称在婚姻生活中自己一直在试图掩饰自己对男性身体的
 > |-----------------|----------------------------------------|
 > | Filename        | news_60岁男子做变性手术以女人身份参加妻子葬礼.md                             |
 > | Size            | 2576 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:34:28                             |
+> | Original Link   | [https://news.sina.cn/sh/2016-05-15/detail-ifxsenvn7185186.d.html](https://news.sina.cn/sh/2016-05-15/detail-ifxsenvn7185186.d.html)                       |
+> | Author          | 中国青年网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2016-05-15                                 |
+> | Tags            | 跨性别, 变性手术, 性别认同, 妻子葬礼, 生命故事, 社会反思                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

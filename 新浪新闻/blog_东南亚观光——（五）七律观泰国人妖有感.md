@@ -74,7 +74,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于泰国人妖的游记，记录了作者在2016年12月对泰国的旅游经历，尤其是观看人妖表演的感受与观察。文章中通过诗歌形式，表达了对于人妖表演的惊叹与思考，展现出一种既欣赏又感慨的复杂情绪。在对泰国人妖的描述中，作者指出人妖通常来自贫困家庭，多数人是为了生计而成为表演者，接受了从小的训练和女性化的转变。文中还详细介绍了人妖在表演艺术方面的训练以及她们的生活状况，强调她们的演出频率和年龄局限。整体上，文章既是对艺术表演的赞美，也是对人妖生存状态的反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -83,12 +83,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | blog_东南亚观光——（五）七律观泰国人妖有感.md                             |
 > | Size            | 4448 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:06:57                             |
+> | Original Link   | [https://blog.sina.com.cn/s/blog_53175a1a0102y8k0.html](https://blog.sina.com.cn/s/blog_53175a1a0102y8k0.html)                       |
+> | Author          | 志幻春秋                               |
+> | Region          | 泰国                               |
+> | Date            | 2017-01-26                                 |
+> | Tags            | 泰国, 人妖, 跨性别, 旅游, 艺术表演, 生活故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

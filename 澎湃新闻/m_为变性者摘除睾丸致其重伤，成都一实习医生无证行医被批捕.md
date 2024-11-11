@@ -22,8 +22,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_为变性者摘除睾丸致其重伤，成都一实习医生无证行医被批捕.md                             |
 > | Size            | 1843 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:53:42                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true](https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true)                       |
 > | Author          | 未知                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2023-09-23                                 |

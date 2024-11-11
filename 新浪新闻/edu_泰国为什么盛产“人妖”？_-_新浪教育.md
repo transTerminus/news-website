@@ -137,7 +137,7 @@ Ladyboy的大批产生正是在此时，一方面美国大兵对泰国这种异�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为新浪教育发布的文章，探讨了泰国人妖文化的起源和发展。在文中，首先指出‘人妖’这个称呼带有歧视色彩，泰国人更倾向于用‘Kathoey’来描述这种群体。而泰国文化和宗教背景，特别是佛教对性别认知的包容性，使得男性在追求自身认同时更容易选择变性或以女装形象示人。文章也提到，泰国的性产业从越南战争时期开始迅速发展，形成了一大社会现象。通过历史和文化的解析，本文章阐述了人妖的社会环境、经济背景及其生存现状，反映了泰国社会对性少数者的态度与接受度。文中举了泰国著名的ladyboy索拉威纳帝（Sorrawee Nattee）的例子，从个人转型和社会反应的角度，进一步探讨了跨性别者的生活和挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -146,12 +146,12 @@ Ladyboy的大批产生正是在此时，一方面美国大兵对泰国这种异�
 > |-----------------|----------------------------------------|
 > | Filename        | edu_泰国为什么盛产“人妖”？_-_新浪教育.md                             |
 > | Size            | 9966 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:35:57                             |
+> | Original Link   | [http://edu.sina.cn/zl/2016-04-25/zl-ifxrpvqz6721854.d.html?from=wap](http://edu.sina.cn/zl/2016-04-25/zl-ifxrpvqz6721854.d.html?from=wap)                       |
+> | Author          | 新浪教育                               |
+> | Region          | 泰国                               |
+> | Date            | 2016-04-25                                 |
+> | Tags            | 跨性别, 人妖文化, 泰国, 性别认同, 性产业, 佛教影响, 社会态度                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

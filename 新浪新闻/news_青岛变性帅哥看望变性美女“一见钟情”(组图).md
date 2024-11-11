@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇新闻报道讲述了2003年11月27日青岛市首例女性变男性患者小东，前往青岛市妇幼保健院探望另一位变性女性莉莉的故事。小东在与莉莉见面后产生了深厚的情感，甚至流下了激动的泪水。报道中详细描述了小东的外貌与经历，以及他与母亲对莉莉生活状况的关心。文章还提到莉莉目前不准备寻找男朋友，但两人相约成为好朋友。这一事件不仅展现了变性人之间的情感联系，也反映了社会对变性群体的关注与讨论。文中还记录了网络用户对这一事件的不同看法与评论，揭示了社会对跨性别群体的复杂态度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -59,12 +59,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_青岛变性帅哥看望变性美女“一见钟情”(组图).md                             |
 > | Size            | 2704 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:17:56                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-11-27/detail-ikkntiak8699836.d.html](https://news.sina.cn/sa/2003-11-27/detail-ikkntiak8699836.d.html)                       |
+> | Author          | 手机新浪网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-11-27                                 |
+> | Tags            | 跨性别, 变性, 社会故事, 青岛, 生命故事, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

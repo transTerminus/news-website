@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了英国第一位变性人艾普萝·阿什利的传奇人生。文章回顾了她在变性手术前的艰辛经历，包括童年时期对性别认同的困惑以及社会上的种种偏见和歧视。艾普萝于1960年接受变性手术，成为女性。尽管她经历了一系列的痛苦和挑战，包括自杀未遂、精神病院的电击治疗等，但她最终成功地在模特行业打拼并获得了名声。文章还提到，她与知名画家毕加索之间的关系以及她在婚姻中的波折如何推动我国法律的改变。正值变性手术的50周年之际，艾普萝在一次关于身份认同的展览会中，回顾了接近半个世纪的变性生活。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国变性第一人：妩媚妖娆曾被毕加索追求(组图).md                             |
 > | Size            | 2451 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:35:28                             |
+> | Original Link   | [https://news.ifeng.com/world/200911/1125_16_1450142.shtml](https://news.ifeng.com/world/200911/1125_16_1450142.shtml)                       |
+> | Author          | 霍吉和                               |
+> | Region          | 英国                               |
+> | Date            | 2009-11-25                                 |
+> | Tags            | 变性人, 艾普萝·阿什利, 性别认同, 心理健康, 法律变革, 模特生涯, 毕加索, 历史回顾                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

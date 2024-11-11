@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了中国变性手术的立法现状及其背后的社会及医学议题。文章引用了两位医生陈焕然和何清濂在变性手术领域的看法和经历，指出了缺乏相关法律法规对变性手术患者和医生选择手术对象的影响。文中提到自2000年至今，变性手术的数量大幅减少，医生们在选择患者时的谨慎态度反映了社会环境对变性人的影响。文章也提及变性手术并非解决变性人幸福生活的终点，许多患者在手术后依旧面临诸多生存挑战。最后，呼吁对变性手术立法的迫切性，以建立更安全和受法律保障的医疗环境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -71,12 +71,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_对变性手术进行立法已成燃眉之急.md                             |
 > | Size            | 6427 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:51:30                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-04-26/detail-ikftpnny3859117.d.html](https://news.sina.cn/sa/2007-04-26/detail-ikftpnny3859117.d.html)                       |
+> | Author          | 戴敦峰                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-04-26                                 |
+> | Tags            | 变性手术, 立法, 性别认同, 医疗资源, 社会支持, 心理准备, 易性癖, 患者经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

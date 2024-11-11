@@ -185,7 +185,7 @@ END
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详尽记录了新西兰跨性别举重运动员哈伯德在东京2020年奥运会的经历及相关争议。哈伯德作为首位参与奥运会的跨性别女性选手，曾因其生理男性的背景而引发大量关于性别与公平性的问题。文章回顾了她的运动生涯，包括在男子组的体育记录，以及她在接受跨性别激素治疗后重返女子组比赛中取得的成就。资料中提到的运动会所体现的多元文化与社会包容性也引发了讨论。尽管哈伯德最终在比赛中未能获得良好成绩，但她能作为女性选手参赛本身已是鼓励跨性别群体向前迈出的重要一步。此外，文章也关注了其他LGBT选手在奥运会中的参与情况，以及对于公平性的争论。文件提供了丰富的信息和对话，探讨了当今体育世界中的性别争议及其文化背景。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -194,12 +194,12 @@ END
 > |-----------------|----------------------------------------|
 > | Filename        | m_新西兰跨性别选手，淘汰出局.md                             |
 > | Size            | 12474 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:55:35                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13887853](https://m.thepaper.cn/newsDetail_forward_13887853)                       |
+> | Author          | 小米桶                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 东京2020奥运会, 哈伯德, 性别平等, 运动员经历, LGBT, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

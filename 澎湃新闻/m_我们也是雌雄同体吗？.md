@@ -78,7 +78,13 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章探讨了跨性别现象在现代社会中的复杂性与多样性，结合了医学、社会学与文化的视角来分析跨性别人士所面临的挑战及相关的科学研究。文章首先提到近年来关于跨性别相关话题的广泛讨论，从J.K.罗琳的争议言论到CALVIN KLEIN的酷儿模特再到当当网的劳动纠纷，这些事件引发了公众的热烈关注。               
+
+接着，文章介绍了雌雄同体与跨性别的概念，指出跨性别是一个包含多种性别认同的雨伞术语，统计数据显示全球约有0.3%至0.6%的人群认同为跨性别者。这其中包括对人类性别生物学的剖析，文章提及了蓝头濑鱼等自然界中的雌雄同体现象，并提出人类的性别发育机制同样并不单一。                
+
+通过讲述历史上（如小布莱恩和乔治·乔根森）的个案，文中探讨了性别认同的形成以及外部社会环境对这一过程的影响，强调性别认同是复杂的心理过程，并不是单纯由生理因素决定。同时，文章也批判了生物决定论，认为社会对性别的认知需更加开放与包容，以允许个体真实自我认同的表达。              
+
+最后，文章呼吁创造一个更能接纳多样性与自主权的环境，减少对跨性别及间性人群体的偏见与歧视。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -87,12 +93,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_我们也是雌雄同体吗？.md                             |
 > | Size            | 11860 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:50:58                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9490421](https://m.thepaper.cn/newsDetail_forward_9490421)                       |
+> | Author          | 兰迪·胡特尔·爱泼斯坦（Randy Hutner Epstein），翻译：杨惠东                               |
+> | Region          | 中国                               |
+> | Date            | 2020-07-01                                 |
+> | Tags            | 跨性别, 雌雄同体, 性别认同, 医学科普, 社会环境, 心理健康, 社会文化, 科学研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了涉及变性人婚姻关系的法律问题。文章以一位名叫高玲的读者的咨询为开头，描述了她与丈夫李某的婚姻状况：李某在婚后逐渐展现出女性特征，并最终接受了变性手术。经过变性后，李某办理了身份证的性别与姓名更改，并与高玲讨论是否需要离婚。文中指出根据我国目前的法律，即使一方变性，他们的婚姻依然是合法有效的，解除婚姻关系的合法途径仍需遵循《婚姻法》和相关规定，包括协议离婚或法院判决离婚。文中引用了民政部的指导性意见，明确丈夫变性后仍应办理离婚，若双方财产未争议，可参照协议离婚处理。这篇文章反映出社会对跨性别人士婚姻法律问题的关注，也揭示了当前法律在该领域的局限性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -38,12 +38,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_丈夫变性后要办离婚吗.md                             |
 > | Size            | 2391 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:35:41                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-08-02/detail-ikkntiam7526159.d.html](https://news.sina.cn/sa/2006-08-02/detail-ikkntiam7526159.d.html)                       |
+> | Author          | 单国胜                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-08-02                                 |
+> | Tags            | 变性, 婚姻法律, 跨性别, 人生故事, 医疗资源, 社会政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

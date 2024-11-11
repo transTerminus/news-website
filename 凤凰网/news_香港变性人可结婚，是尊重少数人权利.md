@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了香港变性人获得结婚权的重要性，特别是通过变性人W的案例，她在经过艰苦的法律斗争后，终于得到合法结婚的权利。文章指出，香港终审法院的裁决标志着对变性人权利的认可，因为W已经采用了性别重置手术并成为事实上的女性，阻止她和男性结婚被视为对基本婚姻权利的侵犯。尽管裁决赢得了广泛赞誉，但随后的婚姻法修订提案却在立法会受挫，主要原因是部分议员对传统婚姻观念的坚持和对变性人法律保障措施的担忧。文章强调，社会对变性人的看法应该更为包容，个人的权利应当得到尊重，法律和道德都应适应社会的变迁，呼吁港府制定全面且有效的婚姻政策，以反映现代社会的多元需求。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -44,12 +44,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_香港变性人可结婚，是尊重少数人权利.md                             |
 > | Size            | 4238 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:12:20                             |
+> | Original Link   | [https://news.ifeng.com/a/20141028/42313974_0.shtml](https://news.ifeng.com/a/20141028/42313974_0.shtml)                       |
+> | Author          | 南方都市报                               |
+> | Region          | 香港                               |
+> | Date            | 2014-10-28                                 |
+> | Tags            | 变性人, 婚姻权利, 法律政策, 社会环境, 香港, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

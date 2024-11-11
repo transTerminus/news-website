@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇来自凤凰网的文章讲述了一位名叫卡拉·海斯（Kara Hays）男子的故事，他由于迷恋流行歌手布兰妮·斯皮尔斯而决定进行变性手术和隆胸手术。文章描述了她为此花费了超过6万英镑（约60万元人民币）的巨额费用，并通过一系列图片展示了她的变性过程及手术后的结果。手术后，因她的外貌与布兰妮相似，常被误认为是布兰妮。文中还提及卡拉在15岁时被诊断患有性别焦虑症，这也促使了她的变性决定。内容整体反映了个体在性别认同与个人价值之间的探索，同时也触及了社会对跨性别人士的认知与接受度问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -62,12 +62,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | fashion_男子迷恋布兰妮花巨款变性隆胸(组图)_-_时尚-_凤凰网.md                             |
 > | Size            | 3706 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:13:52                             |
+> | Original Link   | [https://fashion.ifeng.com/health/longevity/photo/detail_2012_08/01/16460369_0.shtml](https://fashion.ifeng.com/health/longevity/photo/detail_2012_08/01/16460369_0.shtml)                       |
+> | Author          | 张银萍                               |
+> | Region          | 未知                               |
+> | Date            | 2012-08-01                                 |
+> | Tags            | 跨性别, 变性手术, 性别认同, 身体转变, 流行文化, 布兰妮·斯皮尔斯, 性别焦虑症                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -137,7 +137,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章围绕动漫中女装角色进行盘点，列举了十位具有代表性的女性化角色，探讨了塑造这些角色的文化背景及其社会意义。文章的开头提到，女装文化在现代社会中逐渐成为一种对美的追求，人们对自我表达和个性化选择的渴望也不断增强。作者通过角色的介绍，展现了各种风格的女装角色，从经典游戏到热门动画，解析了作品中的角色如何通过女装展现自身魅力，并引发了社会对性别表达和认同的讨论。文章中详细描述了每个角色的个性、背景及其在作品中的地位，描绘了动漫文化中的多样性和包容性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -146,12 +146,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_盘点动漫女装角色Top10，女装是社会进步的必然！_-_新浪.md                             |
 > | Size            | 13724 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:55:40                             |
+> | Original Link   | [https://k.sina.cn/article_6208338510_1720bba4e001001aw1.html](https://k.sina.cn/article_6208338510_1720bba4e001001aw1.html)                       |
+> | Author          | 新浪网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2017-08-08                                 |
+> | Tags            | 跨性别, 动漫, 女装, 角色盘点, 社会进步, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

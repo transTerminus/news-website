@@ -82,7 +82,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了新西兰跨性别举重运动员劳雷尔·哈伯德（Laurel Hubbard）参加东京奥运会女子举重项目引发的争议。文中详细介绍了哈伯德的背景，其于2013年完成性别转换，曾是一名男子举重运动员，及其获得的赛事成绩。国际奥委会的相关规定允许跨性别女性参与女子比赛，但这一决策引发了广泛的社会讨论与质疑，尤其是关于生理性别与心理性别在体育竞争中的公平性问题。文章还提及了众多网友和体育人士对此事的反应，包括美国前总统特朗普对这一事件的批评，认为这对女性运动员的权利构成威胁。整体来看，该文章反映了当前社会对跨性别者参与体育活动的深刻分歧和争论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -91,12 +91,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_全球首位跨性别举重运动员参赛，网友吵上热搜：等于作弊.md                             |
 > | Size            | 4675 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:52:23                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13759187](https://m.thepaper.cn/newsDetail_forward_13759187)                       |
+> | Author          | 山西晚报官方澎湃号                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-07-26                                 |
+> | Tags            | 跨性别, 举重, 东京奥运会, 体育公平性, 法律政策, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

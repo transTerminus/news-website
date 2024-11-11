@@ -78,8 +78,8 @@ Roland Betancourt: 我希望能够尽可能直言不讳地去发表观点声援�
 > |-----------------|----------------------------------------|
 > | Filename        | m_PUP冷芝士_拜占庭秘史中的性少数.md                             |
 > | Size            | 3990 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:45:02                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_12025720](https://m.thepaper.cn/newsDetail_forward_12025720)                       |
 > | Author          | Roland Betancourt，编辑 Alison Lee                               |
 > | Region          | 美国                               |
 > | Date            | 2020-12-01                                 |

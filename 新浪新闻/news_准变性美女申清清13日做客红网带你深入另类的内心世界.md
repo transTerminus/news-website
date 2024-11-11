@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件记录了19岁准变性美少女申清清的故事，她在2008年11月12日做客红网，与湖南省人民医院的心理咨询专家及美容医院的院长一起讨论变性话题。申清清自称为“男儿身，女儿心”，面对性别问题带来的挑战，她表达了强烈的变性愿望，甚至有“死了也要变成女人”的决心。文章探讨了“异性癖”与“变性人”的心理根源，以及他们在社会中生存的困境、变性手术的风险等问题。访谈的目的是深入了解这一群体的内心世界，并鼓励网友提问参与讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -34,12 +34,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_准变性美女申清清13日做客红网带你深入另类的内心世界.md                             |
 > | Size            | 1477 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:03:52                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-11-12/detail-ikkntian1071258.d.html](https://news.sina.cn/sa/2008-11-12/detail-ikkntian1071258.d.html)                       |
+> | Author          | 董雷                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-11-12                                 |
+> | Tags            | 跨性别, 变性人, 生命故事, 社会环境, 心理健康, 媒体访谈                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

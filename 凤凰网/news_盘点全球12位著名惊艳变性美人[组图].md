@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自凤凰网，标题为《盘点全球12位著名惊艳变性美人》，着重介绍了世界范围内的几位著名变性女性，包括韩国的河莉秀和中国的陈莉莉。河莉秀在十八岁时离家，二十二岁决定进行变性手术，并在1998年成功完成手术，成为一名歌手，表明她的变性经历与她的职业生涯密切相关。另一位变性美女陈莉莉则被称为中国第一变性美女，她在2004年参加“环球小姐”比赛，展现了女性的魅力。文本通过介绍这些人的经历与背景，反映出变性女性在社会中的地位及其对自我身份的追求。文章中还包含了多个链接，指向相关的变性人选美大赛及流行文化中的变性人表现，整体旨在弘扬对变性人群体的重视与理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -42,12 +42,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_盘点全球12位著名惊艳变性美人[组图].md                             |
 > | Size            | 2019 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:25:47                             |
+> | Original Link   | [https://news.ifeng.com/photo/other/200810/1013_1399_828604_1.shtml](https://news.ifeng.com/photo/other/200810/1013_1399_828604_1.shtml)                       |
+> | Author          | 王平伟                               |
+> | Region          | 未知                               |
+> | Date            | 2008-10-13                                 |
+> | Tags            | 变性人, 变性手术, 变性美女, 跨性别, 社会认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

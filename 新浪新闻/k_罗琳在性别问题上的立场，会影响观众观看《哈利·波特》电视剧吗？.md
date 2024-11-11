@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于J.K.罗琳在性别问题上的言论对即将新制作的哈利·波特电视剧可能产生的影响的文章。作者刘亚光在新京报的书评周刊中对此进行了深入探讨，分析了华纳公司重启《哈利·波特》系列电视剧的决定，以及罗琳的争议言论如何影响观众的观看意愿与消费行为。文章提到，新剧系列将拍摄七季，对应原作的七部小说，且罗琳将深度参与制作并控制剧集内容。随着关于罗琳对于跨性别群体的言论引发的广泛讨论，许多哈迷对于此项目的态度分歧。一些人表示希望剧集能够展现更多与原著一致的内容，而另一些人则因罗琳的言论而对观看产生顾虑。此话题的争议性也反映了社交媒体时代年轻观众的价值观以及他们如何看待创作者与作品之间的关系。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_罗琳在性别问题上的立场，会影响观众观看《哈利·波特》电视剧吗？.md                             |
 > | Size            | 6985 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:37:54                             |
+> | Original Link   | [https://k.sina.cn/article_1047467705_3e6f16b90190181n9.html](https://k.sina.cn/article_1047467705_3e6f16b90190181n9.html)                       |
+> | Author          | 刘亚光                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-04-13                                 |
+> | Tags            | 跨性别, J.K.罗琳, 哈利·波特, 电视剧, 社会争议, 影视改编                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

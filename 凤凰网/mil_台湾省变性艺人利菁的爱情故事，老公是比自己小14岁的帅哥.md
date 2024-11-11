@@ -29,7 +29,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档介绍了台湾省变性艺人利菁的爱情故事，内容包括她的个人经历及与比自己小14岁的丈夫之间的感情生活。文章通过视频形式分享了利菁的爱情故事，展示了她在跨性别生活中的积极态度与勇敢追求爱情的决心。尤其突出了她与丈夫之间无关年龄差距而是建立在深厚感情基础上的美好关系，反映出她作为跨性别人士在爱情方面的正面体验和对社会上对于性别认同的包容态度。文章还提及了社会对跨性别人士的看法以及利菁在公众视野中的影响力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -38,12 +38,12 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > |-----------------|----------------------------------------|
 > | Filename        | mil_台湾省变性艺人利菁的爱情故事，老公是比自己小14岁的帅哥.md                             |
 > | Size            | 1627 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:33:51                             |
+> | Original Link   | [https://mil.ifeng.com/c/7zAn8xIOozh](https://mil.ifeng.com/c/7zAn8xIOozh)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 台湾省                               |
+> | Date            | 2020-08-23                                 |
+> | Tags            | 跨性别, 爱情故事, 利菁, 台湾省, 变性艺人                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

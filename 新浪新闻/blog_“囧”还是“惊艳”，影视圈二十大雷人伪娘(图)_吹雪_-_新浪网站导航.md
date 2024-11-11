@@ -97,7 +97,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了近年来在中国内地歌唱节目《快乐男声》中流行的伪娘现象。作者吹雪通过对快男成都海选的观察，提到了一位声音与王菲相似的参赛者刘著，让人重新审视“伪娘”这一文化现象的发展与影响。文章列举了多位曾在不同影视作品中扮演女性角色的男演员，探讨了这一表现形式背后文化的更深层次原因，尤其是在娱乐圈中的应用及对公众的影响。伪娘这一现象不仅是对性别角色的挑战，也反映了社会对于性别多样性的接受程度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -106,12 +106,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | blog_“囧”还是“惊艳”，影视圈二十大雷人伪娘(图)_吹雪_-_新浪网站导航.md                             |
 > | Size            | 2821 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:02:56                             |
+> | Original Link   | [https://blog.sina.com.cn/s/blog_4a988a9f0100i2ui.html](https://blog.sina.com.cn/s/blog_4a988a9f0100i2ui.html)                       |
+> | Author          | 吹雪                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2010-05-05                                 |
+> | Tags            | 伪娘, 快男, 影视圈, 性别多样性, 娱乐文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

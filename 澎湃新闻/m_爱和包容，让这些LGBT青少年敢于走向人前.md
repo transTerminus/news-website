@@ -51,7 +51,7 @@ Riley Roberts有两个母亲，但是在他18岁的时候，他所生活的内�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档介绍了几位跨性别青少年的生命故事与过渡经历，强调了爱与包容在接纳自身及社会角色中的重要性。文件中提到的青少年通过访问分享了他们的成长经历，包括家庭和朋友的支持如何帮助他们走出阴影、勇敢地面对自身身份。文中提到的跨性别女孩Jazz Jennings，在她12岁时鼓励其他面临类似经历的孩子去表达自己，并且相信每个孩子都应当获得快乐。还提到Ted Chalfen，他在高中经历了支持和鼓励，而不是孤立和霸凌，认为学校的接纳对他的人生至关重要。Devon分享了她如何努力让父亲理解自己作为女孩的身份，并且意识到公开自己的经历能够鼓励更多人。James Spence则讲述了自己在学校遇到的歧视，并通过请愿书争取自己的权益。最后，Riley Roberts为他的两位母亲争取合法权益，通过演讲表达了自己对家庭的看法。整体来看，该文档强调了支持、理解与包容对跨性别青少年的生存和成长的重要意义。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -60,12 +60,12 @@ Riley Roberts有两个母亲，但是在他18岁的时候，他所生活的内�
 > |-----------------|----------------------------------------|
 > | Filename        | m_爱和包容，让这些LGBT青少年敢于走向人前.md                             |
 > | Size            | 4603 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:05:23                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1552978](https://m.thepaper.cn/newsDetail_forward_1552978)                       |
+> | Author          | 赫芬顿邮报                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 青少年, 生命故事, 支持与包容, 社会接纳, 法律权益, 教育与校园                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

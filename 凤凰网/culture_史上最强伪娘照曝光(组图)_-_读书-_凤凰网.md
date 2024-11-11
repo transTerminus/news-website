@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是来自凤凰网的一篇报道，标题为《史上最强伪娘照曝光(组图)》，发布于2010年6月29日。文章中包含了一组关于伪娘的照片，展示了不同风格和装扮的伪娘形象，强调了他们在文化中的表现与社会的接受度。作者王勇通过这组照片，引发了公众对跨性别文化和伪娘现象的关注。文章内容反映了当时社会对跨性别者的认知及其文化表现，同时也借助图片传达了伪娘群体在自我表达和认同过程中的多样性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +32,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | culture_史上最强伪娘照曝光(组图)_-_读书-_凤凰网.md                             |
 > | Size            | 736 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 09:45:03                             |
+> | Original Link   | [http://culture.ifeng.com/2/detail_2010_06/29/1688171_0.shtml](http://culture.ifeng.com/2/detail_2010_06/29/1688171_0.shtml)                       |
+> | Author          | 王勇                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2010-06-29                                 |
+> | Tags            | 伪娘, 跨性别, 文化, 社会认知                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

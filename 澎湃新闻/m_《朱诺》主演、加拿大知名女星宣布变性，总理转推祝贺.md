@@ -82,8 +82,8 @@ Elliot在杰森·瑞特曼（Jason Reitman）的电影《朱诺（Juno）》（2
 > |-----------------|----------------------------------------|
 > | Filename        | m_《朱诺》主演、加拿大知名女星宣布变性，总理转推祝贺.md                             |
 > | Size            | 8872 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:40:21                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10246535](https://m.thepaper.cn/newsDetail_forward_10246535)                       |
 > | Author          | 吴怡逍 王佑民                               |
 > | Region          | 加拿大                               |
 > | Date            | 2020-12-01                                 |

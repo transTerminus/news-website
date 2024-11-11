@@ -99,7 +99,7 @@ Kai Bar里有比女孩儿还漂亮精致的变性人，有男扮女装的异装�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一个跨性别异性恋者——洋洋的生命故事与她在性别认同上的经历。通过与作者的对话，洋洋分享了自己的成长过程和对性别角色的探索。她从小就对女性的生活方式产生了好奇，内心希望能够以女性的身份生活，但由于社会的压力与家庭的期望，她并未采取极端的性别转变。这篇文章不仅讨论了跨性别的概念，亦通过洋洋的视角探讨了对性别身份的理解和接受。洋洋身为化妆师，通过工作与社交，逐步学习到如何无畏地展现自己的真实自我。文章中还描绘了与洋洋的互动与感受，体现了跨性别群体在社会环境中的生存现状，其间的挑战与身份的复杂性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -108,12 +108,12 @@ Kai Bar里有比女孩儿还漂亮精致的变性人，有男扮女装的异装�
 > |-----------------|----------------------------------------|
 > | Filename        | blog_不是同性恋，不是异装癖，只是跨性别_-_新浪网站导航.md                             |
 > | Size            | 7392 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:02:07                             |
+> | Original Link   | [https://blog.sina.com.cn/s/blog_166b7b2740102xuoz.html](https://blog.sina.com.cn/s/blog_166b7b2740102xuoz.html)                       |
+> | Author          | 小瓷                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2017-08-14                                 |
+> | Tags            | 跨性别, 生命故事, 性别认同, 医疗资源, 社会环境, 生活经历, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

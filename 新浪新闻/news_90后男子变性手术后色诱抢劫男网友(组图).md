@@ -75,7 +75,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了90后男子张海龙在经历变性手术后的生活，并因色诱抢劫而被判刑的故事。张海龙出生于农村，从小承受着家庭的期望和压力。为了追逐金钱，他在朋友的建议下选择了变性，成为女性身份的“张娟娟”。他在酒吧工作，却因收入微薄而决定通过色诱男性进行抢劫。在一次与男网友的约会中，张海龙和同伙设计了一个捉奸的骗局，最终导致了抢劫事件的发生。张海龙被警方逮捕后，其变性身份引发家庭的悲剧，他的父母在法庭上得知事实时，悲伤不已。最终，张海龙被判处有期徒刑4年，成为社会与法律共同探讨的焦点。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -84,12 +84,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_90后男子变性手术后色诱抢劫男网友(组图).md                             |
 > | Size            | 10236 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:24:29                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-06-24/detail-ikftpnny4851413.d.html](https://news.sina.cn/sa/2011-06-24/detail-ikftpnny4851413.d.html)                       |
+> | Author          | 李自庆                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2011-06-24                                 |
+> | Tags            | 变性手术, 性别认同, 抢劫案件, 社会压力, 家庭关系, 跨性别故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

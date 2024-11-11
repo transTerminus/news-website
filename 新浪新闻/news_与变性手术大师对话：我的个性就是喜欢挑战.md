@@ -88,7 +88,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是对中国著名整形外科专家陈焕然的采访，主要探讨了他在变性手术领域的经历和看法。陈焕然是中国第一位从事性别畸形研究的博士，他在医疗职业生涯中取得了诸多成就。访谈中，他分享了自己的背景与成长经历，以及他在职业选择上的挑战和探索。陈焕然提到，过去他每年能做大约40台变性手术，但由于多方面的压力，近年手术数量大幅减少。
+
+在采访中，陈焕然回忆起1988年选择变性研究的原因，并且谈到了他的首位病人，她的经历让他深刻认识到了这一领域的重要性。尽管他曾因个人原因考虑退出变性手术的领域，但最终在患者的鼓励下重返岗位。他认为，帮助有需要的人是一件好事，尽管从业过程中也面临着法律与社会的种种挑战与压力。访谈最后，陈焕然表达了自己对生育问题的关注，并希望能在这一领域继续探索与研究。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -97,12 +99,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_与变性手术大师对话：我的个性就是喜欢挑战.md                             |
 > | Size            | 8754 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:56:56                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-01-08/detail-ikknscsi5444404.d.html](https://news.sina.cn/sa/2005-01-08/detail-ikknscsi5444404.d.html)                       |
+> | Author          | 匡玲                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2005-01-08                                 |
+> | Tags            | 变性手术, 整形外科, 性别畸形研究, 医疗资源, 生命故事, 社会环境, 挑战与探索                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

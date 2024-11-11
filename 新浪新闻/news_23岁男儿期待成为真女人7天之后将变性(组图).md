@@ -77,7 +77,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位名叫秀儿的23岁男性即将进行变性手术的故事。秀儿从小就感觉自己是一名女性，尽管外表是男性。文章描述了他对女性身份的渴望，以及对于即将到来的手术的期待与自信。秀儿在接受手术前，进行了必要的心理测查，证实他身心健康，符合进行变性手术的标准。整个过程中，秀儿得到家人的支持，尤其是母亲在手术期间会陪伴照顾他。医院的医护人员也对他表示理解与支持，认为他有成为女性的潜质。作者通过秀儿的经历，探讨了社会对跨性别者的看法，呼吁更大的宽容与理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -86,12 +86,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_23岁男儿期待成为真女人7天之后将变性(组图).md                             |
 > | Size            | 6383 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:26:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-26/detail-ikknscsi2783955.d.html](https://news.sina.cn/sa/2004-02-26/detail-ikknscsi2783955.d.html)                       |
+> | Author          | 城市晚报记者陶彬                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-02-26                                 |
+> | Tags            | 跨性别, 变性手术, 生活故事, 社会环境, 心理健康, 医学资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -82,7 +82,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了佛罗里达州州长签署的家长教育权利法案，俗称“不要说同性恋”法案。这项法案限制公立学校在幼儿园至三年级之间进行任何关于性取向和性别认同的教学，并引发了广泛的社会反响。支持者用于反制批评者的一种策略是将反对者与恋童癖联系起来，显示出保守派对于“儿童纯真”的执著与其文化战争的延续。文章回顾了美国在LGBTQ权利方面的历史波动，特别是在宗教右派反对公立教育自由和反歧视法律以及对二战后社会变迁和法律改革的反弹。作者指出，这些法案所推动的并非真心保护儿童，而是对一种理想化的过去的怀念和对未来变化的恐惧。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -91,12 +91,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_保护儿童“纯真”背后：美国佛州家长教育权利法案与文化战争.md                             |
 > | Size            | 25003 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:10:32                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18072458](https://m.thepaper.cn/newsDetail_forward_18072458)                       |
+> | Author          | 迈克尔·布朗斯基（Michael Bronski）                               |
+> | Region          | 美国                               |
+> | Date            | 2022-04-15                                 |
+> | Tags            | 法律, 跨性别, LGBTQ, 社会政策, 文化战争, 教育权利, 儿童保护, 宗教右派, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

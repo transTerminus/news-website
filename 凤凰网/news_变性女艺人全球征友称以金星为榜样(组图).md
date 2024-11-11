@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自新民网，讲述了变性女艺人寒冰冰通过博文发起全球征友活动的故事。寒冰冰在博客中表达了她的心声，描述了希望找到一个能够理解和接受自己的理想伴侣。她提到自己经历了变性所承受的社会压力，并对爱情的渴望。然而，她也清晰地表明这次征友活动的目的是交朋友，而非寻求婚姻。文章详细记录了寒冰冰的个人经历，包括她从小失去母亲、学习舞蹈以及成功变性手术的过程，反映了她内心的复杂情感和对未来伴侣的期待。寒冰冰在应对网络反馈时表示自己已经做好了承受一切的准备，体现了跨性别者面临的挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -48,12 +48,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性女艺人全球征友称以金星为榜样(组图).md                             |
 > | Size            | 3064 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:27:45                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200704/0416_344_103724.shtml](https://news.ifeng.com/society/2/200704/0416_344_103724.shtml)                       |
+> | Author          | 新民网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-04-16                                 |
+> | Tags            | 变性, 跨性别, 人生故事, 征友活动, 寒冰冰, 社会压力, 爱情, 心理感受                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

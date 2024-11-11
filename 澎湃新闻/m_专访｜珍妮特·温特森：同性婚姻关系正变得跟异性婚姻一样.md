@@ -81,8 +81,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_专访｜珍妮特·温特森：同性婚姻关系正变得跟异性婚姻一样.md                             |
 > | Size            | 11130 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:32:57                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=1688218&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=1688218&from=kuaibao)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2023-05-18                                 |

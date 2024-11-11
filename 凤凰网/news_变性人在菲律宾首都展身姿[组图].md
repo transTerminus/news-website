@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了2008年10月17日，在菲律宾首都马尼拉举办的一场变性人和异装癖者的泳装秀活动。此次活动展示了参与者的身材和自信，吸引了众多观众。该活动不仅是表演，也是一种文化表达，展示了跨性别群体在社会中的多样性和可见性。通过舞台上的展示，参与者挑战了传统的性别角色，表达了他们对自我身份的认同与自豪感。文件中包含了多张活动现场的照片，生动地展现了活动的热烈气氛和参与者的风采。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -35,12 +35,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人在菲律宾首都展身姿[组图].md                             |
 > | Size            | 878 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:26:31                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200810/1019_1400_836836_1.shtml](https://news.ifeng.com/photo/society/200810/1019_1400_836836_1.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 菲律宾                               |
+> | Date            | 2008-10-19                                 |
+> | Tags            | 变性人, 泳装秀, 菲律宾首都, 自我表达, 性别多样性                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

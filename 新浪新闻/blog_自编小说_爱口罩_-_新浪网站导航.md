@@ -15,7 +15,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇自编小说，描绘了一个发生在设定背景下的变装和绑架故事。故事描述了一个被两名女土匪绑架的人，她们施加了一系列的变装过程，包括剃毛、穿着女性衣物、化妆等，以掩人耳目。最终，这位主角被作为新娘带入小教堂举行婚礼，故事以她的无奈与屈从为核心，反映出变装、性别认同与暴力的交织。文本中详细描写了绑架过程和变装的具体步骤，显示出跨性别者在社会中可能面临的巨大挑战与困境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -24,12 +24,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | blog_自编小说_爱口罩_-_新浪网站导航.md                             |
 > | Size            | 4080 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:06:17                             |
+> | Original Link   | [https://blog.sina.com.cn/s/blog_4e69dec201000c1z.html](https://blog.sina.com.cn/s/blog_4e69dec201000c1z.html)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 2007-11-04                                 |
+> | Tags            | 跨性别, 变装, 绑架, 生存经历, 小说                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

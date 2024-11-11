@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了新加坡高等法院近期的判决，批准了一名同性恋男医生领养他在美国通过代孕手段生育的四岁儿子。这一判决在新加坡的背景下极具重要性，因为在该国同性婚姻和同性性行为仍然是非法的，判决被解读为具有里程碑意义。法庭的裁决强调了促进儿童福利的重要性，尽管其并不承认领养者的同性关系。文章还提到，近年来同性恋平权运动在亚洲某些地区取得进展，尤其是印度的非罪化案例引发了对新加坡同性婚姻禁令的讨论。新加坡社会对于同性恋权益的关注度因此提升，这使得这一法律问题在公众和法律层面上再次被提上日程。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +32,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_新加坡“男同”代孕养子获准，将开启同性恋平权讨论_-_澎湃新闻.md                             |
 > | Size            | 2869 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 21:52:04                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2746977&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2746977&from=kuaibao)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 新加坡                               |
+> | Date            | 2023-12-17                                 |
+> | Tags            | 跨性别权益, 同性恋, 代孕, 领养, 新加坡法律, 平权运动, 社会政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

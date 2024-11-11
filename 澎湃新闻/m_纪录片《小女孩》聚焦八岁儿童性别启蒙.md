@@ -87,7 +87,7 @@ New Production From The West:Tomorrowland
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+纪录片《小女孩》由塞巴斯蒂安·利夫施兹执导，聚焦于8岁小女孩萨沙的性别启蒙过程，尽管她生来是男孩，但她始终知道自己是女孩。通过拍摄萨沙的日常生活，纪录片展示了她所面临的挑战和家庭的支持。影片展现了萨沙在学校、舞蹈课和生日聚会中所遭遇的社会限制，以及她家庭为理解和支持她而进行的持续斗争。这部纪录片不仅揭示了跨性别者特别是儿童跨性别者的内心世界和社会面临的性别规范问题，同时也让观众思考如何打破对性别的固有偏见。该片在2020年柏林电影节首映，并荣获泰迪奖，旨在提升对跨性别认同者的认识和接纳。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -96,12 +96,12 @@ New Production From The West:Tomorrowland
 > |-----------------|----------------------------------------|
 > | Filename        | m_纪录片《小女孩》聚焦八岁儿童性别启蒙.md                             |
 > | Size            | 14056 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:50:34                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9422599](https://m.thepaper.cn/newsDetail_forward_9422599)                       |
+> | Author          | 凹凸镜DOC纪实影像创作者                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 纪录片, 性别启蒙, 家庭支持, 社会环境, 儿童权益, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

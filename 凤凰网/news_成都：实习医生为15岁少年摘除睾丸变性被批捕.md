@@ -36,7 +36,7 @@ Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一起在成都市发生的严重医疗事故，涉及一名15岁少年小楠在未满法定年龄和没有正式医学执业资格的实习医生田某的操作下，进行了睾丸摘除 surgery。小楠因渴望变性而长期偷偷服用抑制雄性激素的药物，并在一次网上聊天中得知该医生可以为其做变性手术。医生在未充分评估患者身份的情况下，隐蔽进行手术，并对其后果不负责任。事后小楠的父亲发现其变性手术，惊愤之下报案。报导指出，田某并未持有合法的医师执业证书，这一行为严重违反了《变性手术技术管理规范》，而最终导致田某被逮捕并追究法律责任。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -45,12 +45,12 @@ Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
 > |-----------------|----------------------------------------|
 > | Filename        | news_成都：实习医生为15岁少年摘除睾丸变性被批捕.md                             |
 > | Size            | 2944 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:36:29                             |
+> | Original Link   | [https://news.ifeng.com/a/20150923/44719912_0.shtml](https://news.ifeng.com/a/20150923/44719912_0.shtml)                       |
+> | Author          | 新华网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-09-23                                 |
+> | Tags            | 医疗事故, 变性手术, 法律责任, 未成年人, 跨性别, 成都, 医疗伦理                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

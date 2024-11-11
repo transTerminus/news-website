@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了卫生部发布的《变性手术技术管理规范（征求意见稿）》，该规范要求申请变性手术的患者年龄必须在20岁以上，且应在特定的医疗机构进行。根据规范，变性手术是指通过整形外科手段使生物学性别与心理性别相符，包括性器官的切除和重建。实施手术的医师需具备相应的资格和经验，手术前患者需满足特定的心理和医疗条件，如持续的变性要求、公开选择的性别生活等。文件还详细列出了手术实施的程序和对医院的要求。这一政策的出台旨在规范变性手术的实施，保护患者权益，并提高医疗服务的质量。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -63,12 +63,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_申请变性手术须20岁以上_手机新浪网.md                             |
 > | Size            | 3123 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:06:09                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-06-16/detail-ikknscsk4896472.d.html](https://news.sina.cn/sa/2009-06-16/detail-ikknscsk4896472.d.html)                       |
+> | Author          | 北京头条客户端官方账号                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-06-16                                 |
+> | Tags            | 变性手术, 医疗规范, 心理健康, 性别身份, 卫生政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

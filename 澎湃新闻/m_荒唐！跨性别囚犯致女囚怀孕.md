@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报告了一起发生在美国新泽西州埃德娜•马汉女子监狱的事件，其中一名跨性别女性在服刑期间与其他女性囚犯发生性关系，导致两名女囚怀孕。事件的主人公德米•麦纳因过失杀人被判入狱30年，并在监狱内遭遇了性别认同和监狱政策等复杂因素的困扰。文章详细描述了新泽西州允许囚犯根据自身的性别认同选择监牢的政策变动，这一政策旨在改善跨性别囚犯的处境。事件引发了社会对监狱管理及性别认同问题的广泛讨论，特别是跨性别囚犯的权利与安全保障问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +32,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_荒唐！跨性别囚犯致女囚怀孕.md                             |
 > | Size            | 1923 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:14:54                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_19091388](https://m.thepaper.cn/newsDetail_forward_19091388)                       |
+> | Author          | 刘皓然                               |
+> | Region          | 美国                               |
+> | Date            | 2023-01-01                                 |
+> | Tags            | 跨性别, 监狱, 性别认同, 法律政策, 社会环境, 女性权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

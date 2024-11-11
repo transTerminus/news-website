@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了戴维·施若（现名黛安·施若），一位曾经的美国陆军特种兵上校的变性经历及其随之而来的职场性别歧视问题。施若在军中是名明星人物，拥有显赫的职务与荣誉。然而，在经历了长期的内心挣扎后，施若终于选择了变性，并在手术后以女性身份生活。这一决策导致了施若失去了原本的职位，并促使她起诉原雇主——美国国会图书馆，指控其因性别歧视而拒绝其求职申请。文章详细描述了施若从小进行性别认同挣扎的经历，追述了她的军旅生涯以及个人感情生活。研究指出，施若的案例并非个例，这种在军事环境中面临变性和性别认同问题的现象在美军中并不少见。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -50,12 +50,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美变性特种兵状告“性别歧视”.md                             |
 > | Size            | 3394 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:11:44                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-10-23/detail-ikknscsi8073176.d.html](https://news.sina.cn/sa/2005-10-23/detail-ikknscsi8073176.d.html)                       |
+> | Author          | 袁海                               |
+> | Region          | 美国                               |
+> | Date            | 2005-10-23                                 |
+> | Tags            | 变性, 性别歧视, 跨性别者, 性别认同, 军人, 生存现状, 医疗经历, 法律问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

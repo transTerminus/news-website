@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了2016年5月9日美国北卡罗莱纳州与联邦政府之间关于变性人卫生间使用权的法律争议。文章指出，北卡罗莱纳州长麦克罗利宣布控告联邦政府，认为联邦政府错误地将民权法应用于变性人。而司法部也反控北卡罗莱纳州的卫生间法律构成歧视，称此法律违反了民权法第七章。司法部长林奇表示，此案件不仅是关于卫生间的争论，更关乎每个人的尊严与法律保护。报道中提到，北卡州的众议院2号法案(HB2)要求变性人按出生证性别使用相应的卫生间，这引发了广泛的社会讨论和法律对抗。此外，文章还收录了一些公众评论，显示出社会对变性人权益问题的不同看法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -78,12 +78,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人卫生间争议闹大美司法部和州府相互控告.md                             |
 > | Size            | 3541 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:20:47                             |
+> | Original Link   | [http://news.sina.cn/2016-05-10/detail-ifxryahs0637962.d.html](http://news.sina.cn/2016-05-10/detail-ifxryahs0637962.d.html)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 美国                               |
+> | Date            | 2016-05-10                                 |
+> | Tags            | 变性人, 卫生间使用权, 法律政策, 性别歧视, 北卡罗莱纳州, 民权法                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

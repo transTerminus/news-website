@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了美国共和党副总统候选人万斯的提议，即修改教育法修正案《第九条》（Title IX），以禁止跨性别运动员参加女子体育比赛。万斯在内华达州的活动中强调要保护年轻女子的竞技权利，认为让跨性别运动员参与女子体育比赛会破坏体育的公平性，并引发公共安全问题。他的言论引起了对法律修正与性别认同在体育竞争中影响的广泛关注。万斯提到，作为一名有女儿的父亲，他担心她在未来的体育活动中可能受到男性运动员的威胁。文件还提供了相关法律的简介，强调消除性别歧视的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -53,12 +53,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_万斯建议禁止跨性别运动员参加女子体育比赛_-_凤凰网.md                             |
 > | Size            | 3052 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:41:32                             |
+> | Original Link   | [https://news.ifeng.com/c/8dvwEdB1Do9](https://news.ifeng.com/c/8dvwEdB1Do9)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 美国                               |
+> | Date            | 2024-10-24                                 |
+> | Tags            | 跨性别运动, 体育, 法律, 性别歧视, 万斯, 第九条                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

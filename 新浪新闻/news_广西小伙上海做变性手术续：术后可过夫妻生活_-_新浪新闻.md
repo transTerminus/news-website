@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了广西一名年轻人刘艺妃在上海进行变性手术的经历和后续情况。刘艺妃自小对自己性别认同的困扰，通过媒体表达希望改善社会对变性人的偏见。报道提到，她在经历4小时手术后成功实现了女性化，手术过程及医学解释均有详细介绍。医生指出，变性手术是对“异性癖”的治疗方法之一，术后需要长期服用雌激素等药物维持生理特征。刘艺妃表示，希望在术后能够继续追求她的演艺事业，也希望通过自身经历让更多人理解变性人群体。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -35,12 +35,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_广西小伙上海做变性手术续：术后可过夫妻生活_-_新浪新闻.md                             |
 > | Size            | 2168 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:50:10                             |
+> | Original Link   | [https://news.sina.com.cn/s/2006-06-14/104810152533.shtml](https://news.sina.com.cn/s/2006-06-14/104810152533.shtml)                       |
+> | Author          | 朱奎, 朱文娟                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-06-14                                 |
+> | Tags            | 跨性别, 变性手术, 生命故事, 医疗资源, 社会环境, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

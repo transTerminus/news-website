@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自新浪娱乐，报道了DC真人电影《蝙蝠少女》中首个跨性别角色的亮相，由跨性别女演员伊沃利·艾奎诺饰演的酒保Alysia Yeoh。该角色是DC电影史上首次出现的跨性别角色，标志着跨性别代表性在主流媒体中的进一步发展。文章中详细介绍了Alysia Yeoh的背景及其与女主角芭芭拉·戈登的关系，并提到该电影的导演和其他主要演员。该电影预计将在HBO Max上线，显示了DC影视作品对多样性和包容性的关注与努力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,12 +39,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | ent_DC真人电影首个跨性别角色曝光由跨性别演员出演_-_娱乐-_新浪.md                             |
 > | Size            | 1402 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:16:01                             |
+> | Original Link   | [https://ent.sina.cn/film/foreign/2022-01-29/detail-ikyamrmz8188378.d.html](https://ent.sina.cn/film/foreign/2022-01-29/detail-ikyamrmz8188378.d.html)                       |
+> | Author          | 新浪娱乐                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2022-01-29                                 |
+> | Tags            | 跨性别角色, DC电影, Alysia Yeoh, 蝙蝠女                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

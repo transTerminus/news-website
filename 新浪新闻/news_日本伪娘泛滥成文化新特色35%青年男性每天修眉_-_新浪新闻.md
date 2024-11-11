@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章讨论了日本“伪娘”文化的流行趋势，特别是在年轻男性群体中的影响。根据一项调查，在20岁到30岁的男性中，有57%的人每天使用洗面奶，35%的人坚持每天修眉，18%的人每天打粉底。文章指出，这一现象主要受到媒体影响以及动漫文化的推动。‘伪娘’最初是指在动漫中男扮女装的角色，随着日本宅文化的兴起，越来越多的年轻人希望在现实生活中体验这种角色，甚至举行相关社交活动。这种文化不仅促进了相关产业的发展，同时也引发了关于性别认同和社会适应的讨论。文章还提及了‘伪娘’文化对日本经济的推动作用和其潜在的社会影响，如可能导致男性行为方式女性化和影响结婚率等问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -36,12 +36,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_日本伪娘泛滥成文化新特色35%青年男性每天修眉_-_新浪新闻.md                             |
 > | Size            | 2367 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:42:22                             |
+> | Original Link   | [https://news.sina.cn/sa/2012-08-14/detail-ikmxzfmk1264387.d.html](https://news.sina.cn/sa/2012-08-14/detail-ikmxzfmk1264387.d.html)                       |
+> | Author          | 郭一娜                               |
+> | Region          | 日本                               |
+> | Date            | 2012-08-14                                 |
+> | Tags            | 跨性别, 伪娘, 日本文化, 性别认同, 年轻男性, 医疗与美容                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

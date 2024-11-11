@@ -51,7 +51,7 @@ CD则在许多领域被认为是一种时尚和生活方式，受到不少人的
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了男娘、伪娘、CD和TS这几种跨性别表现形式，它们在现代社会中日益受到关注。男娘被视为一种生活方式或精神文化现象，重在表现男性内在认同的转变；而CD则更侧重于穿着女性服装的表演性。文章明确区分了男娘和CD的概念，指出男娘关注的是性别角色的转化与内心探索，而CD则注重视觉效果和装扮的美感。在社会接受度方面，男娘尽管在文化上发展壮大，但仍遭受传统观念的排斥；而CD在许多领域被认为是一种时尚，受到广泛欢迎。作者还提到了一些使得男娘和CD族群日益增多的社会原因，如个人选择、心理认同等，并呼吁对不同生活方式的尊重。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -60,12 +60,12 @@ CD则在许多领域被认为是一种时尚和生活方式，受到不少人的
 > |-----------------|----------------------------------------|
 > | Filename        | k_男娘，伪娘，CD，TS为什么越来越多_-_新浪.md                             |
 > | Size            | 3301 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:54:25                             |
+> | Original Link   | [https://k.sina.cn/article_6054885179_168e6373b00101876e.html](https://k.sina.cn/article_6054885179_168e6373b00101876e.html)                       |
+> | Author          | 铃音音123                               |
+> | Region          | 江苏，中国                               |
+> | Date            | 2022-05-18                                 |
+> | Tags            | 跨性别, 男娘, 伪娘, CD, 社会接受度, 性别认同, 生活方式, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

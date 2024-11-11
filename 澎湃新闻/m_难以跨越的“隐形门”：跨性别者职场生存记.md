@@ -320,7 +320,7 @@ C先生是跨性别男性，寸短，银色耳环，日常穿着男士西装和�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自澎湃新闻，标题为《难以跨越的“隐形门”：跨性别者职场生存记》。文章叙述了几位跨性别者在职场中生存的真实故事，聚焦于社会性别认同与生理性别不一致所带来的职场挑战。文章的主角包括马虹、林思然和白雨霏，他们在职场上经历了不同程度的歧视与挑战。在马虹成功完成性别重置手术后，却因“严重过失”被辞退，随后起诉公司以维护自己的平等就业权。林思然为了隐藏自己的性别身份，在职场上扮演男性形象，内心却感到焦虑不安。白雨霏则在职场中努力寻找自己的性别认同，并最终成功修改了学历信息，实现了职业生涯的转折。文章同时披露了跨性别群体在求职、就业及维权方面的难处与困境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -329,12 +329,12 @@ C先生是跨性别男性，寸短，银色耳环，日常穿着男士西装和�
 > |-----------------|----------------------------------------|
 > | Filename        | m_难以跨越的“隐形门”：跨性别者职场生存记.md                             |
 > | Size            | 29793 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:37:46                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=5530241&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=5530241&from=kuaibao)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-01-21                                 |
+> | Tags            | 跨性别者, 职场生存, 性别认同, 法律政策, 社会歧视, 个人故事, 就业困境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

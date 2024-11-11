@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了两名兄弟由于被诊断为“男性假两性畸形”，即先天性无子宫而需要进行变性手术的故事。文章中提到，两个孩子将分别变为姐弟，手术将在昆医附一院进行，手术技术上没有问题。为了确保手术的合法性，医生提到需要进行术前公证。手术复杂度不同，小明的变性手术难度较大，而小芸则需要进行破坏性的手术。两位孩子表达了自己的愿望和对未来角色的憧憬，小芸希望成为医生，小明则希望在手术后不再感到尴尬。文章通过讲述他们的经历展现了性别认同的重要性及其对个人生活的深远影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_两人患病“男性假两性畸形”_-_新浪新闻.md                             |
 > | Size            | 2329 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:46:38                             |
+> | Original Link   | [http://news.sina.com.cn/s/2003-07-17/13151362227.html](http://news.sina.com.cn/s/2003-07-17/13151362227.html)                       |
+> | Author          | 生活新报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-07-17                                 |
+> | Tags            | 跨性别, 变性手术, 假两性畸形, 医疗资源, 性别认同, 生活故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

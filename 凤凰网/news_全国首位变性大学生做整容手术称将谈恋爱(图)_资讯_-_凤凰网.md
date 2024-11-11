@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了全国首位变性男大学生何嫱在2007年3月23日进行面部整形手术的经历。何嫱是网络红人“蝴蝶妹妹”，他通过博客实时直播手术过程，引发网友广泛关注。手术的目的是为了让何嫱更接近自己作为女性的梦想，包括改善脸部线条、丰唇和双眼皮成形等。尽管手术可能带来一些风险，何嫱对整形手术充满期待，认为这将增强他的自信心。文章还提到网友对于何嫱的整形方案的讨论，表现出社会对变性人群的关注与讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -44,12 +44,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_全国首位变性大学生做整容手术称将谈恋爱(图)_资讯_-_凤凰网.md                             |
 > | Size            | 2953 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:43:55                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200703/0323_344_92175.shtml](https://news.ifeng.com/society/2/200703/0323_344_92175.shtml)                       |
+> | Author          | 凤凰新媒体                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-03-23                                 |
+> | Tags            | 变性, 整容, 大学生, 人生故事, 社会关注                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

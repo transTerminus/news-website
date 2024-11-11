@@ -153,7 +153,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是对一名变性手术医生赵烨德的深入采访，探讨了跨性别者在寻求性别重建手术过程中的经验、心理和社会挑战。文章回顾了赵医生24年的职业生涯，他参与的变性手术超过一千例，以及他如何在医术上不断摸索与发展。不同于传统观念，赵医生强调手术不仅仅是身体的重建，更涉及跨性别者的身份认同与社会融入。在他看来，患者的病历中不仅有医疗记录，还有他们心灵深处的挣扎与渴望。文中还描述了一些患者的具体故事，如“珑珑”，他在经历变性手术后，对未来生活的思考以及变性者在社会中面临的接纳和挑战。文章通篇呈现了变性手术背后的医学复杂性和人文关怀，引发读者对跨性别群体生存现状的深思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -162,12 +162,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | inews_变性手术医生：手术做错一例就再不会碰那把刀_-_凤凰网.md                             |
 > | Size            | 16412 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:02:37                             |
+> | Original Link   | [http://inews.ifeng.com/50681464/news.shtml](http://inews.ifeng.com/50681464/news.shtml)                       |
+> | Author          | 刘汨                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2017-02-12                                 |
+> | Tags            | 变性手术, 跨性别, 生命故事, 医疗经验, 社会环境, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

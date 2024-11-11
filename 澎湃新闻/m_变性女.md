@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了几条关于变性女性的新闻报道，涵盖了她们在日常生活中面临的挑战与权益问题。文章中的第一则报道针对一名变性女性在湖南景点因三八节优惠与工作人员发生争执，最终景点同意给她打对折优惠。这在一定程度上反映了变性人在社会活动中的权益问题与不平等待遇。第二则报道则涉及一起变性女性在酒店按摩时的强奸案件，律师在案件讨论中提出受害者的性别界定问题，突出司法系统在处理跨性别案件时的复杂性与困境。第三则报道则报道了跨性别者为了获得女声而前往南京进行声音手术，尽管花费高达6万，却仍未能达到理想效果，反映了跨性别者在身体过渡过程中所面临的现实挑战与经济负担。整体来看，这些报道揭示了跨性别女性在社会、法律与医疗层面面临的众多现实问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +32,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性女.md                             |
 > | Size            | 909 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:54:55                             |
+> | Original Link   | [https://m.thepaper.cn/tag/276881](https://m.thepaper.cn/tag/276881)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 变性女性, 权益问题, 法律, 医疗经历, 社会支持, 声带手术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

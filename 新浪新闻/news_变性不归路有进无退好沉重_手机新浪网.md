@@ -105,7 +105,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详尽记录了跨性别者的真实经历和变性手术所带来的深刻影响。故事中的两位主角，杨玉琼和小霞，分别经历了变性手术前后的心路历程。杨玉琼在经历多次变性手术后，意识到变性是一条不归路，经历了身份重塑的痛苦和法律上的限制。小霞却在发现自己的身体特征与性别认同不符后，决定进行变性。文中还分析了心理健康与变性之间的关系并强调了变性手术的不可逆性。专家指出，进行变性手术的患者常常面临社会压力、法律限制以及心理健康问题。此外，文章呼吁社会加强对心理教育的重视，以更好地帮助跨性别者。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -114,12 +114,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性不归路有进无退好沉重_手机新浪网.md                             |
 > | Size            | 8672 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:34:26                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-07-29/detail-ikknscsk0660245.d.html](https://news.sina.cn/sa/2006-07-29/detail-ikknscsk0660245.d.html)                       |
+> | Author          | 董馨                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-07-29                                 |
+> | Tags            | 跨性别, 变性手术, 社会问题, 心理健康, 性别认同, 法律限制, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

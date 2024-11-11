@@ -114,7 +114,7 @@ Mario Montez也是安迪·沃霍尔工厂培养出的一位明星。他以男扮
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细探讨了安迪·沃霍尔作为地下电影人和波普艺术大师的创作历程。文中提到沃霍尔的电影作品具有丰富的实验性，聚焦于性、毒品、以及消费文化等边缘主题，成为六十年代美国地下电影的重要代表。文件介绍了多个沃霍尔的经典短片，如《吻Kiss》和《雀西女孩Chelsie Girl》，分析了他如何在艺术创作中探索人与人之间的亲密关系及社会的边缘文化。通过最近在多伦多进行的"安迪·沃霍尔：银幕明星"展览，回顾了沃霍尔对好莱坞名流文化及其自身的“追星”与“造星”过程，展现了他如何将自己对名人的崇拜与电影媒介结合起来，以开创性的方式记录下了那个时代的青年文化。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -123,12 +123,12 @@ Mario Montez也是安迪·沃霍尔工厂培养出的一位明星。他以男扮
 > |-----------------|----------------------------------------|
 > | Filename        | inews_在地下电影和造星工厂，重新发现安迪·沃霍尔_-_凤凰网.md                             |
 > | Size            | 12331 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:04:58                             |
+> | Original Link   | [http://inews.ifeng.com/yidian/46321714/news.shtml?ch=ref_zbs_ydzx_news](http://inews.ifeng.com/yidian/46321714/news.shtml?ch=ref_zbs_ydzx_news)                       |
+> | Author          | 马程                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-10-30                                 |
+> | Tags            | 安迪·沃霍尔, 地下电影, 波普艺术, 性别文化, LGBT, 边缘文化, 艺术史, 电影展览, 消费文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了美国一名跨性别男性普里莎·莫斯利的故事，她在15岁时接受了睾丸激素治疗，并在18岁时进行了双乳切除手术。然而，莫斯利在经历了多次医疗程序后，依然感到抑郁，最终在22岁时对自己的变性经历感到后悔。她在接受心理治疗后意识到问题并非来自身体，而是源于心理健康问题。莫斯利警告人们不应该在25岁之前接受类似的医学干预，因大脑尚未完全发育。文章中包含对她经历的详细回顾及对医疗专业人员的批评，认为需要更全面的心理评估而非单纯的身体转变支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -65,12 +65,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国女子后悔变性，警告称人们25岁前不该被允许做手术.md                             |
 > | Size            | 6826 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:15:02                             |
+> | Original Link   | [https://news.ifeng.com/c/8OCvYcYMBpM](https://news.ifeng.com/c/8OCvYcYMBpM)                       |
+> | Author          | 观察者网                               |
+> | Region          | 美国                               |
+> | Date            | 2023-03-16                                 |
+> | Tags            | 跨性别, 生命故事, 医疗经验, 心理健康, 法律政策, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

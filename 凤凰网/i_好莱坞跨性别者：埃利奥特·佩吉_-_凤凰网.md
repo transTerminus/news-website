@@ -116,7 +116,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了好莱坞跨性别者埃利奥特·佩吉的生平和职业生涯。文件中详细记录了佩吉从艾伦·佩吉（Ellen Page）过渡为埃利奥特·佩吉的经历，同时提及他的性别认同及代名词的变化。文件内容包括佩吉在电影行业的发展历程以及他参与的重要作品，例如《水果硬糖》和《朱诺》，以及他在2014年公开出柜的经历。此外，文件还提到其他知名跨性别者，如拉娜和莉莉·沃卓斯基姐妹，以及凯瑟琳·詹纳。通过记录这些跨性别者的生活与创作，文件展现了跨性别者在社会中的生存现状以及他们所面临的挑战与成就。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -125,12 +125,12 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > |-----------------|----------------------------------------|
 > | Filename        | i_好莱坞跨性别者：埃利奥特·佩吉_-_凤凰网.md                             |
 > | Size            | 10303 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:22:05                             |
+> | Original Link   | [https://i.ifeng.com/c/81vGeOCGPA3](https://i.ifeng.com/c/81vGeOCGPA3)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-12-04                                 |
+> | Tags            | 跨性别者, 埃利奥特·佩吉, 好莱坞, 生平故事, 职业生涯, 性别认同, 文化活动, 电影, 社会现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

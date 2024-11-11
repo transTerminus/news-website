@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了一个关于济南的跨性别女性的案件，她原本身为男性，在变性后依然选择了违法的犯罪行为。这名女子在偷取电动车时被警方抓获，其身份令人震惊——她曾是一名多次盗窃的男性。举报中提到她进行盗窃是为了攒钱进行变性手术，这引发了大众对变性后果的讨论与思考。评论区中，网友们对此案件表达了不同的看法，有人认为犯罪本性难移，有人则对此变性的选择表示困惑。文章通过对事件的叙述，反映了变性人在社会中的复杂状况以及社会对于这些行为的反应，印证了变性群体仍然面临着许多偏见与误解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -66,12 +66,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_济南女贼曾是男儿身变性后偷车又被抓.md                             |
 > | Size            | 2496 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:50:22                             |
+> | Original Link   | [https://news.ifeng.com/a/20170731/51533008_0.shtml](https://news.ifeng.com/a/20170731/51533008_0.shtml)                       |
+> | Author          | 齐鲁晚报/看看新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2017-07-31                                 |
+> | Tags            | 跨性别, 法律问题, 犯罪, 社会环境, 变性经历, 评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

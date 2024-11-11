@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了变性女艺人梦琪的故事，她在经历了一段时间的痛苦和挣扎后，曾尝试自杀，但最终获救。文中详细介绍了梦琪作为变性女性所面对的种种挑战和经历，包括她的过渡过程，以及人们对她自杀事件的反应。梦琪在文章中首次向媒体披露了她的真实经历，表达了作为变性女性的痛苦与追求自我的信念。她提到，虽然在社会上关于变性人的话题逐渐增多，但背后依然隐含着许多不为人知的辛酸故事。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -56,12 +56,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视.md                             |
 > | Size            | 2292 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:07:06                             |
+> | Original Link   | [http://phtv.ifeng.com/program/lnrs/detail_2007_04/27/1061640_0.shtml](http://phtv.ifeng.com/program/lnrs/detail_2007_04/27/1061640_0.shtml)                       |
+> | Author          | 凤凰卫视                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-04-27                                 |
+> | Tags            | 变性, 艺人, 自杀, 梦想, 经历, 社会现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

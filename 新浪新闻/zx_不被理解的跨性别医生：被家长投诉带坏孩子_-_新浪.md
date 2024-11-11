@@ -170,7 +170,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文通过对跨性别医生潘柏林的采访，详细探讨了他的门诊经历以及跨性别者在寻求医疗支持过程中的挑战。潘医生以支持跨性别者为己任，致力于为他们提供专业的医疗帮助，而不仅仅是提供药物或手术，更希望能够帮助他们学会接纳自己的身体，从而过上正常的生活。文中报道了刘朦、李青及程昱等跨性别者的真实经历，展现了他们在家庭支持、心理斗争和身体转变中的复杂感受。特别是对于潘医生常遭家长投诉的现象，文章指出父母普遍缺乏对跨性别问题的理解，认为医生是在‘带坏孩子’，而潘医生正在努力进行相关的科普工作以改变这种状况。文章强调了在中国，跨性别治疗面临的重重困难，包括法律、医疗资源短缺及社会观念障碍。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -179,12 +179,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | zx_不被理解的跨性别医生：被家长投诉带坏孩子_-_新浪.md                             |
 > | Size            | 20431 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 08:34:10                             |
+> | Original Link   | [https://zx.sina.cn/sh/2021-07-27/zx-ikqcfnca9287773.d.html](https://zx.sina.cn/sh/2021-07-27/zx-ikqcfnca9287773.d.html)                       |
+> | Author          | 新浪新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-07-27                                 |
+> | Tags            | 跨性别, 医疗资源, 心理支持, 家庭关系, 社会环境, 潘柏林, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

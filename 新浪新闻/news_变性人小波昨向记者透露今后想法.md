@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了变性人小波在接受变性手术后的想法与经历。小波希望成为公众人物，为变性人群体争取社会理解与支持。在一家医院中接受采访的小波分享了她术后的感受与家庭的支持，包括她的父母和妹妹对她身份转变的接纳。小波详细介绍了她的术后康复过程，男朋友的悉心照护使她感到幸福。而小波在变性之前，长达一年的研究与筹备也为她的决定奠定了基础。她强调，社会对变性人群体的理解与支持至关重要，希望通过自己的经历来提升公众意识。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -44,12 +44,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人小波昨向记者透露今后想法.md                             |
 > | Size            | 2065 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:08:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4552306.d.html](https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4552306.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2005-09-12                                 |
+> | Tags            | 变性人, 变性经历, 社会理解, 心理健康, 公众人物                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

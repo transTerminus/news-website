@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要报道了英国卫生局为性别认同障碍儿童提供药物辅助变性手术的最新治疗体系。文章中提到，为了帮助这些儿童顺利过渡到所认同的性别，卫生部决定开始使用特定药物来延缓儿童的青春期性发育。具体措施包括每月为儿童注射抑制雄激素和雌激素的药物，从而减缓性器官的发育过程。临床试验已在12至14岁的性别认同障碍儿童中成功实施，并计划向年龄更小的儿童扩展。此外，报道中也提到了支持与反对这一政策的相关声音，保守党议员对这一治疗方法表达了担忧，呼吁进行调查。此报道不仅反映了医疗和社会对性别认同问题的讨论，也揭示了在性别医疗措施推动过程中的伦理考量与社会反响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -48,12 +48,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国为性别认同障碍儿童提供药物辅助变性手术.md                             |
 > | Size            | 2983 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:54:08                             |
+> | Original Link   | [https://news.ifeng.com/a/20140521/40395744_0.shtml](https://news.ifeng.com/a/20140521/40395744_0.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 英国                               |
+> | Date            | 2014-05-21                                 |
+> | Tags            | 性别认同, 变性手术, 青春期抑制, 医疗政策, 儿童健康, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

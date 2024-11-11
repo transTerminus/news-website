@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性人刘婷在2015年参加广州举办的国际联合国小姐选美大赛的经历。刘婷，原名刘霆，在完成变性手术后的第一次公开亮相中获得了“最美蝶变奖”，吸引了社会的广泛关注。刘婷在变性手术前以孝道为名曾被评选为全国道德模范。经过一系列的整形手术后，她获得了新的身份证和姓名，并表示希望通过参加选美大赛来展示她的新生。刘婷在比赛中感受到了友谊，并希望将自己的故事改编成自传和电影，讲述她如何找到真实的自己。文中提及她的未来计划，强调了她在转变过程中所经历的挑战和收获，让人对跨性别者的生活现状有了更深刻的理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -31,12 +31,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人刘婷广州选美.md                             |
 > | Size            | 2062 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:37:02                             |
+> | Original Link   | [https://news.ifeng.com/a/20150924/44727147_0.shtml](https://news.ifeng.com/a/20150924/44727147_0.shtml)                       |
+> | Author          | 李丽                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-09-24                                 |
+> | Tags            | 刘婷, 变性人, 选美, 跨性别故事, 社会认可, 自我发现                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

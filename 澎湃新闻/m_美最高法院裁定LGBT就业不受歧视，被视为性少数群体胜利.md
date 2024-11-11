@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国最高法院于2020年6月15日裁定LGBT群体在就业方面不受歧视的重大事件。裁定以6票赞成、3票反对的结果，明确指出1964年《民权法案》中规定的性别歧视涵盖性取向和性别认同的歧视。这是与LGBT权益相关的里程碑式事件，被称为自2015年同性婚姻合法以来的重要进展。文章提到，在裁决之前，美国许多州允许基于性别取向或性别认同的解雇，该裁定表明这一歧视行为已被法律禁止。文中还提及特朗普政府在此案中的立场及反对者的观点，强调该裁定对LGBT群体的重要性与积极意义。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -45,12 +45,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_美最高法院裁定LGBT就业不受歧视，被视为性少数群体胜利.md                             |
 > | Size            | 2867 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:38:50                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=7863138&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=7863138&from=kuaibao)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 美国                               |
+> | Date            | 2020-06-15                                 |
+> | Tags            | LGBT, 就业不受歧视, 民权法案, 跨性别权益, 美国最高法院, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

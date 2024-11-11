@@ -52,8 +52,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_《海吉拉》：请拥抱我的灵魂在我的躯壳之上.md                             |
 > | Size            | 12817 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:42:13                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10856403](https://m.thepaper.cn/newsDetail_forward_10856403)                       |
 > | Author          | 傅子宸                               |
 > | Region          | 台湾                               |
 > | Date            | 未知                                 |

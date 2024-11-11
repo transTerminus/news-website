@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一起涉及变性人士的法律问题。内容讲述了秦女士在与丈夫陈某结婚多年来后，陈某突然失踪，并最终以女性身份现身，告知秦女士自己已进行了变性手术并再婚。秦女士因而面临着重婚罪的法律困境，她咨询湖北百思得律师事务所的律师，律师指出，由于陈某变性，二人婚姻关系的法律效力相当于自动解除，因此秦女士无法以重婚罪控告陈某。此案件反映了中国在变性人婚姻方面法律滞后与社会认知的现状，律师强调，当前法律尚未对变性人群体提供明确规定，这导致了类似的婚姻和法律问题在其他地区也时常发生。该报道在社会与法律领域中，引发了对变性人权益与法律保护的讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +32,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_失踪丈夫成他人娇妻重婚罪难诉“变性老公”.md                             |
 > | Size            | 2815 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:49:10                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-09-30/detail-ikknscsi4390811.d.html](https://news.sina.cn/sa/2004-09-30/detail-ikknscsi4390811.d.html)                       |
+> | Author          | 廖君 张光塔                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-09-30                                 |
+> | Tags            | 跨性别, 变性人, 婚姻法律, 重婚罪, 社会问题, 法律政策, 人权                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

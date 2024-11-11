@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了来自福建的许云霞（化名），一位拥有良好经济状况的女性，因内心渴望成为男性而决意离婚及变性手术的故事。许云霞在家庭和社会的压力下结婚并生下孩子，但她始终无法找到内心的幸福，反而常常感到痛苦。她觉得自己从小就像男孩一样生活，甚至向父母询问自己是否被上帝搞错，认为自己实际上是一个男人。在看到有关变性手术的资料后，许选择了勇敢面对自己内心真正的渴望，决心离开婚姻，带着自己的积蓄来到成都，寻求变性手术的可能。故事中提到在专家的评估后，由于她被诊断为严重易性癖病，最终得以开展相关的变性手术。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -52,12 +52,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_富婆一心想做男人离婚欲做变性手术_手机新浪网.md                             |
 > | Size            | 3425 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:17:21                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-08-12/detail-ikknscsi0979772.d.html](https://news.sina.cn/sa/2003-08-12/detail-ikknscsi0979772.d.html)                       |
+> | Author          | 新华网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-08-12                                 |
+> | Tags            | 跨性别, 易性癖病, 变性手术, 生命故事, 社会压力, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

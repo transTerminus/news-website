@@ -37,7 +37,7 @@ _![](https://n.sinaimg.cn/sinacn10209/198/w99h99/20191010/4e50-ifrwayx4023514.jp
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国“人妖”背后的生存故事，强调了经济压力和社会歧视如何迫使一些跨性别者选择进入这个行业以寻求生计。文中提到，尽管这些“人妖”们在外表上光鲜亮丽，但实际上他们的生活却充满了挑战和痛苦，由于长期依赖药物维持形象，他们的健康受到严峻挑战，平均寿命仅约30岁。这篇文章还提到，一些“人妖”在收入稳定后选择出家，以此来寻求心灵的慰藉和对抗死亡的恐惧，反映了对宗教信仰的依赖和对生活选择的无奈。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -46,12 +46,12 @@ _![](https://n.sinaimg.cn/sinacn10209/198/w99h99/20191010/4e50-ifrwayx4023514.jp
 > |-----------------|----------------------------------------|
 > | Filename        | k_盘点：泰国“人妖”求生的背后故事，出家重回男儿身，太可怜了！_-_新浪.md                             |
 > | Size            | 4018 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:43:35                             |
+> | Original Link   | [http://k.sina.cn/article_7037282922_1a3746a6a00100r234.html?from=travel](http://k.sina.cn/article_7037282922_1a3746a6a00100r234.html?from=travel)                       |
+> | Author          | 未知                               |
+> | Region          | 泰国                               |
+> | Date            | 2019-10-12                                 |
+> | Tags            | 跨性别, 泰国人妖, 生命故事, 生存现状, 社会压力, 宗教信仰                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

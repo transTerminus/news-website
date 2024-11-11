@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章记录了一个名为露露的中俄混血男子的生命故事，他自小就认为自己是女性，并渴望通过变性手术来实现自己的性别认同。露露在文中分享了他的过渡经历，包括与他人的情感关系、职场经历以及对性别认同的探索。他描述了自己从小到大的性别认同过程，学校里的表演经历，以及与同龄人和老师之间的互动。露露不认同自己是同性恋者，尽管他有过与男性的性关系，他始终坚持自己是女人并希望能有一个正常的家庭生活。文章还提到，露露为了追求自己的梦想，愿意做任何事情，包括卖肾来筹集变性手术的费用。此外，露露也描绘了他在感情上经历的挫折，特别是在与一位伴侣的复杂关系中所感受到的痛苦和挣扎。整篇文章深刻地反映了他在社会和亲密关系中所面临的挑战，以及对变性手术的渴望。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -61,12 +61,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_混血男子有易性癖想做女人不认同自己是同性恋_手机新浪网_-_新浪新闻.md                             |
 > | Size            | 7443 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:46:59                             |
+> | Original Link   | [http://news.sina.com.cn/s/2006-02-22/08348273558s.shtml](http://news.sina.com.cn/s/2006-02-22/08348273558s.shtml)                       |
+> | Author          | 南京报业网-金陵晚报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-02-22                                 |
+> | Tags            | 性别认同, 易性癖, 变性手术, 生命故事, 社会环境, 感情经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

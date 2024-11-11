@@ -83,7 +83,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了杨士华的变性经历，涵盖了他从出生到成年后经历的痛苦与挣扎。杨士华出生时被诊断为两性人（阴阳人），其父亲和母亲在得知这一信息后决定收养他，并给他取名。文章详细描述了杨士华从少年时期受到同学的欺凌，到追加手术后他的人生变化。通过自己的奋斗，杨士华最终选择了在19岁时做变性手术，并在手术后以女性身份回到家乡。文章还提到，手术后杨士华享受到正常生活的喜悦，这对他来说是重拾自己的身份和幸福生活的里程碑。整个故事反映了社会对于跨性别人士的理解与偏见，以及家庭支持的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -92,12 +92,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_性别的挣扎：32年间经历两次变性（图）.md                             |
 > | Size            | 7369 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:23:19                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-04-26/detail-ikknscsk0116036.d.html](https://news.sina.cn/sa/2006-04-26/detail-ikknscsk0116036.d.html)                       |
+> | Author          | 合肥报业网-江淮晨报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-04-26                                 |
+> | Tags            | 跨性别, 变性, 生命故事, 心理健康, 社会认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -27,7 +27,7 @@ Copyright © 1996-2024 SINA Corporation All Rights Reserved [版权所有](http:
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了特斯拉和SpaceX首席执行官马斯克在与著名心理学家乔丹·彼得森博士的专访中，针对其儿子泽维尔（Xavier）变性问题的深刻反思与个人经历。马斯克透露，出于对儿子性别焦虑的关注及对其安全的恐惧，他签署了允许儿子进行变性手术的文件，但事后感到自己被误导。他批评了推动未成年人变性手术的社会风潮，并直接称此行为为不道德和邪恶，认为这给儿童带来的身体伤害是不可逆转的。他还指出，青春期阻滞剂等同于绝育药物，强调这种变性治疗的潜在风险。彼得森博士表示对马斯克观点的认同，认为关注点应集中在导致自杀率上升的真正原因——抑郁与焦虑，而非性别认同问题本身。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -36,12 +36,12 @@ Copyright © 1996-2024 SINA Corporation All Rights Reserved [版权所有](http:
 > |-----------------|----------------------------------------|
 > | Filename        | finance_马斯克谈儿子变性：美国觉醒精神病毒杀死了他_-_新浪财经.md                             |
 > | Size            | 1938 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:26:50                             |
+> | Original Link   | [https://finance.sina.com.cn/tech/discovery/2024-07-24/doc-incfeqsi2829451.shtml](https://finance.sina.com.cn/tech/discovery/2024-07-24/doc-incfeqsi2829451.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2024-07-24                                 |
+> | Tags            | 马斯克, 变性, 性别焦虑, 青春期阻滞剂, 社会政策, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

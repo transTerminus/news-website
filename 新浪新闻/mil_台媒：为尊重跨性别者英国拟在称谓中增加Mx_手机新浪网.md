@@ -159,7 +159,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了英国为尊重跨性别者而拟在称谓中增加性别中性的“Mx”称谓的计划。作为社会的一大变革，英国皇家邮政、大银行及官方表格均增设此称谓，以便更好地体现对跨性别者的尊重。报道提到，《牛津英语词典》也考虑在下一版本中正式承认‘Mx’这一称谓。此报道瞬时引发了社会各界的讨论，显示出社会对于跨性别权利和尊严的日益重视。此外，文中还提到了一些香港和中国大陆的相关情况，包括香港的跨性别者在法律与社会环境中遭遇的现实困难，以及对跨性别者的歧视和体制性问题。呼吁社会更好地理解和支持跨性别者，促进相关法规的完善。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -168,12 +168,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | mil_台媒：为尊重跨性别者英国拟在称谓中增加Mx_手机新浪网.md                             |
 > | Size            | 13550 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:17:45                             |
+> | Original Link   | [https://mil.sina.cn/2015-05-04/detail-iawzuney4857343.d.html?from=wap](https://mil.sina.cn/2015-05-04/detail-iawzuney4857343.d.html?from=wap)                       |
+> | Author          | 参考消息                               |
+> | Region          | 未知                               |
+> | Date            | 2015-05-04                                 |
+> | Tags            | 跨性别者, 称谓变更, 社会变革, 法律与政策, 英国, Mx称谓, 跨性别权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

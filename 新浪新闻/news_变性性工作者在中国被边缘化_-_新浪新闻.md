@@ -64,7 +64,7 @@ Copyright © 1996-2015 SINA Corporation, All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于中国变性性工作者的报道，提及他们在社会中面临的严重边缘化和经济困境。文章基于亚洲促进会发布的一份针对北京和上海变性性工作者生存状况的调查报告，深入探讨了变性性工作者身份的社会接受度、法律地位和医疗资源的匮乏。作者张成普详细描述了该群体在社会中的低处境及所遭受的歧视，并指出虽然中国政府没有正式惩罚变性人，但缺乏相应的非歧视法律和基础医疗支持，使得他们被迫过着隐蔽的生活。在被采访的70位变性性工作者中，大多数人因经济原因而选择性工作，且更高的被捕风险让他们与警察的关系“两难。”“在正常情况下，不便于把事情报告给警察，因为我们的身份不被认可，令人尴尬”。文章提及变性性工作者感染艾滋病的几率显著高于其他群体，反映出他们经历的生存挑战和需要改善的医疗服务。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -73,12 +73,12 @@ Copyright © 1996-2015 SINA Corporation, All Rights Reserved
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性性工作者在中国被边缘化_-_新浪新闻.md                             |
 > | Size            | 3895 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:47:51                             |
+> | Original Link   | [http://news.sina.com.cn/w/zg/gjzt/2015-01-20/0550576.html?from=wap](http://news.sina.com.cn/w/zg/gjzt/2015-01-20/0550576.html?from=wap)                       |
+> | Author          | 张成普                               |
+> | Region          | 中国                               |
+> | Date            | 2015-01-20                                 |
+> | Tags            | 变性性工作者, 边缘化, 身份认同, 生存状况, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

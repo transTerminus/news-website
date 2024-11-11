@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了一名在当当网工作的变性男性在进行变性手术后被公司辞退的案例，主要围绕该事件所引发的法律争议和社会问题展开。文章指出，该员工因病假未获批准而被公司认定为旷工，并最终被解雇。不过，在经过法律仲裁与审判后，法院认为公司的解除劳动合同行为违法，员工的请假是合理的。文件中还引用了多位律师对此案的法律分析，明确指出用人单位存在就业歧视的行为，特别是在涉及变性人如厕等问题时。此外，文章也提到对跨性别者的社会接纳程度正逐渐提高，反映出社会对多元化生存方式的需要和认可。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -78,12 +78,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性手术后被辞退，到底是因为旷工还是歧视？.md                             |
 > | Size            | 5997 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:41:19                             |
+> | Original Link   | [https://news.sina.cn/2020-07-05/detail-iirczymm0681713.d.html](https://news.sina.cn/2020-07-05/detail-iirczymm0681713.d.html)                       |
+> | Author          | 沈雪颖 李翔（看看新闻Knews记者）                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-07-05                                 |
+> | Tags            | 跨性别, 变性手术, 劳动法, 就业歧视, 社会环境, 法律案例                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

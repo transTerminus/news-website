@@ -73,7 +73,7 @@ All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/cop
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了2019年4月2日，千余名谷歌员工通过联名公开信要求公司将反跨性别保守派代表凯·科尔斯·詹姆斯（Kay Coles James）从其人工智能伦理委员会中剔除。谷歌近期成立了先进技术外部咨询委员会（ATEAC），以帮助处理与人工智能相关的道德风险。然而，詹姆斯因其反对LGBTQ权益的立场受到强烈反对，谷歌员工在公开信中指出，任命她为委员会成员与谷歌声称支持跨性别人士的价值观相悖。公开信强调了詹姆斯的观点如何可能加剧对多个边缘化群体的危害，并呼吁谷歌重新审视其委员会构成，以确保代表性和道德归责。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -82,12 +82,12 @@ All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/cop
 > |-----------------|----------------------------------------|
 > | Filename        | finance_千余名谷歌员工要求将反跨性别保守派从人工智能委员会剔除_-_新浪财经.md                             |
 > | Size            | 7662 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:24:25                             |
+> | Original Link   | [https://finance.sina.com.cn/roll/2019-04-02/doc-ihsxncvh7575628.shtml](https://finance.sina.com.cn/roll/2019-04-02/doc-ihsxncvh7575628.shtml)                       |
+> | Author          | 张唯                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2019-04-02                                 |
+> | Tags            | 谷歌, 人工智能, 跨性别, LGBTQ, 伦理委员会, 反LGBTQ, 员工抗议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

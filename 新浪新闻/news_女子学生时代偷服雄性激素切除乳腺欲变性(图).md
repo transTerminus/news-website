@@ -154,7 +154,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位名为张向阳（化名）的女孩在成长过程中面临的性别认同困惑和痛苦经历。她生于一个重男轻女的家庭，从小被父亲寄予对男性的期望，成长过程中不断与自身的女性身份抗争。15岁时，因对女性生理特征的厌恶，她开始偷偷服用雄性激素，并最终进行了部分乳腺切除手术。在与父母的关系紧张和寻求自我认同的过程中，她的故事揭示了跨性别者所面临的心理及社会压力，并表达了她对未来变男性身份的渴望和追求。文章不仅详细记录了她的个人经历，还反映出社会对跨性别人的误解与偏见。通过对庞杂的情感、家庭关系和社会认知的深刻剖析，报道为读者提供了对性别身份认同复杂性的深入理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -163,12 +163,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_女子学生时代偷服雄性激素切除乳腺欲变性(图).md                             |
 > | Size            | 11737 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:33:53                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-07-12/detail-ikftpnny3653306.d.html](https://news.sina.cn/sa/2006-07-12/detail-ikftpnny3653306.d.html)                       |
+> | Author          | 大河网-河南商报                               |
+> | Region          | 中国                               |
+> | Date            | 2006-07-12                                 |
+> | Tags            | 跨性别, 性别认同, 变性经历, 社会压力, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

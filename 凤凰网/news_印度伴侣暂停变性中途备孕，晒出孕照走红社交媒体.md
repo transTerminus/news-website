@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了一对印度变性夫妇的怀孕经历，他们在变性治疗过程中选择暂停治疗以怀孕。文章详细讲述了这对伴侣的故事，帕瓦尔出生时性别为男，欲成为女性，而扎哈德出生时性别为女，欲成为男性。两人在认识三年后，共同决定要一个孩子，扎哈德在怀孕前暂停了变性治疗。此事在社交媒体上引起了广泛关注，反映出印度变性人在生育方面仍面临许多挑战与选择。文章还提到了印度变性人群体的法律地位及社会环境，尤其是2014年印度最高法院裁定变性人享有与其他人平等的权利。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -33,12 +33,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_印度伴侣暂停变性中途备孕，晒出孕照走红社交媒体.md                             |
 > | Size            | 1517 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:14:14                             |
+> | Original Link   | [https://news.ifeng.com/c/8NEEYWCh1Ii](https://news.ifeng.com/c/8NEEYWCh1Ii)                       |
+> | Author          | 未知                               |
+> | Region          | 印度                               |
+> | Date            | 2023-02-08                                 |
+> | Tags            | 变性人, 怀孕, 社交媒体, 印度, 法律权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

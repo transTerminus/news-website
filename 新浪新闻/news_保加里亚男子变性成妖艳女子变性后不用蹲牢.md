@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名保加利亚男子斯里特科·伊科夫在接受变性手术后，以女性身份逃脱盗窃判决的事件。他因涉嫌盗窃被指控并面临三年的监禁，但在法庭审理时，法官惊讶地发现他已经变性为名为阿比娜·米哈吉洛娃的女子。根据保加利亚法律，因变性而改名的伊科夫不再受到起诉，法官最终判决其不需入狱。这起事件突显了变性法律在纵深保护个人身份上的影响及相关法律的复杂性，同时也展示了伊科夫追求新生活的决心。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -42,12 +42,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_保加里亚男子变性成妖艳女子变性后不用蹲牢.md                             |
 > | Size            | 2192 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:06:20                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4144801.d.html](https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4144801.d.html)                       |
+> | Author          | 国际在线                               |
+> | Region          | 保加利亚                               |
+> | Date            | 2022-12-08                                 |
+> | Tags            | 变性, 法律政策, 盗窃案, 个人身份, 性别认同, 保加利亚, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

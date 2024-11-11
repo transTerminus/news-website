@@ -20,7 +20,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一位名叫莉莉的变性女性，她在江苏施尔美整形医院进行了面部整形手术，对新形象感到非常满意。报道中详细描绘了莉莉的手术经历和术后感受，提及在手术后揭开包裹的纱布时，她看到镜子中的自己，感到非常兴奋和开心，甚至喜极而泣。让她的面部特征更加柔和的手术改变了她的眉骨和颧骨，使她的鼻子看起来更小巧，从而提升了她作为女性的形象。莉莉表达了对变性手术和整形手术的满意，认为这些改变让她真正成为了一名女性，并给予了她做女人的信心。这篇文章反映了跨性别个体在外貌和身份认同上所追求的变化与挑战，以及变性手术后的积极感受，展示了她对自我认同的追求和对生活新阶段的期待。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -29,12 +29,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人换了张“女人脸”_对新容貌非常满意.md                             |
 > | Size            | 1297 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:25:39                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-01-17/detail-ikkntiak9224033.d.html](https://news.sina.cn/sa/2004-01-17/detail-ikkntiak9224033.d.html)                       |
+> | Author          | 温州新闻网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-01-17                                 |
+> | Tags            | 变性人, 整形手术, 跨性别, 身份认同, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

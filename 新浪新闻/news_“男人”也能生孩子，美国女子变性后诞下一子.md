@@ -83,7 +83,7 @@ Bennett Kaspar-Williams表示，尽管生孩子给自己带来了一些挑战，
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一位名叫Bennett Kaspar-Williams的跨性别男性，他在经过性别过渡后生下了与丈夫Malik的孩子，成为了一位幸福的爸爸。Bennett出生时被指派为女性，在2011年意识到自己的性别认同为男性，并于2014年进行了变性手术和睾酮激素治疗。尽管他没有进行生殖器官手术，但他明确识别为男性。2017年，Bennett与Malik相遇并恋爱，2019年他们结婚。Bennett最终决定怀孕，并在停用睾酮激素治疗后，通过剖腹产生下男婴。在怀孕期间，Bennett对自己的性别认同坚定不移，他指出，不应该用“母亲”来定义女性，拥有孩子的同时他仍是一个父亲。此事引发了对跨性别者生育能力及性别认同的讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -92,12 +92,12 @@ Bennett Kaspar-Williams表示，尽管生孩子给自己带来了一些挑战，
 > |-----------------|----------------------------------------|
 > | Filename        | news_“男人”也能生孩子，美国女子变性后诞下一子.md                             |
 > | Size            | 3974 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:38:54                             |
+> | Original Link   | [https://news.sina.cn/sh/2021-12-23/detail-ikyamrmz0799083.d.html](https://news.sina.cn/sh/2021-12-23/detail-ikyamrmz0799083.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2021-12-23                                 |
+> | Tags            | 跨性别, 男性生育, 性别认同, Bennett Kaspar-Williams, 家庭, 社会讨论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

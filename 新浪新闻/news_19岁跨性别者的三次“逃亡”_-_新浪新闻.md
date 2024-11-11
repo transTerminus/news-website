@@ -277,7 +277,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了跨性别者黄小迪的成长故事，探索了她在家庭、社会环境和心理斗争中的经历。文章叙述了黄小迪自幼对自身性别认同的困惑，以及为追寻真实自我的过程中的多次‘逃亡’。她的故事包括了被家人误认为是男孩，因性别认同问题而经历的心理挣扎、家人的压力、以及最终的释怀与接受。黄小迪描述了她的逃离、掩藏和对家庭期望的反抗，直至最后获得某种自由，文章展现了当前社会对跨性别者的法律和社会环境的局限与挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -286,12 +286,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_19岁跨性别者的三次“逃亡”_-_新浪新闻.md                             |
 > | Size            | 23102 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:46:28                             |
+> | Original Link   | [https://news.sina.cn/sh/2020-06-30/detail-iircuyvk1278763.d.html](https://news.sina.cn/sh/2020-06-30/detail-iircuyvk1278763.d.html)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-06-30                                 |
+> | Tags            | 跨性别, 个人故事, 心理健康, 社会环境, 法律政策, 生存现状, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

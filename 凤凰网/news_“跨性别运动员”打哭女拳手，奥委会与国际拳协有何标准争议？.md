@@ -135,7 +135,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件探讨了在2024年巴黎奥运会上关于跨性别运动员参赛的争议，特别是涉及阿尔及利亚拳手伊马内·哈利夫和意大利女拳击手安吉拉·卡里尼之间的比赛事件。该事件引发了对跨性别运动员参赛标准的广泛讨论，报道中提到国际奥委会对性别注册的标准、国际拳协的性别检测结果及其他相关政策，引入对跨性别运动员的界定及历史背景。文章强调了不同机构之间对跨性别运动员参加比赛的标准不一致情况，以及随着跨性别运动员数量的增加，体育界对参与规定的逐步适应和反对的声音。文件同时引用了许多相关人士的评论和背景，探讨了跨性别运动员的相关法律、医学和社会问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -144,12 +144,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？.md                             |
 > | Size            | 14412 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:20:38                             |
+> | Original Link   | [https://news.ifeng.com/c/8bpCz5qUZ4m](https://news.ifeng.com/c/8bpCz5qUZ4m)                       |
+> | Author          | 林旭 凤凰网 《CC情报局》特约撰稿员                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别运动员, 体育争议, 巴黎奥运会, 国际奥委会, 性别检测标准                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

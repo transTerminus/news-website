@@ -61,8 +61,8 @@ Mats Brannstrom领导的研究团队于2014年在全世界第一个成功进行�
 > |-----------------|----------------------------------------|
 > | Filename        | m_“公鼠怀孕”论文停止撤稿，相关研究人士解析实验意义_-_澎湃新闻.md                             |
 > | Size            | 5364 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-10 22:02:52                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13447006](https://m.thepaper.cn/newsDetail_forward_13447006)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2023-07-05                                 |

@@ -95,7 +95,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了如何在当前的社会动荡中保持独立思考，不随波逐流，反映了作者对当代艺术和政治现象的观察与批判。文章以美国抽象表现主义画家杰克逊·勃洛克的作品为引子，评论了当代艺术的创作方式和其背后的意识形态，提出了对艺术欣赏的个人化看法。联系到美国的政治现状和媒体对政治正确的推崇，引出跨性别者甚至非典型性别表达者在当今社会中的生存现状，以布里安·阮获选美的例子展示跨性别者在争取权利和认同方面的艰辛旅程。作者认为，公众对跨性别者的态度及文化表现不仅反映了个人的审美情趣，更与社会大环境、国家政策密切相关，最终希望读者能够坚持独立的见解，不被舆论与流行观点所左右。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -104,12 +104,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_这乱世，不被忽悠才是真本事.md                             |
 > | Size            | 9487 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:17:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_21029751](https://m.thepaper.cn/newsDetail_forward_21029751)                       |
+> | Author          | 衡星 朝阳少侠                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 艺术, 政治, 美国, 社会环境, 独立思考, 文化表达                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

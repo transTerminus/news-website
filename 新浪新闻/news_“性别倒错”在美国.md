@@ -70,7 +70,7 @@ J·T·海斯在美国密西西比州的科林斯长大，父亲是著名的赛�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国跨性别者的生活经验以及他们面对的社会困境和努力追求法律平等的奋斗。文章通过个人故事展示了跨性别者的内心斗争，特别是J·T·海斯（后改名为特蕾·奥康奈尔）的经历，她在赛车事业成功的背后藏有对性别认同的困扰，最终选择进行变性手术。文章还提到了跨性别者在社会中争取权益的背景，以及美国在法律上对跨性别者的逐步保护，涵盖了从公职人员、运动员到普通人的多样性。讨论了性别认同的复杂性及其对个人和社会的广泛影响，尤其是在性别流动性愈发明显的当今时代。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -79,12 +79,12 @@ J·T·海斯在美国密西西比州的科林斯长大，父亲是著名的赛�
 > |-----------------|----------------------------------------|
 > | Filename        | news_“性别倒错”在美国.md                             |
 > | Size            | 10094 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-11 07:01:46                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-08-28/detail-ikknscsk2616442.d.html](https://news.sina.cn/sa/2007-08-28/detail-ikknscsk2616442.d.html)                       |
+> | Author          | 方陵生                               |
+> | Region          | 美国                               |
+> | Date            | 2007-08-28                                 |
+> | Tags            | 跨性别, 性别认同, 变性手术, 社会权利, 个人故事, 法律政策, 性别流动性                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

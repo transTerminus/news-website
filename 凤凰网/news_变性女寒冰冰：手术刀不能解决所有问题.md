@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章来自凤凰网，讲述了变性女寒冰冰的故事，表达了对变性人社会现状的深刻思考。寒冰冰提到，建立变性人协会的重要性，以帮助那些在性别转变过程中缺乏信息和支持的人士。她强调，仅靠手术并不足以解决所有问题，变性者需要被社会接纳，并有能力融入社会。文中还提到著名整形外科专家陈焕然对变性手术的见解，指出变性手术背后的复杂性及其对患者生活的长远影响，尤其是社会接纳与个人心理的双重挑战。文章最后提到，卫生部已提出对变性手术技术管理的建议，提醒社会应更多关注变性者面临的医疗外问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -77,12 +77,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性女寒冰冰：手术刀不能解决所有问题.md                             |
 > | Size            | 6462 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:33:26                             |
+> | Original Link   | [https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml](https://news.ifeng.com/society/5/200908/0828_2579_1324706_4.shtml)                       |
+> | Author          | 凤凰网专栏                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-08-28                                 |
+> | Tags            | 变性手术, 跨性别, 社会接纳, 医疗资源, 法律政策, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

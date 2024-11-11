@@ -285,7 +285,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名叫米振林的跨性别者的个人经历与困境。米振林从小就感到自己应该是女孩，曾因偷打雌二醇针与父母关系紧张并离家出走。进入职场后，他面临很多性别认同上的挑战，如同事对其跨性别身份的反应及求职过程中的性别困扰。文中详细描绘了他的生活，包括与朋友的互动、对变性手术的渴望、在职场上的不易、以及他面临的经济压力和心理挑战。米振林还积极参与跨性别者的交流群体，与其他成员分享自己的经历和提供支持，体现了跨性别者之间的团结与互助。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -294,12 +294,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别者：搭上半生，去扭转性别“错误”.md                             |
 > | Size            | 21399 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:32:06                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3275834?commTag=true](https://m.thepaper.cn/newsDetail_forward_3275834?commTag=true)                       |
+> | Author          | 高二明                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别者, 个人经历, 心理健康, 社会环境, 性别认同, 性别转变, 社区支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -35,7 +35,7 @@ PN044
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一位变性女囚维基·汤普森在英国男子监狱中被强迫关入后不幸去世的事件。汤普森在21岁时死亡，曾表达过如果被关入男子监狱将自杀的恐惧。文章讨论了她的死对变性人群体的影响，特别是在国际变性人纪念日即将来临的背景下，引发了对变性囚犯安置政策的关注与反思。文章提到，社会对此事件的反应显示出变性人的自杀率的惊人数据，以及在监狱中遭受性骚扰的风险，这使得呼吁对变性人囚犯实施尊重其性别认同的做法显得愈加重要。同时，文章也提及美国某些法律的实施情况，展现了变性人面临的普遍问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -44,12 +44,12 @@ PN044
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国一变性女囚被强迫关入男牢后死亡.md                             |
 > | Size            | 2213 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:40:57                             |
+> | Original Link   | [https://news.ifeng.com/a/20151123/46346030_0.shtml](https://news.ifeng.com/a/20151123/46346030_0.shtml)                       |
+> | Author          | 参考消息                               |
+> | Region          | 英国                               |
+> | Date            | 2015-11-22                                 |
+> | Tags            | 变性人权利, 监狱制度, 性别认同, 自杀率, 社会政策, 跨性别议题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

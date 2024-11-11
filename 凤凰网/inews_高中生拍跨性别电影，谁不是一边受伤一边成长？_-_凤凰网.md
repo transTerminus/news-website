@@ -169,7 +169,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一位高中生傅戎与导演胡然然共同拍摄跨性别主题电影《逃离》的经历。文章中详细描述了傅戎的个人故事，从他在成长过程中面临的性别认同、家庭困扰到最终走出自我探索的旅程。在拍摄过程中，他们不仅遇到制作上的各种挑战，如资金、剧组成员的退出、父母的反对等，也体现了跨性别者在自我接受与社会认同中所遭遇的艰难。此外，影片的展映引起了傅戎母亲的质疑，反映了社会对跨性别群体的误解与偏见。尽管经历了许多波折，傅戎希望通过电影能够让更多人理解与支持性少数群体，充满了对于个体真实自我的追寻与思考。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -178,12 +178,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | inews_高中生拍跨性别电影，谁不是一边受伤一边成长？_-_凤凰网.md                             |
 > | Size            | 13636 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:03:40                             |
+> | Original Link   | [http://inews.ifeng.com/51543546/news.shtml](http://inews.ifeng.com/51543546/news.shtml)                       |
+> | Author          | 肖舒妍                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2017-08-01                                 |
+> | Tags            | 跨性别, 电影, 自我探索, 家庭关系, 社会支持, 青年成长                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

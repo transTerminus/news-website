@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了一位17岁少女蒙蒙想要进行变性手术的故事。根据重庆时报的报道，蒙蒙的母亲梁女士无奈地求助，她的女儿自幼就表现出对男性身份的认同，甚至在初中时逐渐明确表达希望进行变性手术的要求。蒙蒙的这种想法令母亲感到苦恼，并因为家庭经济条件而无法满足她的要求。梁女士发现女儿的心理健康逐渐受到影响，多次出现跳楼威胁行为。心理咨询师建议，应让蒙蒙进一步认识变性手术的实际后果与挑战。就此，文章深刻反映了家庭在面对跨性别子女时的复杂情感和心理状态，以及社会对变性手术与性别认同问题的认知不足。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -58,12 +58,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_17岁少女欲做变性手术家长疑其有女友(图).md                             |
 > | Size            | 2694 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:30:19                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200903/0317_344_1064342.shtml](https://news.ifeng.com/society/2/200903/0317_344_1064342.shtml)                       |
+> | Author          | 高敏                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-03-17                                 |
+> | Tags            | 变性手术, 性别认同, 心理健康, 家庭关系, 教育                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

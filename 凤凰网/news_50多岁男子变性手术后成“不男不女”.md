@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档报道了郑州市的韩晋豫，为了实现自己成为女人的梦想，在50多岁时卖掉房子进行变性手术的故事。韩晋豫自小便有女性身份认同，但由于社会的压制，她直到近年才决定手术。手术后，她发现自己的性别认同并没有得到满足，反而出现了身体上的诸多问题，使她在性别认同与生理现实之间感到困惑。文中描述了她在手术后的痛苦经历，包括无法过性生活，以及与手术医院之间的法律纠纷。韩晋豫认为医院对手术的效果进行了虚假宣传，并表示要通过法律维权以寻求心理与生理的双重支持。最后，医院方面则回应称韩的手术尚未完成，并指责其索赔要求过高。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -42,12 +42,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_50多岁男子变性手术后成“不男不女”.md                             |
 > | Size            | 3704 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:24:25                             |
+> | Original Link   | [https://news.ifeng.com/photo/200702/0214_24_77208.shtml](https://news.ifeng.com/photo/200702/0214_24_77208.shtml)                       |
+> | Author          | 凤凰资讯                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-02-14                                 |
+> | Tags            | 变性手术, 跨性别, 性别认同, 法律诉讼, 社会问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

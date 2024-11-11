@@ -118,7 +118,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件涉及一起跨性别员工因进行变性手术而请假，最终遭到公司解雇的事件。原男员工小高于2018年6月请假进行变性手术，并经过医院出具病情证明，建议休养两个月。但在这个过程中，虽然小高的主管对于他的请假表示同意，但人事部门却以‘旷工’为由解除与小高的劳动关系。小高对此不满，遂提起仲裁，要求公司继续履行劳动合同和支付相应工资。法院经过审理认为公司解除劳动合同的行为属于违法，并支持了小高的请求，要求公司继续履行劳动合同并支付工资。二审法院也维持了一审判决，强调了对变性人权利的保护，以及应有的社会宽容和理解。通过这个案例，文件进一步探讨了跨性别者在职场所面临的困难和法律保护的必要性，呼吁全社会对性别认同多样性的包容及尊重。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -127,12 +127,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院_.md                             |
 > | Size            | 8750 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:18:47                             |
+> | Original Link   | [https://news.ifeng.com/c/8V71wISWoQW](https://news.ifeng.com/c/8V71wISWoQW)                       |
+> | Author          | 申工社                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-11-29                                 |
+> | Tags            | 跨性别, 变性手术, 劳动合同解除, 法律判决, 权利保护, 社会环境, 职场歧视                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

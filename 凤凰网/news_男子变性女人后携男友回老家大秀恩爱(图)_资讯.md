@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了刘昌福的变性经历，详细描述了他的过渡历程和与男友重返故乡的情景。刘昌福因染色体畸变和先天性睾丸发育不全综合征，长期以来在性别认同上面临挑战。经过多年的努力和适应，刘昌福进行变性手术，从熊猫眼下的坚强男子变成了她，并在手术后携男友回乡，展现对新生活的期待和对家人的不安。文中提到刘昌福的家人对此手术的反对以及他与前妻的关系，前妻对他与当前男友的坦诚和祝福。文章通过细致的描写和多张图片传达了变性者在社会接纳与个人自我认同方面的复杂体验。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -41,12 +41,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性女人后携男友回老家大秀恩爱(图)_资讯.md                             |
 > | Size            | 2801 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:28:24                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200804/0421_344_499789.shtml](https://news.ifeng.com/society/2/200804/0421_344_499789.shtml)                       |
+> | Author          | 王聪等                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-04-21                                 |
+> | Tags            | 刘昌福, 变性手术, 爱情, 性别认同, 社会接纳                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

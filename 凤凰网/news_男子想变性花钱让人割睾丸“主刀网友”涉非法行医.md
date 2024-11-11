@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一起非法行医案件，其中一名男子通过网络联系到一位没有医疗资质的人进行睾丸切除手术。报道详细叙述了事件经过，受害者张浩因为对性别认同的迫切需求，选择了从网络上联系到的姜伟进行手术。姜伟在无专业医疗设备和执业资格的情况下，进行了危险的手术，导致张浩重伤，最终被警方逮捕，并以非法行医罪立案。报道揭示了在中国跨性别者在寻求医疗转变时面临的危险及法律责任问题，指出虽然变性手术在中国被认可，但非法手术的风险及后果依然严峻。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -56,12 +56,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子想变性花钱让人割睾丸“主刀网友”涉非法行医.md                             |
 > | Size            | 4961 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:46:14                             |
+> | Original Link   | [https://news.ifeng.com/a/20160725/49639782_0.shtml](https://news.ifeng.com/a/20160725/49639782_0.shtml)                       |
+> | Author          | 宇文杰                               |
+> | Region          | 上海                               |
+> | Date            | 2016-07-25                                 |
+> | Tags            | 变性, 非法行医罪, 睾丸割除, 性别认同, 医疗风险                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

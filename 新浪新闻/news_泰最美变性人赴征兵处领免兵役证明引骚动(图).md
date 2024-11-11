@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了泰国一位变性人皇后纳迪亚帕塔在征兵处领免兵役证明时引发的骚动。纳迪亚帕塔是两届泰国变性选美冠军，以其出众的外表和身材吸引了现场众多男子的目光。在泰国，每年军方会进行征兵，其中包括所有年满21岁的男性，变性人尽管不需要服兵役，但仍需参加身体检查并领取免役证明。报道中详细描绘了现场的混乱与纳迪亚帕塔的风采，突出其在男性队伍中的显著性。相关网友的评论也反映出对变性人的不同看法与亚洲地区对跨性别群体的社会反应。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -65,12 +65,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰最美变性人赴征兵处领免兵役证明引骚动(图).md                             |
 > | Size            | 2948 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:27:11                             |
+> | Original Link   | [http://news.sina.cn/gj/2017-04-06/detail-ifyeayzu6908704.d.html?from=wap](http://news.sina.cn/gj/2017-04-06/detail-ifyeayzu6908704.d.html?from=wap)                       |
+> | Author          | 郭鹏飞                               |
+> | Region          | 泰国                               |
+> | Date            | 2017-04-06                                 |
+> | Tags            | 跨性别, 变性人, 纳迪亚帕塔, 征兵, 社会反应, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

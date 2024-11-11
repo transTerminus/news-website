@@ -150,7 +150,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了中国第一位变性人张克莎的生命故事与过渡经历，详细描述了她的成长背景、变性手术经历以及其后的生活。张克莎生于1962年，在家庭和社会的压力下，经历了长期的身份挣扎。1983年，她在医学界完成了中国首例变性手术，成为第一位获得法律承认的女性。文章中，她谈及了对女性身份的珍惜，以及在家庭中与父母和兄弟姐妹的复杂关系。此外，张克莎也讲述了自己在情感上与亡夫的关系，深感遗憾和内疚。尽管生活中经历过许多痛苦，她仍然坚信内心的追求和价值，展现了一个坚强女性面临社会偏见的勇气。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -159,12 +159,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国第一变性人自白：我的现在比过去美丽(图).md                             |
 > | Size            | 10198 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:16:09                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-06-21/detail-ikkntiak7458843.d.html](https://news.sina.cn/sa/2003-06-21/detail-ikkntiak7458843.d.html)                       |
+> | Author          | 华商报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-06-21                                 |
+> | Tags            | 跨性别, 变性经历, 个人故事, 社会环境, 法律与政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一对渴望变性的男女吴龙和小晓的故事。吴龙是一名大一的学生，心中渴望成为男性，而小晓作为正在经历变性手术的女性，渴望通过手术达到内心的自我认同。他们都愿意商量互相移植生殖器官，以便各自实现变性的梦想。吴龙在文中提到缺少母爱的成长经历，从小就表现出男子气，并希望借助这一手术来真正成为男性。小晓则提到他崇拜的偶像梅艳芳，以及他在变性后的美好憧憬与期待。两人互相鼓励，频繁联系，甚至谈及未来可能结合的可能性，全篇传达出对自我认同与生活选择的坚定追求和对未来的希望。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -65,12 +65,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_四川一对男女欲变性愿互相移植生殖器官.md                             |
 > | Size            | 6159 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:18:15                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-01-10/detail-ikkntiam6330733.d.html](https://news.sina.cn/sa/2006-01-10/detail-ikkntiam6330733.d.html)                       |
+> | Author          | 温州新闻网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-01-10                                 |
+> | Tags            | 变性, 跨性别, 生命故事, 性别认同, 医疗转型, 社会支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

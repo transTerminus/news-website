@@ -69,7 +69,7 @@ KCM Trade驻悉尼首席市场分析师Tim Waterer表示，“日元整个10月�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了2024年10月28日日本第50届众议院选举的结果，强调这是自2009年以来执政联盟首次未能赢得过半数席位，影响了日本的金融市场。自民党和公明党构成的执政联盟总共获得215个席位，未能达到233个的过半数。这一结果导致日元贬值至三个月来的最低点，分析师们表示，这将带来更大的政治不确定性和市场波动。文章还提到，政治不确定性影响了日本股市，股市面临短期下行风险。不过，有分析师认为，此次选举结果可能会降低政府实施更具挑战性政策的可能性，从而对市场产生利好。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -78,12 +78,12 @@ KCM Trade驻悉尼首席市场分析师Tim Waterer表示，“日元整个10月�
 > |-----------------|----------------------------------------|
 > | Filename        | finance_15年来首次！日本执政联盟未获得过半议席，日元跌至三个月新低.md                             |
 > | Size            | 5188 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:17:28                             |
+> | Original Link   | [https://finance.ifeng.com/c/8e2pQtf2ZvX](https://finance.ifeng.com/c/8e2pQtf2ZvX)                       |
+> | Author          | 未知                               |
+> | Region          | 日本                               |
+> | Date            | 2024-10-28                                 |
+> | Tags            | 日本, 选举, 金融市场, 日元贬值, 股市风险, 政治不确定性                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

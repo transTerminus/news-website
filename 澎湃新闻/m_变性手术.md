@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含关于变性手术的多篇报道和实例，涉及不同身份的跨性别者在变性手术中的经历与遇到的问题。文章涵盖了自2016年至2021年间的多个具体案例，既介绍了跨性别者的手术需求与期望，也揭示了医疗过程中存在的法律与伦理问题。报道中提到了一名韩国首位变性军人的去世，以及其他人面临身份证性别更改的困难，涉及到的案例还包括假医生非法行医的事件。卫生与法律之间的紧张关系反映了当前社会中对跨性别者生存现状的复杂态度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -82,12 +82,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性手术.md                             |
 > | Size            | 2998 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:55:34                             |
+> | Original Link   | [https://m.thepaper.cn/tag/420089](https://m.thepaper.cn/tag/420089)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 变性手术, 跨性别者, 医疗资源, 法律问题, 社会现状, 生命故事, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

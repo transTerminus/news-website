@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自环球时报，报道了印度变性人模特群体在社会中日益被认可的现象。文中首先介绍了变性模特乔汉的成长经历，她在童年时因为爱好女装而受到了嘲笑，直到22岁时她才开始作为女性身份大胆展现自己。2015年，乔汉创办了印度首家变性人模特经纪公司，意图突破传统性别角色限制。因此，2016年，乔汉和其他模特们首次登上了杂志封面，成为历史性的标志。文章同时也描述了印度社会对于变性人的偏见、重男轻女的文化背景以及法律支持不足的问题，指出尽管这个地区的变性人正在逐渐被接受，但仍然面临诸多挑战和歧视。通过乔汉的努力，报道传达了变性人不仅可以是模特，也应该获得公平的社会地位和经济机会的诉求。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -55,12 +55,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英媒：印度“变性人模特”群体逐渐被认可.md                             |
 > | Size            | 5883 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:36:03                             |
+> | Original Link   | [https://news.sina.cn/2016-09-18/detail-ifxvyrit2761133.d.html](https://news.sina.cn/2016-09-18/detail-ifxvyrit2761133.d.html)                       |
+> | Author          | 环球时报                               |
+> | Region          | 印度                               |
+> | Date            | 2016-09-18                                 |
+> | Tags            | 变性人, 模特, 印度, 性别认同, 社会接受, 法律政策, 生活经历, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

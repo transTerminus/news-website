@@ -98,7 +98,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名为亦诗的跨性别女性的生命故事，深入探讨她在自我认同和社会接纳过程中经历的痛苦与挣扎。亦诗一生认为自己是女孩，尽管生理性别为男性。她在遗书中表达了对生活的绝望，描述了因性别焦虑和身份认同痛苦而产生的自杀倾向。文章中提到了一份2017年发布的调查报告，该报告显示跨性别群体的心理健康状况堪忧，许多人经历抑郁、焦虑甚至自杀行为。亦诗的故事反映了跨性别者面临的社会、家庭压力，以及缺乏支持的严重后果。此外，文中也介绍了其他成功接受家庭支持的跨性别者的情况，揭示了化名的雪风在父亲的全力支持下勇敢做出的身份认同及转变。通过这一系列故事，文章探讨了性别认同的复杂性和社会对跨性别者的普遍偏见，以及法律和职业生涯中可能面临的挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -107,12 +107,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别女性：我的身体里住着一个女人.md                             |
 > | Size            | 12061 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:38:22                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5435150](https://m.thepaper.cn/newsDetail_forward_5435150)                       |
+> | Author          | 澎湃新闻特稿部                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 性别认同, 心理健康, 自杀, 社会支持, 法律政策, 抑郁症, 性别认知障碍, 青春期困扰, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

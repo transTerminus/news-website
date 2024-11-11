@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了在巴西圣保罗的变性人参加TransCidadania项目课程的情况。该项目为变性人提供了一项机会，他们只需每周完成30个小时的课程就可以获得约262美元的奖学金。文章中提到，该项目旨在通过教育帮助变性人群体获取更好的生存条件和自我发展机会。并附有与该课程进行中的照片，以展示参与者的学习情形。时间信息标注为2015年4月8日，来源于中国新闻网。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -35,12 +35,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_巴西变性人参加项目课程不逃课可获奖学金.md                             |
 > | Size            | 1392 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:29:24                             |
+> | Original Link   | [https://news.ifeng.com/a/20150408/43507029_0.shtml](https://news.ifeng.com/a/20150408/43507029_0.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 巴西圣保罗                               |
+> | Date            | 2015-04-08                                 |
+> | Tags            | 变性人, 教育, 奖学金, TransCidadania项目, 课程                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

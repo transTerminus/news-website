@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了发生在广西柳州的一起事件：一名身患艾滋病的男子为了筹集变性手术的费用，选择以男扮女装的方式从事卖淫活动。文章详细描述了该男子的背景及其经历：他从小就渴望成为女孩，成年后开始穿着女性衣物，甚至进行了隆胸手术。尽管他已感染艾滋病，仍继续进行卖淫活动，被警方抓获。警方强调了此行为的法律后果，并指出男扮女装提供有偿性服务同样构成卖淫。事件于2016年4月1日被报道，反映了跨性别者在追求性别认同过程中面临的社会和法律挑战，也突显了他们在经济上所遭遇的困境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -40,12 +40,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_广西：艾滋病男扮女子卖淫筹变性手术费.md                             |
 > | Size            | 2380 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:43:20                             |
+> | Original Link   | [https://news.ifeng.com/a/20160401/48301408_0.shtml](https://news.ifeng.com/a/20160401/48301408_0.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 广西                               |
+> | Date            | 2016-04-01                                 |
+> | Tags            | 跨性别, 卖淫, 变性手术, 艾滋病, 法律问题, 广西                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -67,8 +67,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_一个跨性别女性犯罪时，应该被关在男子监狱还是女子监狱？.md                             |
 > | Size            | 7901 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:47:22                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8541731](https://m.thepaper.cn/newsDetail_forward_8541731)                       |
 > | Author          | Kim Tran（翻译：mecho）                               |
 > | Region          | 美国                               |
 > | Date            | 未知                                 |

@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含关于跨性别群体的多个重要报道和讨论，包括对跨性别者在社会、法律和文化等多方面的探讨。文件中涉及的几个重要主题包括：网红变性者的社会反响，罗琳与跨性别群体之间的争议，以及变装皇后在表演中对自我认同的表达。通过这些案例，我们可以看到跨性别者在现代社会中所面临的挑战和复杂的经验。相关报告还揭示了跨性别者的生存现状，展示了他们的故事与声音，呼吁社会对跨性别族群的理解与尊重。文件收录的各篇文章的发布日期涵盖了2015年到2021年，显示了这一议题的持续关注和发展。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,12 +39,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别群体.md                             |
 > | Size            | 1160 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:53:48                             |
+> | Original Link   | [https://m.thepaper.cn/tag/241928](https://m.thepaper.cn/tag/241928)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 社会问题, 文化争议, 个人故事, 变装皇后, 法律政策, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

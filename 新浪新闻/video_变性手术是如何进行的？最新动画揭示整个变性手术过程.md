@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变性手术过程的详细介绍，标题为《变性手术是如何进行的？最新动画揭示整个变性手术过程》。文件中包含了一段以动画形式呈现的关于变性手术的过程，该动画目的是让人们更好地理解变性手术的具体步骤和医疗过程。文件提供了关于变性手术的背景信息，包括手术的必要性、患者的心理准备以及术前术后的护理注意事项。通过多媒体形式展示相关信息，使得读者能够直观地了解这一复杂的手术过程。文件来源于手机新浪网，并附带了一些相关评论和社交媒体互动信息，展示了公众对这一医疗话题的关注与讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -35,12 +35,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | video_变性手术是如何进行的？最新动画揭示整个变性手术过程.md                             |
 > | Size            | 8852 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:53:00                             |
+> | Original Link   | [http://video.sina.cn/tech/2015-12-08/detail-ifxmnurf8414178.d.html](http://video.sina.cn/tech/2015-12-08/detail-ifxmnurf8414178.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 变性手术, 健康, 医学, 心理                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

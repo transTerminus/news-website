@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了特朗普政府计划重启对跨性别者在军队服役的禁令，引发了美国社会及政界的广泛争议。特朗普在推特上发消息称，在与军方高层讨论后决定不再允许变性人在军队服役，认为他们会增加医疗负担并影响部队作战的有效性。这一决定遭到民权组织和LGBT群体的强烈反对，认为这是一个重大退步，且不符合人道和公平原则。反对者包括现役变性军人和众多前军官，他们认为这一政策是不信任变性军人，造成了心理上的创伤。同时，该决定在国会也引发了两党的激烈辩论，民主党人士批评其为“丑陋”与“歧视”，而一些支持该禁令的人则认为国家安全应为首要考虑。特朗普的这一政策还引发了在纽约市的示威，抗议者们呼吁支持跨性别者的权利。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -56,12 +56,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普欲再推变性人服役禁令美议员：十分丑陋.md                             |
 > | Size            | 4541 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:38:21                             |
+> | Original Link   | [https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap](https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap)                       |
+> | Author          | 环球时报特约记者 刘皓然                               |
+> | Region          | 美国                               |
+> | Date            | 2017-07-28                                 |
+> | Tags            | 跨性别, 军队服役, 特朗普, 法律政策, 社会争议, LGBT权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

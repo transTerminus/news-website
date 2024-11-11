@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国韦尔斯利学院在是否招收跨性别男性（‘女跨男’）及非二元性别者的申请问题上，学生与校方之间的激烈争论。根据报道，学院校长宝拉·约翰逊公开反对即将进行的公投，称校方将继续以传统的‘女子学院’身份招生。尽管在2015年修订政策后已允许跨性别女性申请，但校长认为只接受‘始终认为自己是女性’的申请者。支持公投的学生认为，作为女子学院，韦尔斯利应成为所有性别非二元者与跨性别者的安全港，尤其在当前社会环境中。而反对者则担心此举会改变学院的核心使命，并表示跨性别男性可选择其他男女同校的大学。本文通过描述激烈的校园讨论与不同声音，展示了这一议题的复杂性，以及跨性别话题在教育领域中面临的挑战和反响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -66,12 +66,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_要不要招跨性别男性，美国顶尖女子学院跟学生吵起来了.md                             |
 > | Size            | 6654 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:48:48                             |
+> | Original Link   | [https://news.sina.cn/2023-03-15/detail-imykxpqx8094719.d.html](https://news.sina.cn/2023-03-15/detail-imykxpqx8094719.d.html)                       |
+> | Author          | 观察者网                               |
+> | Region          | 美国                               |
+> | Date            | 2023-03-14                                 |
+> | Tags            | 跨性别, 教育, 法律政策, 社会环境, 韦尔斯利学院, 女子学院, 性别包容性, 公投                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

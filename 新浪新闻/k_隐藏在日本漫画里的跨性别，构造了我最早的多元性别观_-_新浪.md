@@ -91,7 +91,7 @@ _![](https://n.sinaimg.cn/sinacn10201/360/w180h180/20191012/8158-ifvwfti7747406.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了日本漫画中的跨性别角色对多元性别观念的影响，特别是提到的作品《密令杀手·牙》，其主角木叶优儿/优子展现了流动性别的特征。文章首先回顾了漫画的历史，指出日本动漫在性别表现上相对多样，文中补充了《火影忍者》与《密令杀手·牙》之间的潜在联系。木叶优儿作为一名能够在男女性别间自由转换的角色，代表了许多对性别的探索。文件中详细阐述了该角色的故事情节，如在危机情况下如何利用性别诱惑敌人，从而展现了跨性别角色的力量与智慧。文章结尾反思了正版书籍的缺乏对性别观念传播的影响，呼吁更多人了解和尊重多元性别。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -100,12 +100,12 @@ _![](https://n.sinaimg.cn/sinacn10201/360/w180h180/20191012/8158-ifvwfti7747406.
 > |-----------------|----------------------------------------|
 > | Filename        | k_隐藏在日本漫画里的跨性别，构造了我最早的多元性别观_-_新浪.md                             |
 > | Size            | 10938 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:58:38                             |
+> | Original Link   | [https://k.sina.cn/article_6420857832_17eb683e800100cuij.html](https://k.sina.cn/article_6420857832_17eb683e800100cuij.html)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2018-12-25                                 |
+> | Tags            | 跨性别, 日本漫画, 性别观念, 流性别, 多元性别, 生命故事, 漫画分析                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

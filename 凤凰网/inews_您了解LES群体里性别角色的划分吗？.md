@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了LES（女性同性恋）群体中的性别角色划分，详细介绍了T、P和不分这三种身份特征及其相应的行为准则与文化背景。文章指出，T（tomboy）通常表现出较强的男性气质，而P则偏向女性化，不分则在这两者之间，角色模糊且具多样性。文中分析了这些角色在性别文化中的地位以及她们在社群中的相互关系和亲密性。同时，探讨了LES群体的生活困境与组织形式，强调了互联网对女同志群体识别自我和交流的重要性。文中大量引用了学者的研究和实际案例，反映了LES群体的多元文化和复杂的生存现状。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -60,12 +60,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | inews_您了解LES群体里性别角色的划分吗？.md                             |
 > | Size            | 9195 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:04:23                             |
+> | Original Link   | [http://inews.ifeng.com/yidian/46041082/news.shtml](http://inews.ifeng.com/yidian/46041082/news.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | LES群体, 性别角色, 跨性别文化, 女性同性恋, T、P、不分, 社会文化研究, 网络社群, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -89,7 +89,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自新浪新闻，标题为《盘点他们既是名人也是性少数派》，主要回顾和介绍了几位知名公众人物的性少数身份及其相关经历。文中提到的名人包括学者李银河、苹果CEO蒂姆·库克、已故香港歌手张国荣、模特米兰达·可儿、脱口秀主持人艾伦·德杰尼勒斯，以及冰岛女总理约翰娜·西于尔扎多蒂。通过这些人物的故事，文章揭示了跨性别者及其他性少数群体的生活状况和社会接受度。文章特别着重李银河与其跨性别伴侣的关系，强调性别认同的复杂性，并且指出诸多知名人物在公开表达性取向上的勇气与影响。此文为读者提供了关于性少数群体的广泛视角，尤其是在社会与文化层面上的讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -98,12 +98,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_【盘点】他们既是名人也是性少数派_-_新浪新闻.md                             |
 > | Size            | 6377 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:45:11                             |
+> | Original Link   | [http://news.sina.cn/gn/2014-12-19/detail-iawzunex7393391.d.html](http://news.sina.cn/gn/2014-12-19/detail-iawzunex7393391.d.html)                       |
+> | Author          | 新京报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2014-12-19                                 |
+> | Tags            | 跨性别, 性少数群体, 名人, 李银河, 蒂姆·库克, 张国荣, 艾伦·德杰尼勒斯, 冰岛女总理, 社会接受度                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

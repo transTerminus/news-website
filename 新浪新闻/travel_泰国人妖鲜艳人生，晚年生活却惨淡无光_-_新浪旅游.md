@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了泰国人妖的生活经历，强调了他们外表的华丽和生活的落差。尽管他们在年轻时可能因外貌而受到关注和喜爱，但随着年龄的增长，许多人面临越来越孤独和经济拮据的晚年。文章通过真实案例，展示了这些跨性别者所经历的困境，以及社会对他们的接受度和未来展望。通过细致的描写，读者可以感受到他们的光鲜与惨淡之间的对比，也引发对这一群体生存现状的深刻思考。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -37,12 +37,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | travel_泰国人妖鲜艳人生，晚年生活却惨淡无光_-_新浪旅游.md                             |
 > | Size            | 9009 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:58:05                             |
+> | Original Link   | [https://travel.sina.cn/video/baidang/2019-02-23/detail-ihrfqzka8508904.d.html](https://travel.sina.cn/video/baidang/2019-02-23/detail-ihrfqzka8508904.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 泰国人妖, 生活经历, 社会接受度, 老人生活困境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

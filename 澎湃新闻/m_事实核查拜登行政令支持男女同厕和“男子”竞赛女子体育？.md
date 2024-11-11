@@ -106,8 +106,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_事实核查拜登行政令支持男女同厕和“男子”竞赛女子体育？.md                             |
 > | Size            | 10600 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:43:15                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10922522](https://m.thepaper.cn/newsDetail_forward_10922522)                       |
 > | Author          | 詹涓                               |
 > | Region          | 美国                               |
 > | Date            | 未知                                 |

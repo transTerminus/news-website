@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一名来自黑龙江省五常的23岁男青年晓志（化名）在进行变性手术前的心理历程和情感体验。晓志自小经历性别认同的挣扎，对女性的向往伴随着对自己男儿身的厌恶，最终选择通过手术实现自我认同。文件详细描述了晓志在手术前的心路历程，包括与家人情感的紧张和对变性手术的期待。手术当天，晓志在医护人员和家人的陪伴下，尽管心中充满不安，但坚定了自己的决定，这一过程反映了跨性别者在社会和家庭环境中所面临的挑战和情感。文章还包括了公众对晓志手术的看法，部分评论显示社会对跨性别者的理解和偏见。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -65,12 +65,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子做变性手术前愧对亲人留下眼泪(组图).md                             |
 > | Size            | 5115 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-11 07:01:46                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-09-30/detail-ikftpnny3943101.d.html](https://news.sina.cn/sa/2007-09-30/detail-ikftpnny3943101.d.html)                       |
+> | Author          | 东北网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-09-29                                 |
+> | Tags            | 跨性别, 变性手术, 性别认同, 生命故事, 社会环境, 心理体验, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

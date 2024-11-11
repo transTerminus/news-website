@@ -126,7 +126,7 @@ _“来回来去在自己人圈里争论、宣传、辩论，很难改变什么�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了新西兰性教育中涉及的多元性别教育内容及其引发的华人家长恐慌。近期发起的一则请愿书在华人圈中被广泛转发，要求教育部删除关于性别多元的教育内容。文章详细描述了父母们在微信群内对这一请愿的反应以及对跨性别教育的误解，反映出家长们对孩子教育的担忧和对性别及性倾向教育的混淆。尽管部分家长对性教育表示支持，认为其有助于孩子理解多元性别与性倾向，但整体上，文章揭示了华人社群中存在的对同性恋及跨性别教育的深层抵触情绪，相应的社会文化背景也在其中扮演了重要角色。作者引用了新西兰教育部发布的《性教育指南》的主要内容，强调性教育的重要性和其在学生心理健康、个性发展中的积极作用，同时也指出了新西兰社会对性教育的逐步包容性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -135,12 +135,12 @@ _“来回来去在自己人圈里争论、宣传、辩论，很难改变什么�
 > |-----------------|----------------------------------------|
 > | Filename        | m_让华人家长恐慌的新西兰性教育，到底教什么？_-_澎湃新闻.md                             |
 > | Size            | 21645 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:16:07                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3065228](https://m.thepaper.cn/newsDetail_forward_3065228)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 新西兰                               |
+> | Date            | 2019-01-29                                 |
+> | Tags            | 跨性别教育, 性教育, 华人家长, 多元性别, 社会反应, 教育政策, 新西兰                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

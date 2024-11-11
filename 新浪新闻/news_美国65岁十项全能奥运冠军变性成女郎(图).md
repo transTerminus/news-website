@@ -76,7 +76,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为关于美国65岁十项全能奥运冠军布鲁斯·詹纳在变性后首次公开亮相的详细报道。报道提到，詹纳于2015年4月宣布变性，并在2015年6月1日通过《名利场》封面首次以女性身份公开亮相，变更名字为凯特琳。文章详细回顾了詹纳的辉煌运动生涯，包括他在1976年蒙特利尔奥运会上赢得金牌的成就，并探讨了他的个人生活，包括与卡戴珊家族的关系及与前妻的争执。报道中还提及了詹纳对变性的看法以及其母亲对这次变性举动的质疑。整篇报道不仅深入剖析了詹纳的转变过程，还反映了社会对跨性别现象的关注与讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -85,12 +85,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国65岁十项全能奥运冠军变性成女郎(图).md                             |
 > | Size            | 4988 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:52:59                             |
+> | Original Link   | [https://news.sina.cn/gj/2015-06-03/detail-ianfzhne7311486.d.html](https://news.sina.cn/gj/2015-06-03/detail-ianfzhne7311486.d.html)                       |
+> | Author          | 新浪新闻                               |
+> | Region          | 美国                               |
+> | Date            | 2015-06-01                                 |
+> | Tags            | 变性, 跨性别, 奥运冠军, 凯特琳·詹纳, 社会关注, 个人故事, 医疗资源, 法律与政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

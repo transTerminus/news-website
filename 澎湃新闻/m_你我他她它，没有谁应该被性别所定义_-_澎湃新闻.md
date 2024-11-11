@@ -134,7 +134,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了性别的多样性和流动性，强调性别不仅仅是传统的男性和女性的二元分类，而是一个更加复杂和流动的概念。文中提到，性别作为生物学特征和社会建构的两个方面，共同影响着人们的性别认同和表达。个体对于自身性别的理解和表达受到生物、文化和社会等多重因素的影响。性别的多样性历史悠久，许多文化中都有跨越或超越传统性别分类的人存在，然而在现代社会，仍然存在许多对跨性别者和性别多样化者的歧视和不平等待遇。作者还探讨了性别激进主义的背景，指出当前全球范围内对于性别不平等的抗争以及社会对性别流动性和多样性的理解的变迁，强调性别认知的变革对于所有人都有重要的意义和价值。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -143,12 +143,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_你我他她它，没有谁应该被性别所定义_-_澎湃新闻.md                             |
 > | Size            | 10738 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:23:31                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9797912](https://m.thepaper.cn/newsDetail_forward_9797912)                       |
+> | Author          | 萨莉·海因斯                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-10-01                                 |
+> | Tags            | 性别流动性, 跨性别, 性别研究, 性别多样性, 社会建构, 生物学特征, 性别对立, 性别激进主义                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

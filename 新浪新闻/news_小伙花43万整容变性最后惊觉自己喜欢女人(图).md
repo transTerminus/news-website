@@ -58,7 +58,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了来自澳大利亚的一位年轻男性茱莲妮（Jolene Dawson）在经历了43万人民币的整容变性手术之后，发现自己实际上喜欢的是女性。文章详细描述了茱莲妮的变性和约会经历，以及她在社交网络上与近1000名男性的互动，最终意识到自己的性取向并开始与女性约会的心路历程。茱莲妮表示，虽然她发现了自己喜欢女性，但并没有打算逆转变性，仍然希望继续整容，以变得更像自己心目中的理想形象。同时，文章也提到她向家人坦白自己多次身份变化的经历，引发了人们相应的评论和讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -67,12 +67,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_小伙花43万整容变性最后惊觉自己喜欢女人(图).md                             |
 > | Size            | 3049 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:35:42                             |
+> | Original Link   | [https://news.sina.cn/sh/2018-03-25/detail-ifysnevn0968143.d.html](https://news.sina.cn/sh/2018-03-25/detail-ifysnevn0968143.d.html)                       |
+> | Author          | KeiChiu                               |
+> | Region          | 澳大利亚                               |
+> | Date            | 2018-03-25                                 |
+> | Tags            | 跨性别经历, 性取向, 整容手术, 个人故事, 社会现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

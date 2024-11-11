@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了英国自行车手罗伯特·米勒的变性经历。米勒因在1984年环法自行车赛中获得“山地王”称号而声名显赫，并曾被评选为年度体育风云人物。然而，他于2003年神秘失踪，直到四年后才被发现已秘密进行了变性手术，改名为菲莉帕·约克。通过回忆和报道，文章细致描绘了米勒的运动生涯、失踪原因、变性过程以及现今的生活状态。对于昔日人生的辉煌，约克选择了低调过日子，但仍保持对自行车运动的热爱。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -44,12 +44,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国自行车手失踪4年秘密变性(图)_资讯.md                             |
 > | Size            | 3186 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:36:51                             |
+> | Original Link   | [https://news.ifeng.com/world/Europe/200707/0710_1395_151916.shtml](https://news.ifeng.com/world/Europe/200707/0710_1395_151916.shtml)                       |
+> | Author          | 重庆晨报，编辑：张克侠                               |
+> | Region          | 英国                               |
+> | Date            | 2007-07-10                                 |
+> | Tags            | 跨性别, 变性经历, 体育人物, 媒体报道, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -38,7 +38,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要报道了一位美国女子托马斯·比提的变性经历以及她为妻子代孕的故事。托马斯在完成变性手术后，与妻子南茜结婚，并在南茜由于病症无法怀孕的情况下，决定亲自怀孕。这一过程涉及了多次法律与伦理的挑战，包括在寻求试管受精时遭医生拒绝，以及如何使用匿名捐赠者的精子进行人工授精。托马斯的经历突显了跨性别者在追求家庭与育儿中的复杂性，尽管她身怀六甲，但心中依旧认同自我为男性。文中详细描述了托马斯的怀孕过程，包括她最初的宫外孕以及后来的安全怀孕。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -47,12 +47,12 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国女子变性后人工授精替妻子怀孕(组图).md                             |
 > | Size            | 2239 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-11 07:01:46                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-03-27/detail-ikftssap3013047.d.html](https://news.sina.cn/sa/2008-03-27/detail-ikftssap3013047.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2008-03-27                                 |
+> | Tags            | 变性人, 孕夫, 代孕, 家庭, 法律伦理, 跨性别者经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

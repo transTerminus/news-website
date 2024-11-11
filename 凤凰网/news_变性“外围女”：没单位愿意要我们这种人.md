@@ -180,7 +180,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细探讨了中国跨性别群体的生存现状，尤其是那些从事性工作的跨性别女性。文章通过孙静雅的事例，揭示了许多跨性别者因社会歧视和经济压力而被迫进入性行业以谋生。内容中提到，许多跨性别者在社会中的认同问题以及在寻找工作时面临的困难，常常因为没有合法身份而被拒绝。文章还讨论了与传统性别角色冲突的跨性别者如何在个体与社会之间挣扎，以及她们的内心感受和追求。通过生动的个案和现状描述，这篇文章深刻揭示了性别认同与经济生存之间复杂的关系，反映了社会对跨性别群体的刻板印象与偏见。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -189,12 +189,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性“外围女”：没单位愿意要我们这种人.md                             |
 > | Size            | 13141 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:42:44                             |
+> | Original Link   | [https://news.ifeng.com/a/20151223/46802660_0.shtml](https://news.ifeng.com/a/20151223/46802660_0.shtml)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国                               |
+> | Date            | 2015-12-23                                 |
+> | Tags            | 跨性别, 性别认同, 性工作, 社会歧视, 经济压力, 生活故事, 法律政策, 医疗资源, 女性权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -20,7 +20,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了拜登政府于2023年5月10日公布的一项新政策，该政策保护了同性恋和跨性别者在医疗保健领域免受性别歧视。这项新政策受到美国卫生和公众服务部部长泽维尔·贝塞拉的重视，他强调了消除性别歧视对个人寻求医疗帮助的重要性。他指出，歧视会导致人们放弃寻求医疗，从而对健康产生负面影响。新政策还确保卫生与公众服务部民权办公室会对性取向和性别身份受到歧视的投诉进行调查。此外，本文还提到拜登政府的这一政策与美国最高法院去年在一宗工作场所歧视案件中的裁决一致，标志着在性别歧视问题上法律适用的延展。这项政策被视为对特朗普政府期间政策的扭转，因为前者对于“性别”的定义较为狭隘。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -29,12 +29,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视.md                             |
 > | Size            | 1773 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:00:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_12605520](https://m.thepaper.cn/newsDetail_forward_12605520)                       |
+> | Author          | 美联社                               |
+> | Region          | 美国                               |
+> | Date            | 2023-05-10                                 |
+> | Tags            | 跨性别, LGBTQ, 健康政策, 拜登政府                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

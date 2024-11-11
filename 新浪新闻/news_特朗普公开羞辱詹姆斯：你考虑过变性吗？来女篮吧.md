@@ -59,7 +59,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了美国前总统特朗普在一次演讲中针对篮球明星勒布朗·詹姆斯的言论，尤其是他关于跨性别运动员的争议性发言。特朗普在演讲中扬言，自己将成为史上最好的女篮教练，并戏谑詹姆斯询问他是否考虑变性，讽刺其加入女子篮球队。此言论引发了广泛的讨论，部分网络用户质疑特朗普是否在嘲讽詹姆斯，或只是借机抨击跨性别运动员。特朗普此言论也反映了他对跨性别者参与女子体育的强烈反对，声称这是对女性的不尊重与不公平，并一再强调这一话题在他演讲中具有重要位置。文章还提到特朗普并非首次在公开场合触及此议题，这种政治表态加剧了社会对跨性别运动员的争议。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -68,12 +68,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普公开羞辱詹姆斯：你考虑过变性吗？来女篮吧.md                             |
 > | Size            | 4288 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:47:01                             |
+> | Original Link   | [https://news.sina.cn/2022-07-28/detail-imizmscv3853672.d.html?cre=tianyi&mod=wpage&loc=15&r=0&rfunc=67&tj=cxvideo_wpage&tr=214&wm=6090](https://news.sina.cn/2022-07-28/detail-imizmscv3853672.d.html?cre=tianyi&mod=wpage&loc=15&r=0&rfunc=67&tj=cxvideo_wpage&tr=214&wm=6090)                       |
+> | Author          | 观察者网                               |
+> | Region          | 美国                               |
+> | Date            | 2022-07-28                                 |
+> | Tags            | 跨性别, 特朗普, 詹姆斯, 女篮, 运动员, 争议, 政治言论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

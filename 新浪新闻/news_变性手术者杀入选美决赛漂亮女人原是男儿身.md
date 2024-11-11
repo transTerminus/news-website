@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名叫张克莎的小伙子，自幼对性别认同产生困扰，最终在成为中国第一个获得批准进行变性手术的人后，成功转变为女性的经历。张克莎在成长过程中感到与生理性别不符，承受着来自家庭、学校和社会的巨大压力和歧视。1979年入伍后，她用男扮女装的方式应对困境，凭借勇气和坚持，她最终走上了寻求变性的道路。经过一系列的挫折与努力，1983年1月，她在北京医学院接受了变性手术，成为新中国历史上第一个顺利完成变性手术的案例。手术后，她重新回到了家乡，感受到了作为女性的幸福与重生。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -88,12 +88,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性手术者杀入选美决赛漂亮女人原是男儿身.md                             |
 > | Size            | 9743 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:11:50                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-04-01/detail-ikkntiak7272953.d.html](https://news.sina.cn/sa/2003-04-01/detail-ikkntiak7272953.d.html)                       |
+> | Author          | 周斌、颜家文、冯清                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-04-01                                 |
+> | Tags            | 变性手术, 跨性别故事, 性别认同, 社会歧视, 个人经历, 心理健康, 医学历史                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

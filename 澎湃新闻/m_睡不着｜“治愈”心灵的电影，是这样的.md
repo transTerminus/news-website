@@ -89,7 +89,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要讨论了电影《人生密密缝》的情节和主题，电影讲述了一位变性者伦子的故事，展现了他在成长过程中面对的困难及母亲的支持与理解。生田斗真饰演的伦子从小就希望成为女孩子，影片通过温暖的叙述风格表现了他与母亲之间深厚的感情，以及社会对变性者的偏见。影片中的“织毛衣”这一主题象征着角色间的联系与情感的宣泄，展现了生活中的温暖与包容。导演荻上直子希望通过本片改变对“治愈系”电影的定义，同时也强调了理解与爱的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -98,12 +98,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_睡不着｜“治愈”心灵的电影，是这样的.md                             |
 > | Size            | 7021 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:11:06                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1818278](https://m.thepaper.cn/newsDetail_forward_1818278)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, LGBT电影, 生田斗真, 人生密密缝, 社会偏见, 家庭支持, 性别认知障碍者, 温暖故事, 日本电影                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

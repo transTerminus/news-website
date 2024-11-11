@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一周精选的问答合集，主要围绕三个主题：儿童艺术教育、跨性别群体的心理状态以及火灾公众责任保险制度。首先，来自澎湃问吧的‘诺一妈’安娜分享了她如何在孩子成长过程中融入艺术教育，并指出中法文化艺术在培养孩子审美能力方面的积极作用。其次，跨性别专家孙蕴珍探讨了跨性别者的成因，强调了先天因素的主导性，并指出变性手术作为处理性别认同障碍的有效手段，认为社会应更包容地对待跨性别者，以促进他们的社会融入。最后，关于火灾公众责任保险的讨论则为读者提供了实际的生活建议，建议民众提前进行财产保险投保以降低火灾风险带来的损失。整体来看，这份文件涉及艺术、心理、保险等多方面内容，展示了社会对孩子教育和跨性别群体的关怀与理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -88,12 +88,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_问吧一周精选｜看光头强还是看京剧？诺一妈聊儿童艺术教育.md                             |
 > | Size            | 7123 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:59:06                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1413594](https://m.thepaper.cn/newsDetail_forward_1413594)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 儿童艺术教育, 跨性别群体心理, 火灾公众责任保险, 性别认同障碍, 变性手术, 社会融入                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

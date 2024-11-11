@@ -160,7 +160,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于古代跨性别文化中“女装大佬”的历史回顾与分析，从魏晋时期开始，介绍了众多历史人物的女装故事与审美观念的变化。文章首先讨论了古代对美的标准，指出关于女性美的认知因时代而异，同时也强调了男性穿女装的现象，尤其是以何晏为代表的女装人物，其对穿着女性服饰的追求在社会上引起的反响。此外，文件还贯穿了瑰丽的历史典故，例如魏明帝对女装的喜爱，以及相应的社会背景、文化变迁，包括宋代男娼的出现、明代及清代的男旦等。最后，为了与当代的审美观相结合，文件提及了现代对女性身材的尊重。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -169,12 +169,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | i_古代女装大佬简史_-_凤凰网.md                             |
 > | Size            | 23150 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:25:08                             |
+> | Original Link   | [https://i.ifeng.com/c/8EYivVFRukT](https://i.ifeng.com/c/8EYivVFRukT)                       |
+> | Author          | 侯印国                               |
+> | Region          | 中国                               |
+> | Date            | 2022-03-21                                 |
+> | Tags            | 跨性别, 女装大佬, 审美变迁, 何晏, 魏明帝, 男娼, 男旦, 古代文化, 历史, 诗经                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

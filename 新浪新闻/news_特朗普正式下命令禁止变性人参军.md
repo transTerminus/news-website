@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国总统特朗普于2017年8月25日正式签署的备忘录，该备忘录禁止变性人加入美国军队，并且终止军队为变性手术支付的费用。特朗普表示在经过咨询后，美国政府不会允许变性人在军队中服役，认为军队需要集中精力在胜利上，而不是承担变性人参军带来的医疗费用和相关支出。这一决定引发了广泛的争议与讨论，尤其是在跨性别群体和人权组织中。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -34,12 +34,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普正式下命令禁止变性人参军.md                             |
 > | Size            | 1163 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:05:52                             |
+> | Original Link   | [https://news.sina.cn/global/szzx/doc-ifykiqfe1716959.d.html?wm=3049_0015](https://news.sina.cn/global/szzx/doc-ifykiqfe1716959.d.html?wm=3049_0015)                       |
+> | Author          | 地球日报                               |
+> | Region          | 美国                               |
+> | Date            | 2017-08-25                                 |
+> | Tags            | 跨性别, 军队政策, 特朗普, 变性人参军, 医疗费用, 人权                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

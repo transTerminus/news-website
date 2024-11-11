@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了26岁的变性者孙思瑶的自述，他在经历了多次手术和心理斗争后，尝试融入女性的生活。文章记录了孙思瑶自幼以来对女性身份的渴望与挣扎，并描述了他从小在农村环境下成长所面临的困扰与不被理解的经历。孙思瑶在追寻自己梦想的过程中，为了资金四处募捐，甚至考虑卖肾来筹集手术费用。虽然手术过程对他来说很简单，可是手术后他仍旧面临家庭的反对和社会的压力，感到融入生活的艰难。他的期望是能与同为变性人的爱人过上平淡的生活，并希望未来能够收养孤儿。他的经历反映了社会对性别认同的偏见以及父母教育的缺失问题，从而提出了需要更多对变性人群体理解和支持的呼吁。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -81,12 +81,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性者后感概手术容易融入生活难(图).md                             |
 > | Size            | 5808 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:31:55                             |
+> | Original Link   | [https://news.sina.cn/sa/2014-06-18/detail-ikmyaawa5976161.d.html](https://news.sina.cn/sa/2014-06-18/detail-ikmyaawa5976161.d.html)                       |
+> | Author          | 宋立超                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2014-06-18                                 |
+> | Tags            | 变性者, 跨性别, 手术经历, 性别认同, 个人故事, 社会环境, 心理健康, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

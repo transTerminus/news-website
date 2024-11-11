@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细报道了张克莎在变性20年后的公众活动，主要围绕她与作家邓映如共同推出的书籍《女人梦———中国变性第一人》展开。张克莎在书中分享了她的变性经历与心路历程，强调她希望能够传递真实的自我，激励更多易性症患者。通过对张克莎在湖南图书城与读者见面的记录，本文展现了社会对变性群体的逐步接受与尊重。文章也提到张克莎的未来计划，包括回到长沙发展餐饮业及创建一个网站，以帮助更多有类似经历的人。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -46,12 +46,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_张克莎变性20年后笑对大众她比女人还女人(图).md                             |
 > | Size            | 3797 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:14:55                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-06-09/detail-ikknscsi0579172.d.html](https://news.sina.cn/sa/2003-06-09/detail-ikknscsi0579172.d.html)                       |
+> | Author          | 湖南日报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-06-09                                 |
+> | Tags            | 跨性别, 变性经历, 张克莎, 社会接受, 医疗资源, 心理健康, 生存状况                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了一对来自美国肯塔基州的跨性别夫妇，丈夫尼克和妻子碧安卡是跨性别者，他们分别在心态上和生理上经历了不同的性别认同和转变。尼克在接受了男性荷尔蒙治疗后成功转变为男性，并在怀孕期间为家中带来了两个孩子。他的妻子碧安卡则从男孩转变为女性，经历了变性手术和相应的治疗。文章详细描述了他们的生育经历以及育儿过程中的挑战与心路历程，强调了爱与家庭的稳定对孩子成长的意义。夫妇俩向外界坦诚自己的身份，但同时希望在合适的时机向孩子们解释他们的“真实身份”。文章中包含的生动描述引导读者思考跨性别者在公共生活中如何面对偏见与接纳。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -70,12 +70,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国变性人结婚：“丈夫”生娃“妻子”当爸.md                             |
 > | Size            | 5818 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:01:07                             |
+> | Original Link   | [https://news.ifeng.com/a/20140813/41553926_0.shtml](https://news.ifeng.com/a/20140813/41553926_0.shtml)                       |
+> | Author          | 信息时报                               |
+> | Region          | 美国                               |
+> | Date            | 2014-08-13                                 |
+> | Tags            | 跨性别, 变性人, 怀孕, 家庭, 父母, 育儿, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -102,7 +102,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了东京奥运会上首位公开以变性人身份参赛的运动员新西兰举重选手劳蕾尔-哈伯德，她将在女子举重87公斤以上级比赛中与中国选手李雯雯同场竞争。文件详细回顾了哈伯德的过渡经历及其在男子举重项目上的成功，以及她在2015年获得参赛资格的背景。文章还深入分析了关于跨性别运动员参赛的争议，包括公平性问题，以及国际奥委会针对跨性别运动员的相关政策变迁。尽管哈伯德符合资格，并在体育界代表了团结和包容的一面，但对于她的参赛仍引发了广泛的讨论和不同意见。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -111,12 +111,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_将与我国女选手PK！男人变性参加女子运动公平吗？.md                             |
 > | Size            | 10173 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:52:53                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13765253](https://m.thepaper.cn/newsDetail_forward_13765253)                       |
+> | Author          | 彭晨                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-08-02                                 |
+> | Tags            | 跨性别, 女子举重, 劳蕾尔·哈伯德, 东京奥运会, 运动公平性, 国际奥委会, 性别认同, 运动员经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

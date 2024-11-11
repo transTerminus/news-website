@@ -87,7 +87,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自《新浪新闻》，探讨了动漫中性别模糊的角色，特别是在《绅士学院》这一节目中的多样化展现。文章讨论了多个角色的背景和性别认同，包括亚路嘉·揍敌客、天狐空幻、户冢彩加等。每个角色都有着独特的性别表现和角色设定，常常让观众产生性别的混淆。文章中提到的某些角色，如潮田渚和木下秀吉，以可爱的外表和女生特征挑战传统的性别界限。同时，作者分析了这些角色在社会中的接受度和影响力，鼓励读者在评论区分享自己的想法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -96,12 +96,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_绅士学院：不是伪娘？令你男女莫辨的角色们_-_新浪.md                             |
 > | Size            | 9557 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:50:06                             |
+> | Original Link   | [https://k.sina.cn/article_5203786516_1362b7b1400100ankz.html](https://k.sina.cn/article_5203786516_1362b7b1400100ankz.html)                       |
+> | Author          | 腾讯动漫                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2018-04-16                                 |
+> | Tags            | 绅士学院, 动漫, 性别模糊, 角色分析, 文化评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了巴基斯坦异装癖者的艰难生活，讲述了一名名为瓦西姆·阿克拉姆的男子的故事。他白天工作于一家小店，晚上则化妆成女性舞者以参加婚礼和派对。文章反映了巴基斯坦对性别身份的严格划分，以及异装癖者在社会中的歧视和生存压力。瓦西姆表示，变身为女性舞者是一种谋生的手段，并强调自己并不是跨性别者。此外，文中还提到另一名异装癖者巴赫塔瓦尔·伊贾兹的生活，描述了他们所面临的社会压力、骚扰以及在公众场合的恐惧。尽管巴基斯坦最高法院已承认跨性别者的身份并赋予其法律权利，这仍未能消除社会对异装癖者的偏见和暴力。此文提供了对巴基斯坦跨性别群体现状的深刻见解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -54,12 +54,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_巴基斯坦异装癖者：在歧视中艰难讨生计(组图)男性女性_-_凤凰网.md                             |
 > | Size            | 4133 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:34:30                             |
+> | Original Link   | [https://news.ifeng.com/a/20150121/42985020_0.shtml](https://news.ifeng.com/a/20150121/42985020_0.shtml)                       |
+> | Author          | 国际在线                               |
+> | Region          | 巴基斯坦                               |
+> | Date            | 2015-01-21                                 |
+> | Tags            | 异装癖者, 跨性别, 巴基斯坦, 社会歧视, 生存现状, 舞者, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

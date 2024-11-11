@@ -103,7 +103,7 @@ TA们有很多共性的地方。比如，都有压抑和不堪回首的青春期
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了跨性别者在变性手术后生活中的真实故事与经历，探讨了社会对跨性别群体的认知和态度。内容中提到了多位跨性别者的亲身经历，包括刘婷的自我认同与求爱困惑，周文麒在变性后生活与爱情的挑战，瑶瑶对于社会经济的适应，以及梁咏恩面对社会接纳与自我表达的努力。文章详细讨论了跨性别者在情感、职场与社会交往中的困难与抗争，呼吁人们对于跨性别群体的理解与支持。同时，借由这些个案，反映了变性人对于身份认同、社会融入及自我价值的追求和困境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -112,12 +112,12 @@ TA们有很多共性的地方。比如，都有压抑和不堪回首的青春期
 > |-----------------|----------------------------------------|
 > | Filename        | slide_变性之后_新浪图片.md                             |
 > | Size            | 9029 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:49:47                             |
+> | Original Link   | [http://slide.news.sina.com.cn/slide_1_33131_94566.html](http://slide.news.sina.com.cn/slide_1_33131_94566.html)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2016-01-20                                 |
+> | Tags            | 跨性别, 变性经历, 社会认知, 情感生活, 自我认同, 跨性别者访谈, 文化与社会宽容度                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

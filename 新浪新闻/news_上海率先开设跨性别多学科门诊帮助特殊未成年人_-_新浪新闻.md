@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了上海复旦大学附属儿科医院率先开设的跨性别多学科门诊，旨在为特殊未成年人提供专业医疗服务。随着社会对跨性别群体关注度的提高，儿童与青少年跨性别者的身心健康问题愈发凸显。该门诊由内分泌遗传代谢科主办，结合心理科、内分泌遗传代谢科、泌尿外科以及社工部的专业支持，致力于通过多学科的评估、诊断、心理治疗和必要的药物干预，为跨性别儿童青少年提供帮助。文中提到，一个名为小林的女孩因性别认同问题而经历了严重的心理困扰，经过医院的评估后被确认为跨性别者，并获得了相应的医疗建议。专家认为，这样的门诊将有助于改善跨性别未成年人及其家庭的生活质量，并希望能为更多孩子提供支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -44,12 +44,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_上海率先开设跨性别多学科门诊帮助特殊未成年人_-_新浪新闻.md                             |
 > | Size            | 3723 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:26:51                             |
+> | Original Link   | [https://news.sina.cn/2021-11-04/detail-iktzqtyu5362956.d.html](https://news.sina.cn/2021-11-04/detail-iktzqtyu5362956.d.html)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-11-04                                 |
+> | Tags            | 跨性别, 医疗资源, 未成年人, 心理健康, 复旦大学附属儿科医院, 跨性别门诊, 社会支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

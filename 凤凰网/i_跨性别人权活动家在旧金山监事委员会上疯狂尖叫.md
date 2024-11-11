@@ -12,7 +12,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位跨性别人权活动家在旧金山监事委员会上的发声，表达了对跨性别群体面临的痛苦与困境的强烈不满和抗议。活动家通过激烈的言辞和情感的呼喊，呼吁人们重视跨性别人士的生存现状，强调他们在社会中遭遇的歧视与不公。文件中提到的时间标志着这次发声的及时性，反映出当今社会对跨性别议题的关注。文中也提及了来源于凤凰网，表明了该信息的传播渠道和背景。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -21,12 +21,12 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > |-----------------|----------------------------------------|
 > | Filename        | i_跨性别人权活动家在旧金山监事委员会上疯狂尖叫.md                             |
 > | Size            | 825 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:27:41                             |
+> | Original Link   | [https://i.ifeng.com/c/8PXcSEfEto1](https://i.ifeng.com/c/8PXcSEfEto1)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2023-05-05                                 |
+> | Tags            | 跨性别权利, 社会运动, 人权活动, 旧金山, 反歧视, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

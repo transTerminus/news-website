@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名为南平的男子寻求变性手术赞助的故事。他自述希望通过寻求模特公司签约来资助自己的变性手术，待完成手术后为公司工作以偿还费用。南平身穿女性服装，化了妆，并坦诚自己的身体特征仍明显带有男性特征，反映了他内心对女性身份的渴望与挣扎。他的家人对他变性的态度模糊，而南平本人的成长经历也让他对女性身份有着深切的认同，希望在变性后能被自己的女儿称为“妈妈”。这篇报道不仅展示了个人的变性经历，也反映了社会对变性议题的关注与政治、法律环境的缺失。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子寻赞助想圆女人梦_愿当模特还债.md                             |
 > | Size            | 3750 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:45:13                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-08-04/detail-ikknscsi3836812.d.html?from=wap](https://news.sina.cn/sa/2004-08-04/detail-ikknscsi3836812.d.html?from=wap)                       |
+> | Author          | 新华网官方账号                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-08-04                                 |
+> | Tags            | 跨性别, 变性手术, 人生故事, 社会环境, 法律政策, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

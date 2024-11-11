@@ -116,7 +116,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了中国第一个变性人张克莎的故事，她在经历了20年的变性过程后，以纪实小说《女人梦》的形式公之于众，揭示了自己作为变性人所经历的歧视、痛苦与奋斗。张克莎从小就意识到自己的性别认同，当她接受变性手术后，生活中仍然面临来自社会和家庭的压力与歧视。文章通过记者对她的采访，详细记录了她的变性经历，情感纠葛以及对生活的思考。张克莎的故事引发了社会对变性人这一群体的关注和思考，尤其是在当今社会对不同性别认同的接受度逐渐增加的背景下。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -125,12 +125,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国第一个变性人张克莎：她摘掉了自己的面纱.md                             |
 > | Size            | 17219 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:16:44                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-07-15/detail-ikkntiak7622534.d.html](https://news.sina.cn/sa/2003-07-15/detail-ikkntiak7622534.d.html)                       |
+> | Author          | 新华网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-07-15                                 |
+> | Tags            | 变性人, 张克莎, 性别认同, 变性经历, 社会歧视, 女性故事, 医疗经历, 文艺创作                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

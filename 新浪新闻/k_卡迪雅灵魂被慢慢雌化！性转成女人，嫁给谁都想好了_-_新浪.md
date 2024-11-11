@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了动漫《转生成蜘蛛又怎样！》中角色卡迪雅的性转经历。故事的主角卡迪雅原本是男性，但在转生后成为了女性，经历了生理与心理的双重挣扎。她的转生与之前的经历密不可分，成长过程中被两个姐姐所欺负，使她对女性产生了复杂的情感。卡迪雅在不断适应女性身份的过程中，逐渐在精神层面被迫‘假装’成为女人，尽管这样的认同带来了苦痛。在面对未来的婚姻问题时，她决定选择同样是转生者的修雷因，以便避免尴尬并方便日后解除关系。整篇文章探讨了性别认同、身份认同和社会环境对于个人经历的影响，反映了跨性别者面临的挑战和生存状况。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -71,12 +71,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_卡迪雅灵魂被慢慢雌化！性转成女人，嫁给谁都想好了_-_新浪.md                             |
 > | Size            | 5660 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:10:11                             |
+> | Original Link   | [https://k.sina.cn/article_7428671871_1bac8897f02000sxcd.html?from=animation](https://k.sina.cn/article_7428671871_1bac8897f02000sxcd.html?from=animation)                       |
+> | Author          | 小夜漫宅咖                               |
+> | Region          | 湖北                               |
+> | Date            | 2021-05-28                                 |
+> | Tags            | 跨性别, 性别认同, 性转, 动漫, 生命故事, 社会环境, 真实经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

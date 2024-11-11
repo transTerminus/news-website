@@ -292,7 +292,7 @@ Why not？！
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别与男性演员在华语影视圈中的表现与挑战，特别是在饰演阴柔角色时所面临的社会审视。文章指出，一些男演员将扮演阴柔角色视为对演技的挑战和荣誉，而有些则恐惧于被贴上标签。通过分析姜文、刘烨等演员的经历，文章强调了跨性别角色在拓宽演员理解和认知方面的重要性，并讨论了社会对跨性别表现的双重标准。收录的具体案例展示了演员如何勇敢地接下这些具有挑战性的角色，从而提升了对性别与表演艺术的理解与接受度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -301,12 +301,12 @@ Why not？！
 > |-----------------|----------------------------------------|
 > | Filename        | m_总有一小撮硬汉有个跨性别的梦.md                             |
 > | Size            | 12463 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:39:58                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6418993](https://m.thepaper.cn/newsDetail_forward_6418993)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 男性演员, 阴柔角色, 华语影视, 社会压力, 演技挑战, 性别认知, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

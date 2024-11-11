@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位19岁跨性别者的生活经历，特别是她经历的三次重要的“逃亡”事件。视频内容反映了跨性别者在当今社会所面临的种种挑战，包括来自家庭、社会和法律等方面的压力。这段视频总时长为2分30秒，观看次数达302,500次，表明了其引起的广泛关注。视频不仅展示了跨性别个体的真实处境，还引发了对社会环境和跨性别权益的思考和讨论。内容的形式为视频，来源于凤凰网，强调了社交媒体分享的重要性，呼吁更多人关注跨性别者的生存状况和权利。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_19岁跨性别者的三次“逃亡”.md                             |
 > | Size            | 1423 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:37:11                             |
+> | Original Link   | [https://news.ifeng.com/c/7xjTkFyStMG](https://news.ifeng.com/c/7xjTkFyStMG)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-06-30                                 |
+> | Tags            | 跨性别, 社会, 逃亡, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

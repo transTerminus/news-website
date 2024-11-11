@@ -131,8 +131,8 @@ Vanity Fair
 > |-----------------|----------------------------------------|
 > | Filename        | m_J·K·罗琳遭抵制，关于性别我们还可以讨论什么？.md                             |
 > | Size            | 21920 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:46:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8363034](https://m.thepaper.cn/newsDetail_forward_8363034)                       |
 > | Author          | Rebecca Reilly-Cooper                               |
 > | Region          | 未知                               |
 > | Date            | 未知                                 |

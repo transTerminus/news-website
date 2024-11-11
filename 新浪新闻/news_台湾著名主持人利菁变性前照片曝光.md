@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细记录了台湾著名主持人利菁变性前的照片曝光事件，以及她的个人变性经历。利菁自出生便是一名双性人，从小受到许多煎熬与挑战。在大学二年级时，她迈出了变性手术的第一步，花费巨资前往泰国进行了手术。尽管在2004年她的变性身份被揭露，但她坦然面对，并在事业上获得了成功。此次曝光的照片引发了网友们的热议，虽然差别显著，但更多的是网友们对她的祝福与支持，反映了社会对跨性别者日益增加的理解和包容。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -27,12 +27,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_台湾著名主持人利菁变性前照片曝光.md                             |
 > | Size            | 942 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:05:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-05-07/detail-ikkntian1600849.d.html](https://news.sina.cn/sa/2009-05-07/detail-ikkntian1600849.d.html)                       |
+> | Author          | 台海网                               |
+> | Region          | 台湾                               |
+> | Date            | 2009-05-07                                 |
+> | Tags            | 跨性别, 变性经历, 台湾主持人, 利菁, 变性手术, 社会支持, 双性人与变性人                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

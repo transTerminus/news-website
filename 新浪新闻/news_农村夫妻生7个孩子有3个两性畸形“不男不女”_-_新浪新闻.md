@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一对广西农村夫妻育有7个孩子的故事，其中3个孩子罹患先天性两性畸形。文章详细描述了夫妻俩在生育过程中所面临的挑战和困扰。夫妻最初生下4个健康女孩，但在接下来的3胎中，分别生下的双胞胎和小儿子都被检查出两性畸形，外表看似女孩，但染色体显示为男孩。由于高达18万元的手术费用，夫妻俩深感无奈，他们的孩子因为性别问题逐渐变得自卑，不愿与其他孩子交往。文章揭示了贫困家庭在医疗资源和生育政策限制下的困境，同时也反映出对社会环境、法律政策在此类先天疾病中对此类家庭的影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -69,12 +69,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_农村夫妻生7个孩子有3个两性畸形“不男不女”_-_新浪新闻.md                             |
 > | Size            | 5147 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:44:23                             |
+> | Original Link   | [https://news.sina.cn/sh/2017-01-12/detail-ifxzqnip0825896.d.html](https://news.sina.cn/sh/2017-01-12/detail-ifxzqnip0825896.d.html)                       |
+> | Author          | 黄必成                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2017-01-12                                 |
+> | Tags            | 跨性别, 两性畸形, 农村家庭, 医疗资源, 生育政策, 性别认同, 先天性疾病                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

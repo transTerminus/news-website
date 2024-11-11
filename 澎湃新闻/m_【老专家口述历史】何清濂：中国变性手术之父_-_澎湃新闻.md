@@ -55,8 +55,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_【老专家口述历史】何清濂：中国变性手术之父_-_澎湃新闻.md                             |
 > | Size            | 2631 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-10 22:19:26                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7823178](https://m.thepaper.cn/newsDetail_forward_7823178)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 中国大陆                               |
 > | Date            | 未知                                 |

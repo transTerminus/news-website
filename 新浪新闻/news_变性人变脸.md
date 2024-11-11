@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要讲述了变性人何嫱的变形经历与心路历程。何嫱是全国首例变性男大学生，他在进行面部整形手术的过程中通过博客进行实时直播，吸引了大量网友的关注。在文章中，何嫱表达了对自己身体的自信与期待，他希望通过整形手术能够更接近自己心中理想的女性形象，并透露了自己在手术之后对爱情的期待，表示将来会以真实的身份爱他人。文中对手术的过程进行了详细介绍，包括手术前的准备和手术中的体验，同时也反映了社会对跨性别群体的关注与支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -62,12 +62,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人变脸.md                             |
 > | Size            | 5187 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:45:32                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-03-23/detail-ikknscsk2013535.d.html](https://news.sina.cn/sa/2007-03-23/detail-ikknscsk2013535.d.html)                       |
+> | Author          | 蔡民 实习生 熊佳焰 通讯员 刘庆全                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-03-23                                 |
+> | Tags            | 变性人, 跨性别, 整形手术, 生命故事, 社会关注, 医疗资源, 网络直播                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

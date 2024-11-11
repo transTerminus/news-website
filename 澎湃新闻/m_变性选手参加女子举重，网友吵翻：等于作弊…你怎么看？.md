@@ -67,7 +67,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了新西兰跨性别举重运动员劳雷尔·哈伯德参与2020东京奥运会女子举重项目引发的争议。在文章中，哈伯德在2013年完成变性之前是一名男子举重运动员，并曾获得新西兰青年男子举重冠军。国际奥委会对跨性别运动员的参赛规定进行了阐述，其中强调了认同性别和激素水平的相关要求。尽管哈伯德符合这些标准，但仍引起了广泛的争议和反对声音，有人认为她在男性时期的体型优势使其以女性身份参赛不公平，令其他女性运动员处于不利地位。文章还引述了网友的各种观点，并呼吁读者分享他们的看法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -76,12 +76,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性选手参加女子举重，网友吵翻：等于作弊…你怎么看？.md                             |
 > | Size            | 4112 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:53:18                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13780802](https://m.thepaper.cn/newsDetail_forward_13780802)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-07-26                                 |
+> | Tags            | 跨性别运动员, 哈伯德, 东京奥运会, 女子举重, 运动公平性, 国际奥委会, 性别认同, 性别政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

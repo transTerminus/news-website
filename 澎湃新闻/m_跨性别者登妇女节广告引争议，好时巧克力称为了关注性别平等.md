@@ -71,7 +71,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了美国巧克力品牌好时（Hershey's）在2023年国际妇女节期间发布的一则广告引发的争议。广告中包含了一位跨性别女性法埃·约翰斯通（Fae Johnstone）的形象，旨在庆祝性别平等，引发了一些公众的抵制，部分网友发起了“BoycottHersheys（抵制好时）”的活动，认为该公司的做法过度“政治正确”，侵犯了女性的空间。文件详细描述了事件的起因、不同声音的反应以及好时公司的立场。内容中提到的关键人物与跨性别者的相关讨论，突出展示了当前社会对于跨性别者和女性身份认同的复杂态度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -80,12 +80,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别者登妇女节广告引争议，好时巧克力称为了关注性别平等.md                             |
 > | Size            | 5243 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:11:00                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_22160337](https://m.thepaper.cn/newsDetail_forward_22160337)                       |
+> | Author          | 严珊珊                               |
+> | Region          | 加拿大                               |
+> | Date            | 2023-03-02                                 |
+> | Tags            | 国际妇女节, 跨性别者, Hershey's, 性别平等, 抵制活动, 社会舆论, 女性权益, 政治正确                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

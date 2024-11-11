@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了被誉为“世上最美的男人”的22岁男模佩伊奇，他在2014年年初接受了变性手术，宣告正式转变为女性并计划投身女性模特行业。佩伊奇因其中性、雌雄难辨的外表而成功进入国际时尚界，成为了受欢迎的模特。通过这次手术，他希望更完整地表达内心的自我，并专注于未来的女性名模之路。文章还附有佩伊奇的照片和相关链接，展示了他在时尚界的独特魅力与经历。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -38,12 +38,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_最美男模接受变性做女模(图).md                             |
 > | Size            | 1500 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:57:17                             |
+> | Original Link   | [https://news.ifeng.com/a/20140728/41334974_0.shtml](https://news.ifeng.com/a/20140728/41334974_0.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 台湾                               |
+> | Date            | 2014-07-28                                 |
+> | Tags            | 跨性别, 变性, 模特, 时尚, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

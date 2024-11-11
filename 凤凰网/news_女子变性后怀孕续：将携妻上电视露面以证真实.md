@@ -64,7 +64,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了托马斯·比提（Thomas Beatie），他是世界上第一个自称怀孕的变性男性。文件提供了比提及其怀孕情况的详细描述，并记录了他与妻子南茜（Nancy）即将接受媒体独家访谈的消息。按文件中的叙述，比提进行了胸部手术和激素治疗，但未进行生殖器官手术，因此依然具备怀孕的生理功能。文件还包含了媒体对比提怀孕真实性的质疑，并提到社会、法律和医学界对他故事的不同看法。比提表达了其生育权的立场，强调了作为一家之主的角色以及养育孩子的愿望。文件涉及到的怀孕情况在生物学和伦理学上都引起了争议，是变性人家庭构建问题中的重要案例。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -73,12 +73,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_女子变性后怀孕续：将携妻上电视露面以证真实.md                             |
 > | Size            | 4659 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:32:15                             |
+> | Original Link   | [https://news.ifeng.com/society/4/200804/0402_346_473653.shtml](https://news.ifeng.com/society/4/200804/0402_346_473653.shtml)                       |
+> | Author          | 大洋网-广州日报                               |
+> | Region          | 美国                               |
+> | Date            | 2008-04-02                                 |
+> | Tags            | 跨性别, 怀孕, 变性人, 托马斯·比提, 家庭, 社会现象, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

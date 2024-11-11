@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了山西省首例变性手术成功的案例，报道了名为董洁（原名董周武）的个体经历。董洁于1985年在一个普通工人家庭出生，最初以男性身份生活，但在青少年时期就展现出对女性角色的向往，并经历了长时间的性别认同挣扎。文章详细描述了她从出生到决定手术的心路历程，包括与家庭的关系、个人情感的探索以及对性别转换的渴望。通过与同性恋者的相遇，她逐渐理解自己的真实身份，并最终决定进行变性手术。2005年6月9日，董洁在山西伊特雅整形美容医院完成手术，成为山西省第一个成功转变性别的人。报道中还提到她手术后的恢复过程以及她与家人之间的情感变化，突出董洁渴望过上作为女性生活的梦想。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -82,12 +82,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_山西首例变性人手术成功帅哥成功变美女(图).md                             |
 > | Size            | 8162 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:30:03                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-20/detail-ikftssap2644852.d.html](https://news.sina.cn/sa/2006-06-20/detail-ikftssap2644852.d.html)                       |
+> | Author          | 本报记者兰玲                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-06-20                                 |
+> | Tags            | 变性手术, 跨性别经历, 性别认同, 山西省, 社会接受, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

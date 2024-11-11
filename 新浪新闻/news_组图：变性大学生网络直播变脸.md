@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文关注了广州大学生何嫱的变性手术过程，具体聚焦于其在整形医院进行的第二期手术——"变脸"。何嫱在手术期间通过个人博客向众多网友直播了这一经历，展示了她即将拥有的"女儿脸"。文章由方谦华摄制，并附上了手术的相关图片，反映出网络直播对跨性别群体过渡体验的影响与关注。同时，评论区中的网友反馈展现了社会对变性议题的不一态度，引发讨论与反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -31,12 +31,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_组图：变性大学生网络直播变脸.md                             |
 > | Size            | 672 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:46:09                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-03-27/detail-ikftpnny3843819.d.html](https://news.sina.cn/sa/2007-03-27/detail-ikftpnny3843819.d.html)                       |
+> | Author          | 方谦华                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-03-27                                 |
+> | Tags            | 变性, 跨性别, 直播, 广州大学生, 手术经验, 社会评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

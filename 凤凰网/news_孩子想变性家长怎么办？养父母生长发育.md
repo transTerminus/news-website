@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了家长在孩子表达希望变性时可能会面临的困惑与挑战。文章通过讲述阿富汗的习俗引出了性别认同障碍的概念，并结合全国道德模范刘霆的真实故事，探讨了性别身份与家庭期望之间的矛盾。医疗专家指出，性别认同障碍可能是天生的，也可能是父母的抚养方式所导致，尤其对于小孩的性别认同来说，极大的社会压力和父母的反对可能对其心理造成负面影响。文章还提醒家长在面对孩子的性别认同问题时需要持开放态度，并立足于对孩子的理解和支持，学习相关知识来帮助孩子应对性别认同障碍的挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -78,12 +78,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_孩子想变性家长怎么办？养父母生长发育.md                             |
 > | Size            | 9104 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:17:34                             |
+> | Original Link   | [https://news.ifeng.com/a/20141221/42763329_0.shtml](https://news.ifeng.com/a/20141221/42763329_0.shtml)                       |
+> | Author          | 广州日报记者伍君仪                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2014-12-21                                 |
+> | Tags            | 性别认同障碍, 变性手术, 家庭支持, 心理健康, 儿童成长, 社会压力                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

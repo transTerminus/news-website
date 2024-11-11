@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细记录了被称为“华东第一变性美女”的黄宁倩的求职经历和生活境遇。黄宁倩在经历了变性手术后的生活中，面临了家庭的隔离和社会的排斥。父母对她的身份选择不接受，亲戚朋友对她避而远之，使得她找工作变得异常困难。为了生存，她不得已选择在夜总会做三陪女，却遭遇到了诸多虐待和不公。黄宁倩渴望社会能够给予她宽容和接纳，希望能够正常地工作与生活。文中通过黄宁倩的亲身经历，反映了变性人群体所面临的社会压力与生存困境，以及对更美好生活的向往。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -70,12 +70,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_“华东第一变性美女”找工作碰壁成为三陪女.md                             |
 > | Size            | 6344 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:30:32                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200907/0703_344_1232112.shtml](https://news.ifeng.com/society/2/200907/0703_344_1232112.shtml)                       |
+> | Author          | 现代快报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-07-03                                 |
+> | Tags            | 变性美女, 黄宁倩, 变性人, 生存故事, 社会接纳                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

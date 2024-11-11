@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了特朗普政府时期，美军跨性别者所面临的困境。重点介绍了原告温特斯的个人故事，她在海军服役近六年，因特朗普的新政策而面临被迫离开的风险。文章回顾了军队跨性别者的服役历史，提到克林顿政府时期的“不要问，不要说”政策及奥巴马时期允许跨性别者公开服役的变化，进一步分析了特朗普上任后如何恢复对跨性别者的限制，导致跨性别军人面临的不确定性和就业保障危机。文中还提到抗议活动以及对法律挑战的期望，原告们在面对国家政策时的情感和心理状态，强调了跨性别者在军队服役的重要性及对国家的奉献。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -88,12 +88,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | mil_美军的跨性别者因为特朗普而陷入困境_-_军事-_凤凰网.md                             |
 > | Size            | 6497 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:33:19                             |
+> | Original Link   | [https://mil.ifeng.com/c/7jsWL5K79L1](https://mil.ifeng.com/c/7jsWL5K79L1)                       |
+> | Author          | 地球知识局                               |
+> | Region          | 美国                               |
+> | Date            | 2019-01-30                                 |
+> | Tags            | 跨性别者, 军事政策, 特朗普, 雇佣歧视, 法律诉讼, LGBTQ权利, 生存现状, 故事与经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

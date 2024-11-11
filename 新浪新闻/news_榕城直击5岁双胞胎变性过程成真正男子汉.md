@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了5岁双胞胎兄弟在其生日这天接受变性手术的真实经历。两位男孩在出生时被诊断为男性假两性畸形，导致他们的生殖器发育异常。在经过一系列医院的检查后，确认他们的性别为男。手术由山东大学第二医院的小儿外科教授陈雨历主刀，详细记录了手术的每个步骤，包括麻醉、尿道再造以及寻找睾丸的复杂过程。整场手术历时5个多小时，标志着双胞胎兄弟成功地完成了从外观上符合男性特征的转变。文章深刻反映了跨性别医疗过程的复杂性和必要性，也让读者了解到社会对于跨性别群体的关注，以及现实生活中的真实故事与挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -93,12 +93,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_榕城直击5岁双胞胎变性过程成真正男子汉.md                             |
 > | Size            | 8227 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:18:38                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-12-04/detail-ikkntiak8762965.d.html](https://news.sina.cn/sa/2003-12-04/detail-ikkntiak8762965.d.html)                       |
+> | Author          | 大洋网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-12-04                                 |
+> | Tags            | 跨性别, 手术过程, 医疗资源, 男性假两性畸形, 生命故事, 真实记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -93,7 +93,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件报道了一场在美国常春藤高校联盟举行的游泳比赛中发生的跨性别运动员对抗的事件，涉及到的两名运动员是“男跨女”运动员利娅·托马斯和“女跨男”运动员艾萨克·海尼格。在比赛中，托马斯在女子200米和500米自的比赛中获胜，但在100米自的比赛中被海尼格击败，引发了社交媒体上的激烈讨论与争议。文章详细探讨了跨性别运动员在体育赛事中的公平竞争问题，引用了家长、运动员和公众的观点，揭示出对跨性别参与者的不同看法。报导指出，由于NCAA的有关规定，托马斯已接受睾酮抑制治疗，能够参加女子比赛，但仍引起了不少争论。有些人认为这样的规定不够科学，可能对女性选手不公平。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -102,12 +102,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_美国“女跨男”游泳选手击败“男跨女”选手，竞赛公平引热议.md                             |
 > | Size            | 5924 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:07:27                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16221545](https://m.thepaper.cn/newsDetail_forward_16221545)                       |
+> | Author          | 邓睿侃                               |
+> | Region          | 美国                               |
+> | Date            | 2022-12-10                                 |
+> | Tags            | 跨性别, 体育, 游泳比赛, 公平竞争, 社会争议, 利娅·托马斯, 艾萨克·海尼格, NCAA, 运动员经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

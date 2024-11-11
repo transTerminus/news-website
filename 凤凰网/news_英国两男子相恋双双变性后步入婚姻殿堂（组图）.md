@@ -15,7 +15,7 @@ Stephanie（图右）向公众寻求捐款来实现她们梦想的婚礼。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了两位在英国相恋的男子在接受变性手术后作为新娘步入婚姻殿堂的故事。他们在婚礼上接受了众人的祝福，并向公众寻求捐款以实现梦想中的婚礼。文章强调了这一具有里程碑意义的时刻，不仅是个人的情感选择，也是跨性别者在法律与社会认同上的一步前行。文章配有婚礼的图片，展示了他们的幸福时光，并指出了这对新人的转变及其背后的爱与支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -24,12 +24,12 @@ Stephanie（图右）向公众寻求捐款来实现她们梦想的婚礼。
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国两男子相恋双双变性后步入婚姻殿堂（组图）.md                             |
 > | Size            | 798 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:19:59                             |
+> | Original Link   | [https://news.ifeng.com/a/20150109/42897806_2.shtml](https://news.ifeng.com/a/20150109/42897806_2.shtml)                       |
+> | Author          | 人民网                               |
+> | Region          | 英国                               |
+> | Date            | 2015-01-09                                 |
+> | Tags            | 婚礼, 变性, 跨性别, 爱情故事, 社会认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

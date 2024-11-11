@@ -67,7 +67,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了中国首位网络征婚变性人黄宁倩的故事及其对婚姻和生育的看法。黄宁倩，原名黄恩岭，是一位安徽天长人，1975年出生。在经历了童年时期的性别认同挣扎和多次变性手术后，她终于在2004年成功变性，并决心追求属于自己的幸福生活。她成为了内地第一个通过网络征婚的变性人，尽管面临了诸多批评与压力，但她依然坚持自己的选择。黄宁倩在接受采访时透露，现已与身为餐饮业老板的男友计划结婚，并希望能够有自己的孩子。然而，关于生育问题，虽然她希望能够实现，但也清楚生育并非易事。本文还涉及到现阶段中国法律对变性人婚姻的认可情况，并列举了其他国家跨性别育儿的案例，显示出跨性别人士在家庭生活中的可能性与挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -76,12 +76,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国首位网络征婚变性人黄宁倩欲再造子宫生子(图).md                             |
 > | Size            | 8945 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:23:14                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-01-03/detail-ikftssap3485052.d.html](https://news.sina.cn/sa/2011-01-03/detail-ikftssap3485052.d.html)                       |
+> | Author          | 记者 薛马义                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2011-01-03                                 |
+> | Tags            | 跨性别, 变性人, 婚姻, 生育, 社会认可, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

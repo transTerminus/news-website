@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了印尼前女排名将艾普丽亚-曼加南的特殊身份问题，她被生理上认定为男性，并已完成了第一阶段的矫正手术。文本中提到了艾普丽亚在体育界面临的性别认定困境，以及与她经历相似的其他运动员的案例，如田径女飞人塞门娅和俄罗斯举重冠军安娜-图拉耶娃。这些女性运动员由于长相或身体特征受到了社会的质疑与不公平的对待，文章在结尾反映出对她们公平对待的呼声。报道指出，这些问题不仅涉及个人身份的认定，还反映了社会对性别及性别表现的刻板印象和歧视。文章引用了多个实例，旨在引导读者思考对跨性别及性别非二元身份的认知与接受。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -55,12 +55,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | sports_女排名将被认定是男性！身体从小就特殊，已完成第一阶段矫正手术.md                             |
 > | Size            | 3693 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:46:14                             |
+> | Original Link   | [https://sports.ifeng.com/c/84V1QSjYezT](https://sports.ifeng.com/c/84V1QSjYezT)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 中国                               |
+> | Date            | 2021-03-10                                 |
+> | Tags            | 跨性别, 运动员, 性别认定, 社会环境, 艾普丽亚-曼加南, 塞门娅, 性别歧视                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

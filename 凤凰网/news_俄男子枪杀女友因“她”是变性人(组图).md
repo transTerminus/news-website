@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报告了一起发生在俄罗斯的悲惨命案，涉及到一名跨性别女性卡米拉和她的男友弗拉基米尔。故事的起因是弗拉基米尔发觉卡米拉其实是变性人，因而对她产生了极大的愤怒和绝望。在一番激烈的质问后，弗拉基米尔用枪射击了卡米拉的多个部位，导致她不幸身亡。警方后续调查显示，这起案件暴露了社会对跨性别者的偏见和暴力，对变性人群体的生命安全造成威胁。此事引发了公众对变性人权利和心理健康的关注，也反映了俄罗斯社会对跨性别者的复杂态度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -36,12 +36,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_俄男子枪杀女友因“她”是变性人(组图).md                             |
 > | Size            | 1784 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:34:51                             |
+> | Original Link   | [https://news.ifeng.com/world/200907/0712_16_1245304.shtml](https://news.ifeng.com/world/200907/0712_16_1245304.shtml)                       |
+> | Author          | 梁杉                               |
+> | Region          | 俄罗斯                               |
+> | Date            | 2009-07-12                                 |
+> | Tags            | 跨性别, 暴力事件, 社会偏见, 生命故事, 心理健康, 法律问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

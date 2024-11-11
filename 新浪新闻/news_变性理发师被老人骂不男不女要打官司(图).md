@@ -59,7 +59,7 @@ _[252](https://cmnt.sina.cn/index?product=comos&index=kknscsi2806099&tj_ch=news&
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一名变性理发师张琳的真实经历，她曾是男性，但为了追求爱情和自我认同，选择了进行变性手术。故事的背景设定在四川省的双流县，一位退休医生在理发店当众对张琳进行了言语攻击，称其为“不男不女”。张琳在这次冲突中遭受了极大的羞辱，情绪受到影响并引发了对自己身份的深思。随后，周玉辉医生意识到自己的错误，并在公众面前向张琳道歉。经过这件事，张琳表示希望他人能够以平常的心态看待变性事件，减轻社会对跨性别者的偏见。最后，在周医生的道歉后，张琳感到安慰，并与男友祝愿未来美好的生活。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -68,12 +68,12 @@ _[252](https://cmnt.sina.cn/index?product=comos&index=kknscsi2806099&tj_ch=news&
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性理发师被老人骂不男不女要打官司(图).md                             |
 > | Size            | 4454 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:30:05                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-28/detail-ikknscsi2806099.d.html](https://news.sina.cn/sa/2004-02-28/detail-ikknscsi2806099.d.html)                       |
+> | Author          | 四川新闻网-成都商报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-02-28                                 |
+> | Tags            | 变性人, 跨性别, 社会事件, 情感故事, 法律诉讼, 公众舆论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

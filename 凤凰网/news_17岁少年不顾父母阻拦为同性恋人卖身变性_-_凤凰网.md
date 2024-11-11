@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇报道讲述了17岁少年曾俊在追求变性手术过程中面临的重重困难。在离家求学后，他感受到了一种短暂的快乐，却也在周围环境中感到孤独无助。通过网络聊天，他认识了一些朋友，但依然无法寻找到理解和支持，导致他渐渐沮丧。在向医院申请变性手术时，他面临高昂的费用和心理条件的双重压力，最终选择了极端的自杀方式。故事中提到，他的自杀未遂吸引了医院的关注，并得到了医院的免费变性手术机会。然而，曾俊的父母强烈反对，医院的手术也因此暂停。报道中体现了个人对性别认同的勇敢追求与家庭压力、社会规范之间的矛盾与冲突。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -53,12 +53,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_17岁少年不顾父母阻拦为同性恋人卖身变性_-_凤凰网.md                             |
 > | Size            | 6835 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:44:18                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200812/1216_344_923486_1.shtml](https://news.ifeng.com/society/2/200812/1216_344_923486_1.shtml)                       |
+> | Author          | 李志题                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-12-16                                 |
+> | Tags            | 跨性别, 变性手术, 生命故事, 心理健康, 家庭关系, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

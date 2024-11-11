@@ -271,7 +271,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇来自凤凰网的文章详细记录了药娘（通过药物使男性性征女性化的个体）面临的艰难命运，生动地讲述了她们的生命故事与过渡经历。文章开篇提到了药作为药娘身份转变的重要工具，强调了药娘主要通过抗雄激素、雌激素等药物进行性别的转变。接着，文中描述了药娘的生活状态、社交环境以及对药物的依赖，尤其在中国社会中药娘的群体如何隐蔽地存在。文章中还提及了药物获取的途径，包括线下购买、熟人和电商黑市的风险，以及部分药娘通过性交易获得生存资金的悲惨情况。文末指出药娘的境遇在社会、家庭和法律层面都面临严重的歧视和压力，整体展现了这一群体在中国社会中的脆弱生存状况。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -280,12 +280,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | i_一篇药娘日记，记录了数万药娘的悲惨命运_-_凤凰网.md                             |
 > | Size            | 15400 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:21:27                             |
+> | Original Link   | [https://i.ifeng.com/c/800QZCxzAzL](https://i.ifeng.com/c/800QZCxzAzL)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-09-23                                 |
+> | Tags            | 药娘, 跨性别, 性别认同, 生存现状, 社会环境, 法律政策, 医疗资源, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

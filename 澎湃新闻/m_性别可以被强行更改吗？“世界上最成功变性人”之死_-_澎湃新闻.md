@@ -119,7 +119,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了大卫·赖默（David Reimer）的悲剧故事，他在婴儿时因医疗事故失去阴茎，父母在性别专家约翰·莫尼的建议下进行了性别转换手术，将他抚养成女孩。然而，大卫的成长过程充满了痛苦和挣扎，他对女性身份的强烈反感，最终在青春期后寻回男性身份。大卫的一生反映了性别认同的复杂性，以及社会对性别角色的巨大的期望与压力。文章同时探讨了性别的生物决定论与社会建构论之间的争论，并指出了对此案例的多种解读，表现出性别认同并不仅仅由生物或社会所决定，而是深受个人自我认知的影响。文章最后提到大卫经历了两次性别转换，最终因无法摆脱早年的经历、情感的痛苦而选择结束自己的生命。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -128,12 +128,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_性别可以被强行更改吗？“世界上最成功变性人”之死_-_澎湃新闻.md                             |
 > | Size            | 12113 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:14:25                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_25691445](https://m.thepaper.cn/newsDetail_forward_25691445)                       |
+> | Author          | 玛雅蓝                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 大卫·赖默, 性别转换手术, 社会性别理论, 性别身份, 性别认同, 性别生物决定论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

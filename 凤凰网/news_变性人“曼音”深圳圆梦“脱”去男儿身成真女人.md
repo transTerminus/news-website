@@ -21,7 +21,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了一个变性人名为“曼音”的故事，她在2014年5月7日到深圳富华医疗美容医院进行变性手术的过程。曼音经过深思熟虑，选择在此地完成她的蜕变，她的手术包括面部整形和生殖器改造，以实现她成为真正女性的梦想。这篇文章详细描述了曼音的勇敢决定和公众对她这一决定的不同反应，包括支持与反对的声音。曼音的个人背景也被提及，她原是一名中医按摩技师，为了筹钱进行手术而努力工作。此外，文章还提到了医生在手术前对曼音进行的心理辅导，以确保她在生理和心理方面做好准备，并考虑到手术后的长期影响。手术成功后，曼音将失去男性功能，因此，医生强调了自我接受和社会接纳的重要性。这篇文章不仅仅是曼音个人的故事，更反映了中国社会中跨性别者面临的挑战与希望。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -30,12 +30,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人“曼音”深圳圆梦“脱”去男儿身成真女人.md                             |
 > | Size            | 2885 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:51:50                             |
+> | Original Link   | [https://news.ifeng.com/a/20140508/40212392_4.shtml](https://news.ifeng.com/a/20140508/40212392_4.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2014-05-08                                 |
+> | Tags            | 变性, 医疗美容, 跨性别, 心理辅导, 社会接纳                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

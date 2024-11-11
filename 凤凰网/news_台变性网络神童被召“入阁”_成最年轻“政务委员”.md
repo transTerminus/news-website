@@ -63,7 +63,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了台湾变性者唐凤被任命为最年轻的政务委员的事件。唐凤，曾是计算机天才和网络创业者，因其在数字政策方面的专长而受到台湾当局青睐。文中详细描述了唐凤的成长经历，包括其早逝的教育经历、自我学习的过程、以及在变性手术后的身份认同。文章还指出唐凤主张的无政府主义价值观以及她对数字政务的贡献。对于其变性经历，唐凤分享了心理挣扎和家人的支持，特别提到她在决定变性之前进行了充分的心理和生理研究。此外，文章也提到各方对唐凤的接纳，包括政治立场不同的立法委员对其能力的认可。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -72,12 +72,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_台变性网络神童被召“入阁”_成最年轻“政务委员”.md                             |
 > | Size            | 6697 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:57:40                             |
+> | Original Link   | [https://news.ifeng.com/c/7fbsDidCvf6](https://news.ifeng.com/c/7fbsDidCvf6)                       |
+> | Author          | 观察者网                               |
+> | Region          | 台湾                               |
+> | Date            | 2016-08-26                                 |
+> | Tags            | 跨性别, 变性人, 唐凤, 政策, 数字政务, 无政府主义, 性别认同, 台湾政治                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了英国男子凯恩（Charles Kane）的跨性别经历，他在1987年实施第一次变性手术，自此变身为女性，并在之后的17年中生活为一名女性。然而，经过这些年的生活，凯恩对女性的角色感到厌倦，最终在2005年进行了第二次变性手术，恢复为男性身份。文章详细描述了凯恩在这两次手术中的心路历程，以及他对变性手术的反思和警示，尤其强调了在做出变性决定前的慎重考虑。此外，文章也提到了凯恩与未婚妻维多利亚·埃姆斯的爱情故事，埃姆斯表示接受并理解凯恩的过去，认为他的经历让他们的关系更加深厚。凯恩正计划拍摄名为《变性错觉》的纪录片，旨在通过自身经历警示他人对变性手术的思考与心理辅导的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -82,12 +82,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性成为女人后再变回男人(组图).md                             |
 > | Size            | 4953 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:20:35                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-11-09/detail-ikftssap3392812.d.html](https://news.sina.cn/sa/2010-11-09/detail-ikftssap3392812.d.html)                       |
+> | Author          | 新华社                               |
+> | Region          | 英国                               |
+> | Date            | 2010-11-09                                 |
+> | Tags            | 跨性别, 变性手术, 生命故事, 医疗经验, 法律与社会, 心理辅导, 凯恩, 埃姆斯                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

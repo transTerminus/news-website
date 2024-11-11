@@ -104,7 +104,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为关于跨性别人群生存困境的调查报告，由澎湃新闻发布。调查显示，跨性别者在就业方面面临极大困难，失业风险约为社会普通人群的三倍，工作环境对跨性别者的不友好程度达到24.58%。尤其是跨性别女性，其所面临的外部工作环境压力更大。文中提到小马（化名）的案例，她在进行性别重置手术后遭遇了公司以考勤为由的辞退，诉诸法律以维护自己的平等就业权利。此外，调查还指出，55%的跨性别者在成长过程中遭遇过校园暴力，尤其是在学校和实习期间，语言攻击与冷暴力普遍存在。报告分析了跨性别者所面临的社会污名化，强调了需要正视并解决跨性别人群的权益保障问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -113,12 +113,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力.md                             |
 > | Size            | 13147 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:38:20                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 生存困境, 就业权, 校园暴力, 法律政策, 社会环境, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

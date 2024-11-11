@@ -68,7 +68,7 @@ IOC医学主任巴吉特认为新的规定势在必行：“这是一个科学�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要讨论了国际奥委会（IOC）宣布将放宽变性人参加奥运会和世界性比赛的限制，特别提到了可能在2016年里约奥运会时允许变性人参与的消息。文章详细回顾了过去与变性人参与体育赛事相关的政策变更，指出新的政策将不再要求变性人进行性别手术，而是只需提供一年内的睾酮水平证明。这一措施是为了更好地适应当前的科学和社会观念，旨在确保公平竞争，同时反映了社会对变性人权利的关注与支持。此外，文章还讨论了关于变性体育运动员在赛场上面临的质疑与挑战，以及历史上关于性别身份的影响和性别检查的做法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -77,12 +77,12 @@ IOC医学主任巴吉特认为新的规定势在必行：“这是一个科学�
 > |-----------------|----------------------------------------|
 > | Filename        | news_重磅！里约奥运会或对变性人“开绿灯”.md                             |
 > | Size            | 6979 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:34:53                             |
+> | Original Link   | [https://news.sina.cn/2016-01-26/detail-ifxnurxn9986831.d.html](https://news.sina.cn/2016-01-26/detail-ifxnurxn9986831.d.html)                       |
+> | Author          | 周婉琪                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2016-01-26                                 |
+> | Tags            | 跨性别, 体育, 性别政策, 奥运会, 变性人, 国际奥委会, 性别认同, 公平竞争                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

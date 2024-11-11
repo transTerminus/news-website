@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了发生在香港的一起悲剧事件，涉及一名变性女子因失恋选择跳楼自杀的故事。根据报道，事件发生在2004年9月24日，名为文×（FaSha）的一位30岁变性女子，在与外籍男友发生分歧后的情绪崩溃中，选择了极端的方式来引起男友的注意。在天台上持续等待男友现身的过程中，她拨打了报警电话，表达了即将跳楼的意图。在警方和谈判专家的劝说下，男友最终抵达现。可惜的是，在男友面前，文×突然跳下，导致当场死亡。此次事件是香港一周内第二起跨性别者自杀的事件，引发对跨性别者心理健康和社会支持的关注。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -35,12 +35,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_香港一变性“女子”疑因不堪失恋折磨跳楼殒命.md                             |
 > | Size            | 2088 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:46:21                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4336234.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4336234.d.html)                       |
+> | Author          | 四川新闻网                               |
+> | Region          | 香港                               |
+> | Date            | 2004-09-24                                 |
+> | Tags            | 跨性别, 自杀, 情感问题, 社会问题, 生命故事, 变性人, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了因美国明星凯特琳·詹纳公开变性而导致的澳大利亚青少年性别认知与变性愿望增加的现象。根据报道，许多受性别问题困扰的澳青少年，尤其是年仅12岁的青少年，表示渴望变性。然而，专家指出现有的变性医疗服务相对不足，许多咨询者面临着情感和心理问题。精神病学家比尔森提到，越来越多的青少年开始寻求帮助，而现有的变性医疗设施和资源未能跟上这一增长趋势。此外，变性手术的法律程序也比较复杂，需要经过家庭法院的批准，这进一步增加了寻求变性手术的难度。摘要中提到澳大利亚政府正在努力简化相关法律程序，以便更多青少年能够顺利获得所需的医疗服务。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_受美国明星变性影响不少澳青少年表示渴望变性.md                             |
 > | Size            | 2820 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:31:21                             |
+> | Original Link   | [https://news.sina.cn/2015-06-15/detail-ifxczpzy0525313.d.html](https://news.sina.cn/2015-06-15/detail-ifxczpzy0525313.d.html)                       |
+> | Author          | 中新网                               |
+> | Region          | 澳大利亚                               |
+> | Date            | 2015-06-15                                 |
+> | Tags            | 跨性别, 青少年, 性别认知, 变性手术, 心理健康, 法律政策, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

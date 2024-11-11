@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了新西兰举重运动员哈伯德成为首位参加奥运会的变性运动员。哈伯德在30多岁时完成性别过渡，从男性变为女性。新西兰奥委会主席史密斯确认哈伯德符合奥运会的参赛标准。然而，反对者表示，哈伯德在男性成长过程中获得的身体优势可能对其他女性运动员造成不公平竞争。报道中提到了参与人数和评论的情况，显示出社会对这一话题的广泛关注和讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +32,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_新西兰一举重选手成为首位参加奥运会的变性运动员.md                             |
 > | Size            | 1217 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:11:41                             |
+> | Original Link   | [https://news.ifeng.com/c/87FtgLr4Yq1](https://news.ifeng.com/c/87FtgLr4Yq1)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 新西兰                               |
+> | Date            | 2021-06-21                                 |
+> | Tags            | 跨性别运动员, 奥运会, 性别认同, 体育争议, 新西兰, 哈伯德                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

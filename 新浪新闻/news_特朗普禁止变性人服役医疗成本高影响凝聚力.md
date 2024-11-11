@@ -40,7 +40,7 @@ ___
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细报道了美国总统特朗普于2017年7月26日宣布禁止变性人服役的决定，理由是可能导致军队医疗成本增加和影响部队凝聚力。文件中提到特朗普的声明引发了广泛的争议，并引述了美军国防部对此的反应。文章分析了特朗普关于变性人服役的担忧及其可能带来的社会和政策后果。文中提到此政策在2016年开始允许变性军人公开身份服役，特朗普的言论还遭到了美国各界的批评，包括前总统卡特和公民自由联盟律师的反对意见，同时引用了美军变性士兵切尔西·曼宁的看法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -49,12 +49,12 @@ ___
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普禁止变性人服役医疗成本高影响凝聚力.md                             |
 > | Size            | 3003 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:22:30                             |
+> | Original Link   | [http://news.sina.cn/2017-07-27/detail-ifyinwmp0193787.d.html](http://news.sina.cn/2017-07-27/detail-ifyinwmp0193787.d.html)                       |
+> | Author          | 新华社                               |
+> | Region          | 美国                               |
+> | Date            | 2017-07-27                                 |
+> | Tags            | 变性人, 军队政策, 特朗普, 医疗成本, 社会争议, 人权                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

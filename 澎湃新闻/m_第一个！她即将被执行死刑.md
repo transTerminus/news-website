@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了安布尔·麦克劳克林（Amber McLaughlin），一名49岁的跨性别女性，可能成为美国第一位被执行死刑的跨性别女性。文章详细叙述了安布尔的案件背景，指出她被控于2003年杀害前女友贝弗利·冈瑟（Beverly Guenther），并在法庭上被判处死刑。根据请愿书，安布尔在童年时经历了巨大的心理创伤，包括被养父母虐待，同时经历了多次抑郁症发作现象。此案引发了公众对跨性别权益和死刑制度的更广泛讨论。文章提到，安布尔的性别认同在赦免请愿书中并不是主要焦点。该报道反映了跨性别者在法律和社会环境中的挑战，以及在美国历史上对跨性别女性的特殊法律对待。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -56,12 +56,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_第一个！她即将被执行死刑.md                             |
 > | Size            | 4261 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:18:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_21411103](https://m.thepaper.cn/newsDetail_forward_21411103)                       |
+> | Author          | 环球时报                               |
+> | Region          | 美国                               |
+> | Date            | 2023-01-03                                 |
+> | Tags            | 跨性别女性, 死刑, 法律案例, 社会环境, 人权, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

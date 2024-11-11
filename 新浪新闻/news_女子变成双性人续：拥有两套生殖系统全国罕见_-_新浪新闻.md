@@ -133,7 +133,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了刘星的故事，她是一个罕见的双性人，拥有男女两套生殖系统。文章中提到刘星的经历及其面临的挑战，包括接受医学专家对双性现象的解释，探讨了‘真性两性畸形’和‘假性两性畸形’之间的区别。医疗专家指出，刘星的情况非常特殊，她既能生育，又希望通过手术真正成为一个男人。故事也反映了刘星在社会生活中的状态和内心的挣扎，描述了她作为父母的责任与对手术的渴望，同时揭示了社会对双性人群体的看法。整篇文章深入探讨了双性人面临的社会、医疗和情感问题，彰显了跨性别者的生存现状与需求。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -142,12 +142,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_女子变成双性人续：拥有两套生殖系统全国罕见_-_新浪新闻.md                             |
 > | Size            | 9169 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:34:57                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-01-11/detail-ikknscsi5479858.d.html](https://news.sina.cn/sa/2005-01-11/detail-ikknscsi5479858.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2005-01-11                                 |
+> | Tags            | 双性人, 跨性别, 生殖系统, 医疗资源, 法律与政策, 社会环境, 生命故事, 心理状态, 真实记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

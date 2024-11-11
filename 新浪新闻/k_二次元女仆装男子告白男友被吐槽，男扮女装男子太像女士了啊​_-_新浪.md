@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件中讨论了一位男扮女装的男子在穿着二次元女仆装后，向男友告白时遭到网友的吐槽，认为其外形过于像女性。这件事情引发了广泛关注，反映了社会对跨性别和男扮女装现象的各种看法与反应。文章通过具体案例展示了人们对跨性别者和跨性别表现的不同态度，从支持到质疑的声音都引发了讨论。这一现象可能归结于对性别表达的固有偏见，以及社会对传统性别角色的期待。这类新闻报道不仅反映了个别事件，也在一定程度上揭示了当前社会对跨性别群体的态度与包容度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -36,12 +36,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_二次元女仆装男子告白男友被吐槽，男扮女装男子太像女士了啊​_-_新浪.md                             |
 > | Size            | 8572 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:45:35                             |
+> | Original Link   | [https://k.sina.cn/article_2809045040_ma76ea030033005yqh.html](https://k.sina.cn/article_2809045040_ma76ea030033005yqh.html)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 男扮女装, 二次元文化, 社会反应, 性别表现                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

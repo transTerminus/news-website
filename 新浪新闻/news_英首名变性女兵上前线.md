@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该报道介绍了克洛艾·艾伦（Cloë Allen），她是英国首名驻扎前线的变性女兵。文章详细阐述了艾伦的过渡经历，提到她在8岁时就意识到自己与生理性别的差异，并在家人的支持下进行了变性手术。艾伦在伦敦卫队服役，致力于用自己的经历激励其他跨性别者勇敢做自己。此外，报道还提及了时任首相戴维·卡梅伦对女性在前线作战的支持，指出英国陆军的包容性。整个报道通过艾伦的故事展示了跨性别者在军队中的地位变化和社会认同的提升。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -52,12 +52,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英首名变性女兵上前线.md                             |
 > | Size            | 1656 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:57:07                             |
+> | Original Link   | [https://news.sina.cn/gj/2016-09-19/detail-ifxvykwk5110304.d.html?from=wap](https://news.sina.cn/gj/2016-09-19/detail-ifxvykwk5110304.d.html?from=wap)                       |
+> | Author          | 广州日报                               |
+> | Region          | 英国                               |
+> | Date            | 2016-09-19                                 |
+> | Tags            | 变性女兵, 跨性别者, 军事, 过渡经历, 社会包容性, 克洛艾·艾伦                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

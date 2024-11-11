@@ -74,7 +74,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了阿根廷新推行的性别认定法，标志着该国在变性人权益方面的重要进步。根据法媒的报道，自卫生部于2015年5月29日批准实施该法后，阿根廷将免费提供变性手术和荷尔蒙治疗，纳入公共医疗系统。法案允许希望改变性别的人不再需要法律和行政的繁琐手续，且在身份证上登记自我认定的性别，而非出生时的性别。这一政策被视为拉美地区只有的举措，表明阿根廷在性别认同和跨性别者权利保护方面充分尊重个人选择。此外，文章还提及了对变性歌手钟洁希参加谈唱会的报道，显示了其在演艺圈受到的关注和感动，以及其他相关的跨性别者故事。综上，这篇报道展现了阿根廷在性别认定问题上的前沿地位，及其对跨性别群体的支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -83,12 +83,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_法媒：阿根廷推性别认定法做变性手术不花钱.md                             |
 > | Size            | 4068 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:51:50                             |
+> | Original Link   | [https://news.sina.cn/gj/2015-05-31/detail-icczmvup2620915.d.html](https://news.sina.cn/gj/2015-05-31/detail-icczmvup2620915.d.html)                       |
+> | Author          | 参考消息                               |
+> | Region          | 阿根廷                               |
+> | Date            | 2015-05-31                                 |
+> | Tags            | 性别认定法, 变性手术, 跨性别权利, 医疗政策, 阿根廷, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -139,7 +139,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于药娘群体的深度采访与调查报道，揭示了这一跨性别群体在社会中的隐秘与艰难生存状态。报道回顾了跨性别群体，尤其是药娘群体的定义与经历，讲述了她们在生理与心理之间的挣扎与转变。通过主人公张立的故事，展现了其从性别焦虑到公开出柜的心路历程，及面临的社会压力和家庭冲突。此外，文章还剖析了药娘在药物使用、身体改造等方面的选择，探讨了她们对未来的期待与困惑。文章中提到，药娘在追求女性身份的过程中，常常面临药物副作用、法律边缘和性别认同的多重挑战。报道最后提到社会对这一群体的包容性及存在的审视问题，呼吁对跨性别者人权的关注与理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -148,12 +148,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | zx_调查：社会夹缝与边缘的“药娘”群体_-_新浪.md                             |
 > | Size            | 15650 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 08:35:38                             |
+> | Original Link   | [https://zx.sina.cn/sh/2021-10-19/zx-iktzqtyu2334053.d.html](https://zx.sina.cn/sh/2021-10-19/zx-iktzqtyu2334053.d.html)                       |
+> | Author          | 新浪新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-10-19                                 |
+> | Tags            | 跨性别, 药娘, 生存现状, 性别认同, 社会调查, 医疗资源, 法律与政策, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

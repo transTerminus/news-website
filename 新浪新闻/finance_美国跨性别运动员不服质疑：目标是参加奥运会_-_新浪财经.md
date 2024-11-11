@@ -58,7 +58,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国跨性别运动员利亚·托马斯（Lia Thomas）不满外界的质疑，明确表示她的目标是参加2024年巴黎奥运会，并强调自己不会对女子项目构成威胁。托马斯在采访中提到自己喜爱游泳，从4岁开始便萌生游泳梦，但在成长过程中逐渐感到与身体的脱节。她承认转变性别对她的游泳生涯造成了挑战，同时也对自己的精神状态产生了积极影响。尽管面临外界对于跨性别运动员参赛资格的争议，托马斯坚称，跨性别者转变性别的原因与体育无关，而是寻求做真正的自己。文章还提到国际奥委会对跨性别运动员的政策变化，以及托马斯在NCAA比赛中成为首位跨性别冠军的成就。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -67,12 +67,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | finance_美国跨性别运动员不服质疑：目标是参加奥运会_-_新浪财经.md                             |
 > | Size            | 4443 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:29:56                             |
+> | Original Link   | [https://finance.sina.com.cn/world/gjcj/2022-06-01/doc-imizirau5978994.shtml](https://finance.sina.com.cn/world/gjcj/2022-06-01/doc-imizirau5978994.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2022-06-01                                 |
+> | Tags            | 跨性别运动员, 利亚·托马斯, 巴黎奥运会, 性别认同, 体育争议, 国际奥委会政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

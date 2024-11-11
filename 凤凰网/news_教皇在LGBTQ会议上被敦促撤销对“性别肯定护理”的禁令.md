@@ -41,7 +41,7 @@ LGBTQ团体严厉批评了梵蒂冈的这份文件，并表示教义办公室在
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了教皇方济各在2024年10月12日与LGBTQ活动人士举行的会晤，期间他被呼吁推翻天主教会对跨性别者提供‘性别肯定护理’的禁令。‘性别肯定护理’包括通过激素疗法帮助跨性别者获得更符合其性别认同的生理特征。参与会谈的变性者和医生分享了他们的经历，并强调与变性者沟通的重要性。教皇在会议中表现出同理心，表达关注跨性别者的福利。这次会议是在梵蒂冈对性别肯定护理发布禁令六个月后举行，LGBTQ团体对此表示强烈批评。教皇受到赞誉，因为他对LGBTQ群体采取更包容的态度，但依然存在一些争议。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -50,12 +50,12 @@ LGBTQ团体严厉批评了梵蒂冈的这份文件，并表示教义办公室在
 > |-----------------|----------------------------------------|
 > | Filename        | news_教皇在LGBTQ会议上被敦促撤销对“性别肯定护理”的禁令.md                             |
 > | Size            | 3448 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:21:52                             |
+> | Original Link   | [https://news.ifeng.com/c/8deHXkurQqh](https://news.ifeng.com/c/8deHXkurQqh)                       |
+> | Author          | 路透社                               |
+> | Region          | 未知                               |
+> | Date            | 2024-10-12                                 |
+> | Tags            | 跨性别, 性别肯定护理, LGBTQ, 教皇方济各, 医疗资源, 社会环境, 变性人经历, 天主教会政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

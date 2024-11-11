@@ -300,7 +300,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章《女儿的第二次出柜，颠覆我的人生观》由杨媛撰写，讲述了两位母亲在面对自己孩子出柜后所经历的心路历程。在故事中，刘妈妈和大樊妈妈分别描述了她们的孩子如何在情感上和性别认同上进行不同阶段的转变。文章揭示了跨性别者在家庭背景下所遇到的阻碍与挑战，以及家长如何逐渐认识和接受孩子的真实身份。通过两位母亲的自述，反映了来自家庭、医疗和社会文化的压力对跨性别者及其家庭带来的影响和变化，同时也展现了家长们在理解和支持孩子过程中，经历的反思与成长。在文章的深入探讨中，涉及对跨性别术语的理解、家庭关系的重塑，以及通过沟通架起母子之间的桥梁等重主题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -309,12 +309,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_女儿的第二次出柜，颠覆我的人生观.md                             |
 > | Size            | 26056 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:37:10                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5221979](https://m.thepaper.cn/newsDetail_forward_5221979)                       |
+> | Author          | 杨媛                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 性别认同, 家庭关系, 社会支持, 母亲的成长, 出柜经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

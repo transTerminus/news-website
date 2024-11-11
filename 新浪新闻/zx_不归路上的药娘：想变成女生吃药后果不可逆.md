@@ -148,7 +148,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自新浪新闻，讲述了一个名叫悠悠的年轻人追求性别认同和个人身份的故事。悠悠在17岁时对自己的生理性别产生困惑，并希望通过服用激素药物（即“吃糖”）来实现性别转变，但在尝试寻求父母理解与支持失败后，最终选择放弃了这个念头。文章详细描述了药娘群体的生活现状、心理状态及在缺乏医疗支持和家庭支持下的挣扎。同时，通过多个案例，揭示了不当用药的风险及跨性别者面临的社会与家庭压力。特别提到，在青春期，许多未成年人会选择未经过正规渠道获取药物，文章引发对家庭教育和医疗制度的深思。最终，该篇报道也反映了跨性别个体对家庭期待与自身追求之间的矛盾，以及社会对这一群体的普遍误解与歧视。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -157,12 +157,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | zx_不归路上的药娘：想变成女生吃药后果不可逆.md                             |
 > | Size            | 14734 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 08:35:03                             |
+> | Original Link   | [https://zx.sina.cn/sh/2021-08-25/zx-ikqcfncc4882855.d.html](https://zx.sina.cn/sh/2021-08-25/zx-ikqcfncc4882855.d.html)                       |
+> | Author          | 新浪新闻官方账号                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-08-25                                 |
+> | Tags            | 跨性别, 药娘, 性别认同, 医疗资源, 生命故事, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

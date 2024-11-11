@@ -38,8 +38,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_两性畸形_-_澎湃新闻.md                             |
 > | Size            | 985 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-10 22:25:45                             |
+> | Original Link   | [https://m.thepaper.cn/tag/471991](https://m.thepaper.cn/tag/471991)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2023-08-10                                 |

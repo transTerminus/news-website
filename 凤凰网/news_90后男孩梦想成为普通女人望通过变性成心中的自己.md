@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一位名叫依依的90后男孩的故事，他梦想成为一名普通的女人。文中描述了依依从小在一个男性身份中成长的内心挣扎，以及他在家境贫困的情况下，尽管遭遇了来自社会和家庭的压力，依然坚持追求变性梦想的艰辛历程。依依在16岁选择离家，独自前往上海，勇敢地做自己。文章深刻描绘了依依在生活中经历的磨难，包括社会对跨性别者的歧视与误解，以及他对未来的憧憬，渴望能获得父母的认可，并希望有一天能够生活在一个陌生的城市，拥有属于自己的幸福生活。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -77,12 +77,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_90后男孩梦想成为普通女人望通过变性成心中的自己.md                             |
 > | Size            | 6321 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:59:19                             |
+> | Original Link   | [https://news.ifeng.com/c/7fcea96BSL9](https://news.ifeng.com/c/7fcea96BSL9)                       |
+> | Author          | 易征洋                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2012-07-12                                 |
+> | Tags            | 跨性别, 生命故事, 变性经历, 社会环境, 自我认同, 心理健康, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

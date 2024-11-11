@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了吉林省长春市吉林铭医整形外科医院的特殊事件，三名男性感觉自己是女性的酒吧歌舞演员在同一天内进行变性手术的经历。文章详细描述了他们的背景、手术过程及其心理状态。三位主角在手术前夕相互支持，体现了跨性别者之间的情感联系。手术中，医院为了推广自身业务，提供了优惠的手术费用，使得他们能够在经济上承担手术的费用，手术结束后的医疗状况也有相应的记录。此外，文章中还分享了每个变性者的成长故事与对于自身性别认同的探讨，以及家人在手术后对他们选择的支持，展示了跨性别者在手术过程中的希望与挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_三个男人同一家医院同一天变性(组图).md                             |
 > | Size            | 3048 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:30:40                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-03-01/detail-ikkntiak9651099.d.html](https://news.sina.cn/sa/2004-03-01/detail-ikkntiak9651099.d.html)                       |
+> | Author          | 记者韩丹                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-03-01                                 |
+> | Tags            | 跨性别, 变性手术, 个人故事, 性别认同, 医疗经历, 社会支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

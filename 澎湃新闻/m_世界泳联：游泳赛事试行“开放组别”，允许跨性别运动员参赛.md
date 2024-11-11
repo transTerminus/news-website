@@ -30,8 +30,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_世界泳联：游泳赛事试行“开放组别”，允许跨性别运动员参赛.md                             |
 > | Size            | 1939 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:22:26                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_23993069?from=](https://m.thepaper.cn/newsDetail_forward_23993069?from=)                       |
 > | Author          | 侯丹玮                               |
 > | Region          | 未知                               |
 > | Date            | 2023-07-25                                 |

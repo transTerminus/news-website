@@ -41,7 +41,7 @@ Facebook扩展了用户设定中的性别选项。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了跨性别人群的新称谓“Mx”，这是英国政府首次在驾照及其他官方文件中引入的中性称谓，旨在为无法归类于传统性别的个体提供更加包容的身份认同。文中提到，Mx这一称谓的使用正在逐渐被包括公共部门和银行在内的多个机构接受与实施，标志着社会对性别多样性的认可和适应。关于Mx的历史，文中提及其可能起源可追溯至1982年，并指出在2013年，布赖顿-霍夫市议会首次通过将Mx列入官方称谓的议案。此外，文章还提到了其他国家和地区在法律上对第三性别的认可，例如澳大利亚和印度，这显示出全球对跨性别和非二元性别群体认可的逐步增强。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -50,12 +50,12 @@ Facebook扩展了用户设定中的性别选项。
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性人的官方英文称呼已确定：不再是Mr或Mrs，而是Mx.md                             |
 > | Size            | 4389 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:48:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1327712](https://m.thepaper.cn/newsDetail_forward_1327712)                       |
+> | Author          | 未知                               |
+> | Region          | 英国                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, Mx称谓, 性别认同, 法律政策, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -77,7 +77,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了中国首位网络征婚变性人黄宁倩（原名黄恩岭）的故事。她在16岁时开始感受到变性欲望，最终在2004年接受变性手术，并改名为黄宁倩。内容中详细介绍了她的生活经历，包括在学校遭受同学们称呼为“假妹子”的经历，以及她通过网络征婚的经历，成为内地第一个通过网络征婚的变性人。文章还提到黄宁倩与未来丈夫的相识、求婚及结婚计划，并探讨了她对生育问题的看法。黄宁倩的故事展示了变性人的生活挑战与追求幸福的勇气，以及社会对变性群体的认知变化。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -86,12 +86,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_网络征婚变性人欲再造子宫生子.md                             |
 > | Size            | 7056 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:22:39                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-01-03/detail-ikftpnny4471572.d.html?from=wap](https://news.sina.cn/sa/2011-01-03/detail-ikftpnny4471572.d.html?from=wap)                       |
+> | Author          | 薛马义                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2011-01-03                                 |
+> | Tags            | 变性人, 网络征婚, 生育问题, 社会认知, 法律问题, 个人故事, 生活经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -15,7 +15,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了变性歌手Conchita Wurst在2014年5月10日的演出，演出时她身穿华丽的金色晚礼服，化着浓妆，且脸上留有络腮胡。文章描述了她在舞台上的出现让观众感到震惊，甚至“吓cry众人”。此外，文章还附带了与该事件相关的图片，展示了她的舞台造型。Conchita Wurst在2014年凭借其独特的形象和音乐风格引起了全球的关注，成为了跨性别者在艺术领域的重要代表。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -24,12 +24,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男面女儿身变性歌手满脸络腮胡献唱吓哭观众.md                             |
 > | Size            | 809 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:52:28                             |
+> | Original Link   | [https://news.ifeng.com/a/20140510/40235003_0.shtml](https://news.ifeng.com/a/20140510/40235003_0.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 2014-05-10                                 |
+> | Tags            | 变性歌手, Conchita Wurst, 演出, 音乐, 跨性别, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了菲律宾一起变性人遇害事件所引发的反美情绪，以及因此取消的美军舰访问计划。2014年11月3日，菲律宾苏比克湾官员宣布原本安排在11月和12月的9艘美国军舰访菲行程因该事件而暂时叫停。报道详细提到，受害者是一名菲律宾变性人，尸体是在奥隆跑狗市的一家宾馆内被发现，而嫌疑人是一名正在菲律宾参加联合军事演习的美军陆战队员约瑟夫·彭伯顿。虽然美军仍将派遣部分舰艇抵达菲律宾进行维修，但商家们因失去与美军的接触而表示失望。事件不仅导致了政治与社会上的冲击，还对当地经济产生了影响，商会希望美军理解他们的愿望，同时呼吁关注受害者的权益。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -47,12 +47,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_菲律宾变性人遇害案引发反美情绪美军舰取消访问.md                             |
 > | Size            | 2743 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:14:01                             |
+> | Original Link   | [https://news.ifeng.com/a/20141103/42367058_0.shtml](https://news.ifeng.com/a/20141103/42367058_0.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 菲律宾                               |
+> | Date            | 2014-11-03                                 |
+> | Tags            | 菲律宾变性人, 美军, 反美情绪, 苏比克湾, 相互访问协议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

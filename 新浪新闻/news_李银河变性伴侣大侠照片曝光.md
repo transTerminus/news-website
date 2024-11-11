@@ -145,7 +145,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《南都周刊》对李银河伴侣‘大侠’的深度采访，揭示了他作为跨性别者在与李银河长达十七年的关系中的心路历程和情感交流。‘大侠’坦诚了自己从未隐瞒性取向的态度，并分享了与李银河的生活细节与感情体验。他回忆起第一次见到李银河时的感觉，强调对她思想的敬佩，并讨论了这段关系如何影响了他们双方的生活。‘大侠’还表达了对性别认同和爱情的看法，反驳了关于小众感情难以持久的偏见，认为感情的维系在于双方的真诚与沟通。同时，他重视家务分工与对子女的抚养态度，显示出其对于传统性别角色的反思与包容。他们的故事如同一曲温柔的恋歌，反映了跨性别者独特而真挚的爱情。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -154,12 +154,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_李银河变性伴侣大侠照片曝光.md                             |
 > | Size            | 13099 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:33:13                             |
+> | Original Link   | [https://news.sina.cn/sh/2014-12-21/detail-iavxeafr8757899.d.html?wm=3049_0015](https://news.sina.cn/sh/2014-12-21/detail-iavxeafr8757899.d.html?wm=3049_0015)                       |
+> | Author          | 南都周刊                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2014-12-21                                 |
+> | Tags            | 跨性别, 李银河, 大侠, 性别认同, 爱情故事, 社会学, 采访, 女权主义                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

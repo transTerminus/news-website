@@ -81,7 +81,7 @@ _![](https://n.sinaimg.cn/sinacn10210/360/w180h180/20191010/795e-ifrwayx4445457.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了中国第一位变性人张克莎的真实故事。文章详细回顾了张克莎从小的经历，她的成长过程和对自身性别认同的探索。出生于1962年，张克莎在家庭的压力与个人的性别认同之间挣扎。1983年，她克服父母的反对选择来到北京接受变性手术，成功成为一名女性。随后的生活中，张克莎与一位港商结婚，活出了理想的女性生活，甚至拥有了自己的事业。然而，她的过去隐秘不可避免地被曝光，最终不得不选择逃避。文章探讨了跨性别者在社会中的生存状态，以及在传统文化背景下的挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -90,12 +90,12 @@ _![](https://n.sinaimg.cn/sinacn10210/360/w180h180/20191010/795e-ifrwayx4445457.
 > |-----------------|----------------------------------------|
 > | Filename        | k_中国第一位变性人，用女儿身嫁给老板，丈夫至死不知道她曾是男人.md                             |
 > | Size            | 5314 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:44:56                             |
+> | Original Link   | [https://k.sina.cn/article_2781433635_a5c94f2300100upjb.html](https://k.sina.cn/article_2781433635_a5c94f2300100upjb.html)                       |
+> | Author          | 拾文客栈                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-10-27                                 |
+> | Tags            | 变性人, 生活故事, 跨性别, 社会环境, 性别认同, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

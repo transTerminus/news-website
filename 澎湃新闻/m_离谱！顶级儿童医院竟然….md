@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国波士顿儿童医院因一段视频而引发的争议。视频中，该医院心理学家克里·麦格雷戈声称，很多孩子在出生前就能意识到自己的性别认同。这一言论引发质疑，特别是来自美国传统基金会的博士杰伊·理查兹，他对此批评称缺乏科学依据，并指责这种性别意识的传播成为医疗界的一种“社会传染”。此外，该医院曾因有关未成年人变性手术的政策而遭遇丑闻，曾提到患者可在17至35岁之间接受手术，后因公众压力进行更改，规定患者必须年满18岁。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -55,12 +55,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_离谱！顶级儿童医院竟然….md                             |
 > | Size            | 4573 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:16:01                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_20219011](https://m.thepaper.cn/newsDetail_forward_20219011)                       |
+> | Author          | 陶梦                               |
+> | Region          | 美国                               |
+> | Date            | 2023-10-07                                 |
+> | Tags            | 跨性别, 儿童医院, 性别认同, 医疗政策, 社会争议, 波士顿儿童医院                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

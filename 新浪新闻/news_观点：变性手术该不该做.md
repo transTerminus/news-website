@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论关于变性手术的不同观点，文章介绍了两位专家的立场。正方观点认为，在生理性别与心理性别存在巨大背离时，通过变性手术来协调这种矛盾是一种人道主义的选择，强调每个人都应该有权选择其社会存在的方式，尤其是考虑到‘易性癖患者’的生存状况和心理痛苦。反方观点则由浙江省心理卫生协会理事长赵国秋提出，他认为变性手术并不能改变基因，且可能导致许多健康问题，认为盲目变性是一种风险。此外，文章还提到手术前心理评估不足的问题，强调在做决定前需谨慎考虑。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -54,12 +54,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_观点：变性手术该不该做.md                             |
 > | Size            | 3342 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:53:53                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikkntiam1856439.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikkntiam1856439.d.html)                       |
+> | Author          | 现代金报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-12-02                                 |
+> | Tags            | 变性手术, 性别认同, 心理健康, 人道主义, 社会观点, 生存状况                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

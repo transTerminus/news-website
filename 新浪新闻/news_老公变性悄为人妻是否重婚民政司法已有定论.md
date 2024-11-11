@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了一起引发广泛关注的变性婚姻事件。文章报道了秦女士失踪的丈夫在完成变性手术后，悄然成婚为女性。该事件引发了对相关法律问题的探讨，特别是在婚姻关系的终止与变性合法性方面。法律专业人士指出，现行法律对变性者婚姻状况的规定尚显滞后，且在变性之后的再婚程序上存在法律模糊。普明律师事务所的程帆律师认为，此类情况下，公民必须依法解除原有婚姻关系，若未履行，该举动可能构成重婚罪。而章帆律师则认为变性本身可以被视为婚姻关系的终止，无需再办理离婚。因此，尽管变性手术受到越来越多的认可和了解，但是针对变性人的法律法规仍需进一步明确。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -54,12 +54,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_老公变性悄为人妻是否重婚民政司法已有定论.md                             |
 > | Size            | 2281 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:48:39                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-09-26/detail-ikknscsi4350965.d.html](https://news.sina.cn/sa/2004-09-26/detail-ikknscsi4350965.d.html)                       |
+> | Author          | 黄明                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-09-26                                 |
+> | Tags            | 变性婚姻, 法律问题, 婚姻关系, 社会环境, 跨性别权益, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

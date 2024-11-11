@@ -20,7 +20,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了变性歌手肯奇塔·沃斯特（Conchita Wurst）的故事。她以独特的形象和音乐风格，在2014年赢得了第58届欧洲歌唱大赛的冠军，成为备受瞩目的当红歌手。文章中显示了她变性前的照片，并对她的生活经历进行了简要回顾，强调了她在音乐界的影响力和对性别多样性的推动。沃斯特的成功不仅是个人的成就，也是对性别表达与社会接受度的重要反思。文章中提到她曾是一个“奶油小生”，并揭示了她为成为今天的自己所经历的变化和挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -29,12 +29,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_大胡子“美女歌神”变身照曝光变性前是奶油小生(高清组图).md                             |
 > | Size            | 1952 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:53:03                             |
+> | Original Link   | [https://news.ifeng.com/a/20140512/40261436_7.shtml](https://news.ifeng.com/a/20140512/40261436_7.shtml)                       |
+> | Author          | 国际在线                               |
+> | Region          | 未知                               |
+> | Date            | 2014-05-12                                 |
+> | Tags            | 跨性别, 变性, 肯奇塔·沃斯特, 音乐, 欧洲歌唱大赛, 社会接受度, 性别表达                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

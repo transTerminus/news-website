@@ -80,7 +80,7 @@ Andrew Sullivan：《时代》杂志称其为美国的“首席博主”（“bl
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了警醒文化的根源，它在短短几年内席卷欧美的社会。作者张拓木从后现代批判理论的角度分析了警醒文化的崛起，强调这一理论如何改变了社会对种族、性别等身份的理解。文章提到了一些新出现的词汇，如非二元（non-binary）、毒性男子气质（toxic masculinity）等，这些词语在媒体报道中的使用频度急剧增加。文中还提到，批判理论认为不同身份群体间的权力动态与压迫关系，强调个体存在的本质在于其身份的交织（intersect）。站在这种世界观之上，讨论的焦点是如何通过语言与知识的重新组织实现社会正义。在文章末尾，作者呼应警醒文化对社会理性和包容忠忍不可或缺性的新理解，强调真正的社会进步应在自由民主体制内实现，而不是依仗意识形态的强加。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -89,12 +89,12 @@ Andrew Sullivan：《时代》杂志称其为美国的“首席博主”（“bl
 > |-----------------|----------------------------------------|
 > | Filename        | m_警醒（woke）文化的根源_-_澎湃新闻.md                             |
 > | Size            | 15088 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 21:53:44                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10303517](https://m.thepaper.cn/newsDetail_forward_10303517)                       |
+> | Author          | 张拓木                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-07-31                                 |
+> | Tags            | 警醒文化, 后现代批判理论, 社会正义, 跨性别, 性别身份, 文化研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

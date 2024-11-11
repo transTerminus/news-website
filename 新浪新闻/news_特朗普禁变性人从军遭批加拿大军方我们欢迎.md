@@ -121,7 +121,7 @@ CNN还采访到了变性前海豹突击队员克里斯蒂·贝克（Kristin Beck
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了美国总统特朗普在推特上发布的决定，即禁止跨性别人士在美国军队服役的通知。这一政策引起了广泛的反对和争论，许多政界人士、LGBT团体和公众纷纷发表意见。文中提到特朗普的声明，指出这个决定是基于与军事专家的商讨，同时也提到了一些反对者的声音，包括民主党领袖和一位退役的变性海豹突击队员Kristin Beck的回应。文章还提及了加拿大军方对这一事件的反应，表示欢迎跨性别者加入其军队，进一步显示出两国在对待性别认同者方面的不同态度。文章的数据分析以及网友的评论则反映了公众对于这一政策的高度分歧，这些内容从不同的角度探讨了变性人军事服役的相关议题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -130,12 +130,12 @@ CNN还采访到了变性前海豹突击队员克里斯蒂·贝克（Kristin Beck
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普禁变性人从军遭批加拿大军方我们欢迎.md                             |
 > | Size            | 6270 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:58:19                             |
+> | Original Link   | [https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2649751.d.html?vt=4&pos=108](https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2649751.d.html?vt=4&pos=108)                       |
+> | Author          | 环球网                               |
+> | Region          | 美国                               |
+> | Date            | 2017-07-27                                 |
+> | Tags            | 特朗普, 跨性别, 军队政策, LGBT, 法律与社会, 国际关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

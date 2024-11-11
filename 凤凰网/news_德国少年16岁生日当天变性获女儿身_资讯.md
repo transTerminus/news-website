@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了德国少年基姆·佩特拉斯在16岁生日当天进行了变性手术，正式获得了女性身份。基姆自12岁起开始服用雌性荷尔蒙，早在此之前就认同自己是女孩。文章提到，尽管有争议，法兰克福大学附属医院的精神特殊门诊部主任认为在某些情况下，少年时期的变性手术是合理的。基姆的变性手术使她能够实现自己的身份认同，她兴奋地表示希望能像其他女孩一样，穿上自己喜欢的泳衣并去游泳。文章也反映了社会对变性小孩的看法和医疗界的不同声音。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -44,12 +44,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_德国少年16岁生日当天变性获女儿身_资讯.md                             |
 > | Size            | 1454 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:29:55                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200902/0206_344_997352.shtml](https://news.ifeng.com/society/2/200902/0206_344_997352.shtml)                       |
+> | Author          | 小朗                               |
+> | Region          | 德国                               |
+> | Date            | 2009-02-06                                 |
+> | Tags            | 跨性别, 少年, 基姆·佩特拉斯, 变性手术, 女性身份                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

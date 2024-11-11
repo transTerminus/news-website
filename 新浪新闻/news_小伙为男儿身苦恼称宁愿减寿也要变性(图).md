@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位年轻跨性别者诗涵（化名）的心路历程及其对变性手术的渴望与决心。诗涵出生于1987年，自小在外婆家长大，感受到性别认同上的困扰。由于对自己男儿身的不满，以及在网络恋爱中的经历，他决定追求变性手术以寻求内心的快乐和安宁。文章描述了他的成长经历、对变性的理解和向医生表达的愿望，揭示了他面临的医师评估、经济困难及家人对变性态度的变化。手术所带来的风险和心理压力，以及他宁愿冒着减少寿命的风险只为过上快乐的生活，反映了跨性别群体面临的社会和个人挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -63,12 +63,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_小伙为男儿身苦恼称宁愿减寿也要变性(图).md                             |
 > | Size            | 5712 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:13:07                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-12-30/detail-ikftssap3244536.d.html](https://news.sina.cn/sa/2009-12-30/detail-ikftssap3244536.d.html)                       |
+> | Author          | 广西新闻网-南国早报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-12-30                                 |
+> | Tags            | 跨性别, 变性手术, 心理经历, 社会认同, 生命故事, 法律与医疗, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

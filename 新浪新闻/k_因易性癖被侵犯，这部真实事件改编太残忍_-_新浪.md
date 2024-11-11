@@ -233,7 +233,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件探讨了因易性癖而遭遇侵犯的真实事件，并讨论了相关电影《女孩》与《男孩别哭》中的类似主题。文件中详细描述了劳拉和布兰登的生命故事，强调了他们在性别认同上的痛苦挣扎与寻求认同的过程。文章揭示了社会对跨性别者的歧视与压迫，体现了在不接受的环境中他们的艰难处境。尤其是在布兰登的故事中，描述了他作为一个跨性别男性如何在社会中遭受到暴力与不公正，最终导致悲惨命运的过程。作者通过引述相关调查数据，强调了跨性别群体面临的生存困境与心理创伤，并寄希望于社会能够接纳多样性与包容性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -242,12 +242,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_因易性癖被侵犯，这部真实事件改编太残忍_-_新浪.md                             |
 > | Size            | 10373 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:40:55                             |
+> | Original Link   | [https://k.sina.cn/article_1757353251_68bf152301900nxw2.html](https://k.sina.cn/article_1757353251_68bf152301900nxw2.html)                       |
+> | Author          | 未知                               |
+> | Region          | 北京                               |
+> | Date            | 2019-12-31                                 |
+> | Tags            | 跨性别, 性别认同, 社会歧视, 心理创伤, 生命故事, 电影评论, 法律与政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

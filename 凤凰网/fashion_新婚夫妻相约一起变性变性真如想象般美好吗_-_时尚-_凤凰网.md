@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一对新婚夫妻在生活压力下，共同决定进行变性手术的故事。夫妻二人性别认同感的不同，丈夫陈立希望通过变性手术成为女性，以摆脱对妻子的照顾需求；而妻子姜玲则希望变性为男性，以逃避婆婆的欺负。文章深入探讨了变性背后的心理和生理原因，指出许多变性人的内心挣扎以及变性手术可能带来的并发症及社会适应问题。引述了心理专家的看法，强调变性手术不一定能解决生活中的问题，而对变性人的社会支持和心理调适同样重要。文章末尾引述了编辑的观点，认为解决家庭矛盾的方式可能需更加多样，不应仅依赖变性手术。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -88,12 +88,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | fashion_新婚夫妻相约一起变性变性真如想象般美好吗_-_时尚-_凤凰网.md                             |
 > | Size            | 8980 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:14:38                             |
+> | Original Link   | [https://fashion.ifeng.com/health/yiyao/chanjing/detail_2012_08/14/16792063_0.shtml](https://fashion.ifeng.com/health/yiyao/chanjing/detail_2012_08/14/16792063_0.shtml)                       |
+> | Author          | 沙心                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2012-08-14                                 |
+> | Tags            | 变性手术, 跨性别, 性别认同, 社会适应, 心理原因, 生理原因, 家庭压力, 生活故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

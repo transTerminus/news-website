@@ -66,7 +66,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为新浪网发布的一篇关于伪娘角色的动漫推荐文章，题为《双兔傍地走，安能辨我是雄雌？十大伪娘动漫推荐！》。文章介绍了十个在二次元文化中颇具人气的伪娘角色，诸如《H2O赤砂印记》的八云滨治和《闪灵二人组》的风鸟院花月等。这些角色不仅在动画中有着鲜明的特点，许多作品中探讨了性别认同及角色扮演的主题，反映了当下社会对性别多样性的关注。文章希望读者以更加开放和包容的态度看待伪娘文化，鼓励大家交流和分享心目中的角色与看法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -75,12 +75,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_双兔傍地走,安能辨我是雄雌十大伪娘动漫推荐!_-_新浪.md                             |
 > | Size            | 5530 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:00:34                             |
+> | Original Link   | [https://k.sina.cn/article_6429037411_17f33536300100bw6d.html](https://k.sina.cn/article_6429037411_17f33536300100bw6d.html)                       |
+> | Author          | 新浪网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2018-11-24                                 |
+> | Tags            | 伪娘, 动漫推荐, 性别认同, 二次元文化, 社会现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

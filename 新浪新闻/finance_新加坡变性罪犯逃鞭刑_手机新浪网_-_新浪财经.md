@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了新加坡一名变性吸毒者雷切纳姆的案例，该名吸毒者因第二次触犯毒品法律而被判处监禁，然而由于其在2006年接受了变性手术，依照新加坡法律，鞭刑不适用于女性，因此他得以免除鞭笞。报导中提到雷切纳姆在1998年因使用吗啡曾被判刑五年并接受过鞭笞，后因再次涉毒落网。此案例突显了新加坡法律中关于变性人群体的特殊条款，并引发了对性别与法律制裁之间关系的讨论，反映出性别认同在法律中的复杂性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | finance_新加坡变性罪犯逃鞭刑_手机新浪网_-_新浪财经.md                             |
 > | Size            | 1495 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:38:20                             |
+> | Original Link   | [http://finance.sina.com.cn/roll/20120307/074611531346.shtml](http://finance.sina.com.cn/roll/20120307/074611531346.shtml)                       |
+> | Author          | 新华社                               |
+> | Region          | 新加坡                               |
+> | Date            | 2012-03-07                                 |
+> | Tags            | 变性人, 法律制度, 吸毒, 性别认同, 新加坡, 社会问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

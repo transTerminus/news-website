@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了新加坡一对跨性别伴侣因变性手术而面临婚姻无效的法律问题。报道称，费斯·沃尔塔（Faith Volta）在结婚后接受了变性手术，并将身份性别改为女性，导致她和伴侣布莱斯·沃尔塔（Bryce Volta）的婚姻关系被新加坡政府宣告为无效。报道指出，新加坡法律规定，一旦伴侣之一完成变性手术，之前的婚姻关系将转变为同性关系，从而不再合法。文章提到，费斯和布莱斯已向新加坡高等法院上诉，要求恢复她们的婚姻关系，呼吁对婚姻注册局的裁定进行审查。此次事件引发了关于跨性别者权利与婚姻法律的激烈讨论，以及对新加坡法律的质疑。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -42,12 +42,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | mil_新加坡男子变性后婚姻被作废同性伴侣要求法院复婚_-_新浪军事.md                             |
 > | Size            | 1588 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:18:26                             |
+> | Original Link   | [https://mil.sina.cn/2018-04-03/detail-ifyteqtq3088747.d.html](https://mil.sina.cn/2018-04-03/detail-ifyteqtq3088747.d.html)                       |
+> | Author          | 王莉兰                               |
+> | Region          | 新加坡                               |
+> | Date            | 2018-04-03                                 |
+> | Tags            | 跨性别, 婚姻, 法律, 新加坡, 社会问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

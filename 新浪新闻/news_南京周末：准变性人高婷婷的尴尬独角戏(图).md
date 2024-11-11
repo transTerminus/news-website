@@ -83,7 +83,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了高婷婷（原名高永贵）的故事，他是一位准变性人，首先以男性身份出现但渴望Transition为女性。高婷婷在文章中描述了自己的生活经历，包括他在家庭、婚姻和社会中面临的冲突与挑战。从他一开始尝试女装生活，到与医院的变性手术纠葛，再到他自传中的恋爱经历，内容深刻地反映了跨性别者的复杂心路历程。他在文章中表达了自己对男性的失望与愤怒，尤其是在某次被骗事件后，他对男性产生了强烈的厌恶情绪，转而渴望成为女性。他的故事还展示了法律和医疗制度在跨性别者生活中的影响，尤其是在变性手术和自我认同的道路上。文章中也有对他的心理和社会适应状况的反思，以及他在追寻自我认同过程中所表现出的矛盾与挣扎。整体来看，这是一个关于个人斗争、社会认同与自我探索的真实记录。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -92,12 +92,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_南京周末：准变性人高婷婷的尴尬独角戏(图).md                             |
 > | Size            | 13212 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:51:00                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-11-24/detail-ikkntiam1753039.d.html](https://news.sina.cn/sa/2004-11-24/detail-ikkntiam1753039.d.html)                       |
+> | Author          | 手机新浪网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-11-24                                 |
+> | Tags            | 跨性别, 变性人, 生命故事, 社会环境, 医疗资源, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了吉林省一名青年雪梅(化名)在沈阳东方医疗集团东方君立男科中心成功接受变性手术的经过。雪梅，今年30岁，虽然其染色体检查结果显示为男性，但她从小就将自己认同为女性，家人也一直以女孩对待她。由于两性特征导致的困扰，雪梅在多年的生活中经历了诸多尴尬。医院获知她的情况后，决定免费为其治疗。手术完成后，雪梅的身体已经完全康复，并进入激素调理阶段，预计一年或两年后，她将表现出更明显的女性特征。该事件不仅反映了跨性别者在医疗上的需求与努力，也展现了社会对跨性别群体支持的一面。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -37,12 +37,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_吉林“变性人”在沈阳手术成功身体已完全康复.md                             |
 > | Size            | 1351 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:19:57                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-12-07/detail-ikknscsi1943587.d.html](https://news.sina.cn/sa/2003-12-07/detail-ikknscsi1943587.d.html)                       |
+> | Author          | 沈阳今报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-12-07                                 |
+> | Tags            | 跨性别, 变性手术, 性别确认, 性别认同, 医疗资源, 心理健康, 社会支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

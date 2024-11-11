@@ -74,7 +74,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了一起在当当网工作的男员工高某某因变性而遭解除劳动合同的案件。高某某在2018年进行了变性手术，申请病假期间遭到公司以旷工为由解除合同。此案引发社会广泛讨论，法院认为当当网的解雇决定违法，判决其应继续履行劳动合同。法院强调雇主应尊重员工在性别认同方面的选择，并承认高某某作为女性的身份。这一裁决不仅涉及劳动权益，也反映了社会对变性人群体的包容和理解的进步。判决中对现代社会多元化及对变性人尊严与权利的保护给予了积极注解，并认为这一过程需要社会逐步适应和接受。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -83,12 +83,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_男员工变性遭当当网开除，法院写下一段近千字的话….md                             |
 > | Size            | 10095 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:44:22                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8136888](https://m.thepaper.cn/newsDetail_forward_8136888)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2019-01-01                                 |
+> | Tags            | 跨性别, 劳动法, 就业歧视, 社会法律, 当当网事件, 变性人权利, 法院判决                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -150,7 +150,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别运动员劳雷尔·哈伯德参加东京奥运会引发的广泛讨论和争议。哈伯德是第一位获得国际举重联合会及国际奥委会准许参加女子项目的跨性别运动员，其参赛引发了是否公平的关注。有专家指出，该运动员在经历过男性青春期后，是否能与其他女性选手在身体条件上真正平等，引起了许多质疑。文章深入分析了跨性别女性在参与体育竞争中的复杂身份以及面临的社会、心理与法律压力。与此同时，讨论还延伸到更广泛的跨性别群体在社会中的生存现状，以及如何面对外界的偏见与歧视。总之，这是关于跨性别运动员、女性体育身份的辩论，也是对性别认同、社会包容性的深刻反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -159,12 +159,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_跨性别运动员参加奥运：“成为自己”有什么错？_-_新浪新闻.md                             |
 > | Size            | 26075 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:25:59                             |
+> | Original Link   | [https://news.sina.cn/2021-08-04/detail-ikqciyzk9568173.d.html](https://news.sina.cn/2021-08-04/detail-ikqciyzk9568173.d.html)                       |
+> | Author          | 王嘉吟                               |
+> | Region          | 中国                               |
+> | Date            | 2021-08-04                                 |
+> | Tags            | 跨性别, 运动员, 奥运会, 性别认同, 社会环境, 公平竞赛, 法律政策, 心理健康, gender identity, LGBTQIA+                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

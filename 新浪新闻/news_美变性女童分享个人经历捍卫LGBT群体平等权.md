@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了一名10岁美国家庭的变性女童丽贝卡（Rebekah）分享个人经历并捍卫LGBT群体平等权利的故事。丽贝卡自7岁开始感到对性别认同的焦虑和不安，经过两年的过渡，她终于能够作为自己真实的身份生活。文章描述了丽贝卡如何受到家庭和母亲杰米的支持，她的勇敢发声为其他变性儿童带来希望。丽贝卡在多次集会和游行中积极宣传变性人权利，并努力帮助其他面临类似困境的孩子感到安全和被理解。杰米作为母亲，分享了她们家庭在支持丽贝卡过程中所遇到的挑战与社会对变性人存在的偏见。此文不仅是对丽贝卡个人经历的记录，也是对当前社会对于跨性别者认知的反映。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美变性女童分享个人经历捍卫LGBT群体平等权.md                             |
 > | Size            | 4492 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:39:30                             |
+> | Original Link   | [https://news.sina.cn/2017-07-31/detail-ifyinryq7308618.d.html](https://news.sina.cn/2017-07-31/detail-ifyinryq7308618.d.html)                       |
+> | Author          | 环球网                               |
+> | Region          | 美国                               |
+> | Date            | 2017-07-31                                 |
+> | Tags            | 跨性别, LGBT权利, 变性经历, 儿童支持, 社会认知, 法律改革, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

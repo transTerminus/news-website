@@ -252,7 +252,7 @@ Copyright © 1996 - 2014 SINA Corporation, All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇来自新浪游戏的文章，题为《快男伪娘引爆娘时代 细数游戏中的伪娘子》。文章主要讨论了在2010年娱乐现象“快乐男声”引发的伪娘文化，并结合多个游戏中的伪娘角色进行分析与盘点。文中提到，伪娘一词源于日本，通常指女性美丽的男性角色，尤其是在ACG（动画、漫画、游戏）等领域表现尤为突出。文章中不仅细数了游戏中的伪娘角色，还对快男伪娘现象进行了讨论，提到了一些因外观和穿着引发的社会反响和争议。同时，文章也鼓励网友分享对伪娘的看法，并附上了多个链接，链接至相关调查和讨论，展现了大众对于伪娘这一文化现象的不同态度。整体来看，这篇文章通过游戏与娱乐节目的结合，探索了性别表现和社会接受度的交叉点。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -261,12 +261,12 @@ Copyright © 1996 - 2014 SINA Corporation, All Rights Reserved
 > |-----------------|----------------------------------------|
 > | Filename        | games_快男伪娘引爆娘时代细数游戏中的伪娘子_-_新浪游戏.md                             |
 > | Size            | 12975 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:41:12                             |
+> | Original Link   | [http://games.sina.com.cn/zt/weiniang2010/index.shtml](http://games.sina.com.cn/zt/weiniang2010/index.shtml)                       |
+> | Author          | 新浪游戏                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 伪娘, 快乐男声, 游戏文化, 性别表达, ACG, 社会现象, 娱乐                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

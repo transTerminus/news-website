@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了美国当选总统拜登提名跨性别医生蕾切尔·莱文（Rachel Levine）担任卫生部助理部长的重大历史性事件。如果提名通过，她将成为美国联邦政府中第一位公开跨性别身份的助理卫生部长。文章详细描述了莱文的教育背景、职业生涯，包括她在抗击新冠疫情中的表现，以及她在各类医疗问题上的成就和声音。拜登在声明中赞扬莱文的领导力和专业知识，表示她将为国家应对大流行提供必要的支持。莱文的经历展示了跨性别社区在公共服务中的重要性，文章还提到莱文在五六岁时就开始质疑自己的性别身份，并于2013年完成变性程序。总体而言，这篇文章不仅关乎个别的提名，还反映了美国在性别认同和平等机会方面的逐步进展。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -47,12 +47,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | mil_拜登提名跨性别医生担任卫生部助理部长，创下历史_-_新浪军事.md                             |
 > | Size            | 2726 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:19:48                             |
+> | Original Link   | [https://mil.sina.cn/2021-01-20/detail-ikftssan8785005.d.html?oid=4059580608996029&vt=4&cid=264324&node_id=264324](https://mil.sina.cn/2021-01-20/detail-ikftssan8785005.d.html?oid=4059580608996029&vt=4&cid=264324&node_id=264324)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 美国                               |
+> | Date            | 2021-01-20                                 |
+> | Tags            | 跨性别, 卫生部, 拜登, 蕾切尔·莱文, 性别认同, 历史性提名, 性少数群体, 新冠疫情, 医疗公平                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -19,7 +19,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国总统唐纳德·特朗普于2017年8月25日签署的一份备忘录，该备忘录要求国防部禁止变性人在军队服役，同时并未明确说明已有变性人军人的去留问题。文章详细叙述了这一政策背景，包括2016年美国曾开始允许现役军人公开变性身份和承担相应的医疗费用的政策转变。特朗普在社交媒体上发表言论称，禁止变性人服役是因为担心他们会影响军队的战斗力和增加军队的医疗开支，引发了广泛的社会反对与法律挑战。文章最后提到根据某智库的研究，允许变性人公开身份服役对军队战斗力和医疗成本的影响极小。此外，文章也提到了一起针对特朗普禁令的法律诉讼。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -28,12 +28,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_美国总统特朗普签署备忘录，要求国防部禁止变性人服役.md                             |
 > | Size            | 2170 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:09:29                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1775511](https://m.thepaper.cn/newsDetail_forward_1775511)                       |
+> | Author          | 新华社                               |
+> | Region          | 美国                               |
+> | Date            | 2017-08-25                                 |
+> | Tags            | 跨性别, 军队政策, 特朗普, 医疗资源, 法律诉讼                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

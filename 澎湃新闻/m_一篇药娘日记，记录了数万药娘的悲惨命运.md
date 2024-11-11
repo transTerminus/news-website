@@ -209,8 +209,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_一篇药娘日记，记录了数万药娘的悲惨命运.md                             |
 > | Size            | 11333 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:49:36                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9307060](https://m.thepaper.cn/newsDetail_forward_9307060)                       |
 > | Author          | 张大东 X博士                               |
 > | Region          | 中国大陆                               |
 > | Date            | 未知                                 |

@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章讲述了美国特种兵上校施若的变性经历。施若在军旅生涯结束后，于48岁时决定变性为女性，并更名为黛安·施若。她从小就产生性别认同的困惑，虽然在外形上表现为男性，但内心对女性的身份认同从未消失。文章中详细记录了施若从小到大的成长经历，强调了她在军队中的出色表现以及面临的内心挣扎。施若在公开身份转变后，遭遇了个人生活的重大变化，包括婚姻的结束和与家人之间的关系。她在过程中接受了多次手术，并面临法庭上关于性别歧视的诉讼。施若的故事反映了变性人所经历的心理斗争和社会挑战，也展示了她勇敢追求真实自我的决心。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -97,12 +97,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国反恐特种兵上校做变性手术成女人(组图).md                             |
 > | Size            | 8021 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:11:09                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-10-23/detail-ikknscsi8071451.d.html](https://news.sina.cn/sa/2005-10-23/detail-ikknscsi8071451.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2005-10-23                                 |
+> | Tags            | 变性, 跨性别, 特种兵, 个人故事, 心理健康, 法律问题, 军旅生涯, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

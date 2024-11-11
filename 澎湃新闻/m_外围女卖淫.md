@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自澎湃新闻，对跨性别群体中有关外围女及卖淫行为进行了深刻的调查与报道。文件包含多个部分，详细叙述了孙静雅及其背后隐秘的变性“外围女”们。这篇文章揭示了在社会中被边缘化的群体所面临的复杂法律与社会环境，以及公共舆论对她们的影响。在多个事件中，广东警方的查处行动涉及到跨越28个省份，逮捕了过百人，引起社会广泛关注，并引发830条评论的讨论。此外，文章引用多张图片，以进一步呈现事件的真实状态，突显其调查的严谨与深度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_外围女卖淫.md                             |
 > | Size            | 1244 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:53:11                             |
+> | Original Link   | [https://m.thepaper.cn/tag/207169](https://m.thepaper.cn/tag/207169)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-12-23                                 |
+> | Tags            | 跨性别, 外围女, 卖淫, 社会调查, 法律政策, 舆论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

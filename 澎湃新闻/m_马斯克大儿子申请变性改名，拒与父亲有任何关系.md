@@ -130,7 +130,7 @@ Ad Astra的课程以人工智能、编码和应用科学为主。该校校长乔
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了亿万富翁埃隆·马斯克的大儿子泽维尔·亚历山大·马斯克申请变性改名的事件。本文介绍了她申请更名为薇薇安·詹娜·威尔逊（Vivian Jenna Wilson）的原因，强调了她不再希望与父亲有任何关系。文章详细叙述了薇薇安在法庭上所提交的申请及其背景，包括她的家庭关系、生父的知名度，以及母亲贾斯汀·威尔逊对孩子决定的支持。同时，文章还提及了马斯克的跨性别观点，引述了他对变性人士和性别认同问题的言论，探讨了他与子女之间复杂的关系。整体上，这篇文章不仅涉及个体的变性经历，同时也反映了跨性别者在家庭和社会中的挑战与争议。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -139,12 +139,12 @@ Ad Astra的课程以人工智能、编码和应用科学为主。该校校长乔
 > |-----------------|----------------------------------------|
 > | Filename        | m_马斯克大儿子申请变性改名，拒与父亲有任何关系.md                             |
 > | Size            | 12977 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:14:01                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18684920](https://m.thepaper.cn/newsDetail_forward_18684920)                       |
+> | Author          | 纽约华人资讯网主笔 詹涓                               |
+> | Region          | 美国                               |
+> | Date            | 2022-06-24                                 |
+> | Tags            | 跨性别, 变性, 家庭关系, 埃隆·马斯克, 法律申请, 社会环境, 性别认同, LGBTQ+                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

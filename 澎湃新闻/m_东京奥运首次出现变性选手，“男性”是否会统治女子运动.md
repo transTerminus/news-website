@@ -115,8 +115,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_东京奥运首次出现变性选手，“男性”是否会统治女子运动.md                             |
 > | Size            | 6787 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:49:25                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13286388](https://m.thepaper.cn/newsDetail_forward_13286388)                       |
 > | Author          | 宗威                               |
 > | Region          | 未知                               |
 > | Date            | 2021-07-21                                 |

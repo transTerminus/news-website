@@ -28,7 +28,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件报道了日本性别认同障碍学会于2015年3月23日宣布的计划，旨在培养专业变性手术医生并将变性手术纳入保险范围。自2004年日本立法同意实施变性手术以来，变性手术的需求逐年增加至2014年底达到5000人以上。学会指出，专业医生认证制度将有助于提高医疗服务质量，减少医疗纠纷，为希望进行变性手术的人提供更安全和更高质量的医疗服务。
+
+目前由于变性手术不在保险范围内，许多患者选择前往费用较低的海外医院，如泰国进行手术，这不仅存在手术后遗症的风险，且可能引发医疗纠纷。为了解决这些问题，学会计划在未来几年内完善研修内容及认证标准，以增加从事性别认同障碍领域的医生数量，从而提升整体的医疗水平。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -37,12 +39,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_日本拟培养专业变性手术医生将变性纳入保险范围.md                             |
 > | Size            | 1405 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:50:35                             |
+> | Original Link   | [https://news.sina.cn/gj/2015-03-23/detail-iavxeafs2022705.d.html](https://news.sina.cn/gj/2015-03-23/detail-iavxeafs2022705.d.html)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 日本                               |
+> | Date            | 2015-03-23                                 |
+> | Tags            | 变性手术, 性别认同障碍, 医疗政策, 保险范围, 日本, 跨性别医疗                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

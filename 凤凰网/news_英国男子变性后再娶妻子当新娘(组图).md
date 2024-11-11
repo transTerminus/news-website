@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了英国一名男子马丁·派克成功变性为女性爱玛·马丁，并与其前妻琳达再次举行婚礼的故事。马丁自幼感到性别身份与生理性别不符，最终在成年后决定接受变性手术。文章提到，马丁与琳达自1977年结婚，但由于马丁的性别认同问题，他们的婚姻面临挑战。根据英国《性别承认法》，为了合法地改变性别并获得法律认可的女性身份，马丁不得不与琳达离婚。然而，在经历了离婚后不久，为了享受已婚夫妇的相关法律权益，他们选择重新举行婚礼，标志着爱情的持续与转变。这一事件揭示了跨性别者在法律和社会环境中的复杂情境，也反映了他们所面临的挑战与选择。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,12 +39,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国男子变性后再娶妻子当新娘(组图).md                             |
 > | Size            | 2857 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:53:06                             |
+> | Original Link   | [https://news.ifeng.com/c/7fYYTcr8AK1](https://news.ifeng.com/c/7fYYTcr8AK1)                       |
+> | Author          | 现代快报                               |
+> | Region          | 英国                               |
+> | Date            | 2008-05-03                                 |
+> | Tags            | 跨性别, 变性手术, 法律政策, 同性婚礼, 生存现状, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

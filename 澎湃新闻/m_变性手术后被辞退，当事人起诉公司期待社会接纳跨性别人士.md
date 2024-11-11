@@ -83,7 +83,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了首例跨性别平等就业权纠纷案的详细情况。小马，原为杭州某文化传媒公司的员工，完成性别重置手术后被公司以“多次迟到”为由辞退。小马认为其遭受了性别歧视，并决定起诉公司以维护自身的平等就业权。文件详细叙述了小马的经历，辞退经过以及她在法律上采取的行动，包括劳动仲裁和法院起诉的过程。小马希望通过公开其经历，提升社会对跨性别者的认知和接纳。该案是国内关于跨性别者就业权的首起法律诉讼，反映了当前社会对跨性别平等权利的法律保护现状以及存在的问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -92,12 +92,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性手术后被辞退，当事人起诉公司期待社会接纳跨性别人士.md                             |
 > | Size            | 8145 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 10:14:19                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=5148837&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=5148837&from=wifiKey)                       |
+> | Author          | 红星新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2019-12-05                                 |
+> | Tags            | 跨性别, 平等就业权, 法律, 社会接纳, 生命故事, 社会环境, 劳动法                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

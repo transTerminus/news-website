@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于奥斯卡影帝小雀斑（埃迪·雷德梅恩）在电影《丹麦女孩》中所扮演的变性人角色莉莉·艾尔巴的采访记录。小雀斑在采访中提到，他在接下这个角色前的准备过程，以及对角色的研究和理解，尤其是关于莉莉在变性人群体中的重要性。文章还提到，小雀斑认为这一角色将会是一次独特的体验，尽管他知道接演这个角色可能会受到不同声音的争议。该文对电影与跨性别群体之间的联系进行了探讨，反映了小雀斑作为演员在进入这一角色时的谨慎态度和努力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -34,12 +34,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_小雀斑“变性”影帝角色.md                             |
 > | Size            | 1564 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:25:46                             |
+> | Original Link   | [https://news.ifeng.com/a/20150322/43390548_0.shtml](https://news.ifeng.com/a/20150322/43390548_0.shtml)                       |
+> | Author          | 信息时报                               |
+> | Region          | 未知                               |
+> | Date            | 2015-03-22                                 |
+> | Tags            | 跨性别电影, 莉莉·艾尔巴, 埃迪·雷德梅恩, 变性人角色, 奥斯卡影帝                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

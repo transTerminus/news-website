@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名年轻男子在B超检查中发现自己有子宫的罕见病例，他的染色体为46XY，外表特征为男性，同时有经历例假及下腹部疼痛的症状。医生对此病例进行了详细解析，指出这是一种罕见的“两性畸形”疾病，涉及到性别认同和医疗干预的复杂问题。文章中提到，医生会根据患者的性别自我认知来决定后续的医疗方案，包括是否进行手术和保留哪些生殖器官。此外，医师还强调了对患者心理健康的关注以及公众对这类疾病的理解和接受的重要性。文章引用了类似的历史案例，进一步说明了这种罕见疾病的复杂性和治疗方案的敏感性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -48,12 +48,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_男子B超发现有子宫，医生：患罕见“两性畸形”，要看其想以什么性别_.md                             |
 > | Size            | 4950 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:09:34                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_21876762](https://m.thepaper.cn/newsDetail_forward_21876762)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-02-09                                 |
+> | Tags            | 跨性别, 性别认同, 两性畸形, 医疗案例, 心理健康, 社会接受度                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

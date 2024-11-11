@@ -15,7 +15,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名罪犯在经历变性手术后的生活故事，涉及跨性别身份的主题以及接受医疗过程中的情感转变。文章讲述了一位侵犯他人女儿的凶手在监狱中接受变性手术后的生活变化，以及变性后他对整容医生的情感依赖与爱的颠覆性发展。这篇文章反映了跨性别者在社会、情感和法律层面可能面临的复杂情况与冲突，引发了人们对于跨性别身份的理解和接受的思考。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -24,12 +24,12 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > |-----------------|----------------------------------------|
 > | Filename        | i_整容医生将侵犯女儿凶手变性，变性后却爱上医生.md                             |
 > | Size            | 842 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:27:07                             |
+> | Original Link   | [https://i.ifeng.com/c/8NNUFfGCkuI](https://i.ifeng.com/c/8NNUFfGCkuI)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-02-13                                 |
+> | Tags            | 跨性别, 变性, 医疗经历, 情感关系, 法律与社会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

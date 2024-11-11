@@ -19,7 +19,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了西北大学一名男生李渊因其男扮女装而在网络上迅速走红的事件。李渊的打扮受到了广泛关注和喜爱，尤其是在某些社交媒体和社区中，他的美貌引起了许多网友的赞美。李渊在采访中提到，他对于自己在网络上的爆红感到意外，并表示目前他并没有想要谈恋爱或者变性的打算。他通过梳妆打扮来表达对他人的一种尊重，展现了性别表达自由的理念。这篇文章不仅反映了当代大学生对性别认同和社会期待的思考，也展示了网络文化对个人形象塑造的影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -28,12 +28,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_西北大学男生男扮女装惊艳网络没想过变性还没恋爱.md                             |
 > | Size            | 1213 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:57:56                             |
+> | Original Link   | [https://news.ifeng.com/a/20140728/41340155_2.shtml](https://news.ifeng.com/a/20140728/41340155_2.shtml)                       |
+> | Author          | 华商报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2014-07-28                                 |
+> | Tags            | 男装女扮, 西北大学, 性别表达, 网络文化, 社会关注, 青春故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

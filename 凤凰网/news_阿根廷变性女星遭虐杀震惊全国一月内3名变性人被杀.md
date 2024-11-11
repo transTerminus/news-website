@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了阿根廷变性女星戴安娜·萨卡因在2015年被杀的事件，揭示了一系列针对变性人的暴力案件。内容详细描述了萨卡因尸体的发现过程，警方对案件的调查情况，以及阿根廷社会对变性人权利的关注。文章指出，这是一个月内发生的第三起变性人谋杀案，受害者在遭受暴力后被发现，尸体有明显的刀伤痕迹。阿根廷总统对此事件表示关切，呼吁加强警察的合作调查，体现出政府对于变性人保护的承诺。同时，记录了阿根廷作为少数几个官方承认变性人性别的国家之一的背景。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -41,12 +41,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_阿根廷变性女星遭虐杀震惊全国一月内3名变性人被杀.md                             |
 > | Size            | 2512 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:38:11                             |
+> | Original Link   | [https://news.ifeng.com/a/20151016/45202636_0.shtml](https://news.ifeng.com/a/20151016/45202636_0.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 阿根廷                               |
+> | Date            | 2015-10-16                                 |
+> | Tags            | 变性人, 暴力犯罪, 社会保护, 人权, 法治, 阿根廷                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -42,7 +42,7 @@ Wu Tsang的艺术创作涉及性别、性取向、种族和阶级，其主题涵
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了华裔跨性别艺术家Wu Tsang及其在艺术领域的创作与影响。Wu Tsang生活在洛杉矶，以其对性别、性取向、种族和阶级的深入探索而闻名。他在2012年参与了惠特尼双年展和新美术馆三年展的展出，展现了如《野》（Wildness）和《化妆间》（Green Room）等作品。此外，Wu Tsang还在广州时代美术馆参与了一场关于艺术和策展的研讨会。在访谈中，他探讨了自己对LGBT酒吧文化的记录以及如何将个人经历与社会政治相结合的创作理念。他的创作不仅探讨了跨性别者的身份认同，也关注对自闭症人群的理解以及外来族裔在当代社会中的地位。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@ Wu Tsang的艺术创作涉及性别、性取向、种族和阶级，其主题涵
 > |-----------------|----------------------------------------|
 > | Filename        | collection_跨性别的华裔艺术家Wu_Tsang_-_收藏-_新浪.md                             |
 > | Size            | 8257 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:30:59                             |
+> | Original Link   | [http://collection.sina.com.cn/hwdt/20120719/111875874.shtml](http://collection.sina.com.cn/hwdt/20120719/111875874.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2012-07-19                                 |
+> | Tags            | 跨性别, 华裔艺术家, Wu Tsang, 性别研究, LGBT文化, 艺术与政治, 社会正义                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

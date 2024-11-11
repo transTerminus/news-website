@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一位黑龙江的19岁年轻人心语在美容机构接受变性手术的故事。他自幼被当作女孩抚养，并在成长过程中形成了女性的心理特征和生活习惯。在手术前，他在社会上以女性身份生活，并致力于寻求合适的医疗单位进行变性手术。整形专家欧阳天祥博士表示，手术对于确认有'异性癖'的患者是经过严格审核的，尽管学术界对该手术的看法存在分歧，但社会应给予理解与支持。同时，文章还包含了一些公众评论，反映了不同人对变性手术的看法，突显社会对跨性别者的复杂情感和态度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -55,12 +55,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_19岁黑龙江小伙接受变性手术成为美女(图).md                             |
 > | Size            | 2368 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:12:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-11-06/detail-ikknscsi8196762.d.html](https://news.sina.cn/sa/2005-11-06/detail-ikknscsi8196762.d.html)                       |
+> | Author          | 李勇                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2005-11-06                                 |
+> | Tags            | 变性手术, 跨性别, 生命故事, 医疗经验, 社会评论, 法律与政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

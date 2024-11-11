@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国人妖（变性人）在接待游客时为何需要服用避孕药，这一现象背后有着复杂的社会和经济原因。文章指出，许多人妖通常来自贫困家庭，从小就被迫接受女性化的训练，包括服用女性荷尔蒙药物和其他药物，以便在成年后能够维持女性的生理特征。由于变性手术昂贵，许多人妖无法承担手术费用，只能依靠药物维持外貌。尤其是避孕药被作为替代药物来延续女性特征，使她们能够在拉客和演出中获得收入。文章探究了这种现象对她们身体和心理的影响，常常透支健康来换取短期的经济利益，令人心痛。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -49,12 +49,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_泰国人妖接待游客的时候，为啥要偷服“避孕药”？答案很现实_-_新浪.md                             |
 > | Size            | 3138 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:07:25                             |
+> | Original Link   | [https://k.sina.cn/article_6743639342_p191f3c52e00100quve.html?from=travel](https://k.sina.cn/article_6743639342_p191f3c52e00100quve.html?from=travel)                       |
+> | Author          | 未知                               |
+> | Region          | 泰国                               |
+> | Date            | 未知                                 |
+> | Tags            | 人妖, 泰国, 文化, 性别认同, 避孕药, 变性, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

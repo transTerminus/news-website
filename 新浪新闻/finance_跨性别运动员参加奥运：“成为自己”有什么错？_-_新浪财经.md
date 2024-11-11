@@ -148,7 +148,7 @@ RNZ (2017, December 7). Laurel Hubbard: I have to block out the criticism. https
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别运动员在奥运会上参赛的公平性及其背后的社会与生物学争议。以新西兰跨性别举重运动员劳雷尔·哈伯德为例，她在经历了激素疗法后于2017年重返赛场，并成为首位参加奥运的跨性别女性运动员。文章指出，尽管国际奥委会制定了参赛标准，并确认哈伯德符合条件，但仍然存在激烈的公共讨论，质疑她的参赛对其他女性运动员是否公平。文中提及，跨性别者在追求身份认同的过程中面临诸多挑战，尤其是在体育竞技领域，这些挑战不仅关乎技术与训练，也深刻地反映了社会对性别认同的偏见与误解。此外，文章探讨了跨性别群体与其他性少数群体之间的关系，以及跨性别者在社会中的边缘化问题，强调了多元性别认同的重要性和复杂性。最后，讲述了哈伯德自我认知的旅程以及竞技体育的包容性问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -157,12 +157,12 @@ RNZ (2017, December 7). Laurel Hubbard: I have to block out the criticism. https
 > |-----------------|----------------------------------------|
 > | Filename        | finance_跨性别运动员参加奥运：“成为自己”有什么错？_-_新浪财经.md                             |
 > | Size            | 25470 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:29:06                             |
+> | Original Link   | [https://finance.sina.com.cn/wm/2021-08-04/doc-ikqciyzk9568178.shtml](https://finance.sina.com.cn/wm/2021-08-04/doc-ikqciyzk9568178.shtml)                       |
+> | Author          | 新京报，王嘉吟                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-08-04                                 |
+> | Tags            | 跨性别, 奥运会, 运动员, 性别认同, 社会公平, 生物学优劣, 健康与权益, 性别政治, 女性运动员, 跨性别者的挑战                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

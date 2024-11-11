@@ -20,7 +20,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名实习医生丛林因未取得医生执业资格而私自为他人进行变性手术，导致对方生育能力丧失的事件。根据检察日报的消息，丛林与李某通过变性手术的QQ群相识，经过几次沟通后李某请求丛林帮助他进行手术。手术在丛林的宿舍内进行，事后李某因出现身体虚弱被送往医院，经检测确认丛林的手术致其双侧睾丸缺失，构成重伤。在案件中，丛林因非法行医被检察院提起公诉，这一事件反映了在跨性别医疗过程中的法律和伦理问题，及其潜在的严重后果。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -29,12 +29,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_实习医生私自帮人做变性手术致对方丧失生育能力，被提起公诉.md                             |
 > | Size            | 1375 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:07:14                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1704076](https://m.thepaper.cn/newsDetail_forward_1704076)                       |
+> | Author          | 未知                               |
+> | Region          | 江苏省盐城市                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 医疗, 非法行医, 法律案例, 身体健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

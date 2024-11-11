@@ -187,8 +187,8 @@ Twitter上的回应是恶毒的；罗琳后来记得自己被称为“叛徒”�
 > |-----------------|----------------------------------------|
 > | Filename        | m_人物_J.K.罗琳的蜕变.md                             |
 > | Size            | 19368 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:28:23                             |
+> | Original Link   | [https://m.thepaper.cn/baijiahao_18951323](https://m.thepaper.cn/baijiahao_18951323)                       |
 > | Author          | 胡安（译）                               |
 > | Region          | 未知                               |
 > | Date            | 2022-07-11                                 |

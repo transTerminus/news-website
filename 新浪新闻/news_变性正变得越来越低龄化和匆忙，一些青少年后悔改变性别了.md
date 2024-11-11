@@ -113,7 +113,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章由美媒《纽约邮报》报道，探讨了当前跨性别青少年转变性别的现象，特别关注到这一趋势呈现出越来越低龄化和匆忙的特点，许多青少年在变性后感到后悔。文中通过克洛伊·科尔和海伦娜·克施纳的个人经历，揭示了他们在未经过充分心理健康评估的情况下，便开始了性别转变的过程。他们的故事反映了社交媒体对青少年心理的影响，以及变性医疗可能带来的不可逆转的后果。报告强调，在未成年人的变性医疗决策中，心理健康问题及其未被充分探讨的风险需要引起重视，同时对变性过程中的医疗干预是否合规也提出了疑问。随着越来越多的青少年选择医疗变性，相关专家呼吁对这一现象进行更深入的反思与讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -122,12 +122,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性正变得越来越低龄化和匆忙，一些青少年后悔改变性别了.md                             |
 > | Size            | 12668 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:46:00                             |
+> | Original Link   | [https://news.sina.cn/2022-06-19/detail-imizirau9379133.d.html](https://news.sina.cn/2022-06-19/detail-imizirau9379133.d.html)                       |
+> | Author          | 观察者网                               |
+> | Region          | 美国                               |
+> | Date            | 2022-06-19                                 |
+> | Tags            | 跨性别, 青少年, 性别转变, 医疗风险, 心理健康, 社交媒体影响                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

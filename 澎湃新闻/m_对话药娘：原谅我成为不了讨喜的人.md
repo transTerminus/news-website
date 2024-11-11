@@ -61,7 +61,7 @@ Y | 大概不会吧，因为吃了好几年药，性功能方面早就不大行�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇对话记录，主要内容是对药娘现象的探讨。作者围炉通过与跨性别者雨曦的对话，深入了解她的个人经历和跨性别群体的困境与挑战。雨曦描述了自己从小到大的性别认知和成长过程，以及对性别认同障碍的认识。讨论中提到荷尔蒙治疗、性别认同与生物性别的不一致以及社会对于跨性别者的认知偏差。对话还触及了与二次元文化、精神疾病的关系，以及药娘身份的社会圈子复杂性。整体情感深沉且引人深思，揭示了跨性别者在寻求身份认同与接受过程中所经历的痛苦和挣扎。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -70,12 +70,12 @@ Y | 大概不会吧，因为吃了好几年药，性功能方面早就不大行�
 > |-----------------|----------------------------------------|
 > | Filename        | m_对话药娘：原谅我成为不了讨喜的人.md                             |
 > | Size            | 3601 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:41:14                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10591903](https://m.thepaper.cn/newsDetail_forward_10591903)                       |
+> | Author          | 围炉weiluflame                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-01-01                                 |
+> | Tags            | 跨性别, 药娘, 性别认同, 荷尔蒙治疗, 生命故事, 社会困境, 二次元文化, 精神健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

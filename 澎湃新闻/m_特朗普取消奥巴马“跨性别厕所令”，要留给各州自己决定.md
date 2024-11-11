@@ -17,7 +17,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了特朗普总统在2017年2月22日取消了前总统奥巴马实施的《跨性别厕所令》。这项政策在2016年5月由美国联邦司法部和教育部联合发布，要求公立学校允许跨性别学生根据自身认定的性别使用卫生间和更衣室，而非按照出生时登记的性别。然而，该政策引发了激烈争议，部分地区的保守派人士对此表示反对。特朗普政府在取消该政策时表示，出于法律混乱和诉讼风险，认为此类问题应由各州来决定。虽然撤销了这一政策，但政府表示反欺凌保护措施不会被取消。文章还提到特朗普指出，与跨性别者相关的权利问题最好留给美国的50个州来解决。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -26,12 +26,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_特朗普取消奥巴马“跨性别厕所令”，要留给各州自己决定.md                             |
 > | Size            | 1591 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:07:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1625665](https://m.thepaper.cn/newsDetail_forward_1625665)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2017-02-22                                 |
+> | Tags            | 跨性别权利, 法律政策, 特朗普, 奥巴马, 教育                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

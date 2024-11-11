@@ -299,7 +299,7 @@ WHO曾强调，“性别行为差异和偏好”，无法做为诊断是否患�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了因J·K·罗琳对跨性别者态度的不当言论而引发的网络攻击与争议，强调了跨性别群体在社会中的边缘化和遭受误解的现状。文章指出，罗琳在社交媒体上的讲话否定了跨性别者的身份，引发了公众的强烈反对。多位《哈利·波特》系列演员和跨性别艺术家也对此作出了回应，表达了对跨性别者的支持和理解。此外，文件深入探讨了早期影视作品中对跨性别者的刻板印象及其对社会认知的影响，反思了跨性别者的真实生活状态及法律和社会的挑战，提到国际间的相关统计数据和调查，指出了跨性别者在教育和就业上所面临的困境。最后，文章呼吁公众对跨性别者表示理解与尊重，促进对其权利的保护。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -308,12 +308,12 @@ WHO曾强调，“性别行为差异和偏好”，无法做为诊断是否患�
 > |-----------------|----------------------------------------|
 > | Filename        | m_全网攻击，划清界限，她这张嘴激怒了千万人.md                             |
 > | Size            | 13443 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:45:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8330851](https://m.thepaper.cn/newsDetail_forward_8330851)                       |
+> | Author          | 大表妹 影探                               |
+> | Region          | 中国                               |
+> | Date            | 2023-01-01                                 |
+> | Tags            | 跨性别, 性别认同, 公共卫生, 社会环境, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

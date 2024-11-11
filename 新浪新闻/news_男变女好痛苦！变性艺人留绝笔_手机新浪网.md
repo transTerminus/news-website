@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于梦琪，一位在海口定居的变性艺人。文中纪录了她在网上发布的一封绝笔书，表达了对社会歧视与生存困境的无奈和抗争。梦琪在信中提到自己经历的痛苦与挣扎，质问社会为何对她这样的变性人如此不公，表明她在变性手术后的生活中仍然遭受歧视和孤立。文中详细描述了她的背景，包括她的出生地和音乐事业，以及她因情绪不稳定和遭遇的烦恼而失踪的事件。文章还提到了梦琪的母亲对女儿安全的担忧，这表明了家庭在她的生活中所扮演的重要角色。此文件突显了变性人在社会中的困境，以及公众对这一群体的认识和接受度尚需改善，是对跨性别问题的重要记录。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -63,12 +63,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男变女好痛苦！变性艺人留绝笔_手机新浪网.md                             |
 > | Size            | 7125 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:43:37                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-01-26/detail-ikknscsk1754515.d.html](https://news.sina.cn/sa/2007-01-26/detail-ikknscsk1754515.d.html)                       |
+> | Author          | 南海网-南国都市报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-01-26                                 |
+> | Tags            | 跨性别, 变性艺术家, 社会歧视, 生命故事, 绝笔书, 医疗经验, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

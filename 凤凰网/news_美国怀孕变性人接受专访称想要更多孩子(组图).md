@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件由凤凰网报道，讲述了世界首位怀孕变性人托马斯-比提（Thomas Beatie）与妻子南希的故事。他们在专访中表现出对即将成为父母的期待与喜悦。托马斯在10年前完成了变性手术，成为法律上的男性，但因未进行生殖器官改造，仍保留了女性生育的生理功能，在怀孕期间，托马斯分享了他对孩子出生的期待，已准备好迎接女儿的到来，并希望未来能有更多孩子。此外，文件中还包含了托马斯的孕期照片，展现了他在怀孕后生活的日常和幸福。整篇报道不仅聚焦托马斯的个人经历，也反映了跨性别者在生育与家庭生活中的可能性和挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -41,12 +41,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国怀孕变性人接受专访称想要更多孩子(组图).md                             |
 > | Size            | 2202 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:28:35                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200806/0612_344_593806.shtml](https://news.ifeng.com/society/2/200806/0612_344_593806.shtml)                       |
+> | Author          | 黄欢                               |
+> | Region          | 美国                               |
+> | Date            | 2008-06-12                                 |
+> | Tags            | 怀孕, 变性人, 家庭, 父母, 托马斯-比提, 生育                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

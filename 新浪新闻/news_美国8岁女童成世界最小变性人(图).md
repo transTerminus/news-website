@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了乔茜·罗米罗（原名约瑟夫）这位美国8岁女童的变性故事。她从小自我认同为女孩子，尽管出生时被认定为男性。随着年龄的增长，乔茜开始表达她的性别认同，甚至在两三岁时就已经倾向于女孩子的活动与玩具。经过专业医生的确认和家庭的支持，乔茜的父母决定尊重她的性别认同，并开始将她视为女孩子。她的法律身份也随之变更，成为全球年龄最小的变性人。乔茜在当时面临着社会各方面的挑战，包括接受心理咨询和等待进一步的身体转变治疗，同时也是变性儿童的代言人，积极参与公众演讲，分享她的经历。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -48,12 +48,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国8岁女童成世界最小变性人(图).md                             |
 > | Size            | 3071 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:09:30                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-10-19/detail-ikftpnny4197442.d.html](https://news.sina.cn/sa/2009-10-19/detail-ikftpnny4197442.d.html)                       |
+> | Author          | 杨欣                               |
+> | Region          | 美国                               |
+> | Date            | 2009-10-19                                 |
+> | Tags            | 变性人, 性别认同, 跨性别儿童, 社会接受, 心理健康, 法律变更, 变性经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

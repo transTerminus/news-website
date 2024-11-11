@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了常见的性激素类药物，主要分为三类：雌激素药物、孕激素药物和雄激素药物。雌激素类药物如雌二醇，用于补充雌激素分泌不足，适合在止血人工周期或更年期激素替代治疗中使用。孕激素药物如黄体酮等，主要用于避孕、补充孕激素不足及保胎。在男科领域，雄激素药物如非那雄胺虽在妇产科应用较少，却也有其特定用途。文中详细列举了各类药物的功能和适用领域，为跨性别人士及相关医务人员提供了宝贵的药物信息和使用参考。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -34,12 +34,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_性激素药物有哪些-爱问健康网.md                             |
 > | Size            | 1006 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:16:35                             |
+> | Original Link   | [https://m.yyk.iask.sina.com.cn/q/878S9Pwgx4Rt.html](https://m.yyk.iask.sina.com.cn/q/878S9Pwgx4Rt.html)                       |
+> | Author          | 匆匆                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2024-05-17                                 |
+> | Tags            | 性激素, 药物, 跨性别医疗, 雌激素, 孕激素, 雄激素, 医学资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

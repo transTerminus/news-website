@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了杭州一名男子通过手术变性为女性后遭到工作单位解雇的事件。根据报道，原告小蓝（化名）于2015年入职杭州某文化创意公司，并于2018年接收性别重置手术，术后回公司再次上班。公司却以小蓝多次迟到为由解除与其的劳动关系。小蓝认为，这一行为是对其跨性别身份的歧视，并表示公司未对其他员工采取同样的措施。案件于2019年1月底在杭州市滨江区人民法院开庭审理，法庭未作当庭判决，将择期宣判。这一案件反映了跨性别者在求职和工作中面临的法律与社会挑战，使其公平就业权受到损害。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,12 +39,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_杭州男子变性后遭公司解雇，以损害公平就业为由诉赔并要道歉.md                             |
 > | Size            | 2717 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 10:13:41                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=5138773&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=5138773&from=wifiKey)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2019-01-31                                 |
+> | Tags            | 跨性别就业权, 劳动争议, 性别歧视, 法律案件, 跨性别者权益                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

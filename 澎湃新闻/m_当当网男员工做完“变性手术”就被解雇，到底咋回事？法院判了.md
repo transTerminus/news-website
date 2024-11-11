@@ -119,7 +119,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档详细描述了当当网一名员工因进行变性手术而被解雇一事，揭示了与性别认同、职场歧视及法律伦理相关的问题。事件起因于员工高某某在进行性别重置手术后向公司请假休养，但在请假期间，虽然其主管同意休假，员工关系管理员却以‘旷工’为由解除劳动合同。文章记录了法院对该案件的一审和二审判决，最终法院认定当当网的解除劳动合同行为为违法，要求其继续履行与高某某的劳动合同，并分享了重要的法律条款和对于变性人权益的保护。文中不仅探讨了这一事件的法律结果，还涉及对跨性别者权利的社会讨论，以及对企业用人单位的社会责任的呼吁，反映出当代中国在性别认同与职场平等方面的矛盾与挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -128,12 +128,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_当当网男员工做完“变性手术”就被解雇，到底咋回事？法院判了.md                             |
 > | Size            | 9720 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:44:49                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8176623](https://m.thepaper.cn/newsDetail_forward_8176623)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2019-01-01                                 |
+> | Tags            | 跨性别, 变性手术, 劳动法, 就业歧视, 法律案例, 当当网, 性别认同, 职场权益                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

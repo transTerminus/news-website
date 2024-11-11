@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了韩国首名变性军人边某于2021年3月3日在家中去世的事件。边某在接受变性手术后曾被韩国军方勒令退役，导致其在精神上受到极大压力。本文件详细记录了边某的背景信息，包括其曾经在部队服役和此前赴泰国进行的变性手术，以及退役后遭遇的法律窘境。边某在军中服役期间希望继续以女兵身份服役，但因身体变化而被军方认定为有精神障碍，最终被迫退役。文件中还提到边某寻求法律途径取消退役处分的诉讼信息，并包含了当天警方调查的情况，指出警方未发现遗书。这一事件引起了社会的广泛关注和讨论，是对跨性别者在军队中合法权益的思考和探讨。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -54,12 +54,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_韩国首名变性军人死于家中，曾去泰国做手术被韩军勒令退伍.md                             |
 > | Size            | 2219 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:42:31                             |
+> | Original Link   | [https://news.sina.cn/2021-03-04/detail-ikftssaq0920324.d.html](https://news.sina.cn/2021-03-04/detail-ikftssaq0920324.d.html)                       |
+> | Author          | 刘强                               |
+> | Region          | 韩国                               |
+> | Date            | 2021-03-04                                 |
+> | Tags            | 跨性别, 变性军人, 退役, 社会问题, 法律问题, 精神健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

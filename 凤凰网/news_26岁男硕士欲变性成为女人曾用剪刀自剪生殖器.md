@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一名来自河南农村的26岁男硕士生李婷（化名）的跨性别经历。他自小就对女性化的打扮和行为充满向往，在生活中多次表现出内心的挣扎与自我认同的困惑。李婷为追求变性手术而努力工作，但由于经济困难和社会偏见，他在求职过程中屡屡受挫。文章详细描述了李婷在大学时的恋爱经历，包括由于性别认同问题最终导致的分手，以及他对变性手术的渴望，甚至曾多次尝试自残来表达内心的痛苦。李婷希望能够得到心理咨询和亲人的支持，以筹集变性手术的费用，最终实现他的梦想。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -33,12 +33,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_26岁男硕士欲变性成为女人曾用剪刀自剪生殖器.md                             |
 > | Size            | 1738 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:28:46                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200807/0712_344_648756.shtml](https://news.ifeng.com/society/2/200807/0712_344_648756.shtml)                       |
+> | Author          | 祁燕                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-07-12                                 |
+> | Tags            | 跨性别, 变性经历, 性别认同, 心理咨询, 社会偏见, 生命故事, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

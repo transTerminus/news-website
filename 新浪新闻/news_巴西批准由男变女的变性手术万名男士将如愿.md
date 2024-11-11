@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了巴西医疗卫生权力部门在2003年12月批准由男性向女性转化的变性手术的消息。随着这一决定的实施，约有1万名希望接受变性手术的男性可以在公立医院中免费进行手术。文章中提到，早在上个世纪70年代，变性手术就已在巴西秘密进行，90年代进入试验阶段，到了2003年，巴西联邦医学委员会已正式批准这一手术。报道称，联邦医学委员会的主席奥利维拉也表示，这种手术被认为是十分安全的，而目前女性转男性的变性手术则仍处于试验阶段，并需进一步研究才能得到批准。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -40,12 +40,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_巴西批准由男变女的变性手术万名男士将如愿.md                             |
 > | Size            | 1507 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:21:15                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-12-29/detail-ikknscsi2146402.d.html](https://news.sina.cn/sa/2003-12-29/detail-ikknscsi2146402.d.html)                       |
+> | Author          | 施倞                               |
+> | Region          | 巴西                               |
+> | Date            | 2003-12-29                                 |
+> | Tags            | 变性手术, 跨性别, 医疗政策, 巴西, 性别转化, 社会环境记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

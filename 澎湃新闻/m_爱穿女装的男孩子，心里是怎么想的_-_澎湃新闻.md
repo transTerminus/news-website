@@ -121,7 +121,7 @@ z说“对我而言，女装与否与自我性别认知、性取向这些关系�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了近年来男子穿女装现象的文化背景与个人故事。通过多位受访者的采访，揭示了他们对女装的看法、穿着经历及背后的心理动因。一方面，受访者描述了他们从小到大的成长经历，以及他们穿女装的初衷与感受；例如，有受访者提到小时候因兴趣而穿姐姐的裙子，引发了对美的追求。另一方面，文章也剖析了社会对男性穿女装的看法，包括普遍的包容与否定。特别是网络上关于此现象的讨论，呈现出对穿着自由的呼声与现实中遭遇的压力。此外，文中讨论了涉及性别认同的心理因素，以及家庭与社会角色期待对个体行为的影响。最后，作者呼吁社会应更加理解和包容跨性别者的存在与选择。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -130,12 +130,12 @@ z说“对我而言，女装与否与自我性别认知、性取向这些关系�
 > |-----------------|----------------------------------------|
 > | Filename        | m_爱穿女装的男孩子，心里是怎么想的_-_澎湃新闻.md                             |
 > | Size            | 18330 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:17:25                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5150068](https://m.thepaper.cn/newsDetail_forward_5150068)                       |
+> | Author          | 王嘉宇 王爱文 张馨匀 管宸炅 宋雪飞                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 性别认同, 女装, 社会包容, 个人经历, 文化现象, 网络讨论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

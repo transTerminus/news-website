@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇讲述跨性别者变性手术过程的报道，聚焦于一位名叫贝拉的男子在泰国进行变性手术的详细经历。文章通过一系列的照片展示了从手术前的准备到手术过程再到术后恢复的整个转变过程。贝拉在手术开始前进行了全面的体检与医生沟通，显示出这一手术过程的严谨与复杂。在手术进行中，文章多次提到医务人员的紧密配合和对手术细节的重视。此外，文字描述了贝拉术后的喜悦，以及她从过去的身份过渡为新身份的激动，展现了跨性别个人在走向新生活过程中的真实情感与挑战。通过这些生动的描述和照片，读者能够对变性手术有更深入的了解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -64,12 +64,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_人妖是怎样变出来的_直击泰国医院变性细节_-_新浪.md                             |
 > | Size            | 3491 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:05:04                             |
+> | Original Link   | [https://k.sina.cn/article_6470917237_181b25c75001009dfo.html](https://k.sina.cn/article_6470917237_181b25c75001009dfo.html)                       |
+> | Author          | 新浪网                               |
+> | Region          | 未知                               |
+> | Date            | 2018-07-16                                 |
+> | Tags            | 跨性别, 变性手术, 生命故事, 社会关注, 医学, 人妖                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

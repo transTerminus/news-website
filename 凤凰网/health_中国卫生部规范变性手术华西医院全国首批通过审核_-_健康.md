@@ -23,7 +23,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要报道了四川大学华西医院成为全国首批通过卫生部变性手术技术审核的医疗单位的消息。根据报道，四川大学华西医院的烧伤整形科在经历了严格的资质评审后，得到了中国卫生部的认可，成为四川省第一家合法开展变性手术的医院。
+
+报道指出，为了保障变性手术的医疗质量和安全，卫生部早在2009年就对全国范围内的变性手术实行全面叫停，并制定了《变性手术技术管理规范（试行）》。四川华西医院的审核工作经过了专家的全面考察和评审，表明了医院在变性手术方面的技术能力和管理制度的严谨性。文章还提及了变性手术的相关费用，约在5至10万元之间，并强调通过审核的医疗机构为患者的康复提供了保障。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +34,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | health_中国卫生部规范变性手术华西医院全国首批通过审核_-_健康.md                             |
 > | Size            | 2493 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 09:48:25                             |
+> | Original Link   | [http://health.ifeng.com/news/detail_2011_06/02/6794484_0.shtml](http://health.ifeng.com/news/detail_2011_06/02/6794484_0.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2024-11-09                                 |
+> | Tags            | 华西医院, 变性手术, 医疗资源, 跨性别, 法律与政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

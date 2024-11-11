@@ -17,7 +17,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章报道了一名来自云南的21岁女性（化名南南），她由于出生时性别畸形而面临多种社会和心理挑战。南南在家庭中被养育为女孩，尽管她的基因显示她是男性。随着年龄的增长，她逐渐发展出女性特征并对男性产生兴趣。文章详细叙述了南南的生活经历及内心的矛盾，并重点介绍了西京医院为她实施的性别矫正手术。手术成功摘除了南南的睾丸并再造了阴道，使她能够有正常的性生活，但无法生育。此手术被称为“矫正性别畸形手术”，与变性手术有本质的区别。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -26,12 +26,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_两性畸形难了她21年矫正手术圆了女儿梦_-_新浪新闻.md                             |
 > | Size            | 1475 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:38:10                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-10-12/detail-ikkntiam7885527.d.html](https://news.sina.cn/sa/2006-10-12/detail-ikkntiam7885527.d.html)                       |
+> | Author          | 张毅伟, 邹铭车                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-10-12                                 |
+> | Tags            | 跨性别, 性别畸形, 医疗经验, 性别认同, 云南, 社会接受, 性别矫正手术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

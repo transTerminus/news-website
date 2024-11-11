@@ -256,7 +256,7 @@ J.K.罗琳，签名者之一，在推特上喋喋不休地谈论跨性别恐惧�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是对《哈泼斯》杂志上一封公开信的回应，探讨了该信件所引发的关于言论自由与社会责任的争论，并 critiques 了信件签署者的观点。文章提到，反种族歧视运动引起了一些知识分子和文化人的担忧，他们认为这种运动造成了一种 "令人窒息的气氛"，影响了言论自由。然而，作者认为，这封公开信的签署者们并未真正反思自己在压制边缘化人群中所扮演的角色。内容中列举了多个实例来说明这些签署者所提到的言论压制并不是普遍现象，而是某些个案，且许多被边缘化的声音并未得到应有的重视。文章呼应了对社会结构中的权力关系的批判，指出新闻和出版界始终由特权阶层控制，并未重视黑人民众和跨性别人士的声音。此外，指出这些签署者在倡导言论自由的同时却并未考虑其他群体的表达权利，展现出一种双重标准的现象。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -265,12 +265,12 @@ J.K.罗琳，签名者之一，在推特上喋喋不休地谈论跨性别恐惧�
 > |-----------------|----------------------------------------|
 > | Filename        | m_关于《哈泼斯》公开信的公开信.md                             |
 > | Size            | 29652 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:45:19                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8313061](https://m.thepaper.cn/newsDetail_forward_8313061)                       |
+> | Author          | 未知                               |
+> | Region          | 美国                               |
+> | Date            | 2020-07-10                                 |
+> | Tags            | 跨性别, 言论自由, 社会责任, 反种族歧视, 多元文化, 媒体批评                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

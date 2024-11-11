@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为凤凰网发布的一篇粤语报道，讨论了跨性别者在香港更改身份证性别的情况。报道提到，香港平等机会委员会对此事表示不介入，说明社会对于这一议题的复杂态度。文章深入分析了跨性别者在身份认同方面面临的挑战，以及相关政策的现状。这一报道不仅涉及法律和政策的层面，也反映了跨性别者的生存现状。文本中提供了相关链接，并附有重要图片和二维码供读者获取更多信息。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -56,12 +56,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_粤语报道丨跨性别者改身份证性别香港平机会称不介入.md                             |
 > | Size            | 1242 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:38:48                             |
+> | Original Link   | [https://news.ifeng.com/c/8YXZQuXGtAu](https://news.ifeng.com/c/8YXZQuXGtAu)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 香港                               |
+> | Date            | 2024-04-05                                 |
+> | Tags            | 跨性别, 香港, 身份证性别, 法律政策, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

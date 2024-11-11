@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了变性人陈瑜在经历变性手术后首次向社会亮相的故事。文章中提到，经过1个月的康复，陈瑜已经在变性手术后展现出女性的外形，她非常期待以新身份开始自己的职业生涯。根据报道，陈瑜之前曾在某物流杂志工作，因性别认同问题辞职，并决定变性。她表达了希望成为一名体育记者的愿望，并已被湖南长沙一家报社录用，春节后将正式上岗。此文展示了跨性别者在社会中追求自我认同和职业发展的积极态度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +32,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人陈瑜春节后要当美女记者(图).md                             |
 > | Size            | 1246 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:19:38                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-01-14/detail-ikkntiam6358763.d.html](https://news.sina.cn/sa/2006-01-14/detail-ikkntiam6358763.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-01-14                                 |
+> | Tags            | 变性人, 陈瑜, 职业发展, 媒体报道, 跨性别经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -17,7 +17,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细记录了一个名叫罗伊·科尔顿的75岁英国男子的变性经历。罗伊自幼就感到自己是一个活在男人身体中的女人，常常在家中偷偷穿着女性的衣服。尽管他结过三次婚，但由于异装癖，所有妻子都选择与他离婚。五年前，刚刚过完70岁生日的他正式宣布变性，开始以女性身份生活，并将名字改为雷切尔·弗利特沃德。此举不仅令朋友和家人震惊，也使雷切尔成为英国最年长的变性人。文章还附有图片和相关评论信息。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -26,12 +26,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国75岁男子变性异装癖致多次离婚(图).md                             |
 > | Size            | 1024 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:30:45                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200909/0916_344_1350870.shtml](https://news.ifeng.com/society/2/200909/0916_344_1350870.shtml)                       |
+> | Author          | 李志题                               |
+> | Region          | 英国                               |
+> | Date            | 2009-09-16                                 |
+> | Tags            | 雷切尔, 异装癖, 变性, 离婚, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

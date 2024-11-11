@@ -259,7 +259,7 @@ All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/cop
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了一位名为灵儿的跨性别者在家庭和医疗环境中所经历的痛苦故事。灵儿生理性别为男性，性别认同为女性。文章详细描述了她被父母送往精神病专科医院并经历改良电休克治疗（MECT）的经过。灵儿在医院被误诊为‘焦虑障碍和自我不和谐的性取向’，并在未经同意的情况下接受了多次非必要的电击治疗。她与父母的关系因她的性别认同而变得紧张，并导致她在出院后流浪于外，面对社会的孤立与压力。文章也反映了社会对跨性别群体的偏见和误解，以及医疗系统对跨性别者心理健康的忽视。文本中提到的相关数据和研究揭示了跨性别者所面临的家庭和社会挑战，以及需要改善的地方。这个故事不仅是灵儿个人的经历，也是对跨性别者整体生存状态的反思和揭示。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -268,12 +268,12 @@ All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/cop
 > |-----------------|----------------------------------------|
 > | Filename        | finance_遭电击治疗，一位跨性别者决定起诉_-_新浪财经.md                             |
 > | Size            | 24974 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:23:40                             |
+> | Original Link   | [https://finance.sina.com.cn/jjxw/2024-09-24/doc-incqfhau9380637.shtml](https://finance.sina.com.cn/jjxw/2024-09-24/doc-incqfhau9380637.shtml)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2024-09-24                                 |
+> | Tags            | 跨性别者, 性别认同, 医疗经历, 法律问题, 社会环境, 家庭关系, 精神健康, 改革, 抑郁, 焦虑                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

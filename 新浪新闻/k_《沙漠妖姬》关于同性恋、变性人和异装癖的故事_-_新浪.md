@@ -29,7 +29,7 @@ _![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20240110/c1d4-406d0172da0b2d2
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《沙漠妖姬》是一部经典的变装皇后电影，讲述了三个主要人物的故事：同性恋者米芝，一个曾经结过婚并有儿子的男人；年轻的同性恋费丽茜；还有迈入老年的变性人班丽娜。文中探讨了异装与性别身份的复杂性，反对将性别归纳为单一的二元论。作者强调异装与性别认同障碍的不同，认为每个人的性别表达都是一种渐变的光谱，不能简单地用男性或女性来定义。同时，文中也指出社会对性别少数群体的偏见，以及变性人在生理改造下与自身身份的关系。整个文章带有对社会性别观念的深刻反思，展现了跨性别群体的多样性和他们所面临的挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -38,12 +38,12 @@ _![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20240110/c1d4-406d0172da0b2d2
 > |-----------------|----------------------------------------|
 > | Filename        | k_《沙漠妖姬》关于同性恋、变性人和异装癖的故事_-_新浪.md                             |
 > | Size            | 4140 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:39:10                             |
+> | Original Link   | [https://k.sina.cn/article_1659562320_62eae950001001toc.html](https://k.sina.cn/article_1659562320_62eae950001001toc.html)                       |
+> | Author          | 连农农                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2017-11-08                                 |
+> | Tags            | 跨性别, 变性人, 性别认同, 同性恋, 文化分析, 电影评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

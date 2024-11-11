@@ -77,7 +77,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别群体在提升声音表现方面的治疗进展，强调了声学疗法在帮助跨性别者更好地表达自身身份中的重要性。文中以跨性别女性索菲·马拉特的经历为线索，描述了她如何学习改变自己的声音，参加了纽约大学的声学治疗课程，以达到更加女性化的声音。文章提到，许多跨性别者在转变过程中选择通过语音治疗帮助声音重塑，而越来越多的医疗专业人士也开始认识到这一治疗的重要性。此外，跨性别声音治疗的需求在过去十年间显著增长，越来越多的年轻跨性别者也开始寻求帮助。专家们认为，声音的音高、共鸣和语调是影响声音性别化的重要因素，而这一过程可能需要数月的时间和坚持的家庭练习。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -86,12 +86,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | itech_跨性别人群现在可以接受一种治疗，让自己听起来更真实_-_凤凰网.md                             |
 > | Size            | 9771 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:05:31                             |
+> | Original Link   | [http://itech.ifeng.com/44580885/news.shtml](http://itech.ifeng.com/44580885/news.shtml)                       |
+> | Author          | 好奇心日报                               |
+> | Region          | 未知                               |
+> | Date            | 2017-04-30                                 |
+> | Tags            | 跨性别, 声音治疗, 医疗资源, 生活经历, 性别认同, 跨性别政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

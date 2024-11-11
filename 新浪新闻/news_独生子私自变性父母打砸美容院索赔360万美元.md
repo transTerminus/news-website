@@ -99,7 +99,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位名叫谢小馨（化名）的福建宁德籍男生在未通知父母的情况下进行变性手术的故事。小馨在福州一所整形美容医院完成了手术后，变身为女性，并在2006年环球国际小姐大赛福建赛区获得了最上镜奖。然而，小馨的父母在得知这一消息后，无法接受儿子变成女儿的现实，寻求赔偿并在美容院大闹。文件详细描写了小馨的身份认同和变性经历，以及家庭对其选择的反应。小馨在采访中坦言，尽管对家人的隐瞒感到内疚，但她对自己的选择没有后悔。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -108,12 +108,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_独生子私自变性父母打砸美容院索赔360万美元.md                             |
 > | Size            | 7803 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:40:20                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-11-10/detail-ikftpnny3765768.d.html](https://news.sina.cn/sa/2006-11-10/detail-ikftpnny3765768.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-11-10                                 |
+> | Tags            | 跨性别, 变性手术, 生活故事, 家庭关系, 社会反应, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

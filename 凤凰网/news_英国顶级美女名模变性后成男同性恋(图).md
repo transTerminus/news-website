@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了凯瑟琳·达尔顿（后改名艾德利安）从一位顶级英国美女名模到变性成为男同性恋者的故事。凯瑟琳自小在一个女子寄宿学校上学，但因性格孤僻而被同学嘲笑。尽管她在16岁时惊艳变身为美丽模特，但内心深处她对自身性别认同的困惑始终未解。2005年，在经历了长时间的内心挣扎后，她决定进行变性手术，手术费用高达3万英镑。变性后，艾德利安对自己的新生活感到非常满意，决心追寻与男性的爱情，并在工作的同时，夜晚穿上女性服装在夜总会走穴。她的故事反映了跨性别者在追求内心真实自我的过程中所面临的挑战与选择。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,12 +39,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国顶级美女名模变性后成男同性恋(图).md                             |
 > | Size            | 2937 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:32:04                             |
+> | Original Link   | [https://news.ifeng.com/society/4/200801/0128_346_379808.shtml](https://news.ifeng.com/society/4/200801/0128_346_379808.shtml)                       |
+> | Author          | 现代快报                               |
+> | Region          | 英国                               |
+> | Date            | 2008-01-28                                 |
+> | Tags            | 跨性别, 变性, 男同性恋, 生命故事, 性别认同, 医疗经验, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -20,7 +20,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇来自凤凰网的图片故事，详细记录了在沈阳市杏林整形医院进行的变性手术全过程。故事的主角是变性人老陈，他在2006年12月12日接受了第二次手术，进行隆胸和喉结手术。手术过程中，老陈的妻子和女儿在旁陪伴，关心他的手术进展。医院的院长提到，本次隆胸手术使用的硅胶材料是从英国特制而来，整个手术过程持续了一个小时。通过这篇文章，读者可以深入了解变性人手术的真实情况以及手术前后的等待与情感。同时，该文也带有一些评论区的信息，提示读者对言论负责。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -29,12 +29,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_图片故事：直击沈阳变性人手术全过程.md                             |
 > | Size            | 1049 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:24:11                             |
+> | Original Link   | [https://news.ifeng.com/photo/200612/1213_24_47782.shtml](https://news.ifeng.com/photo/200612/1213_24_47782.shtml)                       |
+> | Author          | 凤凰资讯                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-12-13                                 |
+> | Tags            | 变性手术, 跨性别, 沈阳, 医疗故事, 个人经历, 社会关注                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

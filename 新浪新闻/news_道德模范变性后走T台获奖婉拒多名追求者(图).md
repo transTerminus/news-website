@@ -162,7 +162,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了刘婷（术前名为刘霆）的变性经历和她在广州参加选美比赛的故事。刘婷曾荣获全国道德模范称号，在成功接受变性手术后，成为第一位参加选美比赛的变性人。她在比赛中获得了“最美蝶变奖”和广泛的媒体关注，展现了她追求自我、勇敢面对此前争议的决心。在比赛期间，刘婷在为自己的新身份努力训练，展现出她在形体和舞台表现上的成长。尽管面临个人感情问题，她仍然选择专注于事业，努力争取一份稳定的工作以支持自己的生活。此外，文章也记录了刘婷在机场安检时遇到的性别认同与身份证件不符的困扰，以及她母亲对她发展的支持与期待。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -171,12 +171,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_道德模范变性后走T台获奖婉拒多名追求者(图).md                             |
 > | Size            | 12590 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:32:34                             |
+> | Original Link   | [https://news.sina.cn/2015-09-23/detail-ifxhytxr4092276.d.html](https://news.sina.cn/2015-09-23/detail-ifxhytxr4092276.d.html)                       |
+> | Author          | 京华时报记者张淑玲                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-09-23                                 |
+> | Tags            | 变性, 选美, 道德模范, 生活故事, 医疗经历, 社会环境, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

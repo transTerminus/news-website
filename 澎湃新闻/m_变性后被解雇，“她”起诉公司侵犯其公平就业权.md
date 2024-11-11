@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一起跨性别人士因性别重置手术后被解雇而引发的法律纠纷。故事的主人公，小蓝（化名），在2018年进行了性别重置手术，成为女性。在返回职场后不久，公司以严重违反公司规章制度为由与其解除劳动关系。此次庭审的争议点在于小蓝是否受到基于性别的歧视，公司声称解雇是因其多次迟到。而小蓝则认为，公司的解雇行为是基于其性别转换而进行的歧视。该案于2019年在杭州市滨江区人民法院公开审理，庭审过程安保措施严密，案件仍在进一步审理中，尚未宣判。文章不仅反映了跨性别人士在就业方面的困境，也引发了社会对跨性别平等就业权的关注。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性后被解雇，“她”起诉公司侵犯其公平就业权.md                             |
 > | Size            | 3124 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:35:06                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5138737?url=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737&sinainternalbrowser=topnav&share_menu=1&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E6%B3%95%E5%BE%8B%E8%B5%84%E8%AE%AF%23&featurecode=newtitle%3F&u=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737](https://m.thepaper.cn/newsDetail_forward_5138737?url=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737&sinainternalbrowser=topnav&share_menu=1&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E6%B3%95%E5%BE%8B%E8%B5%84%E8%AE%AF%23&featurecode=newtitle%3F&u=http%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_5138737)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2019-12-03                                 |
+> | Tags            | 跨性别, 就业权, 歧视, 法律案例, 性别重置手术, 劳动关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

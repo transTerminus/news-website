@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了当当网解聘一名接受变性手术的员工一案，涉及反歧视和劳动法的复杂问题。文章指出，当当网的产品总监在进行性别置换手术后，由于未提前请假且长时间未回公司，遭到解聘。案件经过劳动仲裁和两次审判，最终法院裁定当当网错误解聘，强调高管的手术选择在某种程度上应被理解和尊重。文章深入探讨了法律对劳动者的保护与企业的合法要求之间的平衡，以及对LGBTQIA+群体的关注与护航。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_马上评｜当当解聘接受变性手术员工：歧视，还是旷工？.md                             |
 > | Size            | 4830 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 10:15:31                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=8143733&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=8143733&from=wifiKey)                       |
+> | Author          | 澎湃评论                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-07-06                                 |
+> | Tags            | 反歧视, 劳动法, 变性手术, 性别认同, 社会环境, 跨性别权益                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -69,7 +69,7 @@ _![](https://n.sinaimg.cn/sinacn10202/360/w180h180/20191012/be00-ifvwfti7819596.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了多部动漫中涉及性别反转的角色，尤其是那些在故事中经历变性的男性角色，借此展示了性别认同的复杂性和流动性。文章指出，二次元动漫创作常常用夸张和幽默的方式探讨性别议题，比如《后街女孩》中三位黑道成员因犯错而被迫转性，或是在《老子是魔法少女》中男主角变身成妹子后展现的滑稽场景。同时，作品如《乱马1/2》通过设定让角色在水的不同温度下变换性别，探讨了性别认同的本质。文中还提到的《笨蛋、测试、召唤兽》中的角色秀吉，他在外表上看似女性，但实际上是男性，这一设定打破了性别的固定界限，提供了更多关于性别流动性和社会认知的思考。总的来说，这篇文章通过动漫角色的性别变化，引发了对于性别表现和身份认同的深思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -78,12 +78,12 @@ _![](https://n.sinaimg.cn/sinacn10202/360/w180h180/20191012/be00-ifvwfti7819596.
 > |-----------------|----------------------------------------|
 > | Filename        | k_动漫中那些“被变性”的角色——最后一位的性别是“秀吉”_-_新浪.md                             |
 > | Size            | 5915 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:55:02                             |
+> | Original Link   | [https://k.sina.cn/article_6101748127_16bb1499f00100ccqq.html](https://k.sina.cn/article_6101748127_16bb1499f00100ccqq.html)                       |
+> | Author          | 漫饭队长                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2018-11-26                                 |
+> | Tags            | 性别反转, 跨性别, 动漫, 性别认同, 文化研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

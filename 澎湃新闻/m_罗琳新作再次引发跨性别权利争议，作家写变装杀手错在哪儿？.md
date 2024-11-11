@@ -70,7 +70,7 @@ J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为澎湃新闻的文章，主要讨论了J.K.罗琳最新出版的小说《问题之血》引发的跨性别权利争议。文章指出，罗琳在书中描绘了一名穿着异性服装的连环杀手，这引发了跨性别权利活动人士的强烈反对。评论认为，罗琳对跨性别问题的立场，尤其是其在书中的叙事，可能会导致对跨性别群体的误解和伤害。文章援引了多个相关人士的评论，包括对此书情节的分析和罗琳以往的争议，从而深入探讨了跨性别群体在文化表现和社会认同中面临的困境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -79,12 +79,12 @@ J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因
 > |-----------------|----------------------------------------|
 > | Filename        | m_罗琳新作再次引发跨性别权利争议，作家写变装杀手错在哪儿？.md                             |
 > | Size            | 7521 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 21:53:15                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=9199799&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=9199799&from=kuaibao)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-09-16                                 |
+> | Tags            | 跨性别权利, J.K.罗琳, 文学争议, 社会反响, 变装杀手, 文化表现                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

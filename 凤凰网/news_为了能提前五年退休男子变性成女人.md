@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一名阿根廷男子为了提早五年退休，选择变性为女性的故事。该男子在政府任职，通过法律程序将性别和名字改为女性，即使在变性申请时并未经过任何变性手术或激素治疗。阿根廷的法律允许在身份证件上改变性别以符合自我认知，然而这名男子选择变性引发了亲属和媒体的争议。有亲属认为他利用法律的漏洞，试图通过变性获得女性的退休福利，而瑟吉娅则辩称这是个人选择。文章深入探讨了跨性别法律对人的影响，以及法律和道德之间的冲突。整体而言，事件反映出跨性别者在社会及法律面前的复杂地位，以及利用法律的不当行为可能带来的道德争议。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -64,12 +64,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_为了能提前五年退休男子变性成女人.md                             |
 > | Size            | 4049 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:51:48                             |
+> | Original Link   | [https://news.ifeng.com/a/20180327/57087620_0.shtml](https://news.ifeng.com/a/20180327/57087620_0.shtml)                       |
+> | Author          | 饭团                               |
+> | Region          | 阿根廷                               |
+> | Date            | 2018-03-27                                 |
+> | Tags            | 跨性别, 退休年龄, 法律政策, 社会环境, 阿根廷, 性别认同, 个人选择                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

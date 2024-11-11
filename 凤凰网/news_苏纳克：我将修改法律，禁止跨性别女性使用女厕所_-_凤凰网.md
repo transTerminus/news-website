@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了英国首相苏纳克在2024年6月3日的声明，表示如果保守党在即将到来的选举中获胜，将修改《平等法》，明确将性别定义为生理性别，从而禁止跨性别女性使用女士厕所和更衣室。这一提议的背景是保守党希望保护女性空间的安全，避免性别认同引发的法律混乱。文中详细描述了苏纳克及平等事务大臣凯米·巴德诺赫的观点，这些观点未获得跨性别者权益拥护者的支持，并且与反对党工党的立场形成鲜明对比。此外，文中介绍了保守党在民意调查中面临的竞选压力，及其在性别议题上的强硬立场。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -50,12 +50,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_苏纳克：我将修改法律，禁止跨性别女性使用女厕所_-_凤凰网.md                             |
 > | Size            | 3393 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:39:52                             |
+> | Original Link   | [https://news.ifeng.com/c/8a7NPuDoiwI](https://news.ifeng.com/c/8a7NPuDoiwI)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 未知                               |
+> | Date            | 2024-06-03                                 |
+> | Tags            | 跨性别, 性别认同, 法律政策, 英国, 女性权益, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

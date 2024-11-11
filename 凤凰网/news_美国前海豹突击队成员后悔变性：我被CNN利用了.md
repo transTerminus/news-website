@@ -59,7 +59,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了前美国海豹突击队成员克里斯·贝克（Chris Beck）的故事，他在近10年前以变性女性身份出柜后成名，最近却宣布他正在变回男性，并警告美国人关注变性医疗对儿童的潜在危害。贝克表示自己曾被媒体和心理学家利用，以推动跨性别者在军队服役的合法化。他回忆了自己在服用激素治疗后的身体问题，并指责医学界和社会对孩子进行变性医疗的做法。他强调当前的变性医疗已形成产业，并可能导致许多儿童受到伤害，给他们的身心健康带来不可逆转的后果。贝克呼吁大众警惕这些问题，并希望能保护儿童的权益。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -68,12 +68,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国前海豹突击队成员后悔变性：我被CNN利用了.md                             |
 > | Size            | 6430 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:13:22                             |
+> | Original Link   | [https://news.ifeng.com/c/8LgQyMKVCar](https://news.ifeng.com/c/8LgQyMKVCar)                       |
+> | Author          | 魏向宇                               |
+> | Region          | 美国                               |
+> | Date            | 2022-12-12                                 |
+> | Tags            | 变性, 跨性别, 克里斯·贝克, 医疗安全, 儿童权益, 性别转换, 海豹突击队, 心理健康, 媒体利用                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

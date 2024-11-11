@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了变性人李国华在2006年8月8日成功完成第二期变性手术的故事。李国华是深圳首位接受变性手术的人，手术包括面部整形与隆胸，标志着她追求成为女性的旅程中的重要一步。文章详细描述了手术的过程，包括在手术中临时增加的隆下巴颏项目和术后李国华的感受。此外，医院负责人提到，李国华不仅获得了物理上的改变，还将通过学习女性的举止和打扮进一步适应女性身份。手术后，医院还计划陪她回家更改姓名和性别，并为她策划招亲仪式。文章中还包含网友对这一事件的评论，反映了社会对跨性别者的不同看法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -58,12 +58,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人李国华隆胸手术成功欲海选男友_-_新浪新闻.md                             |
 > | Size            | 3994 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:37:26                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-08-09/detail-ikftssap2691315.d.html](https://news.sina.cn/sa/2006-08-09/detail-ikftssap2691315.d.html)                       |
+> | Author          | 南方都市报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-08-09                                 |
+> | Tags            | 变性人, 跨性别, 护理医疗, 社会接受度, 个人故事, 手术经历, 面部整形                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

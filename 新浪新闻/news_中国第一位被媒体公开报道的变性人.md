@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了秦惠英，作为中国第一位被媒体公开报道的变性人，她的故事引发了广泛的社会关注。文章详细讲述了她的过渡经历，从她的性别认同困扰，到她进行变性手术的过程，以及手术后的生活适应和社会压力。秦惠英在经历了自我认同与社会接纳的挑战后，努力寻找属于自己的生活。她的经历包括在复旦大学求学、在云南高校任教，以及因其变性身份所遭遇的职业歧视和社会偏见。尽管如此，她仍然坚持自己的梦想，通过翻译等工作维持生计，并不断奋斗，试图证明自我价值。文章最后提到的她的生活态度，"首先要尊重自己，别人才能尊重你"，是对她经历的深刻反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -65,12 +65,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国第一位被媒体公开报道的变性人.md                             |
 > | Size            | 4654 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:52:08                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-04-26/detail-ikftssap2870413.d.html](https://news.sina.cn/sa/2007-04-26/detail-ikftssap2870413.d.html)                       |
+> | Author          | 戴敦峰                               |
+> | Region          | 中国                               |
+> | Date            | 2007-04-26                                 |
+> | Tags            | 跨性别, 变性人, 生命故事, 社会歧视, 性别认同, 医疗经验, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

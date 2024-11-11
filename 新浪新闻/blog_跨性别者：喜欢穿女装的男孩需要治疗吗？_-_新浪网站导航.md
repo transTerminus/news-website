@@ -111,7 +111,7 @@ DSM第四版的序言中有这样一段话，“无论是行为偏离正常（�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了跨性别者，尤其是喜欢穿女装的男孩子，是否需要治疗的问题。文章引用了关于北京一个心理成长基地的报道，该基地对男孩实施所谓的“角色错位治疗”，费用高昂，内容却饱受质疑。作者指出，性别认同和性取向应由个体自我定义，而不应因障碍化而遭到否认。他分析了性别认同的复杂性以及干预措施，强调治疗的应以提升幸福感为目的，而非简单地遵循社会期待。文中还涉及了跨性别者面临的社会环境、精神健康风险和可行的治疗建议，如激素疗法和变性手术，并提出相应的社会和医疗支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -120,12 +120,12 @@ DSM第四版的序言中有这样一段话，“无论是行为偏离正常（�
 > |-----------------|----------------------------------------|
 > | Filename        | blog_跨性别者：喜欢穿女装的男孩需要治疗吗？_-_新浪网站导航.md                             |
 > | Size            | 14056 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:08:39                             |
+> | Original Link   | [https://blog.sina.com.cn/s/blog_5b2b70620102wvvm.html](https://blog.sina.com.cn/s/blog_5b2b70620102wvvm.html)                       |
+> | Author          | 游识猷                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2016-04-28                                 |
+> | Tags            | 跨性别, 性别认同, 心理健康, 治疗方式, 社会歧视, 性别焦虑, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

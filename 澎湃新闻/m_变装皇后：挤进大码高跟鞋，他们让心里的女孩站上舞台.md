@@ -125,7 +125,7 @@ LGBT变装皇后大赛比赛现场，Maira（左一）正在介绍选手，文�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了一场在上海举行的LGBT变装皇后大赛的背后故事，尤其通过选手Maria和文朗尼的视角，展现了跨性别社群的生存状态与心理历程。Maria作为主持人，分享了他从小穿高跟鞋的梦想与对变装艺术的理解，而文朗尼则讲述了他在成长中对自身性别认同的挣扎和自信的建立。此外，米可的经历也反映出跨性别者在求职、生活等方面的困境和变性手术的渴望。这个文档通过生动的细节描写，展现了跨性别者的生活现实与心声。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -134,12 +134,12 @@ LGBT变装皇后大赛比赛现场，Maira（左一）正在介绍选手，文�
 > |-----------------|----------------------------------------|
 > | Filename        | m_变装皇后：挤进大码高跟鞋，他们让心里的女孩站上舞台.md                             |
 > | Size            | 12134 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:03:01                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1478999](https://m.thepaper.cn/newsDetail_forward_1478999)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2016-04-23                                 |
+> | Tags            | 跨性别, 变装皇后, LGBT, 生活故事, 社会环境, 性别认同, 医疗资源, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

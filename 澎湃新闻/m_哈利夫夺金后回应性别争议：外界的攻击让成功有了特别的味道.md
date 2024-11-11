@@ -15,7 +15,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了在巴黎奥运会拳击项目女子66公斤级决赛中，阿尔及利亚选手哈利夫夺金后的回应以及与性别相关的争议。赛后，哈利夫在新闻发布会上强调她有资格参赛，并指出她与其他女性没有区别，生来就是女性。她的成功受到外界攻击，但她表示这些攻击使得她的胜利变得更加特别。这段经历反映了跨性别运动员在竞技体育中面临的性别争议和社会舆论的挑战，同时也展现了她在压力中的坚定立场和自我认同。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -24,12 +24,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_哈利夫夺金后回应性别争议：外界的攻击让成功有了特别的味道.md                             |
 > | Size            | 1022 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:27:30                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_28369736](https://m.thepaper.cn/newsDetail_forward_28369736)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 性别争议, 体育, 奥运会, 哈利夫                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

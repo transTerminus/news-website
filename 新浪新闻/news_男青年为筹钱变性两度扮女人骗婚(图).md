@@ -99,7 +99,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一个关于男青年韦约的真实故事，他因困境而选择通过男扮女装骗婚来筹集变性手术费。文章开头简要介绍了韦约的背景：他成长在一个贫寒的家庭，因外貌和举止像女性，屡次遭到男性的求婚。韦约在外打工期间，因经济拮据无法支付变性手术费，最终决定以婚姻诈骗的方式筹款。文章详细描述了韦约与多位男性的“婚姻”骗局，包括其骗婚的过程、被捕与入狱的经过，以及他在法庭上的陈述。韦约表示自小就渴望成为女性，并通过这种方式希望能筹得手术费以实现梦想。此案反映了社会对跨性别群体的关注，也对法律和道德问题提出了思考。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -108,12 +108,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男青年为筹钱变性两度扮女人骗婚(图).md                             |
 > | Size            | 7962 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:42:14                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-12-04/detail-ikftpnny3781555.d.html](https://news.sina.cn/sa/2006-12-04/detail-ikftpnny3781555.d.html)                       |
+> | Author          | 文隽永                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-12-04                                 |
+> | Tags            | 跨性别, 骗婚, 变性手术, 社会现象, 生命故事, 法律案例                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

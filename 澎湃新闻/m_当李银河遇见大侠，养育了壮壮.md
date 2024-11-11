@@ -103,7 +103,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章由著名学者李银河撰写，讲述了她与跨性别男性大侠的爱情故事，还描述了他们收养的孩子壮壮的成长经历。李银河通过细腻的笔触，描绘了跨性别者在社会中的真实生活和内心感受，以及爱在性别认同、社会认知和家庭关系中的力量。文章中提到大侠在公共场所如厕带来的尴尬，以及他在李银河家庭中几乎没有感受到的歧视和压力，反映了跨性别人士在社会接纳度上相对女同性恋者的不同。此外，文章描述了壮壮的成长过程，虽然他面临一些心理发展的挑战，但在艺术创作中找到自己的表达方式，让李银河感到欣慰和骄傲。整体而言，这篇文章不仅是对跨性别者爱情和家庭生活的深情描写，也是对社会与文化认知的深入反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -112,12 +112,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_当李银河遇见大侠，养育了壮壮.md                             |
 > | Size            | 19969 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:51:54                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9781427](https://m.thepaper.cn/newsDetail_forward_9781427)                       |
+> | Author          | 李银河                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-05                                 |
+> | Tags            | 跨性别, 爱情故事, 家庭, 社会接纳, 心理健康, 生命故事, 教育经历, 文化反思                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

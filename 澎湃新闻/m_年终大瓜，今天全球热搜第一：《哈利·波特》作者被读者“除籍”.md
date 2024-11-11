@@ -98,7 +98,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于《哈利·波特》作者J·K·罗琳因支持对“LGBT”群体中变性人持反对意见的英国学者Maya Forstater而引发的公共争议的报道。近期，罗琳在社交媒体上对Maya的经历表示支持，导致她在全球范围内引发了广泛的讨论和批评。文章详细介绍了Maya Forstater因其观点而失去工作的经过，并探讨了她所持观点的背景以及与之相关的法律政策变动，这些变动旨在加强变性人的权益。文件中提及了在多元化的社会中，支持和反对LGBT群体的声音交替出现，围绕这一话题的社会舆论变得愈发极端。文中包含的观点涉及对性别自我认同的法律承认及其潜在的社会影响，展示了当代社会在性别议题上的激烈对抗与讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -107,12 +107,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_年终大瓜，今天全球热搜第一：《哈利·波特》作者被读者“除籍”.md                             |
 > | Size            | 7417 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:37:49                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_5304986](https://m.thepaper.cn/newsDetail_forward_5304986)                       |
+> | Author          | 环球时报                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | LGBT, 跨性别者, J·K·罗琳, Maya Forstater, 性别认同, 社会争议, 法律政策, 网络舆论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

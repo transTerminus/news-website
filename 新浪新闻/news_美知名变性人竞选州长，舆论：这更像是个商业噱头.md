@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自新浪新闻，报道了美国知名变性人凯特琳·詹娜（原名布鲁斯·詹纳）竞选加利福尼亚州州长的消息。在当前的政治环境下，因疫情处理不力而面临压力的现任州长加文·纽森的背景下，凯特琳高调宣布参选，声称要为加州“重铸繁荣”。文章指出，尽管凯特琳在LGBT社群中知名度颇高，但其参选举动遭到不少批评，认为她的目的更多是为了自身的商业利益而非真正的公共服务。文中详细介绍了凯特琳的个人经历，包括她的运动生涯、变性过程及家庭情况，并提及她对特朗普的支持引起了部分LGBT人士的不满。该新闻反映了身份认同与政治之间的复杂关系，以及在公众视野中对跨性别政治参与的不同看法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -57,12 +57,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美知名变性人竞选州长，舆论：这更像是个商业噱头.md                             |
 > | Size            | 3756 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:04:01                             |
+> | Original Link   | [https://news.sina.cn/gj/2021-04-28/detail-ikmxzfmk9359910.d.html](https://news.sina.cn/gj/2021-04-28/detail-ikmxzfmk9359910.d.html)                       |
+> | Author          | 环球时报特约记者 刘皓然                               |
+> | Region          | 美国                               |
+> | Date            | 2021-04-28                                 |
+> | Tags            | 跨性别, 凯特琳·詹娜, 政治, 美国州长竞选, 性少数群体, 商业利益                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

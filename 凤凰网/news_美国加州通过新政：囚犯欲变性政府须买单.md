@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了美国加州于2015年10月23日通过的一项新政策，该政策使加州成为第一个为监狱服刑人员提供变性手术及荷尔蒙疗法的州。根据新规，申请变性手术的受刑人员需经过由医疗与心理健康专业人士组成的六人委员会的评估，只有通过投票之后，才能由政府承担相关费用，其中包括胸部和生殖器的手术。该政策的实施源于两名申请变性手术的生理男性受刑人与加州政府的法庭诉讼，最终促成了该政策的通过。尽管这一政策受到变性权益倡导者的赞扬，仍然存在较高的申请门槛，如需要展示特定性别生活达到两年以上等。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -40,12 +40,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国加州通过新政：囚犯欲变性政府须买单.md                             |
 > | Size            | 2608 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:38:45                             |
+> | Original Link   | [https://news.ifeng.com/a/20151023/45969668_0.shtml](https://news.ifeng.com/a/20151023/45969668_0.shtml)                       |
+> | Author          | 凤凰资讯                               |
+> | Region          | 美国                               |
+> | Date            | 2015-10-23                                 |
+> | Tags            | 跨性别, 医疗政策, 法律, 监狱制度, 变性手术, 人权, 社会政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

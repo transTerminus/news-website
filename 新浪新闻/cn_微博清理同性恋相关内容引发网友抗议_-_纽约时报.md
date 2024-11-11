@@ -67,7 +67,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自《纽约时报中文网》，报道了2018年4月14日数以万计的中国居民在社交媒体上抗议新浪微博（中国最受欢迎的社交媒体之一）对与同性恋相关内容的系统性清理。这一举措引发广泛的不满和抗议。抗议者使用了标签 #我是同性恋，不是性变态#，并发布自拍照，表达对审查的不满和对LGBTQ+文化的支持。文章详细阐述了这一事件的背景，包括中国在过去二十年里对同性恋非罪化后的文化环境，以及在习近平治下，如何因网络安全法而加剧了对性的审查。此外，文章提及了许多活动人士对这一审查政策的强烈反对，认为这会进一步加强社会对同性恋者的歧视和误解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -76,12 +76,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | cn_微博清理同性恋相关内容引发网友抗议_-_纽约时报.md                             |
 > | Size            | 5767 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:12:35                             |
+> | Original Link   | [https://cn.nytimes.com/china/20180416/china-gay-ban-sina-weibo-/](https://cn.nytimes.com/china/20180416/china-gay-ban-sina-weibo-/)                       |
+> | Author          | 赫海威, ZOE MOU                               |
+> | Region          | 中国                               |
+> | Date            | 2018-04-16                                 |
+> | Tags            | 微博审查, 同性恋抗议, 网络安全法, LGBTQ+权益, 社会反响, 中国社会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

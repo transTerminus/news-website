@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于韩国著名跨性别女星河莉秀与其丈夫MICKY郑（郑英振）离婚的新闻报道。该报道指出，河莉秀被誉为“最美变性人”，离婚的原因是由于丈夫商业失败导致两人之间产生隔阂，最终协商达成分手。文件中提及了具体的离婚日期为2017年6月12日，并列出了作者与出处信息，表明这则资讯来源于凤凰网。文章还包含了与离婚相关的配图，展示了两位当事人的形象。此外，评论区也记录了一些网友的评论，与离婚事件相关的网络反响可见一斑。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -36,12 +36,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_42岁“最美变性人”河莉秀与丈夫离婚_资讯频道.md                             |
 > | Size            | 756 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:49:56                             |
+> | Original Link   | [https://news.ifeng.com/a/20170613/51237054_0.shtml](https://news.ifeng.com/a/20170613/51237054_0.shtml)                       |
+> | Author          | 黄志鹏                               |
+> | Region          | 韩国                               |
+> | Date            | 2017-06-12                                 |
+> | Tags            | 跨性别, 支持与尊重, 河莉秀, 离婚, 社会现象, 明星动态                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

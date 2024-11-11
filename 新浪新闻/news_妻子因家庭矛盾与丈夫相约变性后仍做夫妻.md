@@ -83,7 +83,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一对新婚夫妻陈立与姜玲的故事，他们因家庭矛盾，决定共同进行变性手术，通过手术调换性别以改善彼此的生活状况。陈立自小性格内向，结婚后将依赖情感寄托于妻子姜玲，而姜玲则因受到婆婆的欺负而希望通过变性成为男方以改变现状。文章详细探讨了他们的内心挣扎以及对家庭关系的看法，展现了变性话题在普通家庭生活中的复杂性与特殊背景。尽管有着不同的动机，夫妻彼此希望在变性后继续共同生活，同时也面临诸如手术费用和术后生活等现实问题的挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -92,12 +92,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_妻子因家庭矛盾与丈夫相约变性后仍做夫妻.md                             |
 > | Size            | 6426 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:28:55                             |
+> | Original Link   | [https://news.sina.cn/sa/2012-08-13/detail-ikmyaawa4119280.d.html](https://news.sina.cn/sa/2012-08-13/detail-ikmyaawa4119280.d.html)                       |
+> | Author          | 冯钧 易征洋                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2012-08-13                                 |
+> | Tags            | 跨性别, 变性经历, 家庭矛盾, 心理依赖, 社会现状, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

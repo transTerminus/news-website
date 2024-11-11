@@ -17,7 +17,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了中国卫生部对变性手术的规范化管理，以及四川大学华西医院通过审核，成为全国首批能够合法开展变性手术的医疗单位。文章中提到，华西医院的烧伤整形科在卫生部组织的技术审核中，得到了专家的充分肯定，尤其是在多年来进行变性手术的专业技术和严谨的管理制度方面。此外，文章指出，为保障医疗质量与安全，卫生部在2009年曾全面叫停变性手术，后再制定并实施了一系列技术管理规范。这项审核的通过，对于患者的治疗与康复具有重要意义，并且手术费用按照全国标准收费，相关治疗的具体费用数据也被清晰列出。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -26,12 +26,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国卫生部规范变性手术华西医院全国首批通过审核.md                             |
 > | Size            | 1832 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:23:46                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-06-02/detail-ikftpnny4807712.d.html](https://news.sina.cn/sa/2011-06-02/detail-ikftpnny4807712.d.html)                       |
+> | Author          | 王光东 郭璇                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2011-06-02                                 |
+> | Tags            | 变性手术, 医疗规范, 四川大学华西医院, 卫生部, 跨性别, 治疗与康复                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

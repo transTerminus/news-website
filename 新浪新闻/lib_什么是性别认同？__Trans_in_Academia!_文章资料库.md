@@ -257,7 +257,7 @@ Andler(Andler, 2017)认为规范相关解释是“顺性别规范性的”，因
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《什么是性别认同？》，是一篇由凯瑟琳·詹金斯（Katharine Jenkins）撰写的论文。主要探讨了性别认同这一概念在跨性别运动中的重要性以及其复杂性。文中指出，性别认同的主流定义并没有被充分理解，常常面临循环定义的问题。文章首先提出了性别认同的六个期望条件，以期对这一概念进行更为合理和有效的阐释。文中讨论了三种性别认同的解释：倾向论解释、自我认同解释和规范相关解释。最后，作者明确认为规范相关解释在满足跨性别权利运动目标方面是最合适的。该文对于跨性别者的权利及如何有效定义性别认同提供了深刻的理论依据和实践指导，是理解当前性别认同讨论的重要文献之一。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -266,12 +266,12 @@ Andler(Andler, 2017)认为规范相关解释是“顺性别规范性的”，因
 > |-----------------|----------------------------------------|
 > | Filename        | lib_什么是性别认同？__Trans_in_Academia!_文章资料库.md                             |
 > | Size            | 64660 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:11:29                             |
+> | Original Link   | [https://lib.transinacademia.org/docs/translated/philosophy/gender_identity/](https://lib.transinacademia.org/docs/translated/philosophy/gender_identity/)                       |
+> | Author          | 凯瑟琳·詹金斯（Katharine Jenkins）                               |
+> | Region          | 未知                               |
+> | Date            | 2018-09-01                                 |
+> | Tags            | 性别认同, 跨性别, 性别研究, 社会规范, 跨性别权利, 哲学讨论, 医疗保健, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

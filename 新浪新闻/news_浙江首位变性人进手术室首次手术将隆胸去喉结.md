@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了浙江省首位变性人白岩在2004年12月1日进行首次手术的情况。白岩将接受隆胸手术和去除喉结的手术，这是他变性过程中的重要一步。文件中提到，白岩在此之前已经与浙江省人民医院的医生接洽了近半年，尽管医生出于谨慎的态度多次劝阻他，但白岩坚持希望能够进行手术，实现自我认同。医生陈达介绍了医院对于变性手术的严格要求，包括病人需经过精神类医生的鉴定、必须有强烈的手术愿望及一系列的证明文件。手术将分为多个阶段，涉及整形和生殖器的改造，并预计在三四个月后完成。文件同时提到，变性人办理身份证和户口本的性别变更相对便利，只需提供相关证明。整个手术不仅反映了个体的生命故事和过渡经历，也展示了医疗资源在跨性别者性别认同过程中的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -53,12 +53,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_浙江首位变性人进手术室首次手术将隆胸去喉结.md                             |
 > | Size            | 2446 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:51:33                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1829701.d.html](https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1829701.d.html)                       |
+> | Author          | 姚琼                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-12-01                                 |
+> | Tags            | 变性人, 性别认同, 手术经历, 医疗资源, 法律政策, 跨性别, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

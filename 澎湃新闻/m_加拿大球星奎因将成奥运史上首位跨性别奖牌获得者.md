@@ -77,7 +77,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细报道了加拿大球星奎因（Quinn）成为奥运史上首位获得奖牌的跨性别运动员的事件。奎因在东京奥运会上代表加拿大女足参赛，球队在半决赛中战胜了强大的美国队，将于决赛争夺金牌。这一里程碑式的事件不仅展示了奎因的运动才华，也引发了对跨性别运动员参与竞技体育的广泛讨论。文中提到，奎因对成为历史的一部分感到自豪，并强调了性别中立人称代词的使用及其在性别平等运动中的重要性。此外，文章分析了对跨性别运动员的政策、争议及社会反响，着重指出了国际奥委会对跨性别运动员参赛的相关规定。人民日报评论称，性别与运动能力不应直接挂钩，体现了对跨性别者的支持与理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -86,12 +86,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_加拿大球星奎因将成奥运史上首位跨性别奖牌获得者.md                             |
 > | Size            | 7391 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:54:44                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13874276](https://m.thepaper.cn/newsDetail_forward_13874276)                       |
+> | Author          | 鞠峰                               |
+> | Region          | 未知                               |
+> | Date            | 2021-08-03                                 |
+> | Tags            | 跨性别, 运动员, 奎因, 东京奥运会, 性别中立, 社会讨论, 法律政策, 体育争议, 奖牌, 女足                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

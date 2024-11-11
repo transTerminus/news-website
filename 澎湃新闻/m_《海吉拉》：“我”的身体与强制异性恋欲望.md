@@ -75,8 +75,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_《海吉拉》：“我”的身体与强制异性恋欲望.md                             |
 > | Size            | 18913 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:28:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2885216](https://m.thepaper.cn/newsDetail_forward_2885216)                       |
 > | Author          | 未知                               |
 > | Region          | 未知                               |
 > | Date            | 未知                                 |

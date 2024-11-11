@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名男子程二喜在从泰国接受变性手术后，回到北京的出租屋内去世的事件。报道指出，程二喜生前身体状况不佳，且在接受手术后出现了高血压等健康问题。根据邻居的描述，程二喜在手术后外形变化显著，常穿女性衣物。事件发生在2006年2月6日，警方正在调查其死亡原因。此例不仅涉及个人变性经历，还反映了社会对跨性别者的态度及健康关注的不足。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -52,12 +52,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子从泰国做完变性手术后死在北京出租屋内.md                             |
 > | Size            | 1913 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:21:21                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-02-06/detail-ikkntiam6459173.d.html](https://news.sina.cn/sa/2006-02-06/detail-ikkntiam6459173.d.html)                       |
+> | Author          | 新京报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-02-06                                 |
+> | Tags            | 变性手术, 跨性别者, 社会问题, 健康问题, 北京, 新闻报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

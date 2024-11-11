@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国总统特朗普于2017年7月27日通过社交媒体宣布禁止变性人在美国军中服役的决策。文章详细描绘了特朗普的推文引发的广泛社会反响，特别是在军方内部的情绪。根据军方官员的反馈，强烈质疑这种重大决定的发布方式，并表示在没有正式立法出台之前，军方不会接受这一禁令。此外，文章引用了军事专家和现役军人对这一禁令的看法，强调变性军人在美军中的占比及其医疗费用远不如特朗普所称的占用国防资源的程度。而且，许多军人和退役军人对该禁令表示强烈的不安和反对，显示出社会对于跨性别者权利的关注及支持与反对的分歧。整体而言，本文不仅揭示了特朗普政府对于跨性别政策的态度，也反映出其所引发的国家内部的社会分化与对平等权利的思考。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -44,12 +44,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_特朗普说变性人会给国防带来巨大负担但军方却不这么认为.md                             |
 > | Size            | 4458 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:38:54                             |
+> | Original Link   | [https://news.sina.cn/2017-07-29/detail-ifyinryq6925888.d.html?from=wap](https://news.sina.cn/2017-07-29/detail-ifyinryq6925888.d.html?from=wap)                       |
+> | Author          | 界面新闻                               |
+> | Region          | 美国                               |
+> | Date            | 2017-07-29                                 |
+> | Tags            | 跨性别, 特朗普, 军队, 禁止令, 性别平等, 社会反响, 医疗费用, 变性人, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

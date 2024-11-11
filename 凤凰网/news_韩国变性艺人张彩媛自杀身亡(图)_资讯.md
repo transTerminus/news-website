@@ -16,7 +16,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细报道了韩国变性艺人张彩媛的自杀事件。文章首先介绍了张彩媛的生平背景及其职业生涯，包括她在SBS综艺节目《真实游戏》中以男扮女装的表现，以及她接受变性手术后的再次亮相，这一过程在社会中引起了广泛关注和讨论。然而，悲剧发生在2008年10月3日，张彩媛被发现在首尔汉南洞的家中自尽，警方初步分析确定为自杀，未发现他杀痕迹。此事引起了媒体与公众的热议，张彩媛的朋友们在社交媒体上纷纷发表悼念之词，表达对逝者的怀念和惋惜。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -25,12 +25,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_韩国变性艺人张彩媛自杀身亡(图)_资讯.md                             |
 > | Size            | 1093 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:29:09                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200810/1006_344_818594.shtml](https://news.ifeng.com/society/2/200810/1006_344_818594.shtml)                       |
+> | Author          | 中新网                               |
+> | Region          | 韩国                               |
+> | Date            | 2008-10-06                                 |
+> | Tags            | 变性艺术, 韩国变性, 张彩媛, 自杀事件, 跨性别议题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

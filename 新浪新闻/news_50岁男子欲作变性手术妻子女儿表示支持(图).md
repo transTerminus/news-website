@@ -148,7 +148,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一位50岁男子陈菲菲（化名）希望进行变性手术的故事。他在经历了长达20年的内心挣扎后，决定追求真正的自我。文章中提到他得到了妻子李敏和两个女儿的支持，尤其二女儿陪他前往医院咨询手术事宜。李敏起初无法理解丈夫的想法，但随着时间的推移，她逐渐接受并支持丈夫的决定。他们的故事反映了一个跨性别家庭在社会环境和家庭关系方面所面临的挑战和支持。此外，文中还谈到一位整形医院院长的看法，指出变性手术应该伴随心理治疗，并不容易实现。这展示了一个普通家庭在面对变性过程中的情感、理解与支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -157,12 +157,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_50岁男子欲作变性手术妻子女儿表示支持(图).md                             |
 > | Size            | 10242 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:38:44                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-11-09/detail-ikftssap2776602.d.html](https://news.sina.cn/sa/2006-11-09/detail-ikftssap2776602.d.html)                       |
+> | Author          | 华商晨报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-11-09                                 |
+> | Tags            | 跨性别, 变性手术, 生命故事, 家庭支持, 社会接受, 心理性别, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

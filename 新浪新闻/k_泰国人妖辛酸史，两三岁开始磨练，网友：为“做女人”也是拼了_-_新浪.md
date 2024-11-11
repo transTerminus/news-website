@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国人妖的养成故事，描述了他们从小就开始接受的训练和所经历的辛酸。文章指出，泰国人妖的外表光鲜亮丽，背后却有着不为人知的艰辛。许多男童在两三岁时就开始服用雌性荷尔蒙药物，接受女性化的培训和训练，这一过程对他们的生理和心理都会造成深远的影响。文章进一步探讨了这群人的表演生涯和与年龄相关的身体变化，以及社会对他们的认知和态度。最后，作者对人妖的晚年生活表达了担忧，指出由于激素影响，他们的平均寿命和生活质量都相对较低。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -46,12 +46,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_泰国人妖辛酸史，两三岁开始磨练，网友：为“做女人”也是拼了_-_新浪.md                             |
 > | Size            | 4091 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:57:58                             |
+> | Original Link   | [https://k.sina.cn/article_6412656166_17e395e2600100kyrq.html](https://k.sina.cn/article_6412656166_17e395e2600100kyrq.html)                       |
+> | Author          | 情忆湘水                               |
+> | Region          | 泰国                               |
+> | Date            | 2019-11-23                                 |
+> | Tags            | 跨性别, 人妖, 泰国, 生命故事, 社会现状, 性别认同, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

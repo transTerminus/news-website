@@ -149,7 +149,7 @@ Nathee Teerarojanapong这样解释。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了跨性别人士在泰国进行变性手术的现象，指出泰国是全球变性手术的热门目的地之一。根据彭博社的数据显示，每年有超过200万人前往泰国进行变性手术，为当地经济创造了可观的收入。文章中包含了诸多跨性别者的亲身经历和医师的观点，如医生Preecha Tiewtranon与Thep Vechavisit，他们在跨性别医疗领域中扮演了重要角色。许多跨性别者因经济和技术因素选择泰国进行手术，尽管变性的过程复杂，需要经过一系列心理评估和激素治疗，同时也面临社会和个人的挑战。文中提到凯瑟·安（Kathoey）现象，以及泰国社会对待跨性别者的宽容态度，反映出宗教文化对这一现象的影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -158,12 +158,12 @@ Nathee Teerarojanapong这样解释。
 > |-----------------|----------------------------------------|
 > | Filename        | news_全世界每年有多少人去泰国做变性手术？.md                             |
 > | Size            | 10931 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:28:26                             |
+> | Original Link   | [http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html](http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html)                       |
+> | Author          | 新浪新闻                               |
+> | Region          | 泰国                               |
+> | Date            | 2021-04-13                                 |
+> | Tags            | 跨性别, 变性手术, 医疗旅游, 社会文化, 泰国, 法律政策, 个人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

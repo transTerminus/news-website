@@ -16,7 +16,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一名女性因被诊断为真两性畸形而面临的困境。她从小受到社会的歧视，甚至连家人也将她疏远，渴望能成为一个“正常的女人”。该文通过她的故事揭示了社会对跨性别者，尤其是对真两性者的偏见和不理解。这不仅是一个个人的生命故事，也是对社会歧视的深刻记录，引人深思。文中提到她在成长过程中经历的痛苦与挑战，以及她对自身身份的渴望与反思，让人对于跨性别和性别认同的复杂性有了更深入的理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -25,12 +25,12 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > |-----------------|----------------------------------------|
 > | Filename        | news_女子被诊断为真两性畸形无法正常工作，从小备受歧视.md                             |
 > | Size            | 1030 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:38:13                             |
+> | Original Link   | [https://news.ifeng.com/c/8S8c8VLzXs9](https://news.ifeng.com/c/8S8c8VLzXs9)                       |
+> | Author          | 凤凰网资讯                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-08-10                                 |
+> | Tags            | 跨性别, 真两性畸形, 社会歧视                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

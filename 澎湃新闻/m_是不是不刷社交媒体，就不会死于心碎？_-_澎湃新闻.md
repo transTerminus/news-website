@@ -113,7 +113,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了社交媒体，特别是Instagram对使用者心理健康的影响。通过多个案例分析，展现了不同用户在社交软件上的经历，包括跨性别者所面临的歧视与网络暴力。为跨性别者建立的在线交流社区对丹妮的影响凸显了社交媒体的双面性；一方面，它提供了社交连接和支持，另一方面，也加剧了身材焦虑和心理负担。汉娜和年轻用户斯嘉丽和阿妮莎的经历进一步阐明了社交媒体带来的压力和诱惑，以及她们如何努力调整关注内容以缓解负面情绪。整个文章提供了一种深入的社会观察，分析了社交媒体对不同性别身份和年龄段使用者带来的心理影响和社会压力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -122,12 +122,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_是不是不刷社交媒体，就不会死于心碎？_-_澎湃新闻.md                             |
 > | Size            | 6911 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:06:08                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_15319329?from=](https://m.thepaper.cn/newsDetail_forward_15319329?from=)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 社交媒体, 心理健康, 跨性别者, Instagram, 网络暴力, 身材焦虑, 社会压力, 用户经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

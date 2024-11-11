@@ -115,7 +115,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了在中国成都，变性人章琳在获得新的身份证和结婚证后的幸福经历。这一系列事件标志着国家法律对变性人身份和婚姻的认可。文章详细记录了章琳自身份变化的过程，以及她与爱人杨启成在领取身份证和结婚证时的心情和婚礼筹备的点滴。在报道中强调了章琳在变性手术和身份证更换过程中经历的挑战与奋斗，以及她对新生活的展望。尤其值得注意的是，章琳在结婚享受身份转变后面临的家庭关系变化以及她与前妻和女儿的复杂情感。整篇文章不仅展示了变性人在社会中的接受度变化，还体现了法律对于他们权利的保障。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -124,12 +124,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_成都变性人领到结婚证将于五一节结婚(图).md                             |
 > | Size            | 11068 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:31:54                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-03-16/detail-ikknscsi2856728.d.html](https://news.sina.cn/sa/2004-03-16/detail-ikknscsi2856728.d.html)                       |
+> | Author          | 封面新闻                               |
+> | Region          | 中国成都                               |
+> | Date            | 2004-03-16                                 |
+> | Tags            | 跨性别, 变性人, 婚姻, 法律政策, 社会接受度, 个人故事, 身份认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

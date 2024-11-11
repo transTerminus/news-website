@@ -198,7 +198,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位50岁男子变性后的生活故事，他在与前妻的心灵支撑下，开启了新的生活。文件中详细描绘了老陈（变性后的名字为陈路豫）从男性向女性身份转变过程中的内心挣扎和经历。在与前妻李敏的对话中，陈分享了她对自己身份的认同以及希望过上普通女性生活的愿望。李敏则表达了对老陈的支持，并在手术后的新生活中继续陪伴着她。整篇文章充满了对于跨性别者内心感受的深刻反思，展现了变性给个人和家庭带来的复杂影响，以及爱与支持在其中的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -207,12 +207,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_50岁男子变性与前妻姐妹相称共同生活(组图).md                             |
 > | Size            | 9203 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:54:45                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-06-27/detail-ikftssap2904546.d.html](https://news.sina.cn/sa/2007-06-27/detail-ikftssap2904546.d.html)                       |
+> | Author          | 新京报 本报记者 张寒                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-06-27                                 |
+> | Tags            | 跨性别故事, 变性经历, 法律与社会支持, 生命故事, 心理挣扎, 人际关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

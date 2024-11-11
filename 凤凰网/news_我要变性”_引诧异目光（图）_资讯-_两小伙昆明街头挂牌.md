@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了2009年在昆明市南屏街，一对年轻男子举着“我要变性”的牌子，向路人寻求帮助和理解的事件。文章详细描述了两名小伙郑新和梁祥的背景和过渡经历，揭示了他们对性别认同的深刻思考与困扰，以及社会对他们的反应。文章还提到了一位心理治疗专家的看法，指出易性癖的根源可能与幼年生活经历密切相关，强调变性手术的必要性与社会接受度的问题。此事件引发了围观群众的广泛讨论，显示出社会对跨性别群体的认知和接受度仍存在差异。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -65,12 +65,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌.md                             |
 > | Size            | 4687 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:32:56                             |
+> | Original Link   | [https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml](https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml)                       |
+> | Author          | 付兴华                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-05-18                                 |
+> | Tags            | 变性, 性别认同, 社会话题, 心理健康, 易性癖                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

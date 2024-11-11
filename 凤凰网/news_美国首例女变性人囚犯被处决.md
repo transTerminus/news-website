@@ -85,7 +85,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件报道了美国首例女变性人囚犯在罪犯法庭上的判决及执行过程。文章指出，这起案件在社会上引发了广泛的关注和讨论，尤其是在跨性别群体和权利组织中。文件详细介绍了该囚犯的背景、转变经历及所处法律环境，并探讨了跨性别人士在监狱系统中所面临的挑战和不平等待遇。这是一起具有重要社会意义的事件，它突显了跨性别权利在法律和社会中的脆弱性。此报道源自凤凰网，浏览量达403.9万，显示出公众对此事件的高度关注，尽管情况和判决备受争议.
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -94,12 +94,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国首例女变性人囚犯被处决.md                             |
 > | Size            | 5994 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:13:45                             |
+> | Original Link   | [https://news.ifeng.com/c/8MIpRa1mRMG](https://news.ifeng.com/c/8MIpRa1mRMG)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 香港                               |
+> | Date            | 2023-01-04                                 |
+> | Tags            | 跨性别, 法律政策, 典型案例, 社会环境, 人权, 监狱系统, 女性变性人                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

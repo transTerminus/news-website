@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了中国卫生部于2009年发布的《关于变性手术技术管理规范（试行）》，该规范规定了实施变性手术的相关要求。根据规范，只有未婚且满20岁的人可以申请变性手术，并且必须在申请前对变性的要求保持至少5年、经历必要的心理和精神治疗，且必须提供由公安部门和相关心理医生开具的证明材料。文件强调了病人心理状态的评估以及提交书面报告的必要性。这些规定旨在对变性手术进行管理，以确保患者在接受手术之前具备一定的心理准备和法定条件。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -42,12 +42,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_卫生部实施变性手术者须未婚且年满20.md                             |
 > | Size            | 1860 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:23:20                             |
+> | Original Link   | [https://news.ifeng.com/mainland/200911/1121_17_1445286.shtml](https://news.ifeng.com/mainland/200911/1121_17_1445286.shtml)                       |
+> | Author          | 崔红                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-11-21                                 |
+> | Tags            | 变性手术, 卫生部, 患者, 法律政策, 心理治疗                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

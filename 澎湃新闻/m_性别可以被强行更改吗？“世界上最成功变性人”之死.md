@@ -111,7 +111,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了大卫·赖默（David Reimer）的悲剧故事，他是美国历史上著名的性别转换案例之一。文中描述了大卫在1967年因医疗事故失去阴茎后，父母在约翰·莫尼的建议下进行了强制的性别转换手术，随后将他抚养为女孩布伦达（Brenda）。文章详细讲述了这次实验的背景、过程及其导致的网站。在表面上看，莫尼的研究似乎成功地证明了性别是可塑的，但随着大卫长大，他的真实身份逐渐显露出痛苦的挣扎。家人间的关系因莫尼的实验而破裂，大卫的心理健康遭受严重影响，他最终选择了恢复自己的男性身份，但经历了重重困难和内心煎熬。文章还讨论了生物决定论与社会建构论的争议，并引用了著名性别研究者朱迪思·巴特勒的观点，探讨性别认同的复杂性与多样性。最终，大卫在38岁时因多重压力而自杀，这一悲惨结局引发了社会对早期性别转换医学伦理的深思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -120,12 +120,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_性别可以被强行更改吗？“世界上最成功变性人”之死.md                             |
 > | Size            | 12029 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:35:22                             |
+> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=25691445&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=25691445&from=kuaibao)                       |
+> | Author          | 玛雅蓝                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2018-12-18                                 |
+> | Tags            | 跨性别, 性别认同, 医学伦理, 性别研究, 社会建构论, 生物决定论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

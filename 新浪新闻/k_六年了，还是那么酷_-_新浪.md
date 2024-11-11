@@ -307,7 +307,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别者艾伦·佩吉（Elliot Page）的个人经历与公开身份转变的故事。他在2020年公开宣布自己是跨性别者，身份为非二元性别，并分享了自己追求真实自我的欣慰与面对社会仇视的恐惧。文中详细介绍了佩吉的成长背景、演艺事业的发展历程，从取得成功到因公开性向而陷入低谷，直至通过发声与行动重新找回自我并积极倡导跨性别者及LGBTQ群体的权利。此外，文章还探讨了社会对跨性别者的歧视、法律的不平等以及个人的发声与社会运动的必要性，强调了跨性别者所面临的挑战与对平等对待的呼吁。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -316,12 +316,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | k_六年了，还是那么酷_-_新浪.md                             |
 > | Size            | 17413 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:51:03                             |
+> | Original Link   | [https://k.sina.cn/article_5617148817_14ecee39101900sodr.html](https://k.sina.cn/article_5617148817_14ecee39101900sodr.html)                       |
+> | Author          | 新浪娱乐                               |
+> | Region          | 未知                               |
+> | Date            | 2020-12-02                                 |
+> | Tags            | 跨性别者, 艾伦·佩吉, 非二元性别, 身份认同, LGBTQ, 社会运动, 平权, 性别认同, 法律政策, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

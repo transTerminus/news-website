@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一名来自德国的变性男性在柏林成功怀孕并生子的故事。他于2014年3月自主在家中生产，并且成为了欧洲首位怀孕生子的男性，此事件引发了公众和媒体的广泛关注与讨论。这名男子出生时为女性，在经历多年的荷尔蒙治疗后变性为男性，但依然保留了女性的生殖系统。在家生产的决定出于他不希望在医院被标记为“母亲”。官方文件显示，孩子出生时并没有母亲的标记，只有父亲的信息。尽管他不愿透露伴侣的身份和孩子的性别，但这一事件标志着变性人在生育权利方面的一次重大突破。文章还提到，在美国有类似的案例，指向个人在法律上的复杂性，以及变性人权益的问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -36,12 +36,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_德国一女变男变性人成欧洲首个怀孕生子男人.md                             |
 > | Size            | 2345 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:14:39                             |
+> | Original Link   | [https://news.ifeng.com/a/20141112/42451491_0.shtml](https://news.ifeng.com/a/20141112/42451491_0.shtml)                       |
+> | Author          | 环球网                               |
+> | Region          | 德国                               |
+> | Date            | 2014-11-12                                 |
+> | Tags            | 变性人, 怀孕, 生子, 男女认同, 医疗权利, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

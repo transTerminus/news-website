@@ -70,7 +70,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了关于变性运动员参加体育比赛的争议，尤其是男性变女性运动员是否应该允许参加女子项目的问题。文章提到，近年来随着变性运动员的出现，其资格问题引发了广泛的讨论。美国爱达荷州制定的禁止变性运动员参加女子比赛的法案引起了激烈的反对，许多人认为这样的规定对跨性别者存在歧视。本文回顾了国际奥委会的相关规定，指出变性运动员在经过激素治疗后可以参与比赛，但在公平性和包容性之间仍存在许多争议。研究显示，即使变性运动员的睾酮水平降低，仍可能存在生理上的优势。文章中引用多个研究结果和实际案例，以展示这一话题的复杂性，尤其是在女子运动中可能的不平等现象。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -79,12 +79,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性选手能否参加体育比赛？男变女后，TA的身体优势还在吗.md                             |
 > | Size            | 5605 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:30:57                             |
+> | Original Link   | [https://m.thepaper.cn/yidian_promDetail.jsp?contid=8994480&from=yidian](https://m.thepaper.cn/yidian_promDetail.jsp?contid=8994480&from=yidian)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2023-09-04                                 |
+> | Tags            | 跨性别, 体育性别, 变性运动员, 公平性, 包容性, 法律政策, 国际奥委会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

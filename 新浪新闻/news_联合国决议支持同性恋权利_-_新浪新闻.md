@@ -114,7 +114,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了2011年6月17日联合国人权理事会通过的一项支持同性恋和跨性别者权利的决议。这项决议代表了国际社会在争取性取向和性别身份平等权利方面的重要进展。文章详细描述了决议的内容及其背景，包括决议通过的投票结果、赞成票与反对票的国家名单，以及中国在投票中的弃权立场。同时，文本也提到了南非提出此项决议的动因及其与阿拉伯和非洲国家的争执。文章指出，尽管该决议是历史性的一步，但全球多个国家仍对同性恋持有歧视和暴力态度。最后，文件提到美国对这一决议的支持，强调每个人都应获得平等保护，无论性取向如何。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -123,12 +123,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_联合国决议支持同性恋权利_-_新浪新闻.md                             |
 > | Size            | 4707 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:41:38                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-06-19/detail-ikftpnny4839501.d.html](https://news.sina.cn/sa/2011-06-19/detail-ikftpnny4839501.d.html)                       |
+> | Author          | 东方早报                               |
+> | Region          | 中国                               |
+> | Date            | 2011-06-19                                 |
+> | Tags            | 联合国, 跨性别权利, 同性恋, 人权, 国际法律, 社会政策, 中国投票, 南非, 反对声                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

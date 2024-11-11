@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了安徽首位变性人黄恩岭的真实过渡经历，详细介绍了他的背景故事、成长历程以及变性手术的准备过程。黄恩岭从小就感受到性别角色与自己身份的错位，尽管社会的压力和传统观念使他经历了痛苦与挣扎，但他始终坚定着变为女性的愿望。文章描述了其在求学期间的困惑、初恋的遗憾以及无爱的婚姻，黄恩岭为了筹资进行变性手术努力工作，开设了美容店。他最终在2004年获得了免费手术的机会，并成为医院的代言人。文章同时探讨了对外界关注的抵触和个人价值观的坚持，强调了黄恩岭希望以自己的努力和事业来重生而非追求短暂的名气。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -78,12 +78,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_安徽第一变性人昨日走进手术室(组图).md                             |
 > | Size            | 9718 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:55:36                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-01-01/detail-ikkntiam2209889.d.html](https://news.sina.cn/sa/2005-01-01/detail-ikkntiam2209889.d.html)                       |
+> | Author          | 合肥报业网--江淮晨报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2005-01-01                                 |
+> | Tags            | 跨性别, 变性手术, 性别认同, 中国变性人, 黄恩岭, 生命故事, 社会环境, 医疗经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -253,7 +253,7 @@ MECT是指在使用静脉麻醉药和肌松剂使患者意识消失后，以一�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位名为灵儿的跨性别者在医疗机构经历的不公正治疗和法律诉讼过程。灵儿在17岁时被父母送往精神病专科医院，因其性别认同为女性而被误诊为‘性取向障碍’，并接受了改良电休克治疗（MECT）达七次，期间身体与心理承受巨大的痛苦和创伤。文章详细描述了灵儿在医院的经历、与父母的关系，以及她在法律上起诉医院的决心。内容中提及，灵儿从出院后尝试寻找归属感与支持，但在社会与家庭中遭遇极大歧视与排斥，最终走上了一条孤独而不稳定的流浪生活。文中引用了医生、律师及社工的观点，探讨了跨性别者在家庭中面临的难题，以及社会对于跨性别者治疗的错误认知和法律支持的缺失。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -262,12 +262,12 @@ MECT是指在使用静脉麻醉药和肌松剂使患者意识消失后，以一�
 > |-----------------|----------------------------------------|
 > | Filename        | i_遭电击治疗，一位跨性别者决定起诉.md                             |
 > | Size            | 24828 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:31:09                             |
+> | Original Link   | [https://i.ifeng.com/c/8d8ApP0qi42](https://i.ifeng.com/c/8d8ApP0qi42)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2024-09-24                                 |
+> | Tags            | 跨性别, 医疗经历, 法律诉讼, 精神健康, 家庭关系, 社会歧视, 改良电休克治疗                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

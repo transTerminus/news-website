@@ -136,7 +136,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了大一男生孙艺萱的转变经历，他自小对自己的性别认同感到困惑，认为自己应当是女性。文章详细描述了孙艺萱的成长经历，从四五岁时就开始穿女装，到在初中对男生产生好感，再到大学后公开自己的性别认同。在接纳自己的过程中，孙艺萱经历了家庭压力、同学支持以及社会环境的不理解。孙艺萱希望通过变性手术实现自己的性别认同，并渴望得到周围人的理解和支持。文中还阐述了有关易性癖的心理学背景和社会反响，并引用了同学、学院领导对此事的不同看法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -145,12 +145,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_大一男生患易性癖疾病欲做变性手术(图).md                             |
 > | Size            | 8201 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:19:54                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-10-29/detail-ikftssap3386716.d.html](https://news.sina.cn/sa/2010-10-29/detail-ikftssap3386716.d.html)                       |
+> | Author          | 樊亮                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2010-10-29                                 |
+> | Tags            | 跨性别, 易性癖, 变性手术, 性别认同, 成长故事, 社会支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

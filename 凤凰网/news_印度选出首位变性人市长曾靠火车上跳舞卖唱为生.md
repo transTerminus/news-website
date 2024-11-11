@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了印度切蒂斯格尔邦赖格尔市的选举结果，历史上首次选出变性人市长马杜·巴伊·金奈尔。金奈尔在选举中以约4500票的优势击败了印度人民党的候选人。报告中提到金奈尔的背景，她曾靠在火车上跳舞卖唱为生，并且出身于低种姓“达利特”。文中提到她的成功代表了民众对她的信任，同时也反映出对于变性人群体在法律和社会地位上取得进步的一次重要胜利。金奈尔的当选被系认为具有历史意义，并与印度法律对变性人身份的承认密切相关，突显了变性人在家庭和社会中受到的歧视与边缘化。此外，文章中提到一些国家和地区在性别法律上的进展，表明全球性的变性人权利运动逐渐获得关注和支持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_印度选出首位变性人市长曾靠火车上跳舞卖唱为生.md                             |
 > | Size            | 3392 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:18:27                             |
+> | Original Link   | [https://news.ifeng.com/a/20150107/42876240_0.shtml](https://news.ifeng.com/a/20150107/42876240_0.shtml)                       |
+> | Author          | 新华社                               |
+> | Region          | 印度                               |
+> | Date            | 2015-01-07                                 |
+> | Tags            | 变性人, 市长, 印度, 社会进步, 法律身份, 切蒂斯格尔邦, 达利特, 性别平等                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

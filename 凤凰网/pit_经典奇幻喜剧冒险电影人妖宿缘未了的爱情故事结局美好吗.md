@@ -34,7 +34,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于经典奇幻喜剧冒险电影《人妖宿缘未了的爱情故事》的资讯文章，探讨了影片的情节和主题，尤其是跨性别与爱情之间的关系。文章中提到，这部电影以其独特的奇幻元素和冒险情节吸引了大量观众，至今播放量已达到142.9万。文章包含了一些重要的图片，并提供了媒体声明，强调所有作品内容均由用户上传，平台仅提供信息存储空间服务。此外，文章在内容的末尾附上了与影片相关的重要标签，如“跨性别”，“爱情”，“电影”，“奇幻”和“冒险”。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > |-----------------|----------------------------------------|
 > | Filename        | pit_经典奇幻喜剧冒险电影人妖宿缘未了的爱情故事结局美好吗.md                             |
 > | Size            | 1543 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:45:37                             |
+> | Original Link   | [https://pit.ifeng.com/c/7l5GVOHKEjC](https://pit.ifeng.com/c/7l5GVOHKEjC)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 湖北省                               |
+> | Date            | 2019-03-16                                 |
+> | Tags            | 跨性别, 爱情, 电影, 奇幻, 冒险                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

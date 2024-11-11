@@ -180,7 +180,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位跨性别网络主播阿娇的经历与心路历程。她原为男性，但始终觉得自己应该是个女人。在网络直播这一新型职业中，她经历了公众的偏见和自身的挣扎。虽然面对屈辱与恶评，阿娇最终选择勇敢做自己，在这一过程中，她逐渐适应并爱上了这个以女性形态呈现自我的职业。文章细腻地描绘了她在直播间中的表现，以及她与网友之间的互动，展现了她的内心世界与生活苦乐交织的真实感受。阿娇希望通过直播积攒变性手术费，但她也痛苦于自身在现实与网络间的身份融合与社会接受度的问题。文末，她与一位男孩的相遇似乎给了她人生新的希望与温暖。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -189,12 +189,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别者网络主播之路，我感受到的屈辱与温暖.md                             |
 > | Size            | 15318 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:20:58                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2279418?from=sohu](https://m.thepaper.cn/newsDetail_forward_2279418?from=sohu)                       |
+> | Author          | 小江                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 网络直播, 跨性别经历, 个人故事, 性别身份, 社会偏见, 内心挣扎, 爱与希望                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

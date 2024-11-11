@@ -243,7 +243,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文以阿诚为中心，讲述了一名跨性别女性（药娘）在身体、心理与社会环境中遭遇的困境与挣扎。通过生动的故事，展现了她通过服用激素药物（称为“糖”）来改变自身性别特征的经历，以及在这一过程中面临的亲情缺失、社会歧视和医疗资源不足等问题。故事中，阿诚回忆起自己对性别的认同之路，描述了与母亲的矛盾以及在校园与职场中的遭遇。特别提到在药娘社群中，她们努力分享经验、互相支持，但也面临着种种风险和不确定性。本文还探讨了跨性别者在中国面临的法律、医疗和社会环境的现状，引发对跨性别者生存现状的反思与关注。文中提到“人生处处是围城，药娘们像被判了无期徒刑的囚犯”，深刻反映了跨性别者的苦痛与追求。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -252,12 +252,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_药娘的全面战争：被困在男性躯壳里的女人.md                             |
 > | Size            | 23086 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 21:48:03                             |
+> | Original Link   | [https://m.thepaper.cn/baijiahao_6806238](https://m.thepaper.cn/baijiahao_6806238)                       |
+> | Author          | 乔乔                               |
+> | Region          | 中国                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 药娘, 性别认同, 社会环境, 医疗资源, 个人经历, 阿诚的故事, 抵抗与希望                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -108,8 +108,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_J.K.罗琳被赶出魔法世界.md                             |
 > | Size            | 9648 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 08:27:21                             |
+> | Original Link   | [https://m.thepaper.cn/baijiahao_15535643](https://m.thepaper.cn/baijiahao_15535643)                       |
 > | Author          | 棠棠                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2021-11-25                                 |

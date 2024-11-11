@@ -289,7 +289,7 @@ MECT是指在使用静脉麻醉药和肌松剂使患者意识消失后，以一�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了一位名为灵儿的27岁跨性别者的艰辛经历，她在接受父母的不理解和社会的压力后，遭遇了不当的医疗处理和情感上的挣扎。灵儿被迫入院接受电击治疗，家人认为她的性别认同存在心理问题，而她在医院中经历了不必要的MECT（改良电休克治疗），这一过程导致了她深重的心理创伤。文件详细描述了灵儿的治疗过程、她与父母的复杂关系，以及她在出院后面临的生活挑战。从法律角度看，灵儿开始起诉医院，认为医院侵犯了她的人身权。此文不仅反映了被家人和社会排斥的跨性别者所面临的困境，也探讨了家庭教育和理解的重要性，以及跨性别者在现今社会中所需的支持与认同。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -298,12 +298,12 @@ MECT是指在使用静脉麻醉药和肌松剂使患者意识消失后，以一�
 > |-----------------|----------------------------------------|
 > | Filename        | k_遭电击治疗，一位跨性别者决定起诉_-_新浪.md                             |
 > | Size            | 25148 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:49:21                             |
+> | Original Link   | [https://k.sina.cn/article_5044281310_12ca99fde020028bzq.html](https://k.sina.cn/article_5044281310_12ca99fde020028bzq.html)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2024-09-24                                 |
+> | Tags            | 跨性别者, 性别认同, 心理健康, 医疗经历, 法律诉讼, 家庭关系, 社会支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

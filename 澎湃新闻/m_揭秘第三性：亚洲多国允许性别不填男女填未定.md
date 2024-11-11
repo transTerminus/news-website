@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了第三性在亚洲多个国家的法律认可及其社会背景，特别是泰国、印度、尼泊尔、巴基斯坦等国。泰国宪法起草委员会发言人宣布拟纳入“第三性”这一用词，以保障同性恋者与变性人的法律权利，并希望减少社会歧视。尽管泰国社会对变性人的接受度高，例如举行的国际变性人选美大赛，法律和职场仍然对他们存在多重歧视，尤其在身份证件性别栏方面的问题被深度探讨。此外，文中提及了印度最高法院于2014年承认跨性别者为法定第三性，并指示政府为他们提供社会福利和就业保障，强调了这些群体在社会中面临的挑战与历史背景。文中还详细列举了与第三性相关的历史事件，以及其他国家在性别认同方面的进展和挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -62,12 +62,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_揭秘第三性：亚洲多国允许性别不填男女填未定.md                             |
 > | Size            | 6955 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:48:04                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1297005](https://m.thepaper.cn/newsDetail_forward_1297005)                       |
+> | Author          | 未知                               |
+> | Region          | 亚洲                               |
+> | Date            | 未知                                 |
+> | Tags            | 第三性, 跨性别, 法律政策, 社会环境, 泰国, 印度, 尼泊尔, 巴基斯坦, 性别认同, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

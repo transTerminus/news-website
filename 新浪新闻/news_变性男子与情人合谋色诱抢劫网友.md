@@ -85,7 +85,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一起发生在2010年的犯罪事件，涉及一名变性男子朱小琼与其情人何伟共同策划的抢劫案。朱小琼在进行变性手术后，以女性身份出现在社交平台，通过色诱手段将一名网友约到宾馆，计划在发生性关系之前向何伟发出信号，趁机实施抢劫。文件中详细描述了事件的经过，包括朱小琼的变性经历与其在酒吧里的生活，以及何伟如何利用朱小琼进行犯罪。最终，朱小琼及其共犯因抢劫被警方逮捕，朱的身份和变性手术过程也引发了公众对跨性别群体的关注与讨论。文章还附带有关变性手术的法律规定，强调了变性者在法律与社会地位上的复杂处境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -94,12 +94,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性男子与情人合谋色诱抢劫网友.md                             |
 > | Size            | 6728 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:15:33                             |
+> | Original Link   | [https://news.sina.cn/sa/2010-05-24/detail-ikftssap3309307.d.html](https://news.sina.cn/sa/2010-05-24/detail-ikftssap3309307.d.html)                       |
+> | Author          | 扬子晚报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2010-05-24                                 |
+> | Tags            | 跨性别, 变性人, 抢劫案, 社会问题, 法律政策, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

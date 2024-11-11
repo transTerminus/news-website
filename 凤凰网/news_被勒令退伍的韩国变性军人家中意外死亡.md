@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一名韩国变性军人的意外死亡事件。文章指出，因接受变性手术而被勒令退伍的该军人边某，在家中被发现死去。根据韩媒的报道，当地精神健康中心自1月28日以来无法与边某取得联系，消防部门在接到投诉后前往其住所，并发现在家中去世。此事件引发了人们对跨性别者在军队服役以及精神健康问题的关注。文章还提到，评论区已有众多网友发表意见，显示出社会对此类事件的广泛讨论与反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +32,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_被勒令退伍的韩国变性军人家中意外死亡.md                             |
 > | Size            | 972 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:09:02                             |
+> | Original Link   | [https://news.ifeng.com/c/84LDfUegI4B](https://news.ifeng.com/c/84LDfUegI4B)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 韩国                               |
+> | Date            | 2021-03-04                                 |
+> | Tags            | 韩国, 变性军人, 意外死亡, 跨性别, 军队, 精神健康, 社会关注                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

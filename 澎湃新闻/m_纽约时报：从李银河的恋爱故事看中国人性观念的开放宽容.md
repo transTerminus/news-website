@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来源于《纽约时报》的报道，分析了知名性学家李银河与其跨性别伴侣“大侠”的恋爱故事，借此探讨当代中国社会性观念的开放程度。文章中提到，李银河在退休后首次公开其伴侣的身份，引发了公众对于跨性别群体的关注和讨论。文中详细描绘了李银河与“大侠”的相识过程，以及他们在社会传统一些保守观点下的生活选择。李银河公开表示自己并不认同将其伴侣归类为女同性恋者，而是认为他是一个男性，加深了社会对跨性别者身份的理解和认知。文章不仅揭示了李银河的勇气和个人经历，也反映了中国普通民众在性别和性取向问题上的逐渐宽容和开放。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -64,12 +64,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_纽约时报：从李银河的恋爱故事看中国人性观念的开放宽容.md                             |
 > | Size            | 5432 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:48:28                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1309571](https://m.thepaper.cn/newsDetail_forward_1309571)                       |
+> | Author          | 《纽约时报》                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-03-06                                 |
+> | Tags            | 跨性别, 李银河, 性别观念, 爱情故事, 社会宽容                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

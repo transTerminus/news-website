@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来源于中新网，讲述了一名厄瓜多尔籍跨性别女性在西班牙马德里一家华人旅馆的经历。文章详细描述了她入住旅馆后，因赤裸上身走出房间洗澡而让其他住客感到震惊的情景。旅馆的店主提供了背景信息，解释称这名女性在变性手术后仍保留男性生殖器，因而在外表上呈现出上半身为女性、下半身为男性的特征。这一事件引起了旅馆内其他住客的广泛讨论，大家对此感到既惊讶又好奇，折射出对跨性别群体在社会中生存状况的重要反思和讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -34,12 +34,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_“变性人”入住旅西华人旅馆裸身现春光惊煞住客.md                             |
 > | Size            | 3013 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:25:53                             |
+> | Original Link   | [https://news.sina.cn/sa/2011-07-09/detail-ikmxzfmk0609096.d.html](https://news.sina.cn/sa/2011-07-09/detail-ikmxzfmk0609096.d.html)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 西班牙                               |
+> | Date            | 2011-07-09                                 |
+> | Tags            | 跨性别, 社会现象, 法律与政策, 生存现状, 马德里, 厄瓜多尔                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

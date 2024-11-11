@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了美国首位变性四星上将蕾切尔·莱文的就职情况。根据福克斯新闻的报道，莱文于2021年10月19日宣誓就任，成为美国公共卫生服务军官团的领导。莱文过去是一名男性，现年64岁，之前曾任宾夕法尼亚州卫生局长。当她在获得总统拜登提名后，成为了美国最高级别公开身份的跨性别官员。文章除了阐述她的任职情况外，还引用了一些对此事的评论，反映了社会对转变的复杂态度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -59,12 +59,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美媒：美国首位变性四星上将就职.md                             |
 > | Size            | 1596 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:44:26                             |
+> | Original Link   | [https://news.sina.cn/2021-10-21/detail-iktzqtyu2714393.d.html](https://news.sina.cn/2021-10-21/detail-iktzqtyu2714393.d.html)                       |
+> | Author          | 参考消息                               |
+> | Region          | 美国                               |
+> | Date            | 2021-10-21                                 |
+> | Tags            | 变性人, 四星上将, 跨性别, 蕾切尔·莱文, 公共卫生服务军官团, 社会态度, 军事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

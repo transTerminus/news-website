@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了中国卫生部对申请变性手术的相关规定，指出需提供无犯罪记录和精神科医师的诊断证明。文件中详细列出了变性手术申请者必须满足的条件，包括：手术前要求至少持续5年的变性愿望、接受心理和精神治疗达到一年以上且无效、年龄大于20岁等。医学专家江华教授提到，并非所有医院能实施变性手术，必须是在具备一定条件的医院内进行。此信息为变性人群了解手术申请程序及相关法律政策提供了重要参考。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -36,12 +36,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_卫生部规定申请变性手术须无犯罪记录.md                             |
 > | Size            | 1750 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:11:18                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-12-16/detail-ikftssap3237978.d.html](https://news.sina.cn/sa/2009-12-16/detail-ikftssap3237978.d.html)                       |
+> | Author          | 朱国荣                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-12-16                                 |
+> | Tags            | 变性手术, 卫生部规定, 医疗政策, 跨性别, 法律                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

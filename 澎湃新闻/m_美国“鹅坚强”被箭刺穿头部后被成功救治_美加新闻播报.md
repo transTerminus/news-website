@@ -190,7 +190,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国历史上首次确认的跨性别联邦官员蕾切尔·莱文的任命及其背景。蕾切尔·莱文于3月24日被美国参议院确认担任卫生部助理部长，成为美国首位被国会确认的跨性别官员。她的提名获得52票赞成和48票反对，表明社会对跨性别群体的关注与支持。报告中提到，蕾切尔在五六岁时便开始质疑自己的性别身份，并于2013年完成变性程序，包括手术和激素治疗。参议院多数党领袖查克·舒默对此表示这项提名通过是对美国LGBTQ群体的重要里程碑，有助于改善跨性别者所面对的社会问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -199,12 +199,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_美国“鹅坚强”被箭刺穿头部后被成功救治_美加新闻播报.md                             |
 > | Size            | 16855 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:44:38                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_11900437](https://m.thepaper.cn/newsDetail_forward_11900437)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 美国                               |
+> | Date            | 2021-03-24                                 |
+> | Tags            | 跨性别, 联邦官员, 蕾切尔·莱文, LGBTQ, 医疗资源, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

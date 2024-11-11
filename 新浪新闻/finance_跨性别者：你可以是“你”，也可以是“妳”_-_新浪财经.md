@@ -92,7 +92,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自新浪财经，标题为《跨性别者：你可以是“你”，也可以是“妳”》，通过讲述16岁跨性别女孩朱亦的真实遭遇，深刻反映了跨性别者在成长过程中所面临的身份认同危机、社会排斥与家庭不理解的痛苦经历。朱亦在传统家庭的压迫下，经历了多次逃离与自我挣扎，最终选择表达自己的真实身份，却遭遇到来自父母及社会的强烈阻力。文章着重讨论了跨性别者面临的非自愿性别矫正、心理健康问题以及对性别认同的探索，同时引用了历史上因性别歧视而遭遇不幸的“玫瑰少年”叶永志的故事，展现了当代社会对性别认同和多元化的深入思考。最后，文章通过对跨性别文学艺术作品的分析，呼吁社会对性别多样性的理解和宽容，强调了自我接纳的必要性与勇敢追求真实自我的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -101,12 +101,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | finance_跨性别者：你可以是“你”，也可以是“妳”_-_新浪财经.md                             |
 > | Size            | 10846 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:19:00                             |
+> | Original Link   | [https://finance.sina.cn/insurance/bxzx/2021-01-03/detail-iiznezxs9366465.d.html?oid=4103642396898698&vt=4&cid=76659&node_id=76659](https://finance.sina.cn/insurance/bxzx/2021-01-03/detail-iiznezxs9366465.d.html?oid=4103642396898698&vt=4&cid=76659&node_id=76659)                       |
+> | Author          | 新浪财经官方账号                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-01-03                                 |
+> | Tags            | 跨性别, 性别认同, 心理健康, 社会歧视, 生命故事, 医疗资源, 法律政策, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

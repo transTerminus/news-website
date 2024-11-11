@@ -51,8 +51,8 @@ Tony Marchant在采访里提到，现在在英国，凡是有性别认知障碍�
 > |-----------------|----------------------------------------|
 > | Filename        | m_《蝴蝶》：看看欧洲TVB在放什么剧_-_澎湃新闻.md                             |
 > | Size            | 6183 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-10 22:13:25                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2543439](https://m.thepaper.cn/newsDetail_forward_2543439)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 中国大陆                               |
 > | Date            | 未知                                 |

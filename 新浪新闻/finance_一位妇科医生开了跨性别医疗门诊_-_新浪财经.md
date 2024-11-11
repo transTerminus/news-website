@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一位妇科医生——高绿芬医生在暨南大学附属第一医院开设的跨性别医疗门诊。文章回顾了中国跨性别群体面临的医疗资源短缺问题，以及高医生如何积极地为跨性别者提供内分泌治疗、心理支持和其他相关医疗服务。高医生最初接触跨性别者是在2021年，随着对跨性别者医疗需求的认识加深，她推动医院设立专门的跨性别医疗门诊。文章中提到的《2021全国跨性别健康调研报告》指出，许多跨性别者因缺乏正式医疗而面临自残风险等问题。高医生还分享了在临床工作中遇到的感人瞬间，强调了家庭的支持对于跨性别者健康的重要性。 
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -81,12 +81,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | finance_一位妇科医生开了跨性别医疗门诊_-_新浪财经.md                             |
 > | Size            | 11752 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:26:04                             |
+> | Original Link   | [https://finance.sina.com.cn/stock/stockzmt/2024-09-08/doc-incnmzsa6529072.shtml](https://finance.sina.com.cn/stock/stockzmt/2024-09-08/doc-incnmzsa6529072.shtml)                       |
+> | Author          | 田栋梁                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2024-09-08                                 |
+> | Tags            | 跨性别医疗, 高绿芬, 心理支持, 内分泌治疗, 生命故事, 医学进展, 家庭支持, 全国跨性别健康调研报告                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

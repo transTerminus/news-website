@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了身高1米8的小王在江北都市俪人医院接受变性手术后的经历。小王于一个月前进行了4个多小时的变性手术，手术后第一次以女性身份走出医院，并尝试化妆和穿上女性服装。文章记录了她术后的心理变化，最初由于伤口疼痛而感到烦躁，但通过护士的指导和帮助，她最终接受了新的身份。文章还提到小王的家人对她的选择的支持过程，以及她对未来的期待和生活规划。小王希望通过学习一技之长来增强自己的社会生存能力。文章不仅体现了跨性别者的个人经历，也反映了社会对跨性别者的理解与接受过程。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -50,12 +50,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_身高1米8男子变性穿上短裙变漂亮女人(图).md                             |
 > | Size            | 3018 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-11 07:01:46                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-05-29/detail-ikkntian0644365.d.html](https://news.sina.cn/sa/2008-05-29/detail-ikkntian0644365.d.html)                       |
+> | Author          | 李洁                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-05-29                                 |
+> | Tags            | 跨性别, 变性手术, 女性身份, 生活经历, 心理辅导, 社会接受                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

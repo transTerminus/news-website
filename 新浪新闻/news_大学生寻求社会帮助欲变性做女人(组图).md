@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细讲述了一位名叫刘人维的大学男生的变性心路历程。他自小便渴望成为女性，尽管经历了诸多社会的排斥和身心的痛苦。文章记录了刘人维提到的遭遇，包括在校园内的孤独，身为男性在与女性身份认同上碰撞的心理挣扎，以及他为了追求自身认同而采取的极端措施。他曾因心灵受到重创而尝试自杀，幸得家人及时拯救。随着时间推移，刘人维向社会求助，希望通过媒体和爱心人士的力量来实现他的变性愿望。他渴望在毕业前，以女性身份生活和工作。文章中也提到刘人维与他人交往时遭受的困扰，以及他的日记中反映出对社会认同的深切渴望。整体来看，这是一个关于性别身份认同与社会接受、心灵挣扎与求助的故事。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -71,12 +71,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_大学生寻求社会帮助欲变性做女人(组图).md                             |
 > | Size            | 6622 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:11:55                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-12-18/detail-ikmxzfmi9542799.d.html](https://news.sina.cn/sa/2009-12-18/detail-ikmxzfmi9542799.d.html)                       |
+> | Author          | 记者吴先华                               |
+> | Region          | 江西                               |
+> | Date            | 2009-12-18                                 |
+> | Tags            | 跨性别, 变性, 性别认同, 心理健康, 社会支持, 个人故事, 法律政策, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

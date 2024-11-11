@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国在变性手术方面的社会现象，强调了变性的接受度正在提高，不再受到羞涩和社会歧视的影响。文章引用了三秦都市报的报道称，泰国的变性手术申请人数正不断增加，超出以往的每三万名男性一名、每十万名女性一名的估计比率。曼谷诗丽叻医院外科手术科的塔瓦察博士和精神病学专家阿侬博士均表示，认为自己性别与出生时标记不符的人群在增多。而医疗界也放宽了变性手术的条件，强调医生应严格审核申请者的心理健康状况，并建议只有年满18岁者可以进行手术。这篇文章重要地反映了泰国变性手术的普及现象及其与社会文化变化的联系。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -37,12 +37,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国“变性”火爆每三万男性就有一人.md                             |
 > | Size            | 1409 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:27:34                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2799549.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2799549.d.html)                       |
+> | Author          | 三秦都市报                               |
+> | Region          | 泰国                               |
+> | Date            | 2004-02-27                                 |
+> | Tags            | 变性手术, 跨性别, 性别认同, 社会环境, 心理健康, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

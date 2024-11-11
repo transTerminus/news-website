@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了2008年CCTV模特大赛云南赛区一名变性选手林青（彩云妹妹）的故事。林青在接受变性手术后参加模特大赛，并以女性身份参赛，期间在众多选手中表现出色，成功晋级决赛。然而，在决赛前夕，比赛组委会质疑她的性别身份，决定取消她的参赛资格。尽管林青在报名表上填写了性别为'女'，组委会仍对此提出质疑。林青奋起申请，提交证据证明自己的身份，并最终获得参赛资格。在最终的云南赛区决赛中，她成功取得前10名的好成绩，并赢得了“最受关注奖”。通过这篇文章，读者可以清楚了解到跨性别者在追求梦想过程中所面临的社会偏见和身体身份认同的挑战，以及林青的坚韧和努力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -54,12 +54,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性后参加CCTV模特大赛遭质疑[组图]_资讯.md                             |
 > | Size            | 3124 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:26:20                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200809/0911_1400_780210.shtml](https://news.ifeng.com/photo/society/200809/0911_1400_780210.shtml)                       |
+> | Author          | 王劲松                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-09-11                                 |
+> | Tags            | 变性, 模特大赛, 跨性别, 身份认同, 社会偏见                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

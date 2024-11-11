@@ -511,7 +511,7 @@ _![](https://n.sinaimg.cn/sinakd10201/360/w180h180/20200407/e50c-irtymmw7775468.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别青少年在门诊就医过程中面临的家庭矛盾与社会压力。以医生潘柏林的经历为线索，文章描述了他在接待跨性别青少年患者时所看到的家庭撕裂和个体内心的挣扎。不同的家长对跨性别门诊的观点截然不同，有人觉得这是最后的避风港，有人则将其视为蛊惑青少年的地方。潘医生在门诊中处理着令人生畏的投诉和威胁，同时也获得了一些跨性别青少年的信任与支持。未成年跨性别者的性别认同和医疗需求更加复杂，面对家长的抵触，这些孩子迫切需要帮助与理解。文章通过真实案例揭示了跨性别儿童在家庭中遭遇的歧视与暴力，以及如何在心理与身体上承受巨大的压力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -520,12 +520,12 @@ _![](https://n.sinaimg.cn/sinakd10201/360/w180h180/20200407/e50c-irtymmw7775468.
 > |-----------------|----------------------------------------|
 > | Filename        | k_在跨性别青少年门诊，我目睹了中国家庭的撕裂_-_新浪.md                             |
 > | Size            | 26381 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:53:00                             |
+> | Original Link   | [https://k.sina.cn/article_5734996980_155d51bf40190131fn.html?from=mood](https://k.sina.cn/article_5734996980_155d51bf40190131fn.html?from=mood)                       |
+> | Author          | 陈晓妍，来源：真实故事计划（ID:zhenshigushi1）                               |
+> | Region          | 中国                               |
+> | Date            | 2023-06-08                                 |
+> | Tags            | 跨性别, 青少年, 家庭矛盾, 医疗资源, 心理健康, 社会压力, 性别认同, 生存状态, 真实故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

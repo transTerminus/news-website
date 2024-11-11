@@ -20,7 +20,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章报道了“华东第一变性人”黄宁倩在家乡天长市获得‘二代证’后的新动态，特别是她即将进行的声带异声术。这项手术旨在将她的声音更加女性化，黄宁倩表示希望通过这项手术实现自己心目中‘完美女人’的理想。尽管记者在通话中并没有察觉到她声音中的男性特征，但黄宁倩对当前的声音依然不满意，并期望改变。手术由著名耳鼻喉专家亲自主刀，而在变性过程中她已花费超过20万元。滁州市第一人民医院的章道彬主任介绍了声带异声术的基本原理，指出男性的声带通常较长，手术可以通过改变声带长度来改变声音。这篇报道突出了跨性别人士在进行身体改变手术时的心理与经济考量。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -29,12 +29,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_“变性人”要做“变声术”.md                             |
 > | Size            | 1352 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:00:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-07-19/detail-ikknscsk3951483.d.html](https://news.sina.cn/sa/2008-07-19/detail-ikknscsk3951483.d.html)                       |
+> | Author          | 新安晚报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-07-19                                 |
+> | Tags            | 跨性别, 变性人, 声带手术, 黄宁倩, 社会报道, 医疗资源, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

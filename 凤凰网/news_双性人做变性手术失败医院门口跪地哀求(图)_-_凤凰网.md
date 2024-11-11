@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了双性人王霞的真实故事，她在河南整形美容医院进行变性手术的经历，以及手术后的困境。王霞在经历了多年的心理挣扎和社会压力后，于2005年进行了性别再变和生殖器官整形手术，终于实现了成为女性的愿望。然而，手术后出现了严重的健康问题，医院对此并不认同，认为是王霞心理因素导致的。此事引发了社会的广泛关注，文章通过王霞的个人故事，反映了双性人在医疗领域面临的困难与挑战，也揭示了社会对跨性别群体的偏见与误解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_双性人做变性手术失败医院门口跪地哀求(图)_-_凤凰网.md                             |
 > | Size            | 2169 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:44:40                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200902/0225_344_1032815.shtml](https://news.ifeng.com/society/2/200902/0225_344_1032815.shtml)                       |
+> | Author          | 李志题                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-02-25                                 |
+> | Tags            | 双性人, 变性手术, 医疗经验, 社会环境, 王霞                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

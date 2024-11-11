@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了中国国内首例变性人离婚案的开庭情况。报道的核心是马程（化名）和他的妻子娅娅之间的感情历程，以及他们在婚姻中面临的巨大社会舆论压力。马程在1996年对娅娅表达了爱意，当时他们都是女性。然而，在2003年，马程进行了变性手术，成为男性，并在随后的两年内与娅娅结婚。尽管他们的婚姻起初充满希望，但随着时间的推移，娅娅无法面对周围的压力，最终选择离开。报道中提到，娅娅选择了分手，并在法庭上表示不想再拖延，希望尽快结束这段婚姻。法律的介入为他们的感情画上了句号，而这段经历也反映了变性人群体在社会中所遭遇的困境与挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,12 +39,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_首例变性人离婚案开庭变性人妻不堪压力分手.md                             |
 > | Size            | 1565 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:36:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-08-13/detail-ikknscsk0770603.d.html?from=wap](https://news.sina.cn/sa/2006-08-13/detail-ikknscsk0770603.d.html?from=wap)                       |
+> | Author          | 钟欣                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-08-13                                 |
+> | Tags            | 变性人, 离婚案, 社会压力, 情感经历, 法律记录, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

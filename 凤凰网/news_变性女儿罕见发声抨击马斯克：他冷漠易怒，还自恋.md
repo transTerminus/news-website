@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了马斯克的变性女儿薇薇安（Vivian Jenna Wilson）在接受媒体采访时罕见地公开抨击其父亲马斯克的冷漠与易怒。薇薇安在采访中讲述了她的成长经历，特别是在跨性别过渡过程中遭遇的父亲缺席和虐待。她表示，马斯克在她表现出女性特征时的反应很残酷，甚至在她年幼时强迫她表现得更男性化。薇薇安认为马斯克的一些言论令人感到越界，并指出他在其成长过程中从未给予她应有的支持与关爱。这次采访揭示了她与父亲关系中的痛苦与挣扎，也是她首次公开表态，表达了对父亲的一些看法与感受。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -50,12 +50,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性女儿罕见发声抨击马斯克：他冷漠易怒，还自恋.md                             |
 > | Size            | 2783 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:20:11                             |
+> | Original Link   | [https://news.ifeng.com/c/8bWcoWIQ3gt](https://news.ifeng.com/c/8bWcoWIQ3gt)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2024-07-26                                 |
+> | Tags            | 跨性别, 家庭关系, 马斯克, 媒体采访, 个人经历, 社会支持, 法律与政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -21,7 +21,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了英国变性人珍·汉米尔顿（Jan Hamilton）的故事，她原名伊恩，曾是一名享有声望的军官，在英国皇家陆军伞兵团服役20年。报道提到她在变性手术后的重生经历，成为苏格兰首位变性女警官的过程以及她所遭遇的挑战和支持。珍在接受变性手术后，通过选拔考试，经过两年的训练，最终获得了女警官的职位。文章嵌入了珍的照片，展示了她在变性前后的形象。文中提到她出生在保守的渔村，受到过欺凌和性侵，但在女友的支持下勇敢转变，并成为一个象征。该报道还讨论了关于她执法能力的合法性和社会的接受程度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -30,12 +30,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国军官变性成为苏格兰首位“变性女警官”(图)_军事.md                             |
 > | Size            | 1595 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:23:33                             |
+> | Original Link   | [https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml](https://news.ifeng.com/mil/3/200905/0504_341_1138212.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 英国                               |
+> | Date            | 2009-05-04                                 |
+> | Tags            | 变性人, 跨性别, 警官, 人生经历, 社会接受, 医疗手术, 法治, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

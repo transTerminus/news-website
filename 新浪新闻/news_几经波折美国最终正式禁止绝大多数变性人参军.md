@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国于2018年重新审定的针对变性军人的禁令政策，尤其是特朗普政府在2017年提出的禁止变性人参军的方案。政策备忘录指出，患有性别焦虑症或可能需要国家提供大量医疗服务的变性人士不得服兵役。文章回顾了政策变迁，提及2016年奥巴马政府时期允许变性人参军的决定，以及最近几年的政治争议和法律诉讼。特朗普的讲话引发了公众抗议，同时还涉及到与军队服役相关的费用问题，最终形成了以禁止绝大多数变性人参军为核心的政策。本文通过多方观点的呈现，深入讨论了跨性别人士在军队服役权利方面的复杂性与挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -70,12 +70,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_几经波折美国最终正式禁止绝大多数变性人参军.md                             |
 > | Size            | 3129 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:06:28                             |
+> | Original Link   | [https://news.sina.cn/global/szzx/doc-ifyspymq2941430.d.html](https://news.sina.cn/global/szzx/doc-ifyspymq2941430.d.html)                       |
+> | Author          | 特朗普每日动向                               |
+> | Region          | 美国                               |
+> | Date            | 2018-03-24                                 |
+> | Tags            | 变性人, 军队政策, 性别焦虑症, 特朗普, 医疗费用, 法律政策, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

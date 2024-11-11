@@ -68,7 +68,7 @@ Lea T说，希望看到今年变性人在时尚界的高曝光率可以成为新
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了变性人在时尚界的崛起与挑战，重点介绍了奥普拉邀请变性人上她的节目，以及变性学生成功加入女性联谊会的事例，表明变性人逐渐受到社会接受与关注。同时，文章提及了几本相关书籍，如《我的公主男孩》，强调了对于性别问题的开放态度和重要性。文件还引用了政治学教授佩斯里库拉哈的观点，认为变性人将成为流行文化的一部分及倡导者，反映了社会对此类现象的态度变化。特别指出了变性模特Lea T的成功经历及其在变性人中的影响力，文中还回顾了变性模特在时尚历史中的角色与挑战，探讨了变性人如何用更广泛的性别概念为自己定位，展示多样的自我表达。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -77,12 +77,12 @@ Lea T说，希望看到今年变性人在时尚界的高曝光率可以成为新
 > |-----------------|----------------------------------------|
 > | Filename        | fashion_时尚圈就爱“重口味”_变性人的坎坷时尚路_-_新浪时尚.md                             |
 > | Size            | 8114 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:38:00                             |
+> | Original Link   | [http://fashion.eladies.sina.com.cn/industry/2011/0106/074619613_2.shtml](http://fashion.eladies.sina.com.cn/industry/2011/0106/074619613_2.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2011-01-06                                 |
+> | Tags            | 跨性别, 时尚, 变性人, 社会接受, 变性模特, 性别认同, 文化影响                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

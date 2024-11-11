@@ -151,7 +151,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了跨性别女性，尤其是被称为“药娘”的个体，所经历的生理和心理困境。虽然这些女性在行为上表现出女性特征，但她们却被困在生理男性的身体中，面对来自社会的歧视与误解。文章详细描绘了她们在追求女性身份的过程中所采取的药物治疗手段，如抗雄激素、雌激素等，虽然这些药物的使用能帮助她们在外观上向女性靠拢，但长期使用可能导致一系列的健康风险。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -160,12 +160,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_阉割、变性……被困在男人躯壳中的“药娘”.md                             |
 > | Size            | 7683 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:01:03                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14338990](https://m.thepaper.cn/newsDetail_forward_14338990)                       |
+> | Author          | 明月                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 药娘, 性别认同, 激素治疗, 社会歧视, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

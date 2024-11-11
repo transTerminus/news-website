@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档聚焦于‘药娘’这一群体，阐述她们的生活经历、心理挣扎以及家人和社会对她们身份转变的态度。文中披露了药娘们为实现性别认同而经历的过程，面临的挑战，诸如家庭的拒绝和社会的冷漠。同时包括了对话和访谈，揭示了药娘与家庭之间的复杂关系，如‘药娘父母：儿变“女”后的难以承受之重’和‘亮身份证遇尴尬，药娘称结婚生子很奢侈’等侧面反映了她们在社会中的生存现状。此外，涉及药物使用经验及其对身体和心理健康的影响，强调了药娘们的自我探索与反思。整体上，本文档不仅是对个体故事的记录，更是对跨性别群体在社会中生存现状的反思和探讨。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -61,12 +61,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_药娘.md                             |
 > | Size            | 1874 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:57:03                             |
+> | Original Link   | [https://m.thepaper.cn/tag/979723](https://m.thepaper.cn/tag/979723)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 药娘, 性别认同, 生命故事, 社会环境, 心理健康, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

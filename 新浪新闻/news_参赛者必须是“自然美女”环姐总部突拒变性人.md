@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了环球小姐比赛拒绝变性人陈莉莉参与选拔的事件，内容详细描述了事件的进展和涉及的各方反应。陈莉莉在接受采访时坚定表示自己的女性身份受到法律保护，并认为自己是一个真正的女人。尽管环球小姐的总部强调只接受‘自然、健康的女性’，但对于陈莉莉的境遇表示遗憾，并可能给予她在初赛中单独展示才艺的机会。此事件引起了广泛关注，反映了社会对跨性别者接受度的现状及相关的法律和文化挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -54,12 +54,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_参赛者必须是“自然美女”环姐总部突拒变性人.md                             |
 > | Size            | 3586 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:28:52                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638355.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638355.d.html)                       |
+> | Author          | 新浪新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-02-27                                 |
+> | Tags            | 跨性别, 环球小姐, 陈莉莉, 社会环境, 女性身份, 法律保护                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

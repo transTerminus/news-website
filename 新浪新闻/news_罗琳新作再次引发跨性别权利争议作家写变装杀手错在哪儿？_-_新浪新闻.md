@@ -72,7 +72,7 @@ J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了J.K.罗琳新作《问题之血》的争议，特别是书中描绘的变装杀手角色引发的跨性别权利讨论。多位评论界和跨性别权利活动人士批评罗琳在小说中对跨性别者的刻板印象，指出这种描述助长了对跨性别社群的误解和偏见。文中提到有评论认为罗琳的描述表明“永远不要相信穿裙子的男人”，引起了不少关注和讨论。此外，跨性别儿童及其家庭支持组织“美人鱼”对该书使用变装杀手的叙事也表达了担忧，认为这类描写妖魔化了跨性别者。罗琳关于性别问题的立场近日也引发了大量争议，曾经与她作品联系密切的许多演员纷纷表态反对。此文件不仅仅是对一本书的评论，而是纵深探讨了跨性别者所面对的广泛社会问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -81,12 +81,12 @@ J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因
 > |-----------------|----------------------------------------|
 > | Filename        | news_罗琳新作再次引发跨性别权利争议作家写变装杀手错在哪儿？_-_新浪新闻.md                             |
 > | Size            | 7777 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:29:43                             |
+> | Original Link   | [https://news.sina.cn/gj/2020-09-16/detail-iivhuipp4727046.d.html](https://news.sina.cn/gj/2020-09-16/detail-iivhuipp4727046.d.html)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 未知                               |
+> | Date            | 2020-09-16                                 |
+> | Tags            | 跨性别, 性别身份, 罗琳, 小说争议, 社会评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

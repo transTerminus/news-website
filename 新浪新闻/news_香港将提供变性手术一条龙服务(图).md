@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了香港医管局决定在韦尔斯亲王医院开设跨专业服务中心，以应对日益增长的变性手术需求。由于香港唯一的主刀医生袁维昌将在2015年退休，医管局采取了重组安排，旨在提供一站式服务，包括在手术之外处理变性人士的相关服务。根据报道，香港变性手术的需求越来越高，尤其是从2008/09年度的46人增加到2012/13年度的95人，特别是确诊的变性欲人士也从34人增加到70人。这篇文章提到，患者在接受手术前需经历约2年的心理评估，手术过程复杂，需要多个专科团队的合作。医管局还表示，他们将加强医护人员的培训，以提高对变性人的理解与服务质量。此次服务重整并不涉及大量公帑，部分资金将会在2015/16年度的工作规划中申请。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -65,12 +65,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_香港将提供变性手术一条龙服务(图).md                             |
 > | Size            | 3305 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:31:16                             |
+> | Original Link   | [https://news.sina.cn/sa/2013-09-27/detail-ikmxzfmk2495610.d.html](https://news.sina.cn/sa/2013-09-27/detail-ikmxzfmk2495610.d.html)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 香港                               |
+> | Date            | 2013-09-27                                 |
+> | Tags            | 变性手术, 香港, 医疗服务, 跨性别, 心理评估, 医管局, 袁维昌                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

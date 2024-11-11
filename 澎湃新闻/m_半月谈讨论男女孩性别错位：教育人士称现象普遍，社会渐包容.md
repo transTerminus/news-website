@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《半月谈》讨论了当前社会中男孩女孩性别错位现象的普遍性，文中引用了多位教育人士和学生的观点。文章指出，随着社会的包容度提高，人们对性别刻板印象的看法逐渐宽松，许多年轻人的外貌和性格并不符合传统性别标准，却依然能和谐生活。通过多个故事，作者描绘了学生间的友谊以及性别教育的重要性，强调了尊重和理解每个人内心真实自我的价值。每位讲述者都用自身经历分享了在性别认同方面的挑战和成长，并提到家庭及社会对于性别表达的影响。整篇文章鼓励大家尊重个体差异，呼吁社会给予被误解的性别表达更加包容的环境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -82,12 +82,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_半月谈讨论男女孩性别错位：教育人士称现象普遍，社会渐包容.md                             |
 > | Size            | 12093 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:02:17                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1319923](https://m.thepaper.cn/newsDetail_forward_1319923)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 性别错位, 跨性别, 社会包容, 性别教育, 女性身份, 男孩女孩, 个人故事, 教育观点                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国军方对于变性士兵的政策变动。在联邦法院的判决下，五角大楼确认将于2018年1月1日起开始接受变性士兵。这是针对特朗普总统曾试图禁止变性士兵参军的政策所做的修改。资料中提到，截至目前已有数千名变性士兵在役，且此政策最早是在奥巴马政府时期开始构思的。文章还提到国防部长马蒂斯将在2018年2月21日前制定新政策，并引用了兰德公司的研究，该研究估算出在130万美军现役士兵中，存在数千名变性人士，同时介绍了相关成本和治疗费用的预估。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -55,12 +55,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美军明年开始接受变性士兵已有数千名变性人在役.md                             |
 > | Size            | 2715 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:32:36                             |
+> | Original Link   | [https://news.sina.cn/sa/2017-12-14/detail-ikmxzfmk4893175.d.html](https://news.sina.cn/sa/2017-12-14/detail-ikmxzfmk4893175.d.html)                       |
+> | Author          | 参考消息                               |
+> | Region          | 美国                               |
+> | Date            | 2017-12-14                                 |
+> | Tags            | 变性士兵, 美国军队, 政策变更, 医疗费用, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

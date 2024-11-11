@@ -32,7 +32,7 @@ mic.com分析称，金钠的胜利代表了清晰的前进步伐，表明一旦�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了印度历史上首位变性人市长马杜•金钠（Madhu Kinnar）的当选，她在莱加尔市市长选举中击败了印度人民党候选人。金钠生于达利特种姓，曾靠在火车上表演歌舞为生，后应社区的要求参与选举。她在获胜演说中表达了对选民支持的感激，并承诺为他们的梦想而努力。尽管她的当选被视为突破性事件，但分析认为，这更是对印度人民党的一次否定。文中还提到，近年来印度对跨性别者的法律和社会接纳经历了较大波动，包括承认跨性别者为第三性别的法律决定及对同性关系的法律限制。金钠的胜利象征着跨性别者权益的改善并展示了公众支持的力量。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -41,12 +41,12 @@ mic.com分析称，金钠的胜利代表了清晰的前进步伐，表明一旦�
 > |-----------------|----------------------------------------|
 > | Filename        | m_印度选出首位变性人市长，曾靠在火车上表演歌舞糊口.md                             |
 > | Size            | 3086 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 10:05:53                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=1291737&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=1291737&from=wifiKey)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 印度                               |
+> | Date            | 2022-01-04                                 |
+> | Tags            | 变性人, 市长选举, 跨性别者, LGBT, 达利特种姓, 社会接纳                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

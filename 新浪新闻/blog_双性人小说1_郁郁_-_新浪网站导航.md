@@ -41,7 +41,7 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于双性人经历的小说，作者郁郁以第一人称叙述了自己在青春期面临性别认同危机的故事。主人公在17岁时发现自己拥有两套完整的性器官，遭遇了来自家庭和社会的误解和压力。开篇描述了她快乐的生活，直到医疗检查后，发现自己与他人不同，生活瞬间改变。她经历了深深的绝望与孤独，感到自己是一个怪物，不知如何定位自己的性别。她尝试过自杀，但在父母不断的关心和呵护中，她选择继续生活，回归表面正常却内心挣扎的校园生活。作者从个人的视角出发，描绘了双性人在生理和心理上的冲突与求索，展现了性别认同的重要性及其对个体心理的影响。整体内容深刻、细腻，引人深思，充满情感的描绘让读者感同身受。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -50,12 +50,12 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 > |-----------------|----------------------------------------|
 > | Filename        | blog_双性人小说1_郁郁_-_新浪网站导航.md                             |
 > | Size            | 2409 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:05:39                             |
+> | Original Link   | [https://blog.sina.com.cn/s/blog_4cd4aaec010008pt.html](https://blog.sina.com.cn/s/blog_4cd4aaec010008pt.html)                       |
+> | Author          | 郁郁                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-04-20                                 |
+> | Tags            | 双性人, 生命故事, 性别认同, 心理冲突, 小说, 爱情小说                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

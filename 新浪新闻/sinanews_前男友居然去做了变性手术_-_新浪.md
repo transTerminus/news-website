@@ -65,7 +65,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自新浪新闻，题为《前男友居然去做了变性手术》。文章中分析了变性手术的定义和影响，解释了手术如何使患者的自我性别认定与生物学性别之间的矛盾得以缓解，术后患者能够感到心理平衡，甚至可以组成家庭，但同时也失去了生育能力。文章还引用了许多评论者的观点，探讨了变性手术带来的社会话题，涉及到人际关系变化的幽默与困惑。整体上，文章通过对话题的讨论，反映了社会对跨性别群体的认知与接受度，以及隐含的社会风潮。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -74,12 +74,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | sinanews_前男友居然去做了变性手术_-_新浪.md                             |
 > | Size            | 3699 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:52:54                             |
+> | Original Link   | [https://sinanews.sina.cn/native_page/quanzi_814604800018784257.html](https://sinanews.sina.cn/native_page/quanzi_814604800018784257.html)                       |
+> | Author          | 许超医生                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 变性手术, 跨性别, 社会话题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

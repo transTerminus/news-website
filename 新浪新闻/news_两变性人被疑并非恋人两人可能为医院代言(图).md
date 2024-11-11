@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇报道由财新网的林韬所撰写，围绕两名变性人的故事展开，指出此前的报道可能存在不实之处。报道提到，名为红颜和雪儿的两名变性人，实际上并未完成变性手术，他们之间的关系也并非恋人，而是朋友。此外，母带涉及的圈内人士萍萍回忆了这两人早期的情况，指出他们的变性手术时间以及真实身份。此外，报道还提到现代医院对这两名变性人的代言合约，以及合约中附带的高额违约金，进一步揭示了背后可能的商业利益与情感纠葛。整篇文章反映了变性人在社会角色与身份认同方面的复杂性与挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -81,12 +81,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_两变性人被疑并非恋人两人可能为医院代言(图).md                             |
 > | Size            | 6636 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:32:05                             |
+> | Original Link   | [https://news.sina.cn/sa/2006-06-28/detail-ikftssap2652020.d.html](https://news.sina.cn/sa/2006-06-28/detail-ikftssap2652020.d.html)                       |
+> | Author          | 林韬                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2006-06-28                                 |
+> | Tags            | 变性人, 变性手术, 社会关系, 医疗代言, 媒体报道, 身份认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于变性人刘丽（化名）的故事，她在结婚后进行了变性，面临着与妻子离婚的法律难题。文件中，刘丽讲述了她从小对自己性别认同的困惑，从25岁开始接受外科变性手术，成为女性，并重新获得了法律上的女性身份。随后，她在成都结识了一位男士张军，并发展了一段恋情。然而，由于她之前的婚姻尚未解除，刘丽决定咨询当地民政部门关于变性人离婚的合法性及相关手续。该部门表示，现行法规对变性人解除婚姻关系的处理尚不明确，但可以参照协议离婚的方式进行解除。文件综合反映了变性人在法律、婚姻和社会认同上的挑战，同时也附带了公众对此话题的不同反应与评论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -61,12 +61,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_结婚后丈夫变性做女人变性人遭遇离婚难题.md                             |
 > | Size            | 3342 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:21:53                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2158162.d.html](https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2158162.d.html)                       |
+> | Author          | 李海燕                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2003-12-30                                 |
+> | Tags            | 变性人, 婚姻问题, 法律政策, 社会环境, 生命故事, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

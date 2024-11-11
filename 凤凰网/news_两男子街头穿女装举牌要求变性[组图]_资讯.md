@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了2009年04月14日，在长沙街头，两名男子穿着女装举牌，呼吁社会对变性人的理解与接纳。主角申清清表示他曾在江西举过类似的牌子，期望能够引起更多人的关注，争取医疗资源支持，实现自己的变性梦想。文章中提到，尽管他们面临社会歧视和工作困难，但仍然选择站出来发声，以期让社会正视变性人的存在。市民对此举的反应各异，有人表示不解，也有支持声音，反映出社会对变性人态度的多样性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -40,12 +40,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_两男子街头穿女装举牌要求变性[组图]_资讯.md                             |
 > | Size            | 2202 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:27:07                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200904/0414_1400_1106299_1.shtml](https://news.ifeng.com/photo/society/200904/0414_1400_1106299_1.shtml)                       |
+> | Author          | 红网                               |
+> | Region          | 未知                               |
+> | Date            | 2009-04-14                                 |
+> | Tags            | 变性手术, 变性, 社会容忍, 生存现状, 法律政策, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

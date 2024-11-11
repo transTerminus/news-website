@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位名叫刘芯的湖北小伙子的故事，他为了寻求变性手术来到云南。在文中，刘芯以自己的经历讲述了从小在女性环境中成长的心路历程，表达了对自身性别身份的强烈认同和渴望。他在医院门口举着牌子求助，由此引起了媒体的关注。刘芯提到，自己从小就是个热爱女性装扮的男孩，但在社会压力下不得不抑制自己的真实自我。他希望能通过变性手术来实现成为女性的愿望，这引发了医院医务人员对他心理状态的关注与讨论. 文章探讨了变性手术背后的伦理、法律问题及需要的心理支持，反映了社会对跨性别人士的理解和接受度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -50,12 +50,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_湖北小伙来昆想做变性手术.md                             |
 > | Size            | 3056 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:12:32                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-12-27/detail-ikmxzfmi9570607.d.html](https://news.sina.cn/sa/2009-12-27/detail-ikmxzfmi9570607.d.html)                       |
+> | Author          | 新浪新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-12-27                                 |
+> | Tags            | 跨性别, 变性手术, 生命故事, 医疗资源, 社会环境, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

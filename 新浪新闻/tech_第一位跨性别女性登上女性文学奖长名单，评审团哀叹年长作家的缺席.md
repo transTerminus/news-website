@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了第一位跨性别女性托雷·彼得斯凭借其小说《终止变性，宝贝》（Detransition, Baby）入围女性小说奖长名单的事件。这是跨性别女性首次获得该奖项提名，评审团对此表示庆祝。同时，评审团主席伯娜丁·艾瓦里斯托指出，跨性别女性也是女性，强调该奖项向所有女性开放。此外，文章还提到其他入围作品和作家，讨论了文学奖评选的相关背景，特别是提名中年长作家的缺席以及多样性的重要性。通过对该事件的报道，本文不仅展现了跨性别作家在当代文学中的地位，也反映了社会对跨性别群体认同的进步。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -63,12 +63,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | tech_第一位跨性别女性登上女性文学奖长名单，评审团哀叹年长作家的缺席.md                             |
 > | Size            | 7026 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:55:47                             |
+> | Original Link   | [https://tech.sina.cn/2021-03-19/detail-ikkntiam5333387.d.html](https://tech.sina.cn/2021-03-19/detail-ikkntiam5333387.d.html)                       |
+> | Author          | 界面新闻官方账号                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2021-03-19                                 |
+> | Tags            | 跨性别, 文学奖, 托雷·彼得斯, 女性小说奖, 社会认同, 文学权利, 性别多样性, 现代文学                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

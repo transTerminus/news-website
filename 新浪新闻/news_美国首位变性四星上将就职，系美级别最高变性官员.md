@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国首位变性四星上将蕾切尔·莱文的就职仪式。莱文于2021年10月19日宣誓就任四星海军上将，成为美国历史上最高级别的变性官员。她在美国公共卫生服务军团中担任助理卫生部长，负责应对国内各种卫生危机，包括新冠疫情和其它卫生事务。文章指出，莱文的任命被视为美国迈向平等的重要一步，但也引发了一些保守人士的质疑，他们认为这是政府的政治手段。文中还提到、莱文在宾夕法尼亚州的工作经历以及相关的争议。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -63,12 +63,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国首位变性四星上将就职，系美级别最高变性官员.md                             |
 > | Size            | 2267 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:05:15                             |
+> | Original Link   | [https://news.sina.cn/gj/2021-10-21/detail-iktzscyy0847706.d.html](https://news.sina.cn/gj/2021-10-21/detail-iktzscyy0847706.d.html)                       |
+> | Author          | 环球时报记者 思雨                               |
+> | Region          | 美国                               |
+> | Date            | 2021-10-21                                 |
+> | Tags            | 变性四星上将, 蕾切尔·莱文, 美国公共卫生服务, 政治配额, 新冠疫情处理                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

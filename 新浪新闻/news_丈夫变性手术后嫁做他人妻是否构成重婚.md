@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了陈某进行变性手术后重新结婚是否构成重婚罪的话题。案情中，秦女士与丈夫陈某在1993年结婚，2002年陈某失踪，直到2004年春节秦女士偶遇变性后的陈某，并得知其在变性手术后已再婚。针对该行为，存在两种法律意见：一种认为陈某因变性而与秦女士的婚姻自动解除，不构成重婚罪；另一种则认为即便陈某变性，其婚姻关系依旧存在，因此与他人结婚违反了法律规定，构成重婚罪。文章深入分析了婚姻法和刑法对重婚罪的认定，认为变性并不等同于法律上的“死亡”，原婚姻关系的存续未因变性而消灭，因此支持第二种意见，陈某的行为具有重婚罪的性质。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -50,12 +50,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_丈夫变性手术后嫁做他人妻是否构成重婚.md                             |
 > | Size            | 5615 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:50:26                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-11-12/detail-ikknscsi4799363.d.html](https://news.sina.cn/sa/2004-11-12/detail-ikknscsi4799363.d.html)                       |
+> | Author          | 王欣 陈晓波                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-11-12                                 |
+> | Tags            | 变性手术, 重婚罪, 法律政策, 性别认同, 婚姻法, 社会环境记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

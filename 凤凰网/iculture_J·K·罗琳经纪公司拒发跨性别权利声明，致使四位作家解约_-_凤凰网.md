@@ -36,7 +36,7 @@ Blair Partnership表示：“作为一家文学经纪公司，我们重视所有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了著名作家J·K·罗琳因其对跨性别群体发表争议性言论而引发的风波。文件阐明了事件的背景，特别是四位作家因拒绝罗琳及其经纪公司Blair Partnership未能支持跨性别者权利而解约的原因。文件中提到，这几位作家在联合声明中呼吁Blair Partnership重申对跨性别者权利的支持，但在与公司的私下谈话后，感到公司未能满足其要求。该事件引发了对出版界言论自由与社会责任的讨论，许多作家和读者开始关注公司是否能够在维护言论自由的同时，也支持弱势群体的权利。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -45,12 +45,12 @@ Blair Partnership表示：“作为一家文学经纪公司，我们重视所有
 > |-----------------|----------------------------------------|
 > | Filename        | iculture_J·K·罗琳经纪公司拒发跨性别权利声明，致使四位作家解约_-_凤凰网.md                             |
 > | Size            | 3588 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 09:49:40                             |
+> | Original Link   | [http://iculture.ifeng.com/66572657/news.shtml](http://iculture.ifeng.com/66572657/news.shtml)                       |
+> | Author          | 汤明明                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-06-25                                 |
+> | Tags            | 跨性别权利, J·K·罗琳, 作家解约, 言论自由, 出版业, 社会责任                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

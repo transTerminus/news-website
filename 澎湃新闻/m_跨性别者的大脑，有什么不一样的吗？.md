@@ -83,7 +83,7 @@ Savic说，她希望对跨性别的研究结果将有助于使性别认同成为
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别者的大脑与顺性别者的大脑之间的差异，讨论了关于性别认同的生物学基础。文章提及近年来的研究，包括使用功能磁共振成像（fMRI）技术，揭示跨性别者与其生理性别一致者在大脑结构和功能上的异同。研究人员指出，可能存在发育不匹配的情况，即个体的出生性别与他们的性别认同之间存在不一致，而这一不一致可能源于子宫内部的生理分化。此外，文章回顾了多项研究的结果，包括跨性别者在某些大脑区域的神经特征表现出对其认同性别的特征更为相似的情况。尽管存在这些生物学上的观察，科学界对性别认同的根本驱动因素仍存在激烈的讨论。文章的最后强调，性别的神经机制仍然是一个未解之谜，随着科学研究的不断深入，可能会对性别认同有更全面的理解。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -92,12 +92,12 @@ Savic说，她希望对跨性别的研究结果将有助于使性别认同成为
 > |-----------------|----------------------------------------|
 > | Filename        | m_跨性别者的大脑，有什么不一样的吗？.md                             |
 > | Size            | 14542 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:47:54                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8627724](https://m.thepaper.cn/newsDetail_forward_8627724)                       |
+> | Author          | 未知                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 大脑, 性别认同, 性别焦虑症, 生物学, 社会科学, 神经科学, 研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了福州一对双胞胎男童成功实施变性手术的案例。小男孩贝贝和他的双胞胎哥哥宝宝分别于2003年12月3日和2日，在福州儿童医院进行了手术。这一事件被认为是福建省首例男性假两性畸形的双胞胎变性手术。文章中提到，尽管医院的染色体检查结果确认两人的性别为男性，但由于外生殖器畸形，两人进行了变性手术。主刀医生陈雨历指出，男性假两性畸形患者的数量在不断上升，基因突变被认为是造成畸形的主要原因。文章还强调了环境污染及其对基因突变的潜在影响，例如孕期接触含有雌性激素成分的环境可能对胎儿的生殖系统造成影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -32,12 +32,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_福州双胞胎男童变性成功两性畸形是因基因突变(图).md                             |
 > | Size            | 1608 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:19:17                             |
+> | Original Link   | [https://news.sina.cn/sa/2003-12-05/detail-ikkntiak8763932.d.html](https://news.sina.cn/sa/2003-12-05/detail-ikkntiak8763932.d.html)                       |
+> | Author          | 海峡都市报                               |
+> | Region          | 福建省                               |
+> | Date            | 2003-12-05                                 |
+> | Tags            | 变性手术, 基因突变, 男性假两性畸形, 儿童医疗, 环境影响, 跨性别                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

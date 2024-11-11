@@ -38,8 +38,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_二十世纪最伟大的艺术家，分手只因一顿饭_-_澎湃新闻.md                             |
 > | Size            | 5458 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-10 22:03:23                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1379282](https://m.thepaper.cn/newsDetail_forward_1379282)                       |
 > | Author          | 未知                               |
 > | Region          | 未知                               |
 > | Date            | 未知                                 |

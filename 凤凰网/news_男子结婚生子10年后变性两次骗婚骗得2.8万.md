@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件报道了一名男子在结婚生子10多年后进行变性手术，成为女性。其后，这名变性女性假称要与其他男子结婚，以结婚为名义进行诈骗。被告人在变性后以不同的名字与两名男子交往，以各种理由骗取他们共计人民币27780元。最终，她因诈骗罪被法院判处有期徒刑一年六个月，并处罚金。这一案例不仅涉及个人的性别认同与转变，也反映了变性人士在社会交往中可能面临的复杂情况及相应的法律责任。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,12 +39,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子结婚生子10年后变性两次骗婚骗得2.8万.md                             |
 > | Size            | 3628 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:55:09                             |
+> | Original Link   | [https://news.ifeng.com/c/7fZA8nYMbeo](https://news.ifeng.com/c/7fZA8nYMbeo)                       |
+> | Author          | 凤凰网 导报记者 蔡力 通讯员 陈昂                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2010-12-08                                 |
+> | Tags            | 跨性别, 诈骗, 变性经历, 法律案件, 社会现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

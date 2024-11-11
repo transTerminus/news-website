@@ -99,7 +99,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了中国变性手术的合法化进程，从20世纪80年代到2009年卫生部出台《变性手术规范》的历程，详细介绍了变性手术对个体的影响及其在法律、医疗、社会方面的复杂情况。文件以杨忠婷的个人故事为主线，揭示了变性人面临的法律、医疗挑战以及心理困境。文章提到，变性手术曾在没有相关法律法规的情况下进行，医师和医院的职业操守成为手术的唯一遵循。随着变性手术的规范化，卫生部开始对变性手术进行必要的审查和监管，要求医师和患者都需遵循一定的标准与流程，以保障手术的合法性与安全性。文中还讨论了变性手术的社会舆论，以及国外的相关法律情况，表现出中国在这一领域的后续进展和面临的挑战。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -108,12 +108,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性手术20年合法路.md                             |
 > | Size            | 15716 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:08:05                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-08-28/detail-ikftssap3189440.d.html](https://news.sina.cn/sa/2009-08-28/detail-ikftssap3189440.d.html)                       |
+> | Author          | 左晨，法律与生活杂志实习生                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-06-16                                 |
+> | Tags            | 变性手术, 法律法规, 跨性别, 社会现状, 医疗资源, 医疗规范, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

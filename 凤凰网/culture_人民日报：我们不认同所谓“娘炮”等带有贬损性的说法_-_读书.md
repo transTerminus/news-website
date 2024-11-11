@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自人民日报，在2018年9月7日发表，探讨了对男性气质及其社会形象的理解。文中明确指出媒体不认同“娘炮”“不男不女”等带有贬损性的说法，并强调应在青少年中传播更为积极、向上的男性形象。文章提到近年来频繁讨论的男性气质，借助明星及军人、运动员的形象来反映社会对男性的认知，呼吁社会应当更加包容多元的男性形象。文中引用了历史和传统文化中对于男性气质的定义，并指出内在美、勇气、担当等内涵更能代表现代社会对男性形象的期待。最后，文章呼吁公共传播中需要倡导多元化的审美，强调对男性气质的客观理解与包容，以建设一个有着积极责任感的社会风尚。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -41,12 +41,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | culture_人民日报：我们不认同所谓“娘炮”等带有贬损性的说法_-_读书.md                             |
 > | Size            | 5180 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:09:49                             |
+> | Original Link   | [https://culture.ifeng.com/c/7g08mWn4K36](https://culture.ifeng.com/c/7g08mWn4K36)                       |
+> | Author          | 人民日报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2018-09-07                                 |
+> | Tags            | 男性气质, 审美多元, 性别平等, 社会认知, 文化传播                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名为佩里的女子的独特家庭故事。她的父亲史蒂芬和丈夫帕伦特都决定变性，为佩里带来了两位新的‘闺蜜’。故事中提到，史蒂芬自幼就对女性服装感兴趣，并在45岁时决定进行性别转变，改名为海伦。佩里对此表现出极大的支持，认为自己的父亲应当做真实的自己。几年后，当佩里的未婚夫帕伦特也宣称想变性时，佩里感到极为震惊，但仍然选择支持他。最终，佩里与帕伦特在法国结婚，并在丈夫进行性别变更前怀孕。夫妻之间的情感在这场转变中依然坚固，同时海伦也找到了新的恋人Tracie。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -42,12 +42,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_父亲与丈夫一起变性3人成闺蜜.md                             |
 > | Size            | 2414 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:56:35                             |
+> | Original Link   | [https://news.ifeng.com/a/20140725/41301176_0.shtml](https://news.ifeng.com/a/20140725/41301176_0.shtml)                       |
+> | Author          | 现代快报                               |
+> | Region          | 英国                               |
+> | Date            | 2014-07-25                                 |
+> | Tags            | 变性, 性别认同, 家庭关系, 跨性别, 医疗经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

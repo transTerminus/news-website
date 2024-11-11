@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件报道了美国卫生部助理部长雷切尔·莱文（Rachel Levine）宣誓就任四星海军上将，成为美国历史上第一位公开变性人的最高军官。莱文在2021年10月20日的宣誓仪式上强调这次任命的历史意义，称希望未来会有更多类似的任命。文件中详细介绍了莱文的个人背景，包括她的教育经历及变性过程，以及其在宾夕法尼亚州卫生部门的工作情况。同时，文件提及了莱文任命所引发的争议和保守派的批评意见。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -69,12 +69,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美军变性人宣誓就任四星上将成美国最高跨性别官员.md                             |
 > | Size            | 3869 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:45:24                             |
+> | Original Link   | [https://news.sina.cn/2021-10-21/detail-iktzqtyu2716005.d.html](https://news.sina.cn/2021-10-21/detail-iktzqtyu2716005.d.html)                       |
+> | Author          | 观察者网 王世纯                               |
+> | Region          | 美国                               |
+> | Date            | 2021-10-21                                 |
+> | Tags            | 跨性别, 雷切尔·莱文, 美军, 四星上将, 历史性任命, 公共卫生服务军官团, 社会政策, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了一名16岁中学生丁纯因为患有严重的真两性畸形而接受手术恢复性别的真实案例。丁纯在出生后因外生殖器的特殊性让家人无法确认性别，最后决定以男孩身份抚养。然而，随着成长，她的身体出现女性性征，青春期的变化让她不得不隐瞒自己的身份，最终无法继续在学校生活。经过医院的检测，确认其染色体核型为46,XX/46,XY，显示其具有双重性别特征。文章详细描述了手术的复杂过程，包括手术团队的组成及手术持续的9小时，并指出早期检测和治疗的重要性。丁纯的手术成功使她最终得以成为一个女孩，医生表示她未来甚至有成为母亲的机会。此报道引发了对生殖畸形儿童早期干预的讨论，旨在减少性别错位对患者心理和家庭的影响。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -48,12 +48,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_16岁中学生患两性畸形做手术恢复女儿身(图)_-_新浪新闻.md                             |
 > | Size            | 2761 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:35:39                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-04-16/detail-ikkntiam3265191.d.html](https://news.sina.cn/sa/2005-04-16/detail-ikkntiam3265191.d.html)                       |
+> | Author          | 刘畅，白雪                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2005-04-16                                 |
+> | Tags            | 跨性别, 两性畸形, 生殖整形, 医院手术, 性别认同, 心理健康, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

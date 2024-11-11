@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了纽约第一位变性警官琼·罗的故事。她原是一名31岁的亚裔男警官，名为约翰·罗，现已成功进行性别变更，成为正式的女性警官。报道详细描述了琼·罗在变性过程中的身心变化，包括她服用雌性荷尔蒙的经历，以及她在同事面前宣布变更名字和性别的全过程。在支持与鼓励的环境中，琼·罗感到欣慰，并表示变性需要勇气，同时她也希望能在未来分享更多的经历。此外，报道提到了她的上司为她提供单独更衣室的举动，体现了对她新身份的认可。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -42,12 +42,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_31岁亚裔男警官变女性纽约惊现首例变性警官.md                             |
 > | Size            | 2792 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:05:40                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-06-24/detail-ikknscsi7062981.d.html](https://news.sina.cn/sa/2005-06-24/detail-ikknscsi7062981.d.html)                       |
+> | Author          | 新华网官方账号                               |
+> | Region          | 美国                               |
+> | Date            | 2005-06-24                                 |
+> | Tags            | 变性警官, 跨性别, 社会接受, 医疗经历, 勇气与身份认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

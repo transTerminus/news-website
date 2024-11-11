@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了中国著名的变性舞蹈家金星及另一位变性美女刘诗涵。金星是中国现代舞的创始人之一，1968年出生于辽宁沈阳，小时候就表现出强烈的变性欲望，并于1995年接受了变性手术。她以独特的舞蹈风格和丰富的表演经历而闻名，曾在国际舞蹈巡演中取得了显著成就。文章中提到金星与她的德国籍丈夫汉斯及收养的孩子们的生活，同时介绍了她在中国媒体上的受欢迎程度和影响力。文末附带了一些相关新闻链接，展现了她在文化和社会方面的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -38,12 +38,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | sd_舞蹈家金星宅男女神刘诗涵中国最知名十大变性美女_-_凤凰网山东.md                             |
 > | Size            | 2344 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:08:35                             |
+> | Original Link   | [http://sd.ifeng.com/zbc/detail_2014_07/23/2638170_0.shtml](http://sd.ifeng.com/zbc/detail_2014_07/23/2638170_0.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2014-07-23                                 |
+> | Tags            | 变性美女, 变性手术, 金星, 现代舞, 中国舞蹈界                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

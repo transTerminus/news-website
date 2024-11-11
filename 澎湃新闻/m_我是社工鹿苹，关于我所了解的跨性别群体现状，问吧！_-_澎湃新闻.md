@@ -125,7 +125,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由社工鹿苹撰写，深入探讨了跨性别群体在中国社会中的现状与挑战。鹿苹以Q&A的形式回答了关于跨性别者成长、心理健康、医疗资源和法律政策等方面的多个问题，分享了她在工作中接触到的真实故事和数据。此外，鹿苹指出，世界卫生组织已经将跨性别从精神疾病中去除，并提及了国内在跨性别者权益保护方面的进展。文章中也涉及到跨性别者在日常生活中面临的困难，如使用公共卫生间、接受医疗支持等，以及社会对跨性别的理解与接纳程度存在的不足。根据北京大学的调查报告，跨性别女性和男性的术后需求与完成比例也作了一定的披露，为读者展示了跨性别者在性别认同上的复杂性和社会环境中的压力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -134,12 +134,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！_-_澎湃新闻.md                             |
 > | Size            | 12356 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 21:46:10                             |
+> | Original Link   | [https://m.thepaper.cn/asktopic_detail_10027872](https://m.thepaper.cn/asktopic_detail_10027872)                       |
+> | Author          | 鹿苹                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2024-10-12                                 |
+> | Tags            | 跨性别, 心理健康, 社会现状, 法律政策, 生存现状, 医疗资源, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

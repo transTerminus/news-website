@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自凤凰网资讯，报道了一名变性人在泰国参加征兵仪式的事件。文章详细描述了活动发生的背景时间和地点，指出时间为2017年4月5日，地点在曼谷的Klong Toey贫民窟的一所学校。文中介绍，这名变性人在一群准备服兵役的男子中递交自己的档案，显现出跨性别者在传统男性角色中的参与。这一事件引发了网友的评论和讨论，涉及对军队战斗力和征兵制度的不同看法，对跨性别者现状的反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -42,12 +42,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰国变性人参加征兵仪式_资讯频道.md                             |
 > | Size            | 1396 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:48:32                             |
+> | Original Link   | [https://news.ifeng.com/a/20170406/50896573_0.shtml](https://news.ifeng.com/a/20170406/50896573_0.shtml)                       |
+> | Author          | 黄宇飞                               |
+> | Region          | 泰国                               |
+> | Date            | 2017-04-06                                 |
+> | Tags            | 跨性别, 征兵, 泰国, 社会现象, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇报道讲述了19岁湖南小伙申清清的故事，她渴望变性并努力追寻自己的梦想。申清清从小被抛弃，在养父母家长大，表现出女孩的性格特征和举止，早早萌生了变性愿望。然而，由于缺乏资金，她多次寻求帮助，最终通过参与选秀节目获得了整形医院免费为她进行变性手术的机会。文章详细描述了她的经历，从广州到长沙，再到南昌，她为了实现梦想而不懈努力，最终在选秀中获得认可。她的故事反映了跨性别者面对的挑战以及对自我认同的坚持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -64,12 +64,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_19岁湖南小伙要做江西第一变性人（组图）.md                             |
 > | Size            | 4076 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:04:37                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-04-08/detail-ikknscsk4662097.d.html](https://news.sina.cn/sa/2009-04-08/detail-ikknscsk4662097.d.html)                       |
+> | Author          | 红网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-04-08                                 |
+> | Tags            | 跨性别, 变性手术, 生命故事, 选秀节目, 社会环境, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

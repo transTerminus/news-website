@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了来自湖北荆门的杨柳（化名）的生命故事，他是广州首位从男性变为女性的变性人。文章详细记录了杨柳从年轻时因染色体异常而进行的第一次变性手术的失败，以及这次手术给他带来的身体和心理上的痛苦。他在10岁时接受了手术，但未能成功实现性别转变，反而在之后的22年里忍受着严重的身体困扰和无法体验正常生活的痛苦。随着时间的推移，杨柳意识到他对女友的情感，以及他不愿意拖累女友的愿望，促使他决定再一次改变自己的性别。文章中还提到，杨柳即将接受的变性手术将分为三期，医院的专家对他的情况进行了认真的评估，认为变性为女性更符合手术条件。该事件引发了网友的热议和关注，同时也探讨了跨性别者面临的挑战与困境。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -45,12 +45,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_广州首位“男变女”变性人为女友二次变性(图).md                             |
 > | Size            | 3364 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:54:27                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-09/detail-ikknscsi5103950.d.html](https://news.sina.cn/sa/2004-12-09/detail-ikknscsi5103950.d.html)                       |
+> | Author          | 李立志                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-12-09                                 |
+> | Tags            | 跨性别, 变性人, 生命故事, 医疗资源, 法律政策, 社会环境, 生存现状, 人权, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

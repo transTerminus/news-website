@@ -207,7 +207,7 @@ Macaleo一个人去了上海的医院，诊断结果在她的预料之中：她�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了跨性别治疗领域的现状，通过潘柏林医生的视角，揭示了跨性别者在接受医疗支持时所面临的困难与挑战。文章详细阐述了跨性别者的定义、治疗方法包括激素疗法和性别重置手术，以及医学界对跨性别治疗的逐步接受和变化。潘医生作为北医三院跨性别治疗团队的负责人，分享了他与跨性别患者及其家庭的互动，讨论了如何通过专业的医疗与心理支持，以帮助跨性别者实现自我认同的转变。文中提到的《跨性别生存报告》揭示了跨性别者在社会、家庭以及医疗方面的多重困境。最后，文章还展望了跨性别群体的未来及潘医生团队的努力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -216,12 +216,12 @@ Macaleo一个人去了上海的医院，诊断结果在她的预料之中：她�
 > |-----------------|----------------------------------------|
 > | Filename        | m_潘柏林：跨性别治疗很冷门，但TA们需要医学支持.md                             |
 > | Size            | 20351 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:48:57                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8786958](https://m.thepaper.cn/newsDetail_forward_8786958)                       |
+> | Author          | 刘皖媛                               |
+> | Region          | 中国大陆                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 医学支持, 激素疗法, 性别重置手术, 生存现状, 医疗资源, 家庭支持, 心理辅导, 社会认知                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

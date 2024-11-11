@@ -438,7 +438,7 @@ Nora告诉导演，这个过程里，
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了维密品牌首次启用变性模特瓦伦蒂娜的消息。22岁的瓦伦蒂娜来自巴西，她的故事展示了一个跨性别者勇敢追逐梦想的历程。文章回顾了她从小渔村长大到成为模特的经历，强调了她家人对她性别认同的支持。同时，文章提到瓦伦蒂娜在进入时尚界后遇到的歧视和困难，以及她是如何克服这些障碍。瓦伦蒂娜的成功不仅是个人成就，也反映了跨性别者在社会中逐渐取得的认可和变迁。它强调了公众对跨性别身份的认知变化，展示了当今社会多样化的努力和进展。总结中提到，跨性别者所追求的是内心对自我的认同，而不仅仅是身体上的改变。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -447,12 +447,12 @@ Nora告诉导演，这个过程里，
 > |-----------------|----------------------------------------|
 > | Filename        | m_维密首次启用变性模特：“我想成为女人”.md                             |
 > | Size            | 11300 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:34:12                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_4101736](https://m.thepaper.cn/newsDetail_forward_4101736)                       |
+> | Author          | Lens                               |
+> | Region          | 未知                               |
+> | Date            | 2023-10-05                                 |
+> | Tags            | 跨性别, 模特, 时尚, 社会认同, 生存现状, 自我认同, 瓦伦蒂娜                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

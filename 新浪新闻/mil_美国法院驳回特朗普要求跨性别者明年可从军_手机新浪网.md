@@ -28,7 +28,7 @@ All Rights Reserved 新浪公司 [版权所有](//corp.sina.com.cn/chn/copyright
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了美国法院驳回特朗普政府要求推迟跨性别人士入伍的请求。2017年12月11日，美国联邦地区法院法官柯勒-柯特里裁定，政府无法提供足够的证据证明2018年1月1日允许跨性别者入伍会给军方和政府带来无法挽回的伤害。法院指出，政府在近一年半内已充分准备实施这一政策。此判决意味着，跨性别者将在2018年1月1日起得以合法参军。美国国防部随后表示将开始为新政做准备。这一决定象征着对跨性别权益的支持，也显示出法律在性别与军事政策之间的复杂关系。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -39,10 +39,10 @@ All Rights Reserved 新浪公司 [版权所有](//corp.sina.com.cn/chn/copyright
 > | Size            | 1493 bytes                           |
 > | Archived Date   | [Unknown archived date(update needed)]                             |
 > | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Author          | 赵怡蓁                               |
+> | Region          | 美国                               |
+> | Date            | 2017-12-11                                 |
+> | Tags            | 跨性别, 军事, 特朗普, 入伍, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

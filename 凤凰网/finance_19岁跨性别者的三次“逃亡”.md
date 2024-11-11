@@ -14,7 +14,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一位19岁跨性别者的三次"逃亡"经历的报道，来源于凤凰网。文章通过视频展示了该跨性别者在不同阶段遇到的挑战和勇敢的选择。这些"逃亡"并不仅仅是身体上的移动，更是心理上的挣扎与自我认同的追寻。视频长度为2分30秒，观看次数达到2.5万，反映了社会对跨性别者生存现状的关注。特别声明部分强调了内容为用户上传，凤凰网仅提供信息存储空间的服务。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -23,12 +23,12 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 > |-----------------|----------------------------------------|
 > | Filename        | finance_19岁跨性别者的三次“逃亡”.md                             |
 > | Size            | 719 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:16:55                             |
+> | Original Link   | [https://finance.ifeng.com/c/7xjTkFyStMG](https://finance.ifeng.com/c/7xjTkFyStMG)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-06-30                                 |
+> | Tags            | 跨性别者, 生命故事, 社会环境, 心理健康, 自我认同, 逃亡经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

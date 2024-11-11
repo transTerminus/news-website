@@ -255,7 +255,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了著名作家J.K.罗琳因其对跨性别者的言论而遭遇网络暴力的事件。罗琳因在社交媒体上就"来月经的人"的表述发表看法，引发跨性别群体强烈反对，并被认为是歧视。文章回顾了罗琳早先的争议以及她与跨性别群体之间的对立，探讨了当代人对“政治正确”的期望和对复杂问题的处理能力的下降，反映了网络上的极端言论和行为可能导致的非理性矛盾。作者指出，虽然罗琳的某些言论出发点是出于对生理性别的关心，但她的表达与公众的解读之间却形成了巨大的鸿沟。同时，文章还引入了社会对经典文学作品及其作者的审视，强调了对个体复杂性的理解的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -264,12 +264,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_赚几百亿，被网暴算什么.md                             |
 > | Size            | 10673 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:05:55                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_15592275](https://m.thepaper.cn/newsDetail_forward_15592275)                       |
+> | Author          | 书单君                               |
+> | Region          | 未知                               |
+> | Date            | 未知                                 |
+> | Tags            | 跨性别, 网络暴力, 社会环境, 法律政策, 文学艺术, J.K. 罗琳                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

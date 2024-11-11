@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了卫生部于2009年6月17日发布的《变性手术技术管理规范》，明确要求申请变性手术的患者必须年满20岁，且需满足一系列条件。根据规范，术前患者必须提供无在案犯罪记录证明以及经过心理、精神治疗的诊断证明。手术必须在符合伦理实施的医疗机构中进行，医务人员需尊重患者隐私权并为其提供后续的随访和生活质量评估。该文件详细列出了进行变性手术的医疗标准和流程，为推动跨性别人士的医疗保障和权利保护提供了参考依据。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -55,12 +55,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_申请变性手术须年满20岁.md                             |
 > | Size            | 3014 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:06:51                             |
+> | Original Link   | [https://news.sina.cn/sa/2009-06-17/detail-ikknscsk4897771.d.html](https://news.sina.cn/sa/2009-06-17/detail-ikknscsk4897771.d.html)                       |
+> | Author          | 叶洲                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2009-06-17                                 |
+> | Tags            | 变性手术, 跨性别, 医疗规范, 法律政策, 心理健康, 生存权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

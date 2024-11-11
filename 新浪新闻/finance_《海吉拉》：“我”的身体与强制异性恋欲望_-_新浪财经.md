@@ -75,7 +75,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了南亚与东南亚传统中“海吉拉”群体的历史与文化，分析了现代西方社会如何影响与重新定义这一群体。从古代印度神话中的“海吉拉”形象出发，强调其在传统婚葬仪式中的重要性，揭示了在现代西方严峻的性别双元论影响下，‘海吉拉’群体的现状与挑战。文件深入探讨了身体与身份的关系，借助电影《海吉拉》的情节，考量了跨性别者在面对身体及社会认同时的复杂心境与挣扎。文章同时引用了多位学者对于性别的理论，特别是朱迪斯·巴特勒的建构主义视角，探讨了性别身份的社会文化建构过程，以及主流异性恋文化中的排斥与边缘化现象。最后，文中也提到了爱与灵魂的复杂关系，呼吁社会对性别身份的多元理解与尊重。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -84,12 +84,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | finance_《海吉拉》：“我”的身体与强制异性恋欲望_-_新浪财经.md                             |
 > | Size            | 19440 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:16:41                             |
+> | Original Link   | [https://finance.sina.cn/2019-02-10/detail-ihrfqzka4664652.d.html](https://finance.sina.cn/2019-02-10/detail-ihrfqzka4664652.d.html)                       |
+> | Author          | 重木                               |
+> | Region          | 未知                               |
+> | Date            | 2019-02-10                                 |
+> | Tags            | 性别研究, 跨性别, 海吉拉, 社会文化, 身体与身份, 朱迪斯·巴特勒, 强制异性恋                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

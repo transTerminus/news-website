@@ -149,7 +149,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了跨性别者山姆·布林顿(Sam Brinton)的争议经历，特别是他因偷盗行李箱而引发的法律问题。山姆生理上为男性，但心理认同为女性，是美国历史上首位性别流动的高级政府官员。他的身份与成就是许多人认同和支持的标志，然而他却因涉嫌在公共场所偷盗而多次被捕。文章详细介绍了他的背景、性别认同以及与时尚设计师之间的冲突，描绘了他在公众视野中的复杂形象，以及社会对他行为的反响和法律后果。文章的评论部分显示了公众对山姆及其行为的不同看法，进一步体现了跨性别者在现代社会中遭遇的各种挑战与争议。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -158,12 +158,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_“性别流动”部长，居然多次偷行李箱？_-_新浪新闻.md                             |
 > | Size            | 9705 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 07:31:13                             |
+> | Original Link   | [https://news.sina.cn/gj/2023-02-26/detail-imyhyscv1294210.d.html](https://news.sina.cn/gj/2023-02-26/detail-imyhyscv1294210.d.html)                       |
+> | Author          | 冰姐                               |
+> | Region          | 美国                               |
+> | Date            | 2023-02-26                                 |
+> | Tags            | 跨性别, 性别流动, 山姆·布林顿, 偷盗事件, 公众反响, 美国政治, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了澳洲一名因憎恨女性而连杀三人的男子保罗·丹尼尔请求通过纳税人的资金进行变性手术的事件。文章详细描述了丹尼尔在1993年制造的一系列凶杀案，当时他在短短的七周内刺杀了三名年轻女性，受害者包括18岁女孩伊丽莎白和刚生下婴儿的22岁女性黛比。丹尼尔在法庭上承认对女性的仇恨，并表现出病态的自恋。文章提到，尽管丹尼尔在服刑期间尝试将自己的性别认同转变为女性，并有所外貌改变，但仍然遭到其他囚犯的谴责及社会人群的强烈反对。最终，公共卫生部门驳回了他的变性申请，并安排心理医生进行干预。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -33,12 +33,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_澳洲杀人魔要变性成为女人曾因憎恨女性连杀3人.md                             |
 > | Size            | 1835 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:44:04                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-06-28/detail-ikkntiam0294951.d.html](https://news.sina.cn/sa/2004-06-28/detail-ikkntiam0294951.d.html)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 未知                               |
+> | Date            | 2004-06-28                                 |
+> | Tags            | 跨性别, 变性手术, 案件报道, 女性仇恨, 犯罪心理, 社会反响                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

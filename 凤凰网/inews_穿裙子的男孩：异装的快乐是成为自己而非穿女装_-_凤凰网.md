@@ -158,7 +158,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了一位名叫江林的跨性别者的个人故事，详细记录了他的自我认同过程、穿着女装的勇气、与社会的抗争及生活中的细节。江林在经历了漫长的内心斗争后，终于能够明确地定义自己为一个跨性别者，并表示“异装的快乐来源，是成为自己而非穿上女装”。他分享了自己在商场试衣时的经历，以及在社交网络中获得支持的经过。同时，江林也提到自己对声线和外貌的逐步改变，以及与父母的关系和对社会偏见的挑战。他的故事反映出在中国目前的社会环境下，跨性别者所面临的复杂局面，虽有勇气与努力，但也有不少来自家庭和社会的压力。文章通过江林的经历展示了跨性别者在寻求自我认同与社会接受过程中所经历的痛苦与坚持。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -167,12 +167,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | inews_穿裙子的男孩：异装的快乐是成为自己而非穿女装_-_凤凰网.md                             |
 > | Size            | 13494 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:03:08                             |
+> | Original Link   | [http://inews.ifeng.com/50729702/news.shtml](http://inews.ifeng.com/50729702/news.shtml)                       |
+> | Author          | 卫诗婕                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2017-02-24                                 |
+> | Tags            | 跨性别者, 性别认同, 个人故事, 社会环境, 医疗资源, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

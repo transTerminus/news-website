@@ -116,7 +116,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了变性人莉莉为参加“环球小姐”选美大赛而面临被取消参赛资格的事件。莉莉在接受采访时透露了自己做变性手术后的生活，表达了她对参赛的热情和期待。虽然她近期进行了医疗美容以提升自己的外貌，但在比赛进行前夕，她接到环球小姐中国总部的通知，因其变性人身份不符合参赛条件，资格被取消。文章中详细描述了莉莉的个人经历、她对此事件的反应，以及社会对变性人参与选美比赛的不同看法。报道同时引用了专家意见，指出法律上已承认变性人应享有与生理女性同等的权利，因此取消莉莉的参赛资格被视为不公平的行为。整篇文章反映了变性人在社会中面临的法律和文化挑战，以及对个人认同与社会期待之间的冲突。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -125,12 +125,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人“莉莉”被取消环球小姐参赛资格(组图).md                             |
 > | Size            | 8318 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:29:26                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638393.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638393.d.html)                       |
+> | Author          | 黄苏娟, 殷文静                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-02-27                                 |
+> | Tags            | 跨性别, 选美, 环球小姐, 法律与社会, 变性人经历, 莉莉                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

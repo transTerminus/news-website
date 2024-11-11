@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了苏格兰最近通过的一项名为“性别认知法案”的新法案，该法案旨在使变性过程更加简便。根据该法案，跨性别者在申请性别认可证书（GRC）时，将不再需要医学诊断证明，取而代之的是只需在政府系统上自我声明。此外，该法案将申请者的最低年龄要求从18岁降低至16岁。英国首相苏纳克对此法案表示关注，他认为这一法案可能对整个英国产生影响，并提到，最近英国针对跨性别者的仇恨犯罪持续上升。文章还提及，苏格兰政府坚信此法案不会影响《平等法》。一旦该法案实施，将会成为全英首个批准性别自我认同程序的地区。文章不仅仅涵盖了法案本身，还分析了法案通过可能引发的政治争议和宪法冲突。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -56,12 +56,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_苏格兰要让变性“更容易”，英国政府坐不住了.md                             |
 > | Size            | 3240 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:48:10                             |
+> | Original Link   | [https://news.sina.cn/2023-01-15/detail-imyaftrk2097270.d.html](https://news.sina.cn/2023-01-15/detail-imyaftrk2097270.d.html)                       |
+> | Author          | 观察者网官方账号                               |
+> | Region          | 英国                               |
+> | Date            | 2023-01-15                                 |
+> | Tags            | 跨性别, 性别认知法案, 苏格兰, 权益, 法律政策, 社会环境, 仇恨犯罪                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

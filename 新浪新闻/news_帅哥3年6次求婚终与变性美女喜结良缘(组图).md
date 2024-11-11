@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章报道了一位变性美女钟洁希与新郎马思健的婚礼故事。钟洁希是马来西亚一位小有名气的歌手，在进行变性手术后，转变为一名美丽淑女。新郎马思健为落泪伊始，他在与钟洁希的讲座中邂逅，并经历了3年的求婚历程，共进行6次求婚，最终感动她答应婚约。在这场隆重的婚礼上，钟洁希与马思健耗资20万令吉，于古晋市的皇冠酒店举行了盛大的庆典。然而，尽管两人关系深厚，但马来西亚的法律并不承认他们的婚姻，因钟洁希作为变性人无法为家庭传宗接代，这显示出社会对跨性别群体在法律和文化上的复杂态度。文章还收录了网友对此事件的热烈评论，反映出公众对跨性别者和婚姻的不同看法。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -47,12 +47,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_帅哥3年6次求婚终与变性美女喜结良缘(组图).md                             |
 > | Size            | 2724 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:13:28                             |
+> | Original Link   | [https://news.sina.cn/sa/2005-11-16/detail-ikkntiam5115162.d.html](https://news.sina.cn/sa/2005-11-16/detail-ikkntiam5115162.d.html)                       |
+> | Author          | 扬子晚报                               |
+> | Region          | 马来西亚                               |
+> | Date            | 2005-11-16                                 |
+> | Tags            | 跨性别, 婚姻, 社会事件, 法律问题, 生存现状, 马来西亚                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

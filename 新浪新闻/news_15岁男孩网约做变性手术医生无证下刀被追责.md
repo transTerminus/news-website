@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文围绕一起涉及未成年人进行变性手术的案例进行报道。文章讲述了一位15岁男孩小楠的故事，他对自己的性别感到厌恶，最终选择在没有父母同意和医生执业资格的情况下，通过网络联系到一个实习医生“CC姐姐”进行睾丸切除手术。手术后，小楠的父亲在检查时才得知儿子私自进行了手术，并随即报案。事件导致实习医生因故意伤害罪被检察院批准逮捕。检察官强调，未成年人的心理和生理尚未成熟，家长的疏忽在此事件中起到了重要作用。同时，文章也提到我国关于变性手术的相关政策与规定，以及医生如何在没有合法资格的情况下进行手术所带来的法律和伦理问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -71,12 +71,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_15岁男孩网约做变性手术医生无证下刀被追责.md                             |
 > | Size            | 6269 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 03:20:15                             |
+> | Original Link   | [http://news.sina.cn/2015-11-12/detail-ifxksqku2855289.d.html](http://news.sina.cn/2015-11-12/detail-ifxksqku2855289.d.html)                       |
+> | Author          | 正义网                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-11-12                                 |
+> | Tags            | 跨性别, 变性手术, 未成年人, 医疗行为, 法律责任, 社会关注, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

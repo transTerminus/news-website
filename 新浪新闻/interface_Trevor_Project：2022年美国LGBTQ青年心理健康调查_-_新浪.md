@@ -42,7 +42,7 @@ Trevor Project将以研究简报和研究报告的形式发布这个多样化样
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于2022年美国LGBTQ青年心理健康调查的综合报告，发起人是Trevor Project。调查数据显示，在过去三年中，LGBTQ青年的自杀念头显著上升，显示出这一群体面临的心理健康危机。报告包含了全国近34000名13至24岁LGBTQ青年的数据，强调了有色人种LGBTQ青年和跨性别者的特殊困境。仅有不到三分之一的跨性别和非二元青年表示家庭支持性别认同，同时，调查也指出社会支持的缺乏与自杀率之间的直接关联。文件中还提及了LGBTQ青年在寻求心理健康护理时的障碍，以及社区环境对青少年心理健康的影响。此外，报告显示，获得学校支持的LGBTQ青年自杀未遂率相对较低。这一研究的目的在于推动相关政策的改善，提高公众对LGBTQ心理健康问题的认识。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -51,12 +51,12 @@ Trevor Project将以研究简报和研究报告的形式发布这个多样化样
 > |-----------------|----------------------------------------|
 > | Filename        | interface_Trevor_Project：2022年美国LGBTQ青年心理健康调查_-_新浪.md                             |
 > | Size            | 3861 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:36:25                             |
+> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2023-03-26%2Fdoc-imyncuyp9141328.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2023-03-26%2Fdoc-imyncuyp9141328.shtml)                       |
+> | Author          | Trevor Project                               |
+> | Region          | 美国                               |
+> | Date            | 2023-03-26                                 |
+> | Tags            | 心理健康, LGBTQ, 青年, 自杀预防, 跨性别者, 法律政策, 社会环境, 研究资料                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -242,8 +242,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_《翠丝》：一个中年跨性别者的选择.md                             |
 > | Size            | 10556 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:24:02                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2671259](https://m.thepaper.cn/newsDetail_forward_2671259)                       |
 > | Author          | 李骏硕                               |
 > | Region          | 香港                               |
 > | Date            | 未知                                 |

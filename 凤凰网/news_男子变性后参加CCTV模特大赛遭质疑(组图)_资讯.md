@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了2008年CCTV模特大赛云南赛区的参赛选手林青（彩云妹妹）的故事。林青因在某整形美容医院接受变性手术，从男性身份转变为女性，报名参加模特大赛。尽管她在比赛中获得了评委和观众的认可，表现出色，但她的性别身份遭到质疑，比赛组委会于决赛前夕取消了她的参赛资格。林青为此不甘心，向组委会递交了个人申请，说明了自己的变性经历，并填写了相关证件和证明材料。经过核实后，组委会最终允许她参与决赛，林青最终在决赛中获得了前10名的好成绩，并获得了“最受关注奖”。尽管没有进入总决赛，但她的坚持和努力感动了许多人，展现了变性人对梦想的追求和勇气。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_男子变性后参加CCTV模特大赛遭质疑(组图)_资讯.md                             |
 > | Size            | 2910 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:28:58                             |
+> | Original Link   | [https://news.ifeng.com/society/2/200809/0911_344_779109.shtml](https://news.ifeng.com/society/2/200809/0911_344_779109.shtml)                       |
+> | Author          | 王劲松                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-09-11                                 |
+> | Tags            | 跨性别, 模特大赛, 变性, 社会环境, 坚韧故事, 性别认同, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

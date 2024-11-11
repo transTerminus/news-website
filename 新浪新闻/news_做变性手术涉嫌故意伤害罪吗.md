@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性手术在法律上的性质问题，分析了变性手术是否涉嫌故意伤害罪的争论。文章指出，中国公安大学副教授韩友谊在司法考试辅导班上表示，司法部的教材将变性手术视为非法医疗行为，从而间接讨论其可能的法律后果。对此，多个法律专家提出反驳，认为变性手术应被视为合法的医疗行为，医生没有伤害故意，因此不应构成犯罪。文章深入探讨了变性手术涉及的自愿和法律效力的问题，论述了变性者在心理健康情况下的意愿是否构成有效的法律依据，以及在何种情况下变性手术可能引发法律责任。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -47,12 +47,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_做变性手术涉嫌故意伤害罪吗.md                             |
 > | Size            | 4505 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 06:02:24                             |
+> | Original Link   | [https://news.sina.cn/sa/2008-09-24/detail-ikkntian0956898.d.html](https://news.sina.cn/sa/2008-09-24/detail-ikkntian0956898.d.html)                       |
+> | Author          | 未知                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-09-24                                 |
+> | Tags            | 变性手术, 法律讨论, 故意伤害罪, 跨性别, 心理健康, 医疗法律                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了美国纽约耶什华大学的一名文学教授乔尔·拉丁的变性故事。两年前，拉丁决定进行变性手术，并在2008年重返校园时已经成为女性，着装打扮女性化，引起师生们的惊讶。文中详细描述了拉丁的外貌变化以及她在变性过程中的挑战，包括与学校的谈判和家庭的困难。同时，拉丁的改变也引发了关于道德和宗教的讨论，尤其是在犹太教的背景下，许多人对此表达了不同的看法。文章还提到，尽管有部分人持否定态度，但拉丁的一些前学生给予了支持，视其回校为与变性人对话的重要机会。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -56,12 +56,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国大学男教授变性成女人惊呆学生(组图).md                             |
 > | Size            | 4528 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:34:27                             |
+> | Original Link   | [https://news.ifeng.com/world/2/200809/0909_2591_773131.shtml](https://news.ifeng.com/world/2/200809/0909_2591_773131.shtml)                       |
+> | Author          | 兰西                               |
+> | Region          | 美国                               |
+> | Date            | 2008-09-09                                 |
+> | Tags            | 变性, 大学, 教授, 耶什华大学, 文学, 女性, 教育, 社会反响                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本条目记录了美国总统拜登于2021年1月26日签署行政令，撤销之前特朗普政府于2016年实施的禁止变性人参军的政策。新政策强调性别不应成为军事服务的障碍，并要求国防部立即更正受禁令影响的军人档案，并允许变性人根据其性别身份登记。文中提到截至2019年，美国现役和后备役中约有14700名变性人，2016年至2019年间，国防部在变性人护理方面的支出达到800万美元。该政策的实施被认为是美军向包容更进一步的体现，确保了变性人在军队中的权利。同时，文章中还附录了几条关于此事的热门评论，这些评论反映了公众对于新政策不同的看法和态度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -43,12 +43,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_拜登新政取消变性人参军禁令.md                             |
 > | Size            | 2040 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:01:16                             |
+> | Original Link   | [https://news.sina.cn/gj/2021-01-26/detail-ikftssap0785261.d.html](https://news.sina.cn/gj/2021-01-26/detail-ikftssap0785261.d.html)                       |
+> | Author          | 常君                               |
+> | Region          | 美国                               |
+> | Date            | 2021-01-26                                 |
+> | Tags            | 跨性别, 军事政策, 变性人参军, 拜登新政, 社会包容性, 医疗费用                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

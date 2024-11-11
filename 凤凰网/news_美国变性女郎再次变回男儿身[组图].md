@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自凤凰网，介绍了一名名叫迈克尔·伯克的男子的跨性别经历。迈克尔在39岁时接受了变性手术，从男性转变为女性，改名为米歇尔，并经历了作为变性女性的生活。然而，仅在3个月后，他又对变性后的生活表示不满，因此选择再次进行变性手术，让自己回归为男性。文章还提到，迈克尔在经历过短暂的男性身份后，重新表达了想要再次变回米歇尔的想法，显示了在性别认同和角色之间的挣扎。这一案例突显了跨性别者在身份认同过程中的复杂性和变化性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -31,12 +31,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_美国变性女郎再次变回男儿身[组图].md                             |
 > | Size            | 1585 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:25:57                             |
+> | Original Link   | [https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml](https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 美国                               |
+> | Date            | 2007-11-22                                 |
+> | Tags            | 跨性别, 变性经历, 性别认同, 迈克尔·伯克, 米歇尔, 医疗经验, 社会现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

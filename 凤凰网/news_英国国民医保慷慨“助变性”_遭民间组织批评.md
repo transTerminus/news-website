@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件谈及了一名16岁英国少年布拉德利·库珀的变性故事，描述了他的内心挣扎及向家庭和社会宣告自己性别认同的过程。从12岁开始，他就以女孩的装扮生活，认为自己有着女性的思想和情感。文章提到英国国民健康保险机构同意支付库珀的变性手术费用，引起一些民间组织的争议，他们认为如此支持可能是在浪费纳税人的钱，甚至质疑16岁的青少年是否能做出如此重大的决定。库珀和他的母亲对此表示坚定的支持，强调理解与接受的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -37,12 +37,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_英国国民医保慷慨“助变性”_遭民间组织批评.md                             |
 > | Size            | 2199 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:35:53                             |
+> | Original Link   | [https://news.ifeng.com/world/201001/0126_16_1525200.shtml](https://news.ifeng.com/world/201001/0126_16_1525200.shtml)                       |
+> | Author          | 郑永                               |
+> | Region          | 英国                               |
+> | Date            | 2010-01-26                                 |
+> | Tags            | 变性手术, 性别认同, 青少年变性, 英国国民医保, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

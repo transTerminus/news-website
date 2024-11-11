@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为李银河博士对男扮女装现象的解读，聚焦于当今社会中“伪娘”这一群体的发展与认同。在与记者的对话中，李银河对伪娘这一词汇表达了初次接触的观点，并强调男扮女装的群体一直存在，但其身份和性别认同的复杂性常常被误解。李银河提到，此类群体在性别认知上的表现与普通异装癖有所不同，伪娘群体的存在展现了社会的多元性与人们对性别认同的包容性。在讨论伪娘与异装癖的区别时，她指出对伪娘的厌恶，往往反映了社会主流的性别观念。李银河还分析了亚文化对社会的影响，认为日本动漫文化对中国年轻人的影响是多方面的，促进了伪娘类群体的可见性和接受度。总的来说，李银河的观点揭示了关于性别认同与心理倾向的多元化和社会包容性的重要性。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -54,12 +54,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | culture_李银河解读男扮女装：“伪娘”与异装癖不一样_文化频道_凤凰网.md                             |
 > | Size            | 4138 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 09:47:00                             |
+> | Original Link   | [http://culture.ifeng.com/whrd/detail_2010_05/09/1498278_0.shtml](http://culture.ifeng.com/whrd/detail_2010_05/09/1498278_0.shtml)                       |
+> | Author          | 成商                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2010-05-09                                 |
+> | Tags            | 伪娘, 男扮女装, 性别认同, 李银河, 跨性别, 异装癖, 社会文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了中国首位变性艺人梦琪因受到严重的社会歧视和心理压力而尝试自杀的悲惨故事。2007年1月26日，南国都市报报道了梦琪在网上留下绝笔书后失踪的消息，文中她表达了对社会的不满，认为这个世界对于她的对待极其不公。经过几天的失联，她的助理在她的新居中发现了她自残的行为，及时将她送往医院。经过紧急治疗，梦琪没有生命危险，但她的情绪仍然非常不稳定。这一事件引发了社会对跨性别群体心理健康和社会歧视问题的关注。文章中附有梦琪的照片，展现了她在医院接受治疗的情形，突显了事件的严肃性和紧迫性。此报道不仅反映了个人的悲惨经历，也显露了更广泛的社会问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -37,12 +37,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_中国首位变性艺人不堪歧视割腕自杀图.md                             |
 > | Size            | 2783 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:31:39                             |
+> | Original Link   | [https://news.ifeng.com/society/3/200701/0130_345_69917.shtml](https://news.ifeng.com/society/3/200701/0130_345_69917.shtml)                       |
+> | Author          | 南国都市报                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-01-30                                 |
+> | Tags            | 跨性别, 社会歧视, 精神健康, 生命故事, 变性艺人                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

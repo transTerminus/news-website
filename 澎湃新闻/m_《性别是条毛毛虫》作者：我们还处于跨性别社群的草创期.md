@@ -108,8 +108,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_《性别是条毛毛虫》作者：我们还处于跨性别社群的草创期.md                             |
 > | Size            | 12808 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 10:04:40                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=1287154&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=1287154&from=wifiKey)                       |
 > | Author          | 凯特·伯恩斯坦                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2022-12-18                                 |

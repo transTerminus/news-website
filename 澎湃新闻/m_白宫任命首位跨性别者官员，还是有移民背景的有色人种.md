@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了拉菲•弗里德曼-格斯潘被奥巴马政府任命为白宫总统人事办公室外联和招聘主管，成为历史上第一位在白宫工作的公开跨性别者。文章详细介绍了弗里德曼-格斯潘的背景和在跨性别权利方面的努力，包括她改善跨性别囚犯的境况以及争取更公正政策的行动。该任命被视为美国政府对多元化的重视，然而背景却是美国跨性别者面临着严峻的仇恨暴力。文章还提到2015年对跨性别者的重要性，第一个公开身份的跨性别女性进入白宫工作，以及该年跨性别者杀害事件数量的上升。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -62,12 +62,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_白宫任命首位跨性别者官员，还是有移民背景的有色人种.md                             |
 > | Size            | 5367 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:51:54                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1366064](https://m.thepaper.cn/newsDetail_forward_1366064)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 美国                               |
+> | Date            | 2015-08-18                                 |
+> | Tags            | 跨性别者, 白宫任命, 多元化, LGBTQ, 仇恨犯罪, 女性权益, 社会政策, 人权, 弗里德曼-格斯潘                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

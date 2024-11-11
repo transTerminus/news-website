@@ -166,7 +166,7 @@ wikiHow里还提醒我，需要向父母解释为什么以前没有和他们说�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章由诺一创作，主题围绕着性别认同和出柜的个人经历展开。作者分享了自己作为性别流动者的故事，从十一二岁就意识到自己与他人不同的成长历程，到通过欧美影视作品对自己认同的探索，再到现在共享爱情与生活的幸福。文章描述了在家庭中隐瞒真实身份的细腻情感，以及出柜计划的反复思考与尝试。作者提出一系列出柜的建议，包括如何与父母沟通和可能面临的问题，强调出柜需要勇气和慎重。文章结尾表达了对未来的期望，希望在法律与社会环境的改变中，性少数群体能获得更多的平权和认同。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -175,12 +175,12 @@ wikiHow里还提醒我，需要向父母解释为什么以前没有和他们说�
 > |-----------------|----------------------------------------|
 > | Filename        | m_性别流动者：这样的双重身份是时候放下了_-_澎湃新闻.md                             |
 > | Size            | 20056 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-10 22:18:53                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7441148](https://m.thepaper.cn/newsDetail_forward_7441148)                       |
+> | Author          | 诺一                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2020-03-01                                 |
+> | Tags            | 性别流动, 出柜经历, 性别认同, 性少数群体, 个人故事, 社会环境, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

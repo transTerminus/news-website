@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是对变性人刘晓晶的专访，详细记录了她的成长经历、性别认同和变性手术过程。刘晓晶小时候生长在一个宽容的家庭中，母亲从小将她视作女儿来抚养。尽管成长过程中面临许多挑战，但她通过手术成功转变为女性，渴望过上一个真正女人的生活。在采访中，她分享了自己的痛苦经历、对家庭支持的感激之情以及与朋友和情侣的美好关系。文章中不仅探讨了她的个人经历，还反映了变性人在社会中面临的各种问题与偏见，以及她对未来生活的期望。采访者以深入细致的笔触，描绘了刘晓晶坚强而勇敢的故事。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -70,12 +70,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_最彻底的人造美女--变性人刘晓晶专访(组图).md                             |
 > | Size            | 6698 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 04:55:02                             |
+> | Original Link   | [https://news.sina.cn/sa/2004-12-15/detail-ikknscsi5177459.d.html](https://news.sina.cn/sa/2004-12-15/detail-ikknscsi5177459.d.html)                       |
+> | Author          | 庞源                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2004-12-15                                 |
+> | Tags            | 变性人, 刘晓晶, 生命故事, 性别认同, 变性手术, 社会环境, 女性身份, 个人奋斗                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

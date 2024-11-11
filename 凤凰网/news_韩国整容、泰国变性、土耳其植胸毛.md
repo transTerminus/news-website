@@ -168,7 +168,7 @@ C罗转会之后，很多球迷认为他已经开始了自己的“养老”生�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自凤凰网，主要探讨了韩国的整容、泰国的变性以及土耳其的植发行业。文章指出，随着医疗旅游的兴起，土耳其已成为全球植发的中心，吸引了来自欧洲和阿拉伯国家的患者，尤其是英国的患者占比达90%。土耳其的植发手术不仅价格便宜，而且服务周到，甚至包括接机和酒店住宿等，但也由于市场需求的暴涨，部分黑心诊所和无资质人员的出现，也给患者的安全和权益带来了隐患。文章最后提醒读者应谨慎选择植发机构，并提倡在日常生活中注意头发护理以避免将来需要医疗干预。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -177,12 +177,12 @@ C罗转会之后，很多球迷认为他已经开始了自己的“养老”生�
 > |-----------------|----------------------------------------|
 > | Filename        | news_韩国整容、泰国变性、土耳其植胸毛.md                             |
 > | Size            | 9101 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:17:30                             |
+> | Original Link   | [https://news.ifeng.com/c/8R4ZPuPyADI](https://news.ifeng.com/c/8R4ZPuPyADI)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 山东省                               |
+> | Date            | 2023-07-01                                 |
+> | Tags            | 医疗旅游, 植发, 整容, 跨性别, 社会环境, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

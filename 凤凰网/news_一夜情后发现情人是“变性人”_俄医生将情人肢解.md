@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了一起在俄罗斯发生的骇人听闻的谋杀案，受害者是一名经历过变性手术的女性利卡斯。报道中详细描述了案件的经过：利卡斯在与一名医生米哈伊尔-吉洪诺夫发生了一夜情后，米哈伊尔发现利卡斯是变性人，愤怒的他随后将利卡斯杀害并对尸体进行了肢解，试图用烤箱加热尸体以掩盖罪行。这一事件引发了广泛关注与讨论，尤其是在跨性别权益和社会对变性人的看法方面。文章同时提到，利卡斯几年前已成功完成了变性手术，并变更了身份证上的性别。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -38,12 +38,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_一夜情后发现情人是“变性人”_俄医生将情人肢解.md                             |
 > | Size            | 1958 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:02:29                             |
+> | Original Link   | [https://news.ifeng.com/c/7mNXWq7ALhY](https://news.ifeng.com/c/7mNXWq7ALhY)                       |
+> | Author          | 环球时报                               |
+> | Region          | 俄罗斯                               |
+> | Date            | 2019-05-03                                 |
+> | Tags            | 跨性别, 暴力谋杀, 社会事件, 法律问题, 医疗经历, 人权                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

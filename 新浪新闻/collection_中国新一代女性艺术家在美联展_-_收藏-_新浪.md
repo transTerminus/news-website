@@ -184,7 +184,7 @@ _来源：新浪收藏_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了2016年在美国密歇根州立大学布罗德美术馆举行的“中国新一代女性艺术家”的展览，探讨了中国青年女性艺术家对于自身身份、个体意识及社会问题的思考和表达。展览中的作品和表演展现了女性艺术家们超越性别刻板印象的创作，尤其是关注社会问题和自身身份的探讨，反映出一种新的自我意识和独立性。策展人王春辰以男性身份参与并进行了跨性别演出，强调在艺术创作中性别的多样性与流动性。该展览揭示了女性艺术在当代艺术领域的重要性，同时反映出社会对女性艺术的认识与接受过程，推动了对性别歧视的质疑与反思。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -193,12 +193,12 @@ _来源：新浪收藏_
 > |-----------------|----------------------------------------|
 > | Filename        | collection_中国新一代女性艺术家在美联展_-_收藏-_新浪.md                             |
 > | Size            | 15765 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:13:18                             |
+> | Original Link   | [https://collection.sina.cn/youdiao/2016-08-30/detail-ifxvixer7450765.d.html](https://collection.sina.cn/youdiao/2016-08-30/detail-ifxvixer7450765.d.html)                       |
+> | Author          | 魏娜                               |
+> | Region          | 美国                               |
+> | Date            | 2016-08-30                                 |
+> | Tags            | 女性艺术, 跨性别表达, 社会问题, 艺术展览, 女性主义, 中国艺术家                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

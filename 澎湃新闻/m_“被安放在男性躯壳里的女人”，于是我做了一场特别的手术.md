@@ -143,8 +143,8 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_“被安放在男性躯壳里的女人”，于是我做了一场特别的手术.md                             |
 > | Size            | 16265 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-03 09:12:07                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18537620](https://m.thepaper.cn/newsDetail_forward_18537620)                       |
 > | Author          | 樱泽枫                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2019-01-25                                 |

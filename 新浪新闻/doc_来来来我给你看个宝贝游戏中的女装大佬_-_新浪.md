@@ -77,7 +77,7 @@ Bridget穿女装完全是逼不得已，因为他的富豪家人迷信双胞胎�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了游戏中的女装大佬，回顾了多个知名游戏中的男性角色穿着女性服装的情景和角色设定。文章提到的角色包括《如龙》系列的真岛吾朗，其关键的女性装扮让几位男性玩家对其产生了迷恋；《真三国无双》中张郃的角色塑造则是对历史人物的有趣再创作；《轩辕剑叁外传：天之痕》中的陈靖仇则展示了角色为掩护而主动穿女装的幽默情节。此外，诸如阿斯托尔福、漆原琉华与不二咲千寻等角色不仅引发了玩家的兴趣，也引起了关于性别表达和身份认同的讨论。这篇文章通过描述这些角色的魅力和设定，探讨了游戏文化中的性别表现及其接受度，而最后提到的《女装山脉》，不仅具有搞笑和感人的剧情，还使得不少玩家深陷角色的魅力之中。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -86,12 +86,12 @@ Bridget穿女装完全是逼不得已，因为他的富豪家人迷信双胞胎�
 > |-----------------|----------------------------------------|
 > | Filename        | doc_来来来我给你看个宝贝游戏中的女装大佬_-_新浪.md                             |
 > | Size            | 7891 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 05:32:47                             |
+> | Original Link   | [http://doc.sina.cn/?id=comos:fyiakur8792929](http://doc.sina.cn/?id=comos:fyiakur8792929)                       |
+> | Author          | 新浪游戏                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2017-07-13                                 |
+> | Tags            | 女装大佬, 游戏角色, 跨性别, 性别表达, 文化探讨                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

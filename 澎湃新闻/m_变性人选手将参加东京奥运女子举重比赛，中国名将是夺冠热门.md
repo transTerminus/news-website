@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了变性运动员劳蕾尔·哈伯德参加东京2020年奥运会女子举重比赛的相关情况。根据国际举重联合会的最新资格标准，哈伯德将成为第一位参加奥运会举重项目的跨性别运动员，她将代表新西兰参赛。这篇文章详细介绍了哈伯德的背景，包括她曾参加男子举重比赛及完成变性手术的经历，以及在2017年世锦赛上所获成就。文章还提到了国际奥委会对于跨性别选手的参赛资格要求，特别是关于睾丸激素水平的规定。尽管哈伯德符合相关标准，她的参赛资格依然引发了广泛争议和讨论，文章中提到了一些反对和支持的声音，包括澳大利亚举重协会对此事的态度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -36,12 +36,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_变性人选手将参加东京奥运女子举重比赛，中国名将是夺冠热门.md                             |
 > | Size            | 2739 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 08:46:32                             |
+> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_12556364?from=](https://m.thepaper.cn/newsDetail_forward_12556364?from=)                       |
+> | Author          | 许云峰                               |
+> | Region          | 中国                               |
+> | Date            | 2021-07-05                                 |
+> | Tags            | 跨性别, 奥运会, 女子举重, 变性人, 体育, 法律政策, 社会争议, 哈伯德, 国际奥委会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

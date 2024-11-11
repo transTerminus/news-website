@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了变性人高婷婷因隐私权受到侵犯而提起的诉讼。高婷婷是一位曾梦想成为模特的变性人，但因未完成所有手术而生活在性别两边。他在法庭上出示证据以维权，指控几家单位侵犯了他的隐私，特别是书籍《纠正上帝的错误》中的内容涉及他个人的生活事件，包括与变性相关的广告和法律纠纷。高婷婷承认自己心中仍然有隐私的界限，尽管媒体曾公开他的部分经历。他的生活并不如他最初所希望的那样美好，常常面临找工作的困难和社会的歧视，这使他感到生活沉重。高婷婷希望能够过上平静的生活，并表达了对于变性选择的复杂感受。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -78,12 +78,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_变性人高婷婷为隐私告状.md                             |
 > | Size            | 4640 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 05:46:47                             |
+> | Original Link   | [https://news.sina.cn/sa/2007-03-27/detail-ikkntiam8866418.d.html](https://news.sina.cn/sa/2007-03-27/detail-ikkntiam8866418.d.html)                       |
+> | Author          | 郭晓明                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2007-03-27                                 |
+> | Tags            | 跨性别, 隐私权, 法庭, 生命故事, 法律政策, 社会歧视, 变性人, 高婷婷                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

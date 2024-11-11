@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了2023年5月25日泰国实现免费变性手术项目的故事。泰国的变性手术尚未纳入医疗保健系统，而"姐姐的手"基金会通过提供资金支持，帮助部分跨性别者获得所需的变性手术费用。文件介绍了基金会的活动及申请者的经历，强调了对于那些经济条件有限的跨性别者来说，这一项目的重要性。申请者不仅需要通过多重测试，还需以女性身份生活达到一定时间。故事中提到，项目的受益者米苏分享了手术对其生活的改变，表达出获得手术后的快乐与重生感。文章中还提到，尽管这样良好的机会有限，但该项目仍吸引了大量候选人，反映出跨性别者在社会中的生存现状和对医疗支持的渴望。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -40,12 +40,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | ifinance_期待“免费变性手术”的泰国人_-_财经-_凤凰网.md                             |
 > | Size            | 2274 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 09:50:10                             |
+> | Original Link   | [http://ifinance.ifeng.com/13734504/news.shtml](http://ifinance.ifeng.com/13734504/news.shtml)                       |
+> | Author          | 未知                               |
+> | Region          | 泰国                               |
+> | Date            | 2023-05-25                                 |
+> | Tags            | 泰国, 跨性别, 手术, 医疗, 性别重置, 生活故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

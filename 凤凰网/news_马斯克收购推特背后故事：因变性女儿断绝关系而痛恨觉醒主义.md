@@ -99,7 +99,7 @@ Twitter的风格与马斯克截然不同。这家公司以自己是一个友好�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了马斯克收购社交媒体平台Twitter的幕后故事，特别提到他与变性女儿詹娜之间因意识形态分歧而产生的关系裂痕。马斯克反对“觉醒主义”以及他对待儿女性别认同变化的态度，揭示了这一家庭冲突给他带来的个人痛苦。在讲述这些家庭事件的同时，文章还回顾了马斯克如何凭借其商业洞察力在快速发展的科技领域内进行投资与决策。这篇文章通过名人传记作家沃尔特·艾萨克森对马斯克的描述，展示了一个关于个人与家庭关系，社会价值观碰撞的故事。马斯克在收购过程中表示希望能够改变Twitter，甚至在考虑基于区块链的新社交媒介方案。文章中提到的“觉醒病毒”及“心理安全”等流行语，反映出一种对文化潮流的批判以及马斯克对于传统社交媒体氛围的不满。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -108,12 +108,12 @@ Twitter的风格与马斯克截然不同。这家公司以自己是一个友好�
 > |-----------------|----------------------------------------|
 > | Filename        | news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义.md                             |
 > | Size            | 12761 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:18:21                             |
+> | Original Link   | [https://news.ifeng.com/c/8Sj00lPSmit](https://news.ifeng.com/c/8Sj00lPSmit)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 未知                               |
+> | Date            | 2023-09-01                                 |
+> | Tags            | 跨性别, 马斯克, 社交媒体, 觉醒主义, 家庭关系, 变性, 社会环境, 个人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

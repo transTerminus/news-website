@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别群体与外围女现象的交集，特别关注孙静雅这一人物及其背后的一系列事件。文章通过具体案例分析了跨性别群体在社会中面临的挑战和困境，以及将其置于边缘化状态的法律与社会环境。资料以澎湃新闻多篇报道为基础，数据涉及法律问题、个人生活故事与社会舆论等方面，反映了跨性别人群在社会中遇到的复杂情况，尤其是在卖淫嫖娼相关法律下的生存现状。文件含有多张图片和评论数，显示出该话题在公众中的关注度。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -63,12 +63,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | m_外围女.md                             |
 > | Size            | 1716 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-03 09:52:33                             |
+> | Original Link   | [https://m.thepaper.cn/tag/207044](https://m.thepaper.cn/tag/207044)                       |
+> | Author          | 澎湃新闻                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-12-23                                 |
+> | Tags            | 跨性别, 外围女, 社会调查, 法律政策, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

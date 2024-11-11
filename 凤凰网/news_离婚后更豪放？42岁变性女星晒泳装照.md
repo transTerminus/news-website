@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了42岁变性人河莉秀在离婚后晒出泳装照的情况。报道来源于韩国媒体，提及她与结婚十年的丈夫郑英振的离婚，以及其在社交媒体上分享的新生活。河莉秀在接受采访时表示，尽管已离婚，但与前夫依旧是朋友，并透露已有新欢，然而并未公开对象。她更新Instagram时频繁发布穿比基尼的照片，表现出自信与优雅，身形与一般女性无异。在文中，还附上了河莉秀展示长袖泳衣及短裤装的照片，凸显了她的美丽与魅力。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -34,12 +34,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_离婚后更豪放？42岁变性女星晒泳装照.md                             |
 > | Size            | 1402 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:51:10                             |
+> | Original Link   | [https://news.ifeng.com/a/20170817/51666735_0.shtml](https://news.ifeng.com/a/20170817/51666735_0.shtml)                       |
+> | Author          | 王诗尧                               |
+> | Region          | 香港                               |
+> | Date            | 2017-08-17                                 |
+> | Tags            | 跨性别, 变性人, 生活故事, 社交媒体, 离婚, 泳装, 河莉秀                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

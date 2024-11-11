@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了中国古代是否存在与现代泰国“人妖”相似的文化现象，并讨论了这些现象的起源。本文提到，关于泰国“人妖”的形成有多种说法，包括其可能源于印度的“阉人”，这种现象可以追溯到十六世纪初的印度北方。文章中还强调了中国历史上可能存在的相关文化现象，并试图通过对比和历史分析，寻找出这一现象的最初出现时间和条件。由于主题涉及跨性别及性别表现，本文在对历史的考量中，对于社会现象的反映体现了对性别多样性更为开放的视角。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -27,12 +27,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | i_中国古代是否也有“人妖”？如果有，他们最早出现在什么时候呢？.md                             |
 > | Size            | 1154 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:22:38                             |
+> | Original Link   | [https://i.ifeng.com/c/82qPKdDkzwS](https://i.ifeng.com/c/82qPKdDkzwS)                       |
+> | Author          | 凤凰网                               |
+> | Region          | 陕西省                               |
+> | Date            | 2021-01-08                                 |
+> | Tags            | 跨性别, 人妖, 历史, 社会现象, 性别多样性, 文化研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

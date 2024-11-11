@@ -17,7 +17,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了一场特别的选美比赛，举办于2008年10月7日在菲律宾，参赛者主要是变性者和装扮成女性的人。赛事展现了参赛者的靓丽与自信，强调了变性者在社会中的存在与表现。文章配有多张图片，生动记录了比赛瞬间。比赛不仅是一次外貌的展示，更是对变性者身份认同与社会接纳度的体现。此类活动在一定程度上提高了大众对跨性别群体的关注与理解，促进了社会对这一群体的接纳。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -26,12 +26,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_“变性靓女”选美大赛热辣秀性感[组图].md                             |
 > | Size            | 754 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 08:37:12                             |
+> | Original Link   | [https://news.ifeng.com/world/oddnews/200810/1008_2593_821612.shtml](https://news.ifeng.com/world/oddnews/200810/1008_2593_821612.shtml)                       |
+> | Author          | 中国新闻网                               |
+> | Region          | 菲律宾                               |
+> | Date            | 2008-10-07                                 |
+> | Tags            | 性感, 变性, 选美比赛, 跨性别, 社会接纳                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了2015年国际联合国小姐选美大赛中国区决赛的情况，特别聚焦于选手刘婷，她是备受关注的跨性别选手，并在比赛中获得了“最美蝶变奖”。刘婷分享了自己参加比赛的初衷，表示她想要展示自己的美，并认为做真实的自己是最重要的。文章提到比赛的激烈程度以及其他获奖选手，强调了比赛的主题‘美丽、关爱、慈善’。赛后，刘婷对与其他美女选手的相处表示很开心，尽管经历了许多挑战，但她终于有机会与众多美丽的女孩一起展现自己。该比赛自1996年创办以来，已成功举办了19届，对提倡女性群体的美丽、智慧和博爱有重要意义。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -35,12 +35,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_“联合国小姐”出炉“变性人”刘婷获奖.md                             |
 > | Size            | 2235 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:37:35                             |
+> | Original Link   | [https://news.ifeng.com/a/20150926/44740018_0.shtml](https://news.ifeng.com/a/20150926/44740018_0.shtml)                       |
+> | Author          | 记者徐绍娜，摄影夏世焱                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2015-09-26                                 |
+> | Tags            | 刘婷, 联合国小姐, 变性人, 选美比赛, 社会环境, 个人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

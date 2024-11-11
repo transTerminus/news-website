@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件来自于凤凰网，标题为《泰媒评世界十大最美变性人排行榜，中国上榜2人》，报道了一项由泰国媒体评选的"世界十大变性人排行榜"，并指出中国有两位变性人上榜。文件开头提到，泰国社会对变性人性别选择权的尊重，并展示了第一名poy的照片，称她是公认的"皇后"。文末附有网友评论，从不同角度讨论了变性人与变装或人妖的区别，以及对变性人美的看法。这篇文章不仅反映了变性人在社会中的地位，也展示了公众对变性人话题的关注和讨论。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -58,12 +58,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | news_泰媒评世界十大最美变性人排行榜中国上榜2人.md                             |
 > | Size            | 1589 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-02 07:49:27                             |
+> | Original Link   | [https://news.ifeng.com/a/20170504/51043777_0.shtml](https://news.ifeng.com/a/20170504/51043777_0.shtml)                       |
+> | Author          | 黄志鹏                               |
+> | Region          | 未知                               |
+> | Date            | 2017-05-04                                 |
+> | Tags            | 跨性别, 变性人, 性别认同, 医疗资源, 社会接受度, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

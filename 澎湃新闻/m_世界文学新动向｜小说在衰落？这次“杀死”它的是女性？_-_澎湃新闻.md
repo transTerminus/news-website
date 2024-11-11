@@ -121,8 +121,8 @@ LGBT文学可以追溯到古典时代。在二十世纪，E·M·福斯特、弗�
 > |-----------------|----------------------------------------|
 > | Filename        | m_世界文学新动向｜小说在衰落？这次“杀死”它的是女性？_-_澎湃新闻.md                             |
 > | Size            | 23096 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+> | Archived Date   | 2024-11-10 22:30:26                             |
+> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=8248806&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=8248806&from=wifiKey)                       |
 > | Author          | 澎湃新闻                               |
 > | Region          | 中国大陆                               |
 > | Date            | 2023-07-13                                 |

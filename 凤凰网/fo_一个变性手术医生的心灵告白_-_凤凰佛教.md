@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一位变性手术医生的心灵告白，记录了他在职务中面临的心理挑战和人生变化。医生通过自己的亲身经历回顾了变性手术的始末，表达了对生命复杂性的思考。他从1989年起进行变性手术，受到了成就感与责任感的驱动，逐渐沉浸在变性手术的实践中。随着病人数量的增加，他开始意识到这种职业对自己家庭和生活的影响，特别是在婚姻生活中的困难和矛盾。文件中讲述了他和病人的互动，以及他对佛教轮回观念的反思，尤其是在处理眼前这些“变性人”身上的因果关系之时。文章深入探讨了手术的伦理、医生的职业道德和个人生活的折磨，展现了变性手术背后更深层的社会和心理问题。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -35,12 +35,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | fo_一个变性手术医生的心灵告白_-_凤凰佛教.md                             |
 > | Size            | 3872 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 10:18:19                             |
+> | Original Link   | [https://fo.ifeng.com/zhongsheng/200808/0812_42_51154.shtml](https://fo.ifeng.com/zhongsheng/200808/0812_42_51154.shtml)                       |
+> | Author          | 佚名                               |
+> | Region          | 中国大陆                               |
+> | Date            | 2008-08-12                                 |
+> | Tags            | 变性手术, 心理健康, 医学经验, 生命故事, 社会问题, 伦理探讨, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

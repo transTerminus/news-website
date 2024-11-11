@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了可能是世界上第一本专注于跨性别问题的杂志《第三性》的历史。这本杂志于1930年在德国柏林首次出版，由弗里德里希·拉德苏维特创办，旨在为跨性别者提供一个交流平台。文中详细介绍了杂志的创办背景、内容以及历史遗留问题。作者汉斯·汉娜·伯格在杂志中分享了她作为跨性别者的个人经历，描绘了她第一次以女性身份外出时的紧张与期待。文章回顾了魏玛共和国时期社会对性别和性取向的开放态度，以及随后的纳粹统治对跨性别和同性恋社群的打压。尽管《第三性》杂志仅发行了五期就戛然而止，但它在性别多样性历史中的重要性依然显著。
 <!-- tcd_abstract_end -->
 
 > 附加信息 [Processed Page Metadata]
@@ -71,12 +71,12 @@
 > |-----------------|----------------------------------------|
 > | Filename        | interface_《第三性》杂志：一段失落的跨性别者历史_-_新浪.md                             |
 > | Size            | 16535 bytes                           |
-> | Archived Date   | [Unknown archived date(update needed)]                             |
-> | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-> | Author          | [Unknown author(update needed)]                               |
-> | Region          | [Unknown region(update needed)]                               |
-> | Date            | [Unknown date(update needed)]                                 |
-> | Tags            | [Unknown tags(update needed)]                                 |
+> | Archived Date   | 2024-11-09 06:32:43                             |
+> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2019-01-21%2Fdoc-ihrfqziz9582232.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2019-01-21%2Fdoc-ihrfqziz9582232.shtml)                       |
+> | Author          | Matthew H. Birkhold                               |
+> | Region          | 德国                               |
+> | Date            | 2019-01-21                                 |
+> | Tags            | 跨性别, 性别历史, 《第三性》杂志, 魏玛共和国, 跨性别者经历, 性别认同, 同性恋历史, 纳粹时期, 社会运动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >
