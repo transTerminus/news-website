@@ -20,8 +20,11 @@ Download: [{filename}]({filename})
 | Format          | {format}                               |
 | Size            | {size} bytes                           |
 | MD5             | {md5}                                  |
-| Original Link   | [Link]({link})                         |
-| Creator         | {creator}                              |
-| Date            | {date}                                 |
 | Archived Date   | {archived}                             |
+| Original Link   | [{link}]({link})                         |
+| Author          | {author}                               |
+| Region          | {region}                               |
+| Date            | {date}                                 |
 | Tags            | {tags}                                 |
+
+本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。

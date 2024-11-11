@@ -7,10 +7,13 @@
 > | Filename        | {filename}                             |
 > | Type            | {type}                                 |
 > | Format          | {format}                               |
-> | Original Link   | [{link}]({link})                       |
-> | Creator         | {creator}                              |
-> | Date            | {date}                                 |
+> | Size            | {size} bytes                           |
+> | MD5             | {md5}                                  |
 > | Archived Date   | {archived}                             |
+> | Original Link   | [{link}]({link})                         |
+> | Author          | {author}                              |
+> | Region          | {region}                              |
+> | Date            | {date}                                 |
 > | Tags            | {tags}                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
