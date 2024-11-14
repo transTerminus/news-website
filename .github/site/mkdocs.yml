@@ -39,11 +39,7 @@ theme:
         name: Switch to system preference
   language: en
 plugins:
-  - search
-    pipeline:
-      - stemmer
-      - stopWordFilter
-      - trimmer
+  # - search
   - social
   - rss:
       match_path: ".*"
