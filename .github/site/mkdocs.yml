@@ -7,9 +7,6 @@ theme:
   custom_dir: overrides
   features:
     - content.action.edit
-    - search.suggest
-    - search.highlight
-    - search.share
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
