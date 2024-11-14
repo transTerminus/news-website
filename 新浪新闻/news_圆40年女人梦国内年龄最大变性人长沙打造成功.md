@@ -55,18 +55,18 @@
 这篇文章报道了湖南省益阳的53岁变性人赵长生在长沙进行的生殖器官变性手术的经历，强调了他圆梦成为女性的艰辛道路与心理变化。文章详细描绘了赵长生从小就喜爱女性穿着打扮，但因社会舆论压力而感到孤独和痛苦的心路历程。经过多年的挣扎，赵长生最终在2005年接受了手术，希望能够拥有一个完整的女人身份，并在手术后表达了想结婚的愿望。文中对于手术的详细描述，让读者对变性手术的过程有了更深入的了解，同时突显了赵长生追求身份认同所经历的挑战和社会的接受度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_圆40年女人梦国内年龄最大变性人长沙打造成功.md                             |
-> | Size            | 3769 bytes                           |
-> | Archived Date   | 2024-11-02 05:17:05                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-12-14/detail-ikkntiam6141197.d.html](https://news.sina.cn/sa/2005-12-14/detail-ikkntiam6141197.d.html)                       |
-> | Author          | 汤红辉                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-12-14                                 |
-> | Tags            | 变性人, 手术经历, 跨性别, 女性身份, 社会接受                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_圆40年女人梦国内年龄最大变性人长沙打造成功.md                             |
+| Size            | 3769 bytes                           |
+| Archived Date   | 2024-11-02 05:17:05                             |
+| Original Link   | [https://news.sina.cn/sa/2005-12-14/detail-ikkntiam6141197.d.html](https://news.sina.cn/sa/2005-12-14/detail-ikkntiam6141197.d.html)                       |
+| Author          | 汤红辉                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-12-14                                 |
+| Tags            | 变性人, 手术经历, 跨性别, 女性身份, 社会接受                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -72,18 +72,18 @@
 本文介绍了格雷森·佩里（Grayson Perry）——一位英国陶艺家，以异装癖著称，2021年当选为英国皇家艺术学院院士。佩里的陶艺作品涵盖了性、暴力和虐童等骇人主题，他通过这些作品反映了自己童年的悲惨经历，并挑衅社会的固有观念。佩里自13岁起发现自己对女装的兴趣，并在他的职业生涯中以‘克莱尔’的女性身份出现在公众面前。文章探讨了佩里对艺术创作与自我的双重认同，以及他在社会文化背景下的斗争与表达。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | collection_异装癖陶艺家当选英皇家艺术学院院士(图)_-_收藏-_新浪.md                             |
-> | Size            | 8495 bytes                           |
-> | Archived Date   | 2024-11-09 05:30:36                             |
-> | Original Link   | [http://collection.sina.com.cn/cqty/20110409/100422671.shtml](http://collection.sina.com.cn/cqty/20110409/100422671.shtml)                       |
-> | Author          | 记者 金叶 实习生 陈晨                               |
-> | Region          | 未知                               |
-> | Date            | 2011-04-09                                 |
-> | Tags            | 跨性别, 异装癖, 陶艺家, 格雷森·佩里, 皇家艺术学院, 性别认同, 艺术与社会, 自传性作品                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | collection_异装癖陶艺家当选英皇家艺术学院院士(图)_-_收藏-_新浪.md                             |
+| Size            | 8495 bytes                           |
+| Archived Date   | 2024-11-09 05:30:36                             |
+| Original Link   | [http://collection.sina.com.cn/cqty/20110409/100422671.shtml](http://collection.sina.com.cn/cqty/20110409/100422671.shtml)                       |
+| Author          | 记者 金叶 实习生 陈晨                               |
+| Region          | 未知                               |
+| Date            | 2011-04-09                                 |
+| Tags            | 跨性别, 异装癖, 陶艺家, 格雷森·佩里, 皇家艺术学院, 性别认同, 艺术与社会, 自传性作品                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

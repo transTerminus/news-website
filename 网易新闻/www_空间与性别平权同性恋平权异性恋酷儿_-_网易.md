@@ -105,18 +105,18 @@ LGBT青年委员会于2016年进行的一项调查涉及同行研究和阿尔伯
 该文件探讨了空间与性别平权的关系，重点回顾了如何从性别视角重新审视和解读标志性建筑。在建筑设计中，性别规范和文化影响深刻形塑了空间的功能和分布，例如宏伟的建筑可能更倾向于体现历史上男性主导的权力观。此外，文件指出了“衣柜”这一概念如何与酷儿身份紧密相连，以及如何通过适应性再利用来创造更具包容性的酷儿空间，如转变传统建筑为支持LGBTQ+社区的中心。文章也提到了石墙起义的历史意义，强调了一场为平权而斗争的运动如何影响了对建筑和城市空间的理解与使用。最终，文件呼吁对建筑环境进行批判性对话，以促进更大程度的包容和性别平等。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_空间与性别平权同性恋平权异性恋酷儿_-_网易.md                             |
-> | Size            | 10552 bytes                           |
-> | Archived Date   | 2024-11-08 07:38:05                             |
-> | Original Link   | [https://www.163.com/dy/article/IHGC07UC0515AJG5.html](https://www.163.com/dy/article/IHGC07UC0515AJG5.html)                       |
-> | Author          | 建筑师杂志                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-10-20                                 |
-> | Tags            | 性别平权, 跨性别, 酷儿空间, 建筑设计, 社会平等, 石墙起义,  LGBTQ+, 社区资源                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_空间与性别平权同性恋平权异性恋酷儿_-_网易.md                             |
+| Size            | 10552 bytes                           |
+| Archived Date   | 2024-11-08 07:38:05                             |
+| Original Link   | [https://www.163.com/dy/article/IHGC07UC0515AJG5.html](https://www.163.com/dy/article/IHGC07UC0515AJG5.html)                       |
+| Author          | 建筑师杂志                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-10-20                                 |
+| Tags            | 性别平权, 跨性别, 酷儿空间, 建筑设计, 社会平等, 石墙起义,  LGBTQ+, 社区资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

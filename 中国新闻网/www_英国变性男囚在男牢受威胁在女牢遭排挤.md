@@ -19,18 +19,18 @@
 本文讲述了英国变性女性塔拉·哈德森在监狱中的困境。因伤害罪入狱的她最初被关押在男性监狱，期间受到严重威胁和骚扰，她形容自己进监狱时男囚犯们的目光如狼似虎，且她受到男性监狱警卫的不安搜身。经历7天后，因担忧遭受轮奸，她被转移至女监狱。然而，转移后情况未见好转，她在女监狱也遭受排挤和侮辱。各界人士对此表示关切，超过15万人在网上发起请愿要求为变性人建立专门监狱，保障其权益。塔拉希望法律能为性少数群体提供更安全的监禁环境。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_英国变性男囚在男牢受威胁在女牢遭排挤.md                             |
-> | Size            | 1301 bytes                           |
-> | Archived Date   | 2024-11-08 10:15:25                             |
-> | Original Link   | [https://www.chinanews.com.cn/m/gj/2015/12-15/7672000.shtml](https://www.chinanews.com.cn/m/gj/2015/12-15/7672000.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 英国                               |
-> | Date            | 2015-12-15                                 |
-> | Tags            | 变性人, 监禁, 人权, 法律, 社会问题, 塔拉·哈德森                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_英国变性男囚在男牢受威胁在女牢遭排挤.md                             |
+| Size            | 1301 bytes                           |
+| Archived Date   | 2024-11-08 10:15:25                             |
+| Original Link   | [https://www.chinanews.com.cn/m/gj/2015/12-15/7672000.shtml](https://www.chinanews.com.cn/m/gj/2015/12-15/7672000.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 英国                               |
+| Date            | 2015-12-15                                 |
+| Tags            | 变性人, 监禁, 人权, 法律, 社会问题, 塔拉·哈德森                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

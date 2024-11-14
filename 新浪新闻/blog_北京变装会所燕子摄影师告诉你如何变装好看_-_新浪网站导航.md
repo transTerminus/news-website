@@ -59,18 +59,18 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 该文件详细介绍了北京的一家变装摄影会所，为变装爱好者（CD姐妹）提供了专业的摄影和变装制作服务。文章的作者分享了与其他影楼及摄影工作室的比较，强调了变装会所特别定制的大码女装、变装装备以及专业的化妆和摄影技术，让不同体型的男性能够变装成美丽女性。内容中列举了会所的多项优势，包括保证隐私、专业服务、丰富的服装选项以及合理的一次性消费模式。文章还探讨了变装爱好者在体验过程中的心理及社会环境与市场需求，表现出浓厚的对变装文化的理解与支持。作者表明自己曾是一名婚纱摄影师，受到鼓励后开办了专为CD姐妹提供服务的摄影会所，致力于创造优质的变装体验。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | blog_北京变装会所燕子摄影师告诉你如何变装好看_-_新浪网站导航.md                             |
-> | Size            | 8331 bytes                           |
-> | Archived Date   | 2024-11-09 06:01:24                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_13dbedfea0102yayq.html](https://blog.sina.com.cn/s/blog_13dbedfea0102yayq.html)                       |
-> | Author          | 用户5330886634                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-12-21                                 |
-> | Tags            | 变装摄影, 跨性别文化, 媒体报道, 变装艺术, CD姐妹, 摄影师服务, 隐私保护, 性别表达                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | blog_北京变装会所燕子摄影师告诉你如何变装好看_-_新浪网站导航.md                             |
+| Size            | 8331 bytes                           |
+| Archived Date   | 2024-11-09 06:01:24                             |
+| Original Link   | [https://blog.sina.com.cn/s/blog_13dbedfea0102yayq.html](https://blog.sina.com.cn/s/blog_13dbedfea0102yayq.html)                       |
+| Author          | 用户5330886634                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-12-21                                 |
+| Tags            | 变装摄影, 跨性别文化, 媒体报道, 变装艺术, CD姐妹, 摄影师服务, 隐私保护, 性别表达                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

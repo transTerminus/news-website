@@ -38,18 +38,18 @@
 本文报道了一位名叫约翰·皮里的变性女囚的故事。皮里在经历了长达7年的女囚生活后，因对周围环境的不适而希望能重新变成男性。文章中提到，皮里在1969年就开始有变性倾向，最终在1998年进行了变性手术，政府为其承担了手术费用，但随着在监狱中与“坏女孩”相处的痛苦，加剧了他对变性的反思。在这段经历中，皮里表达了对自己身份认同的困惑，并预计再次进行变性手术需要复杂的医学程序。这一案件引起了关于变性手术和监狱政策的广泛讨论，是一个值得关注的社会问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变成女人讨厌女人变性女囚想变回来.md                             |
-> | Size            | 2197 bytes                           |
-> | Archived Date   | 2024-11-02 05:18:52                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-01-12/detail-ikkntiam6347544.d.html](https://news.sina.cn/sa/2006-01-12/detail-ikkntiam6347544.d.html)                       |
-> | Author          | 新文化报官方账号                               |
-> | Region          | 英国                               |
-> | Date            | 2006-01-12                                 |
-> | Tags            | 变性, 女囚, 社会新闻, 生存现状, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变成女人讨厌女人变性女囚想变回来.md                             |
+| Size            | 2197 bytes                           |
+| Archived Date   | 2024-11-02 05:18:52                             |
+| Original Link   | [https://news.sina.cn/sa/2006-01-12/detail-ikkntiam6347544.d.html](https://news.sina.cn/sa/2006-01-12/detail-ikkntiam6347544.d.html)                       |
+| Author          | 新文化报官方账号                               |
+| Region          | 英国                               |
+| Date            | 2006-01-12                                 |
+| Tags            | 变性, 女囚, 社会新闻, 生存现状, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

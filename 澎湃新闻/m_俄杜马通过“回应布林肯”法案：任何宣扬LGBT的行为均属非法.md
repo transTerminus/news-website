@@ -28,18 +28,18 @@
 该文件讨论了俄罗斯国家杜马于2022年11月24日通过了一项针对LGBT（即男女同性恋、双性恋及跨性别者）宣传的法律法案，称为《保护儿童免遭反传统家庭价值观信息的影响法》。该法案以397票赞成通过，标志着对LGBT群体的打压进一步升级。法案的通过引起了广泛关注，其中美国国务卿布林肯对该法案表示强烈反对，称其为“对言论自由的打击”。新法案将禁止任何形式的LGBT宣传，无论年龄群体，违者将面临重罚。这一修正案还需经过俄联邦委员会的批准及总统普京的签署方可生效。该法案的制定被认为是普京政府反对LGBT意识形态的又一表现，对生存于该国的LGBT群体构成了新的威胁。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_俄杜马通过“回应布林肯”法案：任何宣扬LGBT的行为均属非法.md                             |
-> | Size            | 1987 bytes                           |
-> | Archived Date   | 2024-11-03 09:16:35                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_20890594](https://m.thepaper.cn/newsDetail_forward_20890594)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 俄罗斯                               |
-> | Date            | 2022-11-24                                 |
-> | Tags            | LGBT, 法律政策, 人权, 俄罗斯, 反同性恋法律, 跨性别, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_俄杜马通过“回应布林肯”法案：任何宣扬LGBT的行为均属非法.md                             |
+| Size            | 1987 bytes                           |
+| Archived Date   | 2024-11-03 09:16:35                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_20890594](https://m.thepaper.cn/newsDetail_forward_20890594)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 俄罗斯                               |
+| Date            | 2022-11-24                                 |
+| Tags            | LGBT, 法律政策, 人权, 俄罗斯, 反同性恋法律, 跨性别, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

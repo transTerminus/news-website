@@ -57,18 +57,18 @@
 本文报道了泰国变性人在征兵时期主动报到的情况，并与一般佛教僧人躲避兵役的现象进行对比。根据泰国的兵役规定，变性人因接受隆胸手术等原因可以获得免服兵役的资格，这导致一些家庭利用这一政策，让年轻人通过医疗手段逃避兵役。此外，文章还探讨了泰国僧人在兵役上的态度，强调了能躲就躲的心态。报道中提到了一名兴奋的僧人抽中免役卡的场景，同时也反映出因军队虐兵事件而引发的一些家庭悲剧，如一名父亲因儿子抽到红签而选择自杀。整篇文章呈现了关于泰国兵役制度、变性人群体以及社会对军队的复杂态度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_泰国兵役变性人主动报到僧人能躲则躲.md                             |
-> | Size            | 3884 bytes                           |
-> | Archived Date   | 2024-11-02 03:36:37                             |
-> | Original Link   | [https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap](https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap)                       |
-> | Author          | 杨东明                               |
-> | Region          | 泰国                               |
-> | Date            | 2017-04-06                                 |
-> | Tags            | 跨性别, 变性人, 泰国兵役, 社会问题, 法律政策, 军事制度, 能源消耗, 传统与变化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_泰国兵役变性人主动报到僧人能躲则躲.md                             |
+| Size            | 3884 bytes                           |
+| Archived Date   | 2024-11-02 03:36:37                             |
+| Original Link   | [https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap](https://news.sina.cn/2017-04-06/detail-ifyecfnu7479324.d.html?from=wap)                       |
+| Author          | 杨东明                               |
+| Region          | 泰国                               |
+| Date            | 2017-04-06                                 |
+| Tags            | 跨性别, 变性人, 泰国兵役, 社会问题, 法律政策, 军事制度, 能源消耗, 传统与变化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

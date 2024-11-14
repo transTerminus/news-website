@@ -266,18 +266,18 @@
 该文件为一篇虚构古代小说，讲述了一位名为青儿的男公主在离国战败后被迫前往齐国和亲的故事。青儿自小由母亲抚育为女儿身，因国破家亡而不得不男扮女装以逃避被发现的风险。故事描述了她在齐国摄政王江淮景身边的生活，以及两人之间复杂的情感纠葛。青儿在面对权力、爱情与生存的矛盾时，展现出对命运的不屈。这篇小说结合了跨性别主题，探讨了性别认同与社会角色的冲突，同时融入了古代宫廷的权谋斗争和人性复杂的关系，充满戏剧性与情感张力。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_男扮女装伪装成公主的我，将敌国摄政王给睡了古代小说_-_网易.md                             |
-> | Size            | 9723 bytes                           |
-> | Archived Date   | 2024-11-08 07:31:34                             |
-> | Original Link   | [https://www.163.com/dy/article/ICREUECD05563SUN.html](https://www.163.com/dy/article/ICREUECD05563SUN.html)                       |
-> | Author          | 夏阳故事会                               |
-> | Region          | 未知                               |
-> | Date            | 2023-08-23                                 |
-> | Tags            | 跨性别, 男扮女装, 古代小说, 权力斗争, 宫廷剧, 爱情故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男扮女装伪装成公主的我，将敌国摄政王给睡了古代小说_-_网易.md                             |
+| Size            | 9723 bytes                           |
+| Archived Date   | 2024-11-08 07:31:34                             |
+| Original Link   | [https://www.163.com/dy/article/ICREUECD05563SUN.html](https://www.163.com/dy/article/ICREUECD05563SUN.html)                       |
+| Author          | 夏阳故事会                               |
+| Region          | 未知                               |
+| Date            | 2023-08-23                                 |
+| Tags            | 跨性别, 男扮女装, 古代小说, 权力斗争, 宫廷剧, 爱情故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

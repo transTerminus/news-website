@@ -88,18 +88,18 @@ _阅读下一篇_🔗
 本文盘点了ACG（动画、漫画、游戏）文化中的十大伪娘角色，详细介绍了每个角色的背景、性格特点以及在相关作品中的表现。伪娘作为一种文化现象，通常指那些在外貌和行为上接近女性的男性角色，本文开始对伪娘的定义进行了阐述，并提到了其起源，指出伪娘角色自1981年就出现在相关作品中，并随着近年来的文化变化逐渐流行。每个提到的角色都有独特的故事和魅力，从宫小路瑞穗到小仓朝日，展示了这一文化的多样性和影响力。文章中还配有引导性的总结，邀请读者对文章内容进行评论和互动。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_盘点ACG中10大伪娘：遵循路西法的指引，追寻YOOO的真谛！_-_网易.md                             |
-> | Size            | 4088 bytes                           |
-> | Archived Date   | 2024-11-08 05:46:24                             |
-> | Original Link   | [https://www.163.com/dy/article/DGN75P690515V8AT.html](https://www.163.com/dy/article/DGN75P690515V8AT.html)                       |
-> | Author          | 网易订阅                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-05-01                                 |
-> | Tags            | 伪娘文化, ACG, 角色分析, 生命故事, 漫画, 游戏, 性别表现                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_盘点ACG中10大伪娘：遵循路西法的指引，追寻YOOO的真谛！_-_网易.md                             |
+| Size            | 4088 bytes                           |
+| Archived Date   | 2024-11-08 05:46:24                             |
+| Original Link   | [https://www.163.com/dy/article/DGN75P690515V8AT.html](https://www.163.com/dy/article/DGN75P690515V8AT.html)                       |
+| Author          | 网易订阅                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-05-01                                 |
+| Tags            | 伪娘文化, ACG, 角色分析, 生命故事, 漫画, 游戏, 性别表现                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

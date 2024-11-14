@@ -59,18 +59,18 @@
 在2023年的威尼斯电影节上，跨性别主题的电影成为了热门焦点。意大利导演埃曼纽尔·克里亚勒斯（Emanuele Crialese）在其新片《巨大》中表达了自己作为一名跨性别女性的经历和创作灵感。这部电影讲述了一位女性角色在家庭暴力和婚外情的困境中保护自己女儿的故事，女儿自认为是男孩，反映了跨性别青少年的成长困境。此外，意大利导演安德烈·帕劳洛（Andrea Pallaoro）的《莫妮卡》也是本届电影节的亮点之一，讲述了一位变性女性回到美国中部照顾生病母亲的故事，片中由跨性别女演员主演，标志着电影节的历史性进步。其他相关纪录片如《美人与流血事件》和《苏珊娜之家》也深入探讨了性别认同和历史文化，展示了跨性别群体的生活真实情况。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_本届威尼斯电影节焦点是跨性别？丨艺外.md                             |
-> | Size            | 4134 bytes                           |
-> | Archived Date   | 2024-11-03 09:15:26                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_19870936](https://m.thepaper.cn/newsDetail_forward_19870936)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 威尼斯电影节, 电影, 性别认同, 变性经历, 纪录片, 文化历史                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_本届威尼斯电影节焦点是跨性别？丨艺外.md                             |
+| Size            | 4134 bytes                           |
+| Archived Date   | 2024-11-03 09:15:26                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_19870936](https://m.thepaper.cn/newsDetail_forward_19870936)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 威尼斯电影节, 电影, 性别认同, 变性经历, 纪录片, 文化历史                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -175,18 +175,18 @@ CT下双侧隐睾的图像
 该文件为澎湃新闻发布的文章，探讨了天生拥有双性生殖系统的人群，特别是双性人所面临的社会争议与个人痛苦。文章深入分析了不同性别认同的定义，讨论了双性人特有的生理特征及其医疗背景。通过真实的个案（如刘星的案例），文章揭示了性别认定的复杂性，尤其在法律和社会环境中面临的挑战。内容中提到一名女孩因生理结构的异常，被确诊为男性后其生活经历的转变，深刻反映了性别认同与生理性别之间的分歧。此外，文章还探讨了社会对双性人的偏见与误解，呼吁对这一特殊群体给予理解与尊重。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_天生拥有双份生殖系统，他们背负的争议与痛苦远不止双倍_-_澎湃新闻.md                             |
-> | Size            | 13746 bytes                           |
-> | Archived Date   | 2024-11-10 22:20:41                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8224680](https://m.thepaper.cn/newsDetail_forward_8224680)                       |
-> | Author          | SME科技故事                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2017-01-01                                 |
-> | Tags            | 跨性别, 双性人, 性别认同, 性别复杂性, 社会争议, 医疗案例                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_天生拥有双份生殖系统，他们背负的争议与痛苦远不止双倍_-_澎湃新闻.md                             |
+| Size            | 13746 bytes                           |
+| Archived Date   | 2024-11-10 22:20:41                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_8224680](https://m.thepaper.cn/newsDetail_forward_8224680)                       |
+| Author          | SME科技故事                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-01-01                                 |
+| Tags            | 跨性别, 双性人, 性别认同, 性别复杂性, 社会争议, 医疗案例                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

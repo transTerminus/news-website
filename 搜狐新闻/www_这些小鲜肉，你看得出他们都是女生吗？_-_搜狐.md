@@ -140,18 +140,18 @@ Krow Kian希望通过这部纪录片来改变社会对跨性别者的态度，�
 这篇文章探讨了跨性别与时尚界的关系，以美国女演员Indya Moore为引，讲述了她在跨性别社区中的影响力及其在电视剧《POSE》中的角色。同时，文章介绍了多个跨性别模特的故事，包括Natalie Westling和Andreja Pejic，突出了他们在性别认同方面的斗争与成就。例如，Natalie以Nathan Westling的身份重新定位自己，Andreja在接受变性手术后致力于鼓励他人。此外，Valentina Sampaio作为第一位登上维密广告的跨性别模特受到关注，而Krow Kian则通过纪录片分享自己的变性经历，旨在促进社会对跨性别者的理解与接纳。整篇文章强调了社会、媒体和时尚界在支持与包容跨性别者身份上的进步，表达了对所有勇敢面对自我的人的期待与祝福。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_这些小鲜肉，你看得出他们都是女生吗？_-_搜狐.md                             |
-> | Size            | 9229 bytes                           |
-> | Archived Date   | 2024-11-07 12:37:10                             |
-> | Original Link   | [https://www.sohu.com/a/342141760_102771](https://www.sohu.com/a/342141760_102771)                       |
-> | Author          | 皮皮虾                               |
-> | Region          | 未知                               |
-> | Date            | 2019-09-20                                 |
-> | Tags            | 跨性别, 时尚, 医疗资源, 社会环境, 生命故事, 法律政策, 权利争取, 模特经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_这些小鲜肉，你看得出他们都是女生吗？_-_搜狐.md                             |
+| Size            | 9229 bytes                           |
+| Archived Date   | 2024-11-07 12:37:10                             |
+| Original Link   | [https://www.sohu.com/a/342141760_102771](https://www.sohu.com/a/342141760_102771)                       |
+| Author          | 皮皮虾                               |
+| Region          | 未知                               |
+| Date            | 2019-09-20                                 |
+| Tags            | 跨性别, 时尚, 医疗资源, 社会环境, 生命故事, 法律政策, 权利争取, 模特经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

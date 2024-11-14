@@ -30,18 +30,18 @@
 本文件探讨了泰国的人妖文化及其中一位人妖皇后妮莎与中国小伙鲍哥的婚姻故事。内容首先介绍了泰国旅游吸引人的因素，包括其丰富的旅游景点和人妖文化。文件中提到，虽然许多人对人妖有好奇，甚至想亲自去体验，但人妖的生活并非全然美好，他们常常需承受长期使用激素所带来的身体负担。随后，文章聚焦于鲍哥与妮莎的爱情故事，尽管理解和接受人妖为伴侣所需的心理挑战，但鲍哥最终选择与妮莎共同生活，展现了他们之间的深厚感情。文章结尾邀请读者思考对人妖伴侣的看法，从而引发对社会接受度的讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_泰国人妖皇后入赘中国，中国小伙对其赞叹有佳，网友：让人羡慕！.md                             |
-> | Size            | 3461 bytes                           |
-> | Archived Date   | 2024-11-08 05:11:27                             |
-> | Original Link   | [https://m.163.com/dy/article/F5I16OUR05444FVN.html?spss=adap_pc](https://m.163.com/dy/article/F5I16OUR05444FVN.html?spss=adap_pc)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 人妖文化, 泰国旅游, 婚姻故事, 跨性别, 社会接受度, 生命故事, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_泰国人妖皇后入赘中国，中国小伙对其赞叹有佳，网友：让人羡慕！.md                             |
+| Size            | 3461 bytes                           |
+| Archived Date   | 2024-11-08 05:11:27                             |
+| Original Link   | [https://m.163.com/dy/article/F5I16OUR05444FVN.html?spss=adap_pc](https://m.163.com/dy/article/F5I16OUR05444FVN.html?spss=adap_pc)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人妖文化, 泰国旅游, 婚姻故事, 跨性别, 社会接受度, 生命故事, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

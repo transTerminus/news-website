@@ -25,18 +25,18 @@
 该文件讨论了古代人妖的历史与起源，特别聚焦于中国古代关于男扮女装的故事。文中讲述了一个与马万宝有关的故事，涉及一位假装姑娘的男盗贼如何通过变装来诱骗男性并最终被揭穿。这个故事展示了古代社会对于性别角色的复杂理解及人妖相关的社会现象，提及了蒲松龄在《聊斋志异》中对类似人物的记载，反映出古代人妖（或男扮女装者）的存在，以及他们在社会生活中的角色与挑战。文件引用了具体的案例和情节，以及对角色和事件的描述，展示了古代社会对抗性别流动性和身份认同的种种反应。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_古代的人妖_-_网易.md                             |
-> | Size            | 2280 bytes                           |
-> | Archived Date   | 2024-11-08 07:22:13                             |
-> | Original Link   | [https://www.163.com/dy/article/I59USQN805562X0D.html](https://www.163.com/dy/article/I59USQN805562X0D.html)                       |
-> | Author          | 网易号                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-05-21                                 |
-> | Tags            | 古代人妖, 性别角色, 男扮女装, 社会文化, 蒲松龄, 聊斋志异                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_古代的人妖_-_网易.md                             |
+| Size            | 2280 bytes                           |
+| Archived Date   | 2024-11-08 07:22:13                             |
+| Original Link   | [https://www.163.com/dy/article/I59USQN805562X0D.html](https://www.163.com/dy/article/I59USQN805562X0D.html)                       |
+| Author          | 网易号                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-05-21                                 |
+| Tags            | 古代人妖, 性别角色, 男扮女装, 社会文化, 蒲松龄, 聊斋志异                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -60,18 +60,18 @@
 这篇文章讲述了一位美国17岁女孩科尔的变性经历，她在变性后感到深深的悔恨，试图提醒家长在孩子决定变性时要谨慎。文章分析了变性手术的复杂性以及对身体和心理的影响，包括手术前所需的证明、激素治疗的过程和可能的手术后遗症。科尔在选择变性时才17岁，心智尚未成熟，手术后她发现自己无法再回到过去的生活，感到自己变得不完整和恐慌。此外，文中提到变性手术的极高风险和青少年变性现象的上升，反映了社会对跨性别者的接受程度变化以及潜在的心理健康风险。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_美国女孩后悔变性，无法逆转手术结果，女性是如何变成男性_.md                             |
-> | Size            | 6815 bytes                           |
-> | Archived Date   | 2024-11-08 06:54:52                             |
-> | Original Link   | [https://www.163.com/dy/article/HCO1CDQD05528LVO.html](https://www.163.com/dy/article/HCO1CDQD05528LVO.html)                       |
-> | Author          | 久见菌                               |
-> | Region          | 美国                               |
-> | Date            | 2022-07-20                                 |
-> | Tags            | 变性, 跨性别, 心理健康, 青少年, 医疗资源, 法律政策, 社会环境记录                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_美国女孩后悔变性，无法逆转手术结果，女性是如何变成男性_.md                             |
+| Size            | 6815 bytes                           |
+| Archived Date   | 2024-11-08 06:54:52                             |
+| Original Link   | [https://www.163.com/dy/article/HCO1CDQD05528LVO.html](https://www.163.com/dy/article/HCO1CDQD05528LVO.html)                       |
+| Author          | 久见菌                               |
+| Region          | 美国                               |
+| Date            | 2022-07-20                                 |
+| Tags            | 变性, 跨性别, 心理健康, 青少年, 医疗资源, 法律政策, 社会环境记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

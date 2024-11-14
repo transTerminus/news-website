@@ -48,18 +48,18 @@
 这篇文章讲述了一位自称为“变性人”的网友‘凤凰格格’的梦想和经历。‘凤凰格格’在天涯社区发帖，表达了希望能够成为导演张艺谋的‘谋女郎’的愿望，同时自信地展示了自己在钢管舞方面的表演天赋。她认为，作为变性人能成为‘谋女郎’不仅是个人的理想，也是艺术与商业结合的成功范例。帖文引发了大量网友的讨论，表达了支持和嘲讽并存的态度，有网友认为这是‘异想天开’，也有网友称赞了她追求梦想的勇气。文章中附带了网友们对凤凰格格发帖的评论，展现了社会对跨性别群体的复杂看法。整篇文章反映了个体在追求梦想时，面对社会舆论压力的抗争与坚持。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性人大跳钢管舞异想天开要当谋女郎（图）.md                             |
-> | Size            | 4393 bytes                           |
-> | Archived Date   | 2024-11-08 09:23:24                             |
-> | Original Link   | [http://www.chinanews.com.cn/yl/zyxw/news/2007/07-24/986399.shtml](http://www.chinanews.com.cn/yl/zyxw/news/2007/07-24/986399.shtml)                       |
-> | Author          | 广州日报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2007-07-24                                 |
-> | Tags            | 变性人, 钢管舞, 梦想, 社会舆论, 张艺谋, 跨性别                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人大跳钢管舞异想天开要当谋女郎（图）.md                             |
+| Size            | 4393 bytes                           |
+| Archived Date   | 2024-11-08 09:23:24                             |
+| Original Link   | [http://www.chinanews.com.cn/yl/zyxw/news/2007/07-24/986399.shtml](http://www.chinanews.com.cn/yl/zyxw/news/2007/07-24/986399.shtml)                       |
+| Author          | 广州日报                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-07-24                                 |
+| Tags            | 变性人, 钢管舞, 梦想, 社会舆论, 张艺谋, 跨性别                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

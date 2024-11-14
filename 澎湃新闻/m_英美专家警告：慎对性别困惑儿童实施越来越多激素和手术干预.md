@@ -41,18 +41,18 @@
 本文讨论了英国和美国的医疗专业人员对性别认同感到困惑的儿童施用激素和进行手术干预的警告。专家指出，这种做法缺乏长期研究支持，提倡对性别困惑儿童采取更加谨慎的态度。报告提到，许多儿童在经过充分的青春期时间后，最终会顺利长大，而采用激进的医疗措施可能对未成年人造成严重影响。文中还提到，儿童性别转变的病例正在显著增加，但反对者认为，许多这种情况可能是受到社会活动家的影响，而非儿童自身的真实需求。此外，还探讨了性别认同发展的相关研究，尤其是年龄较小儿童使用青春期阻滞剂的问题，该研究显示，可能与儿童自杀念头的增长有关。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预.md                             |
-> | Size            | 4083 bytes                           |
-> | Archived Date   | 2024-11-03 10:13:04                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=4003464&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=4003464&from=wifiKey)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 未知                               |
-> | Date            | 2023-07-25                                 |
-> | Tags            | 性别困惑, 儿童医疗, 激素治疗, 手术干预, 社会政策, 跨性别, 青少年心理, 医学伦理                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预.md                             |
+| Size            | 4083 bytes                           |
+| Archived Date   | 2024-11-03 10:13:04                             |
+| Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=4003464&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=4003464&from=wifiKey)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 未知                               |
+| Date            | 2023-07-25                                 |
+| Tags            | 性别困惑, 儿童医疗, 激素治疗, 手术干预, 社会政策, 跨性别, 青少年心理, 医学伦理                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

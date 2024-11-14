@@ -35,18 +35,18 @@
 这篇文章讨论了新浪微博在2018年4月所做出的决定，即不再清除微博上的同性恋内容，并且不再将同性恋与血腥暴力和色情内容相提并论。这一决定是在舆论压力和数十万用户的抗议之后做出的，前期的清除举措引发了广泛的讨论和愤怒。文中提到，新浪微博于4月14日发布通知，开始了为期三个月的清查行动，涉及内容包括色情和暴力的漫画及视频，并关闭了100多个相关账号。此后，新浪表示将停止清理同性恋相关内容，这与党媒《人民日报》的表态一致，后者鼓励社会对同性恋者的宽容。文章还提到，网络上涌现出大量抗议话题标签，如#我是同性恋#等，这反映出LGBT群体对这一决策的不满和抗议。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_舆论压力下新浪不再清除微博同性恋内容_-_美国之音.md                             |
-> | Size            | 2535 bytes                           |
-> | Archived Date   | 2024-11-09 08:23:36                             |
-> | Original Link   | [https://www.voachinese.com/a/news-china-sina-weibo-backtracks-from-gay-content-ban-after-outrage-20180416/4350273.html](https://www.voachinese.com/a/news-china-sina-weibo-backtracks-from-gay-content-ban-after-outrage-20180416/4350273.html)                       |
-> | Author          | 美国之音                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-04-17                                 |
-> | Tags            | 新浪微博, 同性恋, 社交媒体, 舆论压力, LGBT, 网络安全法, 抗议行动, 社会宽容                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_舆论压力下新浪不再清除微博同性恋内容_-_美国之音.md                             |
+| Size            | 2535 bytes                           |
+| Archived Date   | 2024-11-09 08:23:36                             |
+| Original Link   | [https://www.voachinese.com/a/news-china-sina-weibo-backtracks-from-gay-content-ban-after-outrage-20180416/4350273.html](https://www.voachinese.com/a/news-china-sina-weibo-backtracks-from-gay-content-ban-after-outrage-20180416/4350273.html)                       |
+| Author          | 美国之音                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-04-17                                 |
+| Tags            | 新浪微博, 同性恋, 社交媒体, 舆论压力, LGBT, 网络安全法, 抗议行动, 社会宽容                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

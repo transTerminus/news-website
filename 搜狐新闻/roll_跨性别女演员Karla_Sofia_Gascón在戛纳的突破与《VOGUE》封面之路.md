@@ -31,18 +31,18 @@ Karla的故事不仅关乎个人奋斗与成就，更反映出当今社会在性
 本文介绍了跨性别女演员Karla Sofia Gascón在近期戛纳电影节上的突出表现及其人生经历。Karla凭借电影《艾米莉亚·佩雷斯》获得最佳女演员奖，成为了焦点。然而，她的获奖之路并不平坦，伴随着社会对其跨性别身份的争议与讨论。文中详细记录了Karla的过渡经历，她从男性演员转变为女性的过程，以及在艺术和社会中所面临的挑战与认可。她的成就不仅为跨性别群体争得了文化地位，也成为了对多元性别认同的深刻反思。作为首位在戛纳电影节获奖的跨性别演员，Karla站在了性别界限的前沿，并于近期成功登上《VOGUE》杂志封面，标志着跨性别群体在主流社会中的重要认可。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | roll_跨性别女演员Karla_Sofia_Gascón在戛纳的突破与《VOGUE》封面之路.md                             |
-> | Size            | 3505 bytes                           |
-> | Archived Date   | 2024-11-07 06:38:57                             |
-> | Original Link   | [https://roll.sohu.com/a/817643342_121924583](https://roll.sohu.com/a/817643342_121924583)                       |
-> | Author          | 未知                               |
-> | Region          | 北京市                               |
-> | Date            | 2024-10-18                                 |
-> | Tags            | 跨性别, 女演员, Karla Sofia Gascón, 戛纳电影节, VOGUE, 性别认同, 个人故事, 社会环境, 艺术成就                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | roll_跨性别女演员Karla_Sofia_Gascón在戛纳的突破与《VOGUE》封面之路.md                             |
+| Size            | 3505 bytes                           |
+| Archived Date   | 2024-11-07 06:38:57                             |
+| Original Link   | [https://roll.sohu.com/a/817643342_121924583](https://roll.sohu.com/a/817643342_121924583)                       |
+| Author          | 未知                               |
+| Region          | 北京市                               |
+| Date            | 2024-10-18                                 |
+| Tags            | 跨性别, 女演员, Karla Sofia Gascón, 戛纳电影节, VOGUE, 性别认同, 个人故事, 社会环境, 艺术成就                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -235,18 +235,18 @@
 本文件探讨了古代女性女扮男装的现象以及其中的挑战和伪装技巧。文章以“花木兰”为引子，分析了在历史背景下，女性如何通过服饰、外貌、举止等方面掩饰自我性别以融入男性社会。内容详细介绍了服饰的替换、面部的伪装、仪态的表现以及生活环境的适应，并引用了古文学作品和历史资料来说明古代女扮男装的难度与影响。文章最后强调了现代女性逐渐打破性别限制的现状，并提及了观众对古装剧中女扮男装情节的观感。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_在古代女扮男装真的不会被发现吗？_-_澎湃新闻.md                             |
-> | Size            | 11687 bytes                           |
-> | Archived Date   | 2024-11-10 21:55:52                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10548501](https://m.thepaper.cn/newsDetail_forward_10548501)                       |
-> | Author          | 袖郎                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 古代文化, 女扮男装, 花木兰, 性别伪装, 历史研究, 女性角色, 身份隐瞒, 古代文学                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_在古代女扮男装真的不会被发现吗？_-_澎湃新闻.md                             |
+| Size            | 11687 bytes                           |
+| Archived Date   | 2024-11-10 21:55:52                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_10548501](https://m.thepaper.cn/newsDetail_forward_10548501)                       |
+| Author          | 袖郎                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 古代文化, 女扮男装, 花木兰, 性别伪装, 历史研究, 女性角色, 身份隐瞒, 古代文学                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

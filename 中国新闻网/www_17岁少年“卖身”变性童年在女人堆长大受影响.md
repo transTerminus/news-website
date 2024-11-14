@@ -90,18 +90,18 @@
 本文讲述了17岁少年曾俊的变性与成长故事。自幼在女性环境中长大的曾俊，内心渴望成为女性，但在家庭和社会中面临重重压力。在经历了青春期的性别认同危机后，他在父母的强烈反对下，最终决心进行变性手术。文章详细描述了曾俊的童年、家庭背景及他如何在心理困惑与外界压力中成长，以及他最终求助于医院并寻求变性手术的过程。同时，案例中还涉及法律议题，尤其是在未成年人变性手术的伦理和法律争议。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_17岁少年“卖身”变性童年在女人堆长大受影响.md                             |
-> | Size            | 17196 bytes                           |
-> | Archived Date   | 2024-11-08 09:06:38                             |
-> | Original Link   | [http://www.chinanews.com.cn/jk/hyxw/news/2008/12-15/1486807.shtml](http://www.chinanews.com.cn/jk/hyxw/news/2008/12-15/1486807.shtml)                       |
-> | Author          | 成都晚报 朱博                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2008-12-15                                 |
-> | Tags            | 跨性别, 变性手术, 易性癖, 青少年心理, 社会支持, 法律伦理, 家庭关系                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_17岁少年“卖身”变性童年在女人堆长大受影响.md                             |
+| Size            | 17196 bytes                           |
+| Archived Date   | 2024-11-08 09:06:38                             |
+| Original Link   | [http://www.chinanews.com.cn/jk/hyxw/news/2008/12-15/1486807.shtml](http://www.chinanews.com.cn/jk/hyxw/news/2008/12-15/1486807.shtml)                       |
+| Author          | 成都晚报 朱博                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-12-15                                 |
+| Tags            | 跨性别, 变性手术, 易性癖, 青少年心理, 社会支持, 法律伦理, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

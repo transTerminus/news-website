@@ -90,18 +90,18 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp
 本文讲述了澳大利亚变性人偶像Kelly Star与她的变性经历和对整容手术的追求。Kelly出生于一个虔诚的基督教家庭，从小名叫Michael Tanham，在16岁时开始秘密使用雌性激素进行变性治疗。随着时间的推移，她的外貌逐渐女性化，并在1990年代曾是一位时尚模特，甚至参与了国际知名的选美活动。尽管她在模特生涯中取得了一定的成就，但Kelly选择了接受多达100余次的整容手术，包括隆胸，最终成为“澳大利亚最大的胸”。本文还描述了她对美的不断追求以及在娱乐圈中挣扎的经历，展示了跨性别者在追寻自我认同过程中的艰辛与坚韧。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | yule_变性再加整容隆胸100多次，她终于成为目前澳大利亚最大的胸_-_娱乐.md                             |
-> | Size            | 6756 bytes                           |
-> | Archived Date   | 2024-11-07 16:27:35                             |
-> | Original Link   | [https://yule.sohu.com/20161009/n469829376.shtml](https://yule.sohu.com/20161009/n469829376.shtml)                       |
-> | Author          | 谈资                               |
-> | Region          | 澳大利亚                               |
-> | Date            | 2016-10-09                                 |
-> | Tags            | 跨性别, 整容, 变性人, 整形手术, 人生故事, 社会现状                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | yule_变性再加整容隆胸100多次，她终于成为目前澳大利亚最大的胸_-_娱乐.md                             |
+| Size            | 6756 bytes                           |
+| Archived Date   | 2024-11-07 16:27:35                             |
+| Original Link   | [https://yule.sohu.com/20161009/n469829376.shtml](https://yule.sohu.com/20161009/n469829376.shtml)                       |
+| Author          | 谈资                               |
+| Region          | 澳大利亚                               |
+| Date            | 2016-10-09                                 |
+| Tags            | 跨性别, 整容, 变性人, 整形手术, 人生故事, 社会现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

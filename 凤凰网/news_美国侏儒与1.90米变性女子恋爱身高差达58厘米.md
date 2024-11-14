@@ -36,18 +36,18 @@
 本文讲述了一位名为Anton Kraft的美国侏儒和他的变性女友China Bell之间的爱情故事。Kraft是一位身高132厘米的健身教练，拥有举起自己体重四倍重量的世界纪录。他的女友Bell身高190厘米，原为男性，经过变性手术成为女性。两人在过去的半年间相恋，克拉夫特表示身高对他们的感情并没有障碍，反而让他们的感情更加坚固。Bell谈到初次约会时的犹豫和后来的爱慕，而克拉夫特也高兴地说，自己是地球上最幸运的男人，他们相互欣赏，享有幸福的爱情。这段跨越身高和性别差异的爱情故事展现了爱情无关外貌和身体的观点，强调了真爱的深度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美国侏儒与1.90米变性女子恋爱身高差达58厘米.md                             |
-> | Size            | 2348 bytes                           |
-> | Archived Date   | 2024-11-02 07:27:19                             |
-> | Original Link   | [https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1)                       |
-> | Author          | 凤凰资讯                               |
-> | Region          | 美国                               |
-> | Date            | 2015-03-31                                 |
-> | Tags            | 跨性别, 爱情故事, 变性人, 身高差, 真实记录                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美国侏儒与1.90米变性女子恋爱身高差达58厘米.md                             |
+| Size            | 2348 bytes                           |
+| Archived Date   | 2024-11-02 07:27:19                             |
+| Original Link   | [https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1](https://news.ifeng.com/a/20150331/43452960_0.shtml?wratingModule=1_9_1)                       |
+| Author          | 凤凰资讯                               |
+| Region          | 美国                               |
+| Date            | 2015-03-31                                 |
+| Tags            | 跨性别, 爱情故事, 变性人, 身高差, 真实记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -44,18 +44,18 @@
 本文报道了有关2024年巴黎奥运会开幕式的争议事件，该开幕式因其包含的变装艺术表演而遭到全球基督教群体的强烈反对。文章指出，在开幕式上，耶稣和十二门徒被变装皇后和跨性别舞者演绎，使得众多基督徒感到亵渎。而对此事件的反应不仅涉及宗教层面的批评，还影响到了奥运会的赞助商，甚至引发了一些广告撤回的决定。文章还探讨了文化展现与宗教敏感度之间的冲突，认为在全球化的情况下，各国在文化展示时需要更全面地考虑到他国的文化和宗教感受。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_巴黎奥运会开幕式遭痛批，变装艺术惹怒宗教群体，奥组委紧急道歉.md                             |
-> | Size            | 3854 bytes                           |
-> | Archived Date   | 2024-11-08 08:03:52                             |
-> | Original Link   | [https://www.163.com/dy/article/J8C8L9PL0552R9P2.html](https://www.163.com/dy/article/J8C8L9PL0552R9P2.html)                       |
-> | Author          | 未知                               |
-> | Region          | 法国                               |
-> | Date            | 2024-07-30                                 |
-> | Tags            | 巴黎奥运会, 跨性别, 变装艺术, 宗教争议, 社会文化, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_巴黎奥运会开幕式遭痛批，变装艺术惹怒宗教群体，奥组委紧急道歉.md                             |
+| Size            | 3854 bytes                           |
+| Archived Date   | 2024-11-08 08:03:52                             |
+| Original Link   | [https://www.163.com/dy/article/J8C8L9PL0552R9P2.html](https://www.163.com/dy/article/J8C8L9PL0552R9P2.html)                       |
+| Author          | 未知                               |
+| Region          | 法国                               |
+| Date            | 2024-07-30                                 |
+| Tags            | 巴黎奥运会, 跨性别, 变装艺术, 宗教争议, 社会文化, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -36,18 +36,18 @@
 这篇文章报道了美国前世界健美冠军贾纳·玛丽·克罗克（Janae Marie Kroc）的故事，贾纳公开承认自己是跨性别者，表现出兼具男性和女性特质。她认为自己更倾向于女性角色，并在文章中提到，自己的内心同时居住着一个男人和一个女人，常感到难以和谐共处。尽管有外界对她变性的质疑，贾纳表示会等到自己的三个儿子高中毕业后再考虑变性手术。她收到了来自家庭和网友们的支持，鼓励她为真实的自己而活。贾纳的故事传达了对自我身份和坚定自我的追求的重要性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | inews_美国前世界健美冠军是双性人_-_凤凰网.md                             |
-> | Size            | 1722 bytes                           |
-> | Archived Date   | 2024-11-09 09:56:55                             |
-> | Original Link   | [http://inews.ifeng.com/44319987/news.shtml](http://inews.ifeng.com/44319987/news.shtml)                       |
-> | Author          | 凤凰新闻                               |
-> | Region          | 美国                               |
-> | Date            | 2023-07-29                                 |
-> | Tags            | 跨性别, 健美, 变性, 社会                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | inews_美国前世界健美冠军是双性人_-_凤凰网.md                             |
+| Size            | 1722 bytes                           |
+| Archived Date   | 2024-11-09 09:56:55                             |
+| Original Link   | [http://inews.ifeng.com/44319987/news.shtml](http://inews.ifeng.com/44319987/news.shtml)                       |
+| Author          | 凤凰新闻                               |
+| Region          | 美国                               |
+| Date            | 2023-07-29                                 |
+| Tags            | 跨性别, 健美, 变性, 社会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

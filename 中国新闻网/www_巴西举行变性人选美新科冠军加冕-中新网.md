@@ -29,18 +29,18 @@
 本文介绍了2013年10月21日在巴西举行的变性人选美比赛。比赛中有28位来自全国各地的变性人参与角逐，争夺称号最美变性人，并且年龄限制在35岁以下。获胜者Raika Ferraz被加冕为新科冠军，她将代表巴西参加将于11月1日在泰国举行的世界变性人选美大赛。文章详细描述了比赛的彩排过程以及参与者的积极准备，展现了跨性别群体在社交活动中追求认可和自我表达的勇气和希望。比赛不仅为这些变性人提供了展示自我的平台，也为社会对跨性别群体的关注增添了亮点。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_巴西举行变性人选美新科冠军加冕-中新网.md                             |
-> | Size            | 1087 bytes                           |
-> | Archived Date   | 2024-11-08 10:41:04                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257166.shtml](https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257166.shtml)                       |
-> | Author          | 中新网                               |
-> | Region          | 巴西                               |
-> | Date            | 2013-10-22                                 |
-> | Tags            | 跨性别, 选美, 巴西, 比赛                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_巴西举行变性人选美新科冠军加冕-中新网.md                             |
+| Size            | 1087 bytes                           |
+| Archived Date   | 2024-11-08 10:41:04                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257166.shtml](https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257166.shtml)                       |
+| Author          | 中新网                               |
+| Region          | 巴西                               |
+| Date            | 2013-10-22                                 |
+| Tags            | 跨性别, 选美, 巴西, 比赛                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

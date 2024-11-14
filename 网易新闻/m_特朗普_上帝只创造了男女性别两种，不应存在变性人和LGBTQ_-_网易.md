@@ -34,18 +34,18 @@
 本文讨论了特朗普近期发表的言论，声称上帝只创造了男女性别两种，因此不存在变性人和LGBTQ群体。这一言论引发了广泛的争议和讨论，许多人对其保守的性别观念表示反对。文章指出特朗普的立场似乎忽视了人类性别的多样性，同时对性别平等和LGBTQ+权益的议题产生了潜在的影响。特朗普关于禁止学校传播跨性别内容的言论引发了人们对性别认同的探索和未成年人自主权的担忧。此外，对于男性参加女子体育比赛的禁令和未成年人变性手术的限制也引发了激烈的辩论。文章最后提到，性别议题并非简单的黑白分明，而是包含丰富的灰度，呼吁人们需要以理解和对话的方式面对这些复杂的问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_特朗普_上帝只创造了男女性别两种，不应存在变性人和LGBTQ_-_网易.md                             |
-> | Size            | 3063 bytes                           |
-> | Archived Date   | 2024-11-08 05:31:14                             |
-> | Original Link   | [https://m.163.com/dy/article_cambrian/JFUM4K6S0553ESUC.html](https://m.163.com/dy/article_cambrian/JFUM4K6S0553ESUC.html)                       |
-> | Author          | 未知                               |
-> | Region          | 美国                               |
-> | Date            | 未知                                 |
-> | Tags            | 特朗普, 性别多样性, LGBTQ, 跨性别, 性别平等, 社会政策, 保守主义, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_特朗普_上帝只创造了男女性别两种，不应存在变性人和LGBTQ_-_网易.md                             |
+| Size            | 3063 bytes                           |
+| Archived Date   | 2024-11-08 05:31:14                             |
+| Original Link   | [https://m.163.com/dy/article_cambrian/JFUM4K6S0553ESUC.html](https://m.163.com/dy/article_cambrian/JFUM4K6S0553ESUC.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 特朗普, 性别多样性, LGBTQ, 跨性别, 性别平等, 社会政策, 保守主义, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

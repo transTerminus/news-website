@@ -65,18 +65,18 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 该文档是关于广州地区的一次变装聚会活动的介绍，标题为《LJL最新伪街目的地，来一次轻松的变装之旅吧！！》。由新浪博客发布，内容详细描述了活动的背景、地点及流程。活动地点选在风景优美的二沙岛，旨在为参与者提供一个轻松愉快的变装体验。文中提到二沙岛是珠江的江心岛，环境优美，适合骑行和拍照。在报名信息中包含了活动时间为2016年10月30日上午9:30，费用也详细列出，适用于不同身份的参与者，包括跨性别者、真女和普通男士。文中还提供了联系方式和后续活动的信息，展示了一个关于变装文化的社交和交流平台。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | blog_LJL最新伪街目的地，来一次轻松的变装之旅吧！！.md                             |
-> | Size            | 2850 bytes                           |
-> | Archived Date   | 2024-11-09 06:10:26                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_ea237e530102wobc.html](https://blog.sina.com.cn/s/blog_ea237e530102wobc.html)                       |
-> | Author          | 新浪博客                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2016-10-25                                 |
-> | Tags            | 变装活动, 跨性别, 二沙岛, 社交聚会, 广州, 生命故事与经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | blog_LJL最新伪街目的地，来一次轻松的变装之旅吧！！.md                             |
+| Size            | 2850 bytes                           |
+| Archived Date   | 2024-11-09 06:10:26                             |
+| Original Link   | [https://blog.sina.com.cn/s/blog_ea237e530102wobc.html](https://blog.sina.com.cn/s/blog_ea237e530102wobc.html)                       |
+| Author          | 新浪博客                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-10-25                                 |
+| Tags            | 变装活动, 跨性别, 二沙岛, 社交聚会, 广州, 生命故事与经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

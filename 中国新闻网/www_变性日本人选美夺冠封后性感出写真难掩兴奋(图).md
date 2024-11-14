@@ -31,18 +31,18 @@
 本文报道了日本变性艺人春菜爱在2009年的国际变性人选美大赛中夺得冠军的经过与感受。春菜爱兴奋地表示夺冠的经历仿佛是梦境般的存在，并推出了首部个人写真集。文中提到，为了参与选美活动，春菜经过4个月的锻炼成功瘦身15公斤，并得到父亲的支持与鼓励。她随后强调了将继续参与演艺活动，并希望能够为变性人争取更多理解与关注。本文不仅展现了春菜爱的成长与成功，更揭示了对于跨性别人群的社会认知与接受度的潜在影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性日本人选美夺冠封后性感出写真难掩兴奋(图).md                             |
-> | Size            | 1644 bytes                           |
-> | Archived Date   | 2024-11-08 09:21:54                             |
-> | Original Link   | [http://www.chinanews.com.cn/yl/yl-zyxw/news/2009/11-05/1949705.shtml](http://www.chinanews.com.cn/yl/yl-zyxw/news/2009/11-05/1949705.shtml)                       |
-> | Author          | 王祎                               |
-> | Region          | 日本                               |
-> | Date            | 2009-11-05                                 |
-> | Tags            | 跨性别, 选美, 春菜爱, 变性人, 演艺活动, 社会理解                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性日本人选美夺冠封后性感出写真难掩兴奋(图).md                             |
+| Size            | 1644 bytes                           |
+| Archived Date   | 2024-11-08 09:21:54                             |
+| Original Link   | [http://www.chinanews.com.cn/yl/yl-zyxw/news/2009/11-05/1949705.shtml](http://www.chinanews.com.cn/yl/yl-zyxw/news/2009/11-05/1949705.shtml)                       |
+| Author          | 王祎                               |
+| Region          | 日本                               |
+| Date            | 2009-11-05                                 |
+| Tags            | 跨性别, 选美, 春菜爱, 变性人, 演艺活动, 社会理解                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -42,18 +42,18 @@
 该文件中探讨了伪娘、扶她、人妖等概念在二次元文化中的区别与内涵。伪娘是指男性打扮成女性，并一般演绎动漫中的女性角色，其特点为平胸及保留男性生殖器。扶她则是指双性人，通常表现为具有女性的外貌和男性生殖器，最初源自于日本的成人文化。人妖与Shemale的定义相似，多用于蔑称，特指性别身份混合的个体，尤其在泰国。文章还提到，随着网络文化的演变，为了调侃，流行了“女装大佬”等表达方式。整体上，文件对这些术语进行了细致的区分与解释，并反映了相关群体在流行文化中的表现及社会认知。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_伪娘、扶她、人妖的区别是什么？_-_网易.md                             |
-> | Size            | 2238 bytes                           |
-> | Archived Date   | 2024-11-08 05:48:25                             |
-> | Original Link   | [https://www.163.com/dy/article/DI1EOR2D0516E58Q.html](https://www.163.com/dy/article/DI1EOR2D0516E58Q.html)                       |
-> | Author          | 网易                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-05-17                                 |
-> | Tags            | 跨性别, 伪娘, 扶她, 人妖, 二次元文化, 性别身份                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_伪娘、扶她、人妖的区别是什么？_-_网易.md                             |
+| Size            | 2238 bytes                           |
+| Archived Date   | 2024-11-08 05:48:25                             |
+| Original Link   | [https://www.163.com/dy/article/DI1EOR2D0516E58Q.html](https://www.163.com/dy/article/DI1EOR2D0516E58Q.html)                       |
+| Author          | 网易                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-05-17                                 |
+| Tags            | 跨性别, 伪娘, 扶她, 人妖, 二次元文化, 性别身份                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

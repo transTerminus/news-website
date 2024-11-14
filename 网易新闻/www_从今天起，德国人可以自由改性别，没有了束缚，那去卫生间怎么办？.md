@@ -44,18 +44,18 @@ _目前没有热门跟贴_
 本文讨论了德国最新实施的《自决法》，该法允许公民通过简化的程序自由更改性别和名字，而无需经历传统上所需的心理评估和法院裁决。文章提到，在过去的法律框架下，有意更改性别的人需要经历复杂而昂贵的程序，这一新法律的出台被认为是对性少数群体权利的重大进步。同时，文章也提出了对新法带来的安全隐患的担忧，联合国及其他组织表达了对女性在公共卫生间等场所安全的关注。德国政府对此进行了辩护，认为新法符合人权标准，并称其将帮助性少数群体更好地融入社会。文章通过描述法律背景及社会反响，阐述了跨性别权益与社会安全之间的复杂关系。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_从今天起，德国人可以自由改性别，没有了束缚，那去卫生间怎么办？.md                             |
-> | Size            | 4250 bytes                           |
-> | Archived Date   | 2024-11-08 08:25:19                             |
-> | Original Link   | [https://www.163.com/dy/article/JFUUH1MJ0514BIIR.html](https://www.163.com/dy/article/JFUUH1MJ0514BIIR.html)                       |
-> | Author          | 未知                               |
-> | Region          | 德国                               |
-> | Date            | 2024-11-02                                 |
-> | Tags            | 跨性别, 德国, 自决法, 性别认同, 性少数群体权利, 社会安全, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_从今天起，德国人可以自由改性别，没有了束缚，那去卫生间怎么办？.md                             |
+| Size            | 4250 bytes                           |
+| Archived Date   | 2024-11-08 08:25:19                             |
+| Original Link   | [https://www.163.com/dy/article/JFUUH1MJ0514BIIR.html](https://www.163.com/dy/article/JFUUH1MJ0514BIIR.html)                       |
+| Author          | 未知                               |
+| Region          | 德国                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 跨性别, 德国, 自决法, 性别认同, 性少数群体权利, 社会安全, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

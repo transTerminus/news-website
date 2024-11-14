@@ -41,18 +41,18 @@
 本文报道了美国前奥运冠军布鲁斯‧任纳（Bruce Jenner）在2015年6月2日公开变性为女性，并更名为凯特琳（Caitlyn Jenner）的重要时刻。凯特琳在《浮华世界》（Vanity Fair）的封面上展示了她的女性形象，吸引了广泛的关注与支持。她在推特上迅速积累了一百万粉丝，令人瞩目，这一成就打破了之前由奥巴马保持的纪录。报道中还提到凯特琳的家庭对此表示支持，尤其是她的继女金卡戴珊（Kim Kardashian）。凯特琳在视频中分享了自己的挣扎与快乐，强调了自己沉重的秘密与重生的经历。整个事件不仅揭示了她个人的过渡过程，也反映了社会对跨性别者逐渐增强的接受度和支持。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美国前奥运冠军变性女人味十足(图).md                             |
-> | Size            | 2229 bytes                           |
-> | Archived Date   | 2024-11-02 03:52:22                             |
-> | Original Link   | [https://news.sina.cn/gj/2015-06-02/detail-ianfzhnk0861955.d.html](https://news.sina.cn/gj/2015-06-02/detail-ianfzhnk0861955.d.html)                       |
-> | Author          | 未知                               |
-> | Region          | 美国                               |
-> | Date            | 2015-06-02                                 |
-> | Tags            | 跨性别, 布鲁斯·任纳, 凯特琳·任纳, 奥运冠军, 社会支持, 性别认同, LGBT                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美国前奥运冠军变性女人味十足(图).md                             |
+| Size            | 2229 bytes                           |
+| Archived Date   | 2024-11-02 03:52:22                             |
+| Original Link   | [https://news.sina.cn/gj/2015-06-02/detail-ianfzhnk0861955.d.html](https://news.sina.cn/gj/2015-06-02/detail-ianfzhnk0861955.d.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2015-06-02                                 |
+| Tags            | 跨性别, 布鲁斯·任纳, 凯特琳·任纳, 奥运冠军, 社会支持, 性别认同, LGBT                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

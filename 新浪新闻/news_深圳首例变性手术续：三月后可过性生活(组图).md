@@ -92,18 +92,18 @@
 本文件记录了深圳首例变性手术的详细过程和相关背景，报道了手术的时间、地点、参与医生和患者李国华的经历。这场手术在2006年6月6日进行，历时6小时55分，成功完成了李国华由男性变为女性的第一期手术，包括切除男性生殖器和再造女性生殖器。手术过程中，李国华的家属在场，经过了紧张的准备和手术，最终在手术成功后，李国华泪流满面，表达了无比的幸福。附带的评论反映了社会对变性手术的不同看法，讨论了这一手术对个人生活和社会的影响。此篇文章不仅提供了生动的手术细节，也反映了个人在性别认同过程中所经历的情感波动与挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_深圳首例变性手术续：三月后可过性生活(组图).md                             |
-> | Size            | 6493 bytes                           |
-> | Archived Date   | 2024-11-02 05:28:18                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html](https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html)                       |
-> | Author          | 李国华                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2006-06-06                                 |
-> | Tags            | 变性手术, 生命故事, 性别认同, 医疗经验, 社会评论, 深圳案例                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_深圳首例变性手术续：三月后可过性生活(组图).md                             |
+| Size            | 6493 bytes                           |
+| Archived Date   | 2024-11-02 05:28:18                             |
+| Original Link   | [https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html](https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html)                       |
+| Author          | 李国华                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-06-06                                 |
+| Tags            | 变性手术, 生命故事, 性别认同, 医疗经验, 社会评论, 深圳案例                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

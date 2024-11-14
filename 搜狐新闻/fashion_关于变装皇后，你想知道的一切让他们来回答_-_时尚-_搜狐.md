@@ -240,18 +240,18 @@ Divine和“垃圾教皇” John Waters合作的电影《粉红色火烈鸟》�
 本文是一篇关于变装皇后文化的深入介绍，探讨了变装历史、杰出人物和当代表演者的经历与看法。文章从1960年代的石墙事件开始讲起，重点分析了变装文化的起源及其逐步走向主流。从Marsha P Johnson到Linda Simpson的摄影作品，再到现代的表演如《鲁保罗变装皇后秀》，文中引用了多位变装表演者的亲身经历，如职业变装舞者Paige Turner和无性别变装皇后Victoria Sin，展示了变装如何成为一种自我表达和社会抗争的方式。通过他们的故事，读者可以了解到变装文化的多样性与包容性，这不仅是对性别与身份认同的探讨，也是对艺术与表演的深刻理解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | fashion_关于变装皇后，你想知道的一切让他们来回答_-_时尚-_搜狐.md                             |
-> | Size            | 26554 bytes                           |
-> | Archived Date   | 2024-11-07 05:01:44                             |
-> | Original Link   | [https://fashion.sohu.com/20170320/n483966449.shtml](https://fashion.sohu.com/20170320/n483966449.shtml)                       |
-> | Author          | YOHO!GIRL                               |
-> | Region          | 未知                               |
-> | Date            | 2017-03-20                                 |
-> | Tags            | 变装文化, Drag Queen, 性别表演, 跨性别, 社会抗争, 个人故事, 艺术表现                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | fashion_关于变装皇后，你想知道的一切让他们来回答_-_时尚-_搜狐.md                             |
+| Size            | 26554 bytes                           |
+| Archived Date   | 2024-11-07 05:01:44                             |
+| Original Link   | [https://fashion.sohu.com/20170320/n483966449.shtml](https://fashion.sohu.com/20170320/n483966449.shtml)                       |
+| Author          | YOHO!GIRL                               |
+| Region          | 未知                               |
+| Date            | 2017-03-20                                 |
+| Tags            | 变装文化, Drag Queen, 性别表演, 跨性别, 社会抗争, 个人故事, 艺术表现                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

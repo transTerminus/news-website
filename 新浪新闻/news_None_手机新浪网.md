@@ -25,18 +25,18 @@
 这篇文章来自手机新浪网，报道了新加坡一群有变性需求的人于2001年6月21日向政府提出请求，要求重新开放新加坡国立大学医院的变性手术诊所。文章提到，自1992年起当另一家医院停止提供变性手术以来，该诊所成为新加坡唯一可以执行此类手术的地点。但该诊所于2001年3月关闭，至今未公布具体原因。请愿的发起人李炎，希望通过收集签名，表达社会对变性手术的需求。她表示，诊所的关闭给患者带来了很大的困扰，许多人不得不到国外接受手术，费用是本地的3至4倍。文中提到，自1971年新加坡实施首例变性手术以来，至2000年共有409人接受手术。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_None_手机新浪网.md                             |
-> | Size            | 1510 bytes                           |
-> | Archived Date   | 2024-11-02 04:08:53                             |
-> | Original Link   | [https://news.sina.cn/sa/2001-06-22/detail-ikkntiak6806904.d.html](https://news.sina.cn/sa/2001-06-22/detail-ikkntiak6806904.d.html)                       |
-> | Author          | 未知                               |
-> | Region          | 新加坡                               |
-> | Date            | 2001-06-22                                 |
-> | Tags            | 变性手术, 跨性别, 医疗资源, 社会需求, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_None_手机新浪网.md                             |
+| Size            | 1510 bytes                           |
+| Archived Date   | 2024-11-02 04:08:53                             |
+| Original Link   | [https://news.sina.cn/sa/2001-06-22/detail-ikkntiak6806904.d.html](https://news.sina.cn/sa/2001-06-22/detail-ikkntiak6806904.d.html)                       |
+| Author          | 未知                               |
+| Region          | 新加坡                               |
+| Date            | 2001-06-22                                 |
+| Tags            | 变性手术, 跨性别, 医疗资源, 社会需求, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -25,18 +25,18 @@
 本文讨论了一名台湾知名女模特刘熏爱的个人经历，她在18岁前是男儿身，通过变性手术实现性别认同。此文中提到的背景故事揭示了她的转变过程以及前男友对她变性的资助。刘熏爱表示对自己的现状态非常满意，展现了她对自我身份的认同和自豪感。此外，文章还附有相关图片，包括刘熏爱的身份证和她的个人照片，反映了她在变性手术后的外貌变化和社会认同。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_台知名女模承认18岁前是男儿身前男友出资变性.md                             |
-> | Size            | 981 bytes                           |
-> | Archived Date   | 2024-11-02 08:34:16                             |
-> | Original Link   | [https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml](https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml)                       |
-> | Author          | 马翠                               |
-> | Region          | 台湾                               |
-> | Date            | 2010-01-23                                 |
-> | Tags            | 变性手术, 刘熏爱, 前男友, 性别认同, 个人经历, 社会认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_台知名女模承认18岁前是男儿身前男友出资变性.md                             |
+| Size            | 981 bytes                           |
+| Archived Date   | 2024-11-02 08:34:16                             |
+| Original Link   | [https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml](https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml)                       |
+| Author          | 马翠                               |
+| Region          | 台湾                               |
+| Date            | 2010-01-23                                 |
+| Tags            | 变性手术, 刘熏爱, 前男友, 性别认同, 个人经历, 社会认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

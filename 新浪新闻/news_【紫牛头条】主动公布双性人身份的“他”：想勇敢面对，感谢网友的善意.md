@@ -105,18 +105,18 @@
 本文讲述了一个名为小千的双性人，他在成长过程中经历了性别认同的困惑与挣扎。文章详细描述了小千在18岁时被确诊为双性人的过程，以及他在得知自己身体状况后的绝望与痛苦。小千最初隐瞒身份，封闭自己，直到他找到一个支持性的社交群体，开始慢慢重建自信。在朋友的鼓励下，他最终选择在网上公开自己的双性人身份，旨在告诉社会更多关于双性人的真实生活现状。小千希望让大家理解双性人群体，同时也分享了他对未来的期待和对身份的自豪感。此文还包括医生的建议，指出虽然小千的身份有其独特挑战，但进行矫正手术是医学上的建议。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_【紫牛头条】主动公布双性人身份的“他”：想勇敢面对，感谢网友的善意.md                             |
-> | Size            | 8501 bytes                           |
-> | Archived Date   | 2024-11-09 07:25:15                             |
-> | Original Link   | [https://news.sina.cn/2021-02-08/detail-ikftpnny5854991.d.html?cre=wappage&mod=r&loc=4&r=0&rfunc=1&tj=wap_news_relate](https://news.sina.cn/2021-02-08/detail-ikftpnny5854991.d.html?cre=wappage&mod=r&loc=4&r=0&rfunc=1&tj=wap_news_relate)                       |
-> | Author          | 扬子晚报·紫牛新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-02-08                                 |
-> | Tags            | 双性人, 性别认同, 生命故事, 心理健康, 社交支持, 医疗建议, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_【紫牛头条】主动公布双性人身份的“他”：想勇敢面对，感谢网友的善意.md                             |
+| Size            | 8501 bytes                           |
+| Archived Date   | 2024-11-09 07:25:15                             |
+| Original Link   | [https://news.sina.cn/2021-02-08/detail-ikftpnny5854991.d.html?cre=wappage&mod=r&loc=4&r=0&rfunc=1&tj=wap_news_relate](https://news.sina.cn/2021-02-08/detail-ikftpnny5854991.d.html?cre=wappage&mod=r&loc=4&r=0&rfunc=1&tj=wap_news_relate)                       |
+| Author          | 扬子晚报·紫牛新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-02-08                                 |
+| Tags            | 双性人, 性别认同, 生命故事, 心理健康, 社交支持, 医疗建议, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

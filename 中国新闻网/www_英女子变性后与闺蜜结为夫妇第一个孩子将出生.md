@@ -33,18 +33,18 @@
 该文件讲述了英国变性人肖恩·霍顿（Sean Horton）与其未婚妻托妮·哈珀（Toni Harper）的故事。在他们的学生时代，两人是好朋友，霍顿在未进行变性手术时曾向哈珀倾诉想要变成男人的心愿。在获得家人的支持后，霍顿进行了变性手术，并在手术期间与昔日闺蜜哈珀的关系逐渐升温。经过5年的变性手术，霍顿终于实现了自己的身份转变，而哈珀在此过程中也爱上了霍顿。目前，他们计划结婚，并期待着他们的第一个孩子在婚礼前后出生。这个故事不仅体现了个人的身份探索和转变，也反映了变性人在生活中所作的努力和背后伴侣的支持。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_英女子变性后与闺蜜结为夫妇第一个孩子将出生.md                             |
-> | Size            | 1354 bytes                           |
-> | Archived Date   | 2024-11-08 10:11:02                             |
-> | Original Link   | [https://www.chinanews.com.cn/m/gj/2015/02-15/7066245.shtml](https://www.chinanews.com.cn/m/gj/2015/02-15/7066245.shtml)                       |
-> | Author          | 环球网                               |
-> | Region          | 英国                               |
-> | Date            | 2015-02-15                                 |
-> | Tags            | 跨性别, 变性人故事, 婚姻, 家庭, 社会支持, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_英女子变性后与闺蜜结为夫妇第一个孩子将出生.md                             |
+| Size            | 1354 bytes                           |
+| Archived Date   | 2024-11-08 10:11:02                             |
+| Original Link   | [https://www.chinanews.com.cn/m/gj/2015/02-15/7066245.shtml](https://www.chinanews.com.cn/m/gj/2015/02-15/7066245.shtml)                       |
+| Author          | 环球网                               |
+| Region          | 英国                               |
+| Date            | 2015-02-15                                 |
+| Tags            | 跨性别, 变性人故事, 婚姻, 家庭, 社会支持, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

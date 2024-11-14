@@ -89,18 +89,18 @@
 本文介绍了一位来自湖北武汉的伪娘“豪歌”，他在网络上发布了一系列性感的cosplay女仆照。这些照片吸引了大量网友的关注与讨论，许多人对其女性化的外表表示惊讶，认为其外貌超越了传统男性形象，颠覆了性别观念。豪歌自我介绍为一名没有做过手术的直男，拥有六年的伪娘经验，并曾担任设计师和化妆师。他在照片中展现出了自己的装扮和对阳光、自信的态度，同时引发了对伪娘现象及其社会接受度的思考。本文通过豪歌的故事，显示了性别认同与表现的多样性，以及当代网络文化对性别界限的挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | gameapp_武汉伪娘cos照超性感_新浪游戏.md                             |
-> | Size            | 3961 bytes                           |
-> | Archived Date   | 2024-11-09 05:39:20                             |
-> | Original Link   | [http://gameapp.sina.cn/news/wangyou/2015-12-09/yx-ifxmihae9350448.d.html](http://gameapp.sina.cn/news/wangyou/2015-12-09/yx-ifxmihae9350448.d.html)                       |
-> | Author          | 新浪游戏                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2015-12-09                                 |
-> | Tags            | 伪娘, cosplay, 性别认同, 武汉, 网络文化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | gameapp_武汉伪娘cos照超性感_新浪游戏.md                             |
+| Size            | 3961 bytes                           |
+| Archived Date   | 2024-11-09 05:39:20                             |
+| Original Link   | [http://gameapp.sina.cn/news/wangyou/2015-12-09/yx-ifxmihae9350448.d.html](http://gameapp.sina.cn/news/wangyou/2015-12-09/yx-ifxmihae9350448.d.html)                       |
+| Author          | 新浪游戏                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-12-09                                 |
+| Tags            | 伪娘, cosplay, 性别认同, 武汉, 网络文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -63,18 +63,18 @@
 该文件讲述了天津一名跨性别女性婴宁的生命故事与过渡经历。通过多次整形手术，她实现了自己的女性化梦想，感受到由内而外的美丽与自信。文中详细描述了她为实现自己的性别身份所经历的艰辛和喜悦，包括从辛苦学习语言到成功拍摄写真，婴宁对生活的希望与向往在字里行间透显，展现了她的心路历程。同时，文章也反映了社会对跨性别者的接受度逐渐提升，婴宁渴望获得平等待遇的心理状态。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_天津津门第一人造变性美女漂亮女孩就是我(图).md                             |
-> | Size            | 3254 bytes                           |
-> | Archived Date   | 2024-11-08 09:17:16                             |
-> | Original Link   | [http://www.chinanews.com.cn/sh/news/2007/08-03/993930.shtml](http://www.chinanews.com.cn/sh/news/2007/08-03/993930.shtml)                       |
-> | Author          | 新报记者 胡凌云                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2007-08-03                                 |
-> | Tags            | 跨性别, 生命故事, 整形手术, 社会接受度, 女性身份, 天津                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_天津津门第一人造变性美女漂亮女孩就是我(图).md                             |
+| Size            | 3254 bytes                           |
+| Archived Date   | 2024-11-08 09:17:16                             |
+| Original Link   | [http://www.chinanews.com.cn/sh/news/2007/08-03/993930.shtml](http://www.chinanews.com.cn/sh/news/2007/08-03/993930.shtml)                       |
+| Author          | 新报记者 胡凌云                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-08-03                                 |
+| Tags            | 跨性别, 生命故事, 整形手术, 社会接受度, 女性身份, 天津                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

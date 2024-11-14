@@ -47,18 +47,18 @@
 该文件报道了一名西班牙16岁男孩接受变性手术的故事，他因成功争取到变性手术的批准，成为世界上最年轻的变性人之一。文章详细描述了男孩如何说服家人、医生和法官，使他们理解他内心的性别认同，并为他支付了手术费用。文章提到，手术是由曾为其进行两年荷尔蒙治疗的医生莫纳诺执行的。此案例在西班牙法律下具有特殊意义，因为18岁以下人士常常需要法官同意才能进行变性手术，而此案例的法官在仔细审阅相关报告后，首次同意了未成年人进行变性手术。文章还与当时的其它相关新闻联结，展示了不断变化的社会环境与政策对跨性别群体的影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_西班牙16岁少年变少女成最年轻变性人之一(图).md                             |
-> | Size            | 2657 bytes                           |
-> | Archived Date   | 2024-11-08 09:04:41                             |
-> | Original Link   | [http://www.chinanews.com.cn/gj/gj-dqsj/news/2010/01-13/2069792.shtml](http://www.chinanews.com.cn/gj/gj-dqsj/news/2010/01-13/2069792.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 西班牙                               |
-> | Date            | 2010-01-13                                 |
-> | Tags            | 变性, 跨性别, 西班牙, 医疗, 法官, 荷尔蒙治疗                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_西班牙16岁少年变少女成最年轻变性人之一(图).md                             |
+| Size            | 2657 bytes                           |
+| Archived Date   | 2024-11-08 09:04:41                             |
+| Original Link   | [http://www.chinanews.com.cn/gj/gj-dqsj/news/2010/01-13/2069792.shtml](http://www.chinanews.com.cn/gj/gj-dqsj/news/2010/01-13/2069792.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 西班牙                               |
+| Date            | 2010-01-13                                 |
+| Tags            | 变性, 跨性别, 西班牙, 医疗, 法官, 荷尔蒙治疗                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

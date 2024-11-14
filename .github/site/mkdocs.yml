@@ -6,6 +6,9 @@ theme:
   name: material
   custom_dir: overrides
   features:
+    - search.suggest
+    - search.highlight
+    - search.share
     - content.action.edit
     - navigation.footer
     - navigation.instant
@@ -37,6 +40,10 @@ theme:
   language: en
 plugins:
   - search
+    pipeline:
+      - stemmer
+      - stopWordFilter
+      - trimmer
   - social
   - rss:
       match_path: ".*"

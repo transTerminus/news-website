@@ -51,18 +51,18 @@
 该文章讨论了2008年北京奥运会设立的性别鉴定中心，这是奥运历史上首次设立这样的实验室，旨在解决比赛中出现的性别身份问题。文章通过采访性别鉴定实验中心的负责人何方方教授，阐述了性别鉴定的科学性与复杂性。何教授指出，过去通常通过染色体来判断性别，但这种方法在某些情况下并不科学，因为并非所有女性都拥有标准的女性染色体。她强调，通过观察外观、实验室检查、性激素水平等多种方法来综合判断一个人的性别。文章中还提到，性发育异常的现象在全球相对常见，这也使得性别鉴定的科研显得尤为重要。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_奥运性别鉴定中心可查出变性人首先从外观判断.md                             |
-> | Size            | 5024 bytes                           |
-> | Archived Date   | 2024-11-08 09:14:32                             |
-> | Original Link   | [http://www.chinanews.com.cn/olympic/news/2008/07-29/1328518.shtml](http://www.chinanews.com.cn/olympic/news/2008/07-29/1328518.shtml)                       |
-> | Author          | 关尹                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2008-07-29                                 |
-> | Tags            | 奥运会, 性别鉴定, 跨性别, 性别研究, 运动员, 医疗资源                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_奥运性别鉴定中心可查出变性人首先从外观判断.md                             |
+| Size            | 5024 bytes                           |
+| Archived Date   | 2024-11-08 09:14:32                             |
+| Original Link   | [http://www.chinanews.com.cn/olympic/news/2008/07-29/1328518.shtml](http://www.chinanews.com.cn/olympic/news/2008/07-29/1328518.shtml)                       |
+| Author          | 关尹                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-07-29                                 |
+| Tags            | 奥运会, 性别鉴定, 跨性别, 性别研究, 运动员, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

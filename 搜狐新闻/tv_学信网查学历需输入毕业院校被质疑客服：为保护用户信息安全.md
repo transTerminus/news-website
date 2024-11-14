@@ -21,18 +21,18 @@
 这篇文章报道了一位19岁跨性别者的个人经历，特别是她在经历性别过渡过程中的挑战与感受。文章提到该跨性别者为了实现变性，曾接受医疗干预，同时也记录了她在这一过程中与家人的关系变化，其中包括家人对她的反对与两次送她去改造机构的经历。此外，评论区的留言反映社会对跨性别者的不同看法，诸如有人认为可以接受同性恋，但对于变性却抱有疑虑。通过这些内容，文章展现了当事人的真实生存状态以及她所面临的社会压力和家庭矛盾。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | tv_学信网查学历需输入毕业院校被质疑客服：为保护用户信息安全.md                             |
-> | Size            | 746 bytes                           |
-> | Archived Date   | 2024-11-07 04:34:06                             |
-> | Original Link   | [http://tv.sohu.com/v/dXMvMjcyOTk5MTA3LzIwMjQwNDk5MC5zaHRtbA==.html](http://tv.sohu.com/v/dXMvMjcyOTk5MTA3LzIwMjQwNDk5MC5zaHRtbA==.html)                       |
-> | Author          | 搜狐视频                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2020-07-01                                 |
-> | Tags            | 跨性别, 变性经历, 个人故事, 社会环境, 家庭关系                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | tv_学信网查学历需输入毕业院校被质疑客服：为保护用户信息安全.md                             |
+| Size            | 746 bytes                           |
+| Archived Date   | 2024-11-07 04:34:06                             |
+| Original Link   | [http://tv.sohu.com/v/dXMvMjcyOTk5MTA3LzIwMjQwNDk5MC5zaHRtbA==.html](http://tv.sohu.com/v/dXMvMjcyOTk5MTA3LzIwMjQwNDk5MC5zaHRtbA==.html)                       |
+| Author          | 搜狐视频                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-07-01                                 |
+| Tags            | 跨性别, 变性经历, 个人故事, 社会环境, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

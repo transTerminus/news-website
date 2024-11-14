@@ -33,18 +33,18 @@
 这篇文章讲述了75岁的英国男子罗伊・科尔顿的变性经历和生活故事。文章开头描述了罗伊自小就感到自己是一个"活在男人躯壳中的女人"，并常常在家中偷偷穿着女性衣物。罗伊结过三次婚，但婚姻都因其"异装癖"而告终。五年前，罗伊在70岁生日后正式决定变性，宣告自己成为女性，并改名为雷切尔。文章中提到雷切尔成为英国最年长的变性人，令他的家人与朋友都感到震惊。文中还附有相关图片，展示了雷切尔的生活状态。此文不仅记录了个体的生命故事，同时也反映了变性人在社会中面临的挑战与困境。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_75岁男子成英最老变性人异装癖致多次离婚(图).md                             |
-> | Size            | 1721 bytes                           |
-> | Archived Date   | 2024-11-08 09:09:39                             |
-> | Original Link   | [http://www.chinanews.com.cn/life/news/2009/09-16/1868283.shtml](http://www.chinanews.com.cn/life/news/2009/09-16/1868283.shtml)                       |
-> | Author          | 朱恬                               |
-> | Region          | 英国                               |
-> | Date            | 2009-09-16                                 |
-> | Tags            | 跨性别, 变性人, 生命故事, 异装癖, 社会挑战, 个人经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_75岁男子成英最老变性人异装癖致多次离婚(图).md                             |
+| Size            | 1721 bytes                           |
+| Archived Date   | 2024-11-08 09:09:39                             |
+| Original Link   | [http://www.chinanews.com.cn/life/news/2009/09-16/1868283.shtml](http://www.chinanews.com.cn/life/news/2009/09-16/1868283.shtml)                       |
+| Author          | 朱恬                               |
+| Region          | 英国                               |
+| Date            | 2009-09-16                                 |
+| Tags            | 跨性别, 变性人, 生命故事, 异装癖, 社会挑战, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

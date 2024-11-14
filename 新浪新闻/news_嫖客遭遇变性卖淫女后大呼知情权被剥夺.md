@@ -60,18 +60,18 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 本文报道了一起变性卖淫的案例，引发了关于知情权、性别身份和社会歧视的讨论。文章讲述了一名嫖客王锐在与一名变性女性发生性关系后，感到自身的知情权被剥夺，并对这一事件感到震惊。他的性伙伴在两年前进行了变性手术，仍在进行激素治疗。南京医科大学的伦理学教授指出，变性手术是一种个人解脱，而不能因其性别身份而受到加倍的谴责。律师则表示，变性人的女性身份在法律上已得到认可，因此嫖客的知情权主张无法成立。整形专家补充道，变性手术后，变性人可以过上正常性生活，但也需承担与其他人一样的健康风险。该案例不仅涉及法律与道德伦理的问题，也反映了社会对变性人群体的偏见与歧视。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_嫖客遭遇变性卖淫女后大呼知情权被剥夺.md                             |
-> | Size            | 3342 bytes                           |
-> | Archived Date   | 2024-11-02 05:38:09                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-09-27/detail-ikftssap2750059.d.html](https://news.sina.cn/sa/2006-09-27/detail-ikftssap2750059.d.html)                       |
-> | Author          | 金陵晚报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2006-09-27                                 |
-> | Tags            | 跨性别, 变性人, 知情权, 卖淫嫖娼, 社会歧视, 法律问题, 性别身份                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_嫖客遭遇变性卖淫女后大呼知情权被剥夺.md                             |
+| Size            | 3342 bytes                           |
+| Archived Date   | 2024-11-02 05:38:09                             |
+| Original Link   | [https://news.sina.cn/sa/2006-09-27/detail-ikftssap2750059.d.html](https://news.sina.cn/sa/2006-09-27/detail-ikftssap2750059.d.html)                       |
+| Author          | 金陵晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-09-27                                 |
+| Tags            | 跨性别, 变性人, 知情权, 卖淫嫖娼, 社会歧视, 法律问题, 性别身份                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

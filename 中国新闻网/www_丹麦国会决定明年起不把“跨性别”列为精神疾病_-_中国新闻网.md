@@ -22,18 +22,18 @@
 本文报道了丹麦国会在2016年6月1日做出的重要决定：将“跨性别”从精神疾病名单中删除，此项措施将于2017年1月1日生效。卫生委员会副主席摩坦森指出，将跨性别视作疾病的不当性，并强调丹麦跨性别团体的期望已久。此变化不仅标志着丹麦在跨性别人权方面的进步，也将向世界卫生组织施加压力，促使其重新审视相关政策，尤其是在“变性欲”是否应列为精神失调的问题上。国际特赦组织和丹麦LGBT团体对此项决定表示欢迎，称其为促进跨性别人权的重要一步。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_丹麦国会决定明年起不把“跨性别”列为精神疾病_-_中国新闻网.md                             |
-> | Size            | 1085 bytes                           |
-> | Archived Date   | 2024-11-08 10:18:23                             |
-> | Original Link   | [https://www.chinanews.com.cn/m/gj/2016/06-01/7890443.shtml](https://www.chinanews.com.cn/m/gj/2016/06-01/7890443.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 丹麦                               |
-> | Date            | 2016-06-01                                 |
-> | Tags            | 跨性别, 精神疾病, 人权, 丹麦国会, LGBT, 国际特赦组织                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_丹麦国会决定明年起不把“跨性别”列为精神疾病_-_中国新闻网.md                             |
+| Size            | 1085 bytes                           |
+| Archived Date   | 2024-11-08 10:18:23                             |
+| Original Link   | [https://www.chinanews.com.cn/m/gj/2016/06-01/7890443.shtml](https://www.chinanews.com.cn/m/gj/2016/06-01/7890443.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 丹麦                               |
+| Date            | 2016-06-01                                 |
+| Tags            | 跨性别, 精神疾病, 人权, 丹麦国会, LGBT, 国际特赦组织                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

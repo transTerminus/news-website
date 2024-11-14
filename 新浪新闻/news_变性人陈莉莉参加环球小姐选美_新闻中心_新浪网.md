@@ -52,18 +52,18 @@
 这篇文章报道了变性人陈莉莉参加环球小姐选美的经历和反响。文章开头介绍了她在环球小姐四川赛区初赛中的亮相，在众多佳丽中脱颖而出，成为最受欢迎的"女主角"。文中引用了多个相关报道，涉及陈莉莉在选美比赛中的表现及其经历，包括她对获得参赛机会的感恩，以及在比赛中所受到的关注与支持。此外，文章还提及了中华文化背景下对变性人群体的接受度及社会舆论，展现了选美活动中对于多样性与包容性的探讨。整体上，这篇文章不仅详细描述了陈莉莉的参与情况，还反映了社会对跨性别群体的看法与期待。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人陈莉莉参加环球小姐选美_新闻中心_新浪网.md                             |
-> | Size            | 2973 bytes                           |
-> | Archived Date   | 2024-11-09 05:48:19                             |
-> | Original Link   | [http://news.sina.com.cn/z/schelilixuanmei/](http://news.sina.com.cn/z/schelilixuanmei/)                       |
-> | Author          | 新浪网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2004-03-08                                 |
-> | Tags            | 跨性别, 选美, 陈莉莉, 环球小姐, 社会现象, 医疗资源, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人陈莉莉参加环球小姐选美_新闻中心_新浪网.md                             |
+| Size            | 2973 bytes                           |
+| Archived Date   | 2024-11-09 05:48:19                             |
+| Original Link   | [http://news.sina.com.cn/z/schelilixuanmei/](http://news.sina.com.cn/z/schelilixuanmei/)                       |
+| Author          | 新浪网                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-03-08                                 |
+| Tags            | 跨性别, 选美, 陈莉莉, 环球小姐, 社会现象, 医疗资源, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

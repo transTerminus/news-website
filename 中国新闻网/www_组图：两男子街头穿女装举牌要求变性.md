@@ -32,18 +32,18 @@
 本文报道了2009年4月14日发生在长沙黄兴路步行街的一起街头事件。两个19岁的年轻男子化妆成女性，手持“我要变性”的标牌，吸引了大量围观者，激起了公众的关注与讨论。其中一位年轻男子是已经多次被报道的“准”变性人申清清，而另一位自称为“美代子”。他们的举动显示了对变性的渴望与追求，此次事件引来路人驻足观看，现场显示出不同年龄段的观众对这一现象的好奇与困惑，比如67岁的吴奶奶对此表示难以理解。记者也对此进行了现场采访和报道，揭示了当下社会对跨性别者的认知和反应。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_组图：两男子街头穿女装举牌要求变性.md                             |
-> | Size            | 1953 bytes                           |
-> | Archived Date   | 2024-11-08 09:18:51                             |
-> | Original Link   | [http://www.chinanews.com.cn/tp/news/2009/04-14/1644504.shtml](http://www.chinanews.com.cn/tp/news/2009/04-14/1644504.shtml)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2009-04-14                                 |
-> | Tags            | 跨性别, 变性, 社会运动, 青春故事, 长沙, 色彩表达                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_组图：两男子街头穿女装举牌要求变性.md                             |
+| Size            | 1953 bytes                           |
+| Archived Date   | 2024-11-08 09:18:51                             |
+| Original Link   | [http://www.chinanews.com.cn/tp/news/2009/04-14/1644504.shtml](http://www.chinanews.com.cn/tp/news/2009/04-14/1644504.shtml)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-04-14                                 |
+| Tags            | 跨性别, 变性, 社会运动, 青春故事, 长沙, 色彩表达                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

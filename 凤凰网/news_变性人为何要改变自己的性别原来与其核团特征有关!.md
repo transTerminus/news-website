@@ -63,18 +63,18 @@
 这篇文章探讨了变性人改变性别的原因，特别是与其核团特征的关系。文中提到变性人的内心感受与社会对他们身份的认同之间的冲突，指出生理和心理上的双重认知对其过渡过程的影响。文章还引用了相关的科学研究，揭示了生物学因素如何在变性人决策中起作用。整体上，文章不仅是对变性人需求的科学分析，也是对社会偏见和理解缺失的深刻反思，旨在引起公众的关注与理解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人为何要改变自己的性别原来与其核团特征有关!.md                             |
-> | Size            | 2766 bytes                           |
-> | Archived Date   | 2024-11-02 08:06:25                             |
-> | Original Link   | [https://news.ifeng.com/c/7vHu1no1Gpk](https://news.ifeng.com/c/7vHu1no1Gpk)                       |
-> | Author          | 凤凰网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2020-03-31                                 |
-> | Tags            | 变性人, 性别认同, 核团特征, 心理健康, 社会理解                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人为何要改变自己的性别原来与其核团特征有关!.md                             |
+| Size            | 2766 bytes                           |
+| Archived Date   | 2024-11-02 08:06:25                             |
+| Original Link   | [https://news.ifeng.com/c/7vHu1no1Gpk](https://news.ifeng.com/c/7vHu1no1Gpk)                       |
+| Author          | 凤凰网                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-03-31                                 |
+| Tags            | 变性人, 性别认同, 核团特征, 心理健康, 社会理解                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

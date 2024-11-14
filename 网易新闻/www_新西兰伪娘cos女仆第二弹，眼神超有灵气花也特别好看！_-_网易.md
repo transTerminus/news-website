@@ -41,18 +41,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 这篇文章来自网易新闻，介绍了一位来自新西兰的伪娘coser——結佳梨Yukari，他以出色的女仆cosplay而受到关注。文中提到女仆这一角色在动漫和cosplay文化中的重要性，以及cosplay作为一种艺术形式的独特魅力。結佳梨的眼神被描述为“超有灵气”的，同时 costume 设计和摄影均由专业团队负责。此外，文章还呼吁大家尊重coser的劳动成果并文明观看和评论他们的作品。文末提到该内容为网易自媒体平台用户上传，相关图片也随文附上。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_新西兰伪娘cos女仆第二弹，眼神超有灵气花也特别好看！_-_网易.md                             |
-> | Size            | 1806 bytes                           |
-> | Archived Date   | 2024-11-08 06:02:01                             |
-> | Original Link   | [https://www.163.com/dy/article/ENISV7670515DVD7.html](https://www.163.com/dy/article/ENISV7670515DVD7.html)                       |
-> | Author          | 未知                               |
-> | Region          | 新西兰                               |
-> | Date            | 2019-08-27                                 |
-> | Tags            | 跨性别, cosplay, 伪娘, 女仆文化, 二次元, 文化艺术                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_新西兰伪娘cos女仆第二弹，眼神超有灵气花也特别好看！_-_网易.md                             |
+| Size            | 1806 bytes                           |
+| Archived Date   | 2024-11-08 06:02:01                             |
+| Original Link   | [https://www.163.com/dy/article/ENISV7670515DVD7.html](https://www.163.com/dy/article/ENISV7670515DVD7.html)                       |
+| Author          | 未知                               |
+| Region          | 新西兰                               |
+| Date            | 2019-08-27                                 |
+| Tags            | 跨性别, cosplay, 伪娘, 女仆文化, 二次元, 文化艺术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

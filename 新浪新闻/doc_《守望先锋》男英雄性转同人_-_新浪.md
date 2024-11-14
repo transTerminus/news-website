@@ -40,18 +40,18 @@ Copyright © 1996-2016 SINA Corporation, All Rights Reserved
 本文讨论了《守望先锋》中的男英雄角色进行性转的现象，尤其是同人创作中对这些角色进行娘化（即将男性角色转化为女性形象）的表现。文章中提到，玩家们对性转的创作十分热衷，产生了大量的同人图。在这些作品中，男英雄们被赋予了女性的特征，例如更大的胸围和美丽的外貌，作品的质量和美感并不亚于游戏中的女性角色。文章配有多幅同人图，展示了这一创作趋势的具体例子，揭示了性别表现和角色再创造在游戏文化中的影响。此外，文章结尾指出，新浪网发布此文旨在传递信息，不一定代表编辑团队的观点。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | doc_《守望先锋》男英雄性转同人_-_新浪.md                             |
-> | Size            | 1532 bytes                           |
-> | Archived Date   | 2024-11-09 05:31:35                             |
-> | Original Link   | [http://doc.sina.cn/?id=comos:fyarmcu6039813](http://doc.sina.cn/?id=comos:fyarmcu6039813)                       |
-> | Author          | 新浪游戏                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2017-02-16                                 |
-> | Tags            | 跨性别, 性转, 同人创作, 游戏文化, 守望先锋, 女性化, 角色娘化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | doc_《守望先锋》男英雄性转同人_-_新浪.md                             |
+| Size            | 1532 bytes                           |
+| Archived Date   | 2024-11-09 05:31:35                             |
+| Original Link   | [http://doc.sina.cn/?id=comos:fyarmcu6039813](http://doc.sina.cn/?id=comos:fyarmcu6039813)                       |
+| Author          | 新浪游戏                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-02-16                                 |
+| Tags            | 跨性别, 性转, 同人创作, 游戏文化, 守望先锋, 女性化, 角色娘化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

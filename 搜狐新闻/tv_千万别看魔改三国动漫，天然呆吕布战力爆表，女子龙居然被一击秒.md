@@ -95,18 +95,18 @@ _视频状态查询 复制调试信息 查看log信息 意见反馈 H5player:10.
 该文件记录了一系列与性转三国演义动漫相关的视频内容，其中包括对不同角色进行性别转换的讨论。内容涉及多部热门动漫的更新和特点，例如《恋姬无双》123季，以及对于角色塑造的趣味分析，特别是将历史名将转变为女性角色的各种设定。这种改编不仅引发了观众的兴趣，也产生了关于如何以新颖的方式重塑经典文学人物的讨论。内容中包含了对魔改三国演义的批评和探讨，表现了大众对该类作品的期待及争议。视频中提到的一些具体视频片段包括：女子版赵子龙的登场、曹操与关二姐的互动等，展现了动漫作品中的幽默和创新元素。这种性别转换不仅是为了娱乐，也引发对性别问题和文化创作方式的深入思考。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | tv_千万别看魔改三国动漫，天然呆吕布战力爆表，女子龙居然被一击秒.md                             |
-> | Size            | 3831 bytes                           |
-> | Archived Date   | 2024-11-07 07:01:07                             |
-> | Original Link   | [https://tv.sohu.com/v/cGwvOTc3OTI3Mi8zNzYyOTA5ODAuc2h0bWw=.html](https://tv.sohu.com/v/cGwvOTc3OTI3Mi8zNzYyOTA5ODAuc2h0bWw=.html)                       |
-> | Author          | 未知                               |
-> | Region          | 广东                               |
-> | Date            | 2022-08-22                                 |
-> | Tags            | 性转动漫, 三国演义, 女权主义, 网络文化, 角色分析, 动漫评论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | tv_千万别看魔改三国动漫，天然呆吕布战力爆表，女子龙居然被一击秒.md                             |
+| Size            | 3831 bytes                           |
+| Archived Date   | 2024-11-07 07:01:07                             |
+| Original Link   | [https://tv.sohu.com/v/cGwvOTc3OTI3Mi8zNzYyOTA5ODAuc2h0bWw=.html](https://tv.sohu.com/v/cGwvOTc3OTI3Mi8zNzYyOTA5ODAuc2h0bWw=.html)                       |
+| Author          | 未知                               |
+| Region          | 广东                               |
+| Date            | 2022-08-22                                 |
+| Tags            | 性转动漫, 三国演义, 女权主义, 网络文化, 角色分析, 动漫评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -40,18 +40,18 @@
 本文件记录了一起变性人涉及骗婚的法律案件。主要讲述了一名出生于1973年的男性，在结婚生子10多年后接受变性手术，成为女性，并自此以不同的身份骗取多名男性的钱财。文件详细描述了被告人程某在完成转变性别后的多次婚姻尝试及其随后的诈骗行为，包括通过假借结婚、借款等手段，骗取了总额达到27780元人民币的款项。最终，法院基于其行为，认定为诈骗罪，判处有期徒刑一年六个月并需退赔受害者的损失。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性人骗婚成被告庭上辩称是为满足性欲.md                             |
-> | Size            | 4219 bytes                           |
-> | Archived Date   | 2024-11-08 09:35:12                             |
-> | Original Link   | [https://www.chinanews.com.cn/fz/2010/12-08/2708513.shtml](https://www.chinanews.com.cn/fz/2010/12-08/2708513.shtml)                       |
-> | Author          | 东南网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-12-06                                 |
-> | Tags            | 变性人, 骗婚, 法律案件, 女性, 诈骗                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人骗婚成被告庭上辩称是为满足性欲.md                             |
+| Size            | 4219 bytes                           |
+| Archived Date   | 2024-11-08 09:35:12                             |
+| Original Link   | [https://www.chinanews.com.cn/fz/2010/12-08/2708513.shtml](https://www.chinanews.com.cn/fz/2010/12-08/2708513.shtml)                       |
+| Author          | 东南网                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-12-06                                 |
+| Tags            | 变性人, 骗婚, 法律案件, 女性, 诈骗                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

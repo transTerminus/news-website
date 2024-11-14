@@ -19,18 +19,18 @@
 这篇文章详细讲述了1992年12月14日，中国首例女变男的变性手术成功的历程和影响。这项手术由著名的整形外科专家何清濂教授进行，手术的成功不仅改变了患者的生理性别，还在心理上给予了她极大的帮助，使她逐渐适应了男性的生活。文中提到，这位患者由于无法转换性别而长期感到郁闷、焦躁，若不及时进行手术，她可能会失去工作能力，甚至危及生命。文章还探讨了性别重置手术与性别平等的关系，并提到我国教育部门已开始在中小学阶段进行性别平等相关教育，以反对基于性别认同的歧视，推动社会对易性症群体的理解与尊重。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_29年前的今天，首例女变男变性手术成功_-_网易.md                             |
-> | Size            | 1302 bytes                           |
-> | Archived Date   | 2024-11-08 06:44:31                             |
-> | Original Link   | [https://www.163.com/dy/article/GR6VD2RN0534B9UK.html](https://www.163.com/dy/article/GR6VD2RN0534B9UK.html)                       |
-> | Author          | 阿基米德FM                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-12-14                                 |
-> | Tags            | 变性手术, 性别重置手术, 跨性别故事, 性别平等, 医疗资源, 心理健康                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_29年前的今天，首例女变男变性手术成功_-_网易.md                             |
+| Size            | 1302 bytes                           |
+| Archived Date   | 2024-11-08 06:44:31                             |
+| Original Link   | [https://www.163.com/dy/article/GR6VD2RN0534B9UK.html](https://www.163.com/dy/article/GR6VD2RN0534B9UK.html)                       |
+| Author          | 阿基米德FM                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-12-14                                 |
+| Tags            | 变性手术, 性别重置手术, 跨性别故事, 性别平等, 医疗资源, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

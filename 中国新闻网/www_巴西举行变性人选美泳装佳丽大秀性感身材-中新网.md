@@ -21,18 +21,18 @@
 本文报道了2013年10月21日在巴西里约举行的变性人选美比赛的彩排情况。此次比赛共有28位年轻的变性人佳丽参赛，争夺‘巴西国内最美变性人’的称号。参赛者的年龄必须在35岁以下，最终的冠军将有机会代表巴西参加于11月1日在泰国举行的国际变性人选美大赛。报道中附有多张佳丽们穿着泳装的彩排照片，展现了她们的自信与魅力。此类活动不仅是对变性人群体的认可与支持，也有助于提高社会对跨性别问题的关注与了解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_巴西举行变性人选美泳装佳丽大秀性感身材-中新网.md                             |
-> | Size            | 938 bytes                           |
-> | Archived Date   | 2024-11-08 10:41:49                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257172.shtml](https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257172.shtml)                       |
-> | Author          | 李美多                               |
-> | Region          | 巴西                               |
-> | Date            | 2013-10-22                                 |
-> | Tags            | 跨性别, 选美, 变性人, 巴西, 社会活动                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_巴西举行变性人选美泳装佳丽大秀性感身材-中新网.md                             |
+| Size            | 938 bytes                           |
+| Archived Date   | 2024-11-08 10:41:49                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257172.shtml](https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257172.shtml)                       |
+| Author          | 李美多                               |
+| Region          | 巴西                               |
+| Date            | 2013-10-22                                 |
+| Tags            | 跨性别, 选美, 变性人, 巴西, 社会活动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -278,18 +278,18 @@
 这篇文章讨论了在东京奥运会上跨性别女性运动员的参赛资格问题，尤其聚焦于国际奥委会使用睾酮水平作为参加女子组比赛的标准的合理性。文中提到新西兰运动员劳雷尔·哈伯德成为首位参与女子组比赛的跨性别女运动员，但围绕她的参赛产生了广泛的争论。文章指出，不同体育项目的竞争优势因运动性质差异而异，例如举重项目中跨性别女性可能存在较显著的体能优势。文章进一步分析了青春期前后激素水平变化对运动表现的影响，以及目前国际标准（比如“一年内睾酮低于10 nmol/L”）是否能够有效保证竞争的公平性。作者提出当前的标准对跨性别者的参赛资格划定存在争议，并探讨了不同分组标准对跨性别运动员参与竞技活动的影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | interface_奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？_-_新浪.md                             |
-> | Size            | 24897 bytes                           |
-> | Archived Date   | 2024-11-09 06:32:00                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-08-06%2Fdoc-ikqcfncc1273700.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-08-06%2Fdoc-ikqcfncc1273700.shtml)                       |
-> | Author          | 游识猷                               |
-> | Region          | 中国                               |
-> | Date            | 2021-08-06                                 |
-> | Tags            | 跨性别运动员, 公平竞争, 体育法规, 睾酮水平, 东京奥运会, 劳雷尔·哈伯德, 女性体育, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | interface_奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？_-_新浪.md                             |
+| Size            | 24897 bytes                           |
+| Archived Date   | 2024-11-09 06:32:00                             |
+| Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-08-06%2Fdoc-ikqcfncc1273700.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-08-06%2Fdoc-ikqcfncc1273700.shtml)                       |
+| Author          | 游识猷                               |
+| Region          | 中国                               |
+| Date            | 2021-08-06                                 |
+| Tags            | 跨性别运动员, 公平竞争, 体育法规, 睾酮水平, 东京奥运会, 劳雷尔·哈伯德, 女性体育, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

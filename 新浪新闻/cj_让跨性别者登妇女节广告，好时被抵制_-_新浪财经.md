@@ -72,18 +72,18 @@
 本文记述了好时公司（Hershey's）在国际妇女节期间推出的广告活动的争议，该广告将跨性别者作为女性代表，受到部分网民的抵制。文中提到，广告中的跨性别者法埃·约翰斯通（Fae Johnstone）与其他四位女性一起在巧克力包装上亮相，旨在倡导性别平等。然而，这一举措引发了对“政治正确”的强烈反对，被指责为侵占女性空间，导致#BoycottHersheys#（抵制好时）活动在推特上引发广泛讨论。虽然该广告与巧克力产品的限量版包装只在加拿大发售，但却引发了跨国媒体的热议和关注。文章还介绍了不同声音的反应，既有支持者，也有反对者，进一步凸显跨性别权益与女性权益之间的复杂关系。文章指出，好时公司对此的态度为力挺其加拿大分公司的决定，并强调多样性的重要性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | cj_让跨性别者登妇女节广告，好时被抵制_-_新浪财经.md                             |
-> | Size            | 5438 bytes                           |
-> | Archived Date   | 2024-11-09 06:12:08                             |
-> | Original Link   | [https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2023-03-04%2Fdoc-imyisrka1340562.shtml&from=redirect](https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2023-03-04%2Fdoc-imyisrka1340562.shtml&from=redirect)                       |
-> | Author          | 观察者网严珊珊                               |
-> | Region          | 未知                               |
-> | Date            | 2023-03-04                                 |
-> | Tags            | 跨性别, 国际妇女节, 性别平等, 好时, 广告争议, 抵制活动, 政治正确                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | cj_让跨性别者登妇女节广告，好时被抵制_-_新浪财经.md                             |
+| Size            | 5438 bytes                           |
+| Archived Date   | 2024-11-09 06:12:08                             |
+| Original Link   | [https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2023-03-04%2Fdoc-imyisrka1340562.shtml&from=redirect](https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2023-03-04%2Fdoc-imyisrka1340562.shtml&from=redirect)                       |
+| Author          | 观察者网严珊珊                               |
+| Region          | 未知                               |
+| Date            | 2023-03-04                                 |
+| Tags            | 跨性别, 国际妇女节, 性别平等, 好时, 广告争议, 抵制活动, 政治正确                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

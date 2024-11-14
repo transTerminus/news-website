@@ -43,18 +43,18 @@
 这篇文章名为《盘点二次元中的那些女装大佬，你还认识他们不？》，由作者吐坝坝发布于2020年10月20日，主要介绍了几个著名的二次元角色，他们在动漫作品中以女装形象出现，展示了他们的特征和故事背景。文章的重点角色包括：飞鸟凑，他是日本游戏《少女领域》的男主角，以其出色的女装形象受到了广泛赞誉；小仓朝日，来自《近月少女的礼仪》，为了逃避家族的束缚而伪装成女孩；月丘彰，来自《花与少女的祝福》，为了承担妹妹的责任而成为女装大佬；日枝田史绪，来自《女装山脉》，在一个历史背景下出现的特殊角色。这篇文章不仅盘点了这些角色，还引发了对二次元文化中女装现象的讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_盘点二次元中的那些女装大佬，你还认识他们不？.md                             |
-> | Size            | 3297 bytes                           |
-> | Archived Date   | 2024-11-08 06:13:34                             |
-> | Original Link   | [https://www.163.com/dy/article/FPD1OL9L0525REIU.html](https://www.163.com/dy/article/FPD1OL9L0525REIU.html)                       |
-> | Author          | 吐坝坝                               |
-> | Region          | 未知                               |
-> | Date            | 2020-10-20                                 |
-> | Tags            | 二次元, 女装大佬, 动漫角色, 伪娘, 游戏, 文化现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_盘点二次元中的那些女装大佬，你还认识他们不？.md                             |
+| Size            | 3297 bytes                           |
+| Archived Date   | 2024-11-08 06:13:34                             |
+| Original Link   | [https://www.163.com/dy/article/FPD1OL9L0525REIU.html](https://www.163.com/dy/article/FPD1OL9L0525REIU.html)                       |
+| Author          | 吐坝坝                               |
+| Region          | 未知                               |
+| Date            | 2020-10-20                                 |
+| Tags            | 二次元, 女装大佬, 动漫角色, 伪娘, 游戏, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

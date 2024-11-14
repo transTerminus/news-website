@@ -74,18 +74,18 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. [搜狐公司](https://corp
 这篇文章记录了2012年在泰国芭堤雅举行的人妖皇后选美活动现场，现场气氛热烈，众多美丽的人妖参选。文章通过一组图片展示了各色华丽的传统服饰以及人妖佳丽的表现，展现了她们各具特色的魅惑与性感。这项选美活动吸引了大量观众，现场的每位参选者都散发出无与伦比的自信与魅力。文章强调，选美活动不仅是对美的展示，更是对跨性别群体的一种认可与尊重，反映了泰国社会对性别多样性的包容。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_实拍泰国人妖皇后选美现场(组图)_-_新闻-_搜狐.md                             |
-> | Size            | 2937 bytes                           |
-> | Archived Date   | 2024-11-07 04:23:10                             |
-> | Original Link   | [http://news.sohu.com/20120720/n348623623.shtml](http://news.sohu.com/20120720/n348623623.shtml)                       |
-> | Author          | 搜狐网                               |
-> | Region          | 泰国                               |
-> | Date            | 2012-07-20                                 |
-> | Tags            | 人妖, 泰国, 选美, 跨性别, 社会文化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_实拍泰国人妖皇后选美现场(组图)_-_新闻-_搜狐.md                             |
+| Size            | 2937 bytes                           |
+| Archived Date   | 2024-11-07 04:23:10                             |
+| Original Link   | [http://news.sohu.com/20120720/n348623623.shtml](http://news.sohu.com/20120720/n348623623.shtml)                       |
+| Author          | 搜狐网                               |
+| Region          | 泰国                               |
+| Date            | 2012-07-20                                 |
+| Tags            | 人妖, 泰国, 选美, 跨性别, 社会文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

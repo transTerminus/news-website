@@ -154,18 +154,18 @@ Copyright © 2017 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp
 这篇文章是一篇关于伪娘（即男性扮演女性角色的人）的自述，阐述了他们的生活、心理状态以及所面临的社会认知偏见。文中描述了伪娘们在动漫展等场合的表现、参与角色扮演的经历和他们的内心世界，强调他们对女性角色的热爱和自我认同。文章提到了一些伪娘的具体案例，如名为七伴和朱雀的人物，通过他们的故事揭示伪娘圈内的互动、看法以及对外界的误解。通过这些真实的经历，反映出了伪娘这一群体作为社会边缘群体所经历的挣扎与希望。文中还讨论了伪娘身份的形成过程、社交活动以及伪娘圈内的分歧，指出即便身为男性，他们在扮演女性角色时依然能展现出美的存在。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_伪娘自述：我们不是妖怪是你们不懂“娘”_-_新闻.md                             |
-> | Size            | 12056 bytes                           |
-> | Archived Date   | 2024-11-07 04:29:18                             |
-> | Original Link   | [http://news.sohu.com/s2012/newsmaker77/index.shtml](http://news.sohu.com/s2012/newsmaker77/index.shtml)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 伪娘, 跨性别, 动漫展, 角色扮演, 社会认知, 个人故事, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_伪娘自述：我们不是妖怪是你们不懂“娘”_-_新闻.md                             |
+| Size            | 12056 bytes                           |
+| Archived Date   | 2024-11-07 04:29:18                             |
+| Original Link   | [http://news.sohu.com/s2012/newsmaker77/index.shtml](http://news.sohu.com/s2012/newsmaker77/index.shtml)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 动漫展, 角色扮演, 社会认知, 个人故事, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

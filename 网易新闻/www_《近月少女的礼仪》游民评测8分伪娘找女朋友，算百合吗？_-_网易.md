@@ -76,18 +76,18 @@ Galgame最特殊的一点，在于只要它本身的故事足够好，就可以�
 本文为对Galgame《近月少女的礼仪》的评测，主要围绕游戏中伪娘角色以及其故事情节展开。游戏的男主角因幼年时受到家族歧视而选择女装进入女校学习服装设计，展现了他在女校生活中可能面临的风险，以及他与女主角之间的感情线的发展。评测分析了游戏的可攻略角色及其人设，尤其对主角露娜的刻画给予肯定，认为其人物塑造立体且动人。同时，文章指出了游戏在剧情和人物塑造上的优缺点，尤其批评了除了露娜线外其他线路的平淡与缺乏深度。文中还提到了本作的Steam版本因和谐处理而失去的一些趣味内容，整体对游戏虽持肯定态度但也指出了一些可改进之处。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_《近月少女的礼仪》游民评测8分伪娘找女朋友，算百合吗？_-_网易.md                             |
-> | Size            | 9431 bytes                           |
-> | Archived Date   | 2024-11-08 06:52:21                             |
-> | Original Link   | [https://www.163.com/dy/article/HA2QV2F40526K1KN.html](https://www.163.com/dy/article/HA2QV2F40526K1KN.html)                       |
-> | Author          | 露娜                               |
-> | Region          | 未知                               |
-> | Date            | 2022-06-17                                 |
-> | Tags            | 跨性别, Galgame, 伪娘, 游戏评测, 恋爱游戏, 女性角色, 服装设计, 青春校园                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《近月少女的礼仪》游民评测8分伪娘找女朋友，算百合吗？_-_网易.md                             |
+| Size            | 9431 bytes                           |
+| Archived Date   | 2024-11-08 06:52:21                             |
+| Original Link   | [https://www.163.com/dy/article/HA2QV2F40526K1KN.html](https://www.163.com/dy/article/HA2QV2F40526K1KN.html)                       |
+| Author          | 露娜                               |
+| Region          | 未知                               |
+| Date            | 2022-06-17                                 |
+| Tags            | 跨性别, Galgame, 伪娘, 游戏评测, 恋爱游戏, 女性角色, 服装设计, 青春校园                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

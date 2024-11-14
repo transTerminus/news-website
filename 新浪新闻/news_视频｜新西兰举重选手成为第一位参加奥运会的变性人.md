@@ -53,18 +53,18 @@
 这篇文章报道了新西兰举重选手劳蕾尔·哈伯德成为第一位参加奥运会的变性人，她将代表新西兰参加东京奥运会的女子举重87公斤以上级别比赛。哈伯德在2013年完成了变性手术，自2015年以来，根据国际奥委会的指导方针，满足某些条件的变性运动员可以作为女性参加奥运会。文章还提到，哈伯德曾在2017年世锦赛上获得亚军，并在2019年萨摩亚太平洋运动会上取得了优异的表现，引起了民众的关注和讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_视频｜新西兰举重选手成为第一位参加奥运会的变性人.md                             |
-> | Size            | 2165 bytes                           |
-> | Archived Date   | 2024-11-02 03:43:05                             |
-> | Original Link   | [https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032](https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032)                       |
-> | Author          | 未知                               |
-> | Region          | 新西兰                               |
-> | Date            | 2021-06-21                                 |
-> | Tags            | 变性人, 东京奥运会, 举重, 劳蕾尔·哈伯德, 体育, 性别认同, 女性运动员                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_视频｜新西兰举重选手成为第一位参加奥运会的变性人.md                             |
+| Size            | 2165 bytes                           |
+| Archived Date   | 2024-11-02 03:43:05                             |
+| Original Link   | [https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032](https://news.sina.cn/2021-06-21/detail-ikqcfnca2322990.d.html?wm=3049_0032)                       |
+| Author          | 未知                               |
+| Region          | 新西兰                               |
+| Date            | 2021-06-21                                 |
+| Tags            | 变性人, 东京奥运会, 举重, 劳蕾尔·哈伯德, 体育, 性别认同, 女性运动员                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

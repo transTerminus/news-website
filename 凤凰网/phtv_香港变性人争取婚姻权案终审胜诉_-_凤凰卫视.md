@@ -37,18 +37,18 @@ W小姐：我非常高兴，我终于可以在香港和心爱的男朋友结婚�
 该文件是关于香港变性人W小姐争取婚姻权的法律案件的报道，标志着香港跨性别权益的一次重要胜利。案件在香港最高法院经过审理后，法院以4比1的裁定支持W小姐的上诉，认为现行婚姻条例中对变性人的排斥是违宪的。这是香港首宗变性人争取婚姻权的案件，W小姐在完成变性手术后，因法律不承认其合法婚姻而向法院提出上诉。裁决明确指出，虽然法律目前的条款需要修订，但法院将暂缓执行判决，以便相关当局有时间考虑立法修订问题。W小姐对此判决表示高兴，认为这为变性人群体的权益提供了法律保障。通过这一案件，香港的多元文化和人权得到更加广泛的认可，而法律的修改也势在必行。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | phtv_香港变性人争取婚姻权案终审胜诉_-_凤凰卫视.md                             |
-> | Size            | 3107 bytes                           |
-> | Archived Date   | 2024-11-09 10:07:44                             |
-> | Original Link   | [http://phtv.ifeng.com/program/zbjsj/detail_2013_05/14/25278443_0.shtml](http://phtv.ifeng.com/program/zbjsj/detail_2013_05/14/25278443_0.shtml)                       |
-> | Author          | 凤凰卫视                               |
-> | Region          | 香港                               |
-> | Date            | 2013-05-14                                 |
-> | Tags            | 变性人, 婚姻权, 法律, 人权, 社会环境, 香港                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | phtv_香港变性人争取婚姻权案终审胜诉_-_凤凰卫视.md                             |
+| Size            | 3107 bytes                           |
+| Archived Date   | 2024-11-09 10:07:44                             |
+| Original Link   | [http://phtv.ifeng.com/program/zbjsj/detail_2013_05/14/25278443_0.shtml](http://phtv.ifeng.com/program/zbjsj/detail_2013_05/14/25278443_0.shtml)                       |
+| Author          | 凤凰卫视                               |
+| Region          | 香港                               |
+| Date            | 2013-05-14                                 |
+| Tags            | 变性人, 婚姻权, 法律, 人权, 社会环境, 香港                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

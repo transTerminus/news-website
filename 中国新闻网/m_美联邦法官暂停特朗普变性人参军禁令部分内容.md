@@ -55,18 +55,18 @@ _资料图：美国总统特朗普。 中新社记者 廖攀 摄_
 该文件报道了2017年10月30日美国华盛顿地区的一名联邦法官暂停了美国总统特朗普于8月所发布的针对变性人参军的禁令部分内容。这项禁令的实施引发了在现役及未来想要参军的变性人员的法律挑战，法官克塔莉认为特朗普政府在制定该政策时并没有事实支持，同时指出该政策不会节约军费开支。这一裁决虽然暂停了禁令的部分内容，但仍允许特朗普政府在明年3月起暂停变性人军人进行变性手术的命令。文件还提及了禁令引发的广泛争议，并列出了与此相关的多篇报道，展示了这一话题在公共领域的影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_美联邦法官暂停特朗普变性人参军禁令部分内容.md                             |
-> | Size            | 2541 bytes                           |
-> | Archived Date   | 2024-11-08 09:26:20                             |
-> | Original Link   | [https://m.chinanews.com.cn/wap/detail/chs/zw/8364383.shtml](https://m.chinanews.com.cn/wap/detail/chs/zw/8364383.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 美国                               |
-> | Date            | 2017-10-31                                 |
-> | Tags            | 变性人, 特朗普, 军队政策, 法律挑战, 医疗资源, 社会环境记录                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_美联邦法官暂停特朗普变性人参军禁令部分内容.md                             |
+| Size            | 2541 bytes                           |
+| Archived Date   | 2024-11-08 09:26:20                             |
+| Original Link   | [https://m.chinanews.com.cn/wap/detail/chs/zw/8364383.shtml](https://m.chinanews.com.cn/wap/detail/chs/zw/8364383.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 美国                               |
+| Date            | 2017-10-31                                 |
+| Tags            | 变性人, 特朗普, 军队政策, 法律挑战, 医疗资源, 社会环境记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

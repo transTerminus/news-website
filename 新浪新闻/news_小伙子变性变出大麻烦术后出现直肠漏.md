@@ -34,18 +34,18 @@
 本文报道了一位名为红林的年轻男子因变性手术而导致手术后出现并发症的情况。他在20多天前进行了变性手术的第一步，切除了男性生殖器并再造了阴道，但是手术后开始出现直肠阴道漏的问题，导致他在排便时粪便从手术部位漏出。红林提到在手术前，主刀医生邹景贵教授已向他说明了手术的风险，然而他的运气却不佳。邹教授承认红林出现的小问题，并且表示已经采取治疗措施。此外，报道指出少城医院并未经过审批，实际上没有进行变性手术的资格，从而引发了对医院的进一步调查。这一事件反映出变性手术在医疗资格和手术后护理方面的问题，也揭示了相关医疗资源和法律政策的不足。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_小伙子变性变出大麻烦术后出现直肠漏.md                             |
-> | Size            | 1938 bytes                           |
-> | Archived Date   | 2024-11-02 04:44:39                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-07-15/detail-ikknscsi3631114.d.html](https://news.sina.cn/sa/2004-07-15/detail-ikknscsi3631114.d.html)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2004-07-15                                 |
-> | Tags            | 跨性别, 变性手术, 医疗并发症, 法律政策, 生存现状                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_小伙子变性变出大麻烦术后出现直肠漏.md                             |
+| Size            | 1938 bytes                           |
+| Archived Date   | 2024-11-02 04:44:39                             |
+| Original Link   | [https://news.sina.cn/sa/2004-07-15/detail-ikknscsi3631114.d.html](https://news.sina.cn/sa/2004-07-15/detail-ikknscsi3631114.d.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-07-15                                 |
+| Tags            | 跨性别, 变性手术, 医疗并发症, 法律政策, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

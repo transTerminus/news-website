@@ -167,18 +167,18 @@ John B Watson戴着圣诞老人面具来吓唬宝宝
 本文详细讲述了一对加拿大双胞胎布鲁斯和布莱恩在1965年因医疗事故而经历的非自愿变性实验的悲惨故事。原本只是一场包皮切除手术，却因意外导致布鲁斯的生殖器被烧毁，迫使父母选择接受性别重置手术。约翰·曼尼博士以“性别中立理论”为基础，将布鲁斯改造成女孩并灌输她是女孩的观念，然而这种人为的性别重塑最终导致了布兰达的内心痛苦和自杀。文章指出科学实验中的伦理问题以及对人性的缺失，反思科学与人性的关系，以及深入探讨了跨性别者在变性手术中的艰辛与困惑。这不仅是关于一个家庭的悲剧，更是对科学实验伦理底线的深刻警醒。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_美国史上最残忍人体改造实验：双胞胎婴儿被迫变性.md                             |
-> | Size            | 12017 bytes                           |
-> | Archived Date   | 2024-11-03 09:41:54                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7018686](https://m.thepaper.cn/newsDetail_forward_7018686)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 加拿大                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 医疗实验, 伦理问题, 心理创伤, 性别认知, 变性手术, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_美国史上最残忍人体改造实验：双胞胎婴儿被迫变性.md                             |
+| Size            | 12017 bytes                           |
+| Archived Date   | 2024-11-03 09:41:54                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_7018686](https://m.thepaper.cn/newsDetail_forward_7018686)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 加拿大                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 医疗实验, 伦理问题, 心理创伤, 性别认知, 变性手术, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

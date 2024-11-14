@@ -28,18 +28,18 @@
 本文件为一篇关于性别研究的新闻报道，探讨了科学家们在基因研究领域的最新发现，特别是针对性别发展的基因FOXL2。文章指出，这一发现挑战了传统观念，即性别是由X、Y染色体决定的，同时揭示了性别发展过程中的生物机制。通过实验发现，当雌性小鼠体内的FOXL2基因被关闭后，卵巢会开始转变为睾丸，并产生雄性激素——睾丸素。这一发现在理论上为未来的变性治疗带来了新的可能性，尤其是有望实现非手术的基因疗法，可能减少变性人群对终生药物的依赖。整体而言，该研究不仅对科学界有着重要的意义，也为社会对性别认知的转变提供了新的视角。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_科学家发现“变性基因”_可让美女变成猛男.md                             |
-> | Size            | 1609 bytes                           |
-> | Archived Date   | 2024-11-08 10:04:27                             |
-> | Original Link   | [https://www.chinanews.com.cn/jk/jk-xpxz/news/2009/12-17/2023775.shtml](https://www.chinanews.com.cn/jk/jk-xpxz/news/2009/12-17/2023775.shtml)                       |
-> | Author          | 科技日报                               |
-> | Region          | 中国                               |
-> | Date            | 2009-12-17                                 |
-> | Tags            | 性别研究, 基因FOXL2, 变性治疗, 生物医学, 科学发现                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_科学家发现“变性基因”_可让美女变成猛男.md                             |
+| Size            | 1609 bytes                           |
+| Archived Date   | 2024-11-08 10:04:27                             |
+| Original Link   | [https://www.chinanews.com.cn/jk/jk-xpxz/news/2009/12-17/2023775.shtml](https://www.chinanews.com.cn/jk/jk-xpxz/news/2009/12-17/2023775.shtml)                       |
+| Author          | 科技日报                               |
+| Region          | 中国                               |
+| Date            | 2009-12-17                                 |
+| Tags            | 性别研究, 基因FOXL2, 变性治疗, 生物医学, 科学发现                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

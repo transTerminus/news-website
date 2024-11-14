@@ -31,18 +31,18 @@
 本文主要介绍了与跨性别女星相关的内容，以盘点形式展示了韩国女子团体“Lady”的历史与成就。该团体成立于2005年，成员均为变性人，她们通过参加变性人选美大赛从众多佳丽中脱颖而出并在台湾发展。文章中提到，该团体当初的宣传噱头是要与台湾女团F4进行对比。虽然F4的经纪人对她们表示不屑，但“Lady”团体仍然凭借其优雅形象和出色的身材引起了媒体和网友的广泛关注和讨论。文中还展示了几张与团体及其活动相关的图片，并列出了网友的评论，反映社会对变性人的多元观念。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_盘点变性女星：河莉秀脸浮肿钟洁希激吻老公(图)(4).md                             |
-> | Size            | 1389 bytes                           |
-> | Archived Date   | 2024-11-08 10:55:48                             |
-> | Original Link   | [https://www.chinanews.com.cn/yl/2012/12-28/4445018_4.shtml](https://www.chinanews.com.cn/yl/2012/12-28/4445018_4.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 台湾                               |
-> | Date            | 2012-12-28                                 |
-> | Tags            | 娱乐, 跨性别, 变性人, 新闻                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_盘点变性女星：河莉秀脸浮肿钟洁希激吻老公(图)(4).md                             |
+| Size            | 1389 bytes                           |
+| Archived Date   | 2024-11-08 10:55:48                             |
+| Original Link   | [https://www.chinanews.com.cn/yl/2012/12-28/4445018_4.shtml](https://www.chinanews.com.cn/yl/2012/12-28/4445018_4.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 台湾                               |
+| Date            | 2012-12-28                                 |
+| Tags            | 娱乐, 跨性别, 变性人, 新闻                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

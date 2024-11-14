@@ -47,18 +47,18 @@
 本文探讨了“娘娘腔”一词的由来及其文化背景，主要分析了社会中对男性女性化特征的看法和偏见。文中明确指出，“娘娘腔”是用来描述那些表现出女性化特征的男性，通常带有贬义。作者提到，在传统观念中，男性应具有阳刚气质，而那些表现出柔弱特征的男性则常遭受歧视。文中探讨了“娘娘腔”的形成原因，包括家庭教育和社会环境的影响，强调其与遗传无关。此外，还引入心理学的观点，指出父母的言行对孩子的性别特征表现有重要影响。值得注意的是，作者认为“娘娘腔”男性并不一定是同性恋，他们可能仍然会与女性建立传统的家庭关系。最后，文章呼吁人们对“娘娘腔”男孩给予更多的理解与接纳，反对歧视现象的普遍存在。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_“娘娘腔”的由来兰花指同性恋_-_网易.md                             |
-> | Size            | 7234 bytes                           |
-> | Archived Date   | 2024-11-08 07:06:51                             |
-> | Original Link   | [https://www.163.com/dy/article/HLBCOOM405439PVE.html](https://www.163.com/dy/article/HLBCOOM405439PVE.html)                       |
-> | Author          | 铁剑帮帮主                               |
-> | Region          | 未知                               |
-> | Date            | 2022-11-04                                 |
-> | Tags            | 娘娘腔, 娘炮, 同性恋, 兰花指, 谈恋爱                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_“娘娘腔”的由来兰花指同性恋_-_网易.md                             |
+| Size            | 7234 bytes                           |
+| Archived Date   | 2024-11-08 07:06:51                             |
+| Original Link   | [https://www.163.com/dy/article/HLBCOOM405439PVE.html](https://www.163.com/dy/article/HLBCOOM405439PVE.html)                       |
+| Author          | 铁剑帮帮主                               |
+| Region          | 未知                               |
+| Date            | 2022-11-04                                 |
+| Tags            | 娘娘腔, 娘炮, 同性恋, 兰花指, 谈恋爱                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

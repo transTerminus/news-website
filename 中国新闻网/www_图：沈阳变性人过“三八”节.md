@@ -27,18 +27,18 @@
 本文记录了2007年3月8日，在沈阳一家整形美容医院中，50岁的变性人老陈作为模特表演庆祝第三个国际妇女节（“三八”节）。这是老陈变性后首次体验这一节日，文中提到，在场的全体医护人员为老陈庆祝，展现出对变性人群体的支持与关怀。此外，文章还附有几张老陈与医护人员及模特表演的照片，展示了其在节日中的快乐时刻。文章通过这一事件反映出变性人在社会中的地位及其在特定场合下受到的关注和重视。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_图：沈阳变性人过“三八”节.md                             |
-> | Size            | 1543 bytes                           |
-> | Archived Date   | 2024-11-08 09:15:00                             |
-> | Original Link   | [http://www.chinanews.com.cn/other/news/2007/03-08/886999.shtml](http://www.chinanews.com.cn/other/news/2007/03-08/886999.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2007-03-08                                 |
-> | Tags            | 变性人, 国际妇女节, 沈阳, 医疗支持, 社会融入, 模特表演, 女性节日庆祝                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_图：沈阳变性人过“三八”节.md                             |
+| Size            | 1543 bytes                           |
+| Archived Date   | 2024-11-08 09:15:00                             |
+| Original Link   | [http://www.chinanews.com.cn/other/news/2007/03-08/886999.shtml](http://www.chinanews.com.cn/other/news/2007/03-08/886999.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-03-08                                 |
+| Tags            | 变性人, 国际妇女节, 沈阳, 医疗支持, 社会融入, 模特表演, 女性节日庆祝                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -38,18 +38,18 @@
 本文讨论了近年来男明星造型中“娘炮”现象的盛行，指出这与娱乐产业的审美变化及文化背景密切相关。文章回顾了男性形象的演变，强调曾经胡须与雄性特征是男性吸引力的重要标志，而现在的男明星却普遍缺乏这些特征。官媒对此现象进行了批评，认为其对少年儿童的审美观产生了负面影响。通过分析选秀节目对青少年文化审美的影响，文章批评了这些流量明星缺乏内涵和教养，并指出这种现象的广泛流行是娱乐产业过度发展的结果。最后，文章表达了对未来审美回归的期待。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_“娘炮”化的男明星们，请让你们的胡子出来呼吸新鲜空气。_-_网易.md                             |
-> | Size            | 2865 bytes                           |
-> | Archived Date   | 2024-11-08 05:29:56                             |
-> | Original Link   | [https://m.163.com/dy/article_cambrian/GISVN0PD0552IH1D.html?Ly6&referFrom=](https://m.163.com/dy/article_cambrian/GISVN0PD0552IH1D.html?Ly6&referFrom=)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-09-02                                 |
-> | Tags            | 跨性别, 男明星, 审美, 娘炮现象, 文化批评, 娱乐产业                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_“娘炮”化的男明星们，请让你们的胡子出来呼吸新鲜空气。_-_网易.md                             |
+| Size            | 2865 bytes                           |
+| Archived Date   | 2024-11-08 05:29:56                             |
+| Original Link   | [https://m.163.com/dy/article_cambrian/GISVN0PD0552IH1D.html?Ly6&referFrom=](https://m.163.com/dy/article_cambrian/GISVN0PD0552IH1D.html?Ly6&referFrom=)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-09-02                                 |
+| Tags            | 跨性别, 男明星, 审美, 娘炮现象, 文化批评, 娱乐产业                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

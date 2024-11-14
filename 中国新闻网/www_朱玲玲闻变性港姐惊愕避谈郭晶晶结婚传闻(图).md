@@ -28,18 +28,18 @@
 本文报道了港姐朱玲玲在2010年05月24日参加慈善晚会时的发言。朱玲玲对于网上传言的‘变性港姐’感到惊愕，并表示对此感到难以置信。她提到，媒体在过去12届港姐中提到的可能有一位变性人，但认为这种消息不公平。此外，朱玲玲在被问到关于其儿子霍启刚和郭晶晶的婚讯时，表现得相对谨慎，建议媒体向自己的儿子询问详细情况。整篇文章不仅反映了娱乐圈的动态，同时也隐隐探讨了社会对跨性别话题的认知和接受度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_朱玲玲闻变性港姐惊愕避谈郭晶晶结婚传闻(图).md                             |
-> | Size            | 2054 bytes                           |
-> | Archived Date   | 2024-11-08 11:03:56                             |
-> | Original Link   | [https://www.chinanews.com.cn/yl/yl-mxzz/news/2010/05-24/2300052.shtml](https://www.chinanews.com.cn/yl/yl-mxzz/news/2010/05-24/2300052.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 香港                               |
-> | Date            | 2010-05-24                                 |
-> | Tags            | 跨性别, 娱乐新闻, 朱玲玲, 霍启刚, 郭晶晶, 变性人, 社会评论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_朱玲玲闻变性港姐惊愕避谈郭晶晶结婚传闻(图).md                             |
+| Size            | 2054 bytes                           |
+| Archived Date   | 2024-11-08 11:03:56                             |
+| Original Link   | [https://www.chinanews.com.cn/yl/yl-mxzz/news/2010/05-24/2300052.shtml](https://www.chinanews.com.cn/yl/yl-mxzz/news/2010/05-24/2300052.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 香港                               |
+| Date            | 2010-05-24                                 |
+| Tags            | 跨性别, 娱乐新闻, 朱玲玲, 霍启刚, 郭晶晶, 变性人, 社会评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

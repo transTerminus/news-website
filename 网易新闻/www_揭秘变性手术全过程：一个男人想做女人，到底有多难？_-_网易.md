@@ -60,18 +60,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文详细揭秘了变性手术的全过程，重点讨论了男变女和女变男的手术步骤，分析了变性人与人妖之间的区别。文章首先介绍了变性手术的必要心理评估与激素治疗，接着逐步讲解了男变女的手术四个阶段：包括生殖器改造、隆胸、面部调整及喉结切除，最终实现外表对女性的全面重塑。同时，文章也探讨了女变男的手术过程，并指出其与男变女手术的相反特性。文章指出，泰国的变性手术技术相对成熟，诱惑了许多外国人前往接受手术，且变性文化在泰国受到一定尊重。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_揭秘变性手术全过程：一个男人想做女人，到底有多难？_-_网易.md                             |
-> | Size            | 5720 bytes                           |
-> | Archived Date   | 2024-11-08 06:59:12                             |
-> | Original Link   | [https://www.163.com/dy/article/HHF58KQ30553THN1.html](https://www.163.com/dy/article/HHF58KQ30553THN1.html)                       |
-> | Author          | 科科小玩家                               |
-> | Region          | 广东                               |
-> | Date            | 2022-09-18                                 |
-> | Tags            | 变性手术, 跨性别, 生命故事, 医学经验, 社会文化, 人妖, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_揭秘变性手术全过程：一个男人想做女人，到底有多难？_-_网易.md                             |
+| Size            | 5720 bytes                           |
+| Archived Date   | 2024-11-08 06:59:12                             |
+| Original Link   | [https://www.163.com/dy/article/HHF58KQ30553THN1.html](https://www.163.com/dy/article/HHF58KQ30553THN1.html)                       |
+| Author          | 科科小玩家                               |
+| Region          | 广东                               |
+| Date            | 2022-09-18                                 |
+| Tags            | 变性手术, 跨性别, 生命故事, 医学经验, 社会文化, 人妖, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -182,18 +182,18 @@
 本文是关于华语LGBTQ题材电影《翠丝》的深入分析，重点探讨了电影如何有别于传统的同志题材，深入探讨了跨性别的复杂议题。文章通过电影中的角色大雄的故事，描绘了其在性别认同和家庭生活中的挣扎与变迁。《翠丝》被称为华语影坛第一部针对跨性别议题的电影，突出了性别认同与社会 expectations 的冲突，以及主角对自己性别身份的诚实审视。文章提及了几个重要角色及其对大雄生活和情感的影响，包括大雄的老友阿正、伴侣阿邦，以及其家人。通过细腻的叙事，影片展现了跨性别者在面对社会压迫和个人选择时的真实状态，并且借由电影中呈现的跨性别话题，推动了社会对这一议题的关注和讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | doc_从同志到跨性别《翠丝》让男人变成了女人_-_新浪.md                             |
-> | Size            | 10002 bytes                           |
-> | Archived Date   | 2024-11-09 05:33:26                             |
-> | Original Link   | [http://doc.sina.cn/?id=comos:hmutuec0791987](http://doc.sina.cn/?id=comos:hmutuec0791987)                       |
-> | Author          | 姜皓文                               |
-> | Region          | 香港                               |
-> | Date            | 2018-11-16                                 |
-> | Tags            | 跨性别, 华语电影, LGBTQ, 社会议题, 性别认同, 电影评论, 翠丝                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | doc_从同志到跨性别《翠丝》让男人变成了女人_-_新浪.md                             |
+| Size            | 10002 bytes                           |
+| Archived Date   | 2024-11-09 05:33:26                             |
+| Original Link   | [http://doc.sina.cn/?id=comos:hmutuec0791987](http://doc.sina.cn/?id=comos:hmutuec0791987)                       |
+| Author          | 姜皓文                               |
+| Region          | 香港                               |
+| Date            | 2018-11-16                                 |
+| Tags            | 跨性别, 华语电影, LGBTQ, 社会议题, 性别认同, 电影评论, 翠丝                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

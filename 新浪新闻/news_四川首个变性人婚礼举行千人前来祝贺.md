@@ -38,18 +38,18 @@
 本文报道了2004年5月1日四川省崇州市举行的首个变性人婚礼，令人瞩目的事件吸引了大量村民前来祝贺。婚礼上，新娘章琳身披白色婚纱，经过长期的奋斗与自我认同，终于实现了自己成为女性的梦想。章琳在接受变性手术后，通过法律程序更改了身份证性别，并与自己的爱人杨启成共结连理。尽管婚礼在大雨中进行，但村民们的热情和包容令人感动，许多人都愿意接受章琳的新身份。章琳在婚礼上表示：“今天是她一生中最幸福的日子”，这个事件不仅见证了个人勇敢追求自我认同的故事，也反映了社会对跨性别者逐渐增多的理解与支持。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_四川首个变性人婚礼举行千人前来祝贺.md                             |
-> | Size            | 3249 bytes                           |
-> | Archived Date   | 2024-11-02 04:37:05                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html](https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html)                       |
-> | Author          | 刘大江                               |
-> | Region          | 四川, 中国                               |
-> | Date            | 2004-05-01                                 |
-> | Tags            | 变性人, 婚礼, 性别认同, 社会支持, 包容, 跨性别故事, 生命故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_四川首个变性人婚礼举行千人前来祝贺.md                             |
+| Size            | 3249 bytes                           |
+| Archived Date   | 2024-11-02 04:37:05                             |
+| Original Link   | [https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html](https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html)                       |
+| Author          | 刘大江                               |
+| Region          | 四川, 中国                               |
+| Date            | 2004-05-01                                 |
+| Tags            | 变性人, 婚礼, 性别认同, 社会支持, 包容, 跨性别故事, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

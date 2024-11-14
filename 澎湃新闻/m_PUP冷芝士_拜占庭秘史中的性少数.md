@@ -72,18 +72,18 @@ Roland Betancourt: 我希望能够尽可能直言不讳地去发表观点声援�
 本文探讨了拜占庭文化中的性少数群体，特别聚焦于跨性别和同性恋的表征。文章借助加州大学尔湾分校艺术史教授Roland Betancourt的新书《拜占庭交叉性：中世纪的性别、性取向和种族》为切入点，引入了关于性别和性少数群体的丰富讨论。通过分析东罗马帝国艺术作品，Betancourt试图揭示在历史上性少数群体所经历的复杂情况，并表达对其的声援。访谈部分中，Betancourt分享了自己的成长背景及其对拜占庭历史的热情，特别强调了一些艺术作品如何在历史背景中出去说明性别多样性。文章中提到的几个章节，尤其是关于变性人生活的部分，对了解这些历史背景至关重要。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_PUP冷芝士_拜占庭秘史中的性少数.md                             |
-> | Size            | 3990 bytes                           |
-> | Archived Date   | 2024-11-03 08:45:02                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_12025720](https://m.thepaper.cn/newsDetail_forward_12025720)                       |
-> | Author          | Roland Betancourt，编辑 Alison Lee                               |
-> | Region          | 美国                               |
-> | Date            | 2020-12-01                                 |
-> | Tags            | 拜占庭, 性别, 性少数群体, 艺术史, 文化研究                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_PUP冷芝士_拜占庭秘史中的性少数.md                             |
+| Size            | 3990 bytes                           |
+| Archived Date   | 2024-11-03 08:45:02                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_12025720](https://m.thepaper.cn/newsDetail_forward_12025720)                       |
+| Author          | Roland Betancourt，编辑 Alison Lee                               |
+| Region          | 美国                               |
+| Date            | 2020-12-01                                 |
+| Tags            | 拜占庭, 性别, 性少数群体, 艺术史, 文化研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -118,18 +118,18 @@
 这篇文章讲述了中国首例变性人张克莎的感人情感历程和生命故事。张克莎1962年出生于湖南长沙，经历了复杂的性别认同和社会探索过程。在接受变性手术后，她成为了一名真正的女性。文章详细地记录了她的成长经历、婚姻与感情波折，以及在面对社会偏见与挑战时的心理斗争。通过她的故事，读者得以窥见变性人在追求自我认同过程中所经历的辛酸与喜悦，并对变性人群体的生存状况有了更深的理解。文章不仅体现了张克莎的个人经历，也激发了针对法律、社会接受度及恋爱关系等更广泛问题的思考。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_中国首例变性人的情感历程：20年女人梦(组图).md                             |
-> | Size            | 17103 bytes                           |
-> | Archived Date   | 2024-11-02 04:12:26                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html](https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html)                       |
-> | Author          | 史玉根                               |
-> | Region          | 中国                               |
-> | Date            | 2003-04-22                                 |
-> | Tags            | 跨性别, 变性人, 生命故事, 情感经历, 社会接受度, 法律政策, 医疗资源, 女性认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_中国首例变性人的情感历程：20年女人梦(组图).md                             |
+| Size            | 17103 bytes                           |
+| Archived Date   | 2024-11-02 04:12:26                             |
+| Original Link   | [https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html](https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html)                       |
+| Author          | 史玉根                               |
+| Region          | 中国                               |
+| Date            | 2003-04-22                                 |
+| Tags            | 跨性别, 变性人, 生命故事, 情感经历, 社会接受度, 法律政策, 医疗资源, 女性认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

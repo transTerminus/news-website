@@ -48,18 +48,18 @@
 本文件记录了山东潍坊一名34岁变性人高婷婷的真实故事，她在经历七年的变性过程后，于2008年3月2日正式宣布停止变性，决定寻找一名理解她的女子共度余生。文件详细描述了她的内心挣扎与外部社会的压力，反映了跨性别者在中国社会中面临的复杂现状。高婷婷的故事引起了诸多媒体的关注，展现了跨性别者在寻找自我认同与社会接受之间的艰难旅程。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_图：山东潍坊变性人七载艰辛“变性”路.md                             |
-> | Size            | 1532 bytes                           |
-> | Archived Date   | 2024-11-08 09:20:21                             |
-> | Original Link   | [http://www.chinanews.com.cn/tp/shfq/news/2008/03-02/1179241.shtml](http://www.chinanews.com.cn/tp/shfq/news/2008/03-02/1179241.shtml)                       |
-> | Author          | 王忠海                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2008-03-02                                 |
-> | Tags            | 变性人, 跨性别故事, 社会接受, 心理健康, 人权, 变性经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_图：山东潍坊变性人七载艰辛“变性”路.md                             |
+| Size            | 1532 bytes                           |
+| Archived Date   | 2024-11-08 09:20:21                             |
+| Original Link   | [http://www.chinanews.com.cn/tp/shfq/news/2008/03-02/1179241.shtml](http://www.chinanews.com.cn/tp/shfq/news/2008/03-02/1179241.shtml)                       |
+| Author          | 王忠海                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-03-02                                 |
+| Tags            | 变性人, 跨性别故事, 社会接受, 心理健康, 人权, 变性经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

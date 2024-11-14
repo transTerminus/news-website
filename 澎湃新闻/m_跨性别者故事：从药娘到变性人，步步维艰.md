@@ -110,18 +110,18 @@
 本文讲述了跨性别者薇薇安的真实故事，她经历了从出柜到家庭暴力，再到寻求变性的艰辛历程。薇薇安自12岁起就开始了解变性，并通过服用激素药物来进行性别过渡。在她18岁生日时，因家人对她身份的不接受而选择离家，在故事中描述了她遭受的家庭暴力、性别歧视以及社会的种种困难。随着时间的推移，她向外界求救并希望能寻找到帮助，最后更提及了跨性别者面临的心理和社会压力，以及救助机构的努力。文本通过描述具体事件，引发对家庭接纳、社会支持和跨性别者生存现实的深入思考。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_跨性别者故事：从药娘到变性人，步步维艰.md                             |
-> | Size            | 8781 bytes                           |
-> | Archived Date   | 2024-11-03 09:30:40                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_3113918](https://m.thepaper.cn/newsDetail_forward_3113918)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-03-23                                 |
-> | Tags            | 跨性别者故事, 家庭暴力, 性别认同, 医疗资源, 法律政策, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别者故事：从药娘到变性人，步步维艰.md                             |
+| Size            | 8781 bytes                           |
+| Archived Date   | 2024-11-03 09:30:40                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_3113918](https://m.thepaper.cn/newsDetail_forward_3113918)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-03-23                                 |
+| Tags            | 跨性别者故事, 家庭暴力, 性别认同, 医疗资源, 法律政策, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

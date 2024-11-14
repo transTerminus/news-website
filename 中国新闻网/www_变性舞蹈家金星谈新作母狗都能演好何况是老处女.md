@@ -40,18 +40,18 @@
 该文件记录了著名变性舞蹈家金星在2009年接受采访时的内容，讨论了她的新作《阴差阳错》。金星在采访中分享了自己作为一名变性人的经历以及在男性世界中‘卧底’28年的独特视角。她用极具个人色彩的语言探讨了痛苦与美丽的关系，强调在阴阳之间的经验，并自信地表达了对自己演技的肯定，提出无论是挑战性的角色，甚至是‘老处女’，她都能胜任。金星还介绍了她对女性生活的见解，提到自己如何在生活中选择服装，强调女性的外在打扮与内在自信之间的关系。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性舞蹈家金星谈新作母狗都能演好何况是老处女.md                             |
-> | Size            | 3760 bytes                           |
-> | Archived Date   | 2024-11-08 09:24:10                             |
-> | Original Link   | [http://www.chinanews.com.cn/yl/zyxw/news/2009/04-08/1636216.shtml](http://www.chinanews.com.cn/yl/zyxw/news/2009/04-08/1636216.shtml)                       |
-> | Author          | 丹娜                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2009-04-08                                 |
-> | Tags            | 跨性别, 舞蹈, 金星, 演出, 媒体, 生活经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性舞蹈家金星谈新作母狗都能演好何况是老处女.md                             |
+| Size            | 3760 bytes                           |
+| Archived Date   | 2024-11-08 09:24:10                             |
+| Original Link   | [http://www.chinanews.com.cn/yl/zyxw/news/2009/04-08/1636216.shtml](http://www.chinanews.com.cn/yl/zyxw/news/2009/04-08/1636216.shtml)                       |
+| Author          | 丹娜                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-04-08                                 |
+| Tags            | 跨性别, 舞蹈, 金星, 演出, 媒体, 生活经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

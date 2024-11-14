@@ -100,18 +100,18 @@
 该文件记录了跨性别者李二毛的生命故事与个人经历，详细描述了他从男人变性为女人，再到后悔这一选择的曲折历程。李二毛出生于四川达州的一个农村家庭，经历了悲惨的童年，父亲的失踪以及母亲的抛弃，在艰难的环境中长大。15岁时，他为追寻更好的生活前往深圳，并逐渐接触到了变性文化，最终选择了变性手术。在此之后，他的生活经历了短暂的辉煌和随后的人生低谷，包括因艾滋病而无法再进行手术的绝望，最后回归原来的性别。李二毛的故事反映了个人选择与社会压力之间的复杂关系，以及跨性别者在生活中面临的困境与挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_回顾：四川变性人李二毛：不顾劝阻变成女人，34岁时直言后悔了.md                             |
-> | Size            | 9563 bytes                           |
-> | Archived Date   | 2024-11-08 07:52:09                             |
-> | Original Link   | [https://www.163.com/dy/article/J4D3ACKM0552INOC.html](https://www.163.com/dy/article/J4D3ACKM0552INOC.html)                       |
-> | Author          | 未知                               |
-> | Region          | 四川, 中国                               |
-> | Date            | 2024-06-11                                 |
-> | Tags            | 跨性别, 生命故事, 变性人, 个人经历, 社会压力, 艾滋病, 人生选择                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_回顾：四川变性人李二毛：不顾劝阻变成女人，34岁时直言后悔了.md                             |
+| Size            | 9563 bytes                           |
+| Archived Date   | 2024-11-08 07:52:09                             |
+| Original Link   | [https://www.163.com/dy/article/J4D3ACKM0552INOC.html](https://www.163.com/dy/article/J4D3ACKM0552INOC.html)                       |
+| Author          | 未知                               |
+| Region          | 四川, 中国                               |
+| Date            | 2024-06-11                                 |
+| Tags            | 跨性别, 生命故事, 变性人, 个人经历, 社会压力, 艾滋病, 人生选择                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

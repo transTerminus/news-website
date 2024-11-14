@@ -36,18 +36,18 @@ Amy常去日本人光顾的店，伪装成游客打招呼并逐渐骗取信任�
 本文报道了泰国曼谷的一名跨性别者Amy因欺骗73名日本男性而被警方逮捕的事件。Amy以诈骗的手段骗取了超过500万元人民币，声称自己曾被日本男子欺骗，因此出于报复而采取这种行为。她的诈骗手段包括伪装成游客，通过与受害者建立信任关系后请求借钱，往往编造各种理由避免还款。此事件反映出跨性别者在社会中的复杂遭遇和某些人可能采取的偏激行为，揭示了因欺骗产生的社会问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_泰国一“人妖”骗73名日本人超500万元称曾被欺骗想报仇_-_QQ_News.md                             |
-> | Size            | 1257 bytes                           |
-> | Archived Date   | 2024-11-08 19:40:22                             |
-> | Original Link   | [https://news.qq.com/rain/a/20240820A00UXT00](https://news.qq.com/rain/a/20240820A00UXT00)                       |
-> | Author          | 安徽《新安晚报》社旗下账号                               |
-> | Region          | 泰国                               |
-> | Date            | 2024-08-20                                 |
-> | Tags            | 跨性别, 诈骗, 社会行为, 泰国, 日本                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_泰国一“人妖”骗73名日本人超500万元称曾被欺骗想报仇_-_QQ_News.md                             |
+| Size            | 1257 bytes                           |
+| Archived Date   | 2024-11-08 19:40:22                             |
+| Original Link   | [https://news.qq.com/rain/a/20240820A00UXT00](https://news.qq.com/rain/a/20240820A00UXT00)                       |
+| Author          | 安徽《新安晚报》社旗下账号                               |
+| Region          | 泰国                               |
+| Date            | 2024-08-20                                 |
+| Tags            | 跨性别, 诈骗, 社会行为, 泰国, 日本                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

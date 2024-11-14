@@ -132,18 +132,18 @@
 本文讲述了张克莎的感人故事，她是中国首位变性人，比金星更早成为公众人物。文章详细记录了她从儿时对女性身份的认知、家庭环境对她的影响，到成年后进行变性手术的过程。张克莎在青少年时期面临同学的欺凌和家庭的期望，最终选择了参军，却遭遇误注雄性激素的打击，导致身体性别特征出现。然而她依然勇敢追求自我，1983年成功完成变性手术，并努力融入社会。文中还描述了她嫁给香港富豪后隐瞒身份生活的艰辛，以及富豪去世后对她生活的巨大打击。文章不仅反映了张克莎个人的生活历程，也揭示了社会对跨性别身份的误解与偏见，引人深思。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_我国首位变性人张克莎，成功嫁给了香港富豪，结局如何？_-_网易.md                             |
-> | Size            | 8732 bytes                           |
-> | Archived Date   | 2024-11-08 07:42:05                             |
-> | Original Link   | [https://www.163.com/dy/article/ILRNP5OD0511F1TQ.html](https://www.163.com/dy/article/ILRNP5OD0511F1TQ.html)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-12-16                                 |
-> | Tags            | 跨性别, 变性人, 生命故事, 社会环境, 医疗经历, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_我国首位变性人张克莎，成功嫁给了香港富豪，结局如何？_-_网易.md                             |
+| Size            | 8732 bytes                           |
+| Archived Date   | 2024-11-08 07:42:05                             |
+| Original Link   | [https://www.163.com/dy/article/ILRNP5OD0511F1TQ.html](https://www.163.com/dy/article/ILRNP5OD0511F1TQ.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-12-16                                 |
+| Tags            | 跨性别, 变性人, 生命故事, 社会环境, 医疗经历, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -147,18 +147,18 @@ Rui Ho的风格游走于流行与电子舞曲之间，在本次的发行中，�
 本文为跨性别/非二元性别电子音乐人Rui Ho的专访，讨论了她在音乐创作中对身份经历的探索和表达。Rui Ho在文中谈到，她希望在讨论音乐时，能够将焦点放在音乐本身，而非身份。她的音乐作品，如EP《Tension》，融合了多种音乐风格，包括电子、流行和Hyperpop，探讨了自我与他人之间的关系。Rui Ho的创作受其性别身份和跨文化经历的影响，表现了身份和情感间的复杂交织。她在采访中分享了对身份、亲密关系及艺术表达的思考，指出身份对于她的艺术创作至关重要，并努力推动社会对跨性别群体的理解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_我也只想讨论音乐，无关身份制作人旋律电子音乐音乐_手机网易网.md                             |
-> | Size            | 14069 bytes                           |
-> | Archived Date   | 2024-11-08 06:47:53                             |
-> | Original Link   | [https://www.163.com/dy/article/H2KNIQ560517P2PN.html](https://www.163.com/dy/article/H2KNIQ560517P2PN.html)                       |
-> | Author          | Cocoonics                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2022-03-17                                 |
-> | Tags            | 跨性别, 非二元性别, 音乐创作, Rui Ho, 电子音乐, 身份探索, 文化背景, 亲密关系                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_我也只想讨论音乐，无关身份制作人旋律电子音乐音乐_手机网易网.md                             |
+| Size            | 14069 bytes                           |
+| Archived Date   | 2024-11-08 06:47:53                             |
+| Original Link   | [https://www.163.com/dy/article/H2KNIQ560517P2PN.html](https://www.163.com/dy/article/H2KNIQ560517P2PN.html)                       |
+| Author          | Cocoonics                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-03-17                                 |
+| Tags            | 跨性别, 非二元性别, 音乐创作, Rui Ho, 电子音乐, 身份探索, 文化背景, 亲密关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

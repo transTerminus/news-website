@@ -32,18 +32,18 @@
 该文件记录了64岁变性高球手芭比·兰嘉丝汀的励志故事。芭比在59岁时决定完成变性手术，并立志成为LPGA（女子职业高尔夫球协会）的选手。尽管她在2013年的资格考核中未能晋级，但她并未放弃梦想，并在2014年继续努力追求自己的高尔夫目标。文件中提到，芭比的故事鼓舞了许多人，并引发了大量演讲邀约，使她能传达积极向上的励志信息。文中还提到，2010年LPGA 曾不允许变性人参赛，后来规则有所修改，允许变性人参赛，这一变化也是芭比追梦的一部分。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_64岁变性高球手欲战LPGA_励志演讲邀约不断(图).md                             |
-> | Size            | 1914 bytes                           |
-> | Archived Date   | 2024-11-08 10:52:15                             |
-> | Original Link   | [https://www.chinanews.com.cn/ty/2013/12-31/5682597.shtml](https://www.chinanews.com.cn/ty/2013/12-31/5682597.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 台湾                               |
-> | Date            | 2013-12-31                                 |
-> | Tags            | 跨性别, 励志, 高尔夫, 荷尔蒙治疗, LPGA, 变性, 社会环境, 个人故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_64岁变性高球手欲战LPGA_励志演讲邀约不断(图).md                             |
+| Size            | 1914 bytes                           |
+| Archived Date   | 2024-11-08 10:52:15                             |
+| Original Link   | [https://www.chinanews.com.cn/ty/2013/12-31/5682597.shtml](https://www.chinanews.com.cn/ty/2013/12-31/5682597.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 台湾                               |
+| Date            | 2013-12-31                                 |
+| Tags            | 跨性别, 励志, 高尔夫, 荷尔蒙治疗, LPGA, 变性, 社会环境, 个人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -63,18 +63,18 @@
 本文报道了珍妮·贝利（Jenny Bailey）在2007年成为英国剑桥市新任市长，成为世界首位变性女市长的故事。珍妮是英国自由民主党成员，生于男性，在30岁时接受变性手术，之后成为女性。她的经历展示了个人身份认可与社会角色的结合，从而为变性人群推出了一位有权威的代表。珍妮与现伴侣詹妮弗·利德尔的关系也被提到，两人都是工程师，接受变性手术后进入政界。文章详细叙述了珍妮从小对性别的困惑，如何向社会表达自己的真实身份，以及他在剑桥市担任市长的工作，强调了公众对于变性人士的接受度，以及他们在政治和社会中能发挥的作用。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_英国剑桥市选出世界首位变性女市长(图).md                             |
-> | Size            | 4974 bytes                           |
-> | Archived Date   | 2024-11-02 05:54:03                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-05-25/detail-ikftpnny3867573.d.html](https://news.sina.cn/sa/2007-05-25/detail-ikftpnny3867573.d.html)                       |
-> | Author          | 新闻晨报                               |
-> | Region          | 英国                               |
-> | Date            | 2007-05-25                                 |
-> | Tags            | 跨性别, 变性人, 社会接受, 市长, 剑桥市, 人生故事, 政治参与, 法律政策, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_英国剑桥市选出世界首位变性女市长(图).md                             |
+| Size            | 4974 bytes                           |
+| Archived Date   | 2024-11-02 05:54:03                             |
+| Original Link   | [https://news.sina.cn/sa/2007-05-25/detail-ikftpnny3867573.d.html](https://news.sina.cn/sa/2007-05-25/detail-ikftpnny3867573.d.html)                       |
+| Author          | 新闻晨报                               |
+| Region          | 英国                               |
+| Date            | 2007-05-25                                 |
+| Tags            | 跨性别, 变性人, 社会接受, 市长, 剑桥市, 人生故事, 政治参与, 法律政策, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

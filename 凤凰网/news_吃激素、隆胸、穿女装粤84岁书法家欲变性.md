@@ -66,18 +66,18 @@
 这篇文章讲述了广东佛山84岁书法家钱今凡（又名伊玲）的跨性别经历，强调了他的生命故事和过渡经历。文章开头提到他是在2012年宣布希望变性，并且开始服用激素、进行隆胸手术和穿女装。钱今凡自幼就有变性的想法，但因社会及家庭的压力，他直到80岁时才开始正式表达自己作为女性的身份。文章详细描述了他的心路历程，从小时候对性别的困惑，到54岁结婚时隐瞒这一身份，再到近年来的渐渐勇敢表达，包含了他与社会的互动以及如何在工作中以女性的身份生活。此外，他也提到了希望社会能消除对性别少数群体的偏见，他对于未来的变性手术充满了期待和迫切。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_吃激素、隆胸、穿女装粤84岁书法家欲变性.md                             |
-> | Size            | 5801 bytes                           |
-> | Archived Date   | 2024-11-02 07:58:56                             |
-> | Original Link   | [https://news.ifeng.com/c/7fcPpTORTiV](https://news.ifeng.com/c/7fcPpTORTiV)                       |
-> | Author          | 南方都市报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2012-06-14                                 |
-> | Tags            | 跨性别, 生命故事, 个人经历, 性别认同, 社会接受                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_吃激素、隆胸、穿女装粤84岁书法家欲变性.md                             |
+| Size            | 5801 bytes                           |
+| Archived Date   | 2024-11-02 07:58:56                             |
+| Original Link   | [https://news.ifeng.com/c/7fcPpTORTiV](https://news.ifeng.com/c/7fcPpTORTiV)                       |
+| Author          | 南方都市报                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-06-14                                 |
+| Tags            | 跨性别, 生命故事, 个人经历, 性别认同, 社会接受                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

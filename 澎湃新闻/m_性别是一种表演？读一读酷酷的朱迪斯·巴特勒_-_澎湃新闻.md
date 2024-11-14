@@ -76,18 +76,18 @@
 本文件为一篇探讨性别及其表演性的文章，主要围绕美国哲学家朱迪斯·巴特勒的理论展开。文章指出，性别不是一种固定的身份，而是社会文化构建的结果，巴特勒提出的“性别角色扮演”概念揭示了性别在社会实践中的流动性和复杂性。文中提到，传统观念将性别视为自然的，然而，巴特勒强调性别是通过特定的社会行为和语言构建的。她提出，性别身份的确立和维持依赖于权威性的话语实践，这使性别成为一个持续展开的社会表演。文章还讨论了巴特勒对女权主义、酷儿理论的影响及其对社会规范的挑战，进一步探讨了性别认同与社会结构之间的关系。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_性别是一种表演？读一读酷酷的朱迪斯·巴特勒_-_澎湃新闻.md                             |
-> | Size            | 15790 bytes                           |
-> | Archived Date   | 2024-11-10 21:59:39                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_11341827](https://m.thepaper.cn/newsDetail_forward_11341827)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 性别理论, 朱迪斯·巴特勒, 性别表演性, 女权主义, 酷儿理论, 社会构建, 性别身份                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性别是一种表演？读一读酷酷的朱迪斯·巴特勒_-_澎湃新闻.md                             |
+| Size            | 15790 bytes                           |
+| Archived Date   | 2024-11-10 21:59:39                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_11341827](https://m.thepaper.cn/newsDetail_forward_11341827)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别理论, 朱迪斯·巴特勒, 性别表演性, 女权主义, 酷儿理论, 社会构建, 性别身份                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

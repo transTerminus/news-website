@@ -31,18 +31,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 这篇文章讨论了2020年《梦幻西游手游》中的转性别功能，并描述了这一更新带来的影响与玩家反应。文章提到，在4月22日的更新后，游戏正式推出男性角色转为女性角色以及女性角色转为男性角色的选项。尽管不少玩家一直期望这个功能，策划曾表示不会推出，但最终还是开放了这一功能，给了玩家更多选择。文章细节说明了转性别后玩家面临的装备适配问题，如武器和衣物不会随性别转换而自动转移，需玩家自行处理，这使得一些玩家在转性别时需要兼顾装备的重新购买与销售。此外，文章分析了性别转换对于装备经济的影响，探讨了不同类型玩家的转性别动机，最终鼓励读者分享自身观点和体验。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_梦幻西游手游：转性别价格大幅下降！玩家纷纷卖号，网友：真香_-_网易.md                             |
-> | Size            | 3220 bytes                           |
-> | Archived Date   | 2024-11-08 06:06:18                             |
-> | Original Link   | [https://www.163.com/dy/article/FB0HJT5J0546A1Y2.html](https://www.163.com/dy/article/FB0HJT5J0546A1Y2.html)                       |
-> | Author          | 网易                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2020-04-24                                 |
-> | Tags            | 梦幻西游, 转性别, 玩家体验, 游戏更新, 跨性别功能                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_梦幻西游手游：转性别价格大幅下降！玩家纷纷卖号，网友：真香_-_网易.md                             |
+| Size            | 3220 bytes                           |
+| Archived Date   | 2024-11-08 06:06:18                             |
+| Original Link   | [https://www.163.com/dy/article/FB0HJT5J0546A1Y2.html](https://www.163.com/dy/article/FB0HJT5J0546A1Y2.html)                       |
+| Author          | 网易                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-04-24                                 |
+| Tags            | 梦幻西游, 转性别, 玩家体验, 游戏更新, 跨性别功能                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

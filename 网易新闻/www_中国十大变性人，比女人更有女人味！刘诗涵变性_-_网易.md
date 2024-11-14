@@ -149,18 +149,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文介绍了中国十大变性人，包括金星、刘诗涵等知名的变性人士。金星是众所周知的中国变性人，享有“中国最美变性人”的称号，她从小就有做女人的幻想并经历了很多情感与职业上的成功。刘诗涵则是一位背景悲惨但坚韧不拔的变性模特，她的故事激励了很多人。其他如刘炫怡、陈莉莉、徐秀莉等人也各自分享了她们在生活和事业中所经历的酸甜苦辣。通过这些故事，读者能感受到跨性别者在追求自我认同和社会接受的旅途中的努力与挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_中国十大变性人，比女人更有女人味！刘诗涵变性_-_网易.md                             |
-> | Size            | 6861 bytes                           |
-> | Archived Date   | 2024-11-08 06:14:23                             |
-> | Original Link   | [https://www.163.com/dy/article/FQ0RFI0105349XQY.html](https://www.163.com/dy/article/FQ0RFI0105349XQY.html)                       |
-> | Author          | 网易                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2020-10-28                                 |
-> | Tags            | 变性人, 跨性别, 个人故事, 社会接受, 媒体报道, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_中国十大变性人，比女人更有女人味！刘诗涵变性_-_网易.md                             |
+| Size            | 6861 bytes                           |
+| Archived Date   | 2024-11-08 06:14:23                             |
+| Original Link   | [https://www.163.com/dy/article/FQ0RFI0105349XQY.html](https://www.163.com/dy/article/FQ0RFI0105349XQY.html)                       |
+| Author          | 网易                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-10-28                                 |
+| Tags            | 变性人, 跨性别, 个人故事, 社会接受, 媒体报道, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

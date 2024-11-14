@@ -43,18 +43,18 @@
 本文报道了美国变性人托马斯·比蒂的故事，他是全球第一位怀孕的男性。在接受《美国广播公司》主持人芭芭拉·华特斯的专访时，比蒂透露自己再次怀孕，并期待着第二个孩子的出生。比蒂在10年前进行了变性手术并保留了女性生殖器官，利用捐赠者的精子成功怀孕，并在2008年6月生下第一个女儿苏珊。比蒂的故事在全球引起了巨大的关注，他的经历不仅挑战了传统的性别观念，还引发了对跨性别者的生育能力的讨论。文章还提到比蒂的家庭背景，以及他与妻子南希的生活状况。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_图：美国变性人再度怀孕.md                             |
-> | Size            | 2890 bytes                           |
-> | Archived Date   | 2024-11-08 10:32:55                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/gjxw/news/2008/11-14/1449656.shtml](https://www.chinanews.com.cn/tp/gjxw/news/2008/11-14/1449656.shtml)                       |
-> | Author          | 国际在线                               |
-> | Region          | 美国                               |
-> | Date            | 2008-11-14                                 |
-> | Tags            | 跨性别, 怀孕, 托马斯·比蒂, 性别认同, 生育, 社会反响                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_图：美国变性人再度怀孕.md                             |
+| Size            | 2890 bytes                           |
+| Archived Date   | 2024-11-08 10:32:55                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/gjxw/news/2008/11-14/1449656.shtml](https://www.chinanews.com.cn/tp/gjxw/news/2008/11-14/1449656.shtml)                       |
+| Author          | 国际在线                               |
+| Region          | 美国                               |
+| Date            | 2008-11-14                                 |
+| Tags            | 跨性别, 怀孕, 托马斯·比蒂, 性别认同, 生育, 社会反响                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

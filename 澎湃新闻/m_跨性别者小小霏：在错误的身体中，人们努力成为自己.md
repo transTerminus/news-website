@@ -174,18 +174,18 @@ We keep going going going」
 本文讲述了跨性别者小小霏的个人经历，特别是在性别认同和身份确认方面的挑战与成功。小小霏在家人的支持下，历经两年的努力，成功更改了自己的学历信息，克服了来自社会和制度的重重障碍，耐心等待被看到的那一天。她描述在校园及社会职场中遭受的困扰与歧视，尤其是关于发布简历和面试时因为性别身份的多重身份所带来的应对困难。文章深刻探讨了中国现行法律对跨性别者的歧视问题，尤其是在学历与身份信息的矛盾上，以及小小霏为改善这一现状所进行的努力与奋斗。小小霏的故事不仅反映了个人奋斗的艰辛，也折射出跨性别群体在当今社会中的生存现实与权利呼喊。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_跨性别者小小霏：在错误的身体中，人们努力成为自己.md                             |
-> | Size            | 17735 bytes                           |
-> | Archived Date   | 2024-11-03 09:40:53                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6784501](https://m.thepaper.cn/newsDetail_forward_6784501)                       |
-> | Author          | 澎湃号·湃客                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 性别认同, 社会歧视, 医疗经验分享, 法律与政策, 个人故事, 教育问题, 身份认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别者小小霏：在错误的身体中，人们努力成为自己.md                             |
+| Size            | 17735 bytes                           |
+| Archived Date   | 2024-11-03 09:40:53                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_6784501](https://m.thepaper.cn/newsDetail_forward_6784501)                       |
+| Author          | 澎湃号·湃客                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 社会歧视, 医疗经验分享, 法律与政策, 个人故事, 教育问题, 身份认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

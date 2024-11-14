@@ -35,18 +35,18 @@
 本文报道了丹麦卫生委员会于2016年5月31日做出的重要决策，将“想变性”或“跨性别”的心理状态从精神疾病的类别中剔除，标志着对跨性别者健康和身份认同的重大政策变化。此项决定将于2017年1月1日正式生效，反映了对跨性别者生存状况的认可与理解。卫生委员会副主席弗莱明·默勒·莫滕森指出，将这一状态称为疾病是完全不恰当的，表明了对跨性别群体尊严与权利的支持。此外，文中提到丹麦著名变性艺术家莉莉·易贝的故事，以及即将举行的世界卫生组织关于性别认同障碍的讨论，进一步强调了国际社会对该话题的关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_丹麦修改疾病指南“想变性”不再是病.md                             |
-> | Size            | 1589 bytes                           |
-> | Archived Date   | 2024-11-02 03:55:19                             |
-> | Original Link   | [https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html](https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html)                       |
-> | Author          | 新华社电                               |
-> | Region          | 丹麦                               |
-> | Date            | 2016-06-03                                 |
-> | Tags            | 健康, 政策, 变性, 跨性别, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_丹麦修改疾病指南“想变性”不再是病.md                             |
+| Size            | 1589 bytes                           |
+| Archived Date   | 2024-11-02 03:55:19                             |
+| Original Link   | [https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html](https://news.sina.cn/gj/2016-06-03/detail-ifxsvexw8320699.d.html)                       |
+| Author          | 新华社电                               |
+| Region          | 丹麦                               |
+| Date            | 2016-06-03                                 |
+| Tags            | 健康, 政策, 变性, 跨性别, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

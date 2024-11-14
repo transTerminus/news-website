@@ -28,18 +28,18 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 该文件记录了中国最年长的变性人陈菲菲的手术经历。文章详细描述了2007年4月26日，50岁的陈菲菲在沈阳接受生殖器切除和再造手术的全过程。手术于早晨9时开始，经过几个小时的复杂程序，终于在11时40分生殖器成功被切除，标志着她的转变正式完成。这一事件不仅是陈菲菲个人生命旅程的重要里程碑，也在社会上引发了关于变性人群体的关注与讨论。该报道配有陈菲菲手术前后的图片，直观展示了这一重要时刻。陈菲菲成为了中国年龄最大的变性人，为后续的相关讨论提供了重要的现实案例。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_最老变性人彻底变女人（图）.md                             |
-> | Size            | 817 bytes                           |
-> | Archived Date   | 2024-11-02 05:52:45                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-04-27/detail-ikknscsk2159177.d.html](https://news.sina.cn/sa/2007-04-27/detail-ikknscsk2159177.d.html)                       |
-> | Author          | 合肥报业网-江淮晨报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2007-04-26                                 |
-> | Tags            | 变性人, 手术经历, 生命故事, 社会关注, 医学资源                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_最老变性人彻底变女人（图）.md                             |
+| Size            | 817 bytes                           |
+| Archived Date   | 2024-11-02 05:52:45                             |
+| Original Link   | [https://news.sina.cn/sa/2007-04-27/detail-ikknscsk2159177.d.html](https://news.sina.cn/sa/2007-04-27/detail-ikknscsk2159177.d.html)                       |
+| Author          | 合肥报业网-江淮晨报                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-04-26                                 |
+| Tags            | 变性人, 手术经历, 生命故事, 社会关注, 医学资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

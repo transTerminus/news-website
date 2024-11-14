@@ -122,18 +122,18 @@
 本文探讨了美国目前存在的56种性别分类，给出了详细定义，并对这些性别的社会现象进行了分析。文章首先列出了每种性别的定义，包括无性别（Agender）、双性恋（Bigender）、跨性别（Transgender）等，并逐一解释这些身份的特征。在对这些分类做简要的阐释后，作者表述了对美国当前性别认同现状的看法，提出了对极端自由主义的批判，并反思其对人类生存和社会发展的影响。文章还涉及了对性别乱伦（LGBTQ群体）的看法，并认为这一现象加深了社会的道德危机和人类繁衍的挑战。总体来看，这是一篇关于当代性别认同和社会文化现象的深刻反思，表达了对当前社会价值观的疑虑，展现了性别认同议题的复杂性和多样性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_56种性别的美国，天理何在，人伦何存_-_网易.md                             |
-> | Size            | 11164 bytes                           |
-> | Archived Date   | 2024-11-08 07:16:07                             |
-> | Original Link   | [https://www.163.com/dy/article/I1Q55HJS0553RJCJ.html](https://www.163.com/dy/article/I1Q55HJS0553RJCJ.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2023-04-08                                 |
-> | Tags            | 性别认同, 跨性别, 社会批判, 极端自由主义, LGBTQ, 性别分类                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_56种性别的美国，天理何在，人伦何存_-_网易.md                             |
+| Size            | 11164 bytes                           |
+| Archived Date   | 2024-11-08 07:16:07                             |
+| Original Link   | [https://www.163.com/dy/article/I1Q55HJS0553RJCJ.html](https://www.163.com/dy/article/I1Q55HJS0553RJCJ.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-04-08                                 |
+| Tags            | 性别认同, 跨性别, 社会批判, 极端自由主义, LGBTQ, 性别分类                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -57,18 +57,18 @@
 本文讲述了朱小琼（一名变性男子）与同伙策划抢劫的事件。朱小琼在经历了一次变性手术后，以女性身份出现在公众面前，甚至开始在酒吧表演。由于家庭成员对其变性身份并不知情，朱小琼与其情人何伟决定利用其变性身份进行网上交友并设局抢劫。故事的高潮在于两者通过网络吸引了一位名叫王进的网友，计划在宾馆进行性交易后实施抢劫。最终，当王进意识到事情不对而逃跑后，他们被警方抓获。该事件反映出变性人在法律与社会舆论下的复杂身份，以及法律对跨性别者变更性别的严格要求。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性男扮“熟女”敲诈好色网友被捕后男监收押.md                             |
-> | Size            | 6343 bytes                           |
-> | Archived Date   | 2024-11-08 09:11:06                             |
-> | Original Link   | [http://www.chinanews.com.cn/life/news/2010/05-24/2299241.shtml](http://www.chinanews.com.cn/life/news/2010/05-24/2299241.shtml)                       |
-> | Author          | 扬子晚报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-05-24                                 |
-> | Tags            | 跨性别, 变性人, 抢劫, 社会事件, 法律, 性别认同, 生存现状                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性男扮“熟女”敲诈好色网友被捕后男监收押.md                             |
+| Size            | 6343 bytes                           |
+| Archived Date   | 2024-11-08 09:11:06                             |
+| Original Link   | [http://www.chinanews.com.cn/life/news/2010/05-24/2299241.shtml](http://www.chinanews.com.cn/life/news/2010/05-24/2299241.shtml)                       |
+| Author          | 扬子晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-05-24                                 |
+| Tags            | 跨性别, 变性人, 抢劫, 社会事件, 法律, 性别认同, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -259,18 +259,18 @@ CD是英文 Cross-dress 的缩写，意思是变装。TS是英文 TransSexual �
 该文件是对“伪娘”一词的深入分析，来源于央广网官方账号，发表于2010年5月18日。文件详细总结了伪娘的定义及其在ACG（动画、漫画、游戏）文化中的地位。伪娘通常指代那些容貌上接近女性的男性角色，且强调伪娘与其他类似概念（如人妖与反串）的区别。文中讨论了伪娘的必要条件与容忍条件，并列举了多种伪娘的形态与类型，包括公主型和萝太型。同时，文件也探讨了伪娘在社交中的角色和心理特征，明确伪娘心理上认同男性身份，并非希望成为女性。通过对伪娘的精细化分类与定义，文档旨在消除对伪娘理解上的模糊与误解，并倡导对这一文化现象更深层次的认识。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | finance_伪娘_百度百科_-_新浪财经.md                             |
-> | Size            | 16069 bytes                           |
-> | Archived Date   | 2024-11-09 06:19:37                             |
-> | Original Link   | [https://finance.sina.cn/sa/2010-05-18/detail-ikkntiam5361169.d.html](https://finance.sina.cn/sa/2010-05-18/detail-ikkntiam5361169.d.html)                       |
-> | Author          | 央广网官方账号                               |
-> | Region          | 未知                               |
-> | Date            | 2010-05-18                                 |
-> | Tags            | 伪娘, ACG, 文化元素, 性别认同, 动画漫画游戏                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | finance_伪娘_百度百科_-_新浪财经.md                             |
+| Size            | 16069 bytes                           |
+| Archived Date   | 2024-11-09 06:19:37                             |
+| Original Link   | [https://finance.sina.cn/sa/2010-05-18/detail-ikkntiam5361169.d.html](https://finance.sina.cn/sa/2010-05-18/detail-ikkntiam5361169.d.html)                       |
+| Author          | 央广网官方账号                               |
+| Region          | 未知                               |
+| Date            | 2010-05-18                                 |
+| Tags            | 伪娘, ACG, 文化元素, 性别认同, 动画漫画游戏                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

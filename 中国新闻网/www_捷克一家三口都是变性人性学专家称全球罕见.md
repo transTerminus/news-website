@@ -40,18 +40,18 @@
 整体来说，这篇文章不仅探讨了个人的变性经历，还深刻反映了变性人在社会中所面临的挑战与接受程度，充满了积极的支持与理解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_捷克一家三口都是变性人性学专家称全球罕见.md                             |
-> | Size            | 2088 bytes                           |
-> | Archived Date   | 2024-11-08 09:45:24                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/2011/01-31/2824298.shtml](https://www.chinanews.com.cn/gj/2011/01-31/2824298.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 捷克                               |
-> | Date            | 2011-01-31                                 |
-> | Tags            | 跨性别, 变性人, 家庭, 生活故事, 性别认同, 性医学, 捷克                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_捷克一家三口都是变性人性学专家称全球罕见.md                             |
+| Size            | 2088 bytes                           |
+| Archived Date   | 2024-11-08 09:45:24                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2011/01-31/2824298.shtml](https://www.chinanews.com.cn/gj/2011/01-31/2824298.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 捷克                               |
+| Date            | 2011-01-31                                 |
+| Tags            | 跨性别, 变性人, 家庭, 生活故事, 性别认同, 性医学, 捷克                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -269,18 +269,18 @@ Lesbian、Les、 Girlslove
 该文件为一篇关于性少数群体（LGBTQ+）的科普文章，发表于2017年9月。文章探讨了不同的性别和性取向的多样性，具体解释了“LGBTTQQIAAP+”这一名词中各字母的含义，包括女同性恋（Lesbian）、男同性恋（Gay）、双性恋（Bisexual）、跨性别者（Transgender）、变性人（Transsexual）、双灵人（Two-spirited）、酷儿（Queer）、疑性恋（Questioning）、间性人（Intersex）、无性恋（Asexual）、直同志（Ally）、泛性恋（Pansexual）等。文章指出，性别和性取向是流动的，人们可以在多种性别和性取向之间变化。这一讨论对于增加公众对性少数群体的了解和接受度具有重要意义，同时为对性别认同存在疑问的人提供了有价值的信息和支持。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_科普文｜LGBTTQQIAAP+_性少数群体，究竟还有多少种_-_网易.md                             |
-> | Size            | 8904 bytes                           |
-> | Archived Date   | 2024-11-08 05:36:30                             |
-> | Original Link   | [https://www.163.com/dy/article/CUI93M7P0517AF18.html](https://www.163.com/dy/article/CUI93M7P0517AF18.html)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2017-09-17                                 |
-> | Tags            | 性少数群体, LGBTQ+, 跨性别, 性别多样性, 性别认同, 性取向                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_科普文｜LGBTTQQIAAP+_性少数群体，究竟还有多少种_-_网易.md                             |
+| Size            | 8904 bytes                           |
+| Archived Date   | 2024-11-08 05:36:30                             |
+| Original Link   | [https://www.163.com/dy/article/CUI93M7P0517AF18.html](https://www.163.com/dy/article/CUI93M7P0517AF18.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-09-17                                 |
+| Tags            | 性少数群体, LGBTQ+, 跨性别, 性别多样性, 性别认同, 性取向                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -25,18 +25,18 @@
 该文件收录了关于泰国变性手术的新闻报道，摘自哈尔滨日报，时间为2004年2月27日。报道指出，随着对变性手术认知的提高，泰国对变性手术的需求日益增加。例如，目前的比例已达到每三万名男性中就有一名选择进行变性手术，而女性中则为每十万名中有一人。与会的塔瓦察博士强调，变性手术应仅限于十八岁以上的人，并要求手术前需满足一定的精神健康测试条件。这篇报道反映了泰国社会对变性手术的逐渐开放及相关医疗政策的探讨。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_泰国三万男人一人“变性”.md                             |
-> | Size            | 1116 bytes                           |
-> | Archived Date   | 2024-11-02 04:28:13                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html)                       |
-> | Author          | 哈尔滨日报                               |
-> | Region          | 泰国                               |
-> | Date            | 2004-02-27                                 |
-> | Tags            | 变性手术, 泰国, 性别认同, 医疗政策, 新闻报道                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_泰国三万男人一人“变性”.md                             |
+| Size            | 1116 bytes                           |
+| Archived Date   | 2024-11-02 04:28:13                             |
+| Original Link   | [https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html](https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html)                       |
+| Author          | 哈尔滨日报                               |
+| Region          | 泰国                               |
+| Date            | 2004-02-27                                 |
+| Tags            | 变性手术, 泰国, 性别认同, 医疗政策, 新闻报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

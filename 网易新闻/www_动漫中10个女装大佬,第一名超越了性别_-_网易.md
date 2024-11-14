@@ -79,18 +79,18 @@ jojo，大哥，你女装能不能认真点？
 本文介绍了动漫中十个著名的女装大佬角色，涵盖了不同的动漫作品及其各自的特点。文章从《刀剑神域》的桐人开始，讲述了他作为一个男性角色因外貌和声音而经常被误认为女性，进而引出其他角色例如《男子高中生的日常》中忠邦的搞笑女装场景、《进击的巨人》中阿明的男扮女装情节，以及更多如《猎人》、《黑执事》等动漫角色的风格和背景。每个角色都在各自的故事中以独特的方式表现女装，给观众带来丰富的视觉和文化体验。最后，文章还提到社会对男装女装话题的看法，尤其是对于当代性别观念的反思和探讨。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_动漫中10个女装大佬,第一名超越了性别_-_网易.md                             |
-> | Size            | 3542 bytes                           |
-> | Archived Date   | 2024-11-08 05:58:28                             |
-> | Original Link   | [https://www.163.com/dy/article/ECRMDUN005357Q36.html](https://www.163.com/dy/article/ECRMDUN005357Q36.html)                       |
-> | Author          | 小Cacg                               |
-> | Region          | 未知                               |
-> | Date            | 2019-04-16                                 |
-> | Tags            | 跨性别, 女装大佬, 动漫                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_动漫中10个女装大佬,第一名超越了性别_-_网易.md                             |
+| Size            | 3542 bytes                           |
+| Archived Date   | 2024-11-08 05:58:28                             |
+| Original Link   | [https://www.163.com/dy/article/ECRMDUN005357Q36.html](https://www.163.com/dy/article/ECRMDUN005357Q36.html)                       |
+| Author          | 小Cacg                               |
+| Region          | 未知                               |
+| Date            | 2019-04-16                                 |
+| Tags            | 跨性别, 女装大佬, 动漫                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

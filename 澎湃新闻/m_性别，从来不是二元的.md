@@ -131,18 +131,18 @@ SRY基因及其在性腺分化中的作用。© tsu.tw
 本文探讨了性别的复杂性，强调性别并非仅仅是二元的概念。通过对遗传学、神经生物学及内分泌学的研究，文章指出，性别的光谱化与非二元性正逐渐被科学数据所支持。这篇文章特别强调了跨性别者在社会中的存在及其经历的重要性，指责反科学的言论影响了跨性别者的权益，影响了他们在社会中的生存现状。文章通过实例分析了科学研究如何帮助我们更好地理解跨性别者的真实体验，包括生理性别的形成过程及体内荷尔蒙的复杂作用。此外，文中还提到跨性别者在政治社会环境中所面临的挑战与争议，例如军队中对跨性别者的限制，以及厕所法案的讨论。整体来看，作者以科学证据来说服公众认识到跨性别者的真实性，呼吁社会对性别问题持有包容与多样化的态度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_性别，从来不是二元的.md                             |
-> | Size            | 12547 bytes                           |
-> | Archived Date   | 2024-11-03 09:50:00                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9380405](https://m.thepaper.cn/newsDetail_forward_9380405)                       |
-> | Author          | Simón(e) D Sun                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 性别研究, 科学与社会, 生理性别,  genética, 神经生物学, 内分泌, 社会环境, 非二元性别, 障碍性别, 权利与自由                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性别，从来不是二元的.md                             |
+| Size            | 12547 bytes                           |
+| Archived Date   | 2024-11-03 09:50:00                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_9380405](https://m.thepaper.cn/newsDetail_forward_9380405)                       |
+| Author          | Simón(e) D Sun                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别研究, 科学与社会, 生理性别,  genética, 神经生物学, 内分泌, 社会环境, 非二元性别, 障碍性别, 权利与自由                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

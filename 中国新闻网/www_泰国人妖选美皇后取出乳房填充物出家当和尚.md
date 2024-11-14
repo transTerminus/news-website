@@ -20,18 +20,18 @@
 本文件记录了一个关于泰国变性人选美冠军纳提的故事，他在2013年决定出家，成为和尚。纳提在2009年获得了泰国变性人选美比赛的冠军，展现了其在变性人社区中的影响力。此后他选择取出乳房填充物，保留身体的其他男性特征，表明他的性别认同更倾向于男性。他的选择反映了个人在性别认同和人生道路选择上的自由与多样性，同时也引发了对跨性别群体在社会与文化中的角色的思考。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_泰国人妖选美皇后取出乳房填充物出家当和尚.md                             |
-> | Size            | 953 bytes                           |
-> | Archived Date   | 2024-11-08 09:49:56                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/2013/05-14/4816697.shtml](https://www.chinanews.com.cn/gj/2013/05-14/4816697.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国                               |
-> | Date            | 2013-05-14                                 |
-> | Tags            | 跨性别, 变性人, 选美, 和尚, 性别认同, 个人过渡经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国人妖选美皇后取出乳房填充物出家当和尚.md                             |
+| Size            | 953 bytes                           |
+| Archived Date   | 2024-11-08 09:49:56                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2013/05-14/4816697.shtml](https://www.chinanews.com.cn/gj/2013/05-14/4816697.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国                               |
+| Date            | 2013-05-14                                 |
+| Tags            | 跨性别, 变性人, 选美, 和尚, 性别认同, 个人过渡经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

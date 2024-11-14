@@ -35,18 +35,18 @@
 本文报道了一名美国联邦法官暂停了特朗普总统在2017年8月发布的针对变性人的参军禁令部分内容。法官克塔莉表示，特朗普的禁令面临来自现役和预计参军的变性人的法律挑战，他们认为这一禁令可能对他们的职业和家庭造成严重影响。法官指出，特朗普政府在制定该政策时缺乏事实依据，尽管特朗普声称这一政策将节约资金，但对军队预算的分析显示，变性军人相关的医疗开销极少。此外，法官的暂停决定不包括特朗普要求暂停变性军人进行变性手术的命令，仍需继续执行。此案件引发了社会各界的广泛关注与争议。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美联邦法官暂停特朗普变性人参军禁令部分内容.md                             |
-> | Size            | 1791 bytes                           |
-> | Archived Date   | 2024-11-02 03:23:05                             |
-> | Original Link   | [http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108](http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108)                       |
-> | Author          | 中新网                               |
-> | Region          | 美国                               |
-> | Date            | 2017-10-31                                 |
-> | Tags            | 变性人, 特朗普, 参军禁令, 美国法官, 法律政策, 军队, 医疗开销                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美联邦法官暂停特朗普变性人参军禁令部分内容.md                             |
+| Size            | 1791 bytes                           |
+| Archived Date   | 2024-11-02 03:23:05                             |
+| Original Link   | [http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108](http://news.sina.cn/2017-10-31/detail-ifynfrfn0580537.d.html?vt=4&pos=108)                       |
+| Author          | 中新网                               |
+| Region          | 美国                               |
+| Date            | 2017-10-31                                 |
+| Tags            | 变性人, 特朗普, 参军禁令, 美国法官, 法律政策, 军队, 医疗开销                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

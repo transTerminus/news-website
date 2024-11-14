@@ -52,18 +52,18 @@ The content above (including the pictures and videos if any) is uploaded and pos
 本文文章盘点了动漫中角色性别转换的现象，特别是2023年一月新番中涉及的三个主要角色。文章首先定义了性别转换的概念，并列举了通过不同经历这些角色如何从一种性别转变为另一种性别。分别介绍了来自不同动漫的角色，如《英雄王,为了穷尽武道而转生～而后成为世界最强见习骑士～》中的英格莉丝·尤库斯，她在转生为美少女后展现了勇敢的个性；《与变成了异世界美少女的大叔一起冒险》中的橘日向则因醉酒与女神的奇妙转变而成为绝世美少女；《肯普法》中的濑能名津流因变身成为偶像级美少女而受到两性欢迎。文章不仅展示了这些角色的故事背景，还有他们在新身份下与他人互动的方式。这种性别转换现象在动漫中引发了观看者对性别流动性及其社会文化影响的思考。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_盘点动漫中“性别转换”的角色，一月新番就贡献了三位！_-_网易.md                             |
-> | Size            | 5370 bytes                           |
-> | Archived Date   | 2024-11-08 07:14:29                             |
-> | Original Link   | [https://www.163.com/dy/article/HU1NMAGM0552HLJK.html](https://www.163.com/dy/article/HU1NMAGM0552HLJK.html)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-02-20                                 |
-> | Tags            | 性别转换, 动漫角色, 社会文化, 跨性别, 性别流动性, 日本动画                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_盘点动漫中“性别转换”的角色，一月新番就贡献了三位！_-_网易.md                             |
+| Size            | 5370 bytes                           |
+| Archived Date   | 2024-11-08 07:14:29                             |
+| Original Link   | [https://www.163.com/dy/article/HU1NMAGM0552HLJK.html](https://www.163.com/dy/article/HU1NMAGM0552HLJK.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-02-20                                 |
+| Tags            | 性别转换, 动漫角色, 社会文化, 跨性别, 性别流动性, 日本动画                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

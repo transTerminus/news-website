@@ -38,18 +38,18 @@
 本文探讨了苏格兰2022年人口普查的结果，首次将性取向和性别认同纳入调查问卷。数据显示，苏格兰的LGBTQ群体人数约为184,000，占全体16岁以上人口的4%。其中，男同性恋和女同性恋各占1.76%，双性恋者同样占1.76%。特别值得注意的是，有19,990人（0.44%）自认是跨性别者，且近一半的跨性别者认同为非二元性别者。此外，年轻群体中（16至24岁）的跨性别者比例较高。通过这些数据，苏格兰国家统计局希望为政府、企业等机构在政策制定和社会服务的改善方面提供有效的信息支持。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_历史首次！全国人口普查揭示4%的LGBTQ群体，性别多元性大揭秘.md                             |
-> | Size            | 2064 bytes                           |
-> | Archived Date   | 2024-11-08 08:01:39                             |
-> | Original Link   | [https://www.163.com/dy/article/J810DSGV052880KM.html](https://www.163.com/dy/article/J810DSGV052880KM.html)                       |
-> | Author          | 多元故事荟                               |
-> | Region          | 苏格兰                               |
-> | Date            | 2024-07-26                                 |
-> | Tags            | LGBTQ, 人口普查, 性别认同, 跨性别者, 社会研究                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_历史首次！全国人口普查揭示4%的LGBTQ群体，性别多元性大揭秘.md                             |
+| Size            | 2064 bytes                           |
+| Archived Date   | 2024-11-08 08:01:39                             |
+| Original Link   | [https://www.163.com/dy/article/J810DSGV052880KM.html](https://www.163.com/dy/article/J810DSGV052880KM.html)                       |
+| Author          | 多元故事荟                               |
+| Region          | 苏格兰                               |
+| Date            | 2024-07-26                                 |
+| Tags            | LGBTQ, 人口普查, 性别认同, 跨性别者, 社会研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

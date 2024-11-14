@@ -27,18 +27,18 @@
 本文讨论了在网络上非法贩卖变性药的现象。2021年4月8日，媒体报道了一个名为“药娘”的群体，其中成员指控群管理员对未成年男性进行伤害的事件。这个群体自称通过使用药物或注射来使其生理状态更接近女性化。为了回应这些报告，温州市公安局鹿城区分局于2021年4月9日发布通报，表示他们已成立专门调查组对网络上非法贩卖变性药的行为进行调查。文章中提到，该警局对媒体的报道表示高度重视，并采取了相应的行动来保护公众安全。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_有人通过网络非法贩卖变性药？浙江温州警方：已开展调查.md                             |
-> | Size            | 1436 bytes                           |
-> | Archived Date   | 2024-11-02 08:09:26                             |
-> | Original Link   | [https://news.ifeng.com/c/85IwEGT3tfB](https://news.ifeng.com/c/85IwEGT3tfB)                       |
-> | Author          | 凤凰网                               |
-> | Region          | 浙江，中国大陆                               |
-> | Date            | 2021-04-09                                 |
-> | Tags            | 变性药, 温州, 警方调查, 跨性别, 网络贩卖                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_有人通过网络非法贩卖变性药？浙江温州警方：已开展调查.md                             |
+| Size            | 1436 bytes                           |
+| Archived Date   | 2024-11-02 08:09:26                             |
+| Original Link   | [https://news.ifeng.com/c/85IwEGT3tfB](https://news.ifeng.com/c/85IwEGT3tfB)                       |
+| Author          | 凤凰网                               |
+| Region          | 浙江，中国大陆                               |
+| Date            | 2021-04-09                                 |
+| Tags            | 变性药, 温州, 警方调查, 跨性别, 网络贩卖                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -31,18 +31,18 @@
 此文件为一篇关于美国宾夕法尼亚州斯沃斯莫尔学院公布的2024年暑期阅读书单的报道，书单中包含了多本涉及LGBT议题的书籍。其中，引人注目的书籍包括《天主教学校女同性恋指南》和《帕特里夏想要拥抱》，前者探讨了性别与种族的艰难处境，后者则描述了两个女同性恋者在小镇上克服偏见的爱情故事。该报道还提到哈佛大学的阅读书单中也包含与跨性别主义和多元文化主义相关的书籍，显示出这些议题在学术界和教育环境中的重要性。文中引用了书籍的简介，强调了在反同性恋环境中作为同性恋者的困境。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_LGBT书籍惊现美国大学暑期阅读书单同性恋小说_-_网易.md                             |
-> | Size            | 2314 bytes                           |
-> | Archived Date   | 2024-11-08 08:07:09                             |
-> | Original Link   | [https://www.163.com/dy/article/J9CP2K3E0552NVQP.html](https://www.163.com/dy/article/J9CP2K3E0552NVQP.html)                       |
-> | Author          | 如意妈妈留学信息                               |
-> | Region          | 美国                               |
-> | Date            | 2024-08-12                                 |
-> | Tags            | LGBT, 跨性别, 同性恋, 文学与艺术, 社会环境, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_LGBT书籍惊现美国大学暑期阅读书单同性恋小说_-_网易.md                             |
+| Size            | 2314 bytes                           |
+| Archived Date   | 2024-11-08 08:07:09                             |
+| Original Link   | [https://www.163.com/dy/article/J9CP2K3E0552NVQP.html](https://www.163.com/dy/article/J9CP2K3E0552NVQP.html)                       |
+| Author          | 如意妈妈留学信息                               |
+| Region          | 美国                               |
+| Date            | 2024-08-12                                 |
+| Tags            | LGBT, 跨性别, 同性恋, 文学与艺术, 社会环境, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

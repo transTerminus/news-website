@@ -112,18 +112,18 @@
 本文探讨了变性手术的复杂性和挑战，讲述了一名跨性别者Alia的个人经历，她在经历了性别转换及随后反悔的心理挣扎后，重新选择了变回女性。内容详细描述了她的成长背景、变性手术的过程以及术后的心理变化，同时引入了跨性别者在寻求手术时面临的医疗及社会政策限制。此外，文章还探讨了跨性别现象的社会认知变化和心理健康问题，强调了对跨性别者应有的尊重和理解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性手术到底有多难？揭秘变性手术全过程，比想象中要残忍得多_-_网易.md                             |
-> | Size            | 7107 bytes                           |
-> | Archived Date   | 2024-11-08 07:08:26                             |
-> | Original Link   | [https://www.163.com/dy/article/HM9P9RK905148PF4.html](https://www.163.com/dy/article/HM9P9RK905148PF4.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2022-11-16                                 |
-> | Tags            | 跨性别, 变性手术, 心理健康, 个人经历, 法律政策, 医疗资源, 性别认同, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性手术到底有多难？揭秘变性手术全过程，比想象中要残忍得多_-_网易.md                             |
+| Size            | 7107 bytes                           |
+| Archived Date   | 2024-11-08 07:08:26                             |
+| Original Link   | [https://www.163.com/dy/article/HM9P9RK905148PF4.html](https://www.163.com/dy/article/HM9P9RK905148PF4.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2022-11-16                                 |
+| Tags            | 跨性别, 变性手术, 心理健康, 个人经历, 法律政策, 医疗资源, 性别认同, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

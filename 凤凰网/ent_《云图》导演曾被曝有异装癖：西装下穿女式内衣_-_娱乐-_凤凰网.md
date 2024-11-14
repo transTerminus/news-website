@@ -50,18 +50,18 @@
 本文讨论了电影《云图》导演沃卓斯基姐弟的成长经历与性别认同的变化，详细描述了拉里·沃卓斯基（现名拉娜·沃卓斯基）从异性恋男性转变为女性的过程。文章提到拉娜在公众场合首次以女性身份出现是在2012年，而她的过渡经历早在2001年就已有迹象，如与凯琳·温斯洛的恋情及其在媒体上的表现。文中还探讨了拉娜在职业生涯中的作品，包括《黑客帝国》和《云图》，以及她如何通过这些作品传达对性别、种族与社会的思考。作者采访了拉娜关于其变性计划和生活方式的看法，并指出文化和社会背景对她身份认同的重要影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | ent_《云图》导演曾被曝有异装癖：西装下穿女式内衣_-_娱乐-_凤凰网.md                             |
-> | Size            | 4930 bytes                           |
-> | Archived Date   | 2024-11-09 10:12:45                             |
-> | Original Link   | [https://ent.ifeng.com/movie/news/occident/detail_2013_02/05/21964674_0.shtml?_from_ralated](https://ent.ifeng.com/movie/news/occident/detail_2013_02/05/21964674_0.shtml?_from_ralated)                       |
-> | Author          | 江波                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2013-02-05                                 |
-> | Tags            | 沃卓斯基, 云图, 异装癖, 跨性别, 性别认同, 变性, 好莱坞                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ent_《云图》导演曾被曝有异装癖：西装下穿女式内衣_-_娱乐-_凤凰网.md                             |
+| Size            | 4930 bytes                           |
+| Archived Date   | 2024-11-09 10:12:45                             |
+| Original Link   | [https://ent.ifeng.com/movie/news/occident/detail_2013_02/05/21964674_0.shtml?_from_ralated](https://ent.ifeng.com/movie/news/occident/detail_2013_02/05/21964674_0.shtml?_from_ralated)                       |
+| Author          | 江波                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-02-05                                 |
+| Tags            | 沃卓斯基, 云图, 异装癖, 跨性别, 性别认同, 变性, 好莱坞                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

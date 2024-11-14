@@ -32,18 +32,18 @@ HHS的官员希望对1972年颁布的《教育法修正案第九条》(Title IX)
 本文讨论了特朗普政府计划采纳基于生物性的性别定义，可能会削弱跨性别人群在奥巴马政府时期所获得的权利。根据《纽约时报》的报道，美国卫生与公共服务部（HHS）正在牵头修改性别的官方定义，将其定位为男性和女性，基于出生时的生殖器性别，且该定义是不可改变的。这意味着任何性别认同的争论将需要借助基因测试来确定。文中指出，这一政策的改变将可能让大约140万跨性别者失去联邦政府的认可与保护。同时，文章回顾了奥巴马政府时期对跨性别者政策的保护措施，这些政策主要讲求性别由个人的自我认同来决定，而非出生时的性别。在特朗普上台后，恢复了传统性别理念，甚至限制跨性别者在军事上的服务。这反映出跨性别者在面临法律和社会环境变化下的脆弱状态。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_特朗普政府欲重新采纳生物学性别定义：或削弱跨性别人群权益.md                             |
-> | Size            | 2663 bytes                           |
-> | Archived Date   | 2024-11-10 22:13:57                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2551284?from=sohu](https://m.thepaper.cn/newsDetail_forward_2551284?from=sohu)                       |
-> | Author          | 未知                               |
-> | Region          | 美国                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 政策, 特朗普, 奥巴马, 生物性别定义, 人权                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_特朗普政府欲重新采纳生物学性别定义：或削弱跨性别人群权益.md                             |
+| Size            | 2663 bytes                           |
+| Archived Date   | 2024-11-10 22:13:57                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_2551284?from=sohu](https://m.thepaper.cn/newsDetail_forward_2551284?from=sohu)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 政策, 特朗普, 奥巴马, 生物性别定义, 人权                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

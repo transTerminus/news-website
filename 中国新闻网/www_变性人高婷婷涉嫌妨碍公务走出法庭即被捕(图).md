@@ -37,18 +37,18 @@
 该文件为关于变性人高婷婷的一篇报道，记录了她在2007年04月17日出庭时的经历与遭遇。高婷婷因名誉权诉讼被东城区法院驳回，当她走出法院大门时，警方以涉嫌妨碍公务罪将她逮捕。报告详细描述了高婷婷的背景信息，包括她的变性经过及法律诉讼的过程和遭遇，突显了社会对跨性别者存在的偏见和法律上的挑战。文件中还提到她出庭时的穿着和情绪，以及在法庭外被警方抓捕的场景。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性人高婷婷涉嫌妨碍公务走出法庭即被捕(图).md                             |
-> | Size            | 3221 bytes                           |
-> | Archived Date   | 2024-11-08 09:15:58                             |
-> | Original Link   | [http://www.chinanews.com.cn/sh/news/2007/04-17/917208.shtml](http://www.chinanews.com.cn/sh/news/2007/04-17/917208.shtml)                       |
-> | Author          | 北京晨报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2007-04-17                                 |
-> | Tags            | 变性人, 高婷婷, 法律, 跨性别, 公务妨碍罪, 社会偏见, 名誉权, 精神赔偿, 跨性别经历, 媒体报道                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人高婷婷涉嫌妨碍公务走出法庭即被捕(图).md                             |
+| Size            | 3221 bytes                           |
+| Archived Date   | 2024-11-08 09:15:58                             |
+| Original Link   | [http://www.chinanews.com.cn/sh/news/2007/04-17/917208.shtml](http://www.chinanews.com.cn/sh/news/2007/04-17/917208.shtml)                       |
+| Author          | 北京晨报                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-04-17                                 |
+| Tags            | 变性人, 高婷婷, 法律, 跨性别, 公务妨碍罪, 社会偏见, 名誉权, 精神赔偿, 跨性别经历, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

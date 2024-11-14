@@ -24,18 +24,18 @@
 这篇文档记录了一项在菲律宾马尼拉举行的盛大游行活动，活动旨在庆祝第九届国际不再恐同日。文件介绍了变性人在游街活动中盛装打扮，积极表达对性少数群体的尊重和理解。文章中提到，这个活动不仅是一个庆祝的时刻，更是一个重要的社会运动，旨在提高公众对性别多样性与包容性的认知。此外，文件还包含了与活动相关的图片，通过这些生动的视觉元素，读者可以感受到游行的热烈与欢乐的气氛。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_菲律宾变性人盛装游街庆祝第9届国际不再恐同日.md                             |
-> | Size            | 874 bytes                           |
-> | Archived Date   | 2024-11-08 10:45:27                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2014/05-19/349786.shtml](https://www.chinanews.com.cn/tp/hd2011/2014/05-19/349786.shtml)                       |
-> | Author          | 杨彦宇                               |
-> | Region          | 菲律宾                               |
-> | Date            | 2014-05-19                                 |
-> | Tags            | 变性人, 国际不再恐同日, 马尼拉, 游行庆祝, 性少数群体, 社会运动                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_菲律宾变性人盛装游街庆祝第9届国际不再恐同日.md                             |
+| Size            | 874 bytes                           |
+| Archived Date   | 2024-11-08 10:45:27                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2014/05-19/349786.shtml](https://www.chinanews.com.cn/tp/hd2011/2014/05-19/349786.shtml)                       |
+| Author          | 杨彦宇                               |
+| Region          | 菲律宾                               |
+| Date            | 2014-05-19                                 |
+| Tags            | 变性人, 国际不再恐同日, 马尼拉, 游行庆祝, 性少数群体, 社会运动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

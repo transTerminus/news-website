@@ -87,18 +87,18 @@
 最后，文章呼吁创造一个更能接纳多样性与自主权的环境，减少对跨性别及间性人群体的偏见与歧视。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_我们也是雌雄同体吗？.md                             |
-> | Size            | 11860 bytes                           |
-> | Archived Date   | 2024-11-03 09:50:58                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9490421](https://m.thepaper.cn/newsDetail_forward_9490421)                       |
-> | Author          | 兰迪·胡特尔·爱泼斯坦（Randy Hutner Epstein），翻译：杨惠东                               |
-> | Region          | 中国                               |
-> | Date            | 2020-07-01                                 |
-> | Tags            | 跨性别, 雌雄同体, 性别认同, 医学科普, 社会环境, 心理健康, 社会文化, 科学研究                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_我们也是雌雄同体吗？.md                             |
+| Size            | 11860 bytes                           |
+| Archived Date   | 2024-11-03 09:50:58                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_9490421](https://m.thepaper.cn/newsDetail_forward_9490421)                       |
+| Author          | 兰迪·胡特尔·爱泼斯坦（Randy Hutner Epstein），翻译：杨惠东                               |
+| Region          | 中国                               |
+| Date            | 2020-07-01                                 |
+| Tags            | 跨性别, 雌雄同体, 性别认同, 医学科普, 社会环境, 心理健康, 社会文化, 科学研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -47,18 +47,18 @@
 这篇文章报道了美国总统奥巴马于2010年任命首位变性人成为政府高官的事件。被任命者阿曼达·辛普森（Amanda Simpson）年49岁，担任美国商务部工业安全局的高级技术顾问，主要负责管理国际贸易和国家经济安全。辛普森曾在接受变性手术后积极参与政治，曾代表希拉里·克林顿参加民主党国民大会。报道中强调了此任命的历史意义，表示希望能鼓励更多变性人参与政治。文章也提及当时的社会环境和对变性人的支持政策，包括辛普森之前在工作中的经历。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_奥巴马任命首位变性人高官曾为希拉里服务[图]_资讯.md                             |
-> | Size            | 2257 bytes                           |
-> | Archived Date   | 2024-11-02 08:25:35                             |
-> | Original Link   | [https://news.ifeng.com/photo/news/201001/0105_1397_1499102.shtml](https://news.ifeng.com/photo/news/201001/0105_1397_1499102.shtml)                       |
-> | Author          | 李雪                               |
-> | Region          | 美国                               |
-> | Date            | 2010-01-05                                 |
-> | Tags            | 奥巴马, 变性人, 任命, 阿曼达·辛普森, 政府官员                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_奥巴马任命首位变性人高官曾为希拉里服务[图]_资讯.md                             |
+| Size            | 2257 bytes                           |
+| Archived Date   | 2024-11-02 08:25:35                             |
+| Original Link   | [https://news.ifeng.com/photo/news/201001/0105_1397_1499102.shtml](https://news.ifeng.com/photo/news/201001/0105_1397_1499102.shtml)                       |
+| Author          | 李雪                               |
+| Region          | 美国                               |
+| Date            | 2010-01-05                                 |
+| Tags            | 奥巴马, 变性人, 任命, 阿曼达·辛普森, 政府官员                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

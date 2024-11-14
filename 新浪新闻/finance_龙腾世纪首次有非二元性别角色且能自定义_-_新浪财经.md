@@ -34,18 +34,18 @@ _[0](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=kj&news
 本文介绍了在《龙腾世纪：影障守护者》游戏中首次出现非二元性别角色的消息。这一角色名为塔什（Tash），其性别认同在其个人旅程中得到了强调。在游戏中，玩家不仅可以选择不同的性别，还能为角色选择代词，从而深度参与角色的个性化表达。此外，讨论了之前《龙腾世纪：审判》中出现的跨性别男性角色克莱姆（Krem），尽管当时未使用“跨性别”这一词汇。文章强调了塞达斯地区日益涌现的LGBTQ+文化和对多样性角色表现的正向推动，包括在角色创建上的创新选择，让玩家可以更好地与角色产生共鸣。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | finance_龙腾世纪首次有非二元性别角色且能自定义_-_新浪财经.md                             |
-> | Size            | 2460 bytes                           |
-> | Archived Date   | 2024-11-09 06:27:36                             |
-> | Original Link   | [https://finance.sina.com.cn/tech/roll/2024-11-02/doc-incuseka2163398.shtml](https://finance.sina.com.cn/tech/roll/2024-11-02/doc-incuseka2163398.shtml)                       |
-> | Author          | 中关村在线                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2024-11-02                                 |
-> | Tags            | 跨性别, 非二元性别, 龙腾世纪, 角色创建, LGBTQ+, 游戏文化, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | finance_龙腾世纪首次有非二元性别角色且能自定义_-_新浪财经.md                             |
+| Size            | 2460 bytes                           |
+| Archived Date   | 2024-11-09 06:27:36                             |
+| Original Link   | [https://finance.sina.com.cn/tech/roll/2024-11-02/doc-incuseka2163398.shtml](https://finance.sina.com.cn/tech/roll/2024-11-02/doc-incuseka2163398.shtml)                       |
+| Author          | 中关村在线                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 跨性别, 非二元性别, 龙腾世纪, 角色创建, LGBTQ+, 游戏文化, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

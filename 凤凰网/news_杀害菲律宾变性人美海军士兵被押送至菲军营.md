@@ -22,18 +22,18 @@
 这篇文章报道了发生在2014年10月22日的一起事件，涉及美国海军士兵彭伯顿（Joseph Scott Pemberton）在菲律宾苏比克湾杀害变性人劳德（Jeffrey Laude）的案件。文章提到彭伯顿被指控后被押送至菲律宾军营，成为引发社会关注的焦点。此事件不仅涉及军事和法律的问题，还反映出跨性别群体在社会中面临的暴力和歧视。文章中包含多张相关图片，以及传达了该事件在当地引起的强烈反响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_杀害菲律宾变性人美海军士兵被押送至菲军营.md                             |
-> | Size            | 1393 bytes                           |
-> | Archived Date   | 2024-11-02 07:10:43                             |
-> | Original Link   | [https://news.ifeng.com/a/20141022/42269985_0.shtml](https://news.ifeng.com/a/20141022/42269985_0.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 菲律宾                               |
-> | Date            | 2014-10-22                                 |
-> | Tags            | 菲律宾, 海军, 苏比克湾, 跨性别, 暴力事件, 劳德, 彭伯顿                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_杀害菲律宾变性人美海军士兵被押送至菲军营.md                             |
+| Size            | 1393 bytes                           |
+| Archived Date   | 2024-11-02 07:10:43                             |
+| Original Link   | [https://news.ifeng.com/a/20141022/42269985_0.shtml](https://news.ifeng.com/a/20141022/42269985_0.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 菲律宾                               |
+| Date            | 2014-10-22                                 |
+| Tags            | 菲律宾, 海军, 苏比克湾, 跨性别, 暴力事件, 劳德, 彭伯顿                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -71,18 +71,18 @@
 该文件记录了一位名叫陈波的变性女性的经历，她于2005年11月23日成功出院，并向外界讲述了她的手术过程、出院后的感受以及遭遇的情感变故。陈波在手术后心中充满了对新生活的向往，同时也经历了男友与她正式分手的情感冲击。在出院当天，她的干妈和奶奶为她举行送别，并给予她关心与支持。尽管情感上遭遇挫折，她仍希望能够找到未来的爱人，积极面对生活。文件详细描绘了陈波的手术成功后与世俗环境的接触，以及她在公共场合遭人关注的情景，是对跨性别者在社会中生存状态的真实记录。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性女手术成功出院遭遇情变欲向全球征婚(图).md                             |
-> | Size            | 4783 bytes                           |
-> | Archived Date   | 2024-11-02 05:14:07                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-11-23/detail-ikknscsi8328365.d.html](https://news.sina.cn/sa/2005-11-23/detail-ikknscsi8328365.d.html)                       |
-> | Author          | 华商网-重庆时报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-11-23                                 |
-> | Tags            | 跨性别, 变性手术, 情感经历, 社会接受度, 生存现状, 个人故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性女手术成功出院遭遇情变欲向全球征婚(图).md                             |
+| Size            | 4783 bytes                           |
+| Archived Date   | 2024-11-02 05:14:07                             |
+| Original Link   | [https://news.sina.cn/sa/2005-11-23/detail-ikknscsi8328365.d.html](https://news.sina.cn/sa/2005-11-23/detail-ikknscsi8328365.d.html)                       |
+| Author          | 华商网-重庆时报                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-11-23                                 |
+| Tags            | 跨性别, 变性手术, 情感经历, 社会接受度, 生存现状, 个人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

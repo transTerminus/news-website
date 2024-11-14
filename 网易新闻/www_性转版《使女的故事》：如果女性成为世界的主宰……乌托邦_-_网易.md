@@ -75,18 +75,18 @@
 本文件探讨了一部以女性为主角的科幻小说《力量》，作者为英国女作家娜奥米·阿尔德曼。该小说设想了一个女性获得超自然力量统治世界的情景，反映了女性解放的复杂性和潜在的极端后果。文本通过对比与玛格丽特·阿特伍德的《使女的故事》，讨论了性别角色的颠覆，社会权力的重塑，以及暴力与解放之间微妙的平衡。内容提到了女性如何利用这种力量反抗压迫，同时也探讨了在建立女性共和国后面临的挑战和道德困境，提出了一系列深刻的社会和心理问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_性转版《使女的故事》：如果女性成为世界的主宰……乌托邦_-_网易.md                             |
-> | Size            | 17075 bytes                           |
-> | Archived Date   | 2024-11-08 06:28:30                             |
-> | Original Link   | [https://www.163.com/dy/article/G9DP4GVD0534MZG7.html](https://www.163.com/dy/article/G9DP4GVD0534MZG7.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2021-05-07                                 |
-> | Tags            | 跨性别, 女性主义, 科幻小说, 社会问题, 性别权力, 反乌托邦, 女性解放, 娜奥米·阿尔德曼                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_性转版《使女的故事》：如果女性成为世界的主宰……乌托邦_-_网易.md                             |
+| Size            | 17075 bytes                           |
+| Archived Date   | 2024-11-08 06:28:30                             |
+| Original Link   | [https://www.163.com/dy/article/G9DP4GVD0534MZG7.html](https://www.163.com/dy/article/G9DP4GVD0534MZG7.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2021-05-07                                 |
+| Tags            | 跨性别, 女性主义, 科幻小说, 社会问题, 性别权力, 反乌托邦, 女性解放, 娜奥米·阿尔德曼                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

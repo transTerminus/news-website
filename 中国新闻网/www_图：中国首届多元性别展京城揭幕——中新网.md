@@ -19,18 +19,18 @@
 本文介绍了中国首届多元性别艺术展的揭幕盛况，该展览于2009年6月14日在北京宋庄艺术区举行。展览主题围绕“多元、平等、实验、性别”，旨在关注LGBT群体，包括男女同性恋、双性恋和跨性别者。自2008年开始征集参展作品，汇聚了众多来自不同背景的艺术家的创作，通过多种表现形式与媒介，展现了多样的思想和视觉冲击。现场参展艺术家与众多参观者进行了互动，展览为推动性别平等和多样性文化的表达提供了重要平台。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_图：中国首届多元性别展京城揭幕——中新网.md                             |
-> | Size            | 902 bytes                           |
-> | Archived Date   | 2024-11-08 10:48:06                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/tp-shfq/news/2009/06-15/1733590.shtml](https://www.chinanews.com.cn/tp/tp-shfq/news/2009/06-15/1733590.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2009-06-14                                 |
-> | Tags            | 多元性别, 艺术展, LGBT群体, 跨性别, 平等, 文化活动                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_图：中国首届多元性别展京城揭幕——中新网.md                             |
+| Size            | 902 bytes                           |
+| Archived Date   | 2024-11-08 10:48:06                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/tp-shfq/news/2009/06-15/1733590.shtml](https://www.chinanews.com.cn/tp/tp-shfq/news/2009/06-15/1733590.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-06-14                                 |
+| Tags            | 多元性别, 艺术展, LGBT群体, 跨性别, 平等, 文化活动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

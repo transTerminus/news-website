@@ -79,18 +79,18 @@
 这篇文章讨论了成功人士与抑郁症之间的关系，并探讨了人格特征如何影响心理健康。作者首先总结了性格对人的身心健康的重要性，提出了抑郁症在全球范围内的普遍性及其对个体的严重影响。文章引用了韩国多位明星的自杀事件，指出抑郁症被称为“隐性杀手”，自杀率极高。接着，作者分析了不同类型的人格特征，包括“精力旺盛型”、“性格抑郁型”和“环性人格”，指出这些特征可能使成功人士更容易患上抑郁症。最后，文章提供了一些减压的建议，以提醒有抑郁倾向的人及时寻求帮助和治疗，并建议培养健康的人格特征，以改善心理健康。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_成功人士更容易患抑郁症与人格性格有关_-_中国新闻网.md                             |
-> | Size            | 7276 bytes                           |
-> | Archived Date   | 2024-11-08 10:05:10                             |
-> | Original Link   | [https://www.chinanews.com.cn/jk/xljk/news/2009/03-12/1599128.shtml](https://www.chinanews.com.cn/jk/xljk/news/2009/03-12/1599128.shtml)                       |
-> | Author          | 郭冬仙                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2009-03-12                                 |
-> | Tags            | 抑郁症, 心理健康, 人格特征, 成功人士, 南方日报, 双相障碍                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_成功人士更容易患抑郁症与人格性格有关_-_中国新闻网.md                             |
+| Size            | 7276 bytes                           |
+| Archived Date   | 2024-11-08 10:05:10                             |
+| Original Link   | [https://www.chinanews.com.cn/jk/xljk/news/2009/03-12/1599128.shtml](https://www.chinanews.com.cn/jk/xljk/news/2009/03-12/1599128.shtml)                       |
+| Author          | 郭冬仙                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-03-12                                 |
+| Tags            | 抑郁症, 心理健康, 人格特征, 成功人士, 南方日报, 双相障碍                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

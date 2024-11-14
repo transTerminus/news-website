@@ -58,18 +58,18 @@
 这篇文章报道了一名山东男子高婷婷在南京东方医院进行变性手术时遇到的法律纠纷。因医院要求他提供离婚证明，而他只提供了离婚协议书，最终导致手术被中断。高婷婷不满医院的做法，遂将医院告上法庭，要求履行合同并进行手术。虽然一审判决驳回了他的请求，但南京中级法院对此案进行了再审，并认同在法律未禁止已婚者变性情况下，婚姻法的相关规定存在冲突。法院指出应允许当事人选择是否在变性前离婚。这一判决引发了对现行《婚姻法》的讨论，及其在跨性别者权利方面的空白。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_男子做变性手术意外中断医院被判赔偿5万元.md                             |
-> | Size            | 3827 bytes                           |
-> | Archived Date   | 2024-11-02 05:01:31                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html](https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html)                       |
-> | Author          | 东方早报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-05-18                                 |
-> | Tags            | 变性手术, 法律案例, 跨性别权利, 婚姻法, 医疗纠纷                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_男子做变性手术意外中断医院被判赔偿5万元.md                             |
+| Size            | 3827 bytes                           |
+| Archived Date   | 2024-11-02 05:01:31                             |
+| Original Link   | [https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html](https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html)                       |
+| Author          | 东方早报                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-05-18                                 |
+| Tags            | 变性手术, 法律案例, 跨性别权利, 婚姻法, 医疗纠纷                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

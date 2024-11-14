@@ -60,18 +60,18 @@
 本文报道了伊朗变性人群体的生活现状与社会态度的变化，揭示了在传统宗教背景下，他们所面临的挑战与适应。文章开始时提到，在伊朗，男同性恋和女同性恋面临极严酷的法律惩罚，但在变性问题上，依然有部分人能够在宗教允许的范围内合法改变性别。作者通过讲述一些变性人的真实故事，展示了他们的艰辛和社会接受度的逐步提升。文章中的人物，例如经历变性手术的商人托米克·马丁，向读者展示了变性人寻求爱情与社会认同的复杂过程。此外，文中也讨论了伊朗政府的分歧与变性手术的实施情况，描绘出变性人从隐秘到逐渐被接受的艰辛历程。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美国媒体刊文披露伊朗变性一族的秘密生活.md                             |
-> | Size            | 5541 bytes                           |
-> | Archived Date   | 2024-11-02 04:57:28                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-01-25/detail-ikknscsi5634736.d.html?from=wap](https://news.sina.cn/sa/2005-01-25/detail-ikknscsi5634736.d.html?from=wap)                       |
-> | Author          | 新浪新闻官方                               |
-> | Region          | 伊朗                               |
-> | Date            | 2005-01-25                                 |
-> | Tags            | 跨性别, 变性人, 伊朗, 社会接受度, 宗教背景, 变性手术, 生命故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美国媒体刊文披露伊朗变性一族的秘密生活.md                             |
+| Size            | 5541 bytes                           |
+| Archived Date   | 2024-11-02 04:57:28                             |
+| Original Link   | [https://news.sina.cn/sa/2005-01-25/detail-ikknscsi5634736.d.html?from=wap](https://news.sina.cn/sa/2005-01-25/detail-ikknscsi5634736.d.html?from=wap)                       |
+| Author          | 新浪新闻官方                               |
+| Region          | 伊朗                               |
+| Date            | 2005-01-25                                 |
+| Tags            | 跨性别, 变性人, 伊朗, 社会接受度, 宗教背景, 变性手术, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -22,18 +22,18 @@
 本文讲述了亚美尼亚首位跨性别人士在议会发言后收到了死亡威胁的事件。该跨性别人士为LGBTI群体发声，控诉在亚美尼亚遭受的不公平待遇，却因此受到保守派的强烈反对和威胁，甚至有人扬言要将其活活烧死。这一事件突显了亚美尼亚社会中对跨性别和LGBTI群体的严重歧视与暴力现象。根据国际同性恋协会的调查，东欧地区对同性恋的态度最为严苛，亚美尼亚在此排名倒数第二。2018年，该国共记录到283起针对跨性别人士的犯罪，表明跨性别者在这一地区的生存现状堪忧。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_亚美尼亚首位变性人为少数群体发声保守派：烧死她.md                             |
-> | Size            | 1131 bytes                           |
-> | Archived Date   | 2024-11-02 08:02:04                             |
-> | Original Link   | [https://news.ifeng.com/c/7mEw4vOFx4q](https://news.ifeng.com/c/7mEw4vOFx4q)                       |
-> | Author          | 新京报网                               |
-> | Region          | 亚美尼亚                               |
-> | Date            | 2019-04-28                                 |
-> | Tags            | 跨性别, LGBTI权利, 社会歧视, 暴力威胁, 人权, 东欧, 亚美尼亚                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_亚美尼亚首位变性人为少数群体发声保守派：烧死她.md                             |
+| Size            | 1131 bytes                           |
+| Archived Date   | 2024-11-02 08:02:04                             |
+| Original Link   | [https://news.ifeng.com/c/7mEw4vOFx4q](https://news.ifeng.com/c/7mEw4vOFx4q)                       |
+| Author          | 新京报网                               |
+| Region          | 亚美尼亚                               |
+| Date            | 2019-04-28                                 |
+| Tags            | 跨性别, LGBTI权利, 社会歧视, 暴力威胁, 人权, 东欧, 亚美尼亚                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -68,18 +68,18 @@
 该文件报道了美国白宫聘用拉菲·弗里德曼·格斯潘为首位公开身份的跨性别员工作为人事部门主管的新闻。这一历史性任命于2015年8月18日生效，引发了美国LGBT群体的欢呼。文中详细介绍了格斯潘的背景，包括她的成长经历、教育经历以及在变性人权益平等中心的工作，强调了她在社会运动中的贡献。同时，文件还引用了奥巴马顾问瓦莱丽·贾勒特和变性人权益平等中心执行主任玛拉·凯斯林对格斯潘的评价，指出她的任命不仅体现了个人能力的认可，也传递了政府对LGBT群体权益支持的信号。本文反映了跨性别者在社会中的地位变化及其面临的挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_白宫聘用首位变性人员工主管人事部门.md                             |
-> | Size            | 3273 bytes                           |
-> | Archived Date   | 2024-11-02 03:25:15                             |
-> | Original Link   | [http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html](http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html)                       |
-> | Author          | 环球时报特约记者 周璇                               |
-> | Region          | 美国                               |
-> | Date            | 2015-08-20                                 |
-> | Tags            | 跨性别, LGBT, 白宫, 人事任命, 社会运动, 变性人权益, 奥巴马, 美国政治                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_白宫聘用首位变性人员工主管人事部门.md                             |
+| Size            | 3273 bytes                           |
+| Archived Date   | 2024-11-02 03:25:15                             |
+| Original Link   | [http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html](http://news.sina.cn/gj/2015-08-20/detail-ifxhcvrn0007704.d.html)                       |
+| Author          | 环球时报特约记者 周璇                               |
+| Region          | 美国                               |
+| Date            | 2015-08-20                                 |
+| Tags            | 跨性别, LGBT, 白宫, 人事任命, 社会运动, 变性人权益, 奥巴马, 美国政治                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

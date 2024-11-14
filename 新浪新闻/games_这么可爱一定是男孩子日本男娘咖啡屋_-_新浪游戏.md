@@ -39,18 +39,18 @@
 该文件来自新浪游戏，文章标题为《这么可爱一定是男孩子 日本男娘咖啡屋》。文章介绍了一家日本的男娘咖啡屋NewType，文章开头提到了一部日剧《孤独的美食家》，讲述了一位老板在寻找美食的过程中，回想起一位同事的故事，该同事在寻找自我过程中变成了伪娘。男子咖啡屋是现代社会中的一种新兴文化现象，文章通过描述这一咖啡店的存在，引发读者对性别认同和表现的思考。相关内容中还提到了一些链接，链接了与伪娘文化相关的文章，进一步拓展了这一主题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | games_这么可爱一定是男孩子日本男娘咖啡屋_-_新浪游戏.md                             |
-> | Size            | 1704 bytes                           |
-> | Archived Date   | 2024-11-09 05:40:18                             |
-> | Original Link   | [http://games.sina.cn/pi/eb/2013-09-13/detail-icfkptvx2820959.d.html](http://games.sina.cn/pi/eb/2013-09-13/detail-icfkptvx2820959.d.html)                       |
-> | Author          | 新浪游戏                               |
-> | Region          | 未知                               |
-> | Date            | 2013-09-13                                 |
-> | Tags            | 男娘, 日本文化, 伪娘咖啡屋, 性别认同, 生活方式, 文化现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | games_这么可爱一定是男孩子日本男娘咖啡屋_-_新浪游戏.md                             |
+| Size            | 1704 bytes                           |
+| Archived Date   | 2024-11-09 05:40:18                             |
+| Original Link   | [http://games.sina.cn/pi/eb/2013-09-13/detail-icfkptvx2820959.d.html](http://games.sina.cn/pi/eb/2013-09-13/detail-icfkptvx2820959.d.html)                       |
+| Author          | 新浪游戏                               |
+| Region          | 未知                               |
+| Date            | 2013-09-13                                 |
+| Tags            | 男娘, 日本文化, 伪娘咖啡屋, 性别认同, 生活方式, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -84,18 +84,18 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 该文件详细记录了一位52岁男子黄华（化名）的变性愿望和经历。文章开篇描述了黄华从小喜欢穿女性衣物，年幼时即对女性的角色充满羡慕，甚至参加学校的戏剧表演中扮演女性角色。随着成年，他的变性愿望日益强烈，然而却因经济困难未能进行变性手术。黄华的婚姻因其性别认同问题而破裂，妻子对其女性化行为感到反感，最终选择分居。尽管面临社会舆论的压力，黄华依然决定追求自我认同，期望变性手术能够实现他向往的生活。文件中也提到了一些专家的观点，指出青春期的性别引导对性别认同的重要性，并对黄华的心理状态进行分析。整个记录突显了跨性别者在社会中面临的重重挑战与困境。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_五旬老汉欲接受变性手术从小爱穿女人衣服(图).md                             |
-> | Size            | 4894 bytes                           |
-> | Archived Date   | 2024-11-02 05:02:06                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-06-21/detail-ikkntiam3859133.d.html](https://news.sina.cn/sa/2005-06-21/detail-ikkntiam3859133.d.html)                       |
-> | Author          | 卢先兵                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-06-21                                 |
-> | Tags            | 跨性别, 变性手术, 性别认同, 生命故事, 社会环境, 性心理障碍                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_五旬老汉欲接受变性手术从小爱穿女人衣服(图).md                             |
+| Size            | 4894 bytes                           |
+| Archived Date   | 2024-11-02 05:02:06                             |
+| Original Link   | [https://news.sina.cn/sa/2005-06-21/detail-ikkntiam3859133.d.html](https://news.sina.cn/sa/2005-06-21/detail-ikkntiam3859133.d.html)                       |
+| Author          | 卢先兵                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-06-21                                 |
+| Tags            | 跨性别, 变性手术, 性别认同, 生命故事, 社会环境, 性心理障碍                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

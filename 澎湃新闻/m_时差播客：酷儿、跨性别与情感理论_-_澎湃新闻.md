@@ -213,18 +213,18 @@
 本文为澎湃新闻发布的时差播客的文字稿，专题讨论了酷儿、跨性别与情感理论，主要由香港大学与哥伦比亚大学的学者们共同探讨。文章开头提及性别议题近年来在国内外受到的关注，同时面临性别二元对立等挑战。不同学者分享了他们主要研究方向，尤其是如何从心理学与哲学的角度理解性别与种族之间的交织，涉及到的主题包括情感理论如何塑造对跨性别及酷儿身份的理解以及其理论在社会运动中的应用。特别是提到的羞耻、偏执等情感，展现了这些理论如何对社会产生深远影响。此外，也探讨了酷儿理论的发展历史及其与跨性别研究的关系，面临的争议以及文化的流动与反思。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_时差播客：酷儿、跨性别与情感理论_-_澎湃新闻.md                             |
-> | Size            | 55318 bytes                           |
-> | Archived Date   | 2024-11-10 22:27:26                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=10329870&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10329870&from=wifiKey)                       |
-> | Author          | 龚思量                               |
-> | Region          | 未知                               |
-> | Date            | 2020-12-11                                 |
-> | Tags            | 酷儿, 跨性别, 情感理论, 性别研究, 心理学, 哲学, 社会运动, 性别身份, 生存现状, 文化研究                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_时差播客：酷儿、跨性别与情感理论_-_澎湃新闻.md                             |
+| Size            | 55318 bytes                           |
+| Archived Date   | 2024-11-10 22:27:26                             |
+| Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=10329870&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10329870&from=wifiKey)                       |
+| Author          | 龚思量                               |
+| Region          | 未知                               |
+| Date            | 2020-12-11                                 |
+| Tags            | 酷儿, 跨性别, 情感理论, 性别研究, 心理学, 哲学, 社会运动, 性别身份, 生存现状, 文化研究                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

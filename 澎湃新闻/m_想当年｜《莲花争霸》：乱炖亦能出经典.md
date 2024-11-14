@@ -72,18 +72,18 @@
 该文件讨论了1994年新加坡电视剧《莲花争霸》的制作、情节和文化影响，重点分析了剧中的变性人物白玉川，以及围绕他的复杂情感关系和角色构建。文章分为多个部分，回顾了上世纪90年代初期中新电视剧交流的背景，介绍了该剧的故事情节、角色设定及演员表现。特别指出了男女反串的元素及其对观众的影响，强调了白玉川的角色塑造和情感纠葛。在剧情中，白玉川在变性后以段素素的身份复仇，并在剧中成为真正的主角。除了讲述剧情外，文章还评论了剧集的受欢迎程度以及它在影视文化中的影响，指出其杂糅多部经典作品元素的成功之处。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_想当年｜《莲花争霸》：乱炖亦能出经典.md                             |
-> | Size            | 7049 bytes                           |
-> | Archived Date   | 2024-11-10 21:52:41                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=27918367&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=27918367&from=kuaibao)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 电视剧, 文化影响, 白玉川, 性别角色, 剧情分析, 武侠剧, 情感关系                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_想当年｜《莲花争霸》：乱炖亦能出经典.md                             |
+| Size            | 7049 bytes                           |
+| Archived Date   | 2024-11-10 21:52:41                             |
+| Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=27918367&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=27918367&from=kuaibao)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 电视剧, 文化影响, 白玉川, 性别角色, 剧情分析, 武侠剧, 情感关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -39,18 +39,18 @@
 本文讨论了台湾艺人罗志祥近年来在泰国以新身份复出的现象，尤其是他以“朱碧石”的女性形象重新出道。文章回顾了罗志祥在2020年因私生活丑闻而事业骤然下降的经历，并分析了他在泰国重新启程的背景和动机。罗志祥获取了意外的成功，引发社会关于艺人复出、道德责任和娱乐圈现象的广泛讨论。部分人认为这一转变可能传递了错误的价值观，特别是对年轻观众的影响；同时，也有人认为这是对艺人个人求生存的反映。文章深入探讨了这一事件对公众人物责任、娱乐圈生态以及文化差异的启示，强调了对艺人行为的道德期待和社会责任。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_罗志祥“变性”在泰国重新出道，网友：疯得不像正常人_-_网易.md                             |
-> | Size            | 4139 bytes                           |
-> | Archived Date   | 2024-11-08 08:11:56                             |
-> | Original Link   | [https://www.163.com/dy/article/JCHFLH8T05569BNG.html](https://www.163.com/dy/article/JCHFLH8T05569BNG.html)                       |
-> | Author          | 南城无双                               |
-> | Region          | 台湾                               |
-> | Date            | 2024-09-20                                 |
-> | Tags            | 跨性别, 明星复出, 社会讨论, 娱乐圈现象, 公众责任, 文化差异                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_罗志祥“变性”在泰国重新出道，网友：疯得不像正常人_-_网易.md                             |
+| Size            | 4139 bytes                           |
+| Archived Date   | 2024-11-08 08:11:56                             |
+| Original Link   | [https://www.163.com/dy/article/JCHFLH8T05569BNG.html](https://www.163.com/dy/article/JCHFLH8T05569BNG.html)                       |
+| Author          | 南城无双                               |
+| Region          | 台湾                               |
+| Date            | 2024-09-20                                 |
+| Tags            | 跨性别, 明星复出, 社会讨论, 娱乐圈现象, 公众责任, 文化差异                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

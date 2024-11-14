@@ -57,18 +57,18 @@
 该文件是关于电影《黑客帝国》的导演拉里·沃卓斯基于2012年公开变性后的新闻报道。文章详细描述了拉里从变性后的首次亮相及公众反应，提到他在新片《云图》的宣传中变身为女性，并将萧条的生存状态与个人经历结合，探讨社会对跨性别者的态度。自2003年起，关于拉里的变性传闻屡见不鲜，直到2012年其变性事务得到确认，媒体对此进行了广泛的关注与讨论。文章中引用作家大卫·波兰和多位知情人的观点，透彻传达了拉里变性对娱乐圈的冲击及个人生活的变化，同时也反映出社会对跨性别者认同的复杂性与挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | ent_《黑客帝国》导演拉里变性吓晕影迷(图)_-_娱乐-_新浪.md                             |
-> | Size            | 3731 bytes                           |
-> | Archived Date   | 2024-11-09 05:37:20                             |
-> | Original Link   | [http://ent.sina.cn/star/euro_usa/2012-08-03/detail-iawzunex6093870.d.html?from=wap](http://ent.sina.cn/star/euro_usa/2012-08-03/detail-iawzunex6093870.d.html?from=wap)                       |
-> | Author          | 华商网-华商报                               |
-> | Region          | 美国                               |
-> | Date            | 2012-08-03                                 |
-> | Tags            | 跨性别, 变性经历, 电影导演, 社会态度, 媒体报道, 娱乐圈, 拉里·沃卓斯基                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ent_《黑客帝国》导演拉里变性吓晕影迷(图)_-_娱乐-_新浪.md                             |
+| Size            | 3731 bytes                           |
+| Archived Date   | 2024-11-09 05:37:20                             |
+| Original Link   | [http://ent.sina.cn/star/euro_usa/2012-08-03/detail-iawzunex6093870.d.html?from=wap](http://ent.sina.cn/star/euro_usa/2012-08-03/detail-iawzunex6093870.d.html?from=wap)                       |
+| Author          | 华商网-华商报                               |
+| Region          | 美国                               |
+| Date            | 2012-08-03                                 |
+| Tags            | 跨性别, 变性经历, 电影导演, 社会态度, 媒体报道, 娱乐圈, 拉里·沃卓斯基                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

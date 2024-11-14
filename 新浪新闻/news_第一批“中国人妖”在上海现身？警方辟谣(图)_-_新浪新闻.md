@@ -35,18 +35,18 @@
 该文件来自新浪新闻，内容涉及一起有关跨性别群体的谣言事件，标题为《第一批“中国人妖”在上海现身？警方辟谣(图)》。文中提到，近期在社交网络上流传数段视频，声称“第一批‘中国人妖’在上海衡山路显身”。经过上海警方的调查，发现这些视频的真实发生地点为深圳，而谣言的制造者为一名66岁的男子，因开玩笑而发布了虚假信息。警方随后对该男子进行了教育，强调散布谣言的法律责任。文章中还提到，公众应避免传播未经证实的信息。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_第一批“中国人妖”在上海现身？警方辟谣(图)_-_新浪新闻.md                             |
-> | Size            | 1797 bytes                           |
-> | Archived Date   | 2024-11-09 07:44:58                             |
-> | Original Link   | [https://news.sina.cn/sh/2018-09-21/detail-ifxeuwwr6935452.d.html?vt=4](https://news.sina.cn/sh/2018-09-21/detail-ifxeuwwr6935452.d.html?vt=4)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-09-21                                 |
-> | Tags            | 跨性别, 谣言, 法律政策, 社会环境, 上海, 深圳                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_第一批“中国人妖”在上海现身？警方辟谣(图)_-_新浪新闻.md                             |
+| Size            | 1797 bytes                           |
+| Archived Date   | 2024-11-09 07:44:58                             |
+| Original Link   | [https://news.sina.cn/sh/2018-09-21/detail-ifxeuwwr6935452.d.html?vt=4](https://news.sina.cn/sh/2018-09-21/detail-ifxeuwwr6935452.d.html?vt=4)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-09-21                                 |
+| Tags            | 跨性别, 谣言, 法律政策, 社会环境, 上海, 深圳                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

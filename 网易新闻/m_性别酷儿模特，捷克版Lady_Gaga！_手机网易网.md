@@ -46,18 +46,18 @@ Maty 就是我心中的捷克版 Lady Gaga，Maty 是一个 Lady，也是 Gaga�
 本文介绍了一位来自捷克的性别酷儿模特Maty Drazek，他因其独特的风格和表现力而蜚声时尚界。Maty Drazek出生于捷克共和国，年仅十八岁便在模特网站MDC年度新人男模特比赛中取得佳绩。他在2021年拍摄了一些艺术大片，随后于2022年登上捷克斯洛伐克版《VOGUE》杂志封面，被评为捷克和斯洛伐克地区最有前途的20名新人男模特。因此，他顺利进入国际时尚圈。Maty表现出色，不论是身穿男装或女装，都能完美驾驭，展现出性别模糊的时尚风格。此外，Maty Drazek还参与了MiuMiu女装时尚广告的拍摄，进一步推动了性别酷儿模特在时尚界的影响力。文章通过对Maty的描述，体现了当今时尚界对性别多元化与包容性的肯定与支持。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_性别酷儿模特，捷克版Lady_Gaga！_手机网易网.md                             |
-> | Size            | 2113 bytes                           |
-> | Archived Date   | 2024-11-08 05:14:21                             |
-> | Original Link   | [https://m.163.com/dy/article/HQTTD83K0518BTS1.html](https://m.163.com/dy/article/HQTTD83K0518BTS1.html)                       |
-> | Author          | 未知                               |
-> | Region          | 捷克                               |
-> | Date            | 未知                                 |
-> | Tags            | 性别酷儿, 模特, 男模特, 女装, 捷克, 时尚                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性别酷儿模特，捷克版Lady_Gaga！_手机网易网.md                             |
+| Size            | 2113 bytes                           |
+| Archived Date   | 2024-11-08 05:14:21                             |
+| Original Link   | [https://m.163.com/dy/article/HQTTD83K0518BTS1.html](https://m.163.com/dy/article/HQTTD83K0518BTS1.html)                       |
+| Author          | 未知                               |
+| Region          | 捷克                               |
+| Date            | 未知                                 |
+| Tags            | 性别酷儿, 模特, 男模特, 女装, 捷克, 时尚                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

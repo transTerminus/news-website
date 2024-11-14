@@ -64,18 +64,18 @@
 本文讲述了74岁的艾普萝·阿什利的传奇变性经历和她与法律的斗争。阿什利是英国第一位接受变性手术的女性，早在1960年她就进行的变性手术，从此在社会中成为了女性。但在近半个世纪的时间内，她的身份没有得到法律承认，这给她带来了巨大的困扰。她的故事中涵盖了从少年时期的身份认同挣扎，到作为模特走红，再到因婚姻问题与法律对抗的辛酸历程。最终，在2004年，英国通过了性别承认法案，阿什利终于获得了法律上作为女性的正式认定，这成为她人生旅程中的一个重要里程碑。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性45年，法律才认我是女.md                             |
-> | Size            | 6757 bytes                           |
-> | Archived Date   | 2024-11-02 06:10:44                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-11-25/detail-ikmxzfmi9468884.d.html?from=wap](https://news.sina.cn/sa/2009-11-25/detail-ikmxzfmi9468884.d.html?from=wap)                       |
-> | Author          | 《扬子晚报》                               |
-> | Region          | 未知                               |
-> | Date            | 2009-11-25                                 |
-> | Tags            | 变性人, 跨性别经历, 身份认同, 法律问题, 医疗经历, 社会环境, 个人故事, 性别承认法案                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性45年，法律才认我是女.md                             |
+| Size            | 6757 bytes                           |
+| Archived Date   | 2024-11-02 06:10:44                             |
+| Original Link   | [https://news.sina.cn/sa/2009-11-25/detail-ikmxzfmi9468884.d.html?from=wap](https://news.sina.cn/sa/2009-11-25/detail-ikmxzfmi9468884.d.html?from=wap)                       |
+| Author          | 《扬子晚报》                               |
+| Region          | 未知                               |
+| Date            | 2009-11-25                                 |
+| Tags            | 变性人, 跨性别经历, 身份认同, 法律问题, 医疗经历, 社会环境, 个人故事, 性别承认法案                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

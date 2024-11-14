@@ -101,18 +101,18 @@ New Production From The West:Tomorrowland
 本文件是关于塞巴斯蒂安·利夫施兹执导的纪录片《小女孩》的详细介绍与解读。影片讲述了一个名叫萨沙的小男孩的跨性别认同经历，深刻探讨了性别认同问题及其对儿童成长的影响。萨沙自八岁起就深知自己是一个女孩，尽管她生理上是男孩。影片通过她的成长过程，反映出社会对性别的固有定义和对跨性别者的接受程度，展示了对这一现象的关怀与思考。此外，导演在访谈中提到，跨性别认同并不是青春期的专属现象，而可能在更小的年龄就已显现。对于家庭支持的重要性，导演强调了萨沙的家庭在这一过程中所扮演的保护和支持角色，描绘了一幅母女情深的画面。同时，文章还提到导演对拍摄的思考，例如拍摄时如何保持孩子的视角，尽量让观众与萨沙的情感建立共鸣。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_塞巴斯蒂安·利夫施兹：一个孩子的跨性别认同_-_澎湃新闻.md                             |
-> | Size            | 13930 bytes                           |
-> | Archived Date   | 2024-11-10 22:21:53                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9345776](https://m.thepaper.cn/newsDetail_forward_9345776)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 性别认同, 纪实电影, 儿童成长, 性别焦虑, 塞巴斯蒂安·利夫施兹, 纪录片, 家庭支持                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_塞巴斯蒂安·利夫施兹：一个孩子的跨性别认同_-_澎湃新闻.md                             |
+| Size            | 13930 bytes                           |
+| Archived Date   | 2024-11-10 22:21:53                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_9345776](https://m.thepaper.cn/newsDetail_forward_9345776)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 纪实电影, 儿童成长, 性别焦虑, 塞巴斯蒂安·利夫施兹, 纪录片, 家庭支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

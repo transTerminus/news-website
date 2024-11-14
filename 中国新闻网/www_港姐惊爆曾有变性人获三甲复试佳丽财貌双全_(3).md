@@ -35,18 +35,18 @@ Debbie Lau作风高调。
 该文件是关于一位跨性别女性Debbie Lau参选2010年香港小姐竞选的报道，首次公开揭示她的变性背景。文章详细介绍了Debbie Lau的家庭背景，她出生于富裕之家，家族从事美容行业。Debbie在学校时期已经是风头人物，吸引了众多追求者。文件提到她因美貌和高挑的身形而备受瞩目，同时在媒体上频繁曝光，与多位嫩模及男性名人合照。文件还展示了一些与港姐选举相关的新闻，同时提供了Debbie在社交场合的照片，增加了对她个人形象的理解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_港姐惊爆曾有变性人获三甲复试佳丽财貌双全_(3).md                             |
-> | Size            | 2128 bytes                           |
-> | Archived Date   | 2024-11-08 09:21:02                             |
-> | Original Link   | [http://www.chinanews.com.cn/yl/news/2010/05-24/2299897.shtml](http://www.chinanews.com.cn/yl/news/2010/05-24/2299897.shtml)                       |
-> | Author          | 信息时报                               |
-> | Region          | 香港                               |
-> | Date            | 2010-05-24                                 |
-> | Tags            | 跨性别, 香港小姐, 变性人, 媒体报道, 社会现象, 女性形象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_港姐惊爆曾有变性人获三甲复试佳丽财貌双全_(3).md                             |
+| Size            | 2128 bytes                           |
+| Archived Date   | 2024-11-08 09:21:02                             |
+| Original Link   | [http://www.chinanews.com.cn/yl/news/2010/05-24/2299897.shtml](http://www.chinanews.com.cn/yl/news/2010/05-24/2299897.shtml)                       |
+| Author          | 信息时报                               |
+| Region          | 香港                               |
+| Date            | 2010-05-24                                 |
+| Tags            | 跨性别, 香港小姐, 变性人, 媒体报道, 社会现象, 女性形象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

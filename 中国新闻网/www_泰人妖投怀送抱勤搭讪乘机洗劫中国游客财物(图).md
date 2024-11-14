@@ -28,18 +28,18 @@
 本文报道了2016年在泰国芭堤雅发生的多起与变性人相关的抢劫案件。内容强调了近期游客在该地区面临的安全隐患，特别是变性人（通常被称为“人妖”）通过搭讪和拉拽的方式进行财物盗窃的情况。报道中提到，几名中国和外国游客在海滩和夜总会遭遇了抢劫事件，且警方对此现象表示关注，并将增强打击措施。文章还指出暴力事件的恶化趋势和游客的安全风险，令人堪忧。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_泰人妖投怀送抱勤搭讪乘机洗劫中国游客财物(图).md                             |
-> | Size            | 2485 bytes                           |
-> | Archived Date   | 2024-11-08 10:24:58                             |
-> | Original Link   | [https://www.chinanews.com.cn/m/sh/2016/04-27/7849446.shtml](https://www.chinanews.com.cn/m/sh/2016/04-27/7849446.shtml)                       |
-> | Author          | 参考消息网                               |
-> | Region          | 泰国                               |
-> | Date            | 2016-04-27                                 |
-> | Tags            | 跨性别, 旅游安全, 变性人, 抢劫案件, 芭堤雅, 社会现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰人妖投怀送抱勤搭讪乘机洗劫中国游客财物(图).md                             |
+| Size            | 2485 bytes                           |
+| Archived Date   | 2024-11-08 10:24:58                             |
+| Original Link   | [https://www.chinanews.com.cn/m/sh/2016/04-27/7849446.shtml](https://www.chinanews.com.cn/m/sh/2016/04-27/7849446.shtml)                       |
+| Author          | 参考消息网                               |
+| Region          | 泰国                               |
+| Date            | 2016-04-27                                 |
+| Tags            | 跨性别, 旅游安全, 变性人, 抢劫案件, 芭堤雅, 社会现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

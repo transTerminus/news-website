@@ -71,18 +71,18 @@
 该文件来自跨性别档案馆，主要记录了浙江传媒学院发生的一起事件，涉及该校一名学生池梓灿因传播黄色图片而引起的社会关注。文件通过微博作者witch103的视角，详细描述了事件的经过及其引发的社会反响，指责学校在处理此事件时未能给予应有的重视，反而选择了保护错误行为。通过多条微博，witch103表达了对当事学生行为的谴责以及对学校管理的失望，认为校方态度模糊，缺乏责任感，这不仅涉及到社会道德，还引发了对校园环境的反思。本文还附带多张相关图片和视频，进一步丰富了事件的呈现。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_witch103_-_微博.md                             |
-> | Size            | 7428 bytes                           |
-> | Archived Date   | 2024-11-09 07:15:38                             |
-> | Original Link   | [https://m.weibo.cn/u/7494833629?luicode=10000011&lfid=1005057621518452&featurecode=sinanews20170424](https://m.weibo.cn/u/7494833629?luicode=10000011&lfid=1005057621518452&featurecode=sinanews20170424)                       |
-> | Author          | witch103                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 社会事件, 浙江传媒学院, 维权, 校园环境, 网络舆论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_witch103_-_微博.md                             |
+| Size            | 7428 bytes                           |
+| Archived Date   | 2024-11-09 07:15:38                             |
+| Original Link   | [https://m.weibo.cn/u/7494833629?luicode=10000011&lfid=1005057621518452&featurecode=sinanews20170424](https://m.weibo.cn/u/7494833629?luicode=10000011&lfid=1005057621518452&featurecode=sinanews20170424)                       |
+| Author          | witch103                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 社会事件, 浙江传媒学院, 维权, 校园环境, 网络舆论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

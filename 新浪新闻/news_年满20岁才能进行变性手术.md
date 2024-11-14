@@ -33,18 +33,18 @@
 本文讨论了中国卫生部出台的《变性手术技术管理规范（征求意见稿）》，规定了变性手术的年龄及条件。根据规范，仅允许年满20岁且被精神科医师诊断为易性癖病的患者申请变性手术，且必须提供一系列的证明材料，包括无犯罪记录、精神科医生诊断证明等。同时，手术必须在具备资质的医院进行，主刀医生要求有丰富的临床经验和专业资格。这一规定反映了中国在跨性别医疗手术方面的政策框架。文章详细介绍了变性手术的条件、所需证明以及医疗机构的标准，突出医疗机构和医生的资格要求。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_年满20岁才能进行变性手术.md                             |
-> | Size            | 2556 bytes                           |
-> | Archived Date   | 2024-11-02 06:07:24                             |
-> | Original Link   | [https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html](https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html)                       |
-> | Author          | 新闻晨报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2009-06-17                                 |
-> | Tags            | 变性手术, 跨性别, 易性癖, 医疗规范, 法律政策, 社会现状, 心理健康                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_年满20岁才能进行变性手术.md                             |
+| Size            | 2556 bytes                           |
+| Archived Date   | 2024-11-02 06:07:24                             |
+| Original Link   | [https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html](https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html)                       |
+| Author          | 新闻晨报                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-06-17                                 |
+| Tags            | 变性手术, 跨性别, 易性癖, 医疗规范, 法律政策, 社会现状, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -25,18 +25,18 @@
 本文报道了来自新西兰的跨性别举重运动员劳蕾尔·哈伯德（Laurel Hubbard）获得参加2021年东京奥运会资格的消息。她将成为历史上首位在奥运会赛场上参赛的跨性别运动员，此次参赛的项目是女子举重87公斤级。这一里程碑式的事件引发了广泛关注和讨论，反映了当今社会对于跨性别群体在体育领域的地位与权益的逐渐认可与接纳。文章中提到来自《卫报》的相关报道，并附上了评论数据，显示公众对此事件的参与和反响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_奥运热点？新西兰举重运动员获奥运资格，系变性选手第一人.md                             |
-> | Size            | 1163 bytes                           |
-> | Archived Date   | 2024-11-02 08:10:18                             |
-> | Original Link   | [https://news.ifeng.com/c/861myRSp2JI](https://news.ifeng.com/c/861myRSp2JI)                       |
-> | Author          | 凤凰网                               |
-> | Region          | 新西兰                               |
-> | Date            | 2021-05-06                                 |
-> | Tags            | 跨性别, 奥运会, 举重, 劳蕾尔·哈伯德, 体育, 社会承认                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_奥运热点？新西兰举重运动员获奥运资格，系变性选手第一人.md                             |
+| Size            | 1163 bytes                           |
+| Archived Date   | 2024-11-02 08:10:18                             |
+| Original Link   | [https://news.ifeng.com/c/861myRSp2JI](https://news.ifeng.com/c/861myRSp2JI)                       |
+| Author          | 凤凰网                               |
+| Region          | 新西兰                               |
+| Date            | 2021-05-06                                 |
+| Tags            | 跨性别, 奥运会, 举重, 劳蕾尔·哈伯德, 体育, 社会承认                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

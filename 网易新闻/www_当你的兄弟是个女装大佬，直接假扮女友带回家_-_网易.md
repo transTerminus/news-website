@@ -78,18 +78,18 @@
 本文讲述了一位年轻人首次尝试女装的经历，详细描绘了他在与女友的互动中，逐步接受自己穿女装的身份。在一次寒假旅行中，因摔倒导致没有干净衣服而在女友的建议下穿上女性服装，随即展开了一段虚构却充满趣味的冒险。故事中，他潜入女厕、在列车上假扮哑巴，还意外成为同学家族聚会的“媳妇”，经历了许多尴尬又幽默的瞬间。整篇文章透露出对自我认同的探索与反思，尽管事件具备虚构色彩，但反映了跨性别者在社会互动中的复杂情感，特别是在自我表达与他人期待之间的挣扎。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_当你的兄弟是个女装大佬，直接假扮女友带回家_-_网易.md                             |
-> | Size            | 9672 bytes                           |
-> | Archived Date   | 2024-11-08 07:29:53                             |
-> | Original Link   | [https://www.163.com/dy/article/IC0CEU0105562IEL.html](https://www.163.com/dy/article/IC0CEU0105562IEL.html)                       |
-> | Author          | 未知                               |
-> | Region          | 山东，中国                               |
-> | Date            | 2023-08-13                                 |
-> | Tags            | 跨性别, 女装, 个人成长, 情感体验, 虚构故事, 青春, 社会互动                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_当你的兄弟是个女装大佬，直接假扮女友带回家_-_网易.md                             |
+| Size            | 9672 bytes                           |
+| Archived Date   | 2024-11-08 07:29:53                             |
+| Original Link   | [https://www.163.com/dy/article/IC0CEU0105562IEL.html](https://www.163.com/dy/article/IC0CEU0105562IEL.html)                       |
+| Author          | 未知                               |
+| Region          | 山东，中国                               |
+| Date            | 2023-08-13                                 |
+| Tags            | 跨性别, 女装, 个人成长, 情感体验, 虚构故事, 青春, 社会互动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

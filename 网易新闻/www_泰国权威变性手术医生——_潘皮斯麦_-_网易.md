@@ -71,18 +71,18 @@
 本文介绍了泰国著名变性手术医生潘皮斯麦的专业背景与医疗经验。潘医生在整形与重建外科领域拥有十多年的经验，并在跨性别手术方面取得了显著成就，尤其以腹膜阴道成形术闻名。她不仅完成了三千余例变性手术，还在国际医疗会议上发表演讲，分享了其在跨性别手术及相关医学研究中的重要发现。文件中详细描述了潘皮斯麦教授在变性手术中的技术优势，和她为跨性别患者提供的医疗服务。同时，文中还讨论了跨性别患者在术前隐藏生殖器的方式及相关健康注意事项，以及不同的减胸手术技术，展现了跨性别患者的生存现状和医疗需求。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_泰国权威变性手术医生——_潘皮斯麦_-_网易.md                             |
-> | Size            | 5806 bytes                           |
-> | Archived Date   | 2024-11-08 07:05:56                             |
-> | Original Link   | [https://www.163.com/dy/article/HLBCHH830520MLJS.html](https://www.163.com/dy/article/HLBCHH830520MLJS.html)                       |
-> | Author          | 潮尚记                               |
-> | Region          | 泰国                               |
-> | Date            | 2022-11-04                                 |
-> | Tags            | 跨性别医疗, 变性手术, 潘皮斯麦, 性别确认手术, 医疗资源, 泰国医疗, 整形外科, 跨性别健康                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国权威变性手术医生——_潘皮斯麦_-_网易.md                             |
+| Size            | 5806 bytes                           |
+| Archived Date   | 2024-11-08 07:05:56                             |
+| Original Link   | [https://www.163.com/dy/article/HLBCHH830520MLJS.html](https://www.163.com/dy/article/HLBCHH830520MLJS.html)                       |
+| Author          | 潮尚记                               |
+| Region          | 泰国                               |
+| Date            | 2022-11-04                                 |
+| Tags            | 跨性别医疗, 变性手术, 潘皮斯麦, 性别确认手术, 医疗资源, 泰国医疗, 整形外科, 跨性别健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

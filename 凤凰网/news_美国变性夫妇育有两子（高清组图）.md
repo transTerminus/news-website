@@ -22,18 +22,18 @@
 本文介绍了一对变性夫妇Bianca Bowser和Nick Bowser的家庭生活。Bianca（原名Jason）是一名变性女性，在11年前完成变性手术，成为女性；Nick（原名Nicole）则在过去七年里以男性身份生活，但实际上他生来是个女孩。两人育有两个儿子Kai和Pax，虽然他们未能负担整形手术，仍然保留着原来的性别器官。他们计划在孩子们长大后告诉他们父母的真实身份，并相信自己的孩子能够在充满关爱和支持的环境中健康成长。该文件包含了一些配图并强调了变性家庭的正常性和关爱。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美国变性夫妇育有两子（高清组图）.md                             |
-> | Size            | 1904 bytes                           |
-> | Archived Date   | 2024-11-02 07:00:29                             |
-> | Original Link   | [https://news.ifeng.com/a/20140812/41537072_2.shtml](https://news.ifeng.com/a/20140812/41537072_2.shtml)                       |
-> | Author          | 新华网                               |
-> | Region          | 美国                               |
-> | Date            | 2014-08-11                                 |
-> | Tags            | 变性, 家庭, 父母, 孩子, 性别认同, 跨性别                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美国变性夫妇育有两子（高清组图）.md                             |
+| Size            | 1904 bytes                           |
+| Archived Date   | 2024-11-02 07:00:29                             |
+| Original Link   | [https://news.ifeng.com/a/20140812/41537072_2.shtml](https://news.ifeng.com/a/20140812/41537072_2.shtml)                       |
+| Author          | 新华网                               |
+| Region          | 美国                               |
+| Date            | 2014-08-11                                 |
+| Tags            | 变性, 家庭, 父母, 孩子, 性别认同, 跨性别                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -67,18 +67,18 @@
 本文介绍了一位名为陈波的跨性别女性在经历变性手术后的感受与生活。陈波顺利完成变性手术后，在病床上的恢复经历和她男友的细心照顾，展现了两人之间深厚的感情和面对社会压力的勇气。陈波描述了自己经历的五次手术，最艰难的一次是最近完成的变性手术。尽管手术带来了身体上的痛苦，她感到男友的支持是她坚强面对一切的重要力量。文章中还提到，陈波在手术前隐藏了自己的真实身份，并深情地表达希望与男友一起组成家庭、领养孩子的愿望。最后，男友小南澄清了他的性取向，并表示无论未来如何，他们都将共同面对生活的挑战与压力。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_帅哥变性成美女续：男友否认自己是同性恋者.md                             |
-> | Size            | 4392 bytes                           |
-> | Archived Date   | 2024-11-02 05:07:33                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4551779.d.html](https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4551779.d.html)                       |
-> | Author          | 记者唐国利                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-09-12                                 |
-> | Tags            | 跨性别, 变性手术, 生命故事, 同性恋, 爱情与关系, 社会压力                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_帅哥变性成美女续：男友否认自己是同性恋者.md                             |
+| Size            | 4392 bytes                           |
+| Archived Date   | 2024-11-02 05:07:33                             |
+| Original Link   | [https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4551779.d.html](https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4551779.d.html)                       |
+| Author          | 记者唐国利                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-09-12                                 |
+| Tags            | 跨性别, 变性手术, 生命故事, 同性恋, 爱情与关系, 社会压力                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

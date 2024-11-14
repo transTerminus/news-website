@@ -146,18 +146,18 @@
 本文探讨了中国跨性别群体中的"药娘"现象，尤其是一些药娘通过网络售卖性服务和相关视频谋生的现状。文章中描述了药娘的定义，强调药娘主要是指自认为是女性的男性，他们需要通过服用雌激素来抑制雄性激素的分泌，以实现身体上的性别转变。药娘群体面临许多挑战，包括寻找药物的困难、家庭的压力和社会的歧视。特别提到未成年人在这一群体中占据相当大的比例，他们在求药过程中往往会遭遇诈骗。在生活的各种压力下，许多药娘为了获得"糖"（指药物）而不得不选择卖淫等不正当手段，同时文章还提到了一些个体的真实案例，体现了药娘生活的艰辛和求生存的无奈。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_推特上，中国“药娘”在靠卖援交X视频谋生_-_网易.md                             |
-> | Size            | 6036 bytes                           |
-> | Archived Date   | 2024-11-08 07:30:36                             |
-> | Original Link   | [https://www.163.com/dy/article/ICBMQR9H0552C19D.html](https://www.163.com/dy/article/ICBMQR9H0552C19D.html)                       |
-> | Author          | 张昊                               |
-> | Region          | 中国                               |
-> | Date            | 2023-08-18                                 |
-> | Tags            | 跨性别, 药娘, 生命故事, 社会现象, 性别认同, 医疗资源, 法律政策,  adolescentes                                  |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_推特上，中国“药娘”在靠卖援交X视频谋生_-_网易.md                             |
+| Size            | 6036 bytes                           |
+| Archived Date   | 2024-11-08 07:30:36                             |
+| Original Link   | [https://www.163.com/dy/article/ICBMQR9H0552C19D.html](https://www.163.com/dy/article/ICBMQR9H0552C19D.html)                       |
+| Author          | 张昊                               |
+| Region          | 中国                               |
+| Date            | 2023-08-18                                 |
+| Tags            | 跨性别, 药娘, 生命故事, 社会现象, 性别认同, 医疗资源, 法律政策,  adolescentes                                  |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

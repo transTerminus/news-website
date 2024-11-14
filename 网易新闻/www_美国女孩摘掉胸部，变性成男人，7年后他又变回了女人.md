@@ -91,18 +91,18 @@ Issa对自己男儿身不太满意，**他发现自己不喜欢被当成男性�
 本文讲述了两个名为米洛和Alia（后改名Issa）的跨性别者的真实故事，反映了他们在变性过程中的心路历程及最终的反思。米洛在16岁时通过注射睾酮和多次手术（如胸部和子宫切除）来完成从女性到男性的转变，但7年后意识到身体变化带来诸多不适，感到后悔，认为当初的决定基于外部压力和对自我身份的误解。Alia的故事类似，她经历了一系列的身体转变和情感挣扎，最终选择停止使用睾酮，再次转变为女性的身份，勇敢面对真实的自我。本文件还讨论了近年来美国年轻人中变性人数激增的现象，以及不少人变性后感到后悔的情况。文章还涉及了跨性别者需经历的医学过程、变性手术的复杂性和性别认同的发展过程。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_美国女孩摘掉胸部，变性成男人，7年后他又变回了女人.md                             |
-> | Size            | 6443 bytes                           |
-> | Archived Date   | 2024-11-08 07:34:54                             |
-> | Original Link   | [https://www.163.com/dy/article/IELSKHAI05148PF4.html](https://www.163.com/dy/article/IELSKHAI05148PF4.html)                       |
-> | Author          | 未知                               |
-> | Region          | 美国                               |
-> | Date            | 2023-09-15                                 |
-> | Tags            | 跨性别, 变性, 性别认同, 生命故事, 医疗经历, 社会现象, 反思, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_美国女孩摘掉胸部，变性成男人，7年后他又变回了女人.md                             |
+| Size            | 6443 bytes                           |
+| Archived Date   | 2024-11-08 07:34:54                             |
+| Original Link   | [https://www.163.com/dy/article/IELSKHAI05148PF4.html](https://www.163.com/dy/article/IELSKHAI05148PF4.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2023-09-15                                 |
+| Tags            | 跨性别, 变性, 性别认同, 生命故事, 医疗经历, 社会现象, 反思, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

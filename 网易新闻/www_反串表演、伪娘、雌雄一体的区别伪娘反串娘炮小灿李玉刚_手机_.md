@@ -59,18 +59,18 @@
 该文件由李玉刚撰写，并发表于2022年10月1日，内容探讨了反串表演、伪娘与雌雄一体三者之间的区别和联系。文章首先介绍了反串表演的起源和发展的历史，指出反串不仅仅是一种表演形式，更是一种艺术表达，强调了李玉刚在这一领域的卓越表现与技巧。接着，作者描述了伪娘的概念，指出伪娘通常是指在舞台上男扮女装，但在日常生活中并不是单纯的男性特征。最后，文章探讨了雌雄一体这一概念，形容这种性别特征的复杂性和多样性，强调了它与反串表现的不同。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_反串表演、伪娘、雌雄一体的区别伪娘反串娘炮小灿李玉刚_手机_.md                             |
-> | Size            | 3816 bytes                           |
-> | Archived Date   | 2024-11-08 07:03:05                             |
-> | Original Link   | [https://www.163.com/dy/article/HIIFQ1R00553BEG8.html](https://www.163.com/dy/article/HIIFQ1R00553BEG8.html)                       |
-> | Author          | 李玉刚                               |
-> | Region          | 未知                               |
-> | Date            | 2022-10-01                                 |
-> | Tags            | 反串表演, 伪娘, 雌雄一体, 性别表达, 艺术形式                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_反串表演、伪娘、雌雄一体的区别伪娘反串娘炮小灿李玉刚_手机_.md                             |
+| Size            | 3816 bytes                           |
+| Archived Date   | 2024-11-08 07:03:05                             |
+| Original Link   | [https://www.163.com/dy/article/HIIFQ1R00553BEG8.html](https://www.163.com/dy/article/HIIFQ1R00553BEG8.html)                       |
+| Author          | 李玉刚                               |
+| Region          | 未知                               |
+| Date            | 2022-10-01                                 |
+| Tags            | 反串表演, 伪娘, 雌雄一体, 性别表达, 艺术形式                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

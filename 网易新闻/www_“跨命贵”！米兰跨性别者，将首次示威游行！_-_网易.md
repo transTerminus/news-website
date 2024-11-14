@@ -35,18 +35,18 @@ LGBT人士解释说，殴打和杀害跨性别者的事件近期多有发生。�
 这篇文章报道了意大利米兰LGBT群体发起的首次跨性别示威游行，活动定于2022年11月20日举行，旨在提升社会对跨性别者权利的关注。游行主题为“跨性别者的命也是命”（Trans live matter），意在呼应类似于‘黑人的命也是命’（Black Lives Matter）运动。文章详细叙述了活动的背景，包括最近针对跨性别者的暴力事件频发，以及出席活动的多位重要人物，如意大利首位跨性别市长詹马尔科·内格里和著名跨性别活动家弗拉基米尔·卢克苏里亚。组织者强调跨性别者在法律和政策上面临的挑战，呼吁社会关注并支持他们的权利，尤其是希望能在性别登记方面获得更大的改变。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_“跨命贵”！米兰跨性别者，将首次示威游行！_-_网易.md                             |
-> | Size            | 2871 bytes                           |
-> | Archived Date   | 2024-11-08 07:07:45                             |
-> | Original Link   | [https://www.163.com/dy/article/HM6U8PCU0536QGL3.html](https://www.163.com/dy/article/HM6U8PCU0536QGL3.html)                       |
-> | Author          | 未知                               |
-> | Region          | 意大利                               |
-> | Date            | 2022-11-15                                 |
-> | Tags            | 跨性别, 示威游行, LGBT, 社会运动, 人权, 法律政策, 米兰                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_“跨命贵”！米兰跨性别者，将首次示威游行！_-_网易.md                             |
+| Size            | 2871 bytes                           |
+| Archived Date   | 2024-11-08 07:07:45                             |
+| Original Link   | [https://www.163.com/dy/article/HM6U8PCU0536QGL3.html](https://www.163.com/dy/article/HM6U8PCU0536QGL3.html)                       |
+| Author          | 未知                               |
+| Region          | 意大利                               |
+| Date            | 2022-11-15                                 |
+| Tags            | 跨性别, 示威游行, LGBT, 社会运动, 人权, 法律政策, 米兰                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

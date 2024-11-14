@@ -28,18 +28,18 @@
 本文讨论了《上古卷轴OL》游戏中首个非二元性别角色坦洛林的推出，该角色在最新的U44更新中被引入，引发了游戏社区的一些争议与不满。部分玩家认为游戏应维持其沉浸感，引入非二元角色让他们感到不适。而游戏的叙事导演Bill Slavicsek为这一角色的设计辩护，强调多样性和真实性是游戏设计的重要原则，且这一角色应该由非二元性别的演员来饰演。在公众讨论中，有网友批评了官方的决策，认为这是一种强行的政治正确行为，未能尊重玩家的意见。该讨论体现了在游戏文化中对性别表达多样性的接受程度及其所引发的争议。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | finance_《上古卷轴OL》首个非二元性别角色引玩家不满_-_新浪财经.md                             |
-> | Size            | 1851 bytes                           |
-> | Archived Date   | 2024-11-09 06:28:14                             |
-> | Original Link   | [https://finance.sina.com.cn/tech/roll/2024-11-03/doc-incuupqy0938947.shtml](https://finance.sina.com.cn/tech/roll/2024-11-03/doc-incuupqy0938947.shtml)                       |
-> | Author          | 中关村在线                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2024-11-03                                 |
-> | Tags            | 上古卷轴OL, 非二元性别, 性别多样性, 游戏文化, 玩家反应                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | finance_《上古卷轴OL》首个非二元性别角色引玩家不满_-_新浪财经.md                             |
+| Size            | 1851 bytes                           |
+| Archived Date   | 2024-11-09 06:28:14                             |
+| Original Link   | [https://finance.sina.com.cn/tech/roll/2024-11-03/doc-incuupqy0938947.shtml](https://finance.sina.com.cn/tech/roll/2024-11-03/doc-incuupqy0938947.shtml)                       |
+| Author          | 中关村在线                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-03                                 |
+| Tags            | 上古卷轴OL, 非二元性别, 性别多样性, 游戏文化, 玩家反应                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -34,18 +34,18 @@
 本文报道了一位来自泰国的跨性别女性彭林（Pauline Ngarmpring），她原是一名足球行业的推广者和‘Cheerthai啦啦队’的主席。在经历了变性手术和激素治疗后，彭林希望参选成为泰国首位变性人总理。她表示，希望自己的参选能够为边缘群体带来希望，并为下一代LGBT群体开辟政治空间。文章中引用了彭林的话：‘我们（指跨性别群体）不会说自己优于男性或女性，只想说，我们是平等的。’本文还展示了彭林的竞选活动情况，她希望能够与选民直接沟通，了解他们关心的问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_泰国足坛网红要参加大选希望成首位变性人总理.md                             |
-> | Size            | 1831 bytes                           |
-> | Archived Date   | 2024-11-02 08:01:38                             |
-> | Original Link   | [https://news.ifeng.com/c/7kJaT8dbG0u](https://news.ifeng.com/c/7kJaT8dbG0u)                       |
-> | Author          | 彭林（Pauline Ngarmpring）                               |
-> | Region          | 泰国                               |
-> | Date            | 2019-02-15                                 |
-> | Tags            | 跨性别, 政治参与, 泰国, LGBT, 生命故事与过渡经历, 法律政策与社会环境记录                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_泰国足坛网红要参加大选希望成首位变性人总理.md                             |
+| Size            | 1831 bytes                           |
+| Archived Date   | 2024-11-02 08:01:38                             |
+| Original Link   | [https://news.ifeng.com/c/7kJaT8dbG0u](https://news.ifeng.com/c/7kJaT8dbG0u)                       |
+| Author          | 彭林（Pauline Ngarmpring）                               |
+| Region          | 泰国                               |
+| Date            | 2019-02-15                                 |
+| Tags            | 跨性别, 政治参与, 泰国, LGBT, 生命故事与过渡经历, 法律政策与社会环境记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

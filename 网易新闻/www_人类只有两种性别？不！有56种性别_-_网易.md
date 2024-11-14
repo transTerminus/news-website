@@ -90,18 +90,18 @@
 本文件题为《人类只有两种性别？不！有56种性别》，探讨了性别认知的多元化现象。文章指出，传统的性别二元论（男与女）忽略了人类性别身份的复杂性。随着性别研究的发展，越来越多的性别认同被提出，如无性别（Agender）、双性人（Bigender）、跨性别（Trans）以及流性人（Gender Fluid）等。作者强调，个人对自身性别的认同是核心要素，而这些认同不仅限于传统定义。此外，文中列举了广泛的性别术语，解释了不同性别身份的含义，强调性别认同是一个流动的连续谱。此文件对于理解当代性别概念与文化提供了重要视角，同时也反映了跨性别者在社会中的生存状态和认同的复杂性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_人类只有两种性别？不！有56种性别_-_网易.md                             |
-> | Size            | 8857 bytes                           |
-> | Archived Date   | 2024-11-08 06:09:20                             |
-> | Original Link   | [https://www.163.com/dy/article/FF0731N90548JABQ.html](https://www.163.com/dy/article/FF0731N90548JABQ.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2020-06-13                                 |
-> | Tags            | 性别认同, 跨性别, 性别多样性, 社会性别, 生物性别, 性别研究, 文化认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_人类只有两种性别？不！有56种性别_-_网易.md                             |
+| Size            | 8857 bytes                           |
+| Archived Date   | 2024-11-08 06:09:20                             |
+| Original Link   | [https://www.163.com/dy/article/FF0731N90548JABQ.html](https://www.163.com/dy/article/FF0731N90548JABQ.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2020-06-13                                 |
+| Tags            | 性别认同, 跨性别, 性别多样性, 社会性别, 生物性别, 性别研究, 文化认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

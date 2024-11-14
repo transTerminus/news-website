@@ -125,18 +125,18 @@ Vanity Fair
 本文围绕性别的定义及其在社会中的构建展开讨论，主要通过对J·K·罗琳在性别问题上的争议和观点进行分析。作者Rebecca Reilly-Cooper探讨了‘性别’和‘生理性别’的区别，并对现代社会中的性别认同进行了深刻的反思。文章提到，从20世纪60年代起，‘gender’这个词开始有了新的涵义，它不仅仅是生理上的差异，更涉及社会、文化、教育等因素的影响。作者指出，传统的性别二元划分会对个体的潜能产生抑制作用，认为应当废除社会性别的概念，从而允许个体的个性和偏好自由发展。此外，文中提到酷儿女权主义的观点，强调性别并不是固定的，而是一个多样的光谱，支持多种性别身份的存在。文章最后提出，性别作为一种以生殖功能为基础的价值体系，其存在本身就是对个体自由的压迫，呼吁对性别概念进行重新审视，追求更为开放和包容的社会性别认知。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_J·K·罗琳遭抵制，关于性别我们还可以讨论什么？.md                             |
-> | Size            | 21920 bytes                           |
-> | Archived Date   | 2024-11-03 09:46:55                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_8363034](https://m.thepaper.cn/newsDetail_forward_8363034)                       |
-> | Author          | Rebecca Reilly-Cooper                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 性别, 跨性别, 女权主义, 酷儿女权, 社会性别, 性别认同, 性别光谱, 性别构建, 生物学与社会文化, 医疗资源与经验分享                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_J·K·罗琳遭抵制，关于性别我们还可以讨论什么？.md                             |
+| Size            | 21920 bytes                           |
+| Archived Date   | 2024-11-03 09:46:55                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_8363034](https://m.thepaper.cn/newsDetail_forward_8363034)                       |
+| Author          | Rebecca Reilly-Cooper                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别, 跨性别, 女权主义, 酷儿女权, 社会性别, 性别认同, 性别光谱, 性别构建, 生物学与社会文化, 医疗资源与经验分享                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

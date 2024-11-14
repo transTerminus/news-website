@@ -38,18 +38,18 @@
 本文来自凤凰网，介绍了泰国的性文化和人妖现象，探讨了人妖的生理特点和社会接受度。文章阐述了泰国人妖的法律地位，以及在曼谷和芭堤雅等地的人妖文化盛行。泰国以开放的性文化著称，尤其是在面对从事性行业的女性时，社会的态度较为宽容。文中指出，人妖在外形上有时难以区分，尤其是经过变性手术的人妖，其美丽的外表和精湛的表演艺术成为了旅游吸引力的一部分。文章还提到，在泰国，人妖被法律认定为男性，从而进一步反映了该国在性别认同上的复杂性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | fashion_惊叹：泰国人妖生理大揭密（图）_-_时尚-_凤凰网.md                             |
-> | Size            | 1953 bytes                           |
-> | Archived Date   | 2024-11-09 10:15:07                             |
-> | Original Link   | [https://fashion.ifeng.com/travel/culture/detail_2006_11/22/141587_1.shtml](https://fashion.ifeng.com/travel/culture/detail_2006_11/22/141587_1.shtml)                       |
-> | Author          | 凤凰网论坛                               |
-> | Region          | 泰国                               |
-> | Date            | 2006-11-22                                 |
-> | Tags            | 跨性别, 泰国人妖, 性文化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | fashion_惊叹：泰国人妖生理大揭密（图）_-_时尚-_凤凰网.md                             |
+| Size            | 1953 bytes                           |
+| Archived Date   | 2024-11-09 10:15:07                             |
+| Original Link   | [https://fashion.ifeng.com/travel/culture/detail_2006_11/22/141587_1.shtml](https://fashion.ifeng.com/travel/culture/detail_2006_11/22/141587_1.shtml)                       |
+| Author          | 凤凰网论坛                               |
+| Region          | 泰国                               |
+| Date            | 2006-11-22                                 |
+| Tags            | 跨性别, 泰国人妖, 性文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

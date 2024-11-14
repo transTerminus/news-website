@@ -38,18 +38,18 @@ Schools must employ physical and mental health experts who understand the issues
 本文探讨了美国跨性别学生在心理健康方面所面临的挑战，指出这一群体在心理健康问题上尤其脆弱。文章引用了一项研究，指出跨性别学生的抑郁、焦虑等问题的比例显著高于其他性别身份的学生。研究基于2015至2017年间对65000名美国大学生的走访调查，其中约1200名报告了其性别身份为非出生性别。研究结果显示，接近80%的跨性别学生经历了至少一种心理健康问题，而相对之下，只有45%的顺性别学生经历过类似问题。文章强调高等院校需要培养能够理解跨性别学生问题的心理健康专家，并提升全校对跨性别学生的包容性和支持性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_VOA慢速：美国跨性别学生尤为需要心理健康方面的关注_-_搜狐.md                             |
-> | Size            | 2732 bytes                           |
-> | Archived Date   | 2024-11-07 12:35:52                             |
-> | Original Link   | [https://www.sohu.com/a/341878586_479684](https://www.sohu.com/a/341878586_479684)                       |
-> | Author          | 未知                               |
-> | Region          | 美国                               |
-> | Date            | 2019-09-19                                 |
-> | Tags            | 心理健康, 跨性别学生, 研究, 抑郁, 焦虑, 高等教育, 社会支持                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_VOA慢速：美国跨性别学生尤为需要心理健康方面的关注_-_搜狐.md                             |
+| Size            | 2732 bytes                           |
+| Archived Date   | 2024-11-07 12:35:52                             |
+| Original Link   | [https://www.sohu.com/a/341878586_479684](https://www.sohu.com/a/341878586_479684)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2019-09-19                                 |
+| Tags            | 心理健康, 跨性别学生, 研究, 抑郁, 焦虑, 高等教育, 社会支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

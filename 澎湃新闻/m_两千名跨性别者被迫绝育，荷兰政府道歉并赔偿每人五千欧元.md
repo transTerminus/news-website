@@ -28,18 +28,18 @@
 本文报道了荷兰政府对2000名因法律变更性别而被迫绝育的跨性别人士正式道歉，并决定向每人赔偿5000欧元（约合人民币3.9万元）。在2014年以前，依据荷兰跨性别法，想要合法变更性别的人需要接受不可逆的绝育手术，这一法律持续了近30年，其背后象征着对跨性别者身体自主权的侵犯与社会的排斥。跨性别者范·肯普恩分享了她的经历，她为了变性而放弃了生育能力，面对如此艰难的选择，内心的痛苦可想而知。此次道歉是对过去错误的反思，也标志着荷兰在性别权利上迈出了重要一步。文章还提到，瑞典在2018年成为首个为类似事件受害者提供赔偿的国家，案例显示出社会对跨性别者权益意识的逐步提升。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_两千名跨性别者被迫绝育，荷兰政府道歉并赔偿每人五千欧元.md                             |
-> | Size            | 2366 bytes                           |
-> | Archived Date   | 2024-11-03 10:03:27                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=10249037&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10249037&from=wifiKey)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 未知                               |
-> | Date            | 2022-12-03                                 |
-> | Tags            | 跨性别, 荷兰, 绝育, 道歉, 性别法, 赔偿, 社会环境, 身体自主权                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_两千名跨性别者被迫绝育，荷兰政府道歉并赔偿每人五千欧元.md                             |
+| Size            | 2366 bytes                           |
+| Archived Date   | 2024-11-03 10:03:27                             |
+| Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=10249037&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10249037&from=wifiKey)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 未知                               |
+| Date            | 2022-12-03                                 |
+| Tags            | 跨性别, 荷兰, 绝育, 道歉, 性别法, 赔偿, 社会环境, 身体自主权                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

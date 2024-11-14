@@ -30,18 +30,18 @@
 该文件报道了中国首个变性人张克沙的故事，分享了她41年的变性经历和对性别认同的追求。文章提到张克沙计划出版自传《女人梦》，内容讲述了她的生命故事，包括变性前的心理斗争、感情经历以及她对生育能力的渴望与苦恼。通过这本书，张克沙希望能够揭开自己隐秘的身份，让更多的人了解她的真实生活，以及她在成长中的挣扎与解脱。她的经历不仅体现了个人的变性历程，也反映了社会对跨性别者的态度变化。张克沙在书中强调了变身为女性后对婚姻和情感的渴望，同时也分享了经历的困境和对未来的期望。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_中国首个变性人要出自传：透视41年“女人梦”.md                             |
-> | Size            | 2599 bytes                           |
-> | Archived Date   | 2024-11-02 04:14:20                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-06-08/detail-ikknscsi0576927.d.html](https://news.sina.cn/sa/2003-06-08/detail-ikknscsi0576927.d.html)                       |
-> | Author          | 顾小萍                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2003-06-08                                 |
-> | Tags            | 跨性别, 变性人, 生命故事, 性别认同, 自传, 社会环境, 情感经历, 婚姻与爱情                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_中国首个变性人要出自传：透视41年“女人梦”.md                             |
+| Size            | 2599 bytes                           |
+| Archived Date   | 2024-11-02 04:14:20                             |
+| Original Link   | [https://news.sina.cn/sa/2003-06-08/detail-ikknscsi0576927.d.html](https://news.sina.cn/sa/2003-06-08/detail-ikknscsi0576927.d.html)                       |
+| Author          | 顾小萍                               |
+| Region          | 中国大陆                               |
+| Date            | 2003-06-08                                 |
+| Tags            | 跨性别, 变性人, 生命故事, 性别认同, 自传, 社会环境, 情感经历, 婚姻与爱情                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

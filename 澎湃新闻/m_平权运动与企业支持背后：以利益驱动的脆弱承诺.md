@@ -99,18 +99,18 @@
 本文探讨了近年来企业在LGBTQ+权利运动中的角色与影响，分析了公司支持平权事业背后的经济动机与政治环境。随着反LGBTQ+立法在多个美国州的兴起，企业的支持似乎逐渐减弱，尤其是在与利益相关的政治抗争中。文章以南达科他州州长克里斯蒂·诺姆禁止跨性别女生参加女子运动的立法为例，讲述了商业利益可能如何影响立法决策。企业虽然曾采取强硬立场抵制反LGBTQ+政策，但在面对利益威胁时，往往会退缩。此外，文中提到的企业行动主义的局限性，特别是在利益驱动的背景下，使得企业的支持往往显得空洞而短暂。整体而言，这篇文章深入分析了跨性别权益与企业之间错综复杂的关系，揭示了利益与政治在LGBTQ+权益争取中的重要性与现实挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_平权运动与企业支持背后：以利益驱动的脆弱承诺.md                             |
-> | Size            | 32355 bytes                           |
-> | Archived Date   | 2024-11-03 08:33:27                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 美国                               |
-> | Date            | 2022-06-02                                 |
-> | Tags            | 跨性别权益, 平权运动, 企业行动主义, 法律政策, 美国社会环境, LGBTQ+问题, 经济动机                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_平权运动与企业支持背后：以利益驱动的脆弱承诺.md                             |
+| Size            | 32355 bytes                           |
+| Archived Date   | 2024-11-03 08:33:27                             |
+| Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=18375962&from=kuaibao)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 美国                               |
+| Date            | 2022-06-02                                 |
+| Tags            | 跨性别权益, 平权运动, 企业行动主义, 法律政策, 美国社会环境, LGBTQ+问题, 经济动机                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

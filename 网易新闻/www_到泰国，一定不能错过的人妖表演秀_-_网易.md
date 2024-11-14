@@ -33,18 +33,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 该文件介绍了泰国的人妖表演秀，这是一种独特的文化表演，吸引了大量游客。文章详细描述了人妖表演者的外貌和舞台表现，指出这些表演者通常身高在一米七以上，身材苗条，打扮华丽，能展现出无与伦比的女性魅力。表演内容包含各种民族舞蹈和流行歌曲，既有本地风味也有国际影响。人妖表演的结束时，表演者与游客合影留念，但需要付费。整体而言，文章传达了人妖秀在泰国文化和旅游中的重要性以及其吸引力。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_到泰国，一定不能错过的人妖表演秀_-_网易.md                             |
-> | Size            | 2085 bytes                           |
-> | Archived Date   | 2024-11-08 05:47:40                             |
-> | Original Link   | [https://www.163.com/dy/article/DHEVT94C0517QMVB.html](https://www.163.com/dy/article/DHEVT94C0517QMVB.html)                       |
-> | Author          | 唐懿德                               |
-> | Region          | 泰国                               |
-> | Date            | 2018-05-10                                 |
-> | Tags            | 人妖表演, 文化表演, 泰国旅游, 跨性别文化, 娱乐活动                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_到泰国，一定不能错过的人妖表演秀_-_网易.md                             |
+| Size            | 2085 bytes                           |
+| Archived Date   | 2024-11-08 05:47:40                             |
+| Original Link   | [https://www.163.com/dy/article/DHEVT94C0517QMVB.html](https://www.163.com/dy/article/DHEVT94C0517QMVB.html)                       |
+| Author          | 唐懿德                               |
+| Region          | 泰国                               |
+| Date            | 2018-05-10                                 |
+| Tags            | 人妖表演, 文化表演, 泰国旅游, 跨性别文化, 娱乐活动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

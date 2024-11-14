@@ -55,18 +55,18 @@
 特别关注的亮点是首次引入的“变性模特秀表演”，通过展示多元化的性文化以提升公众对跨性别群体的理解和包容。文中还提到活动对变性人和人妖的区别、对文化底线的质疑及相关的回应，试图从科学与文化的角度解释性行为的社会定义。文件中引用了多位专家如邱鸿钟和李继红的观点，以回应外界对这一活动的评价与质疑。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_广州性文化节新增变性模特走秀被疑突破文化底线.md                             |
-> | Size            | 4364 bytes                           |
-> | Archived Date   | 2024-11-08 09:31:41                             |
-> | Original Link   | [https://www.chinanews.com.cn/cul/2013/08-29/5218938.shtml](https://www.chinanews.com.cn/cul/2013/08-29/5218938.shtml)                       |
-> | Author          | 李楠楠                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2013-08-29                                 |
-> | Tags            | 广州性文化节, 变性模特, 性文化, 性健康, 性教育, 跨性别                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_广州性文化节新增变性模特走秀被疑突破文化底线.md                             |
+| Size            | 4364 bytes                           |
+| Archived Date   | 2024-11-08 09:31:41                             |
+| Original Link   | [https://www.chinanews.com.cn/cul/2013/08-29/5218938.shtml](https://www.chinanews.com.cn/cul/2013/08-29/5218938.shtml)                       |
+| Author          | 李楠楠                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-08-29                                 |
+| Tags            | 广州性文化节, 变性模特, 性文化, 性健康, 性教育, 跨性别                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

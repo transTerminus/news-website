@@ -50,18 +50,18 @@
 这篇文章报道了一起涉及变性人的公共事件，发生在2009年1月10日。当时，变性人美美因交通路线问题与出租车司机发生争执，结果遭到司机拳打。在事件中，美美左胸内填充的假体因遭受攻击而受到威胁，这使得她感到委屈和恐惧，导致她持续感到疼痛并卧床不起。文章详细描述了事件经过，美美的个人感受以及随后前往医院检查的情况。幸运的是，经过检查，她的假体没有破损，只有淤血。目前，警方已介入调查，等待合理处理结果。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_行车线路起纠纷的哥拔拳相向变性人假体险爆裂.md                             |
-> | Size            | 3059 bytes                           |
-> | Archived Date   | 2024-11-08 09:09:12                             |
-> | Original Link   | [http://www.chinanews.com.cn/jk/ysbb/news/2009/01-13/1525998.shtml](http://www.chinanews.com.cn/jk/ysbb/news/2009/01-13/1525998.shtml)                       |
-> | Author          | 李靖                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2009-01-13                                 |
-> | Tags            | 变性人, 生命故事, 社会事件, 医疗情况, 法律与政策, 人权, 公共安全                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_行车线路起纠纷的哥拔拳相向变性人假体险爆裂.md                             |
+| Size            | 3059 bytes                           |
+| Archived Date   | 2024-11-08 09:09:12                             |
+| Original Link   | [http://www.chinanews.com.cn/jk/ysbb/news/2009/01-13/1525998.shtml](http://www.chinanews.com.cn/jk/ysbb/news/2009/01-13/1525998.shtml)                       |
+| Author          | 李靖                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-01-13                                 |
+| Tags            | 变性人, 生命故事, 社会事件, 医疗情况, 法律与政策, 人权, 公共安全                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

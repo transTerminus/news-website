@@ -24,18 +24,18 @@ Poyd凭《扫毒》人气急升，带挈她在泰国拍多了爱情和亲热戏�
 这篇文章报道了著名演员张家辉与泰国变性演员Poyd在电影《扫毒》庆功宴上的互动与相关事件。文章首先提到该电影在香港和内地的票房成绩，随后介绍了张家辉与Poyd的亲密合作关系，甚至提及到张家辉在观看电影时，为了不让妻子关咏荷看到他与Poyd的亲热戏而遮住了她的眼睛。此事件引发了媒体和网友的关注，文章还提到Poyd因《扫毒》获得了较高的人气，并表示希望在未来与张家辉再次合作。整体来看，这篇文章反映了变性人演员在电影行业的逐渐被接受与重视，同时也展现了娱乐圈明星们对个人与职业的平衡挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_张家辉《扫毒》与变性人拍亲热戏不让关咏荷看.md                             |
-> | Size            | 1353 bytes                           |
-> | Archived Date   | 2024-11-08 10:58:47                             |
-> | Original Link   | [https://www.chinanews.com.cn/yl/2013/12-11/5605537.shtml](https://www.chinanews.com.cn/yl/2013/12-11/5605537.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 香港                               |
-> | Date            | 2013-12-11                                 |
-> | Tags            | 跨性别, 张家辉, Poyd, 扫毒, 娱乐圈, 亲热戏, 社会接受度, 电影                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_张家辉《扫毒》与变性人拍亲热戏不让关咏荷看.md                             |
+| Size            | 1353 bytes                           |
+| Archived Date   | 2024-11-08 10:58:47                             |
+| Original Link   | [https://www.chinanews.com.cn/yl/2013/12-11/5605537.shtml](https://www.chinanews.com.cn/yl/2013/12-11/5605537.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 香港                               |
+| Date            | 2013-12-11                                 |
+| Tags            | 跨性别, 张家辉, Poyd, 扫毒, 娱乐圈, 亲热戏, 社会接受度, 电影                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

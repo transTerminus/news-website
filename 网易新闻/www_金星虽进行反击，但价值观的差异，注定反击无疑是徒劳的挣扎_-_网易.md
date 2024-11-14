@@ -40,18 +40,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 这篇文章主要讨论了跨性别艺人金星在网络上针对社会价值观的反击，指出她的行为被认为是最终的挣扎。文章提到金星在社交媒体上发的讽刺性图片被大量投诉后，并没有真实的名人名言，而是借用其他人的话语来对抗批评。具体论述中，文章提到金星坚决不认错，并试图以强硬的态度来回应社会舆论，认为这种行为不符合中国的主流价值观。作者表示金星的经历及与西方文化的接触，让她的言论显得格格不入，同时也强调了反对跨性别及LGBT文化的社会态度。整篇文章充满了对金星及其舆论行为的批判，质疑其价值观与中国社会普遍认同的价值观之间的差异。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_金星虽进行反击，但价值观的差异，注定反击无疑是徒劳的挣扎_-_网易.md                             |
-> | Size            | 4583 bytes                           |
-> | Archived Date   | 2024-11-08 08:28:53                             |
-> | Original Link   | [https://www.163.com/dy/article/JG3CU0GQ054988KY.html](https://www.163.com/dy/article/JG3CU0GQ054988KY.html)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2024-11-01                                 |
-> | Tags            | 金星, 跨性别, 社会价值观, LGBT文化, 社会批判, 网络舆论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_金星虽进行反击，但价值观的差异，注定反击无疑是徒劳的挣扎_-_网易.md                             |
+| Size            | 4583 bytes                           |
+| Archived Date   | 2024-11-08 08:28:53                             |
+| Original Link   | [https://www.163.com/dy/article/JG3CU0GQ054988KY.html](https://www.163.com/dy/article/JG3CU0GQ054988KY.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-01                                 |
+| Tags            | 金星, 跨性别, 社会价值观, LGBT文化, 社会批判, 网络舆论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

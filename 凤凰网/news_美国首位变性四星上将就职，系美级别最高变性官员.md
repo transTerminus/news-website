@@ -32,18 +32,18 @@
 这篇文章报道了蕾切尔·莱文（Rachel Levine）于2021年10月19日宣誓就任四星海军上将，成为美国历史上首位变性四星上将，以及美国级别最高的变性官员。文章详细介绍了莱文的背景，指出她曾担任宾夕法尼亚州卫生部长，并对她在养老院新冠疫情期间的处理提出了争议。此外，报道还提及了社会各界对她任职的不同看法，部分保守人士质疑这是美国政府的政治手段。文章中的重要信息还包括莱文将管理的公共卫生服务军团的职能，以及美国卫生部长对她任职所表达的支持和期望。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美国首位变性四星上将就职，系美级别最高变性官员.md                             |
-> | Size            | 2225 bytes                           |
-> | Archived Date   | 2024-11-02 08:12:05                             |
-> | Original Link   | [https://news.ifeng.com/c/8AVRJE2l5Bk](https://news.ifeng.com/c/8AVRJE2l5Bk)                       |
-> | Author          | 环球时报记者 思雨                               |
-> | Region          | 美国                               |
-> | Date            | 2021-10-21                                 |
-> | Tags            | 跨性别, 美国, 蕾切尔·莱文, 四星上将, 公共卫生, 法律与社会, 政治手段, 新冠疫情, 养老院                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美国首位变性四星上将就职，系美级别最高变性官员.md                             |
+| Size            | 2225 bytes                           |
+| Archived Date   | 2024-11-02 08:12:05                             |
+| Original Link   | [https://news.ifeng.com/c/8AVRJE2l5Bk](https://news.ifeng.com/c/8AVRJE2l5Bk)                       |
+| Author          | 环球时报记者 思雨                               |
+| Region          | 美国                               |
+| Date            | 2021-10-21                                 |
+| Tags            | 跨性别, 美国, 蕾切尔·莱文, 四星上将, 公共卫生, 法律与社会, 政治手段, 新冠疫情, 养老院                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -29,18 +29,18 @@
 本文报道了英国北约克郡警察局的变性女警官兰姆（原名克里斯）的故事。兰姆在一场新闻发布会上自信地向公众介绍自己的来历，这是她首次披露自己作为变性人的身份。文章详细描述了兰姆的服装、工作经历及其在警察局的表现，并提及到英国即将进行的法律改革，将允许进行过变性手术的人更改性别，并能够合法结婚。文章还涉及到其他变性人的现状，以及变性人在申请诸如养老金等方面所面临的法律问题。兰姆的故事代表了英国变性人群体在追求生存权利和法律承认上的努力与斗争。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_警察局现身变性警官英国将为变性人开绿灯.md                             |
-> | Size            | 2855 bytes                           |
-> | Archived Date   | 2024-11-02 04:11:17                             |
-> | Original Link   | [https://news.sina.cn/sa/2002-12-17/detail-ikknscsi0313640.d.html](https://news.sina.cn/sa/2002-12-17/detail-ikknscsi0313640.d.html)                       |
-> | Author          | 张晓（光明日报驻伦敦记者）                               |
-> | Region          | 英国                               |
-> | Date            | 2002-12-17                                 |
-> | Tags            | 变性人, 跨性别权益, 法律政策, 新闻报道, 社会环境, 兰姆                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_警察局现身变性警官英国将为变性人开绿灯.md                             |
+| Size            | 2855 bytes                           |
+| Archived Date   | 2024-11-02 04:11:17                             |
+| Original Link   | [https://news.sina.cn/sa/2002-12-17/detail-ikknscsi0313640.d.html](https://news.sina.cn/sa/2002-12-17/detail-ikknscsi0313640.d.html)                       |
+| Author          | 张晓（光明日报驻伦敦记者）                               |
+| Region          | 英国                               |
+| Date            | 2002-12-17                                 |
+| Tags            | 变性人, 跨性别权益, 法律政策, 新闻报道, 社会环境, 兰姆                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

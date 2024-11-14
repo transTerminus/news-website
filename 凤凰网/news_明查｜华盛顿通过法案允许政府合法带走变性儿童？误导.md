@@ -71,18 +71,18 @@
 这篇文章探讨了华盛顿州SB5599法案的真实内容和各方反应，澄清了网络上对该法案的误传。文章指出，流传的信息称该法案允许政府在父母不同意的情况下带走变性儿童是不实的。相反，该法案旨在确保未成年人能够获得“性别确认治疗”和“生殖健康护理”的医疗服务。文中引用了华盛顿州参议员马克·利亚斯的声明，说明该法案是针对跨性别青少年面临的挑战而设立的，旨在提供必要的支持与护理。此外，文章还提到该法案受到的批评声，以及相关的社会和法律背景。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_明查｜华盛顿通过法案允许政府合法带走变性儿童？误导.md                             |
-> | Size            | 5374 bytes                           |
-> | Archived Date   | 2024-11-02 08:16:14                             |
-> | Original Link   | [https://news.ifeng.com/c/8PHywPbxSAQ](https://news.ifeng.com/c/8PHywPbxSAQ)                       |
-> | Author          | 未知                               |
-> | Region          | 美国                               |
-> | Date            | 2023-04-21                                 |
-> | Tags            | 华盛顿州, 性别确认治疗, 跨性别权益, 法律政策, SB5599法案, 医疗保障, 未成年人                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_明查｜华盛顿通过法案允许政府合法带走变性儿童？误导.md                             |
+| Size            | 5374 bytes                           |
+| Archived Date   | 2024-11-02 08:16:14                             |
+| Original Link   | [https://news.ifeng.com/c/8PHywPbxSAQ](https://news.ifeng.com/c/8PHywPbxSAQ)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2023-04-21                                 |
+| Tags            | 华盛顿州, 性别确认治疗, 跨性别权益, 法律政策, SB5599法案, 医疗保障, 未成年人                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

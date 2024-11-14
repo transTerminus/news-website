@@ -51,18 +51,18 @@
 该文件为一篇关于性别转换主题的网友分享文章，主要论述了性别转换在日本动漫和同人创作中的表现和影响。文章详细介绍了性别转换这类题材在ACGN（动画、漫画、游戏、小说）文化中的影响，举例指出在《EVA》中的角色性别转换。作者对角色明日香与渚薰的性别转换进行了有趣的分析，并对潜在的反差萌进行了设想。文章还附有网友的评论互动，反映了读者对性别转换概念的不同看法和讨论。这体现了跨性别主题在二次元作品中的多样性与复杂性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_网友分享性别转换版EVA，明日香变黄毛帅哥，真嗣渚薰变美女_-_网易.md                             |
-> | Size            | 3528 bytes                           |
-> | Archived Date   | 2024-11-08 06:37:06                             |
-> | Original Link   | [https://www.163.com/dy/article/GJIPVA1S0515AE1Q.html](https://www.163.com/dy/article/GJIPVA1S0515AE1Q.html)                       |
-> | Author          | 网友分享                               |
-> | Region          | 未知                               |
-> | Date            | 2021-09-10                                 |
-> | Tags            | 性别转换, 日本动漫, EVA, ACGN, 同人创作, 跨性别                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_网友分享性别转换版EVA，明日香变黄毛帅哥，真嗣渚薰变美女_-_网易.md                             |
+| Size            | 3528 bytes                           |
+| Archived Date   | 2024-11-08 06:37:06                             |
+| Original Link   | [https://www.163.com/dy/article/GJIPVA1S0515AE1Q.html](https://www.163.com/dy/article/GJIPVA1S0515AE1Q.html)                       |
+| Author          | 网友分享                               |
+| Region          | 未知                               |
+| Date            | 2021-09-10                                 |
+| Tags            | 性别转换, 日本动漫, EVA, ACGN, 同人创作, 跨性别                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

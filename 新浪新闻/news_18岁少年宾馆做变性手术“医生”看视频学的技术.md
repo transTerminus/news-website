@@ -60,18 +60,18 @@
 本文件讲述了一位18岁少年小斌的故事，他在没有父母同意的情况下，在宾馆内进行变性手术。小斌从小学三年级起便有了变性的想法，随后开始偷偷服用雌性激素，认为自己是有易性癖。在尝试了多次后，他最终选择了一名并未获得医生执业资格的"医生"小俊为他进行手术。手术进行时，小斌的两侧睾丸被切除，手术结束后小斌向小俊支付了6000元。事后，小斌的父母得知了事情的真相并报警。此事件突显了未成年人在性别认同问题上的困境和对医疗资源匮乏的无奈，同时也揭示了非法行医的严重性和相关法律问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_18岁少年宾馆做变性手术“医生”看视频学的技术.md                             |
-> | Size            | 3682 bytes                           |
-> | Archived Date   | 2024-11-02 03:30:18                             |
-> | Original Link   | [http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html](http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html)                       |
-> | Author          | 青年时报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-08-29                                 |
-> | Tags            | 变性手术, 跨性别, 非法行医, 性别认同, 青春期, 家庭关系                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_18岁少年宾馆做变性手术“医生”看视频学的技术.md                             |
+| Size            | 3682 bytes                           |
+| Archived Date   | 2024-11-02 03:30:18                             |
+| Original Link   | [http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html](http://news.sina.cn/sh/2018-08-29/detail-ihikcahf3071365.d.html)                       |
+| Author          | 青年时报                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-08-29                                 |
+| Tags            | 变性手术, 跨性别, 非法行医, 性别认同, 青春期, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -22,18 +22,18 @@
 本文报道了土耳其举办的首届变性人世界选美大赛，比赛于2014年6月进行。文章提到，由8名变性人组成的评委会参与为13名参赛选手打分。选手们先后穿着比基尼和礼服展示，吸引了约500名观众的目光。赛事的冠军为名为Yanki Bayramoglu的选手。此次活动标志着跨性别群体在社会公众平台上的一次重要展现，同时也反映了跨性别者在美丽标准和社会认同方面的努力与追求。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_土耳其举办首届变性人选美大赛-中新网.md                             |
-> | Size            | 1013 bytes                           |
-> | Archived Date   | 2024-11-08 10:45:55                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2014/06-25/366409.shtml](https://www.chinanews.com.cn/tp/hd2011/2014/06-25/366409.shtml)                       |
-> | Author          | 中新网                               |
-> | Region          | 土耳其                               |
-> | Date            | 2014-06-25                                 |
-> | Tags            | 变性人, 选美大赛, 跨性别文化, 社会环境, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_土耳其举办首届变性人选美大赛-中新网.md                             |
+| Size            | 1013 bytes                           |
+| Archived Date   | 2024-11-08 10:45:55                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2014/06-25/366409.shtml](https://www.chinanews.com.cn/tp/hd2011/2014/06-25/366409.shtml)                       |
+| Author          | 中新网                               |
+| Region          | 土耳其                               |
+| Date            | 2014-06-25                                 |
+| Tags            | 变性人, 选美大赛, 跨性别文化, 社会环境, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

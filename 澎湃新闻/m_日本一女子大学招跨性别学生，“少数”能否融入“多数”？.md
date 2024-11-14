@@ -100,18 +100,18 @@
 本文讨论了日本一所女子大学于2020年招生中首次招收跨性别学生的决定，反映了在教育领域促进性别平等及包容性的努力。文章分析了跨性别者的定义及身份认同问题，介绍了日本对此类学生的关注和相关法律政策的进展。同时，文章还引用了社会上对此决定的不同看法，包括支持者和反对者的观点。争议主要集中在如何确保其他学生的接受度、跨性别学生的真实身份的判断以及学校设施安排（如洗手间和更衣室的使用）等方面。文章中也提及了跨性别者的医疗选择与社会融入的复杂性，并阐明了性别认同不仅仅是一个生理问题，而是涉及心理、伦理和社会各层面的挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_日本一女子大学招跨性别学生，“少数”能否融入“多数”？.md                             |
-> | Size            | 12123 bytes                           |
-> | Archived Date   | 2024-11-03 08:33:54                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 日本                               |
-> | Date            | 2020-07-18                                 |
-> | Tags            | 跨性别, 招生政策, 社会包容, 性别认同, 医疗资源, 教育公平                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_日本一女子大学招跨性别学生，“少数”能否融入“多数”？.md                             |
+| Size            | 12123 bytes                           |
+| Archived Date   | 2024-11-03 08:33:54                             |
+| Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 日本                               |
+| Date            | 2020-07-18                                 |
+| Tags            | 跨性别, 招生政策, 社会包容, 性别认同, 医疗资源, 教育公平                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

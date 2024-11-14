@@ -55,18 +55,18 @@
 本文探讨了变性心理的复杂性与艰难的内心旅程，特别是对于希望通过变性获得性快乐的个体来说，他们面临着自身性解剖结构与心理愿望之间的巨大冲突。文中描写了一名21岁的个体渴望变性并体验男性快乐，她的心路历程反映了现实中的性围城心理。变性者常常否认自身的性别特征，并将幸福与否与变性的成败紧密相连。作者分析了变性手术的局限性，强调了人造性器官无法完全替代自然的生理与心理感受。此外，文章提出了“放弃”作为一种心理策略，以帮助个体辨别变性与自身幸福之间的关系，鼓励他们重新审视自己的自然性别，这一观点引发了对于性别认同与快乐体验的重要讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_[心理探幽]变性心态，说放弃太难？.md                             |
-> | Size            | 9563 bytes                           |
-> | Archived Date   | 2024-11-02 05:35:04                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-02/detail-ikknscsk0687369.d.html?from=wap](https://news.sina.cn/sa/2006-08-02/detail-ikknscsk0687369.d.html?from=wap)                       |
-> | Author          | 人民网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2006-08-02                                 |
-> | Tags            | 跨性别, 性别心理, 变性经历, 性快乐, 心理健康, 放弃策略                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_[心理探幽]变性心态，说放弃太难？.md                             |
+| Size            | 9563 bytes                           |
+| Archived Date   | 2024-11-02 05:35:04                             |
+| Original Link   | [https://news.sina.cn/sa/2006-08-02/detail-ikknscsk0687369.d.html?from=wap](https://news.sina.cn/sa/2006-08-02/detail-ikknscsk0687369.d.html?from=wap)                       |
+| Author          | 人民网                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-08-02                                 |
+| Tags            | 跨性别, 性别心理, 变性经历, 性快乐, 心理健康, 放弃策略                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

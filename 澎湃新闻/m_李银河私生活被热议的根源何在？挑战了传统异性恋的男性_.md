@@ -41,18 +41,18 @@
 本文讨论了性学大师李银河的私生活以及公众对其异性恋观念的热议，探讨了传统异性恋观念在面对跨性别者以及不同性别认同时的冲突。李银河的声明引发了广泛的评论与质疑，尤其是关于她的性别认同及其与女性伴侣的关系是否合法的讨论。文章指出，李银河挑战了大众对异性恋概念的刻板印象，可视为一份颠覆传统性别观的‘异性恋宣言’。与此同时，作者也提到了国际上跨性别议题的复杂性，例如菲律宾跨性别女性Jennifer Laude被杀事件以及其对国际政治的影响，强调了跨性别者议题不仅是个人隐私问题，更是社会与政治的重要课题。整篇文章充满了对性别认同及异性恋定义的深入思考，呼吁读者对跨性别者的理解与接纳。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_李银河私生活被热议的根源何在？挑战了传统异性恋的男性_.md                             |
-> | Size            | 7367 bytes                           |
-> | Archived Date   | 2024-11-03 08:30:55                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=1287406&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=1287406&from=kuaibao)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 性别认同, 异性恋, 李银河, 性别研究, 社会环境, 法律政策, 生存现状, 国际政治                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_李银河私生活被热议的根源何在？挑战了传统异性恋的男性_.md                             |
+| Size            | 7367 bytes                           |
+| Archived Date   | 2024-11-03 08:30:55                             |
+| Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=1287406&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=1287406&from=kuaibao)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 异性恋, 李银河, 性别研究, 社会环境, 法律政策, 生存现状, 国际政治                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

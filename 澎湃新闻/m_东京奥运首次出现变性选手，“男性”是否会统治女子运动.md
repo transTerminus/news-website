@@ -109,18 +109,18 @@
 本文讨论了即将于东京举行的奥运会中，变性选手哈伯德的参赛情况及由此引发的争议。哈伯德作为第一位以变性人身份参赛的选手，其背景和竞争资格引起了公众的关注。文章详细介绍了她的性别身份转换过程，以及国际奥委会对于变性运动员参赛的相关规则。此外，文中提及了对变性运动员参赛的多个观点，包括支持与反对的声音，反映了这一议题在社会中的复杂性与争议，特别是在公平性和竞赛规则方面的讨论。哈伯德的参赛在一定程度上被视为一种趋势，可能会引发更多相关问题的讨论和法律诉讼。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_东京奥运首次出现变性选手，“男性”是否会统治女子运动.md                             |
-> | Size            | 6787 bytes                           |
-> | Archived Date   | 2024-11-03 08:49:25                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13286388](https://m.thepaper.cn/newsDetail_forward_13286388)                       |
-> | Author          | 宗威                               |
-> | Region          | 未知                               |
-> | Date            | 2021-07-21                                 |
-> | Tags            | 东京奥运会, 变性选手, 性别身份, 体育争议, 女性运动, 国际奥委会, 公平竞赛                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_东京奥运首次出现变性选手，“男性”是否会统治女子运动.md                             |
+| Size            | 6787 bytes                           |
+| Archived Date   | 2024-11-03 08:49:25                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_13286388](https://m.thepaper.cn/newsDetail_forward_13286388)                       |
+| Author          | 宗威                               |
+| Region          | 未知                               |
+| Date            | 2021-07-21                                 |
+| Tags            | 东京奥运会, 变性选手, 性别身份, 体育争议, 女性运动, 国际奥委会, 公平竞赛                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

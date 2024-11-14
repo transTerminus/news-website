@@ -36,18 +36,18 @@
 本文报道了跨性别者婴宁在变性过程中的经历及医生赵烨德的看法。婴宁的变性手术引起了广泛关注，而赵博士在手术前与婴宁有长达半年的书信交流，试图劝说婴宁放弃手术，最终因婴宁坚定的决心和清晰的表达，认可了婴宁手术的必要性。文章深入探讨了变性手术的复杂性，以及在医生和患者之间建立信任的重要性。在描述手术过程时，赵博士对婴宁的坚强和艺术才能表示高度赞赏，并希望社会能够给予她理解与支持，帮助她顺利融入生活。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_一直劝婴宁放弃变性.md                             |
-> | Size            | 3653 bytes                           |
-> | Archived Date   | 2024-11-11 07:01:46                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-06-30/detail-ikftssap2910001.d.html](https://news.sina.cn/sa/2007-06-30/detail-ikftssap2910001.d.html)                       |
-> | Author          | 每日新报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2007-06-30                                 |
-> | Tags            | 跨性别, 变性手术, 医疗经验, 生命故事, 社会支持                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_一直劝婴宁放弃变性.md                             |
+| Size            | 3653 bytes                           |
+| Archived Date   | 2024-11-11 07:01:46                             |
+| Original Link   | [https://news.sina.cn/sa/2007-06-30/detail-ikftssap2910001.d.html](https://news.sina.cn/sa/2007-06-30/detail-ikftssap2910001.d.html)                       |
+| Author          | 每日新报                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-06-30                                 |
+| Tags            | 跨性别, 变性手术, 医疗经验, 生命故事, 社会支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

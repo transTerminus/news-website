@@ -52,18 +52,18 @@
 本文详细探讨了中国第一伪娘团体——爱丽丝伪娘团的起源与发展，展示了伪娘这一特殊文化现象的流行及其社会反响。伪娘是指那些在外形上拥有女性特征的男性角色，他们通过化妆及服装打扮来展示女性美貌。文中提到，这些伪娘以其细腻妆容和优美身姿吸引了大量关注，引发了公众对于性别认同和审美标准的讨论。此团体最初只有九个成员，如今已经发展到200多名，其在微博和百度贴吧上的人气不言而喻，标示出伪娘文化在中国的潜在影响力。同时，文章还提到这一社团的成员全是男生，心理生理状况没有问题，仅仅是变装而已，展现了更为复杂的性别表达。通过丰富的图像以及兴奋的社交媒体反馈，文章传达了公众对这一现象的好奇与关注。这也引发了对于美丽标准及性别角色的深层思考。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | ifinance_深扒中国第一伪娘团体：腿长腰细胸大皮肤白.md                             |
-> | Size            | 4858 bytes                           |
-> | Archived Date   | 2024-11-09 09:55:55                             |
-> | Original Link   | [http://ifinance.ifeng.com/yidian/14126381/news.shtml?ch=ref_zbs_ydzx_news](http://ifinance.ifeng.com/yidian/14126381/news.shtml?ch=ref_zbs_ydzx_news)                       |
-> | Author          | 网络综合整理                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2015-12-01                                 |
-> | Tags            | 跨性别, 伪娘, 社团, 爱丽丝伪娘团, 性别表达, 文化现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ifinance_深扒中国第一伪娘团体：腿长腰细胸大皮肤白.md                             |
+| Size            | 4858 bytes                           |
+| Archived Date   | 2024-11-09 09:55:55                             |
+| Original Link   | [http://ifinance.ifeng.com/yidian/14126381/news.shtml?ch=ref_zbs_ydzx_news](http://ifinance.ifeng.com/yidian/14126381/news.shtml?ch=ref_zbs_ydzx_news)                       |
+| Author          | 网络综合整理                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-12-01                                 |
+| Tags            | 跨性别, 伪娘, 社团, 爱丽丝伪娘团, 性别表达, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

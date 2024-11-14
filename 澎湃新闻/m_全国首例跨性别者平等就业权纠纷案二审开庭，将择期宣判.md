@@ -50,18 +50,18 @@
 本文报道了全国首例跨性别者平等就业权纠纷案的二审开庭情况。此案源于一名跨性别员工小马在接受性别置换手术后，被其用人单位以“迟到”为借口解雇。案件引发了关于性别歧视和平等就业权的辩论。在庭审中，小马的代理律师强调了公司可能存在的歧视行为，而被告公司则坚称解除劳动合同是因小马违背了公司规定。尽管小马在性别重置手术前已向公司告知手术安排并申请停薪留职，但最终公司仍以迟到为由解雇小马。案件一审判决驳回了小马的诉讼请求，引发更广泛的关注。小马希望通过此案，让更多人关注和理解跨性别者的权利与需求。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_全国首例跨性别者平等就业权纠纷案二审开庭，将择期宣判.md                             |
-> | Size            | 4208 bytes                           |
-> | Archived Date   | 2024-11-03 10:14:55                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=7600904&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=7600904&from=wifiKey)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-05-28                                 |
-> | Tags            | 平等就业, 跨性别者, 性别歧视, 法律纠纷, 医疗与过渡经历, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_全国首例跨性别者平等就业权纠纷案二审开庭，将择期宣判.md                             |
+| Size            | 4208 bytes                           |
+| Archived Date   | 2024-11-03 10:14:55                             |
+| Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=7600904&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=7600904&from=wifiKey)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-05-28                                 |
+| Tags            | 平等就业, 跨性别者, 性别歧视, 法律纠纷, 医疗与过渡经历, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -25,18 +25,18 @@
 该文件报道了一起发生在韩国的强奸案件，案件的被害者是一名58岁的变性女性。文章指出，韩国法庭于2009年2月18日做出了具有标志性的判决，判处强奸她的28岁男子三年监禁。判决中，法庭确认被强奸者的法律性别为女性，基于她自1974年完成变性手术以来的性别身份。虽然韩国刑法并未明文规定同性恋强奸的概念，但文件提到，2006年韩国法律承认了变性人在官方文件中使用其新性别的权利。这一判决在社会中引起了广泛关注，反映出当代社会对变性人权益的法律保护仍在不断演变之中。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_韩国28岁男子强奸变性人被判刑三年.md                             |
-> | Size            | 1430 bytes                           |
-> | Archived Date   | 2024-11-08 10:01:57                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/yt/news/2009/02-18/1569085.shtml](https://www.chinanews.com.cn/gj/yt/news/2009/02-18/1569085.shtml)                       |
-> | Author          | 中新网                               |
-> | Region          | 韩国                               |
-> | Date            | 2009-02-18                                 |
-> | Tags            | 变性人, 强奸案件, 法律判决, 跨性别权益, 社会问题                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_韩国28岁男子强奸变性人被判刑三年.md                             |
+| Size            | 1430 bytes                           |
+| Archived Date   | 2024-11-08 10:01:57                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/yt/news/2009/02-18/1569085.shtml](https://www.chinanews.com.cn/gj/yt/news/2009/02-18/1569085.shtml)                       |
+| Author          | 中新网                               |
+| Region          | 韩国                               |
+| Date            | 2009-02-18                                 |
+| Tags            | 变性人, 强奸案件, 法律判决, 跨性别权益, 社会问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

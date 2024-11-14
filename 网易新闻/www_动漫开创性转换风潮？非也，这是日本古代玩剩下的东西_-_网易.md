@@ -51,18 +51,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文探讨了日本动漫中性转换元素的历史与现状。文章首先讨论了日本动漫如何以性转换为主题，提到了高桥留美子的《乱马1/2》作为经典作品，介绍了性转角色早乙女乱马在动漫界的影响。接着，文章提到新海诚执导的《你的名字。》，其剧情涉及到性转换的设定，并受到观众的喜爱。此外，文章引用了近期的搞笑动漫《后街女孩》，讲述了三名黑道成员在变性后成为美少女偶像的故事，展示了性别认同与生理差异之间的幽默冲突。最后，文章指出性转换并非新近现象，已在日本古代绘画和文学中找得到踪迹，探讨了文化传承的问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_动漫开创性转换风潮？非也，这是日本古代玩剩下的东西_-_网易.md                             |
-> | Size            | 4535 bytes                           |
-> | Archived Date   | 2024-11-08 06:01:13                             |
-> | Original Link   | [https://www.163.com/dy/article/EJAL0SU30515LABO.html](https://www.163.com/dy/article/EJAL0SU30515LABO.html)                       |
-> | Author          | 拾部TV                               |
-> | Region          | 日本                               |
-> | Date            | 2019-07-06                                 |
-> | Tags            | 动漫, 性转换, 高桥留美子, 乱马1/2, 你的名字, 后街女孩, 文化传承, 日本古代文化, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_动漫开创性转换风潮？非也，这是日本古代玩剩下的东西_-_网易.md                             |
+| Size            | 4535 bytes                           |
+| Archived Date   | 2024-11-08 06:01:13                             |
+| Original Link   | [https://www.163.com/dy/article/EJAL0SU30515LABO.html](https://www.163.com/dy/article/EJAL0SU30515LABO.html)                       |
+| Author          | 拾部TV                               |
+| Region          | 日本                               |
+| Date            | 2019-07-06                                 |
+| Tags            | 动漫, 性转换, 高桥留美子, 乱马1/2, 你的名字, 后街女孩, 文化传承, 日本古代文化, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -82,18 +82,18 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 本文记录了作者与一位自述为跨性别者的网友之间的交流过程。该网友原以男同性恋者身份与作者沟通，然而在阅读了《彩虹》一书后，逐渐意识到自己实际上是跨性别者。在交流中，这位网友分享了自己的心路历程，描述了在认知自我、追求幸福的道路上所遭遇的挑战和思考。作者吴幼坚对网友的鼓励和指导充满关心，从个人经历出发，讨论了在社会和家庭压力下的自我认知与接纳。这篇文章不仅展现了跨性别者在生活中的困境，也呼唤社会对他们的理解与支持。同时，文章中的交流内容也体现出亲情与友谊的温暖。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | blog_与自述是跨性别者的网友交流-_吴幼坚_-_新浪网站导航.md                             |
-> | Size            | 7779 bytes                           |
-> | Archived Date   | 2024-11-09 06:04:35                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_4b7a5b61010309cq.html](https://blog.sina.com.cn/s/blog_4b7a5b61010309cq.html)                       |
-> | Author          | 吴幼坚                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-12-13                                 |
-> | Tags            | 跨性别者, 浏览故事, 自我认知, 心理支持, 情感交流, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | blog_与自述是跨性别者的网友交流-_吴幼坚_-_新浪网站导航.md                             |
+| Size            | 7779 bytes                           |
+| Archived Date   | 2024-11-09 06:04:35                             |
+| Original Link   | [https://blog.sina.com.cn/s/blog_4b7a5b61010309cq.html](https://blog.sina.com.cn/s/blog_4b7a5b61010309cq.html)                       |
+| Author          | 吴幼坚                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-12-13                                 |
+| Tags            | 跨性别者, 浏览故事, 自我认知, 心理支持, 情感交流, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

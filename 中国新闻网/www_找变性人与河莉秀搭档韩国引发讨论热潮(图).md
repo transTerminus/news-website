@@ -31,18 +31,18 @@
 该文件报道了韩国著名变性艺人河莉秀在MBC特别剧集《颤抖的心》中担任变性美发师的角色，引发了社会热议。文章详细介绍了剧中河莉秀因变性人身份而面临家庭不接受的困境，以及她和同样是变性人的室友之间深厚的情谊。制作团队为了保持故事真实，特别挑选了新晋变性演员来扮演她的亲姐姐。此外，该剧在保守的韩国背景下也引发了公众对变性人话题的广泛讨论。文章中提到河莉秀为演好角色而进行的发型训练，展现了她对角色的投入和专业度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_找变性人与河莉秀搭档韩国引发讨论热潮(图).md                             |
-> | Size            | 2436 bytes                           |
-> | Archived Date   | 2024-11-08 09:12:45                             |
-> | Original Link   | [http://www.chinanews.com.cn/news/2005/2005-04-05/26/559271.shtml](http://www.chinanews.com.cn/news/2005/2005-04-05/26/559271.shtml)                       |
-> | Author          | 未知                               |
-> | Region          | 韩国                               |
-> | Date            | 2005-04-05                                 |
-> | Tags            | 跨性别, 变性人, 娱乐, 媒体, 社会讨论, 电视剧                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_找变性人与河莉秀搭档韩国引发讨论热潮(图).md                             |
+| Size            | 2436 bytes                           |
+| Archived Date   | 2024-11-08 09:12:45                             |
+| Original Link   | [http://www.chinanews.com.cn/news/2005/2005-04-05/26/559271.shtml](http://www.chinanews.com.cn/news/2005/2005-04-05/26/559271.shtml)                       |
+| Author          | 未知                               |
+| Region          | 韩国                               |
+| Date            | 2005-04-05                                 |
+| Tags            | 跨性别, 变性人, 娱乐, 媒体, 社会讨论, 电视剧                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

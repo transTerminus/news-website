@@ -39,18 +39,18 @@
 本文报道了香港名嘴萧若元在网络电台中曝光的一项震惊消息，称在过去12年中，有一位港姐选手是变性人，此言论引起了社会的广泛关注。文章中提到，前港姐冠军朱玲玲及其他港姐对此消息的反应，朱玲玲表示难以置信，认为应该有公开的信息。向海岚与莫可欣对此事的态度也反映出对变性人的包容和理解，虽不承认此传闻，但对变性人参与选美活动表示支持。此外，文章提供了一些背景，包括有关慈善组织“慧妍雅集”的活动，以及对变性人在选美界接受程度的探讨。总体来看，此报道不仅涉及社会对于变性人身份的理解和接受，也反映了媒体对这类话题的敏感度和责任。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_名嘴爆称港姐有变性人“最美丽港姐”震惊(图)——中新网.md                             |
-> | Size            | 3057 bytes                           |
-> | Archived Date   | 2024-11-08 09:44:30                             |
-> | Original Link   | [https://www.chinanews.com.cn/ga/ga-ylmt/news/2010/05-24/2299859.shtml](https://www.chinanews.com.cn/ga/ga-ylmt/news/2010/05-24/2299859.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 香港                               |
-> | Date            | 2010-05-24                                 |
-> | Tags            | 变性人, 港姐, 社会反响, 媒体报道, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_名嘴爆称港姐有变性人“最美丽港姐”震惊(图)——中新网.md                             |
+| Size            | 3057 bytes                           |
+| Archived Date   | 2024-11-08 09:44:30                             |
+| Original Link   | [https://www.chinanews.com.cn/ga/ga-ylmt/news/2010/05-24/2299859.shtml](https://www.chinanews.com.cn/ga/ga-ylmt/news/2010/05-24/2299859.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 香港                               |
+| Date            | 2010-05-24                                 |
+| Tags            | 变性人, 港姐, 社会反响, 媒体报道, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

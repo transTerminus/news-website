@@ -19,18 +19,18 @@ Copyright © 2011 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有]
 本文详细记录了泰国人妖变性手术的全过程，涉及一名男性患者在泰国Yanhee医院接受变性手术的各个环节。文件通过一系列实拍图片展示了患者在手术前的准备过程，包括在医院阅读手册和接受医生的检查，以及手术进行中的场景。这名患者在很小的年龄就渴望着能够变成女孩，手术的实施是她实现梦想的重要一步。文中提到了泰国对于变性手术的相关规定，包括对20岁以下患者的父母同意要求、术前心理咨询以及一年内的荷尔蒙注射等。这些规定保障了患者在手术前的充分准备与考量，同时也反映了泰国在这一医疗领域的专业性与严谨性。文末附上了版权信息以及相关的图片链接。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | pic_实拍泰国人妖变性手术全过程(图)_-_搜狐.md                             |
-> | Size            | 1401 bytes                           |
-> | Archived Date   | 2024-11-07 04:30:32                             |
-> | Original Link   | [http://pic.women.sohu.com/(none)/(none)/group-235161.shtml](http://pic.women.sohu.com/(none)/(none)/group-235161.shtml)                       |
-> | Author          | 搜狐新闻                               |
-> | Region          | 泰国                               |
-> | Date            | 未知                                 |
-> | Tags            | 变性手术, 泰国医疗旅游, 跨性别, 生命故事, 医疗资源, 手术经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | pic_实拍泰国人妖变性手术全过程(图)_-_搜狐.md                             |
+| Size            | 1401 bytes                           |
+| Archived Date   | 2024-11-07 04:30:32                             |
+| Original Link   | [http://pic.women.sohu.com/(none)/(none)/group-235161.shtml](http://pic.women.sohu.com/(none)/(none)/group-235161.shtml)                       |
+| Author          | 搜狐新闻                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 泰国医疗旅游, 跨性别, 生命故事, 医疗资源, 手术经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -34,18 +34,18 @@
 本文报道了美国联邦法官柯林·科勒科特利的裁决，宣布变性人士将在2018年1月1日起可以在美军服役。这一裁决被视为对特朗普政府要求推迟变性人士合法参军的诉求的反击。法官表示，联邦政府未能提供变性人士入伍会造成的具体损害理由。五角大楼已开始准备接收变性人士服役，并明确这些人必须符合严格的体检标准。此决定标志着推进变性人权利的一次重要进展，同时也引发了关于军事政策及性别平等的广泛讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_美国联邦法官命令美军新年开始接收变性人服役.md                             |
-> | Size            | 6264 bytes                           |
-> | Archived Date   | 2024-11-08 09:28:09                             |
-> | Original Link   | [https://m.chinanews.com.cn/wap/detail/chs/zwsp/8398423.shtml](https://m.chinanews.com.cn/wap/detail/chs/zwsp/8398423.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 美国                               |
-> | Date            | 2017-12-12                                 |
-> | Tags            | 变性人, 美军, 服役, 法律政策, 特朗普政府, 性别平等                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_美国联邦法官命令美军新年开始接收变性人服役.md                             |
+| Size            | 6264 bytes                           |
+| Archived Date   | 2024-11-08 09:28:09                             |
+| Original Link   | [https://m.chinanews.com.cn/wap/detail/chs/zwsp/8398423.shtml](https://m.chinanews.com.cn/wap/detail/chs/zwsp/8398423.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 美国                               |
+| Date            | 2017-12-12                                 |
+| Tags            | 变性人, 美军, 服役, 法律政策, 特朗普政府, 性别平等                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

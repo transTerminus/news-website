@@ -31,18 +31,18 @@
 该文件探讨了泰国人妖文化的起源与现状，指出每年有大量游客前往泰国旅游，尤其是对人妖文化产生浓厚兴趣。文件详尽地描述了人妖为了维持美丽所需服用的特殊药物，以及这些药物对健康的潜在影响。作者提到，尽管人妖在表演行业中取得了经济收益，但他们仍面临着社会的偏见和对自我身份的挣扎。文章还提到较低的生活水平是许多男性选择成为人妖的原因，并提到人妖学校的存在。通过探讨这些药物的使用，文章引发读者对人妖群体的同情与关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_泰国人妖接待游客前，为何会提前口服特殊药物？看完长见识了_-_网易.md                             |
-> | Size            | 2676 bytes                           |
-> | Archived Date   | 2024-11-08 07:21:36                             |
-> | Original Link   | [https://www.163.com/dy/article/I53AOD9U0556201D.html](https://www.163.com/dy/article/I53AOD9U0556201D.html)                       |
-> | Author          | 未知                               |
-> | Region          | 泰国                               |
-> | Date            | 2023-05-19                                 |
-> | Tags            | 人妖文化, 泰国旅游, 跨性别, 性别认同, 药物影响                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国人妖接待游客前，为何会提前口服特殊药物？看完长见识了_-_网易.md                             |
+| Size            | 2676 bytes                           |
+| Archived Date   | 2024-11-08 07:21:36                             |
+| Original Link   | [https://www.163.com/dy/article/I53AOD9U0556201D.html](https://www.163.com/dy/article/I53AOD9U0556201D.html)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2023-05-19                                 |
+| Tags            | 人妖文化, 泰国旅游, 跨性别, 性别认同, 药物影响                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

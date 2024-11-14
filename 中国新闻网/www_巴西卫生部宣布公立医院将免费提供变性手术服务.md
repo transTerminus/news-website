@@ -40,18 +40,18 @@
 该文件是关于巴西卫生部宣布公立医院将免费提供变性手术服务的新闻报道。报道指出，为了尊重每个人的性别自主权，巴西卫生部于2008年6月7日宣布这一政策，允许年满21岁、经过医生诊断未存人格异常问题的民众在公立医院享受免费变性手术。卫生部长特波拉奥提到，这项政策将首先在里约热内卢、圣保罗、美纳斯等地的公立医院试行，显现出巴西在性别尊重与开放方面的进展。虽然该政策受到一些民众的支持，但也有部分人持反对意见，表示不应违背自然。此消息来自中国新闻网，内容覆盖了社会对这一政策的反应及其可能的影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_巴西卫生部宣布公立医院将免费提供变性手术服务.md                             |
-> | Size            | 2195 bytes                           |
-> | Archived Date   | 2024-11-08 09:05:44                             |
-> | Original Link   | [http://www.chinanews.com.cn/gj/lmfz/news/2008/06-07/1275460.shtml](http://www.chinanews.com.cn/gj/lmfz/news/2008/06-07/1275460.shtml)                       |
-> | Author          | 李洋                               |
-> | Region          | 巴西                               |
-> | Date            | 2008-06-07                                 |
-> | Tags            | 变性手术, 巴西卫生部, 性别自主权, 医疗政策, 社会反应                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_巴西卫生部宣布公立医院将免费提供变性手术服务.md                             |
+| Size            | 2195 bytes                           |
+| Archived Date   | 2024-11-08 09:05:44                             |
+| Original Link   | [http://www.chinanews.com.cn/gj/lmfz/news/2008/06-07/1275460.shtml](http://www.chinanews.com.cn/gj/lmfz/news/2008/06-07/1275460.shtml)                       |
+| Author          | 李洋                               |
+| Region          | 巴西                               |
+| Date            | 2008-06-07                                 |
+| Tags            | 变性手术, 巴西卫生部, 性别自主权, 医疗政策, 社会反应                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

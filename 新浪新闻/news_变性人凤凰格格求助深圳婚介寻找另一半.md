@@ -43,18 +43,18 @@
 该文件介绍了一位名为凤凰格格的变性人于2008年7月20日访问深圳一家婚介机构的经历。凤凰格格表达了自己在变性后寻求爱情的困惑与挑战，提到在过去的交往中，因为告知对方自己的性别经历，往往导致男朋友选择悄然离开，从而让她在感情上感到不自信与失落。取得了新的身份证后，凤凰格格感到了一丝欣慰，认为这增加了她的自信心。她在婚介所中对于寻找伴侣的要求更倾向于对方的善良与爱护，而非物质条件。婚介负责人秋云对凤凰格格的外貌表示赞赏，并鼓励她应保持信心与乐观，以增加找到真爱的机会。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人凤凰格格求助深圳婚介寻找另一半.md                             |
-> | Size            | 2279 bytes                           |
-> | Archived Date   | 2024-11-02 06:00:59                             |
-> | Original Link   | [https://news.sina.cn/sa/2008-07-23/detail-ikkntian0800252.d.html](https://news.sina.cn/sa/2008-07-23/detail-ikkntian0800252.d.html)                       |
-> | Author          | 深圳新闻网 (记者 陶静 通讯员 杨露)                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2008-07-20                                 |
-> | Tags            | 变性人, 婚介, 个人故事, 心理健康, 深圳, , 爱情, 社会接受                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人凤凰格格求助深圳婚介寻找另一半.md                             |
+| Size            | 2279 bytes                           |
+| Archived Date   | 2024-11-02 06:00:59                             |
+| Original Link   | [https://news.sina.cn/sa/2008-07-23/detail-ikkntian0800252.d.html](https://news.sina.cn/sa/2008-07-23/detail-ikkntian0800252.d.html)                       |
+| Author          | 深圳新闻网 (记者 陶静 通讯员 杨露)                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-07-20                                 |
+| Tags            | 变性人, 婚介, 个人故事, 心理健康, 深圳, , 爱情, 社会接受                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

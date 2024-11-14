@@ -43,18 +43,18 @@
 这篇文章报道了2010年11月19日在泰国芭达雅举行的第六届“国际皇后小姐”变性人选美大赛。文中提到，韩国选手在此次比赛中荣获冠军，亚军和季军分别由日本和美国的参赛者获得。这场比赛的举办旨在展现变性人的魅力和多样性，提供一个平台让更多变性人群体获得社会关注和认可。文章中还包含了比赛现场的图片及相关的链接。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_国际变性人选美大赛韩国“小姐”夺冠.md                             |
-> | Size            | 1628 bytes                           |
-> | Archived Date   | 2024-11-08 10:34:15                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/hd/2010/11-20/15010.shtml](https://www.chinanews.com.cn/tp/hd/2010/11-20/15010.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国                               |
-> | Date            | 2010-11-19                                 |
-> | Tags            | 变性人, 选美大赛, 国际赛事, 韩国, 社会认可, 变性人文化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国际变性人选美大赛韩国“小姐”夺冠.md                             |
+| Size            | 1628 bytes                           |
+| Archived Date   | 2024-11-08 10:34:15                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/hd/2010/11-20/15010.shtml](https://www.chinanews.com.cn/tp/hd/2010/11-20/15010.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国                               |
+| Date            | 2010-11-19                                 |
+| Tags            | 变性人, 选美大赛, 国际赛事, 韩国, 社会认可, 变性人文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

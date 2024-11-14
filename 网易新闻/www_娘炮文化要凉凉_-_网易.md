@@ -31,18 +31,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文主要探讨了当前网络上流行的"娘炮文化"及其引发的社会反响。文中以网络主播风小艺为例，描述了他因表现"娘炮"形象而被封号的事件，强调了社会对传统阳刚形象的期待和对低俗文化的打击。作者指出，男孩应当拥有阳光积极的形象，并批评了一些青少年对"阴柔之美"的追求，认为这种文化现象可能会影响未来的社会风气。文章中提到对"娘炮文化"应有明确的界限，倡导进行必要的文化整治，以确保健康的审美观念在青少年中传播。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_娘炮文化要凉凉_-_网易.md                             |
-> | Size            | 3316 bytes                           |
-> | Archived Date   | 2024-11-08 06:35:59                             |
-> | Original Link   | [https://www.163.com/dy/article/GJA85OO30534L24W.html](https://www.163.com/dy/article/GJA85OO30534L24W.html)                       |
-> | Author          | 力口翻倍                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-09-07                                 |
-> | Tags            | 娘炮文化, 网络文化, 青少年审美, 社会评论, 文化现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_娘炮文化要凉凉_-_网易.md                             |
+| Size            | 3316 bytes                           |
+| Archived Date   | 2024-11-08 06:35:59                             |
+| Original Link   | [https://www.163.com/dy/article/GJA85OO30534L24W.html](https://www.163.com/dy/article/GJA85OO30534L24W.html)                       |
+| Author          | 力口翻倍                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-09-07                                 |
+| Tags            | 娘炮文化, 网络文化, 青少年审美, 社会评论, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

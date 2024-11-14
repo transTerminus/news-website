@@ -118,18 +118,18 @@
 本文收录了六位女性的生命故事与个人经历，探讨了她们与“女性性别认同”相关的各种片段和体悟。每位女性通过自身经历描述了在社会性别角色的塑造下，对性别认同的认识与挣扎。这些故事反映了女性在生活、学习和工作中的复杂身份认同，以及她们在困惑中所作出的自我探索和抗争。诸如对自身身体的意识、发型变化引发的家庭矛盾、教育环境中的性别歧视、在性别认同中感受到的孤独与归属、以及对社会刻板印象的反思与挑战等，均被各位作者细腻而真诚地呈现。文章强调女性在追求自己身份和权利的过程中，面临的社会期望与压力，同时呼吁社会对性别认同的理解与尊重。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_我们邀请六位女性，书写生命中与“女性性别认同”有关的片段.md                             |
-> | Size            | 17567 bytes                           |
-> | Archived Date   | 2024-11-03 09:40:28                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_6421866](https://m.thepaper.cn/newsDetail_forward_6421866)                       |
-> | Author          | 北大青年                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 女性性别认同, 跨性别, 生命故事, 性别意识, 社会环境, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_我们邀请六位女性，书写生命中与“女性性别认同”有关的片段.md                             |
+| Size            | 17567 bytes                           |
+| Archived Date   | 2024-11-03 09:40:28                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_6421866](https://m.thepaper.cn/newsDetail_forward_6421866)                       |
+| Author          | 北大青年                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 女性性别认同, 跨性别, 生命故事, 性别意识, 社会环境, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

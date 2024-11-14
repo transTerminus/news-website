@@ -33,18 +33,18 @@
 该文件来自中国新闻网，讨论了美国联邦政府于2015年9月6日提出的一项医疗保健法律的扩展，特别强调保护跨性别者的权利。文件指出，新的规定要求保险公司和医疗提供者必须平等对待所有患者，包括变性人，禁止基于性别或性别认同的歧视。此法律扩展旨在解决先前法律（即2010年通过的“奥巴马健保”）在执行中存在的不足，并通过加强反歧视内容，确保所有人与其性别认同无关，均可享有医疗保险。此外，文中也提到，卫生和公众服务部在近年来收到了大量关于跨性别者面临的歧视投诉，表明医疗行业歧视现象依然存在。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_美国政府扩充“奥巴马医保”法规.md                             |
-> | Size            | 6270 bytes                           |
-> | Archived Date   | 2024-11-08 09:25:17                             |
-> | Original Link   | [https://m.chinanews.com.cn/wap/detail/chs/zw/7507150.shtml](https://m.chinanews.com.cn/wap/detail/chs/zw/7507150.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 美国                               |
-> | Date            | 2015-09-06                                 |
-> | Tags            | 医疗保障, 跨性别权益, 歧视, 法律政策, 奥巴马医保, 变性人, 健康权益                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_美国政府扩充“奥巴马医保”法规.md                             |
+| Size            | 6270 bytes                           |
+| Archived Date   | 2024-11-08 09:25:17                             |
+| Original Link   | [https://m.chinanews.com.cn/wap/detail/chs/zw/7507150.shtml](https://m.chinanews.com.cn/wap/detail/chs/zw/7507150.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 美国                               |
+| Date            | 2015-09-06                                 |
+| Tags            | 医疗保障, 跨性别权益, 歧视, 法律政策, 奥巴马医保, 变性人, 健康权益                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

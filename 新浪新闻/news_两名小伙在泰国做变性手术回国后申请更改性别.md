@@ -62,18 +62,18 @@
 该文件记录了两名年轻男性在泰国完成变性手术后返回中国并申请更改户籍性别的经历。文章详细描述了这两位年轻人在手术后的生活、心理状态以及在法律和行政过程中遇到的挑战。根据报道，虽然她们外在形象已经是女性，但法律上仍需经历复杂的程序才能正式变更性别。公证处的工作人员小钱在接待她们时，表现出了对这一新兴议题的关注和专业，不仅帮助她们进行公证，也对未来性别法律变更可能带来的影响进行了探讨。整篇文章映射出跨性别人士在适应社会中的法律与身份矛盾，展示了她们努力追求社会认同与身份认同的现实情况。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_两名小伙在泰国做变性手术回国后申请更改性别.md                             |
-> | Size            | 3035 bytes                           |
-> | Archived Date   | 2024-11-02 06:35:06                             |
-> | Original Link   | [https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4](https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2016-09-27                                 |
-> | Tags            | 跨性别, 变性手术, 性别认同, 法律政策, 身份变更                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_两名小伙在泰国做变性手术回国后申请更改性别.md                             |
+| Size            | 3035 bytes                           |
+| Archived Date   | 2024-11-02 06:35:06                             |
+| Original Link   | [https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4](https://news.sina.cn/sh/2016-09-27/detail-ifxwevmc5592199.d.html?vt=4)                       |
+| Author          | 中国新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-09-27                                 |
+| Tags            | 跨性别, 变性手术, 性别认同, 法律政策, 身份变更                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

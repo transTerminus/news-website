@@ -68,18 +68,18 @@ ID：pjw-documentary
 这篇文章详细介绍了纪录片《李二毛的双重人生》，该纪录片在2019年阿姆斯特丹国际纪录片电影节（IDFA）上展映，主要关注中国LGBT族群，尤其是变性人群体的生存困境。影片围绕主人公李二毛的故事展开，展现了她在中国社会中面临的压迫与挑战，包括性别认同、家庭背景、社会偏见和情感关系的艰辛。纪录片通过生动的叙述和真实的记录，反映了李二毛的抗争与困境，揭示了社会对变性人缺乏理解和接纳的现状。文章也提及了影片在展映过程中获得的关注，以及女性导演在LGBT题材电影中的重要性与影响力。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_这部纪录片，呈现了中国LGBT族群的抗争_-_澎湃新闻.md                             |
-> | Size            | 6586 bytes                           |
-> | Archived Date   | 2024-11-03 09:43:56                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7931257](https://m.thepaper.cn/newsDetail_forward_7931257)                       |
-> | Author          | Louis Hothothot，澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2019-11-01                                 |
-> | Tags            | LGBT, 纪录片, 抗争, 变性人, 社会环境, 生存现状, 文化观察                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_这部纪录片，呈现了中国LGBT族群的抗争_-_澎湃新闻.md                             |
+| Size            | 6586 bytes                           |
+| Archived Date   | 2024-11-03 09:43:56                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_7931257](https://m.thepaper.cn/newsDetail_forward_7931257)                       |
+| Author          | Louis Hothothot，澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-11-01                                 |
+| Tags            | LGBT, 纪录片, 抗争, 变性人, 社会环境, 生存现状, 文化观察                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

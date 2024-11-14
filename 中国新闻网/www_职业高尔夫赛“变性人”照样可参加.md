@@ -36,18 +36,18 @@
 这篇文章讨论了跨性别者在职业高尔夫球赛事中参赛的合法性问题。文中提到，美国公民劳莱斯在接受了变性手术后，控告女子职业高尔夫球协会（LPGA）因其禁止变性人参赛而违反加州公民权利法。作为回应，LPGA决定在年终会议上修改章程，允许变性女性参加职业巡回赛，这标志着体育界对跨性别者权益的认可与进步。此外，文章还引用了包括山东大学法学院教授黄世席的评论，指出变性人作为普通公民拥有参加体育比赛的权利，反映出社会对跨性别权利越来越多的关注与支持。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_职业高尔夫赛“变性人”照样可参加.md                             |
-> | Size            | 2147 bytes                           |
-> | Archived Date   | 2024-11-08 10:50:07                             |
-> | Original Link   | [https://www.chinanews.com.cn/ty/2010/12-02/2696096.shtml](https://www.chinanews.com.cn/ty/2010/12-02/2696096.shtml)                       |
-> | Author          | 重庆晚报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-12-02                                 |
-> | Tags            | 跨性别, 体育, 高尔夫, 权益, 社会进步, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_职业高尔夫赛“变性人”照样可参加.md                             |
+| Size            | 2147 bytes                           |
+| Archived Date   | 2024-11-08 10:50:07                             |
+| Original Link   | [https://www.chinanews.com.cn/ty/2010/12-02/2696096.shtml](https://www.chinanews.com.cn/ty/2010/12-02/2696096.shtml)                       |
+| Author          | 重庆晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-12-02                                 |
+| Tags            | 跨性别, 体育, 高尔夫, 权益, 社会进步, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -32,18 +32,18 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有]
 这篇文章来自搜狐新闻，介绍了泰国普吉岛的一种特色表演——“人妖”表演。文章中提到，普吉岛不仅以其壮丽的自然风光和丰富的海鲜而闻名，还有各具特色的“人妖”艺术表演，吸引了来自世界各地的游客。人妖表演不仅是艺术的展示，更是融合了不同文化与艺术形式的独特体验。文章配有多张表演的图片，展示了表演者的华丽服饰和精湛表演艺术。此外，文章也提到了“人妖”表演所代表的文化背景，以及其在当地旅游业中的重要地位。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_图文：泰国普吉岛特色“人妖”表演-搜狐新闻.md                             |
-> | Size            | 1295 bytes                           |
-> | Archived Date   | 2024-11-07 06:04:57                             |
-> | Original Link   | [https://news.sohu.com/20061106/n246217660.shtml](https://news.sohu.com/20061106/n246217660.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国普吉岛                               |
-> | Date            | 2006-11-06                                 |
-> | Tags            | 人妖表演, 泰国旅游, 艺术表演, 文化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_图文：泰国普吉岛特色“人妖”表演-搜狐新闻.md                             |
+| Size            | 1295 bytes                           |
+| Archived Date   | 2024-11-07 06:04:57                             |
+| Original Link   | [https://news.sohu.com/20061106/n246217660.shtml](https://news.sohu.com/20061106/n246217660.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国普吉岛                               |
+| Date            | 2006-11-06                                 |
+| Tags            | 人妖表演, 泰国旅游, 艺术表演, 文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

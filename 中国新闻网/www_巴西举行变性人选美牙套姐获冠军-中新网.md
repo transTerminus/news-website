@@ -23,18 +23,18 @@
 本文详细报道了2013年在巴西里约热内卢举办的变性人选美比赛，汇集了28位年龄在35岁以下的佳丽，争夺巴西国内最美变性人荣誉，并有机会参加即将在泰国举行的世界变性人选美大赛。比赛前的彩排吸引了广泛关注，最终Raika Ferraz获得了巴西变性人选美冠军。文章不仅提供了事件的背景和细节，还通过照片展示了选手们的风采及活动的气氛，突显了跨性别群体在美丽与自信方面的努力及成就。作为一项重要的文化活动，这场比赛不仅是对跨性别身份的认可，也是对变性人权利与尊严的积极推动。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_巴西举行变性人选美牙套姐获冠军-中新网.md                             |
-> | Size            | 1026 bytes                           |
-> | Archived Date   | 2024-11-08 10:41:27                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257169.shtml](https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257169.shtml)                       |
-> | Author          | 中新网                               |
-> | Region          | 巴西                               |
-> | Date            | 2013-10-22                                 |
-> | Tags            | 跨性别, 选美, 巴西变性人选美比赛, 变性人权利, 文化活动                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_巴西举行变性人选美牙套姐获冠军-中新网.md                             |
+| Size            | 1026 bytes                           |
+| Archived Date   | 2024-11-08 10:41:27                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257169.shtml](https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257169.shtml)                       |
+| Author          | 中新网                               |
+| Region          | 巴西                               |
+| Date            | 2013-10-22                                 |
+| Tags            | 跨性别, 选美, 巴西变性人选美比赛, 变性人权利, 文化活动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -171,18 +171,18 @@ https://inews.gtimg.com/newsapp_bt/0/1012205723968_6694/0)
 该文件来自腾讯新闻，详细讲述了跨性别医生潘柏林的职业经历和家庭对跨性别者的理解与支持的困难。文章中提到许多跨性别者来潘医生的诊室寻求专业帮助，而家长常常希望医生能够"治好"自己的孩子，从而引发诊室中的紧张与冲突。潘柏林在北京市第三医院设立的成形科门诊里，努力为跨性别者提供专业支持。他通过与患者及其家长的沟通，解决了许多误解与抵触。同时，文章深入探讨了跨性别者在日常生活中的挑战与困难，以及社会对跨性别医疗服务的不理解和偏见。文中还提及跨性别者在接受治疗前后的心路历程，以及潘医生如何努力促进对跨性别者的医药去病化，助力他们自我认同。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | view_不被理解的跨性别医生：被家长投诉“带坏孩子”，诊室时有冲突.md                             |
-> | Size            | 19829 bytes                           |
-> | Archived Date   | 2024-11-08 19:55:27                             |
-> | Original Link   | [https://view.inews.qq.com/k/20210727A009WZ00?web_channel=wap&openApp=false](https://view.inews.qq.com/k/20210727A009WZ00?web_channel=wap&openApp=false)                       |
-> | Author          | 佟晓宇 实习记者/林意荃 罗鹏飞                               |
-> | Region          | 中国                               |
-> | Date            | 2021-07-27                                 |
-> | Tags            | 跨性别, 医疗, 心理支持, 家庭, 社会认知, 包括医疗资源, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | view_不被理解的跨性别医生：被家长投诉“带坏孩子”，诊室时有冲突.md                             |
+| Size            | 19829 bytes                           |
+| Archived Date   | 2024-11-08 19:55:27                             |
+| Original Link   | [https://view.inews.qq.com/k/20210727A009WZ00?web_channel=wap&openApp=false](https://view.inews.qq.com/k/20210727A009WZ00?web_channel=wap&openApp=false)                       |
+| Author          | 佟晓宇 实习记者/林意荃 罗鹏飞                               |
+| Region          | 中国                               |
+| Date            | 2021-07-27                                 |
+| Tags            | 跨性别, 医疗, 心理支持, 家庭, 社会认知, 包括医疗资源, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -134,18 +134,18 @@ Neo觉醒了，他带领人类反抗军和机器展开较量，在最终决战�
 本文详细介绍了全球知名的跨性别导演沃卓斯基姐妹的最新电影《黑客帝国：矩阵重启》的背景及其文化和哲学影响。从1999年首部《黑客帝国》的成功，到沃卓斯基兄弟的变性过程，再到新电影的上映，提到影片如何结合科技、哲学、文学等元素，探讨人类与机器之间的关系。文章不仅讨论了影片的情节，还深入分析了电影中的象征意义和哲学论点，例如镜子、囚犯的比喻、以及自由意志等。此外，还提到新片创作背后的故事与相关的期待与失望。文章还提及影片的豆瓣评分，并探讨了现代社会中的虚拟现实与生活的交融。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_全球最知名跨性别导演的新片，玩砸了？.md                             |
-> | Size            | 10555 bytes                           |
-> | Archived Date   | 2024-11-03 09:08:22                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_16311544](https://m.thepaper.cn/newsDetail_forward_16311544)                       |
-> | Author          | 东木褚                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-12-22                                 |
-> | Tags            | 电影, 跨性别, 黑客帝国, 文化影响, 哲学, 科技, 社会现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_全球最知名跨性别导演的新片，玩砸了？.md                             |
+| Size            | 10555 bytes                           |
+| Archived Date   | 2024-11-03 09:08:22                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_16311544](https://m.thepaper.cn/newsDetail_forward_16311544)                       |
+| Author          | 东木褚                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-12-22                                 |
+| Tags            | 电影, 跨性别, 黑客帝国, 文化影响, 哲学, 科技, 社会现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

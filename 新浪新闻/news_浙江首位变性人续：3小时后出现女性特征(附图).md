@@ -78,18 +78,18 @@
 本文记录了浙江首位变性人白岩的变性经历。白岩在浙江省人民医院进行了近三个小时的变性手术，成功实现了性别转变，成为女性，并更名为白艳。文中详细描述了白岩在手术前的心理状态、穿着打扮，以及术前的紧张与期待。手术过程的各个环节也被详细叙述，其中包括喉结整复术和隆胸术的具体操作细节。在对变性手术的看法上，社会学和心理学专家的观点也得到了引用，强调了变性手术对患者心理和社会认同的重要性。整篇报道展示了跨性别者在追求真实自我过程中的勇气与挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_浙江首位变性人续：3小时后出现女性特征(附图).md                             |
-> | Size            | 4738 bytes                           |
-> | Archived Date   | 2024-11-02 04:52:40                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html)                       |
-> | Author          | 现代金报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2004-12-02                                 |
-> | Tags            | 跨性别, 变性手术, 个人故事, 心理状态, 社会环境, 浙江                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_浙江首位变性人续：3小时后出现女性特征(附图).md                             |
+| Size            | 4738 bytes                           |
+| Archived Date   | 2024-11-02 04:52:40                             |
+| Original Link   | [https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html](https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5014422.d.html)                       |
+| Author          | 现代金报                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-12-02                                 |
+| Tags            | 跨性别, 变性手术, 个人故事, 心理状态, 社会环境, 浙江                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

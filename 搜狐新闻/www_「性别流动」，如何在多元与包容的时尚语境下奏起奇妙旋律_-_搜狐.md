@@ -221,18 +221,18 @@ Shared by Stella McCartney
 该文件讨论了性别流动（Gender Fluidity）在时尚领域中的重要性，探讨了多元与包容的时尚语境怎样影响人们对性别的理解与表现。文中提到，近年来许多时装品牌，特别是如Gucci和Mugler等，逐渐将性别流动理念融入其设计中，展现出对传统性别角色的挑战。本次文章特别强调了Hunter Schafer作为跨性别模特在时尚界的影响力，以及Z世代对性别流动的日益认可。此外，提到的DapperQ时装秀在推动性别包容方面所起的作用，以及当今年轻世代对多元性别的接受度，也反映了社会对于性别身份认同的逐步解放。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_「性别流动」，如何在多元与包容的时尚语境下奏起奇妙旋律_-_搜狐.md                             |
-> | Size            | 15561 bytes                           |
-> | Archived Date   | 2024-11-07 13:28:07                             |
-> | Original Link   | [https://www.sohu.com/a/462826466_571328](https://www.sohu.com/a/462826466_571328)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-04-25                                 |
-> | Tags            | 性别流动, 时尚, 跨性别, 多元文化, LGBTQ+, 模特经验, 社会包容                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_「性别流动」，如何在多元与包容的时尚语境下奏起奇妙旋律_-_搜狐.md                             |
+| Size            | 15561 bytes                           |
+| Archived Date   | 2024-11-07 13:28:07                             |
+| Original Link   | [https://www.sohu.com/a/462826466_571328](https://www.sohu.com/a/462826466_571328)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-04-25                                 |
+| Tags            | 性别流动, 时尚, 跨性别, 多元文化, LGBTQ+, 模特经验, 社会包容                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

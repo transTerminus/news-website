@@ -46,18 +46,18 @@ Lea T 是最著名的时尚变性人。2011年，Leandro Cerezo做了最后一�
 该文讨论了一些知名跨性别名人的经历和影响，从2010年代前期到2021年，报道了他们的变性故事，以及他们在公众眼中的形象变化。开篇指出许多名人因整形手术而引发的社会争议，并配合列举了十位比较公开的跨性别名人的案例，包括奥运冠军布鲁斯·詹纳、歌手贞洁·波诺（Chaz Bono），模特安德烈·佩日奇，以及电影导演拉娜·沃卓斯基等人物。每个案例中都简述了他们的变性过程、职业发展及其对家庭和社会的影响。例如，布鲁斯·詹纳在变性后获得了新的身份认同，而贞洁·波诺的转变则与母亲的关系产生了深远的改变。这篇文章不仅提供了名人故事，也是对社会认知与性别身份认同的深刻反思，描述了变性过程中的挑战与成就。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性人我们知道金老师这些名人里你又知道几个是变性的？_-_网易.md                             |
-> | Size            | 4510 bytes                           |
-> | Archived Date   | 2024-11-08 06:43:44                             |
-> | Original Link   | [https://www.163.com/dy/article/GQ70HTHR0552KXA7.html](https://www.163.com/dy/article/GQ70HTHR0552KXA7.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2021-12-02                                 |
-> | Tags            | 跨性别, 变性名人, 社会影响, 性别身份, 人生故事, 名人故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人我们知道金老师这些名人里你又知道几个是变性的？_-_网易.md                             |
+| Size            | 4510 bytes                           |
+| Archived Date   | 2024-11-08 06:43:44                             |
+| Original Link   | [https://www.163.com/dy/article/GQ70HTHR0552KXA7.html](https://www.163.com/dy/article/GQ70HTHR0552KXA7.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2021-12-02                                 |
+| Tags            | 跨性别, 变性名人, 社会影响, 性别身份, 人生故事, 名人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -81,18 +81,18 @@
 该文件介绍了日本网民评选出的十大性别转换漫画，通过对每部漫画的简要叙述，突出其主题和故事情节。这些漫画通常围绕着性别或身体的转换展开，涵盖了青春期的变迁、奇幻的校园生活和对性别认同的探索。每一部作品都通过独特的故事情节吸引读者，展现了性别转换对于人物角色的深刻影响。在这些漫画中，常见的元素包括性别互换、身体交换和对性别认同的深刻思考。文章列举了包括《逆转甜心》、《亦兄亦妹》和《你的名字》等在内的作品，展示了这些作品在性别角色与社会规范探讨上的多样性与复杂性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_日本人评选的十大性别转换漫画_-_网易.md                             |
-> | Size            | 6852 bytes                           |
-> | Archived Date   | 2024-11-08 07:00:28                             |
-> | Original Link   | [https://www.163.com/dy/article/HIA2PA3A055316EL.html](https://www.163.com/dy/article/HIA2PA3A055316EL.html)                       |
-> | Author          | 日本创业君KRIS                               |
-> | Region          | 日本                               |
-> | Date            | 2022-09-27                                 |
-> | Tags            | 性转, 性转漫画, 身体互换, 漫画, 漫画推荐                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_日本人评选的十大性别转换漫画_-_网易.md                             |
+| Size            | 6852 bytes                           |
+| Archived Date   | 2024-11-08 07:00:28                             |
+| Original Link   | [https://www.163.com/dy/article/HIA2PA3A055316EL.html](https://www.163.com/dy/article/HIA2PA3A055316EL.html)                       |
+| Author          | 日本创业君KRIS                               |
+| Region          | 日本                               |
+| Date            | 2022-09-27                                 |
+| Tags            | 性转, 性转漫画, 身体互换, 漫画, 漫画推荐                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

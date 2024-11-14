@@ -34,18 +34,18 @@
 该文件报道了南京第一变性案的法律结果，主要讲述了高婷婷经历的变性手术过程及其与南京东方医院之间的合同纠纷。高婷婷是山东男子，因希望进行变性手术而面临医疗机构的拒绝，这导致他提出诉讼。在经过一审败诉后，高婷婷选择上诉，最终南京中级法院判决东方医院需赔偿他5万元的损失，确认医院的违约责任。案件反映了变性人群在追求生存权和变性权利过程中遇到的法律挑战和社会认同问题。最后，高婷婷表示将利用赔偿金寻找其他医院继续接受手术。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_“南京第一变性案”有结果当事人获赔5万元.md                             |
-> | Size            | 3749 bytes                           |
-> | Archived Date   | 2024-11-02 05:00:55                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-05-17/detail-ikknscsi6654625.d.html](https://news.sina.cn/sa/2005-05-17/detail-ikknscsi6654625.d.html)                       |
-> | Author          | 殷文静                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-05-17                                 |
-> | Tags            | 跨性别权利, 法律案件, 变性手术, 医疗纠纷, 社会环境, 南京第一变性案                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_“南京第一变性案”有结果当事人获赔5万元.md                             |
+| Size            | 3749 bytes                           |
+| Archived Date   | 2024-11-02 05:00:55                             |
+| Original Link   | [https://news.sina.cn/sa/2005-05-17/detail-ikknscsi6654625.d.html](https://news.sina.cn/sa/2005-05-17/detail-ikknscsi6654625.d.html)                       |
+| Author          | 殷文静                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-05-17                                 |
+| Tags            | 跨性别权利, 法律案件, 变性手术, 医疗纠纷, 社会环境, 南京第一变性案                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

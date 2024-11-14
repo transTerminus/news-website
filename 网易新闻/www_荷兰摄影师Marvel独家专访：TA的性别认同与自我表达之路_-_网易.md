@@ -95,18 +95,18 @@ LoveMatters在中国的社交媒体拥有近一百万的粉丝受众，相信其
 这篇文章是对荷兰摄影师Marvel Harris的独家专访，深入探讨了其性别认同的经历与自我表达的旅程。Marvel生于1995年，作为一名青年摄影师，其个人项目《内心旅程》记录了其长期与性别认知的矛盾以及与自闭症的抗争。访谈中，Marvel分享了其接受性别确认手术的经历，表达对自身性别认同的理解与反思，并阐述了摄影作为其自我表达和情感疏导的重要手段。Marvel还谈到了黑白摄影的选择背后的情感理由，并强调了对性别认同与自闭症之间的关系的关注。此外，Marvel希望社会能对不同性别表现更加包容，并鼓励人们勇敢做自己。此篇专访不仅仅是对Marvel个人经历的记录，更是探讨了在艺术与性别认同交织中的深刻主题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_荷兰摄影师Marvel独家专访：TA的性别认同与自我表达之路_-_网易.md                             |
-> | Size            | 9574 bytes                           |
-> | Archived Date   | 2024-11-08 07:09:10                             |
-> | Original Link   | [https://www.163.com/dy/article/HMVEMNFA05148686.html](https://www.163.com/dy/article/HMVEMNFA05148686.html)                       |
-> | Author          | 网易新闻                               |
-> | Region          | 荷兰                               |
-> | Date            | 2022-11-24                                 |
-> | Tags            | 跨性别, 性别认同, 自我表达, 摄影, 心理健康, 文化交流, 艺术                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_荷兰摄影师Marvel独家专访：TA的性别认同与自我表达之路_-_网易.md                             |
+| Size            | 9574 bytes                           |
+| Archived Date   | 2024-11-08 07:09:10                             |
+| Original Link   | [https://www.163.com/dy/article/HMVEMNFA05148686.html](https://www.163.com/dy/article/HMVEMNFA05148686.html)                       |
+| Author          | 网易新闻                               |
+| Region          | 荷兰                               |
+| Date            | 2022-11-24                                 |
+| Tags            | 跨性别, 性别认同, 自我表达, 摄影, 心理健康, 文化交流, 艺术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

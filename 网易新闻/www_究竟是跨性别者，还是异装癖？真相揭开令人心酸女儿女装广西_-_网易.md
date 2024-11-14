@@ -100,18 +100,18 @@
 本文件讲述了朱孟勋在广西街头穿女装的生活故事。他生于坎坷的家庭，年轻时失去了母亲和妹妹，生活一直充满挑战。为了让精神状况日渐衰弱的母亲快乐，朱孟勋决定穿上妹妹的衣服。在这个过程中，他经历了极大的社会压力和对个人认同的挣扎，但始终以母亲的幸福为重。文章通过朱孟勋的叙述，描绘了他对生活的勇敢面对和坚持不懈的态度，表现了跨性别群体在传统与个人身份之间的冲突与和解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_究竟是跨性别者，还是异装癖？真相揭开令人心酸女儿女装广西_-_网易.md                             |
-> | Size            | 4488 bytes                           |
-> | Archived Date   | 2024-11-08 08:09:31                             |
-> | Original Link   | [https://www.163.com/dy/article/JAUE8UK00528AR4Q.html](https://www.163.com/dy/article/JAUE8UK00528AR4Q.html)                       |
-> | Author          | 少年与网红                               |
-> | Region          | 广西, 中国                               |
-> | Date            | 2024-08-31                                 |
-> | Tags            | 跨性别, 生命故事, 社会现状, 医疗资源, 朱孟勋, 人际关系, 家庭故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_究竟是跨性别者，还是异装癖？真相揭开令人心酸女儿女装广西_-_网易.md                             |
+| Size            | 4488 bytes                           |
+| Archived Date   | 2024-11-08 08:09:31                             |
+| Original Link   | [https://www.163.com/dy/article/JAUE8UK00528AR4Q.html](https://www.163.com/dy/article/JAUE8UK00528AR4Q.html)                       |
+| Author          | 少年与网红                               |
+| Region          | 广西, 中国                               |
+| Date            | 2024-08-31                                 |
+| Tags            | 跨性别, 生命故事, 社会现状, 医疗资源, 朱孟勋, 人际关系, 家庭故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

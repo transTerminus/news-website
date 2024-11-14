@@ -56,18 +56,18 @@
 该文件记录了变性女子高婷婷于2006年6月29日的新闻事件，她在北京的天安门和王府井公开拍卖自编的书稿《男，也要做美女》。该书包含其28万字的自传，详细讲述了她的变性经历及心路历程。高婷婷将此书的出版版权标价达到1538万美元，并希望吸引媒体公司及能够支付高价的个人。然而，因其特殊身份，她在拍卖后的短时间内便因警方要求而结束了活动。报道提到，尽管有不少路人对高婷婷的拍卖表示好奇，但由于对她身份的歧视与误解，评论区存在许多负面声音。此事件引发了对跨性别人群自我表达及社会接受度的深刻反思。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性女子要价千万美元出售自传书稿(图).md                             |
-> | Size            | 2407 bytes                           |
-> | Archived Date   | 2024-11-02 05:32:44                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html](https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html)                       |
-> | Author          | 新京报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2006-06-29                                 |
-> | Tags            | 变性人, 自传, 拍卖, 社会新闻, 高婷婷                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性女子要价千万美元出售自传书稿(图).md                             |
+| Size            | 2407 bytes                           |
+| Archived Date   | 2024-11-02 05:32:44                             |
+| Original Link   | [https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html](https://news.sina.cn/sa/2006-06-29/detail-ikftpnny3640290.d.html)                       |
+| Author          | 新京报                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-06-29                                 |
+| Tags            | 变性人, 自传, 拍卖, 社会新闻, 高婷婷                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

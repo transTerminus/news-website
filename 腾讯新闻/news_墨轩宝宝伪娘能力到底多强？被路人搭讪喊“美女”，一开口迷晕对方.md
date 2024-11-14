@@ -38,18 +38,18 @@
 这篇文章讨论了几个知名女装大佬的经历与影响力，尤其是墨轩宝宝的个人故事。他在室外直播时被路人误认为美女，展现了其出众的颜值以及社会对女装文化的不同看法。文章中还提到阿纯和王小歪等其他女装大佬，并讨论了他们在网络平台上的受欢迎程度及其对更多人接受女装文化的影响。文章提供了对女装大佬现象的深入分析，引导读者思考网络文化与性别认同的关系。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_墨轩宝宝伪娘能力到底多强？被路人搭讪喊“美女”，一开口迷晕对方.md                             |
-> | Size            | 2563 bytes                           |
-> | Archived Date   | 2024-11-08 18:49:09                             |
-> | Original Link   | [https://news.qq.com/rain/a/20200620A0K8IS?pc](https://news.qq.com/rain/a/20200620A0K8IS?pc)                       |
-> | Author          | 电竞法则                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2020-06-20                                 |
-> | Tags            | 跨性别, 女装大佬, 社会认同, 网络文化, 性别表达                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_墨轩宝宝伪娘能力到底多强？被路人搭讪喊“美女”，一开口迷晕对方.md                             |
+| Size            | 2563 bytes                           |
+| Archived Date   | 2024-11-08 18:49:09                             |
+| Original Link   | [https://news.qq.com/rain/a/20200620A0K8IS?pc](https://news.qq.com/rain/a/20200620A0K8IS?pc)                       |
+| Author          | 电竞法则                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-06-20                                 |
+| Tags            | 跨性别, 女装大佬, 社会认同, 网络文化, 性别表达                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

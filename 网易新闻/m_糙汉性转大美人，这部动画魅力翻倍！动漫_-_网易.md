@@ -38,18 +38,18 @@
 本文探讨了动画《吞噬星空》中性别转换角色的设计及其对观众影响。文章详细介绍了几位主要角色的性别转变过程，例如，男童角色巴巴塔在动画中被转为活泼的少女形象，增强了她与其他角色之间的互动。同时，另一个角色法尔从男性转为妖娆女性战士，展现出新鲜的形象和性格特征。九皇女布洛琳的转变则使她变得更加迷人且富有威胁感，成为反派角色中的吸引力。整体上，性转设计为动画增添了丰富的看点，虽然一部分原著粉丝对此持保留意见。文章还鼓励观众关注该动漫信息。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_糙汉性转大美人，这部动画魅力翻倍！动漫_-_网易.md                             |
-> | Size            | 3192 bytes                           |
-> | Archived Date   | 2024-11-08 05:19:31                             |
-> | Original Link   | [https://m.163.com/dy/article/J0KU8EJ505566AP1.html](https://m.163.com/dy/article/J0KU8EJ505566AP1.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 性别转换, 动漫, 吞噬星空, 角色设计, 文化现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_糙汉性转大美人，这部动画魅力翻倍！动漫_-_网易.md                             |
+| Size            | 3192 bytes                           |
+| Archived Date   | 2024-11-08 05:19:31                             |
+| Original Link   | [https://m.163.com/dy/article/J0KU8EJ505566AP1.html](https://m.163.com/dy/article/J0KU8EJ505566AP1.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别转换, 动漫, 吞噬星空, 角色设计, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

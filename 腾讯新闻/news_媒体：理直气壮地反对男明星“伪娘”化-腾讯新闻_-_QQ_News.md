@@ -23,18 +23,18 @@
 本文讨论了关于男明星“伪娘”化现象的社会反响。文章中提到，全国政协委员呼吁警惕影视作品中这种形象的传播，认为男明星的行为会对社会风气产生影响，承担着引导公共观念的责任。文章引用了多个网友的看法，其中有批评声称这是明星的自由，也有支持意见认为应对此现象表达反对态度。作者以上官云的名义发声，主张应理直气壮地反对男明星“伪娘”化，强调明星在社会中的特殊地位与影响力。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_媒体：理直气壮地反对男明星“伪娘”化-腾讯新闻_-_QQ_News.md                             |
-> | Size            | 936 bytes                           |
-> | Archived Date   | 2024-11-08 18:52:51                             |
-> | Original Link   | [https://news.qq.com/rain/a/20210311A04NK100](https://news.qq.com/rain/a/20210311A04NK100)                       |
-> | Author          | 上官云                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-03-11                                 |
-> | Tags            | 跨性别, 娱乐, 社会责任, 男性身份, 明星文化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_媒体：理直气壮地反对男明星“伪娘”化-腾讯新闻_-_QQ_News.md                             |
+| Size            | 936 bytes                           |
+| Archived Date   | 2024-11-08 18:52:51                             |
+| Original Link   | [https://news.qq.com/rain/a/20210311A04NK100](https://news.qq.com/rain/a/20210311A04NK100)                       |
+| Author          | 上官云                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-03-11                                 |
+| Tags            | 跨性别, 娱乐, 社会责任, 男性身份, 明星文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

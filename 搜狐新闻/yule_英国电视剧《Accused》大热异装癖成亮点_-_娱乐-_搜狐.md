@@ -47,18 +47,18 @@
 该文件是关于英国电视剧《Accused》的评论文章，详细探讨了该剧在探讨犯罪与道德之间界限的深刻主题。文章提到剧中角色，包括一名易装癖中年男教授在法庭上为自己辩护的情节，展示了剧集通过角色发展来挑战观众的道德观。此外，文章也提到英剧与美剧在叙述风格上的区别，强调了英剧在社会学层面的探讨而非单纯的犯罪情节。评论者对该剧持高度评价，指出其精致的表演和剧本设计值得赞扬。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | yule_英国电视剧《Accused》大热异装癖成亮点_-_娱乐-_搜狐.md                             |
-> | Size            | 4257 bytes                           |
-> | Archived Date   | 2024-11-07 04:42:04                             |
-> | Original Link   | [http://yule.sohu.com/20120915/n353225223.shtml](http://yule.sohu.com/20120915/n353225223.shtml)                       |
-> | Author          | 南方都市报                               |
-> | Region          | 未知                               |
-> | Date            | 2012-09-15                                 |
-> | Tags            | 跨性别, 异装癖, 英国电视剧, Accused, 社会学, 法律, 道德, 媒体评论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | yule_英国电视剧《Accused》大热异装癖成亮点_-_娱乐-_搜狐.md                             |
+| Size            | 4257 bytes                           |
+| Archived Date   | 2024-11-07 04:42:04                             |
+| Original Link   | [http://yule.sohu.com/20120915/n353225223.shtml](http://yule.sohu.com/20120915/n353225223.shtml)                       |
+| Author          | 南方都市报                               |
+| Region          | 未知                               |
+| Date            | 2012-09-15                                 |
+| Tags            | 跨性别, 异装癖, 英国电视剧, Accused, 社会学, 法律, 道德, 媒体评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

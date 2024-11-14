@@ -66,18 +66,18 @@ _版权声明：本文来源于199IT_
 本文为2023年LGBTQ+在媒体和广告中的表现的分析，来源于新浪新闻的报道。文章指出，全球LGBTQ+社区的声音虽日益增强，但同时反对声音也在加大。随着法律和规范的变化，社会对LGBTQ+的接受程度存在显著差异。文章提到，在一些国家，LGBTQ+活动的法律限制更加严格，医疗保健的获取也受到挑战。此文通过具体例子展示了品牌如何迎合不同消费者群体的需求，尤其是针对性别表达的营销挑战。一个涉及跨性别意见领袖的营销活动虽然初衷良好，却面临来自一般消费者的强烈抵制，反映出品牌在进行市场营销时的不确定性和风险。整体而言，这篇文章突出了媒体与广告在影响社会观念和接受度方面的重要作用，以及品牌在处理LGBTQ+相关话题时所面临的复杂情境。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | interface_尼尔森：2023年LGBTQ+在媒体和广告中的表现_-_新浪.md                             |
-> | Size            | 4448 bytes                           |
-> | Archived Date   | 2024-11-09 06:37:10                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-03-01%2Fdoc-inakuawt0800964.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-03-01%2Fdoc-inakuawt0800964.shtml)                       |
-> | Author          | 未知                               |
-> | Region          | 中国                               |
-> | Date            | 2023-03-01                                 |
-> | Tags            | LGBTQ+, 媒体, 广告, 跨性别, 社会接受度                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | interface_尼尔森：2023年LGBTQ+在媒体和广告中的表现_-_新浪.md                             |
+| Size            | 4448 bytes                           |
+| Archived Date   | 2024-11-09 06:37:10                             |
+| Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-03-01%2Fdoc-inakuawt0800964.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-03-01%2Fdoc-inakuawt0800964.shtml)                       |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 2023-03-01                                 |
+| Tags            | LGBTQ+, 媒体, 广告, 跨性别, 社会接受度                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

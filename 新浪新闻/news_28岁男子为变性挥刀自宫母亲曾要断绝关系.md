@@ -69,18 +69,18 @@
 该文件讲述了一名28岁男子张恒（化名）为追求变性而做出极端选择的悲惨故事。文章详细描述了他的过渡经历，包括在与母亲的长期矛盾中，犹豫了8年后，他最终选择自宫的决绝行为。张恒自小在单亲家庭长大，经历了父亲早亡，以及在成长过程中面对的性别认同困扰。母亲对他变性的反对和误解，促使他做出了这样的极端决定。文章引用了心理专家对变性心理的剖析，强调了环境和社会风俗对个人心理的影响。同时，文章还探讨了家庭关系的压迫如何造成个体的悲剧。通过亲身经历，张恒展现了跨性别者在追求自我认同过程中的挣扎与痛苦。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_28岁男子为变性挥刀自宫母亲曾要断绝关系.md                             |
-> | Size            | 7228 bytes                           |
-> | Archived Date   | 2024-11-02 06:14:55                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-03-17/detail-ikftpnny4270913.d.html](https://news.sina.cn/sa/2010-03-17/detail-ikftpnny4270913.d.html)                       |
-> | Author          | 王梦颖                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-03-17                                 |
-> | Tags            | 跨性别, 变性故事, 心理健康, 家庭关系, 社会环境, 个体经历, 医疗资源                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_28岁男子为变性挥刀自宫母亲曾要断绝关系.md                             |
+| Size            | 7228 bytes                           |
+| Archived Date   | 2024-11-02 06:14:55                             |
+| Original Link   | [https://news.sina.cn/sa/2010-03-17/detail-ikftpnny4270913.d.html](https://news.sina.cn/sa/2010-03-17/detail-ikftpnny4270913.d.html)                       |
+| Author          | 王梦颖                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-03-17                                 |
+| Tags            | 跨性别, 变性故事, 心理健康, 家庭关系, 社会环境, 个体经历, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

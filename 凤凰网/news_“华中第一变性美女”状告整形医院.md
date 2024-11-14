@@ -34,18 +34,18 @@
 本文件报道了“华中第一变性美女”左某因整形医院未经同意使用其身份和形象，起诉该医院侵权的案件。左某是一名歌舞团演员，因演出需要在2006年进行多项身体整形手术，包括隆胸和削骨等，以便更好地扮演女性角色。然而，整形医院在之后的宣传中将其称作“华中变性第一人”，并使用其照片进行宣传，造成了左某的名誉受损。经过法庭审理，法院认定医院侵犯了左某的隐私权，判决医院赔偿其精神损失1万元，并需在相关杂志上公开道歉。这一案件引发了对于跨性别者隐私权和名誉权的广泛关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_“华中第一变性美女”状告整形医院.md                             |
-> | Size            | 2668 bytes                           |
-> | Archived Date   | 2024-11-02 07:55:50                             |
-> | Original Link   | [https://news.ifeng.com/c/7fZWKnSpbo9](https://news.ifeng.com/c/7fZWKnSpbo9)                       |
-> | Author          | 万勤 实习生 蒋冲                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2011-04-02                                 |
-> | Tags            | 跨性别, 隐私权, 名誉权, 整形手术, 法律诉讼, 社会环境, 生命故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_“华中第一变性美女”状告整形医院.md                             |
+| Size            | 2668 bytes                           |
+| Archived Date   | 2024-11-02 07:55:50                             |
+| Original Link   | [https://news.ifeng.com/c/7fZWKnSpbo9](https://news.ifeng.com/c/7fZWKnSpbo9)                       |
+| Author          | 万勤 实习生 蒋冲                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-04-02                                 |
+| Tags            | 跨性别, 隐私权, 名誉权, 整形手术, 法律诉讼, 社会环境, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -43,18 +43,18 @@
 这篇文章报道了俄罗斯总统普京于2023年7月24日签署的法案，禁止在俄罗斯进行性别重置手术（变性手术）。俄国家杜马主席沃洛金在法案通过后表示，变性是一种“可怕的趋势”，他认为这一法案将阻止俄罗斯走向美国的道路，该法案旨在捍卫俄罗斯的宪法道德和家庭价值观，保护特别是儿童的健康。法案要求如果一方在婚姻中改变性别，该婚姻将被宣告无效，同时变性人也被禁止收养儿童。报道引述了多位官员对法案的评论，表明这项立法是响应对LGBT权利的严格限制的一部分，并强调这种自由化可能会导致社会的退化。文章还提到在某些国家，变性手术是非法的。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_普京签署法案禁止变性手术，俄杜马主席称“将避免走上美国_.md                             |
-> | Size            | 3411 bytes                           |
-> | Archived Date   | 2024-11-02 08:17:56                             |
-> | Original Link   | [https://news.ifeng.com/c/8RhjtZwYMcE](https://news.ifeng.com/c/8RhjtZwYMcE)                       |
-> | Author          | 观察者网                               |
-> | Region          | 俄罗斯                               |
-> | Date            | 2023-07-24                                 |
-> | Tags            | 普京, 变性手术, 俄罗斯, 法律, LGBT权利, 社会政策, 家庭价值观                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_普京签署法案禁止变性手术，俄杜马主席称“将避免走上美国_.md                             |
+| Size            | 3411 bytes                           |
+| Archived Date   | 2024-11-02 08:17:56                             |
+| Original Link   | [https://news.ifeng.com/c/8RhjtZwYMcE](https://news.ifeng.com/c/8RhjtZwYMcE)                       |
+| Author          | 观察者网                               |
+| Region          | 俄罗斯                               |
+| Date            | 2023-07-24                                 |
+| Tags            | 普京, 变性手术, 俄罗斯, 法律, LGBT权利, 社会政策, 家庭价值观                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

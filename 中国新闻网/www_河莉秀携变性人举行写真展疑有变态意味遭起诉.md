@@ -38,18 +38,18 @@
 本文报道了韩国著名变性艺人河莉秀携手十多位变性人举办的写真展览，展览于2010年2月22日在首尔开幕。该展览展出了多幅以变性人为主体的摄影作品，旨在提高公众对变性人群体的理解与包容。尽管近年来韩国大众对变性人的态度有所改善，但变性人仍面临法律保护不足的问题。展览只允许19岁以上成年人入场，因其中包含敏感内容，其中一幅宣传画引起了争议，男星李光必以该画有「变态意味」为由将河莉秀起诉。河莉秀的事务所表示她并非展览的主办方，只是参与拍摄的艺人。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_河莉秀携变性人举行写真展疑有变态意味遭起诉.md                             |
-> | Size            | 2312 bytes                           |
-> | Archived Date   | 2024-11-08 09:21:27                             |
-> | Original Link   | [http://www.chinanews.com.cn/yl/yl-mxzz/news/2010/02-22/2130887.shtml](http://www.chinanews.com.cn/yl/yl-mxzz/news/2010/02-22/2130887.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 韩国                               |
-> | Date            | 2010-02-22                                 |
-> | Tags            | 跨性别, 变性人, 写真展, 法律诉讼, 媒体报道, 河莉秀                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_河莉秀携变性人举行写真展疑有变态意味遭起诉.md                             |
+| Size            | 2312 bytes                           |
+| Archived Date   | 2024-11-08 09:21:27                             |
+| Original Link   | [http://www.chinanews.com.cn/yl/yl-mxzz/news/2010/02-22/2130887.shtml](http://www.chinanews.com.cn/yl/yl-mxzz/news/2010/02-22/2130887.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 韩国                               |
+| Date            | 2010-02-22                                 |
+| Tags            | 跨性别, 变性人, 写真展, 法律诉讼, 媒体报道, 河莉秀                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

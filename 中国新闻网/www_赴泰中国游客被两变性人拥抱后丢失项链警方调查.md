@@ -24,18 +24,18 @@
 这篇文章报道了一起发生在泰国芭提雅的事件，涉及一名中国游客和两名变性人。游客Li Shengyu在与朋友散步时，遭遇了两名骑摩托车的变性人。根据报道，他们一开始通过扔水瓶吸引Li Shengyu的注意，并声称他掉了东西，随后将其拥抱。游客在此过程中未能意识到自己的铂金项链被盗，直到返回酒店才发现项链不见了。警方已介入调查，并表示将调取周边监控录像寻找嫌疑人。这篇文章反映了在跨性别群体与他人互动时可能产生的误解和争议，同时也涉及了对性别认同和相关社会问题的隐含讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_赴泰中国游客被两变性人拥抱后丢失项链警方调查.md                             |
-> | Size            | 1319 bytes                           |
-> | Archived Date   | 2024-11-08 10:03:58                             |
-> | Original Link   | [https://www.chinanews.com.cn/hr/2017/07-27/8288819.shtml](https://www.chinanews.com.cn/hr/2017/07-27/8288819.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国                               |
-> | Date            | 2017-07-27                                 |
-> | Tags            | 跨性别, 社会事件, 盗窃, 游客, 人际关系, 法律与社会                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_赴泰中国游客被两变性人拥抱后丢失项链警方调查.md                             |
+| Size            | 1319 bytes                           |
+| Archived Date   | 2024-11-08 10:03:58                             |
+| Original Link   | [https://www.chinanews.com.cn/hr/2017/07-27/8288819.shtml](https://www.chinanews.com.cn/hr/2017/07-27/8288819.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国                               |
+| Date            | 2017-07-27                                 |
+| Tags            | 跨性别, 社会事件, 盗窃, 游客, 人际关系, 法律与社会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -48,18 +48,18 @@
 该文件报道了香港“跨性别资源中心”与平等机会委员会对跨性别人士在警方、入境事务处和惩教署遇到的不良经历的调查结果。这项调查访问了17位跨性别人士，发现多数人的个人性别认同未被承认，且在执法过程中遭遇性别歧视和不当行为。调查显示，香港部分执法部门对跨性别人士的认识不足，存在对他们性别身份的误解与不尊重。针对这些问题，平机会呼吁特区政府制定倡导跨性别人士权益的政策，并考虑签发个人性别认同证明，以改善跨性别人士的生活质量和社会待遇。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_香港团体关注跨性别者吁特区政府发相关证明文件_-_新浪新闻.md                             |
-> | Size            | 3572 bytes                           |
-> | Archived Date   | 2024-11-09 07:23:22                             |
-> | Original Link   | [https://news.sina.cn/2015-03-31/detail-iawzuney1573720.d.html](https://news.sina.cn/2015-03-31/detail-iawzuney1573720.d.html)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 香港                               |
-> | Date            | 2015-03-31                                 |
-> | Tags            | 跨性别, 香港, 平等机会委员会, 警方调查, 人权, 社会关注                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_香港团体关注跨性别者吁特区政府发相关证明文件_-_新浪新闻.md                             |
+| Size            | 3572 bytes                           |
+| Archived Date   | 2024-11-09 07:23:22                             |
+| Original Link   | [https://news.sina.cn/2015-03-31/detail-iawzuney1573720.d.html](https://news.sina.cn/2015-03-31/detail-iawzuney1573720.d.html)                       |
+| Author          | 中国新闻网                               |
+| Region          | 香港                               |
+| Date            | 2015-03-31                                 |
+| Tags            | 跨性别, 香港, 平等机会委员会, 警方调查, 人权, 社会关注                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

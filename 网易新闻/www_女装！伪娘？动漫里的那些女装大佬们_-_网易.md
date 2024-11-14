@@ -117,18 +117,18 @@
 这篇文章探讨了动漫中女装大佬这一现象，详细介绍了若干动漫角色的性别模糊性和反串特征。文章指出"女装大佬"这一词汇最早兴起于2016年，各类角色在cosplay中常常展现出与设定不符的性别特征，如木下秀吉、阿福、白、相川步、漆原琉华和桐子等。他们在不同作品中展现出女性化的外貌与男生的性格，突破了传统性别角色的设定，反映了二次元文化中愈发模糊的性别观念。这种现象在网络中引发了广泛关注，反映了二次元文化对于性别角色的挑战与重塑。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_女装！伪娘？动漫里的那些女装大佬们_-_网易.md                             |
-> | Size            | 5576 bytes                           |
-> | Archived Date   | 2024-11-08 05:50:16                             |
-> | Original Link   | [https://www.163.com/dy/article/DI3QC63C0520RSS9.html](https://www.163.com/dy/article/DI3QC63C0520RSS9.html)                       |
-> | Author          | 熊孩子一生                               |
-> | Region          | 未知                               |
-> | Date            | 2018-05-18                                 |
-> | Tags            | 动漫, 女装大佬, 伪娘, 二次元, 性别角色, 反串                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_女装！伪娘？动漫里的那些女装大佬们_-_网易.md                             |
+| Size            | 5576 bytes                           |
+| Archived Date   | 2024-11-08 05:50:16                             |
+| Original Link   | [https://www.163.com/dy/article/DI3QC63C0520RSS9.html](https://www.163.com/dy/article/DI3QC63C0520RSS9.html)                       |
+| Author          | 熊孩子一生                               |
+| Region          | 未知                               |
+| Date            | 2018-05-18                                 |
+| Tags            | 动漫, 女装大佬, 伪娘, 二次元, 性别角色, 反串                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

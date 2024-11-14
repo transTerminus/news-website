@@ -104,18 +104,18 @@ CANTO MOTTO 表示，自然生命的最开端，本是雌雄同体，它象征�
 本文来自搜狐新闻，探讨了跨性别文化与时尚的交叉点，特别是男性如何通过穿女装来表达个性与艺术。在时尚行业日益多元化的背景下，这篇文章介绍了意大利景观设计师freedycuriel及CANTO MOTTO品牌创始人Emma Qi（綦翊彤）所倡导的雌雄同体的艺术时尚理念。经过采访，freedycuriel分享了他对时尚的看法，认为时尚不仅是一种美学，更是一种对个人艺术演绎的启发。他提到，穿着不应局限于性别，只要是自己喜欢的风格，就值得尝试。同时，CANTO MOTTO的活动鼓励男性穿上女装，并强调在时尚元素中寻找自我表达的权利。文章提供了多位参与者对自然与时尚关系的见解，进一步传递出跨性别时尚艺术的美学理念与社会认同的必要性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | fashion_气质男们这样玩女装，跨性别演绎自然时尚艺术_-_搜狐.md                             |
-> | Size            | 7412 bytes                           |
-> | Archived Date   | 2024-11-07 04:51:24                             |
-> | Original Link   | [https://fashion.sohu.com/20160105/n433520916.shtml](https://fashion.sohu.com/20160105/n433520916.shtml)                       |
-> | Author          | 笨的的0108                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2016-01-05                                 |
-> | Tags            | 跨性别, 时尚艺术, 男性穿女装, 雌雄同体, 时尚观点, 个性表达                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | fashion_气质男们这样玩女装，跨性别演绎自然时尚艺术_-_搜狐.md                             |
+| Size            | 7412 bytes                           |
+| Archived Date   | 2024-11-07 04:51:24                             |
+| Original Link   | [https://fashion.sohu.com/20160105/n433520916.shtml](https://fashion.sohu.com/20160105/n433520916.shtml)                       |
+| Author          | 笨的的0108                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-01-05                                 |
+| Tags            | 跨性别, 时尚艺术, 男性穿女装, 雌雄同体, 时尚观点, 个性表达                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

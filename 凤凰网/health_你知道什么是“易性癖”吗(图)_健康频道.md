@@ -26,18 +26,18 @@
 本文讨论了易性癖（亦称为变换性别癖或性别转换症），一种心理状态，其中个人在心理上否定自己的性别，认为自己的生理性别与性别认同不符。文章详细描述了易性癖的定义、成因、表现及与其他性别相关症状（如同性恋和异装癖）的区别。易性癖患者对自身生理性别的强烈不满，可能会追求通过外科手术或激素治疗来改变自己的性别特征。相比于异装癖，易性癖者在穿着异性服装时并不追求性兴奋，而是源于心理上的需求。最后，文章警告易性癖患者常常面临的心理挑战，如抑郁与自杀倾向。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | health_你知道什么是“易性癖”吗(图)_健康频道.md                             |
-> | Size            | 3110 bytes                           |
-> | Archived Date   | 2024-11-09 09:49:01                             |
-> | Original Link   | [http://health.ifeng.com/psychology/analysis/detail_2010_08/25/2312442_0.shtml](http://health.ifeng.com/psychology/analysis/detail_2010_08/25/2312442_0.shtml)                       |
-> | Author          | 闫昭遐                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-08-25                                 |
-> | Tags            | 易性癖, 性别转换症, 性别认同, 性别身份障碍, 心理健康, 医学知识                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | health_你知道什么是“易性癖”吗(图)_健康频道.md                             |
+| Size            | 3110 bytes                           |
+| Archived Date   | 2024-11-09 09:49:01                             |
+| Original Link   | [http://health.ifeng.com/psychology/analysis/detail_2010_08/25/2312442_0.shtml](http://health.ifeng.com/psychology/analysis/detail_2010_08/25/2312442_0.shtml)                       |
+| Author          | 闫昭遐                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-08-25                                 |
+| Tags            | 易性癖, 性别转换症, 性别认同, 性别身份障碍, 心理健康, 医学知识                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

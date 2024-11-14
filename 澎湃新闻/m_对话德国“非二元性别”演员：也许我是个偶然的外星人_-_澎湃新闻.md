@@ -114,18 +114,18 @@ Jules Elting：老实说，我不知道未来我的演员道路会变成什么�
 这篇文章是对德国“非二元性别”演员Jules Elting的访谈，探讨了非二元性别者在社会中的认知和存在。Jules分享了作为非二元性别者的感受，强调社会对性别的二元排斥会带来的困扰。他提到日常生活中面临的挑战，如上洗手间、选择服装，以及在与他人交流时被迫纠正错误的人称代词。Jules还指出，非二元性别者的认同常常被忽视，呼吁社会多元化性别的接受和理解。通过这篇文章，读者可以更深入地理解非二元性别的概念，及其对性别认同和社会认知的重要影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_对话德国“非二元性别”演员：也许我是个偶然的外星人_-_澎湃新闻.md                             |
-> | Size            | 10305 bytes                           |
-> | Archived Date   | 2024-11-10 22:00:18                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_11630604](https://m.thepaper.cn/newsDetail_forward_11630604)                       |
-> | Author          | 涂雨清、李卷                               |
-> | Region          | 德国                               |
-> | Date            | 2021-02-05                                 |
-> | Tags            | 非二元性别, 性别认同, 性少数群体, 跨性别, 社会环境, 媒体报道                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_对话德国“非二元性别”演员：也许我是个偶然的外星人_-_澎湃新闻.md                             |
+| Size            | 10305 bytes                           |
+| Archived Date   | 2024-11-10 22:00:18                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_11630604](https://m.thepaper.cn/newsDetail_forward_11630604)                       |
+| Author          | 涂雨清、李卷                               |
+| Region          | 德国                               |
+| Date            | 2021-02-05                                 |
+| Tags            | 非二元性别, 性别认同, 性少数群体, 跨性别, 社会环境, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

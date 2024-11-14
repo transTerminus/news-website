@@ -66,18 +66,18 @@ _2018-10-02_
 该文件介绍了影史上十大经典反串角色以及相关影片，通过对各个反串角色和电影的深入分析，探讨了跨性别表现与性别界限的模糊性。在文件中，作者引用了多部经典影片，如《热情似火》中的杰克·莱蒙和托尼·柯蒂斯的男扮女装、高斯·霍夫曼在《窈窕淑男》中精湛的反串表现、埃迪·雷德梅恩在《丹麦女孩》中对早期跨性别人物的塑造等。这些角色不仅挑战了传统的性别认同，更在社会和文化中引发了关于性别与身份的深入思考。文件还通过热门跟贴，展示了观众对性别认同问题的关注与讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_影史十大经典反串，安能辨TA是雄雌？_-_网易.md                             |
-> | Size            | 8927 bytes                           |
-> | Archived Date   | 2024-11-08 05:06:59                             |
-> | Original Link   | [https://m.163.com/dy/article/DT1GABA205370UFZ.html](https://m.163.com/dy/article/DT1GABA205370UFZ.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 反串, 电影, 性别认同, 文化分析, 影视评论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_影史十大经典反串，安能辨TA是雄雌？_-_网易.md                             |
+| Size            | 8927 bytes                           |
+| Archived Date   | 2024-11-08 05:06:59                             |
+| Original Link   | [https://m.163.com/dy/article/DT1GABA205370UFZ.html](https://m.163.com/dy/article/DT1GABA205370UFZ.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 反串, 电影, 性别认同, 文化分析, 影视评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

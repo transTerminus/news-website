@@ -149,18 +149,18 @@ Hello 大家好。
 本文是一篇关于双性人的独白的文章，介绍了两性畸形的相关知识以及其在现实生活中的意义。文章引用了一部电影《海吉拉》，讨论了其主角婷婷的特殊生理特征，她同时具备男性和女性的生殖系统。这种情况在医学上被称为两性畸形，作者详细解释了两性畸形的分类，包括真两性畸形和假两性畸形，以及每种类型的具体特征和病因。文章探讨了如何诊治和预防两性畸形，强调社会对这些个体的理解和支持，并引用专业文献提供科学依据。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_我既有子宫和卵巢，又有gao丸和yin茎......｜双性人的独白_-_网易.md                             |
-> | Size            | 9224 bytes                           |
-> | Archived Date   | 2024-11-08 06:45:18                             |
-> | Original Link   | [https://www.163.com/dy/article/GSSQ7M880534CTXR.html](https://www.163.com/dy/article/GSSQ7M880534CTXR.html)                       |
-> | Author          | 丁十一                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2022-01-04                                 |
-> | Tags            | 双性人, 两性畸形, 性别认同, 生殖健康, 社会性别, 医学文章, 心理性别, 性别多样性                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_我既有子宫和卵巢，又有gao丸和yin茎......｜双性人的独白_-_网易.md                             |
+| Size            | 9224 bytes                           |
+| Archived Date   | 2024-11-08 06:45:18                             |
+| Original Link   | [https://www.163.com/dy/article/GSSQ7M880534CTXR.html](https://www.163.com/dy/article/GSSQ7M880534CTXR.html)                       |
+| Author          | 丁十一                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-01-04                                 |
+| Tags            | 双性人, 两性畸形, 性别认同, 生殖健康, 社会性别, 医学文章, 心理性别, 性别多样性                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

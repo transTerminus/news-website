@@ -107,18 +107,18 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 此文件报道了维密（Victoria's Secret）迎来了首位跨性别模特的消息，这是一个重要的里程碑，暗示着时尚界对跨性别群体的接受度正在逐渐提高。文件提到，该高管曾因反对跨性别模特代言而受到批评，这一背景为模特选择的改变增添了深度与复杂性。报道中提到的时间为2019年8月6日，强调了这一事件在当时的社会讨论中的重要性。该文件不仅呈现了时尚行业的变化，也反映了社会对跨性别人士态度的转变，以及面临的挑战与机遇。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_维密迎首位变性模特高管曾因反对变性人代言被喷.md                             |
-> | Size            | 6024 bytes                           |
-> | Archived Date   | 2024-11-02 08:04:58                             |
-> | Original Link   | [https://news.ifeng.com/c/7ouj0SdFrV8](https://news.ifeng.com/c/7ouj0SdFrV8)                       |
-> | Author          | 凤凰网                               |
-> | Region          | 中国                               |
-> | Date            | 2019-08-06                                 |
-> | Tags            | 跨性别, 时尚界, 维密, 模特, 社会变革,  LGBTQ+                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_维密迎首位变性模特高管曾因反对变性人代言被喷.md                             |
+| Size            | 6024 bytes                           |
+| Archived Date   | 2024-11-02 08:04:58                             |
+| Original Link   | [https://news.ifeng.com/c/7ouj0SdFrV8](https://news.ifeng.com/c/7ouj0SdFrV8)                       |
+| Author          | 凤凰网                               |
+| Region          | 中国                               |
+| Date            | 2019-08-06                                 |
+| Tags            | 跨性别, 时尚界, 维密, 模特, 社会变革,  LGBTQ+                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

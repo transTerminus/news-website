@@ -202,18 +202,18 @@
 本文为黄仕忠的专栏文章《畸零杂记（二）：钦义婶婶》，详细讲述了钦义婶婶的生命故事与过渡经历。钦义婶婶实际上是一位男士，他对女性身份的向往贯穿其一生。他的故事始于一个封闭的农村环境，尽管遭遇了周围的嘲笑和误解，他依然坚定地追求自己所渴望的身份和生活方式。文中描写了钦义婶婶的成长经历，分享了在历史特殊背景下的个人抗争，对自己的身份认同表现出强烈的自我坚持与生活的勇气。作者通过对钦义婶婶的深情回忆，反映了那个时代对性别认同的压抑和社会的不包容，以及若在现代社会中，她的生活可能会截然不同。文章还包括了许多评论者的回应，表现出社会对跨性别者态度的变化与对这一独特群体的思考和理解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_黄仕忠︱畸零杂记（二）：钦义婶婶_专栏.md                             |
-> | Size            | 22145 bytes                           |
-> | Archived Date   | 2024-11-03 08:36:01                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=26390266&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=26390266&from=kuaibao)                       |
-> | Author          | 黄仕忠                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-03-06                                 |
-> | Tags            | 跨性别, 个人故事, 社会环境, 性别认同, 文化反思, 历史记忆, 生命经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_黄仕忠︱畸零杂记（二）：钦义婶婶_专栏.md                             |
+| Size            | 22145 bytes                           |
+| Archived Date   | 2024-11-03 08:36:01                             |
+| Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=26390266&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=26390266&from=kuaibao)                       |
+| Author          | 黄仕忠                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-03-06                                 |
+| Tags            | 跨性别, 个人故事, 社会环境, 性别认同, 文化反思, 历史记忆, 生命经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

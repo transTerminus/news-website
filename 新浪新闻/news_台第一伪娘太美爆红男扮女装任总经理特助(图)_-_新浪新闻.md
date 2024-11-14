@@ -43,18 +43,18 @@
 本文介绍了台湾"第一伪娘"纪香的个人故事及其在社会上的独特地位。纪香因其出色的外貌和男性扮女装的形象在网络上迅速走红，成为热门的网络模特，并担任某公司的总经理特助。文章提到，虽然纪香在公众场合中喜爱打扮成女性，但在家庭生活中，她依然保留男性的身份，并与妻子和女儿一起生活。她提到曾考虑过变性手术，但因妻子无法接受而放弃。文章还讨论了台湾地区逐渐盛行的伪娘文化以及相关的经济活动，例如提供变身服务的咖啡厅。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_台第一伪娘太美爆红男扮女装任总经理特助(图)_-_新浪新闻.md                             |
-> | Size            | 1422 bytes                           |
-> | Archived Date   | 2024-11-09 07:40:53                             |
-> | Original Link   | [https://news.sina.cn/sa/2011-03-02/detail-ikftpnny4605565.d.html](https://news.sina.cn/sa/2011-03-02/detail-ikftpnny4605565.d.html)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 台湾                               |
-> | Date            | 2011-03-02                                 |
-> | Tags            | 跨性别, 伪娘, 台湾, 变性手术, 文化现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_台第一伪娘太美爆红男扮女装任总经理特助(图)_-_新浪新闻.md                             |
+| Size            | 1422 bytes                           |
+| Archived Date   | 2024-11-09 07:40:53                             |
+| Original Link   | [https://news.sina.cn/sa/2011-03-02/detail-ikftpnny4605565.d.html](https://news.sina.cn/sa/2011-03-02/detail-ikftpnny4605565.d.html)                       |
+| Author          | 中国新闻网                               |
+| Region          | 台湾                               |
+| Date            | 2011-03-02                                 |
+| Tags            | 跨性别, 伪娘, 台湾, 变性手术, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

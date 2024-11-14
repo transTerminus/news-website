@@ -33,18 +33,18 @@
 该文章还涉及了社会对跨性别者的歧视和偏见，反映了跨性别者在寻求平等就业权方面所面临的法律和社会挑战，突显了法律政策在保障就业权利方面的重要性。这也是引发社会关注和讨论的事件，更新了公众对跨性别者权益的认识。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_80后变性人找工作遇暗门槛：屡被提结婚生子.md                             |
-> | Size            | 1100 bytes                           |
-> | Archived Date   | 2024-11-02 06:36:57                             |
-> | Original Link   | [https://news.sina.cn/sh/2020-06-02/detail-iircuyvi6232664.d.html](https://news.sina.cn/sh/2020-06-02/detail-iircuyvi6232664.d.html)                       |
-> | Author          | 澎湃新闻官方账号                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2020-06-02                                 |
-> | Tags            | 跨性别, 就业困境, 性别歧视, 法律案例, 社会问题                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_80后变性人找工作遇暗门槛：屡被提结婚生子.md                             |
+| Size            | 1100 bytes                           |
+| Archived Date   | 2024-11-02 06:36:57                             |
+| Original Link   | [https://news.sina.cn/sh/2020-06-02/detail-iircuyvi6232664.d.html](https://news.sina.cn/sh/2020-06-02/detail-iircuyvi6232664.d.html)                       |
+| Author          | 澎湃新闻官方账号                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-06-02                                 |
+| Tags            | 跨性别, 就业困境, 性别歧视, 法律案例, 社会问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

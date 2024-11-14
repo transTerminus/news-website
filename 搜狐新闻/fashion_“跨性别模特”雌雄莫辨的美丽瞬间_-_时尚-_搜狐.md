@@ -169,18 +169,18 @@ Andreja Pejic，原名Andrej Pejic。实际上她就是这篇文章的主要灵�
 本文探讨了跨性别模特在时尚界的影响与地位，通过介绍多个跨性别模特的故事，强调了他们在男性和女性时装秀场中游走的能力。文章开头对“跨性别”一词的定义进行了阐释，并指出跨性别者并不一定都选择做医学手术。接着，以Andreja Pejic为主角，介绍了她从男模转变为女模的经历，她是第一个公开承认变性的模特，风靡一时。随后，文章介绍了Stav Strashko、Lea T、Benjamin Melzer等其他跨性别模特，展现了他们在时尚界的独特魅力与个人故事。通过这些跨性别模特的经历，文中传达了对性别认同和性别表达的尊重与理解。同时，文章展现了跨性别模特如何突破传统性别界限，改变大家对于性别的认知，让时尚界呈现出更多元与包容的面貌。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | fashion_“跨性别模特”雌雄莫辨的美丽瞬间_-_时尚-_搜狐.md                             |
-> | Size            | 10785 bytes                           |
-> | Archived Date   | 2024-11-07 05:04:21                             |
-> | Original Link   | [https://fashion.sohu.com/20170917/n512316579.shtml](https://fashion.sohu.com/20170917/n512316579.shtml)                       |
-> | Author          | NewLeaper海外实习                               |
-> | Region          | 未知                               |
-> | Date            | 2017-09-17                                 |
-> | Tags            | 跨性别, 模特, 时尚, 性别认同, 变性经历, 社会环境, 跨性别者                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | fashion_“跨性别模特”雌雄莫辨的美丽瞬间_-_时尚-_搜狐.md                             |
+| Size            | 10785 bytes                           |
+| Archived Date   | 2024-11-07 05:04:21                             |
+| Original Link   | [https://fashion.sohu.com/20170917/n512316579.shtml](https://fashion.sohu.com/20170917/n512316579.shtml)                       |
+| Author          | NewLeaper海外实习                               |
+| Region          | 未知                               |
+| Date            | 2017-09-17                                 |
+| Tags            | 跨性别, 模特, 时尚, 性别认同, 变性经历, 社会环境, 跨性别者                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

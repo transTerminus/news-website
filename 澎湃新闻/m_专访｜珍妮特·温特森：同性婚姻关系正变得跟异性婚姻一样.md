@@ -75,18 +75,18 @@
 本文为澎湃新闻对作家珍妮特·温特森的专访，深入探讨了温特森对同性婚姻、性别身份以及女权主义等主题的看法。温特森认为，性取向不应成为一个人的全部身份，期待未来大家能超越标签的束缚，享受更为流动的性向。她谈到在现今的身份政治环境下，性少数群体的权益还有待提升，但也对未来充满希望。温特森在访谈中反映了她与伴侣的关系，并阐述了性与情感之间的联系，强调了爱和关系的多样性及复杂性。此外，她反思了婚姻的传统观念，提出对婚姻契约的重新思考，鼓励人们从新的视角看待个人关系，尤其是在同性恋与跨性别议题上。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_专访｜珍妮特·温特森：同性婚姻关系正变得跟异性婚姻一样.md                             |
-> | Size            | 11130 bytes                           |
-> | Archived Date   | 2024-11-03 08:32:57                             |
-> | Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=1688218&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=1688218&from=kuaibao)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-05-18                                 |
-> | Tags            | 珍妮特·温特森, 同性婚姻, 性取向, 女权主义, 性别身份, 跨性别,  LGBTQ+ 权益, 婚姻观念                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_专访｜珍妮特·温特森：同性婚姻关系正变得跟异性婚姻一样.md                             |
+| Size            | 11130 bytes                           |
+| Archived Date   | 2024-11-03 08:32:57                             |
+| Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=1688218&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=1688218&from=kuaibao)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-05-18                                 |
+| Tags            | 珍妮特·温特森, 同性婚姻, 性取向, 女权主义, 性别身份, 跨性别,  LGBTQ+ 权益, 婚姻观念                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

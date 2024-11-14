@@ -55,18 +55,18 @@ _![](https://n.sinaimg.cn/sinacn10201/360/w180h180/20191012/580d-ifvwfti7762103.
 本文是关于二次元伪娘角色的盘点，作者研磨在2019年分享了自己心目中最可爱的五位伪娘。这些角色多出自知名的动画作品，每个角色都有其独特的魅力和吸引力，文中包括角色的基本介绍、他们在作品中的表现及其受欢迎的原因。例如，阿斯托尔福以其甜美的声线和可爱的外表受到粉丝喜爱；五河士织因其高颜值和温柔特质被视为理想的伴侣角色。文章还邀请读者分享自己喜爱的伪娘角色，从而鼓励互动和讨论。整体内容展现了对二次元文化中跨性别表现的欣赏及对角色个人魅力的探讨。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | k_盘点二次元最可爱的五位伪娘，都是画女硬说男的系列_-_新浪.md                             |
-> | Size            | 4021 bytes                           |
-> | Archived Date   | 2024-11-09 06:59:21                             |
-> | Original Link   | [https://k.sina.cn/article_6424431526_17eed0ba600100dtzp.html](https://k.sina.cn/article_6424431526_17eed0ba600100dtzp.html)                       |
-> | Author          | 研磨                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2019-02-07                                 |
-> | Tags            | 二次元, 伪娘, 角色盘点, Fate/Apocrypha, 刀剑神域, 命运石之门, 文化讨论, 跨性别                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | k_盘点二次元最可爱的五位伪娘，都是画女硬说男的系列_-_新浪.md                             |
+| Size            | 4021 bytes                           |
+| Archived Date   | 2024-11-09 06:59:21                             |
+| Original Link   | [https://k.sina.cn/article_6424431526_17eed0ba600100dtzp.html](https://k.sina.cn/article_6424431526_17eed0ba600100dtzp.html)                       |
+| Author          | 研磨                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-02-07                                 |
+| Tags            | 二次元, 伪娘, 角色盘点, Fate/Apocrypha, 刀剑神域, 命运石之门, 文化讨论, 跨性别                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

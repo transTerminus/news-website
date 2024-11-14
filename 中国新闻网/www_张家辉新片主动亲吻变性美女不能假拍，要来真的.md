@@ -40,18 +40,18 @@
 该文件介绍了中国演员张家辉在2013年首映电影《扫毒》时，与被称为“泰国最美变性人”的Poy进行亲吻戏的内容。张家辉在发布会上表示不惧挑战，主动与Poy表演真实的吻戏，并强调‘不能假拍，要来真的。’他在活动中讨论了金马奖的结果，虽然未能获得最佳男主角，但表示会调整心态，并展现对未来的信心。此外，Poy分享了在拍摄过程中的感受，称张家辉对她十分照顾，拍得很放松。文件附含多张活动照片，展现了现场的热烈气氛和演员们的互动。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_张家辉新片主动亲吻变性美女不能假拍，要来真的.md                             |
-> | Size            | 2367 bytes                           |
-> | Archived Date   | 2024-11-08 10:58:21                             |
-> | Original Link   | [https://www.chinanews.com.cn/yl/2013/11-26/5549978.shtml](https://www.chinanews.com.cn/yl/2013/11-26/5549978.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2013-11-26                                 |
-> | Tags            | 张家辉, 跨性别, 泰国变性人, 扫毒, 金马奖, 电影首映礼                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_张家辉新片主动亲吻变性美女不能假拍，要来真的.md                             |
+| Size            | 2367 bytes                           |
+| Archived Date   | 2024-11-08 10:58:21                             |
+| Original Link   | [https://www.chinanews.com.cn/yl/2013/11-26/5549978.shtml](https://www.chinanews.com.cn/yl/2013/11-26/5549978.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-11-26                                 |
+| Tags            | 张家辉, 跨性别, 泰国变性人, 扫毒, 金马奖, 电影首映礼                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

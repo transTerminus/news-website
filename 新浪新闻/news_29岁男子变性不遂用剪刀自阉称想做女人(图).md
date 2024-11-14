@@ -48,18 +48,18 @@
 本文报道了一位29岁香港男子因未能成功进行变性手术，而采取极端举动以实现性别认同，企图用剪刀自阉。事件发生在2013年1月5日，男子陆某在家中自残，导致生殖器流血。被父亲发现后报警送医，经过约三小时的手术成功移除了其生殖器。事件引发了对香港变性治疗政策严重不足的讨论，立法会议员郭家麒呼吁政府应制定完整的变性手术与精神心理辅导政策，以改善变性人士的医疗和社会支持环境。文中还提到，香港仅有律敦治医院能够进行变性手术，引发对医疗资源和政策的严重关切。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_29岁男子变性不遂用剪刀自阉称想做女人(图).md                             |
-> | Size            | 2930 bytes                           |
-> | Archived Date   | 2024-11-02 06:30:38                             |
-> | Original Link   | [https://news.sina.cn/sa/2013-01-06/detail-ikmxzfmk1700521.d.html](https://news.sina.cn/sa/2013-01-06/detail-ikmxzfmk1700521.d.html)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 香港                               |
-> | Date            | 2013-01-06                                 |
-> | Tags            | 跨性别, 变性手术, 自阉, 心理健康, 社会政策, 医疗资源                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_29岁男子变性不遂用剪刀自阉称想做女人(图).md                             |
+| Size            | 2930 bytes                           |
+| Archived Date   | 2024-11-02 06:30:38                             |
+| Original Link   | [https://news.sina.cn/sa/2013-01-06/detail-ikmxzfmk1700521.d.html](https://news.sina.cn/sa/2013-01-06/detail-ikmxzfmk1700521.d.html)                       |
+| Author          | 中国新闻网                               |
+| Region          | 香港                               |
+| Date            | 2013-01-06                                 |
+| Tags            | 跨性别, 变性手术, 自阉, 心理健康, 社会政策, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

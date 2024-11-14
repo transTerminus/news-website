@@ -114,18 +114,18 @@
 本文报道了新西兰举重选手哈伯德（Laurel Hubbard）成为首位参加奥运会的跨性别举重运动员的事件，并针对网络流传的关于她因睾丸受伤而退赛的假消息进行了核查。文章中首先描述了哈伯德的背景，包括她从男性过渡为女性的经历以及参加赛事的相关信息。文中指出，哈伯德并未因伤退赛，实际原因是她在比赛中未能成功举起重量，同时提到国际奥委会对于跨性别运动员的参赛标准。这项标准曾引发广泛讨论，涉及公平和竞技的伦理考量。此外，文章中还列出了对哈伯德参赛资格的争论和社会反响，包括体育专家的观点和媒体的相关报道。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_核查_新西兰跨性别举重选手睾丸受伤退赛？假！.md                             |
-> | Size            | 8570 bytes                           |
-> | Archived Date   | 2024-11-03 08:55:09                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13881291](https://m.thepaper.cn/newsDetail_forward_13881291)                       |
-> | Author          | 王梓龙                               |
-> | Region          | 新西兰                               |
-> | Date            | 2021-08-02                                 |
-> | Tags            | 跨性别运动员, 举重, 哈伯德, 东京奥运会, 体育伦理, 跨性别权益, 社会争议, 国际奥委会                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_核查_新西兰跨性别举重选手睾丸受伤退赛？假！.md                             |
+| Size            | 8570 bytes                           |
+| Archived Date   | 2024-11-03 08:55:09                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_13881291](https://m.thepaper.cn/newsDetail_forward_13881291)                       |
+| Author          | 王梓龙                               |
+| Region          | 新西兰                               |
+| Date            | 2021-08-02                                 |
+| Tags            | 跨性别运动员, 举重, 哈伯德, 东京奥运会, 体育伦理, 跨性别权益, 社会争议, 国际奥委会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

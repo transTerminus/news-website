@@ -48,18 +48,18 @@
 本文讲述了广西青年男歌舞演员刘艺妃的变性手术经历。刘艺妃，从小就渴望成为女孩，并为自己的男性身份感到痛苦。经过多年的心路历程，她终于在长海医院进行阴道再造手术，以实现自己的梦想。文章中详细描述了手术的过程和医生的专业解读。手术于2006年6月13日上午10时30分开始，历时两个小时，成功完成。术后刘艺妃将从小伙子彻底变成“大姑娘”，这标志着她人生中的一个重大转变，圆满了她20年的梦想。文章还包括了一些网友对事件的评论，反映出社会对于跨性别者的不同态度和看法。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_男歌舞演员接受阴道再造术变性.md                             |
-> | Size            | 2054 bytes                           |
-> | Archived Date   | 2024-11-02 05:28:52                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-13/detail-ikftssap2639619.d.html](https://news.sina.cn/sa/2006-06-13/detail-ikftssap2639619.d.html)                       |
-> | Author          | 朱奎                               |
-> | Region          | 广西，中国                               |
-> | Date            | 2006-06-13                                 |
-> | Tags            | 变性手术, 跨性别者, 刘艺妃, 医疗资源, 社会评论, 人生故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_男歌舞演员接受阴道再造术变性.md                             |
+| Size            | 2054 bytes                           |
+| Archived Date   | 2024-11-02 05:28:52                             |
+| Original Link   | [https://news.sina.cn/sa/2006-06-13/detail-ikftssap2639619.d.html](https://news.sina.cn/sa/2006-06-13/detail-ikftssap2639619.d.html)                       |
+| Author          | 朱奎                               |
+| Region          | 广西，中国                               |
+| Date            | 2006-06-13                                 |
+| Tags            | 变性手术, 跨性别者, 刘艺妃, 医疗资源, 社会评论, 人生故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

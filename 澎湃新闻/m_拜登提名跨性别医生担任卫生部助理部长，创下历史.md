@@ -24,18 +24,18 @@
 这篇文章报道了美国当选总统拜登提名跨性别医生蕾切尔·莱文（Rachel Levine）担任卫生部助理部长的消息，若提名成功，她将成为美国联邦政府中首位公开跨性别身份的高级官员。莱文是一名儿科医生，在抗击新冠疫情中做出了重要贡献，曾担任宾夕法尼亚州卫生部长，且在多项医疗问题上有丰富的经验与发声。拜登在声明中强调了莱文带来的专业知识和领导力，同时她自己也表示为性少数群体公平问题的关注感到自豪。文章还提到，莱文从小开始怀疑性别身份，并在2013年完成了变性手术和激素治疗。总体上，这篇文章不仅传达了提名的历史意义，还探讨了蕾切尔·莱文个人及其所承载的广泛社会和医疗议题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_拜登提名跨性别医生担任卫生部助理部长，创下历史.md                             |
-> | Size            | 2338 bytes                           |
-> | Archived Date   | 2024-11-03 10:04:06                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=10866867&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10866867&from=wifiKey)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 美国                               |
-> | Date            | 2021-01-20                                 |
-> | Tags            | 跨性别, 医疗政策, 性别认同, 蕾切尔·莱文, 拜登政府, 历史意义                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_拜登提名跨性别医生担任卫生部助理部长，创下历史.md                             |
+| Size            | 2338 bytes                           |
+| Archived Date   | 2024-11-03 10:04:06                             |
+| Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=10866867&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10866867&from=wifiKey)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 美国                               |
+| Date            | 2021-01-20                                 |
+| Tags            | 跨性别, 医疗政策, 性别认同, 蕾切尔·莱文, 拜登政府, 历史意义                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

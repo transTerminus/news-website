@@ -53,18 +53,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文介绍了多部与伪娘相关的动漫，具体包括《笨蛋测试召唤兽》、《乱马1/2》、《女装骑士》、《搞姬日常》、《少女爱上姐姐》、《女生爱上女生》、《玛利亚狂热》、《会长是女仆大人》、《银仙》和《我要成为双马尾》。这些作品展示了多元的性别表达与故事情节，例如，角色们在性别认同上的幽默与挑战，从木下秀吉这一不认为自己是伪娘的角色，到《会长是女仆大人》中以女性身份捉弄男生的伪娘角色兵藤葵，均展现出跨性别文化在动漫中逐渐被接受与认可。此外，文章的最后还鼓励大家关注更多的动漫资讯，展现了作者作为漫迷的热情。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_那些值得回顾的伪娘动漫！给你们_-_网易.md                             |
-> | Size            | 2780 bytes                           |
-> | Archived Date   | 2024-11-08 05:40:53                             |
-> | Original Link   | [https://www.163.com/dy/article/D7KBIJI60517F6JT.html](https://www.163.com/dy/article/D7KBIJI60517F6JT.html)                       |
-> | Author          | 网名落雪酱                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-01-08                                 |
-> | Tags            | 伪娘动漫, 性别表达, 跨性别文化, 动漫推荐, 漫迷                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_那些值得回顾的伪娘动漫！给你们_-_网易.md                             |
+| Size            | 2780 bytes                           |
+| Archived Date   | 2024-11-08 05:40:53                             |
+| Original Link   | [https://www.163.com/dy/article/D7KBIJI60517F6JT.html](https://www.163.com/dy/article/D7KBIJI60517F6JT.html)                       |
+| Author          | 网名落雪酱                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-01-08                                 |
+| Tags            | 伪娘动漫, 性别表达, 跨性别文化, 动漫推荐, 漫迷                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

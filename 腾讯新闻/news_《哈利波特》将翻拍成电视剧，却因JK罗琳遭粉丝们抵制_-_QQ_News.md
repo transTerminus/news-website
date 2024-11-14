@@ -72,18 +72,18 @@ Watson 随后强调:“我在这里为所有女巫们加油。”
 本文讨论了《哈利·波特》系列即将翻拍成电视剧的消息，以及因此引发的围绕创作者J.K.罗琳的争议。文章指出，尽管该剧受到粉丝的期待，但罗琳在性别认同问题上的观点令一部分粉丝表示强烈抵制。J.K.罗琳曾在社交媒体上发表对跨性别话题的看法，这些言论在LGBTQ+社区引发了不少争议，粉丝们对她的参与持有不同意见。有评论认为，无论这部新剧的质量如何，罗琳的观点都会对其产生一定的影响。文章还报道了一些粉丝的个人看法和对剧集的期待与担忧，涉及探讨了对原著的忠实度及新剧能否带来新的视角。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_《哈利波特》将翻拍成电视剧，却因JK罗琳遭粉丝们抵制_-_QQ_News.md                             |
-> | Size            | 7156 bytes                           |
-> | Archived Date   | 2024-11-08 19:15:42                             |
-> | Original Link   | [https://news.qq.com/rain/a/20230410A0ACVW00](https://news.qq.com/rain/a/20230410A0ACVW00)                       |
-> | Author          | 土澳的生活                               |
-> | Region          | 未知                               |
-> | Date            | 2023-04-10                                 |
-> | Tags            | 跨性别, JK罗琳, 哈利波特, 电视剧, LGBTQ+, 社会争议                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_《哈利波特》将翻拍成电视剧，却因JK罗琳遭粉丝们抵制_-_QQ_News.md                             |
+| Size            | 7156 bytes                           |
+| Archived Date   | 2024-11-08 19:15:42                             |
+| Original Link   | [https://news.qq.com/rain/a/20230410A0ACVW00](https://news.qq.com/rain/a/20230410A0ACVW00)                       |
+| Author          | 土澳的生活                               |
+| Region          | 未知                               |
+| Date            | 2023-04-10                                 |
+| Tags            | 跨性别, JK罗琳, 哈利波特, 电视剧, LGBTQ+, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

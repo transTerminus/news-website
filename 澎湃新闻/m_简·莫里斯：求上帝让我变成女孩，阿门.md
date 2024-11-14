@@ -110,18 +110,18 @@
 本文摘自英国作家简·莫里斯的书籍《她他》，记录了她从儿童时期开始感受到的性别困惑与个人经历。简·莫里斯于1946岁时接受变性手术，从男孩身份转变为女孩。该文件不仅详细叙述了她的童年记忆和内心挣扎，也探讨了跨性别身份的认知及社会中对这一身份的误解。文章中，莫里斯通过回忆自己小时候的家庭生活、孤独感以及最终寻求自我认同的决心，让读者深刻感受到作为一个跨性别者在成长中的复杂情感。她的名言“求上帝让我变成女孩”贯穿了她的成长历程，表现了她对自身性别认同的渴望与追求。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_简·莫里斯：求上帝让我变成女孩，阿门.md                             |
-> | Size            | 19000 bytes                           |
-> | Archived Date   | 2024-11-03 08:39:52                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_10116141](https://m.thepaper.cn/newsDetail_forward_10116141)                       |
-> | Author          | 简·莫里斯                               |
-> | Region          | 英国                               |
-> | Date            | 2016-08-01                                 |
-> | Tags            | 跨性别, 性别认同, 个人经历, 性别困惑, 变性手术, 文学                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_简·莫里斯：求上帝让我变成女孩，阿门.md                             |
+| Size            | 19000 bytes                           |
+| Archived Date   | 2024-11-03 08:39:52                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_10116141](https://m.thepaper.cn/newsDetail_forward_10116141)                       |
+| Author          | 简·莫里斯                               |
+| Region          | 英国                               |
+| Date            | 2016-08-01                                 |
+| Tags            | 跨性别, 性别认同, 个人经历, 性别困惑, 变性手术, 文学                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

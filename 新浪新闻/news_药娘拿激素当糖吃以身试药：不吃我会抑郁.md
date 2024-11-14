@@ -45,18 +45,18 @@
 这篇文章来源于澎湃新闻，作者为朱莹和谭瑶，讲述了群体被称为‘药娘’的跨性别者的生活现状与心理困扰。文章中提到，许多药娘为了应对自身的抑郁情绪，将激素药物视作日常的糖果，甚至通过非正规渠道购药，以身试药，导致健康受到严重损害。药娘们的心理需求没有得到应有的关注和支持，因此她们只能以此极端方式来降低抑郁感。文章也引入了一些热门评论，揭示了社会对于这一群体的多样反应，既有同情，也有偏见，反映出跨性别者在社会环境中所面临的压力和挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_药娘拿激素当糖吃以身试药：不吃我会抑郁.md                             |
-> | Size            | 1352 bytes                           |
-> | Archived Date   | 2024-11-02 03:29:41                             |
-> | Original Link   | [http://news.sina.cn/sh/2018-08-16/detail-ihhvciiv6086963.d.html?oid=381&vt=4](http://news.sina.cn/sh/2018-08-16/detail-ihhvciiv6086963.d.html?oid=381&vt=4)                       |
-> | Author          | 朱莹、谭瑶                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-08-16                                 |
-> | Tags            | 跨性别者, 药娘, 抑郁, 医疗资源, 心理健康, 社会环境, 法律政策, 生命故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_药娘拿激素当糖吃以身试药：不吃我会抑郁.md                             |
+| Size            | 1352 bytes                           |
+| Archived Date   | 2024-11-02 03:29:41                             |
+| Original Link   | [http://news.sina.cn/sh/2018-08-16/detail-ihhvciiv6086963.d.html?oid=381&vt=4](http://news.sina.cn/sh/2018-08-16/detail-ihhvciiv6086963.d.html?oid=381&vt=4)                       |
+| Author          | 朱莹、谭瑶                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-08-16                                 |
+| Tags            | 跨性别者, 药娘, 抑郁, 医疗资源, 心理健康, 社会环境, 法律政策, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

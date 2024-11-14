@@ -96,18 +96,18 @@
 本文报道了男艺人邹开云反串女性角色而受到关注的故事。他的外貌引起了许多围观者的惊讶与质疑，甚至有些人怀疑他是否进行了变性手术。邹开云为江西南昌人，自小性格腼腆，因长相出众而意外进入反串行业。他提到反串并不是一种装扮，而是一种表演艺术。尽管他外表柔美，邹开云强调自己是一名男性，从未考虑过变性手术。文章中也探讨了他在反串演出中遇到的尴尬和挑战，以及使用雌性激素保持女性化外观所带来的身体健康问题。反串的历史和社会看法也被提及，反映了当下社会对性别表达的多元化和复杂性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_男艺人反串女人太漂亮被质疑是人妖(图)_-_新浪新闻.md                             |
-> | Size            | 8661 bytes                           |
-> | Archived Date   | 2024-11-09 07:39:29                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-05-17/detail-ikftssap2875899.d.html](https://news.sina.cn/sa/2007-05-17/detail-ikftssap2875899.d.html)                       |
-> | Author          | 猛犸新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2007-05-17                                 |
-> | Tags            | 跨性别, 反串, 表演艺术, 性别认同, 邹开云, 网络文化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_男艺人反串女人太漂亮被质疑是人妖(图)_-_新浪新闻.md                             |
+| Size            | 8661 bytes                           |
+| Archived Date   | 2024-11-09 07:39:29                             |
+| Original Link   | [https://news.sina.cn/sa/2007-05-17/detail-ikftssap2875899.d.html](https://news.sina.cn/sa/2007-05-17/detail-ikftssap2875899.d.html)                       |
+| Author          | 猛犸新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-05-17                                 |
+| Tags            | 跨性别, 反串, 表演艺术, 性别认同, 邹开云, 网络文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -24,18 +24,18 @@
 本文报道了2009年10月31日举行的第五届国际变性人选美大赛‘国际皇后小姐’的决赛，将在泰国芭达雅举行。此次活动吸引了来自世界30多个国家的变性人和异装癖者参与，旨在提高社会对变性者的认识与理解，进而提升变性人的人权和社会认可度。组织者希望通过这样的赛事，让公众更好地了解变性者或异装者的性别认同与文化背景。文章特别提到，这类选美活动不仅是对美的展示，更是性别认同和文化的交融与交流。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_国际变性人选美大赛31日将在泰国芭达雅举行.md                             |
-> | Size            | 1092 bytes                           |
-> | Archived Date   | 2024-11-08 09:05:02                             |
-> | Original Link   | [http://www.chinanews.com.cn/gj/gj-sswh/news/2009/10-29/1937924.shtml](http://www.chinanews.com.cn/gj/gj-sswh/news/2009/10-29/1937924.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国                               |
-> | Date            | 2009-10-29                                 |
-> | Tags            | 变性人选美大赛, 跨性别, 性别认同, 人权, 泰国                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国际变性人选美大赛31日将在泰国芭达雅举行.md                             |
+| Size            | 1092 bytes                           |
+| Archived Date   | 2024-11-08 09:05:02                             |
+| Original Link   | [http://www.chinanews.com.cn/gj/gj-sswh/news/2009/10-29/1937924.shtml](http://www.chinanews.com.cn/gj/gj-sswh/news/2009/10-29/1937924.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国                               |
+| Date            | 2009-10-29                                 |
+| Tags            | 变性人选美大赛, 跨性别, 性别认同, 人权, 泰国                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

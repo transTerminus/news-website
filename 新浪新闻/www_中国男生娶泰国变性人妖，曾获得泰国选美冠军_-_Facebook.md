@@ -34,18 +34,18 @@
 本文件报道了一位中国男生娶了一位泰国变性人，后者曾获得泰国选美冠军。这篇文章对他们的婚后生活进行了描述，表示对他们幸福生活的祝福。文中提到，尽管这位新郎是中国人，然而他对伴侣的爱意和对外界的关注表现得相当淡然。文章引用了一些评论，表达了社会对跨性别婚姻的不同看法，同时呼吁公众对变性人给予更多的理解和支持。整体而言，这是一篇结合了真实故事和社会评论的新闻报道，反映了当前社会对跨性别议题的关注与讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_中国男生娶泰国变性人妖，曾获得泰国选美冠军_-_Facebook.md                             |
-> | Size            | 1613 bytes                           |
-> | Archived Date   | 2024-11-09 08:11:40                             |
-> | Original Link   | [https://www.facebook.com/sinausnews/videos/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%94%9F%E5%A8%B6%E6%B3%B0%E5%9B%BD%E5%8F%98%E6%80%A7%E4%BA%BA%E5%A6%96%E6%9B%BE%E8%8E%B7%E5%BE%97%E6%B3%B0%E5%9B%BD%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B/405717926665953/?locale=zh_CN](https://www.facebook.com/sinausnews/videos/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%94%9F%E5%A8%B6%E6%B3%B0%E5%9B%BD%E5%8F%98%E6%80%A7%E4%BA%BA%E5%A6%96%E6%9B%BE%E8%8E%B7%E5%BE%97%E6%B3%B0%E5%9B%BD%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B/405717926665953/?locale=zh_CN)                       |
-> | Author          | 北美新浪                               |
-> | Region          | 未知                               |
-> | Date            | 2019-03-15                                 |
-> | Tags            | 跨性别, 泰国选美, 新闻, 社会话题                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_中国男生娶泰国变性人妖，曾获得泰国选美冠军_-_Facebook.md                             |
+| Size            | 1613 bytes                           |
+| Archived Date   | 2024-11-09 08:11:40                             |
+| Original Link   | [https://www.facebook.com/sinausnews/videos/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%94%9F%E5%A8%B6%E6%B3%B0%E5%9B%BD%E5%8F%98%E6%80%A7%E4%BA%BA%E5%A6%96%E6%9B%BE%E8%8E%B7%E5%BE%97%E6%B3%B0%E5%9B%BD%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B/405717926665953/?locale=zh_CN](https://www.facebook.com/sinausnews/videos/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%94%9F%E5%A8%B6%E6%B3%B0%E5%9B%BD%E5%8F%98%E6%80%A7%E4%BA%BA%E5%A6%96%E6%9B%BE%E8%8E%B7%E5%BE%97%E6%B3%B0%E5%9B%BD%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B/405717926665953/?locale=zh_CN)                       |
+| Author          | 北美新浪                               |
+| Region          | 未知                               |
+| Date            | 2019-03-15                                 |
+| Tags            | 跨性别, 泰国选美, 新闻, 社会话题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

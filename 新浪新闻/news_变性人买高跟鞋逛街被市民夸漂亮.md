@@ -56,18 +56,18 @@
 本文讲述了变性人李国华在完成变性手术后的第一次逛街经历。在心理医生的陪伴下，她首次以女性身份走出医院，穿着精心打扮的服装和高跟鞋，充满了激动与期待。街上的路人对她的外貌给予了如‘很靓女’的夸赞，让李国华感受到社会的接纳与温暖。文章详细描绘了她的心路历程，包括穿戴裙子和高跟鞋的自豪感，以及对自我形象的逐步适应。李国华对自己焕然一新的生活充满希望，尽管内心仍有些紧张，但她非常珍惜这次外出的体验。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人买高跟鞋逛街被市民夸漂亮.md                             |
-> | Size            | 3687 bytes                           |
-> | Archived Date   | 2024-11-02 05:37:31                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html](https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html)                       |
-> | Author          | 秦鸿雁，南方新闻网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2006-08-22                                 |
-> | Tags            | 跨性别, 变性人, 生活故事, 社会接纳, 心理辅导, 高跟鞋, 女性身份, 自我认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人买高跟鞋逛街被市民夸漂亮.md                             |
+| Size            | 3687 bytes                           |
+| Archived Date   | 2024-11-02 05:37:31                             |
+| Original Link   | [https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html](https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html)                       |
+| Author          | 秦鸿雁，南方新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-08-22                                 |
+| Tags            | 跨性别, 变性人, 生活故事, 社会接纳, 心理辅导, 高跟鞋, 女性身份, 自我认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

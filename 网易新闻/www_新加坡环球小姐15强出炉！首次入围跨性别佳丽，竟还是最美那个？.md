@@ -57,18 +57,18 @@
 在2024年的新加坡环球小姐大赛上，历史性地出现了首位跨性别参赛佳丽Qatrisha Zairya成功入围15强，成为公众关注的焦点。这一事件标志着新加坡在包容性和多样性方面的进步，赛事不仅取消了年龄限制，也允许跨性别者参赛。Qatrisha Zairya于2017年接受了变性手术，获得女性身份，并与她的丈夫共同生活多年。文章中还提到其他竞争对手，以及全球选美比赛的变化趋势，例如在阿根廷较早举办的环球小姐比赛中，年长女性选手的崛起。随着选美赛事的进行，Qatrisha Zairya被认为有很大机率争夺冠军，她的参与和成功不仅是个人成就，也反映了社会对跨性别者的接纳和尊重。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_新加坡环球小姐15强出炉！首次入围跨性别佳丽，竟还是最美那个？.md                             |
-> | Size            | 4241 bytes                           |
-> | Archived Date   | 2024-11-08 08:08:49                             |
-> | Original Link   | [https://www.163.com/dy/article/JAU03Q5V05561CPZ.html](https://www.163.com/dy/article/JAU03Q5V05561CPZ.html)                       |
-> | Author          | 娱乐小板报                               |
-> | Region          | 新加坡                               |
-> | Date            | 2024-08-31                                 |
-> | Tags            | 跨性别, 选美, 新加坡环球小姐, 社会包容, 法律政策, 女性身份                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_新加坡环球小姐15强出炉！首次入围跨性别佳丽，竟还是最美那个？.md                             |
+| Size            | 4241 bytes                           |
+| Archived Date   | 2024-11-08 08:08:49                             |
+| Original Link   | [https://www.163.com/dy/article/JAU03Q5V05561CPZ.html](https://www.163.com/dy/article/JAU03Q5V05561CPZ.html)                       |
+| Author          | 娱乐小板报                               |
+| Region          | 新加坡                               |
+| Date            | 2024-08-31                                 |
+| Tags            | 跨性别, 选美, 新加坡环球小姐, 社会包容, 法律政策, 女性身份                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

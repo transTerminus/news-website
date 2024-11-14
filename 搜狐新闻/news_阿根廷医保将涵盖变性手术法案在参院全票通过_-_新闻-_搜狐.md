@@ -41,18 +41,18 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. 版权所有 Sohu
 该文件为一篇新闻报道，详细报道了阿根廷国会通过变性人性别认同法案的消息。根据该法案，变性人将拥有接受手术和身份转换的合法权利，且相关医疗费用将纳入医保范围。新闻指出，阿根廷参议院以全票通过此法案，并强调了保护变性人权利的重要性，民众普遍认为这是保障公民权利的重要一步。文件还提到，阿根廷早前已经成为第一个合法化同性婚姻的拉美国家，此次法案的通过是对性别认同问题的进一步关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_阿根廷医保将涵盖变性手术法案在参院全票通过_-_新闻-_搜狐.md                             |
-> | Size            | 1341 bytes                           |
-> | Archived Date   | 2024-11-07 04:21:42                             |
-> | Original Link   | [http://news.sohu.com/20120510/n342889795.shtml](http://news.sohu.com/20120510/n342889795.shtml)                       |
-> | Author          | 江淼                               |
-> | Region          | 阿根廷                               |
-> | Date            | 2012-05-10                                 |
-> | Tags            | 变性人, 性别认同法案, 医保, 阿根廷, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_阿根廷医保将涵盖变性手术法案在参院全票通过_-_新闻-_搜狐.md                             |
+| Size            | 1341 bytes                           |
+| Archived Date   | 2024-11-07 04:21:42                             |
+| Original Link   | [http://news.sohu.com/20120510/n342889795.shtml](http://news.sohu.com/20120510/n342889795.shtml)                       |
+| Author          | 江淼                               |
+| Region          | 阿根廷                               |
+| Date            | 2012-05-10                                 |
+| Tags            | 变性人, 性别认同法案, 医保, 阿根廷, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

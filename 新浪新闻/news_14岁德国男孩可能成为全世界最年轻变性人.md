@@ -25,18 +25,18 @@
 本文讲述了一名14岁德国男孩蒂姆（现名金）的故事，他可能成为世界上最年轻的变性人。报道提到金自幼就有女性认同，曾被诊断为易性癖患者，已开始接受荷尔蒙疗法，准备进行变性手术。金的父母支持他变性，学校的师生也已完全接纳他作为女孩。这一案例反映了性别认同的复杂性，以及社会和医疗体制对跨性别群体支持的逐渐变化。医生认为金的智力正常，他的坚定意愿在他的成长过程中逐渐表现出来。德国是目前仅有的允许16岁以下进行变性手术的国家，相关的医疗费用也可由保险公司承担。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_14岁德国男孩可能成为全世界最年轻变性人.md                             |
-> | Size            | 1909 bytes                           |
-> | Archived Date   | 2024-11-02 05:44:16                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-01-31/detail-ikkntiam8631860.d.html](https://news.sina.cn/sa/2007-01-31/detail-ikkntiam8631860.d.html)                       |
-> | Author          | 合肥报业网-江淮晨报                               |
-> | Region          | 德国                               |
-> | Date            | 2007-01-31                                 |
-> | Tags            | 跨性别, 变性, 荷尔蒙疗法, 青少年, 性别认同, 社会接纳                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_14岁德国男孩可能成为全世界最年轻变性人.md                             |
+| Size            | 1909 bytes                           |
+| Archived Date   | 2024-11-02 05:44:16                             |
+| Original Link   | [https://news.sina.cn/sa/2007-01-31/detail-ikkntiam8631860.d.html](https://news.sina.cn/sa/2007-01-31/detail-ikkntiam8631860.d.html)                       |
+| Author          | 合肥报业网-江淮晨报                               |
+| Region          | 德国                               |
+| Date            | 2007-01-31                                 |
+| Tags            | 跨性别, 变性, 荷尔蒙疗法, 青少年, 性别认同, 社会接纳                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

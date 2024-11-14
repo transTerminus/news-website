@@ -28,18 +28,18 @@
 该文件记录了一名香港变性人Angel在医院中因被护士称为“先生”而感到羞辱，并向平等机会委员会提出投诉的事件。事件发生在2013年4月，Angel在医院中接受心理评估时产生的这一称谓被视为对她性别身份的攻击。Angel在投诉中表示，护士的称呼造成了她的困扰和痛苦，而该护士的称呼与她的性别认同不符，使她感到在公众场合受到公开羞辱。文件中还提到，威尔斯亲王医院对此事件表示尊重病人是医护人员的基本守则，并承诺将继续提醒员工与病人保持良好沟通，以避免误会。此外，该文件通过讲述这一事件反映出社会中对跨性别者的认同问题与医疗环境中存在的歧视现象。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_被护士叫“先生”_港变性人感觉被羞辱法院投诉.md                             |
-> | Size            | 1642 bytes                           |
-> | Archived Date   | 2024-11-08 09:36:56                             |
-> | Original Link   | [https://www.chinanews.com.cn/ga/2013/04-19/4745230.shtml](https://www.chinanews.com.cn/ga/2013/04-19/4745230.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 香港                               |
-> | Date            | 2013-04-19                                 |
-> | Tags            | 港澳新闻, 社会百态, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_被护士叫“先生”_港变性人感觉被羞辱法院投诉.md                             |
+| Size            | 1642 bytes                           |
+| Archived Date   | 2024-11-08 09:36:56                             |
+| Original Link   | [https://www.chinanews.com.cn/ga/2013/04-19/4745230.shtml](https://www.chinanews.com.cn/ga/2013/04-19/4745230.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 香港                               |
+| Date            | 2013-04-19                                 |
+| Tags            | 港澳新闻, 社会百态, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

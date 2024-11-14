@@ -62,18 +62,18 @@
 本文讨论了华盛顿州通过的一项法案，旨在确保未成年人能够获得必要的性别确认治疗和生殖健康护理。该法案引发了关于跨性别儿童权利与家庭权利的激烈讨论。文章澄清了关于该法案的误解，特别是关于法律是否允许政府在父母反对的情况下带走变性儿童的谣言。法案的支持者认为这是保护跨性别青少年权利的重要措施，而反对者则认为这会侵害父母的权利。文中也解释了什么是性别确认治疗，以及这类治疗对心理健康的积极影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | finance_明查｜华盛顿通过法案允许政府合法带走变性儿童误导_-_新浪财经.md                             |
-> | Size            | 4657 bytes                           |
-> | Archived Date   | 2024-11-09 06:17:24                             |
-> | Original Link   | [https://finance.sina.cn/2023-04-26/detail-imyrrzpv4213065.d.html](https://finance.sina.cn/2023-04-26/detail-imyrrzpv4213065.d.html)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 美国                               |
-> | Date            | 2023-04-21                                 |
-> | Tags            | 华盛顿州, 跨性别权益, 性别确认治疗, 未成年人医疗, 法律措施, 父母权利与儿童保护                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | finance_明查｜华盛顿通过法案允许政府合法带走变性儿童误导_-_新浪财经.md                             |
+| Size            | 4657 bytes                           |
+| Archived Date   | 2024-11-09 06:17:24                             |
+| Original Link   | [https://finance.sina.cn/2023-04-26/detail-imyrrzpv4213065.d.html](https://finance.sina.cn/2023-04-26/detail-imyrrzpv4213065.d.html)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 美国                               |
+| Date            | 2023-04-21                                 |
+| Tags            | 华盛顿州, 跨性别权益, 性别确认治疗, 未成年人医疗, 法律措施, 父母权利与儿童保护                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

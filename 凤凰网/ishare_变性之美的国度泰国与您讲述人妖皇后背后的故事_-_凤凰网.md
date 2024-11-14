@@ -59,18 +59,18 @@
 这篇文章来自凤凰网，主要探讨了泰国人妖现象的历史、社会背景以及当代变性人的经历。文章深入探讨了泰国作为一个性文化悠久的国家，其人妖文化的起源与发展。历史上典型的案例讲述了由于经济原因，一些父母将长相清秀的男孩抚养成女孩，以便将来能够通过变性赚取金钱。文章还提到，泰国的性别与性文化同样与中国大相径庭，不同的社会反应与法律规定也影响了变性人的生活与身份认同。更有关于泰国一年一度的“蒂法妮小姐”选美大赛的详细介绍，评选出的人妖皇后受到社会广泛关注。本期标志性人物如Rose和Pov的事迹被点明，映射出变性人在娱乐圈的地位和影响力。最后，文章对人妖进行一番分类，描述了他们在生理与社会认同上的不同层次。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | ishare_变性之美的国度泰国与您讲述人妖皇后背后的故事_-_凤凰网.md                             |
-> | Size            | 4354 bytes                           |
-> | Archived Date   | 2024-11-09 10:32:41                             |
-> | Original Link   | [https://ishare.ifeng.com/c/s/7mIKllMAnpa](https://ishare.ifeng.com/c/s/7mIKllMAnpa)                       |
-> | Author          | WindowsOfAsia                               |
-> | Region          | 泰国                               |
-> | Date            | 2019-04-30                                 |
-> | Tags            | 人妖文化, 泰国, 跨性别经历, 变性手术, 性别认同, 社会现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ishare_变性之美的国度泰国与您讲述人妖皇后背后的故事_-_凤凰网.md                             |
+| Size            | 4354 bytes                           |
+| Archived Date   | 2024-11-09 10:32:41                             |
+| Original Link   | [https://ishare.ifeng.com/c/s/7mIKllMAnpa](https://ishare.ifeng.com/c/s/7mIKllMAnpa)                       |
+| Author          | WindowsOfAsia                               |
+| Region          | 泰国                               |
+| Date            | 2019-04-30                                 |
+| Tags            | 人妖文化, 泰国, 跨性别经历, 变性手术, 性别认同, 社会现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

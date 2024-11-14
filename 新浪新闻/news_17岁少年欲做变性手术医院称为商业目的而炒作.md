@@ -108,18 +108,18 @@
 该文件报道了一名来自四川农村的17岁少年小晓（化名）希望进行变性手术的故事。由于缺乏资金，他所就读的成都医院为他策划了一场名为“倾城之变——梅艳芳魅力秀”的宣传活动，希望通过小晓的代言人身份为医院宣传。小晓的父母反对他在未成年时进行变性手术，特别强调了不愿为生殖器手术签字的原因，担心他是出于冲动的选择。而医院则承认其商业宣传目的，称其提供援助是出于同情。尽管小晓面临家庭与社会的双重压力，他依然坚定自己的选择，并表示在18岁时若家庭不同意便会自行决定接受手术。该事件反映出社会对变性群体的复杂态度及未成年人在变性手术中需要面临的法律与伦理问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_17岁少年欲做变性手术医院称为商业目的而炒作.md                             |
-> | Size            | 8095 bytes                           |
-> | Archived Date   | 2024-11-02 05:16:24                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-12-13/detail-ikkntiam6130192.d.html?from=wap](https://news.sina.cn/sa/2005-12-13/detail-ikkntiam6130192.d.html?from=wap)                       |
-> | Author          | 韩松                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-12-13                                 |
-> | Tags            | 变性, 跨性别, 社会问题, 医疗伦理, 生命故事, 法律政策, 家庭压力                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_17岁少年欲做变性手术医院称为商业目的而炒作.md                             |
+| Size            | 8095 bytes                           |
+| Archived Date   | 2024-11-02 05:16:24                             |
+| Original Link   | [https://news.sina.cn/sa/2005-12-13/detail-ikkntiam6130192.d.html?from=wap](https://news.sina.cn/sa/2005-12-13/detail-ikkntiam6130192.d.html?from=wap)                       |
+| Author          | 韩松                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-12-13                                 |
+| Tags            | 变性, 跨性别, 社会问题, 医疗伦理, 生命故事, 法律政策, 家庭压力                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

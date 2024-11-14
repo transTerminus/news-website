@@ -60,18 +60,18 @@
 本文是对知名整形外科医生陈焕然的访谈，主要讨论了他在变性手术领域的经历与心态变化。文章通过对话的形式，记录了他曾被称为"变性大师"的原因，以及他对该手术的看法和面临的压力。陈焕然提到，虽然曾经在上世纪90年代进行过大量变性手术，但现在因为多方面的社会因素和个人心理压力，他选择不再频繁进行这类手术，而是将重心转向其他整容项目。他反思了过去手术对病人及自身带来的影响，谈及法律、伦理和社会舆论对变性手术的复杂影响。此外，陈焕然分享了他与心理医生沟通的经历，强调提升生活质量与职业满足感的重要性。此访谈内容不仅涉及医疗专业，还触及社会心理、伦理道德等多个层面的复杂交互。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_不愿意被称为“变性大师”.md                             |
-> | Size            | 5721 bytes                           |
-> | Archived Date   | 2024-11-02 05:06:59                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-01/detail-ikkntiam4472248.d.html?from=wap](https://news.sina.cn/sa/2005-09-01/detail-ikkntiam4472248.d.html?from=wap)                       |
-> | Author          | 中国青年                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-09-01                                 |
-> | Tags            | 变性手术, 陈焕然, 整形外科, 医疗伦理, 社会压力, 心理健康, 人生故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_不愿意被称为“变性大师”.md                             |
+| Size            | 5721 bytes                           |
+| Archived Date   | 2024-11-02 05:06:59                             |
+| Original Link   | [https://news.sina.cn/sa/2005-09-01/detail-ikkntiam4472248.d.html?from=wap](https://news.sina.cn/sa/2005-09-01/detail-ikkntiam4472248.d.html?from=wap)                       |
+| Author          | 中国青年                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-09-01                                 |
+| Tags            | 变性手术, 陈焕然, 整形外科, 医疗伦理, 社会压力, 心理健康, 人生故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

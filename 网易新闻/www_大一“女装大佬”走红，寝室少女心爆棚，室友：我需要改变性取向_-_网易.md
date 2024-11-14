@@ -52,18 +52,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 这篇文章讲述了一位大一学生因女装而走红的故事，文章中提到这位被称为“女装大佬”的学生在军训期间被分配到男生组，因此其真实身份引起了男同学们的好奇与关注。文章详细描绘了这位女装大佬的日常生活，以及与舍友之间的互动，描绘了舍友们对待这位女装男性的心态和反应。舍友们甚至开玩笑表示他们在考虑是否需要改变性取向，引发了很多对性别认同和性别表现的讨论。整体上，这篇文章不仅展示了个体的生活经历，同时也反映了当代大学校园中对性别表现的开放态度与挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_大一“女装大佬”走红，寝室少女心爆棚，室友：我需要改变性取向_-_网易.md                             |
-> | Size            | 3323 bytes                           |
-> | Archived Date   | 2024-11-08 05:53:03                             |
-> | Original Link   | [https://www.163.com/dy/article/DT4HIES80529U5PB.html](https://www.163.com/dy/article/DT4HIES80529U5PB.html)                       |
-> | Author          | 网易                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-10-02                                 |
-> | Tags            | 性别认同, 跨性别, 女装大佬, 校园文化, 生活故事, 社交媒体                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_大一“女装大佬”走红，寝室少女心爆棚，室友：我需要改变性取向_-_网易.md                             |
+| Size            | 3323 bytes                           |
+| Archived Date   | 2024-11-08 05:53:03                             |
+| Original Link   | [https://www.163.com/dy/article/DT4HIES80529U5PB.html](https://www.163.com/dy/article/DT4HIES80529U5PB.html)                       |
+| Author          | 网易                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-10-02                                 |
+| Tags            | 性别认同, 跨性别, 女装大佬, 校园文化, 生活故事, 社交媒体                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

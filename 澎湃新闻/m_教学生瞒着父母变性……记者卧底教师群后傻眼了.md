@@ -45,18 +45,18 @@
 这篇报道讨论了一项通过卧底调查揭露的教育现象：一些美国教师在非公开会议中讨论如何帮助未成年人隐瞒变性手术的意图。报道指出，卧底记者混入了一个教师团体的在线视频会议，听到了关于如何引导跨性别学生、规避法律与家长的限制以及修改学生的身份信息的讨论。部分教师甚至讨论了如何在不遵守法律的情况下，帮助学生隐藏他们的性别身份和新名字。此外，报道提到了一些教师的观点，他们认为应当引导学生接触性少数群体的信息，挑战传统的异性恋价值观。该事件引发了家长和社会各界的广泛关注与争议，讨论的核心是教育者在孩子心理健康与家长知情权之间的取舍。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_教学生瞒着父母变性……记者卧底教师群后傻眼了.md                             |
-> | Size            | 3324 bytes                           |
-> | Archived Date   | 2024-11-03 09:21:56                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_23562976](https://m.thepaper.cn/newsDetail_forward_23562976)                       |
-> | Author          | 小编X                               |
-> | Region          | 美国                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 教育, 法律政策, 社会环境, 未成年人权益, 隐私问题, 家庭关系                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_教学生瞒着父母变性……记者卧底教师群后傻眼了.md                             |
+| Size            | 3324 bytes                           |
+| Archived Date   | 2024-11-03 09:21:56                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_23562976](https://m.thepaper.cn/newsDetail_forward_23562976)                       |
+| Author          | 小编X                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 教育, 法律政策, 社会环境, 未成年人权益, 隐私问题, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

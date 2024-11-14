@@ -81,18 +81,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文介绍了被称为“十二神器”的游戏《女装山脉》及其背后的文化现象和社会影响。《女装山脉》是一款由日本游戏开发商脑内彼女推出的文字恋爱游戏，主打攻略伪娘的主题。文章回顾了该游戏的文化背景，提到2011年发布时引发的社交媒体热潮，及由其衍生出的各种梗与讨论。文中还分析了《女装山脉》在游戏界的独特地位，以及其对玩家群体的影响，尤其是在有关女装文化和跨性别认同上的探讨。游戏与视频《Boku no Pico》的对比也为理解其文化内涵提供了背景信息，指出了角色形象与内容可能引发的争议和讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_被称为“十二神器”的名作《女装山脉》，12年后推出steam官中！_-_网易.md                             |
-> | Size            | 5215 bytes                           |
-> | Archived Date   | 2024-11-08 07:24:28                             |
-> | Original Link   | [https://www.163.com/dy/article/I76SBAVG0526VGN7.html](https://www.163.com/dy/article/I76SBAVG0526VGN7.html)                       |
-> | Author          | 网易号                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-06-14                                 |
-> | Tags            | 跨性别, 游戏文化, 女装山脉, 社会影响, 伪娘, 文化现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_被称为“十二神器”的名作《女装山脉》，12年后推出steam官中！_-_网易.md                             |
+| Size            | 5215 bytes                           |
+| Archived Date   | 2024-11-08 07:24:28                             |
+| Original Link   | [https://www.163.com/dy/article/I76SBAVG0526VGN7.html](https://www.163.com/dy/article/I76SBAVG0526VGN7.html)                       |
+| Author          | 网易号                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-06-14                                 |
+| Tags            | 跨性别, 游戏文化, 女装山脉, 社会影响, 伪娘, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

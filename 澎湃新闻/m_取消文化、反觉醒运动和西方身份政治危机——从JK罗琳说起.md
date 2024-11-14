@@ -127,18 +127,18 @@ Vox援引作家William Melvin Kelley的话表示，自奴隶制时代，黑人�
 本文探讨了围绕JK·罗琳与跨性别群体之间的争议，分析了这一现象在文化和政治层面上所引发的广泛讨论。自2020年6月罗琳发表与跨性别问题相关的言论以来，社会上掀起了激烈的辩论，涉及‘取消文化’和‘觉醒运动’的定义及其影响力。文章指出，支持者与反对者之间的矛盾实际上反映了更广泛的身份政治冲突。取消文化被认为是弱势群体争取话语权的一种方式，而反觉醒运动则是针对这种文化现象的反击。文章还探讨了在中文语境下对这些西方思想的误解，以及如何正确理解罗琳事件对中文世界的意义。除了讨论罗琳事件外，文中还涉及了社会较量中言论自由与社会正义的冲突，及其在未来可能的发展。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_取消文化、反觉醒运动和西方身份政治危机——从JK罗琳说起.md                             |
-> | Size            | 32770 bytes                           |
-> | Archived Date   | 2024-11-03 10:08:06                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=15626780&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=15626780&from=wifiKey)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2020-12-03                                 |
-> | Tags            | 跨性别, 文化战争, 取消文化, 觉醒运动, JK·罗琳, 性别身份, 社会正义, 政策与法律, 舆论压力, 公共讨论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_取消文化、反觉醒运动和西方身份政治危机——从JK罗琳说起.md                             |
+| Size            | 32770 bytes                           |
+| Archived Date   | 2024-11-03 10:08:06                             |
+| Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=15626780&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=15626780&from=wifiKey)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-12-03                                 |
+| Tags            | 跨性别, 文化战争, 取消文化, 觉醒运动, JK·罗琳, 性别身份, 社会正义, 政策与法律, 舆论压力, 公共讨论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

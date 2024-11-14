@@ -38,18 +38,18 @@
 本文讨论了中国国内有关变性手术的法律与政策，详细介绍了变性手术的背景和条件。文中提到1983年中国首例变性手术的案例，标志着跨性别者在中国法律框架下的逐步认可。文件进一步分析了根据2009年卫生部颁布的《变性手术技术管理规范》，变性手术的申请条件，申请人需符合年龄和婚姻状况等要求，并需提供精神科医生的诊断证明。此外，文中还提到变性手术后的身份证性别变更问题，讲述了所需的证明文件及申请程序，强调了社会对跨性别者选择的尊重。此文本不仅是法律政策的记录，也反映了跨性别者的社会环境与生存现状。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_国内允许变性手术吗？身体可以改变性别，身份证的性别能改吗_-_网易.md                             |
-> | Size            | 2428 bytes                           |
-> | Archived Date   | 2024-11-08 06:17:48                             |
-> | Original Link   | [https://www.163.com/dy/article/FVJACBER05498MWA.html](https://www.163.com/dy/article/FVJACBER05498MWA.html)                       |
-> | Author          | 洛阳北部尉                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-01-05                                 |
-> | Tags            | 变性手术, 法律政策, 跨性别, 身份证性别变更, 社会环境, 生命故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国内允许变性手术吗？身体可以改变性别，身份证的性别能改吗_-_网易.md                             |
+| Size            | 2428 bytes                           |
+| Archived Date   | 2024-11-08 06:17:48                             |
+| Original Link   | [https://www.163.com/dy/article/FVJACBER05498MWA.html](https://www.163.com/dy/article/FVJACBER05498MWA.html)                       |
+| Author          | 洛阳北部尉                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-01-05                                 |
+| Tags            | 变性手术, 法律政策, 跨性别, 身份证性别变更, 社会环境, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

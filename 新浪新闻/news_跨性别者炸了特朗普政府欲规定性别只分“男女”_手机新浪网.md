@@ -44,18 +44,18 @@ _[5](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=gj&news
 该文件报道了2018年特朗普政府欲将性别在美国法律中限制为仅“男性”和“女性”的提议，引发了跨性别者和LGBT群体的强烈反对和抗议。文章详细阐述了美国卫生及公共服务部（HHS）关于性别定义的新政策，并引用了相关的政府备忘录，指出这一政策将根除联邦政府对跨性别者性别认同的承认。同时，文章提到自奥巴马总统执政以来，一系列政策改变了对性别的传统认知，承认性别主要是个体的选择而非出生时的固定属性。这一政策的倡导引发了多地示威，抗议者在有影响力的城市中走上街头，表达不满，并朝特朗普政府提出挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_跨性别者炸了特朗普政府欲规定性别只分“男女”_手机新浪网.md                             |
-> | Size            | 3624 bytes                           |
-> | Archived Date   | 2024-11-02 06:39:30                             |
-> | Original Link   | [https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml](https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml)                       |
-> | Author          | 观察者网                               |
-> | Region          | 美国                               |
-> | Date            | 2018-10-25                                 |
-> | Tags            | 性别, 跨性别, 特朗普政府, LGBT抗议, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_跨性别者炸了特朗普政府欲规定性别只分“男女”_手机新浪网.md                             |
+| Size            | 3624 bytes                           |
+| Archived Date   | 2024-11-02 06:39:30                             |
+| Original Link   | [https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml](https://news.sina.com.cn/w/2018-10-25/doc-ihmxrkzw3667667.shtml)                       |
+| Author          | 观察者网                               |
+| Region          | 美国                               |
+| Date            | 2018-10-25                                 |
+| Tags            | 性别, 跨性别, 特朗普政府, LGBT抗议, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

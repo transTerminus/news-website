@@ -30,18 +30,18 @@
 本文讲述了变性超模LeaT的成长经历与职业生涯。LeaT，原名Leandro Cerezo，1981年出生于巴西，她拥有成为超模所需的外形特质，但从小就表现出对时尚的浓厚兴趣，而不喜欢体育。在Givenchy设计总监Riccardo Tisci的引导下，Lea开始了她的模特生涯，并逐渐被业界认可。她曾是时尚界首位变性超模，最近她登上了主流时尚杂志《ELLE》巴西版的封面，表明时尚界的接纳变性人。然而，尽管事业高峰，她在生活中仍面临着来自家庭与社会的压力与歧视。她的父亲未能接受她的身份，她在街上也常常遭遇异样的目光与嘲笑。此外，Lea仍在经历激素治疗，为最后的变性手术做准备。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_面孔变性中的Lea.md                             |
-> | Size            | 2536 bytes                           |
-> | Archived Date   | 2024-11-02 07:58:04                             |
-> | Original Link   | [https://news.ifeng.com/c/7fbyPguVqkK](https://news.ifeng.com/c/7fbyPguVqkK)                       |
-> | Author          | 丁芳芳                               |
-> | Region          | 巴西                               |
-> | Date            | 2012-04-23                                 |
-> | Tags            | 变性人, 超模, 时尚, 生命故事, 社会接受, 激素治疗, LeaT                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_面孔变性中的Lea.md                             |
+| Size            | 2536 bytes                           |
+| Archived Date   | 2024-11-02 07:58:04                             |
+| Original Link   | [https://news.ifeng.com/c/7fbyPguVqkK](https://news.ifeng.com/c/7fbyPguVqkK)                       |
+| Author          | 丁芳芳                               |
+| Region          | 巴西                               |
+| Date            | 2012-04-23                                 |
+| Tags            | 变性人, 超模, 时尚, 生命故事, 社会接受, 激素治疗, LeaT                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

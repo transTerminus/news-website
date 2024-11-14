@@ -102,18 +102,18 @@
 本文记录了52岁变性人寒雪在手术后的生活经历和内心感受。寒雪从小就渴望成为女性，最终经过变性手术但却觉得手术不成功，生活在男性与女性之间，面临着社会的冷眼与不理解。在采访中，寒雪分享了自己为了变性而卖掉房子的经过，手术后遭遇的不幸与孤独，以及对社会接纳的期待。她提到自己的亲友对变性决定的不理解和拒绝，甚至在生活中遭遇的恶意眼光以及普遍缺乏理解的状态。寒雪希望通过传播自己的故事，使社会能更多地理解变性者的处境以及内心的挣扎。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_从小想做女人52岁变性人术后不男不女倍受冷眼.md                             |
-> | Size            | 7833 bytes                           |
-> | Archived Date   | 2024-11-08 09:15:29                             |
-> | Original Link   | [http://www.chinanews.com.cn/sh/news/2006/11-10/818501.shtml](http://www.chinanews.com.cn/sh/news/2006/11-10/818501.shtml)                       |
-> | Author          | 刘忠                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2006-11-10                                 |
-> | Tags            | 变性人, 跨性别, 生命故事, 社会接纳, 法律与伦理, 医疗, 心理状态                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_从小想做女人52岁变性人术后不男不女倍受冷眼.md                             |
+| Size            | 7833 bytes                           |
+| Archived Date   | 2024-11-08 09:15:29                             |
+| Original Link   | [http://www.chinanews.com.cn/sh/news/2006/11-10/818501.shtml](http://www.chinanews.com.cn/sh/news/2006/11-10/818501.shtml)                       |
+| Author          | 刘忠                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-11-10                                 |
+| Tags            | 变性人, 跨性别, 生命故事, 社会接纳, 法律与伦理, 医疗, 心理状态                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

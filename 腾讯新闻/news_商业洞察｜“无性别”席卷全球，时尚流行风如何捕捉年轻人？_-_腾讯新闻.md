@@ -40,18 +40,18 @@ bosie成立于2018年，是国内首个切入「无性别时尚」品类的新�
 该文件探讨了“无性别”服饰在全球时尚界的兴起，重点介绍了MUJI、TomboyX等品牌如何逐渐打破传统性别界限，推出男女皆可穿的服装设计。文中提到，MUJI计划在2022年春季实现其服装系列的50%为无性别设计。同时，文件回顾了“无性别”理念的历史，从1910年Coco Chanel开始的设计，到现代Z世代对无性别时尚的接受与推动，这一理念已成为年轻群体的消费新趋势。无性别穿搭不仅是时尚选择，更是一种生活态度，反映出当今社会对性别认同与表达的更加包容和多元的理解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_商业洞察｜“无性别”席卷全球，时尚流行风如何捕捉年轻人？_-_腾讯新闻.md                             |
-> | Size            | 6802 bytes                           |
-> | Archived Date   | 2024-11-08 19:08:05                             |
-> | Original Link   | [https://news.qq.com/rain/a/20220805A01ME700](https://news.qq.com/rain/a/20220805A01ME700)                       |
-> | Author          | WWD国际时尚特讯                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2022-08-05                                 |
-> | Tags            | 无性别, 时尚, Z世代, 性别平等, 青年文化, MUJI, 服装设计                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_商业洞察｜“无性别”席卷全球，时尚流行风如何捕捉年轻人？_-_腾讯新闻.md                             |
+| Size            | 6802 bytes                           |
+| Archived Date   | 2024-11-08 19:08:05                             |
+| Original Link   | [https://news.qq.com/rain/a/20220805A01ME700](https://news.qq.com/rain/a/20220805A01ME700)                       |
+| Author          | WWD国际时尚特讯                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-08-05                                 |
+| Tags            | 无性别, 时尚, Z世代, 性别平等, 青年文化, MUJI, 服装设计                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

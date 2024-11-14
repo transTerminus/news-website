@@ -40,18 +40,18 @@ _讨论区_
 该文件为搜狐视频的一篇报道，标题为《人妖变性手术全过程，3D动画视频出炉》。内容主要展示了变性手术的全过程，通过3D动画视频的形式来科普相关医疗知识。该视频时长为01:49，旨在帮助观众理解变性手术的步骤和过程。文章同时包含了相关的健康、医学科普及常识信息，帮助公众了解跨性别群体的医疗选择与经历。值得注意的是，在现代社会，变性手术仍是一个敏感而重要的话题，涉及医疗、法律和社会等多个层面。该报道为观众提供了一个直观的视角，为提高社会对跨性别群体的理解和包容性起到积极作用。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_人妖变性手术全过程，3D动画视频出炉_-_搜狐视频.md                             |
-> | Size            | 934 bytes                           |
-> | Archived Date   | 2024-11-07 05:39:44                             |
-> | Original Link   | [https://m.tv.sohu.com/v/dXMvMjgxMzIxMDE0LzkxMzUzODM3LnNodG1s.html](https://m.tv.sohu.com/v/dXMvMjgxMzIxMDE0LzkxMzUzODM3LnNodG1s.html)                       |
-> | Author          | 小狐狸281321014                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2017-08-01                                 |
-> | Tags            | 变性手术, 医疗资源, 医学科普, 跨性别群体, 健康知识                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_人妖变性手术全过程，3D动画视频出炉_-_搜狐视频.md                             |
+| Size            | 934 bytes                           |
+| Archived Date   | 2024-11-07 05:39:44                             |
+| Original Link   | [https://m.tv.sohu.com/v/dXMvMjgxMzIxMDE0LzkxMzUzODM3LnNodG1s.html](https://m.tv.sohu.com/v/dXMvMjgxMzIxMDE0LzkxMzUzODM3LnNodG1s.html)                       |
+| Author          | 小狐狸281321014                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-08-01                                 |
+| Tags            | 变性手术, 医疗资源, 医学科普, 跨性别群体, 健康知识                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

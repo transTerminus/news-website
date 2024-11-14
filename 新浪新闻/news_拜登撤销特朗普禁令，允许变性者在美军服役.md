@@ -40,18 +40,18 @@
 本文报道了美国新任总统拜登签署行政命令，废除了特朗普政府禁止变性者在美军服役的政策。拜登在签署命令时表示，所有合法的美国公民都应有权为国家服务，而性别认同不应成为障碍。特朗普曾于2017年发布禁止变性者服役的政策，理由是提高军队的医疗成本。此项新政策恢复了变性军人因性别身份而被要求退伍案件的审查，反映出美国在性别多样性和包容性方面的立场改变。同时，用户评论反映了对拜登政策的支持与对未来政策变动的担忧。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_拜登撤销特朗普禁令，允许变性者在美军服役.md                             |
-> | Size            | 2193 bytes                           |
-> | Archived Date   | 2024-11-02 04:00:39                             |
-> | Original Link   | [https://news.sina.cn/gj/2021-01-26/detail-ikftpnny1974885.d.html](https://news.sina.cn/gj/2021-01-26/detail-ikftpnny1974885.d.html)                       |
-> | Author          | 武晓东                               |
-> | Region          | 美国                               |
-> | Date            | 2021-01-26                                 |
-> | Tags            | 跨性别, 军事政策, 拜登, 特朗普, 美国军队, 性别认同, 平权                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_拜登撤销特朗普禁令，允许变性者在美军服役.md                             |
+| Size            | 2193 bytes                           |
+| Archived Date   | 2024-11-02 04:00:39                             |
+| Original Link   | [https://news.sina.cn/gj/2021-01-26/detail-ikftpnny1974885.d.html](https://news.sina.cn/gj/2021-01-26/detail-ikftpnny1974885.d.html)                       |
+| Author          | 武晓东                               |
+| Region          | 美国                               |
+| Date            | 2021-01-26                                 |
+| Tags            | 跨性别, 军事政策, 拜登, 特朗普, 美国军队, 性别认同, 平权                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

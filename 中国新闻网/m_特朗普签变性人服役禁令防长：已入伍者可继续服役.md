@@ -37,18 +37,18 @@
 本文件是关于特朗普总统签署的有关变性人军人服役禁令的报道。根据2017年9月15日五角大楼发布的最新规定，现已在部队服役的变性士兵可以继续服役，尽管特朗普的禁令仍在讨论中。国防部长马蒂斯在备忘录中指出，将成立一个专项小组以决定如何执行这一禁令，同时保证已有的变性人军人将继续享有必要的医疗服务。文件提到，国会一些官员呼吁对禁令重新考虑，并有相关立法提案旨在保护变性士兵的服务权。这个文件反映了当时美国军队中变性人权利和政策的动态，以及在特定政治气候下的法律与社会的互动。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_特朗普签变性人服役禁令防长：已入伍者可继续服役.md                             |
-> | Size            | 6870 bytes                           |
-> | Archived Date   | 2024-11-08 09:27:29                             |
-> | Original Link   | [https://m.chinanews.com.cn/wap/detail/chs/zwsp/8332625.shtml](https://m.chinanews.com.cn/wap/detail/chs/zwsp/8332625.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 美国                               |
-> | Date            | 2017-09-16                                 |
-> | Tags            | 变性人, 服役禁令, 特朗普, 美国军队, 政策调整, 社会环境, 军人权利                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_特朗普签变性人服役禁令防长：已入伍者可继续服役.md                             |
+| Size            | 6870 bytes                           |
+| Archived Date   | 2024-11-08 09:27:29                             |
+| Original Link   | [https://m.chinanews.com.cn/wap/detail/chs/zwsp/8332625.shtml](https://m.chinanews.com.cn/wap/detail/chs/zwsp/8332625.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 美国                               |
+| Date            | 2017-09-16                                 |
+| Tags            | 变性人, 服役禁令, 特朗普, 美国军队, 政策调整, 社会环境, 军人权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

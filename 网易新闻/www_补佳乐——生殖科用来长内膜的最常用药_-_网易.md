@@ -55,18 +55,18 @@
 本文详细介绍了补佳乐（戊酸雌二醇片）在辅助生殖技术中的作用，特别是它如何补充体内的雌激素以促进子宫内膜的生长和修复。文章从补佳乐的主要作用、服用方法、怀孕后的减药建议、不良反应、服用后的常见问题以及使用注意事项等多个方面进行了阐述。补佳乐在帮助怀孕的过程中扮演了重要角色，但同时也需要注意其潜在风险，例如可能增加动静脉血栓的风险及与长期使用相关的乳癌风险。文章强调遵循医生的建议是使用补佳乐的重要前提，同时提供了一些具体的用药建议和患者需注意的事项。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_补佳乐——生殖科用来长内膜的最常用药_-_网易.md                             |
-> | Size            | 3985 bytes                           |
-> | Archived Date   | 2024-11-08 06:58:17                             |
-> | Original Link   | [https://www.163.com/dy/article/HGJ2E3FK0546NQ37.html](https://www.163.com/dy/article/HGJ2E3FK0546NQ37.html)                       |
-> | Author          | 橄榄树生命育儿专家                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2022-09-10                                 |
-> | Tags            | 跨性别, 生育, 医学, 辅助生殖技术, 女性健康, 雌激素                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_补佳乐——生殖科用来长内膜的最常用药_-_网易.md                             |
+| Size            | 3985 bytes                           |
+| Archived Date   | 2024-11-08 06:58:17                             |
+| Original Link   | [https://www.163.com/dy/article/HGJ2E3FK0546NQ37.html](https://www.163.com/dy/article/HGJ2E3FK0546NQ37.html)                       |
+| Author          | 橄榄树生命育儿专家                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-09-10                                 |
+| Tags            | 跨性别, 生育, 医学, 辅助生殖技术, 女性健康, 雌激素                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -34,18 +34,18 @@
 这篇文章报道了泰国变性人尤兰达在选举中成功当选北部难府省议员的历史性事件，成为泰国首位变性人议员。文章详细介绍了尤兰达的背景，她不仅是变性人明星，16岁时就接受了变性手术，并且曾获选美比赛冠军。此外，尤兰达还从事珠宝生意和电视购物，她在众多选票中获得了3808票，超越了排名第二的候选人。尤兰达表示，选民的关注点在于她的能力而非性别，期望通过议员身份推动女性和变性人权利的发展。该稿来自《环球时报》，并附有公众评论，部分评论反映了社会对变性人的看法。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_泰国变性人首次当选省议员(图).md                             |
-> | Size            | 1664 bytes                           |
-> | Archived Date   | 2024-11-02 06:28:18                             |
-> | Original Link   | [https://news.sina.cn/sa/2012-05-30/detail-ikmxzfmk1022256.d.html](https://news.sina.cn/sa/2012-05-30/detail-ikmxzfmk1022256.d.html)                       |
-> | Author          | 伊 文                               |
-> | Region          | 泰国                               |
-> | Date            | 2012-05-30                                 |
-> | Tags            | 变性人, 尤兰达, 政治, 选举, 女性权利, 变性人权利, 社会现状                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_泰国变性人首次当选省议员(图).md                             |
+| Size            | 1664 bytes                           |
+| Archived Date   | 2024-11-02 06:28:18                             |
+| Original Link   | [https://news.sina.cn/sa/2012-05-30/detail-ikmxzfmk1022256.d.html](https://news.sina.cn/sa/2012-05-30/detail-ikmxzfmk1022256.d.html)                       |
+| Author          | 伊 文                               |
+| Region          | 泰国                               |
+| Date            | 2012-05-30                                 |
+| Tags            | 变性人, 尤兰达, 政治, 选举, 女性权利, 变性人权利, 社会现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

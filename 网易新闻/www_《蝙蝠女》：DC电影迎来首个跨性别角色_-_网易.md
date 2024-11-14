@@ -39,18 +39,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本篇文章介绍了DC电影《蝙蝠女》的重要里程碑——首个跨性别角色的亮相。文章提到美国跨性别演员艾芙瑞·阿基诺（Ivory Aquino）将在该片中饰演调酒师阿莉西娅·杨（Alysia Yeoh），这是DC超级英雄电影中首次出现跨性别角色。阿莉西娅·杨这一角色最早于2011年在漫画中登场，成为了系列的首个主要跨性别角色。此外，文章还提到其他DC作品中对酷儿群体的逐步重视，包括角色的新发展与表现。该片预计于2022年在HBO Max上线，这个信息反映了影视行业对多元性别的逐渐认同与接受。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_《蝙蝠女》：DC电影迎来首个跨性别角色_-_网易.md                             |
-> | Size            | 2145 bytes                           |
-> | Archived Date   | 2024-11-08 06:46:14                             |
-> | Original Link   | [https://www.163.com/dy/article/H0B1PT0K052880KM.html](https://www.163.com/dy/article/H0B1PT0K052880KM.html)                       |
-> | Author          | 多元故事荟                               |
-> | Region          | 美国                               |
-> | Date            | 2022-02-16                                 |
-> | Tags            | 跨性别, DC电影, 演员, 漫画                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《蝙蝠女》：DC电影迎来首个跨性别角色_-_网易.md                             |
+| Size            | 2145 bytes                           |
+| Archived Date   | 2024-11-08 06:46:14                             |
+| Original Link   | [https://www.163.com/dy/article/H0B1PT0K052880KM.html](https://www.163.com/dy/article/H0B1PT0K052880KM.html)                       |
+| Author          | 多元故事荟                               |
+| Region          | 美国                               |
+| Date            | 2022-02-16                                 |
+| Tags            | 跨性别, DC电影, 演员, 漫画                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -93,18 +93,18 @@ hug/大海hug/
 本文探讨了关于美国的性别确认护理的现状，尤其是在儿童和青少年群体中。作者熊超然引述了英国皇家儿科与儿童健康学院的《卡斯评论》，指出目前没有确凿证据证明性别确认护理能有效缓解儿童或青少年的性别焦虑。尽管该报告在英国得到迅速接受，但在美国的反响却是沉默或无视。文中提到许多争议，包括亿万富翁马斯克对变性手术的看法以及美方医疗机构对相关证明的忽略。文章质疑美国医疗和政治机构对证据的处理方式，并呼吁在性别治疗问题上应建立在科学证据基础之上的指导方针，以保护儿童的健康和福祉。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | view_美媒专栏作者质疑：为什么美国还在假装所谓“性别确认护理”有效？.md                             |
-> | Size            | 9071 bytes                           |
-> | Archived Date   | 2024-11-08 19:56:05                             |
-> | Original Link   | [https://view.inews.qq.com/k/20240728A056JF00?web_channel=wap&openApp=false](https://view.inews.qq.com/k/20240728A056JF00?web_channel=wap&openApp=false)                       |
-> | Author          | 熊超然                               |
-> | Region          | 美国                               |
-> | Date            | 2024-07-28                                 |
-> | Tags            | 跨性别, 性别确认护理, 卡斯评论, 儿童心理健康, 医疗争议, 性别政策, 性别焦虑                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | view_美媒专栏作者质疑：为什么美国还在假装所谓“性别确认护理”有效？.md                             |
+| Size            | 9071 bytes                           |
+| Archived Date   | 2024-11-08 19:56:05                             |
+| Original Link   | [https://view.inews.qq.com/k/20240728A056JF00?web_channel=wap&openApp=false](https://view.inews.qq.com/k/20240728A056JF00?web_channel=wap&openApp=false)                       |
+| Author          | 熊超然                               |
+| Region          | 美国                               |
+| Date            | 2024-07-28                                 |
+| Tags            | 跨性别, 性别确认护理, 卡斯评论, 儿童心理健康, 医疗争议, 性别政策, 性别焦虑                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

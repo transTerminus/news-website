@@ -38,18 +38,18 @@
 本文报道了2015年11月6日在泰国芭堤雅举行的国际变性人选美大赛的结果与相关情况。本次大赛吸引了来自17个国家的27名选手参赛，经过激烈角逐，最终菲律宾选手Trixie Maristela获得冠军。文章不仅包括比赛结果，还提供了比赛现场的图片，展示了选手们的风采。评论区对跨性别者的生命现状提出了问题和讨论，特别是关于跨性别人士寿命的看法，反映了社会对跨性别群体的关注与争议。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_国际变性人选美大赛落幕菲律宾选手夺冠(图).md                             |
-> | Size            | 1632 bytes                           |
-> | Archived Date   | 2024-11-02 07:39:51                             |
-> | Original Link   | [https://news.ifeng.com/a/20151107/46149936_0.shtml](https://news.ifeng.com/a/20151107/46149936_0.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国                               |
-> | Date            | 2015-11-06                                 |
-> | Tags            | 跨性别选美大赛, 菲律宾选手, 国际赛事, 变性人, 人生经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_国际变性人选美大赛落幕菲律宾选手夺冠(图).md                             |
+| Size            | 1632 bytes                           |
+| Archived Date   | 2024-11-02 07:39:51                             |
+| Original Link   | [https://news.ifeng.com/a/20151107/46149936_0.shtml](https://news.ifeng.com/a/20151107/46149936_0.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国                               |
+| Date            | 2015-11-06                                 |
+| Tags            | 跨性别选美大赛, 菲律宾选手, 国际赛事, 变性人, 人生经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

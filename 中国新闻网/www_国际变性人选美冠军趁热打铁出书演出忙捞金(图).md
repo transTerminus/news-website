@@ -26,18 +26,18 @@
 该文件报道了日本变性艺人春菜爱于2009年在“国际变性人选美大赛”夺冠后的积极活动。春菜爱在比赛后返回日本，迅速开展了自己的演艺事业，推出了第一部写真集，并表示自己获得冠军的经历看似梦幻，充满了兴奋和感慨。她同时表达了未来将持续参与演艺活动，并积极为全世界变性人的权益斗争的决心。这个报道反映了变性人在公众生活中的挑战与成就，以及他们为争取权益而努力的决心。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_国际变性人选美冠军趁热打铁出书演出忙捞金(图).md                             |
-> | Size            | 1273 bytes                           |
-> | Archived Date   | 2024-11-08 11:03:27                             |
-> | Original Link   | [https://www.chinanews.com.cn/yl/yl-mxzz/news/2009/11-05/1949570.shtml](https://www.chinanews.com.cn/yl/yl-mxzz/news/2009/11-05/1949570.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 日本                               |
-> | Date            | 2009-11-05                                 |
-> | Tags            | 变性人, 选美大赛, 春菜爱, 演艺活动, 权益争取, 文化传播                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国际变性人选美冠军趁热打铁出书演出忙捞金(图).md                             |
+| Size            | 1273 bytes                           |
+| Archived Date   | 2024-11-08 11:03:27                             |
+| Original Link   | [https://www.chinanews.com.cn/yl/yl-mxzz/news/2009/11-05/1949570.shtml](https://www.chinanews.com.cn/yl/yl-mxzz/news/2009/11-05/1949570.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 日本                               |
+| Date            | 2009-11-05                                 |
+| Tags            | 变性人, 选美大赛, 春菜爱, 演艺活动, 权益争取, 文化传播                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

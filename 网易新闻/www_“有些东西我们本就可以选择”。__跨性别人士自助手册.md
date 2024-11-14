@@ -408,18 +408,18 @@ American Psychological Association（美国心理学会）
 这是一份关于跨性别人士生活与体验的自助手册，原由Joanne Leung撰写，并包含了对跨性别概念的深入探讨。这份手册的主要内容包括跨性别认同的定义、与生理性别的关系、易服行为的理解、跨性别与同性恋的区别，以及跨性别人士所面临的社会、法律和医疗挑战。文章指出，跨性别是对自身性别认同的否定，强调社会对性别二元分类的偏见和对跨性别群体的忽视，同时讨论了当今社会对跨性别问题的逐渐接受。手册还探讨了变性手术的过程、接受荷尔蒙治疗以及真实生活体验的必要性。整篇文章呼吁对跨性别人士的理解与包容，并提供了相关的法律政策和社会环境的记录。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_“有些东西我们本就可以选择”。__跨性别人士自助手册.md                             |
-> | Size            | 46958 bytes                           |
-> | Archived Date   | 2024-11-08 06:31:08                             |
-> | Original Link   | [https://www.163.com/dy/article/GA8PMT3D0542A4MJ.html](https://www.163.com/dy/article/GA8PMT3D0542A4MJ.html)                       |
-> | Author          | Joanne Leung                               |
-> | Region          | 香港                               |
-> | Date            | 2021-05-18                                 |
-> | Tags            | 跨性别, 自助手册, 社会观察, 生命故事, 法律政策, 医疗资源                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_“有些东西我们本就可以选择”。__跨性别人士自助手册.md                             |
+| Size            | 46958 bytes                           |
+| Archived Date   | 2024-11-08 06:31:08                             |
+| Original Link   | [https://www.163.com/dy/article/GA8PMT3D0542A4MJ.html](https://www.163.com/dy/article/GA8PMT3D0542A4MJ.html)                       |
+| Author          | Joanne Leung                               |
+| Region          | 香港                               |
+| Date            | 2021-05-18                                 |
+| Tags            | 跨性别, 自助手册, 社会观察, 生命故事, 法律政策, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

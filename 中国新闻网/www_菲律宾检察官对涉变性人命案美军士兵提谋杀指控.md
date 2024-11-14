@@ -26,18 +26,18 @@
 本文报道了2014年12月15日菲律宾奥隆阿波市检察官对涉嫌谋杀变性人杰弗里·劳德的美军士兵佩伯顿提出的法律指控。杰弗里·劳德在与佩伯顿相识后被发现溺死在旅馆洗手间，检方认为存在加重情节，并对此提出谋杀罪指控。文章详细描述了案件的经过，涉及的法律程序，以及遇害者家属对检方决定的反应。另外，文章还提到菲律宾政府与美国之间在处理此案时的问题与紧张关系，包括对美军士兵特殊待遇的公众愤怒和抗议活动。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_菲律宾检察官对涉变性人命案美军士兵提谋杀指控.md                             |
-> | Size            | 2173 bytes                           |
-> | Archived Date   | 2024-11-08 09:57:07                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/2014/12-15/6878612.shtml](https://www.chinanews.com.cn/gj/2014/12-15/6878612.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 菲律宾                               |
-> | Date            | 2014-12-15                                 |
-> | Tags            | 跨性别, 谋杀案, 法律, 社会正义, 变性人权益, 美军                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_菲律宾检察官对涉变性人命案美军士兵提谋杀指控.md                             |
+| Size            | 2173 bytes                           |
+| Archived Date   | 2024-11-08 09:57:07                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2014/12-15/6878612.shtml](https://www.chinanews.com.cn/gj/2014/12-15/6878612.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 菲律宾                               |
+| Date            | 2014-12-15                                 |
+| Tags            | 跨性别, 谋杀案, 法律, 社会正义, 变性人权益, 美军                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

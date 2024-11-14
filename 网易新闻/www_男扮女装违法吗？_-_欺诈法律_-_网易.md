@@ -28,18 +28,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文探讨了男性穿着女装或进行跨性别打扮的法律问题，指出在现代社会大多数情况下这属于个人穿着自由和表达权利，不违反法律。然而，在某些特定的场合或环境下，例如公共卫生间、工作场合等，可能会面临法律风险或社交规范的限制。比如在一些地区，男性进入女性专用场所可能会被视为违规，而工作单位可能对着装有不同要求。尽管如此，大多数地方仍然允许个人在不妨碍工作的情况下自由表达自我，跨性别者的权利在多个地区也得到一定保护。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_男扮女装违法吗？_-_欺诈法律_-_网易.md                             |
-> | Size            | 2121 bytes                           |
-> | Archived Date   | 2024-11-08 07:18:54                             |
-> | Original Link   | [https://www.163.com/dy/article/I4NLL7EQ05563OY7.html](https://www.163.com/dy/article/I4NLL7EQ05563OY7.html)                       |
-> | Author          | 网易                               |
-> | Region          | 辽宁                               |
-> | Date            | 2023-05-14                                 |
-> | Tags            | 跨性别, 法律, 男扮女装, 穿着自由, 社会环境, 公共场所, 工作场合, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男扮女装违法吗？_-_欺诈法律_-_网易.md                             |
+| Size            | 2121 bytes                           |
+| Archived Date   | 2024-11-08 07:18:54                             |
+| Original Link   | [https://www.163.com/dy/article/I4NLL7EQ05563OY7.html](https://www.163.com/dy/article/I4NLL7EQ05563OY7.html)                       |
+| Author          | 网易                               |
+| Region          | 辽宁                               |
+| Date            | 2023-05-14                                 |
+| Tags            | 跨性别, 法律, 男扮女装, 穿着自由, 社会环境, 公共场所, 工作场合, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -108,18 +108,18 @@ I was Born This Way
 此外，文章还分析了现代变装文化的兴起，特别是在90年代及之后的流行趋势，提及了《鲁保罗变装皇后秀》等节目如何提升了变装文化的公众认知。作者还强调，成为一名优秀的Drag Queen需要多才多艺，包括表演、化妆等技能。最重要的是，文章指出Drag Queen们不是单纯的异装者，而是能够在性别界限间自由表达自己的艺术家。文章最后提到了在中国的变装文化现状，勇敢展现自我的Drag Queen们在面对社会偏见时如何努力进行自我表达和认同。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变装皇后：你我生来如此，其余皆是变装_-_搜狐.md                             |
-> | Size            | 6962 bytes                           |
-> | Archived Date   | 2024-11-07 12:26:34                             |
-> | Original Link   | [https://www.sohu.com/a/315152287_118065](https://www.sohu.com/a/315152287_118065)                       |
-> | Author          | 冷眼奢华观察站                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2019-05-21                                 |
-> | Tags            | 变装文化, 变装皇后, 跨性别, 社会现象, 艺术表现, 性别表达, Drag Queen, LGBTQ+                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变装皇后：你我生来如此，其余皆是变装_-_搜狐.md                             |
+| Size            | 6962 bytes                           |
+| Archived Date   | 2024-11-07 12:26:34                             |
+| Original Link   | [https://www.sohu.com/a/315152287_118065](https://www.sohu.com/a/315152287_118065)                       |
+| Author          | 冷眼奢华观察站                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-05-21                                 |
+| Tags            | 变装文化, 变装皇后, 跨性别, 社会现象, 艺术表现, 性别表达, Drag Queen, LGBTQ+                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

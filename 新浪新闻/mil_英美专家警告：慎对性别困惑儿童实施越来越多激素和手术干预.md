@@ -29,18 +29,18 @@
 本文摘取自澎湃新闻，探讨了美国和英国的医疗专家对处理性别困惑儿童的愈发激进的荷尔蒙和手术干预措施的忧虑。文中指出，儿童和青少年在面临性别认同问题时，很多医疗措施如青春期阻滞剂和激素类药物的使用充满争议，缺乏长期研究的数据支持。文章引用美国儿科医师学会的信件中提到，这种干预可能对未成年人造成不可逆转的影响，并强调需要对治疗的利弊进行更多研究，而不是直接采取措施。报道还提到，许多人质疑当前的治疗模式是否真正符合儿童的心理需求，尤其在缺乏心理治疗背景调查的情况下。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | mil_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预.md                             |
-> | Size            | 4244 bytes                           |
-> | Archived Date   | 2024-11-09 07:19:10                             |
-> | Original Link   | [https://mil.sina.cn/2019-07-25/detail-ihytcerm6250622.d.html?vt=4](https://mil.sina.cn/2019-07-25/detail-ihytcerm6250622.d.html?vt=4)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 美国, 英国                               |
-> | Date            | 2019-07-25                                 |
-> | Tags            | 跨性别, 儿童, 性别困惑, 性别干预, 医疗政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | mil_英美专家警告：慎对性别困惑儿童实施越来越多激素和手术干预.md                             |
+| Size            | 4244 bytes                           |
+| Archived Date   | 2024-11-09 07:19:10                             |
+| Original Link   | [https://mil.sina.cn/2019-07-25/detail-ihytcerm6250622.d.html?vt=4](https://mil.sina.cn/2019-07-25/detail-ihytcerm6250622.d.html?vt=4)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 美国, 英国                               |
+| Date            | 2019-07-25                                 |
+| Tags            | 跨性别, 儿童, 性别困惑, 性别干预, 医疗政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

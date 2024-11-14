@@ -65,18 +65,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文盘点了近年来多部动漫作品中的男扮女装角色，探讨了这些角色在情节中的重要性以及其对观众的吸引力。文章首先介绍了《侠肝义胆沈剑心》中的沈剑心和李复，两位男性角色为了完成任务而男扮女装，并给自己起了轻松的组合名字。接着，分析了《快把我哥带走》中时分的角色，他虽然不是传统意义上的男扮女装，但却因其妆容和打扮而引发妹妹和观众的心动。此外，雷格西在《动物狂想曲》中为了潜入黑市酒吧而男扮女装，展示了强烈的女性气质。王七在《大理寺日志》中则在剧情推进中不断以女性形象出现，揭示了其对自身打扮的喜爱。本文还提到观音大士在《非人哉》中为了孩子而变化成女性形象，以及《万圣街》中的泥泥可以变身为女孩，充分展示了当代动漫中多元化的角色设定和性别表达。通过这些例子，文章指出了男扮女装这一元素在动漫中的独特魅力和表现力。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_盘点丨动漫中的男扮女装，沈剑心王七在榜，亮相惊艳_-_网易.md                             |
-> | Size            | 4415 bytes                           |
-> | Archived Date   | 2024-11-08 06:27:43                             |
-> | Original Link   | [https://www.163.com/dy/article/G7I3DONM0535AYPN.html](https://www.163.com/dy/article/G7I3DONM0535AYPN.html)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-04-14                                 |
-> | Tags            | 动漫, 男扮女装, 角色分析, 性别表现, 文化现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_盘点丨动漫中的男扮女装，沈剑心王七在榜，亮相惊艳_-_网易.md                             |
+| Size            | 4415 bytes                           |
+| Archived Date   | 2024-11-08 06:27:43                             |
+| Original Link   | [https://www.163.com/dy/article/G7I3DONM0535AYPN.html](https://www.163.com/dy/article/G7I3DONM0535AYPN.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-04-14                                 |
+| Tags            | 动漫, 男扮女装, 角色分析, 性别表现, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

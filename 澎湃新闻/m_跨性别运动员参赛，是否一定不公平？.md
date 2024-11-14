@@ -189,18 +189,18 @@ Chris Mosier认为即便法律本身未必得到通过，但剥夺参与体育�
 该文件主要讨论了新西兰跨性别重举选手哈伯德参赛引发的公平性争议。文中详细描述了哈伯德的运动经历及其在比赛中遇到的挑战，尤其是在2021年东京奥运会时的表现及公众对此话题的不同看法。文章提到，哈伯德作为跨性别运动员，报名参加女子比赛引起了对赛事公平性的广泛讨论，许多人担心这会对顺性别女性选手造成不公。针对跨性别选手的相关政策，国际奥委会也在不断完善中。文章还引用了多方声音，包括运动员、法律专家和公众人物，提供了对这一广受争议的话题的多维度探讨。文章结尾引导读者反思跨性别运动员参加比赛是否真正公平的问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_跨性别运动员参赛，是否一定不公平？.md                             |
-> | Size            | 14389 bytes                           |
-> | Archived Date   | 2024-11-03 08:56:51                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13905825](https://m.thepaper.cn/newsDetail_forward_13905825)                       |
-> | Author          | Ria                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 运动员, 公平性, 哈伯德, 奥运会, 性别认同, 社区, 法律政策, 体育赛事, 性别问题                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别运动员参赛，是否一定不公平？.md                             |
+| Size            | 14389 bytes                           |
+| Archived Date   | 2024-11-03 08:56:51                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_13905825](https://m.thepaper.cn/newsDetail_forward_13905825)                       |
+| Author          | Ria                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 运动员, 公平性, 哈伯德, 奥运会, 性别认同, 社区, 法律政策, 体育赛事, 性别问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -50,18 +50,18 @@
 这篇文章讲述了一位名叫小小的17岁少年的变性故事。小小来自乐山犍为县，家庭背景普通，但自小受到女性影响，渴望成为女性。他在接受整形手术前向学校提出休学申请，并在没有得到父母支持的情况下，决定走进医院开始变性过程。小小表达了自己内心的挣扎与渴望，并透露了他为了变性而轻生的经历，最终医院决定为他提供免费的手术。整篇文章生动地描绘了小小的心理状态及他对未来的憧憬，以及社会对跨性别者的理解与态度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_成都美少年渴望变性成为美女(附图).md                             |
-> | Size            | 4446 bytes                           |
-> | Archived Date   | 2024-11-02 05:15:15                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-12-04/detail-ikknscsi8411271.d.html](https://news.sina.cn/sa/2005-12-04/detail-ikknscsi8411271.d.html)                       |
-> | Author          | 四川新闻网-成都晚报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-12-04                                 |
-> | Tags            | 跨性别, 变性故事, 生命经历, 社会态度, 医疗经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_成都美少年渴望变性成为美女(附图).md                             |
+| Size            | 4446 bytes                           |
+| Archived Date   | 2024-11-02 05:15:15                             |
+| Original Link   | [https://news.sina.cn/sa/2005-12-04/detail-ikknscsi8411271.d.html](https://news.sina.cn/sa/2005-12-04/detail-ikknscsi8411271.d.html)                       |
+| Author          | 四川新闻网-成都晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-12-04                                 |
+| Tags            | 跨性别, 变性故事, 生命经历, 社会态度, 医疗经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

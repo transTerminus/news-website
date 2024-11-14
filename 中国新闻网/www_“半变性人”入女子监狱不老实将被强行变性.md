@@ -24,18 +24,18 @@
 该文件报道了一起英国警方将一名被判谋杀的变性人派瑞斯·格林从女子监狱转移到其他监狱的事件。根据报道，格林在监狱中与多名女犯人发生性关系，且其变性手术尚未全部完成。报道提到，格林因参与一起残忍的谋杀案件而被定罪，其行为被认为不适合在女子监狱继续服刑，因此决定将其转移。此外，英国政府已决定出资让格林完成剩余的变性手术。这一事件引发了社会对变性人囚犯在监狱中的管理和法律地位的讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_“半变性人”入女子监狱不老实将被强行变性.md                             |
-> | Size            | 1339 bytes                           |
-> | Archived Date   | 2024-11-08 09:53:04                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/2013/12-23/5650235.shtml](https://www.chinanews.com.cn/gj/2013/12-23/5650235.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 英国                               |
-> | Date            | 2013-12-23                                 |
-> | Tags            | 跨性别, 变性人, 监狱, 法律政策, 社会讨论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_“半变性人”入女子监狱不老实将被强行变性.md                             |
+| Size            | 1339 bytes                           |
+| Archived Date   | 2024-11-08 09:53:04                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2013/12-23/5650235.shtml](https://www.chinanews.com.cn/gj/2013/12-23/5650235.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 英国                               |
+| Date            | 2013-12-23                                 |
+| Tags            | 跨性别, 变性人, 监狱, 法律政策, 社会讨论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

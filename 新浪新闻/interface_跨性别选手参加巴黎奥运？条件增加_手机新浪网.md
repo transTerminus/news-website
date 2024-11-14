@@ -26,18 +26,18 @@
 本文探讨了跨性别运动员参加巴黎奥运会的条件与争议。国际奥委会与各大体育组织逐渐出台政策，规定跨性别女性选手必须在青春期之前完成性别过渡，以确保比赛的公平性。这使得许多以前被允许参赛的跨性别选手，如新西兰举重运动员劳蕾尔·哈伯德，失去了参赛资格。文章中还提到，英国自行车协会和国际田联等组织也更新了各自的参赛规则，禁止经历过男性青春期的跨性别女性选手参加女性赛事。各方对于体育赛事的包容性与公平性之间的平衡展开了激烈讨论，著名运动员拉皮诺表示支持跨性别选手参赛，而反对者则认为跨性别女性的参赛威胁到女性运动的公平性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | interface_跨性别选手参加巴黎奥运？条件增加_手机新浪网.md                             |
-> | Size            | 2719 bytes                           |
-> | Archived Date   | 2024-11-09 06:34:59                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2024-01-04%2Fdoc-inaaimzh4106455.shtml%3Fcref%3Dcj](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2024-01-04%2Fdoc-inaaimzh4106455.shtml%3Fcref%3Dcj)                       |
-> | Author          | 环球时报官方账号                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-01-04                                 |
-> | Tags            | 跨性别, 体育, 奥运会, 参赛资格, 性别政策, 社会争议                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | interface_跨性别选手参加巴黎奥运？条件增加_手机新浪网.md                             |
+| Size            | 2719 bytes                           |
+| Archived Date   | 2024-11-09 06:34:59                             |
+| Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2024-01-04%2Fdoc-inaaimzh4106455.shtml%3Fcref%3Dcj](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2024-01-04%2Fdoc-inaaimzh4106455.shtml%3Fcref%3Dcj)                       |
+| Author          | 环球时报官方账号                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-01-04                                 |
+| Tags            | 跨性别, 体育, 奥运会, 参赛资格, 性别政策, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

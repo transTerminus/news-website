@@ -38,18 +38,18 @@
 这篇文章报道了美国两名变性女性参选国会议员的消息，旨在创造历史。米斯蒂·斯诺和米斯蒂·普洛赖特分别获得民主党预选胜利，并将代表该党参加2016年11月的国会改选。斯诺若当选，将成为美国主要政党中首位参加国会参议院选举的变性候选人，同时也是最年轻的联邦参议员。她表示，参选的动机并非强调自己的变性身份，而是希望为那些感到‘美国梦’遥不可及的人发声。文章还提到，两人在选区中将面临激烈的竞争，因对手都是现任议员，且该区域通常支持共和党。在文末，附上了一些网友评论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人参选美国议员.md                             |
-> | Size            | 1646 bytes                           |
-> | Archived Date   | 2024-11-02 03:56:31                             |
-> | Original Link   | [https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap](https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap)                       |
-> | Author          | 广州日报                               |
-> | Region          | 美国                               |
-> | Date            | 2016-07-01                                 |
-> | Tags            | 变性人, 政治参选, 美国, 民主党, 社会运动, 跨性别, 历史时刻                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人参选美国议员.md                             |
+| Size            | 1646 bytes                           |
+| Archived Date   | 2024-11-02 03:56:31                             |
+| Original Link   | [https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap](https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap)                       |
+| Author          | 广州日报                               |
+| Region          | 美国                               |
+| Date            | 2016-07-01                                 |
+| Tags            | 变性人, 政治参选, 美国, 民主党, 社会运动, 跨性别, 历史时刻                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

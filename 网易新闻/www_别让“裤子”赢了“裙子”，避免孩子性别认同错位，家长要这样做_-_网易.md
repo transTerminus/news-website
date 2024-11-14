@@ -139,18 +139,18 @@
 该文件讨论了儿童性别认同错位的现象，以及家长如何通过正确的性别教育来帮助孩子形成健康的性别认知。文章详细解释了什么是性别认同错位，分析了造成这种现象的生理、社会和家庭因素，特别引用了安徽医科大学的研究，指出变性人与普通人脑结构的差异。文章还强调了家长在孩子成长过程中的引导角色，提出了不当的养育模式可能导致孩子的性别认同障碍。最后，文章提供了家长应当注意的多个指导原则，如学习性教育知识、认同孩子的性别、避免混淆孩子的性别打扮等，以帮助孩子顺利度过性别认同的关键期。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_别让“裤子”赢了“裙子”，避免孩子性别认同错位，家长要这样做_-_网易.md                             |
-> | Size            | 13387 bytes                           |
-> | Archived Date   | 2024-11-08 06:04:53                             |
-> | Original Link   | [https://www.163.com/dy/article/F8Q4MPLR0517MPNQ.html](https://www.163.com/dy/article/F8Q4MPLR0517MPNQ.html)                       |
-> | Author          | 栋果妈育儿                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2020-03-28                                 |
-> | Tags            | 性别认同, 性别教育, 儿童性教育, 家庭教育, 心理健康                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_别让“裤子”赢了“裙子”，避免孩子性别认同错位，家长要这样做_-_网易.md                             |
+| Size            | 13387 bytes                           |
+| Archived Date   | 2024-11-08 06:04:53                             |
+| Original Link   | [https://www.163.com/dy/article/F8Q4MPLR0517MPNQ.html](https://www.163.com/dy/article/F8Q4MPLR0517MPNQ.html)                       |
+| Author          | 栋果妈育儿                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-03-28                                 |
+| Tags            | 性别认同, 性别教育, 儿童性教育, 家庭教育, 心理健康                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

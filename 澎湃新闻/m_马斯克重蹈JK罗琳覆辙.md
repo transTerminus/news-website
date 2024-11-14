@@ -132,18 +132,18 @@ JK罗琳对此解释：“如果生理性别不存在，那就没有同性相吸
 这篇文章讨论了马斯克与其子泽维尔·亚历山大·马斯克（现名薇薇安·詹娜·威尔逊）之间的亲子关系变化，以及随之而来的跨性别权利和马斯克对跨性别者言论的争议问题。在父亲节前夕，泽维尔提出改名申请，更改性别以符合其性别认同，并表达了与父亲切断关系的决心。文章回顾了马斯克近年来对跨性别者的不当言论，包括嘲笑中性人称代词的使用，触发公众和媒体的广泛批评。与此同时，文章还对比了马斯克和JK罗琳在迪斯克上关于性别问题的争议，揭示了这一话题在近年来愈发受到重视，被视作政治与社会关注的焦点。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_马斯克重蹈JK罗琳覆辙.md                             |
-> | Size            | 11900 bytes                           |
-> | Archived Date   | 2024-11-03 09:13:30                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_18684326](https://m.thepaper.cn/newsDetail_forward_18684326)                       |
-> | Author          | 黄茜琳                               |
-> | Region          | 未知                               |
-> | Date            | 2023-06-18                                 |
-> | Tags            | 跨性别, 马斯克, 泽维尔·亚历山大·马斯克, 性别认同, 社会环境, 医学与法律, 人权                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_马斯克重蹈JK罗琳覆辙.md                             |
+| Size            | 11900 bytes                           |
+| Archived Date   | 2024-11-03 09:13:30                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_18684326](https://m.thepaper.cn/newsDetail_forward_18684326)                       |
+| Author          | 黄茜琳                               |
+| Region          | 未知                               |
+| Date            | 2023-06-18                                 |
+| Tags            | 跨性别, 马斯克, 泽维尔·亚历山大·马斯克, 性别认同, 社会环境, 医学与法律, 人权                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

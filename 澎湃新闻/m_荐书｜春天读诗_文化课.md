@@ -124,18 +124,18 @@ _迎着微风起舞翩翩。_
 这篇文章来自澎湃新闻，主题为诗歌推荐，聚焦春季读诗的文化体验和感受。开篇引用诺贝尔文学奖得主谢默思·希尼的话，探讨诗歌如何揭示生活的本质以及诗歌带来的情感共鸣。文章中详细介绍了几本重要的诗集，包括谢默思·希尼的《希尼三十年文选》，阿多尼斯的《风的作品之目录》，以及跨性别者斯蒂芬妮·伯特的《别去读诗》，每部作品的背景、主题及其对诗歌的独特理解。同时，介绍了马蒂亚斯·波利蒂基的诗歌，并强调其对抒情诗的重视和对传统文学形式的挑战。通过评论这些作品，作者希望读者能在纷繁的现代生活中寻找到诗歌的慰藉与启迪。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_荐书｜春天读诗_文化课.md                             |
-> | Size            | 12626 bytes                           |
-> | Archived Date   | 2024-11-10 22:29:02                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=11819424&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=11819424&from=wifiKey)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-03-22                                 |
-> | Tags            | 诗歌, 文化, 跨性别, 文学评论, 阿多尼斯, 谢默思·希尼, 斯蒂芬妮·伯特, 马蒂亚斯·波利蒂基                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_荐书｜春天读诗_文化课.md                             |
+| Size            | 12626 bytes                           |
+| Archived Date   | 2024-11-10 22:29:02                             |
+| Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=11819424&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=11819424&from=wifiKey)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-03-22                                 |
+| Tags            | 诗歌, 文化, 跨性别, 文学评论, 阿多尼斯, 谢默思·希尼, 斯蒂芬妮·伯特, 马蒂亚斯·波利蒂基                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

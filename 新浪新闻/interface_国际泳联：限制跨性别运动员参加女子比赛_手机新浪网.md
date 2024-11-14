@@ -80,18 +80,18 @@ Athlete Ally批评了国际泳联的决定，称国际泳联对跨性别运动�
 本文探讨了国际泳联（FINA）在2022年6月19日投票决定的限制跨性别运动员参加女子比赛的新政策。国际泳联成立了一个工作组，提出在一些项目中设立‘开放’竞赛类别，以期实现性别包容。新政策只允许在12岁之前接受性别过渡的男性跨性别者参加女子项目，这一决定在体育界引发了广泛的争议。文中提到，特别是在利亚·托马斯成为首位赢得美国全国大学体育协会女子组冠军的跨性别选手后，跨性别运动员的参赛公平性问题成了社会讨论的焦点。国际泳联主席侯赛因·阿尔-穆萨拉姆强调新政策旨在保护‘竞争公平’，但同时也引起了来自LGBTQ运动倡导组织对于此决定的强烈反对，认为其具有歧视性。这项新政策的推出不仅影响了女子比赛的公平性，也反映了当前体育组织在包容性与公平性之间的复杂关系。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | interface_国际泳联：限制跨性别运动员参加女子比赛_手机新浪网.md                             |
-> | Size            | 6783 bytes                           |
-> | Archived Date   | 2024-11-09 06:33:26                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fchanjing%2Fcyxw%2F2022-06-20%2Fdoc-imizirau9556067.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fchanjing%2Fcyxw%2F2022-06-20%2Fdoc-imizirau9556067.shtml)                       |
-> | Author          | 观察者网官方账号                               |
-> | Region          | 未知                               |
-> | Date            | 2022-06-20                                 |
-> | Tags            | 跨性别运动员, 体育政策, 国际泳联, 性别包容                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | interface_国际泳联：限制跨性别运动员参加女子比赛_手机新浪网.md                             |
+| Size            | 6783 bytes                           |
+| Archived Date   | 2024-11-09 06:33:26                             |
+| Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fchanjing%2Fcyxw%2F2022-06-20%2Fdoc-imizirau9556067.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fchanjing%2Fcyxw%2F2022-06-20%2Fdoc-imizirau9556067.shtml)                       |
+| Author          | 观察者网官方账号                               |
+| Region          | 未知                               |
+| Date            | 2022-06-20                                 |
+| Tags            | 跨性别运动员, 体育政策, 国际泳联, 性别包容                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

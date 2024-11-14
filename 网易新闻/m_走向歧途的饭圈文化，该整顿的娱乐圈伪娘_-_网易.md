@@ -22,18 +22,18 @@
 该文本档案探讨了中国娱乐圈的饭圈文化及其对社会的影响，指出了娱乐圈中的一些问题，如流量至上、偶像崇拜与道德败坏等现象。文本提到，新中国成立后，戏子的地位得到了提升，文化行业迅速发展。然而，随着外来文化的冲击，国内娱乐行业却逐渐走偏，尤其是伪娘文化的兴起以及一些流量艺人的负面行为引发了社会的广泛关注。文章中举例说明了包括吸毒、偷税漏税和不当行为的艺人，并呼吁整顿娱乐圈，以保护年轻人，减少这些负面文化对青少年的影响。此外，文本强调，娱乐业肩负着文化引导的责任，呼吁社会关注历史，维护文化的正向发展。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_走向歧途的饭圈文化，该整顿的娱乐圈伪娘_-_网易.md                             |
-> | Size            | 4490 bytes                           |
-> | Archived Date   | 2024-11-08 05:13:20                             |
-> | Original Link   | [https://m.163.com/dy/article/GHRGC7OD055212SI.html?clickfrom=subscribe](https://m.163.com/dy/article/GHRGC7OD055212SI.html?clickfrom=subscribe)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 娱乐圈, 饭圈文化, 伪娘, 流量艺人, 偶像崇拜, 社会影响, 文化发展, 道德, 青少年                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_走向歧途的饭圈文化，该整顿的娱乐圈伪娘_-_网易.md                             |
+| Size            | 4490 bytes                           |
+| Archived Date   | 2024-11-08 05:13:20                             |
+| Original Link   | [https://m.163.com/dy/article/GHRGC7OD055212SI.html?clickfrom=subscribe](https://m.163.com/dy/article/GHRGC7OD055212SI.html?clickfrom=subscribe)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 娱乐圈, 饭圈文化, 伪娘, 流量艺人, 偶像崇拜, 社会影响, 文化发展, 道德, 青少年                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

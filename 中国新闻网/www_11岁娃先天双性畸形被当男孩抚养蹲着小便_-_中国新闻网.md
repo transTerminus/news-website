@@ -32,18 +32,18 @@
 该文件报道了一个11岁男孩因先天双性畸形而面临的困境。男孩小丁（化名）因生理特征问题被当做男孩抚养，导致他在生活和社会交往中遭受困扰和歧视。文中详细描述了小丁的家庭背景、成长经历以及面临的医疗挑战。小丁的母亲向记者求助，表示孩子的特殊生理特征让他在学习和生活中感到自卑，几乎对生活绝望。报道中提到，小丁的父母经济条件有限，无法负担手术费用，且由于孩子年龄小，医院也无法确诊他的性别。这一案例引发了对先天双性畸形者的关注，以及对社会医疗资源和支持的呼吁。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_11岁娃先天双性畸形被当男孩抚养蹲着小便_-_中国新闻网.md                             |
-> | Size            | 2413 bytes                           |
-> | Archived Date   | 2024-11-08 11:11:21                             |
-> | Original Link   | [https://www.chinanews.com/jk/jk-ysbb/news/2010/02-24/2136586.shtml](https://www.chinanews.com/jk/jk-ysbb/news/2010/02-24/2136586.shtml)                       |
-> | Author          | 魏勇                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-02-24                                 |
-> | Tags            | 跨性别, 医疗, 社会问题, 双性畸形, 儿童生活故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_11岁娃先天双性畸形被当男孩抚养蹲着小便_-_中国新闻网.md                             |
+| Size            | 2413 bytes                           |
+| Archived Date   | 2024-11-08 11:11:21                             |
+| Original Link   | [https://www.chinanews.com/jk/jk-ysbb/news/2010/02-24/2136586.shtml](https://www.chinanews.com/jk/jk-ysbb/news/2010/02-24/2136586.shtml)                       |
+| Author          | 魏勇                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-02-24                                 |
+| Tags            | 跨性别, 医疗, 社会问题, 双性畸形, 儿童生活故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

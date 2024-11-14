@@ -160,18 +160,18 @@ Ballroom 确实是一个勇敢者的游戏。他们生命得以在此处绽放�
 本文探讨了近年来Ballroom文化逐渐进入中国的现象，聚焦于性别少数群体在此文化中寻求身份认同与归属的经历。文章开篇描绘了一个热烈的Ballroom舞会场景，随即引入Ballroom文化的历史背景，特别是在美国纽约的起源与发展。作者提到Ballroom文化在挑战性别、种族和社会阶层歧视方面的重要性，及其对参与者自我表达和认同的促进作用。文中还深入探讨了不同性别身份在该文化中的表现在群体中的位置，以及如何推动顺性别女性与性少数群体共同性别表达的转变。通过多个参与者的故事，显示了Ballroom如何成为他们展现自我的平台与抵抗主流社会偏见的地方。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_Ballroom文化进入国内，一些年轻人正在等待登场_-_QQ_News.md                             |
-> | Size            | 22333 bytes                           |
-> | Archived Date   | 2024-11-08 18:59:41                             |
-> | Original Link   | [https://news.qq.com/rain/a/20211022A05BWJ00](https://news.qq.com/rain/a/20211022A05BWJ00)                       |
-> | Author          | 青年志Youthology                               |
-> | Region          | 中国                               |
-> | Date            | 2021-10-22                                 |
-> | Tags            | Ballroom, LGBTQ, 文化, 跨性别, 身份认同, 社会环境, 反抗, 艺术表现                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_Ballroom文化进入国内，一些年轻人正在等待登场_-_QQ_News.md                             |
+| Size            | 22333 bytes                           |
+| Archived Date   | 2024-11-08 18:59:41                             |
+| Original Link   | [https://news.qq.com/rain/a/20211022A05BWJ00](https://news.qq.com/rain/a/20211022A05BWJ00)                       |
+| Author          | 青年志Youthology                               |
+| Region          | 中国                               |
+| Date            | 2021-10-22                                 |
+| Tags            | Ballroom, LGBTQ, 文化, 跨性别, 身份认同, 社会环境, 反抗, 艺术表现                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -62,18 +62,18 @@
 这篇文章讲述了一位名叫晓莲的女孩在十八年的人生中经历的性别认同困惑。尽管她一直被当作女孩抚养长大，但在去医院检查胸部问题时，医生发现其体内的染色体为XY，意味着她实际是男性。这一结果让晓莲和她的父母极为震惊，虽然医生建议她可以考虑进行性别转换手术，但晓莲和她的家庭面临着重大心理和社会压力。经过一番挣扎，晓莲决定进行过程复杂的女性化整形手术，希望能够有人认可她作为「女孩」的身份。文章详细记录了晓莲的心理历程及其家庭对此的反应，包括她在医院中的经历和即将进行的医疗程序，并在结束时提到她的梦想是成为一个真正的女人。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_欲整形发现原是男人身“女孩”不愿做变性手术.md                             |
-> | Size            | 4365 bytes                           |
-> | Archived Date   | 2024-11-02 04:24:24                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html](https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html)                       |
-> | Author          | 晚报记者张勤                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2004-01-13                                 |
-> | Tags            | 整形手术, 性别认同, 社会性别, 医疗经历, 个人故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_欲整形发现原是男人身“女孩”不愿做变性手术.md                             |
+| Size            | 4365 bytes                           |
+| Archived Date   | 2024-11-02 04:24:24                             |
+| Original Link   | [https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html](https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html)                       |
+| Author          | 晚报记者张勤                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-01-13                                 |
+| Tags            | 整形手术, 性别认同, 社会性别, 医疗经历, 个人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

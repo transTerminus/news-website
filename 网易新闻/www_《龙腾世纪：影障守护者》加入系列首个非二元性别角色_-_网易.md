@@ -72,18 +72,18 @@
 这篇文章讨论了《龙腾世纪：影障守护者》游戏中首次加入了非二元性别角色，标志着游戏在多样性和包容性方面迈出了重要一步。文章指出，在该系列之前，已有部分玩家猜测该角色可能为非二元性别，因宣传材料中使用了多种代词。这个角色名为塔什，其性别认同在游戏中是他们个人旅程的一部分，同时玩家也有机会选择非二元性别的主角。文章中提到，尽管系列历史上已有跨性别男性角色，但真正以非二元性别明确出现的角色仍为首次。该游戏现已上线多个平台，并继续扩展LGBTQ+的叙述与角色选择。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_《龙腾世纪：影障守护者》加入系列首个非二元性别角色_-_网易.md                             |
-> | Size            | 3517 bytes                           |
-> | Archived Date   | 2024-11-08 08:26:46                             |
-> | Original Link   | [https://www.163.com/dy/article/JG03FU4D0526D8LR.html](https://www.163.com/dy/article/JG03FU4D0526D8LR.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2024-11-02                                 |
-> | Tags            | 电子游戏, 非二元性别, LGBTQ+, 角色扮演, 文化多样性                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《龙腾世纪：影障守护者》加入系列首个非二元性别角色_-_网易.md                             |
+| Size            | 3517 bytes                           |
+| Archived Date   | 2024-11-08 08:26:46                             |
+| Original Link   | [https://www.163.com/dy/article/JG03FU4D0526D8LR.html](https://www.163.com/dy/article/JG03FU4D0526D8LR.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 电子游戏, 非二元性别, LGBTQ+, 角色扮演, 文化多样性                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

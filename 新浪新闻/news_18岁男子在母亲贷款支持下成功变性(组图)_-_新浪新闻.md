@@ -51,18 +51,18 @@
 该文件是关于一位18岁男青年的变性故事。他从小便感受到自己是女孩子，经历了一段痛苦的挣扎。在母亲的支持下，他在18岁时前往泰国接受了变性手术。文章详细描述了他在校期间的生活、内心的挣扎以及如何勇敢地面对自己的真实身份。手术后，他终于实现了从男性到女性的身份转换，并为自己取了名为玛莱尼。母亲对他的支持和理解以及社会环境的接受度在他的过渡经历中起了至关重要的作用。文中还提到他在变性前的生活细节，包括他喜爱的女装和化妆品，以及向家人坦白自己性别认同的过程。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_18岁男子在母亲贷款支持下成功变性(组图)_-_新浪新闻.md                             |
-> | Size            | 6466 bytes                           |
-> | Archived Date   | 2024-11-09 07:38:51                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-04-03/detail-ikftpnny3847069.d.html](https://news.sina.cn/sa/2007-04-03/detail-ikftpnny3847069.d.html)                       |
-> | Author          | 之林                               |
-> | Region          | 未知                               |
-> | Date            | 2007-04-03                                 |
-> | Tags            | 跨性别, 变性故事, 生命故事, 心理经历, 医疗资源, 社会支持, 家庭关系                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_18岁男子在母亲贷款支持下成功变性(组图)_-_新浪新闻.md                             |
+| Size            | 6466 bytes                           |
+| Archived Date   | 2024-11-09 07:38:51                             |
+| Original Link   | [https://news.sina.cn/sa/2007-04-03/detail-ikftpnny3847069.d.html](https://news.sina.cn/sa/2007-04-03/detail-ikftpnny3847069.d.html)                       |
+| Author          | 之林                               |
+| Region          | 未知                               |
+| Date            | 2007-04-03                                 |
+| Tags            | 跨性别, 变性故事, 生命故事, 心理经历, 医疗资源, 社会支持, 家庭关系                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

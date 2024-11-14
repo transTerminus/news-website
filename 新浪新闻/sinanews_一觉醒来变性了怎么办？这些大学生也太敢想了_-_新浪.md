@@ -22,18 +22,18 @@
 该文件来自新浪新闻，标题为《一觉醒来变性了怎么办？这些大学生也太敢想了》，探讨了跨性别大学生在面临性别认同及 transitioning 过程中可能遇到的种种挑战。文章包括多位大学生的访谈，他们分享了自己的经历与想法，表明社会对跨性别者的理解与支持仍然有待提高。文中还触及了跨性别群体在校园中的生活状态及对未来的期待，强调了需要加强同性恋者与跨性别者的权益保护，倡导更多包容性和理解，同时借此引导公众正确看待跨性别现象，促进社会对多元性别认同的接纳。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | sinanews_一觉醒来变性了怎么办？这些大学生也太敢想了_-_新浪.md                             |
-> | Size            | 8472 bytes                           |
-> | Archived Date   | 2024-11-09 05:49:01                             |
-> | Original Link   | [http://sinanews.sina.cn/wb-audit/video/2017-10-30/detail-ifynfrfn0490007.d.html](http://sinanews.sina.cn/wb-audit/video/2017-10-30/detail-ifynfrfn0490007.d.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 大学生, 性别认同, 社会环境, 经历分享                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sinanews_一觉醒来变性了怎么办？这些大学生也太敢想了_-_新浪.md                             |
+| Size            | 8472 bytes                           |
+| Archived Date   | 2024-11-09 05:49:01                             |
+| Original Link   | [http://sinanews.sina.cn/wb-audit/video/2017-10-30/detail-ifynfrfn0490007.d.html](http://sinanews.sina.cn/wb-audit/video/2017-10-30/detail-ifynfrfn0490007.d.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 大学生, 性别认同, 社会环境, 经历分享                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

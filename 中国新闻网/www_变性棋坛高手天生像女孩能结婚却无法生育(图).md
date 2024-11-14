@@ -41,18 +41,18 @@
 该文件介绍了中国成都的一位跨性别棋手高宁林的故事，她在变性手术后在国际象棋比赛中获得了亚军。文章通过对她的访谈，细致地描绘了她的生活经历、内心感受以及家庭对她变性的接受过程。高宁林自小就感觉自己是女孩子，并在获得独立经济能力后于2007年完成了变性手术。她的母亲最终支持了她的决定，并陪伴她度过了手术的艰难时刻。文件不仅呈现了她的个人经历，也反映了社会对跨性别人士的接受度，尤其是在家庭环境中的影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性棋坛高手天生像女孩能结婚却无法生育(图).md                             |
-> | Size            | 2811 bytes                           |
-> | Archived Date   | 2024-11-08 10:54:43                             |
-> | Original Link   | [https://www.chinanews.com.cn/ty/kong/news/2009/04-14/1644347.shtml](https://www.chinanews.com.cn/ty/kong/news/2009/04-14/1644347.shtml)                       |
-> | Author          | 成都晚报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2009-04-14                                 |
-> | Tags            | 跨性别, 国际象棋, 变性经历, 生活故事, 社会接受度                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性棋坛高手天生像女孩能结婚却无法生育(图).md                             |
+| Size            | 2811 bytes                           |
+| Archived Date   | 2024-11-08 10:54:43                             |
+| Original Link   | [https://www.chinanews.com.cn/ty/kong/news/2009/04-14/1644347.shtml](https://www.chinanews.com.cn/ty/kong/news/2009/04-14/1644347.shtml)                       |
+| Author          | 成都晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-04-14                                 |
+| Tags            | 跨性别, 国际象棋, 变性经历, 生活故事, 社会接受度                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

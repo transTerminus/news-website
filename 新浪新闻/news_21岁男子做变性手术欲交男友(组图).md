@@ -65,18 +65,18 @@
 该文件报道了一个21岁男子，名叫娇睿（化名），他经历了从男性到女性的变性手术。自幼，娇睿就把自己当成女性，展现出强烈的性别认同，与此同时，他在求学过程中因喜欢女性的打扮而受到同龄人的嘲笑和排斥。文中详细介绍了娇睿的心理历程及其家庭对他变性的最终支持，以及他通过整形手术的过程。整篇文章不仅记录了娇睿的个人故事，还反映了社会对跨性别者的关注与争议。文章中提到“明天是我重生的日子”，表达了娇睿对未来新生活的期待与激动，为整个故事增添了情感深度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_21岁男子做变性手术欲交男友(组图).md                             |
-> | Size            | 5687 bytes                           |
-> | Archived Date   | 2024-11-02 06:26:28                             |
-> | Original Link   | [https://news.sina.cn/sa/2011-09-07/detail-ikftssap4071717.d.html](https://news.sina.cn/sa/2011-09-07/detail-ikftssap4071717.d.html)                       |
-> | Author          | 王超                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2011-09-07                                 |
-> | Tags            | 跨性别, 变性手术, 性别认同, 个人故事, 社会环境, 法律政策, 医疗经验                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_21岁男子做变性手术欲交男友(组图).md                             |
+| Size            | 5687 bytes                           |
+| Archived Date   | 2024-11-02 06:26:28                             |
+| Original Link   | [https://news.sina.cn/sa/2011-09-07/detail-ikftssap4071717.d.html](https://news.sina.cn/sa/2011-09-07/detail-ikftssap4071717.d.html)                       |
+| Author          | 王超                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-09-07                                 |
+| Tags            | 跨性别, 变性手术, 性别认同, 个人故事, 社会环境, 法律政策, 医疗经验                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

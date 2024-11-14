@@ -148,18 +148,18 @@ p.s. 受吴幼坚老师的启发，我把这首诗翻成了中文，希望Cassie
 该文件是吴幼坚对跨性别者Cassie的悼念诗文的转载，内容深入挖掘了Cassie的一生，表达了对她的敬意和对她经历的思考。吴幼坚通过这篇文章讲述了Cassie在变性手术后的生活和挑战，以及她在接受自己的过程中所体现出的勇气和不屈精神。文中还包含了对跨性别者生存状况的反思，指出了社会的偏见和法律的缺失如何影响这些群体的生活。文章中有对Cassie经历的细腻描摹，如Cassie热爱阿根廷探戈，在生活困苦中依然努力追求美丽与热情，以及在老年时仍保持乐观的心态。主题围绕性别认同及包容，展示了对于个体生命尊严的关注与对社会接受度的期待。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | blog_转载一篇悼念跨性别者Cassie的诗文_三色堇吴幼坚_-_新浪网站导航.md                             |
-> | Size            | 12137 bytes                           |
-> | Archived Date   | 2024-11-09 06:03:46                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_4b7a5b610102zvsi.html](https://blog.sina.com.cn/s/blog_4b7a5b610102zvsi.html)                       |
-> | Author          | 吴幼坚                               |
-> | Region          | 未知                               |
-> | Date            | 2019-07-17                                 |
-> | Tags            | 跨性别, 悼念, 生命故事, 社会环境, 吴幼坚, 法律政策, 情感, 探戈                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | blog_转载一篇悼念跨性别者Cassie的诗文_三色堇吴幼坚_-_新浪网站导航.md                             |
+| Size            | 12137 bytes                           |
+| Archived Date   | 2024-11-09 06:03:46                             |
+| Original Link   | [https://blog.sina.com.cn/s/blog_4b7a5b610102zvsi.html](https://blog.sina.com.cn/s/blog_4b7a5b610102zvsi.html)                       |
+| Author          | 吴幼坚                               |
+| Region          | 未知                               |
+| Date            | 2019-07-17                                 |
+| Tags            | 跨性别, 悼念, 生命故事, 社会环境, 吴幼坚, 法律政策, 情感, 探戈                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -57,18 +57,18 @@
 这篇文章讨论了‘反串表演’、‘伪娘’和‘雌雄一体’三个与性别表现相关的概念。作者仙疯叨咕分析了反串表演的艺术性，指出这一表演形式源于传统戏剧中男性代替女性演出。文中提到了李玉刚等反串表演者，其表演技艺被赞美为极高，能够做到自然流畅，毫无勉强的感觉。其次，作者探讨了‘伪娘’这一现象，强调伪娘并不等同于娘炮，而是在表演和生活中展现出女性特征的男性。最后，‘雌雄一体’这一概念被用来描述那些拥有阴阳特质的人，他们在性别表现上既有男性特征，又有柔美的一面，不易被简单归类。整个文章通过比较描绘了这些不同现象在现代社会中的意义与价值。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | blog_反串表演、伪娘、雌雄一体的区别_仙疯叨咕_-_新浪网站导航.md                             |
-> | Size            | 3523 bytes                           |
-> | Archived Date   | 2024-11-09 06:08:02                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_54a3cbea0102eg3j.html](https://blog.sina.com.cn/s/blog_54a3cbea0102eg3j.html)                       |
-> | Author          | 仙疯叨咕                               |
-> | Region          | 未知                               |
-> | Date            | 2014-02-13                                 |
-> | Tags            | 性别表现, 反串表演, 伪娘, 雌雄一体, 性别研究, 文化观察                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | blog_反串表演、伪娘、雌雄一体的区别_仙疯叨咕_-_新浪网站导航.md                             |
+| Size            | 3523 bytes                           |
+| Archived Date   | 2024-11-09 06:08:02                             |
+| Original Link   | [https://blog.sina.com.cn/s/blog_54a3cbea0102eg3j.html](https://blog.sina.com.cn/s/blog_54a3cbea0102eg3j.html)                       |
+| Author          | 仙疯叨咕                               |
+| Region          | 未知                               |
+| Date            | 2014-02-13                                 |
+| Tags            | 性别表现, 反串表演, 伪娘, 雌雄一体, 性别研究, 文化观察                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

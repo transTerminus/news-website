@@ -24,18 +24,18 @@
 本文件报道了河南省首例成功进行的变性手术，手术患者为30岁的男子张某，他在河南省人民医院接受了手术并恢复良好。报道指出，张某的变性手术适逢媒体关注，吸引了许多易性癖患者前来咨询相关信息。新造的女性生殖器官成活状况良好，这为张某未来的隆胸和喉结切除手术打下了基础。文章中提到，根据医生的说法，易性癖在河南省的发病率约为十万分之一到十四万分之一，预计有近千人受此影响。该类手术在省内刚刚起步，尤其是“男变女”手术，但“女变男”手术目前尚未能实施。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_河南首例变性手术成功惹人关注.md                             |
-> | Size            | 1438 bytes                           |
-> | Archived Date   | 2024-11-02 04:10:04                             |
-> | Original Link   | [https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap](https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap)                       |
-> | Author          | 河南报业网-大河报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2002-04-10                                 |
-> | Tags            | 变性手术, 易性癖, 生活故事, 医疗经历, 河南                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_河南首例变性手术成功惹人关注.md                             |
+| Size            | 1438 bytes                           |
+| Archived Date   | 2024-11-02 04:10:04                             |
+| Original Link   | [https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap](https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html?from=wap)                       |
+| Author          | 河南报业网-大河报                               |
+| Region          | 中国大陆                               |
+| Date            | 2002-04-10                                 |
+| Tags            | 变性手术, 易性癖, 生活故事, 医疗经历, 河南                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

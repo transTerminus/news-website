@@ -38,18 +38,18 @@
 本文介绍了变性美女刘婷的成就与经历，她于2015年获得联合国妇女署颁发的“2015女性传媒大奖女性榜样奖”，并于2016年1月21日在广州举行她的自传《我本佳人》的首发式。刘婷在变性手术后，重拾生活，积极参与公益事业，并通过自传分享自己的真实故事和心理历程，旨在让更多人理解并包容跨性别群体。刘婷在发布会上展示了获奖证书，并表示一半版税将捐赠给“江一燕爬行者爱心基金”，以支持贫困山区的儿童。她的故事不仅反映了个人蜕变与成长，也引发了对性别认同与社会包容的广泛关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性美女刘婷获颁“女性榜样奖”并出版自传.md                             |
-> | Size            | 2957 bytes                           |
-> | Archived Date   | 2024-11-02 04:07:03                             |
-> | Original Link   | [https://news.sina.cn/gn/2016-01-21/detail-ifxnuvxe8317398.d.html](https://news.sina.cn/gn/2016-01-21/detail-ifxnuvxe8317398.d.html)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2016-01-21                                 |
-> | Tags            | 变性, 女性榜样奖, 自传, 公益, 跨性别, 社会认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性美女刘婷获颁“女性榜样奖”并出版自传.md                             |
+| Size            | 2957 bytes                           |
+| Archived Date   | 2024-11-02 04:07:03                             |
+| Original Link   | [https://news.sina.cn/gn/2016-01-21/detail-ifxnuvxe8317398.d.html](https://news.sina.cn/gn/2016-01-21/detail-ifxnuvxe8317398.d.html)                       |
+| Author          | 中国新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-01-21                                 |
+| Tags            | 变性, 女性榜样奖, 自传, 公益, 跨性别, 社会认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

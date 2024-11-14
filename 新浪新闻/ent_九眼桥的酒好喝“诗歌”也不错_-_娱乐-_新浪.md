@@ -42,18 +42,18 @@ _0_
 本文介绍了九眼桥的酒吧及其背后的诗歌社群，名为“九眼桥诗歌群”，该群成立于2014年，成员多达300人，涵盖了各个年龄段的诗人，包括知名的大学教授与自由职业者。在这个基于微信的平台上，诗人们彼此分享创作，形成了跨地区、跨年代、跨性别和跨语种的诗歌共享环境。何春等核心成员强调，尽管职业背景各异，但在这个社群里，每位成员共享一个共同的身份——诗人。九眼桥诗歌群的活动不仅限于线上，成员们在重要节日还会在线下聚会，朗读怀念亲人的诗歌。该群体展示了文化艺术在跨性别社群中的包容性和开放性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | ent_九眼桥的酒好喝“诗歌”也不错_-_娱乐-_新浪.md                             |
-> | Size            | 2667 bytes                           |
-> | Archived Date   | 2024-11-09 05:36:41                             |
-> | Original Link   | [http://ent.sina.cn/2015-04-05/detail-iawzuney2527465.d.html?from=wap](http://ent.sina.cn/2015-04-05/detail-iawzuney2527465.d.html?from=wap)                       |
-> | Author          | 封面新闻官方账号                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2015-04-05                                 |
-> | Tags            | 跨性别, 诗歌, 社群活动, 文化, 艺术                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ent_九眼桥的酒好喝“诗歌”也不错_-_娱乐-_新浪.md                             |
+| Size            | 2667 bytes                           |
+| Archived Date   | 2024-11-09 05:36:41                             |
+| Original Link   | [http://ent.sina.cn/2015-04-05/detail-iawzuney2527465.d.html?from=wap](http://ent.sina.cn/2015-04-05/detail-iawzuney2527465.d.html?from=wap)                       |
+| Author          | 封面新闻官方账号                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-04-05                                 |
+| Tags            | 跨性别, 诗歌, 社群活动, 文化, 艺术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

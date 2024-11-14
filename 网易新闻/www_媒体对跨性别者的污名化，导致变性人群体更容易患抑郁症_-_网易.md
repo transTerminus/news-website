@@ -49,18 +49,18 @@
 本文讨论了媒体对跨性别者的污名化现象，以及这种负面形象如何导致变性人群体更易患抑郁症。文章指出，变性人作为社会少数群体，常常受到歧视和偏见，媒体的负面报道进一步加重了这一问题。根据《LGBT Health》期刊上的研究，频繁接触媒体对变性人负面描绘的人群，抑郁症、焦虑症和创伤后应激障碍的发病率显著增加。研究数据显示，97.6% 的变性者在过去一年中接触过负面报道，面对这样的压力，他们的心理健康问题更加严重。文章最后呼吁媒体应改变对变性人的评价方式，以减轻对这一群体的心理伤害。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_媒体对跨性别者的污名化，导致变性人群体更容易患抑郁症_-_网易.md                             |
-> | Size            | 4499 bytes                           |
-> | Archived Date   | 2024-11-08 06:15:19                             |
-> | Original Link   | [https://www.163.com/dy/article/FS9MTUDP0542LLHE.html](https://www.163.com/dy/article/FS9MTUDP0542LLHE.html)                       |
-> | Author          | 网易                               |
-> | Region          | 未知                               |
-> | Date            | 2020-11-25                                 |
-> | Tags            | 跨性别, 心理健康, 媒体污名化, 抑郁症, 社会歧视, LGBT, 研究, 变性人群体                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_媒体对跨性别者的污名化，导致变性人群体更容易患抑郁症_-_网易.md                             |
+| Size            | 4499 bytes                           |
+| Archived Date   | 2024-11-08 06:15:19                             |
+| Original Link   | [https://www.163.com/dy/article/FS9MTUDP0542LLHE.html](https://www.163.com/dy/article/FS9MTUDP0542LLHE.html)                       |
+| Author          | 网易                               |
+| Region          | 未知                               |
+| Date            | 2020-11-25                                 |
+| Tags            | 跨性别, 心理健康, 媒体污名化, 抑郁症, 社会歧视, LGBT, 研究, 变性人群体                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

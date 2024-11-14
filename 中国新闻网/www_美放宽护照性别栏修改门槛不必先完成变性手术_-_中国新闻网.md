@@ -30,18 +30,18 @@
 本文报道了美国国务院在2010年06月09日宣布的一项重要政策变更，涉及护照性别栏的修改条件。根据这一新规定，自2010年06月10日起，申请人如果希望更改护照上的性别信息，不再需要完成性别重置手术，而只需提供医生证明，证明其正在接受性别转换相关治疗。此项变动得到了“跨性者卫生保健世界专业协会”（WPATH）的建议，标志着美国在跨性别权益方面的积极进展。同时，报道也提到这一政策变动的发布时间与“女同性恋、男同性恋、双性恋与跨性人自豪月”的关系。这一政策变动不仅简化了护照申请的程序，也为跨性别人士提供了更加人性化的服务，体现了社会对跨性别人士的认可和尊重。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_美放宽护照性别栏修改门槛不必先完成变性手术_-_中国新闻网.md                             |
-> | Size            | 1448 bytes                           |
-> | Archived Date   | 2024-11-08 10:01:06                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/gj-bm/news/2010/06-10/2335226.shtml](https://www.chinanews.com.cn/gj/gj-bm/news/2010/06-10/2335226.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 美国                               |
-> | Date            | 2010-06-10                                 |
-> | Tags            | 跨性别, 护照, 性别重置手术, WPATH                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_美放宽护照性别栏修改门槛不必先完成变性手术_-_中国新闻网.md                             |
+| Size            | 1448 bytes                           |
+| Archived Date   | 2024-11-08 10:01:06                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/gj-bm/news/2010/06-10/2335226.shtml](https://www.chinanews.com.cn/gj/gj-bm/news/2010/06-10/2335226.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 美国                               |
+| Date            | 2010-06-10                                 |
+| Tags            | 跨性别, 护照, 性别重置手术, WPATH                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

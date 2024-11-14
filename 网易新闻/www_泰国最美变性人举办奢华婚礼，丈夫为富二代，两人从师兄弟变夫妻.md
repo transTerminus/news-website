@@ -31,18 +31,18 @@
 本文讲述了泰国当红变性女演员Poyd（宝儿）与丈夫Oak于2023年3月在普吉岛举办的奢华婚礼。婚礼遵循了华人‘峇峇娘惹’的传统仪式，尽管极为低调，却显得格外隆重且富有特色。宝儿，现年36岁，从17岁起进行了变性手术，后在选美比赛中获得‘2004Miss Tiffany’的称号，进入娱乐圈。婚礼上，宝儿身穿华丽的传统服饰，与丈夫进行传统的跪拜礼，同时也以西方婚宴的形式预演了婚礼，展示了多元文化的结合。该文中详细描述了宝儿与Oak从师兄弟到恋人之间的长达20年的缘分及他们对爱情的向往。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_泰国最美变性人举办奢华婚礼，丈夫为富二代，两人从师兄弟变夫妻.md                             |
-> | Size            | 4956 bytes                           |
-> | Archived Date   | 2024-11-08 07:15:23                             |
-> | Original Link   | [https://www.163.com/dy/article/HUQVUNVR0517H7F5.html](https://www.163.com/dy/article/HUQVUNVR0517H7F5.html)                       |
-> | Author          | 未知                               |
-> | Region          | 泰国                               |
-> | Date            | 2023-03-02                                 |
-> | Tags            | 跨性别, 婚礼, 变性人故事, 文化习俗, 爱情, 医疗经历, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国最美变性人举办奢华婚礼，丈夫为富二代，两人从师兄弟变夫妻.md                             |
+| Size            | 4956 bytes                           |
+| Archived Date   | 2024-11-08 07:15:23                             |
+| Original Link   | [https://www.163.com/dy/article/HUQVUNVR0517H7F5.html](https://www.163.com/dy/article/HUQVUNVR0517H7F5.html)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2023-03-02                                 |
+| Tags            | 跨性别, 婚礼, 变性人故事, 文化习俗, 爱情, 医疗经历, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

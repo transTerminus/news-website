@@ -29,18 +29,18 @@
 本文讨论了香港变性手术的现状和对变性人群体的影响。根据香港卫生署的数据，逾百名人士完成变性手术，其中以“女变男”的比例较高。变性手术一般耗时八至十小时，但不容易获得批准，申请者需要接受性别认同小组的评估，通常评估过程至少需要两年。在经历了手术后，变性人虽然法律上可以改变性别，譬如调整身份证上的性别，但在许多法律问题上依然面临限制，例如不能使用变性后的性别与异性伴侣结婚。此文引起了大众对变性人群体法律权利缺失的关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_香港有逾百人完成变性手术其中“女变男”占多.md                             |
-> | Size            | 1720 bytes                           |
-> | Archived Date   | 2024-11-02 04:47:29                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html)                       |
-> | Author          | 中国新闻网官方账号                               |
-> | Region          | 香港                               |
-> | Date            | 2004-09-24                                 |
-> | Tags            | 变性手术, 性别认同, 香港, 法律, 医疗资源, 生存现状                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_香港有逾百人完成变性手术其中“女变男”占多.md                             |
+| Size            | 1720 bytes                           |
+| Archived Date   | 2024-11-02 04:47:29                             |
+| Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html)                       |
+| Author          | 中国新闻网官方账号                               |
+| Region          | 香港                               |
+| Date            | 2004-09-24                                 |
+| Tags            | 变性手术, 性别认同, 香港, 法律, 医疗资源, 生存现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

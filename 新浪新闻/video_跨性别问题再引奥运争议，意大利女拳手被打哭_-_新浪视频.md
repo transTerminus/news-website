@@ -35,18 +35,18 @@ _[0](//comment5.news.sina.com.cn/comment/skin/default.html?channel=cj&newsid=com
 此文件讨论了跨性别问题在奥运会中的争议，特别是关于一位意大利女拳手在比赛中因性别认同问题受到的影响。报道提到，事件引发了广泛讨论，许多人对跨性别运动员的竞技公平性表达了意见，并探讨了体育界对跨性别者的政策和态度。视频配有事件相关的图片，尤其突出运动员在比赛中的情感状态，包括她被打哭的情景，反映了这一问题对个人运动员心理、情感的巨大影响。此新闻视频时长较短，但播放量高达188,055，表明社会对此话题的关注度不少。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | video_跨性别问题再引奥运争议，意大利女拳手被打哭_-_新浪视频.md                             |
-> | Size            | 936 bytes                           |
-> | Archived Date   | 2024-11-09 08:02:42                             |
-> | Original Link   | [https://video.sina.com.cn/p/finance/2024-08-02/detail-inchfrra1948376.d.html](https://video.sina.com.cn/p/finance/2024-08-02/detail-inchfrra1948376.d.html)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 未知                               |
-> | Date            | 2024-08-02                                 |
-> | Tags            | 跨性别, 奥运会, 拳击, 体育争议, 意大利女拳手                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | video_跨性别问题再引奥运争议，意大利女拳手被打哭_-_新浪视频.md                             |
+| Size            | 936 bytes                           |
+| Archived Date   | 2024-11-09 08:02:42                             |
+| Original Link   | [https://video.sina.com.cn/p/finance/2024-08-02/detail-inchfrra1948376.d.html](https://video.sina.com.cn/p/finance/2024-08-02/detail-inchfrra1948376.d.html)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 未知                               |
+| Date            | 2024-08-02                                 |
+| Tags            | 跨性别, 奥运会, 拳击, 体育争议, 意大利女拳手                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

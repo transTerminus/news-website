@@ -39,18 +39,18 @@
 本文介绍了中国变性第一人张克沙的个人经历和观点。她在接受变性手术前后的人生经历，表达了作为女性对婚姻的重视，以及淋漓尽致地讲述了她的转变过程。张克沙曾在1983年进行中国首例变性手术，医生在审慎评估后给予了批准。文章还提到，虽然改变了性别，但她仍然面临着感情上的挫折和对家庭的渴望。她的自传《女人梦》经过八年心血完成，出书是她的一种解脱，希望能让更多人了解真实的自己。同时，她期待在未来能有新的家庭，甚至有计划养育孩子。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_中国变性第一人自言女人最重要的是婚姻.md                             |
-> | Size            | 4476 bytes                           |
-> | Archived Date   | 2024-11-02 04:13:43                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html](https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html)                       |
-> | Author          | 王路                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2003-06-05                                 |
-> | Tags            | 跨性别, 变性经历, 生命故事, 婚姻, 自传, 张克沙                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_中国变性第一人自言女人最重要的是婚姻.md                             |
+| Size            | 4476 bytes                           |
+| Archived Date   | 2024-11-02 04:13:43                             |
+| Original Link   | [https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html](https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html)                       |
+| Author          | 王路                               |
+| Region          | 中国大陆                               |
+| Date            | 2003-06-05                                 |
+| Tags            | 跨性别, 变性经历, 生命故事, 婚姻, 自传, 张克沙                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

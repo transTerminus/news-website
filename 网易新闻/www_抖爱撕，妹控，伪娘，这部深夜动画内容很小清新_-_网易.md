@@ -98,18 +98,18 @@
 这篇文章介绍了动漫作品《调教咖啡厅》的内容和角色设定。故事围绕女主角樱之宫莓香展开，她是一位内心纯洁且关心他人的少女。为了追寻出国留学的梦想，她在一家咖啡店打工。独特之处在于该咖啡店的服务员扮演各种角色，其中包括一个流鼻血的男性店长、宅系百合控的后厨员工，以及扮演不同角色的其他女服务员。文章讨论了动画中的男女主角关系、角色之间的情感发展，以及奇幻幽默的情节设定等。主题包含日常生活、搞笑情节以及角色的萌态，引导着观众在纯情与幽默之间的思考。评论部分也反映了网友对角色设定的讨论与反应。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_抖爱撕，妹控，伪娘，这部深夜动画内容很小清新_-_网易.md                             |
-> | Size            | 6268 bytes                           |
-> | Archived Date   | 2024-11-08 05:38:16                             |
-> | Original Link   | [https://www.163.com/dy/article/D3FHIEJO05159SNS.html](https://www.163.com/dy/article/D3FHIEJO05159SNS.html)                       |
-> | Author          | 罗罗诺亚树树                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2017-11-17                                 |
-> | Tags            | 跨性别, 动漫, 调教咖啡厅, 角色扮演, 日常生活, 幽默, 情感发展                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_抖爱撕，妹控，伪娘，这部深夜动画内容很小清新_-_网易.md                             |
+| Size            | 6268 bytes                           |
+| Archived Date   | 2024-11-08 05:38:16                             |
+| Original Link   | [https://www.163.com/dy/article/D3FHIEJO05159SNS.html](https://www.163.com/dy/article/D3FHIEJO05159SNS.html)                       |
+| Author          | 罗罗诺亚树树                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-11-17                                 |
+| Tags            | 跨性别, 动漫, 调教咖啡厅, 角色扮演, 日常生活, 幽默, 情感发展                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

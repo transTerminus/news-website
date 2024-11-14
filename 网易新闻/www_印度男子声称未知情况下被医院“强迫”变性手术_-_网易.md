@@ -35,18 +35,18 @@ Goswami还声称，当局在手术前有一段该男子的视频，其中可以�
 本文记录了一名印度男子在医院被声称“强迫”接受变性手术的事件。事件发生在印度北方邦的Muzaffarnagar，该男子在未意识到的情况下接受了手术，声称是被另一名男子名为Omprakash的骚扰者所强迫。根据该男子的叙述，他在被注射镇静剂后失去意识，并在醒来时发现自己已经接受变性手术，生殖器被切除。该男子指出，医院医务人员与Omprakash勾结，事后其父亲对医院提出了投诉，导致警方逮捕了Omprakash。然而，医院否认了男子的说法，并声称其手术是根据男子的意愿进行的。事件引发公众抗议，并有指控医院参与非法器官交易的声音。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_印度男子声称未知情况下被医院“强迫”变性手术_-_网易.md                             |
-> | Size            | 2434 bytes                           |
-> | Archived Date   | 2024-11-08 07:55:17                             |
-> | Original Link   | [https://www.163.com/dy/article/J573O2QV05563S5U.html](https://www.163.com/dy/article/J573O2QV05563S5U.html)                       |
-> | Author          | 孟买指南                               |
-> | Region          | 印度                               |
-> | Date            | 2024-06-21                                 |
-> | Tags            | 变性手术, 印度, 医疗伦理, 性别身份, 社会事件, 法律问题                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_印度男子声称未知情况下被医院“强迫”变性手术_-_网易.md                             |
+| Size            | 2434 bytes                           |
+| Archived Date   | 2024-11-08 07:55:17                             |
+| Original Link   | [https://www.163.com/dy/article/J573O2QV05563S5U.html](https://www.163.com/dy/article/J573O2QV05563S5U.html)                       |
+| Author          | 孟买指南                               |
+| Region          | 印度                               |
+| Date            | 2024-06-21                                 |
+| Tags            | 变性手术, 印度, 医疗伦理, 性别身份, 社会事件, 法律问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

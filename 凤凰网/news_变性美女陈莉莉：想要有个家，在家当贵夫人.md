@@ -39,18 +39,18 @@
 本文报道了变性美女陈莉莉的生活与她的征婚经历。陈莉莉被称为“中国版河莉秀”和“中国第一变性美女”，她在接受采访时表达了自己对家庭的渴望，希望能找到一个理解和疼爱她的伴侣。文中提到，陈莉莉过去为了整形与变性手术投入了大量金钱，并经历了多次手术。从最初的模特生涯到成名后的品牌代言，她的生活充满了曲折与挑战。采访中还提到她的征婚条件，以及她对整容和变性人群体的看法。整体文章揭示了跨性别者在社会中的定位与追求，彰显了他们对个人幸福和家庭归属的渴望。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性美女陈莉莉：想要有个家，在家当贵夫人.md                             |
-> | Size            | 3289 bytes                           |
-> | Archived Date   | 2024-11-02 07:58:29                             |
-> | Original Link   | [https://news.ifeng.com/c/7fcJ447ZOGi](https://news.ifeng.com/c/7fcJ447ZOGi)                       |
-> | Author          | 潘林、付陈陈                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2012-06-01                                 |
-> | Tags            | 变性人, 跨性别, 整形手术, 征婚, 个人故事, 媒体报道                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性美女陈莉莉：想要有个家，在家当贵夫人.md                             |
+| Size            | 3289 bytes                           |
+| Archived Date   | 2024-11-02 07:58:29                             |
+| Original Link   | [https://news.ifeng.com/c/7fcJ447ZOGi](https://news.ifeng.com/c/7fcJ447ZOGi)                       |
+| Author          | 潘林、付陈陈                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-06-01                                 |
+| Tags            | 变性人, 跨性别, 整形手术, 征婚, 个人故事, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

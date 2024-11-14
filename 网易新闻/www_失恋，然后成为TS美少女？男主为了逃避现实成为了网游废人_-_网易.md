@@ -41,18 +41,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 该文件讨论了一部轻小说的故事，名为《变成了美少女但也成了网游废人》，讲述了一位男主角在失恋后经历性别转换，变成可爱的美少女，并在VR游戏中寻找逃避现实的途径。故事的设定和情节引人注目，特别是作者对男主变化后所面临的内心挣扎和游戏中所遇到的挑战的描述。男主在逃避现实的同时，通过游戏结识新的伙伴，并逐渐适应新的身份。该作品中还提到了性别流动性和个人认同的主题，具有一定的社会和文化深度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_失恋，然后成为TS美少女？男主为了逃避现实成为了网游废人_-_网易.md                             |
-> | Size            | 3720 bytes                           |
-> | Archived Date   | 2024-11-08 06:57:10                             |
-> | Original Link   | [https://www.163.com/dy/article/HG4JN9FV0535BCDB.html](https://www.163.com/dy/article/HG4JN9FV0535BCDB.html)                       |
-> | Author          | 猎漫部落                               |
-> | Region          | 未知                               |
-> | Date            | 2022-08-31                                 |
-> | Tags            | 跨性别, 性别转换, 轻小说, 虚拟现实游戏, 社会认同, 青春期困扰, 性别认同, 日本文化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_失恋，然后成为TS美少女？男主为了逃避现实成为了网游废人_-_网易.md                             |
+| Size            | 3720 bytes                           |
+| Archived Date   | 2024-11-08 06:57:10                             |
+| Original Link   | [https://www.163.com/dy/article/HG4JN9FV0535BCDB.html](https://www.163.com/dy/article/HG4JN9FV0535BCDB.html)                       |
+| Author          | 猎漫部落                               |
+| Region          | 未知                               |
+| Date            | 2022-08-31                                 |
+| Tags            | 跨性别, 性别转换, 轻小说, 虚拟现实游戏, 社会认同, 青春期困扰, 性别认同, 日本文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

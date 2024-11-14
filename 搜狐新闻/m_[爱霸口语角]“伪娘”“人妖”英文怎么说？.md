@@ -45,18 +45,18 @@ A new Thai airline is hiring transsexual **ladyboys** as flight attendants, aimi
 本文来自爱霸国际英语，主要探讨了关于“伪娘”和“人妖”在英文中的翻译和相关表达。首先，介绍了tomboy及其在网络上使用的情况，接着详细解释了crossdresser和cross-dressing的相关含义，指出这些术语通常用于描述男扮女装或女扮男装的行为。文中还讨论了“反串表演”这个概念，并给出了跨性别交流和身份认同的相关术语。接下来，针对“人妖”的翻译进行了深入分析，列举了多种表达方式，如ladyboy、ladyman等，强调这些词汇的文化背景和社会认知。最后，通过泰国一家新航空公司招募变性人担任空乘人员的新闻，引出对第三性别群体的社会认同和角色的关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_[爱霸口语角]“伪娘”“人妖”英文怎么说？.md                             |
-> | Size            | 2717 bytes                           |
-> | Archived Date   | 2024-11-07 05:36:24                             |
-> | Original Link   | [https://m.sohu.com/n/481058691/](https://m.sohu.com/n/481058691/)                       |
-> | Author          | 爱霸国际英语                               |
-> | Region          | 未知                               |
-> | Date            | 2017-02-18                                 |
-> | Tags            | 跨性别, 伪娘, 人妖, 语言翻译, 社会认同, 第三性别, 英汉对照                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_[爱霸口语角]“伪娘”“人妖”英文怎么说？.md                             |
+| Size            | 2717 bytes                           |
+| Archived Date   | 2024-11-07 05:36:24                             |
+| Original Link   | [https://m.sohu.com/n/481058691/](https://m.sohu.com/n/481058691/)                       |
+| Author          | 爱霸国际英语                               |
+| Region          | 未知                               |
+| Date            | 2017-02-18                                 |
+| Tags            | 跨性别, 伪娘, 人妖, 语言翻译, 社会认同, 第三性别, 英汉对照                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

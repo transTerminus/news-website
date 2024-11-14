@@ -86,18 +86,18 @@
 本文介绍了四川大学华西医院将在2023年3月4日举行的一场大型罕见病义诊活动。义诊的时间为早上9:00至11:00，地点设在华西医院门诊广场。为了帮助罕见病患者，华西医院将邀请多位专家提供义诊服务，包括心脏外科、神经内科和血液内科的主任医师。值得注意的是，义诊当天无需预约，患者需佩戴口罩并携带相关的病历资料和检查结果。此外，文中还详细介绍了什么是罕见病，以及医院为罕见病患者开设的绿色通道申请流程。这是对罕见病患者的重要支持，同时也提高了大家对罕见病的认知。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_本周六，华西医院大型义诊！.md                             |
-> | Size            | 3686 bytes                           |
-> | Archived Date   | 2024-11-10 22:10:23                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_22109285](https://m.thepaper.cn/newsDetail_forward_22109285)                       |
-> | Author          | 四川大学华西医院                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-03-04                                 |
-> | Tags            | 义诊, 罕见病, 华西医院, 医疗资源, 患者支持                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_本周六，华西医院大型义诊！.md                             |
+| Size            | 3686 bytes                           |
+| Archived Date   | 2024-11-10 22:10:23                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_22109285](https://m.thepaper.cn/newsDetail_forward_22109285)                       |
+| Author          | 四川大学华西医院                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-03-04                                 |
+| Tags            | 义诊, 罕见病, 华西医院, 医疗资源, 患者支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -41,18 +41,18 @@
 本文报道了美国最高法院在一项涉及跨性别学生使用与其性别认同相符的卫生间的案件中作出的裁决。通过搁置审理，最高法院决定允许跨性别学生使用与其性别认同匹配的男性或女性卫生间。该裁决源于2015年，变性人加文·格林因其就读学校的政策而提起诉讼，最终法院判决校董事会的规定违反了平等保护条款和教育法第九条，支持了格林的立场。格林对此表示庆幸，强调跨性别青年应该不受干扰地使用卫生间。这一裁决被视为跨性别学生权利的重要胜利，尤其在一些保守州面临的法律挑战之下。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_美国最高法院：允许跨性别学生使用与其性别认同相符的卫生间.md                             |
-> | Size            | 3747 bytes                           |
-> | Archived Date   | 2024-11-03 08:49:55                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_13360658](https://m.thepaper.cn/newsDetail_forward_13360658)                       |
-> | Author          | 加文·格林                               |
-> | Region          | 美国                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别权利, 卫生间使用, 法律政策, 美国最高法院, 教育法, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_美国最高法院：允许跨性别学生使用与其性别认同相符的卫生间.md                             |
+| Size            | 3747 bytes                           |
+| Archived Date   | 2024-11-03 08:49:55                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_13360658](https://m.thepaper.cn/newsDetail_forward_13360658)                       |
+| Author          | 加文·格林                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别权利, 卫生间使用, 法律政策, 美国最高法院, 教育法, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

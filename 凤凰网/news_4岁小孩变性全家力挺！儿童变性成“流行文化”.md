@@ -190,18 +190,18 @@ Claire经历了心理医生、精神科医生、多种运动课程、考虑切�
 该文件报道了一位4岁儿童Seph的性别认同历程，尤其关注跨性别儿童在家庭和社会中的困境与挑战，以及家长对此的支持。Seph从小就表达了自己是男孩的认同，这引发了广泛的社会讨论，尤其是关于未成年人是否能够自主做出改变自己性别身份的决定的问题。文章中提到，虽然跨性别的认同在当今社会已经逐渐被接受，但仍有很多不同的声音，尤其是对于儿童变性的合法与道德支持。文件包括许多精彩的案例，描述了其他名人的孩子也面临类似的性别认同问题，并探讨了法律和医疗政策对跨性别儿童的影响。整体而言，文章不仅介绍了跨性别儿童的权利与挑战，也反映了公众对儿童变性问题的复杂态度与看法。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_4岁小孩变性全家力挺！儿童变性成“流行文化”.md                             |
-> | Size            | 14758 bytes                           |
-> | Archived Date   | 2024-11-02 08:10:42                             |
-> | Original Link   | [https://news.ifeng.com/c/86Bz1JAPXmU](https://news.ifeng.com/c/86Bz1JAPXmU)                       |
-> | Author          | 凤凰网                               |
-> | Region          | 中国                               |
-> | Date            | 2021-05-12                                 |
-> | Tags            | 变性, 跨性别, 儿童变性, LGBTQ, 社会讨论, 医疗政策, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_4岁小孩变性全家力挺！儿童变性成“流行文化”.md                             |
+| Size            | 14758 bytes                           |
+| Archived Date   | 2024-11-02 08:10:42                             |
+| Original Link   | [https://news.ifeng.com/c/86Bz1JAPXmU](https://news.ifeng.com/c/86Bz1JAPXmU)                       |
+| Author          | 凤凰网                               |
+| Region          | 中国                               |
+| Date            | 2021-05-12                                 |
+| Tags            | 变性, 跨性别, 儿童变性, LGBTQ, 社会讨论, 医疗政策, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

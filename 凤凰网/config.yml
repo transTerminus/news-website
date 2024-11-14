@@ -2126,13 +2126,6 @@ files:
   size: 7715
   md5: 7c94aff16a9e57d12dc38b1f3c1f488c
   page: news_马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职.md
-- name: page
-  filename: page.yml
-  type: other
-  format: Unknown Format
-  size: 160760
-  md5: a10851d6d5821ad9a3017edfc900494b
-  page: null
 - name: phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视
   filename: phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视.md
   type: webpage

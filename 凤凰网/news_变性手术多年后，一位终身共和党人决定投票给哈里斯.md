@@ -46,18 +46,18 @@
 本文讲述了杰西·麦格拉斯的跨性别故事，她在经历了身体转变以及深刻的政治变化后，决定支持民主党。十年前麦格拉斯开始接受变性手术，虽然她成长于保守的宗教家庭，但最终通过不断的治疗和内心的探索，实现了自我认同。她的故事中提到，在经历性别变化后，她仍然坚持对共和党的一些政策认同，但随着特朗普的反跨性别立场，她的政治观点发生了显著变化。麦格拉斯希望跨性别者能够在社会中得到公平对待，并不再被污蔑。她的故事反映了个人的成长、性别认同的挣扎以及在社会与政治环境中不断演变的认知。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性手术多年后，一位终身共和党人决定投票给哈里斯.md                             |
-> | Size            | 3963 bytes                           |
-> | Archived Date   | 2024-11-02 08:22:18                             |
-> | Original Link   | [https://news.ifeng.com/c/8dto21wSVPf](https://news.ifeng.com/c/8dto21wSVPf)                       |
-> | Author          | 凤凰网                               |
-> | Region          | 美国                               |
-> | Date            | 2024-10-23                                 |
-> | Tags            | 跨性别, 生命故事, 政治变化, 性别认同, 医疗经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性手术多年后，一位终身共和党人决定投票给哈里斯.md                             |
+| Size            | 3963 bytes                           |
+| Archived Date   | 2024-11-02 08:22:18                             |
+| Original Link   | [https://news.ifeng.com/c/8dto21wSVPf](https://news.ifeng.com/c/8dto21wSVPf)                       |
+| Author          | 凤凰网                               |
+| Region          | 美国                               |
+| Date            | 2024-10-23                                 |
+| Tags            | 跨性别, 生命故事, 政治变化, 性别认同, 医疗经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

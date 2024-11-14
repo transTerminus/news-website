@@ -71,18 +71,18 @@
 该文件讲述了台湾歌手唐飞的真实人生故事。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_他替父还债来新加坡谋生，被骗变性成人妖还被逼陪酒！_-_搜狐.md                             |
-> | Size            | 5092 bytes                           |
-> | Archived Date   | 2024-11-07 11:28:17                             |
-> | Original Link   | [https://www.sohu.com/a/168006186_176912](https://www.sohu.com/a/168006186_176912)                       |
-> | Author          | 搜狐新闻                               |
-> | Region          | 台湾                               |
-> | Date            | 2017-08-29                                 |
-> | Tags            | 跨性别故事, 变性经历, 娱乐圈, 唐飞, 台湾歌手, 生命故事, 自我认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_他替父还债来新加坡谋生，被骗变性成人妖还被逼陪酒！_-_搜狐.md                             |
+| Size            | 5092 bytes                           |
+| Archived Date   | 2024-11-07 11:28:17                             |
+| Original Link   | [https://www.sohu.com/a/168006186_176912](https://www.sohu.com/a/168006186_176912)                       |
+| Author          | 搜狐新闻                               |
+| Region          | 台湾                               |
+| Date            | 2017-08-29                                 |
+| Tags            | 跨性别故事, 变性经历, 娱乐圈, 唐飞, 台湾歌手, 生命故事, 自我认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

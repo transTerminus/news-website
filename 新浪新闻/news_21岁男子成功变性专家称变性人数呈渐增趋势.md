@@ -56,18 +56,18 @@
 本文报道了一名21岁男性在西安进行成功变性手术的经历，并由医学专家分析了近年来中国变性人数逐渐增加的趋势。该男子自小就以女孩身份生活，成年后做出接受变性手术的决定，手术由西京医院的整形外科主任郭树忠进行。文章提到，伴随社会的包容度提升，公众对易性病（性别身份识别障碍）的接纳度逐渐提高，该男性在经历了相关医疗准备后，最终完成了生殖器切除术和阴道构建术，手术结果使他与正常女性几无区别。文章还提供了网友对此事件的评论，引发了对跨性别议题的广泛讨论和反思。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_21岁男子成功变性专家称变性人数呈渐增趋势.md                             |
-> | Size            | 2862 bytes                           |
-> | Archived Date   | 2024-11-02 06:27:02                             |
-> | Original Link   | [https://news.sina.cn/sa/2011-09-08/detail-ikftssap4072834.d.html](https://news.sina.cn/sa/2011-09-08/detail-ikftssap4072834.d.html)                       |
-> | Author          | 田进 刘尼威                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2011-09-08                                 |
-> | Tags            | 变性手术, 性别身份, 易性病, 社会接受度, 医疗资源, 跨性别经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_21岁男子成功变性专家称变性人数呈渐增趋势.md                             |
+| Size            | 2862 bytes                           |
+| Archived Date   | 2024-11-02 06:27:02                             |
+| Original Link   | [https://news.sina.cn/sa/2011-09-08/detail-ikftssap4072834.d.html](https://news.sina.cn/sa/2011-09-08/detail-ikftssap4072834.d.html)                       |
+| Author          | 田进 刘尼威                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-09-08                                 |
+| Tags            | 变性手术, 性别身份, 易性病, 社会接受度, 医疗资源, 跨性别经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

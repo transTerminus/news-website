@@ -49,18 +49,18 @@ PFLAG was formerly known as Parents, Friends and Family of Lesbians and Gays.
 本文介绍了PFLAG（支持同性恋、双性恋和变性者群体）这一组织，强调其在推动LGBT（男女同性恋、双性恋和变性者）权利方面的重要性。PFLAG成立于1972年，由珍妮·曼福德（Jeanne Manford）创立，起初是为了支持那些有同性恋子女的家庭。如今，PFLAG已成为美国最大的一类非政府组织，拥有200,000名成员和支持者，设有350个分会。PFLAG的目标是消除对LGBT群体的歧视，并保障其平等权利。该组织通过“培养尊重感”和“异性恋人士支持平等”等项目，致力于为所有学生提供安全的学习环境，并推动公众对LGBT群体的理解和尊重。此文本为介绍PFLAG的相关信息及其在美国社会中的影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | blog_PFLAG：支持同性恋、双性恋和变性者群体_-_新浪网站导航.md                             |
-> | Size            | 3907 bytes                           |
-> | Archived Date   | 2024-11-09 06:09:17                             |
-> | Original Link   | [https://blog.sina.com.cn/s/blog_67f297b00102ejl4.html](https://blog.sina.com.cn/s/blog_67f297b00102ejl4.html)                       |
-> | Author          | 未知                               |
-> | Region          | 美国                               |
-> | Date            | 2014-04-10                                 |
-> | Tags            | PFLAG, LGBT, 跨性别, 法律政策, 社会环境, 支持组织, 反歧视                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | blog_PFLAG：支持同性恋、双性恋和变性者群体_-_新浪网站导航.md                             |
+| Size            | 3907 bytes                           |
+| Archived Date   | 2024-11-09 06:09:17                             |
+| Original Link   | [https://blog.sina.com.cn/s/blog_67f297b00102ejl4.html](https://blog.sina.com.cn/s/blog_67f297b00102ejl4.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2014-04-10                                 |
+| Tags            | PFLAG, LGBT, 跨性别, 法律政策, 社会环境, 支持组织, 反歧视                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

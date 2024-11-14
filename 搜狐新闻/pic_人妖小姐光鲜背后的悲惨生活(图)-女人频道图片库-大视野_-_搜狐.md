@@ -24,18 +24,18 @@ Copyright © 2014 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有]
 该文件探讨了泰国的人妖文化及其背后的辛酸故事。文中提到，在泰国的人妖在法律上被认定为男性，虽然外表多为女性化，展现了一种不男不女的状态。文件详细描绘了人妖的生存状态，尤其强调他们大多来自贫困家庭，成为人妖往往是为了生存，缺少更好的职业机会。泰国的芭堤雅被描述为人妖集中的区域，以美丽的自然风光和著名的人妖歌舞表演而闻名。此外，文中指出，尽管泰国人妖在文化表演中受到关注和青睐，但其实他们的生活常常是悲惨的，因此呈现出一种光鲜背后的悲剧。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | pic_人妖小姐光鲜背后的悲惨生活(图)-女人频道图片库-大视野_-_搜狐.md                             |
-> | Size            | 991 bytes                           |
-> | Archived Date   | 2024-11-07 04:31:02                             |
-> | Original Link   | [http://pic.women.sohu.com/group-280558.shtml](http://pic.women.sohu.com/group-280558.shtml)                       |
-> | Author          | 搜狐大视野                               |
-> | Region          | 泰国                               |
-> | Date            | 2011-07-27                                 |
-> | Tags            | 人妖, 跨性别文化, 生存现状, 艺术表演, 法律政策, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | pic_人妖小姐光鲜背后的悲惨生活(图)-女人频道图片库-大视野_-_搜狐.md                             |
+| Size            | 991 bytes                           |
+| Archived Date   | 2024-11-07 04:31:02                             |
+| Original Link   | [http://pic.women.sohu.com/group-280558.shtml](http://pic.women.sohu.com/group-280558.shtml)                       |
+| Author          | 搜狐大视野                               |
+| Region          | 泰国                               |
+| Date            | 2011-07-27                                 |
+| Tags            | 人妖, 跨性别文化, 生存现状, 艺术表演, 法律政策, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

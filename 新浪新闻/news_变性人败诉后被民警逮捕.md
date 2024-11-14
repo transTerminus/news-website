@@ -59,18 +59,18 @@
 本文报道了变性人高婷婷在法院败诉后被民警逮捕的事件。高婷婷因名誉权案向法院提起诉讼，但结果却被东城法院驳回。法官认为书中提到的内容并非侵犯隐私，因为高婷婷曾同意向社会公开其变性经历。败诉后，高婷婷在法院外被警方带走，因其涉嫌妨碍公务而被逮捕。高婷婷在此案中穿着引人注目的服装，并表示希望参加一个选秀活动，展示自己的才艺。文章详细讲述了高婷婷的经历及因其变性引发的法律问题，反映了社会对跨性别者的误解和法律环境中的挑战。此外，高婷婷的个人信息与法律责任在案件中的纠葛，揭露了跨性别者在寻求权利和社会接纳时面临的复杂局面。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人败诉后被民警逮捕.md                             |
-> | Size            | 4184 bytes                           |
-> | Archived Date   | 2024-11-02 05:50:50                             |
-> | Original Link   | [https://news.sina.cn/sa/2007-04-17/detail-ikkntiam8946324.d.html](https://news.sina.cn/sa/2007-04-17/detail-ikkntiam8946324.d.html)                       |
-> | Author          | 新浪新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2007-04-17                                 |
-> | Tags            | 跨性别, 法律纠纷, 社会问题, 人权, 名誉权, 变性人, 媒体报道                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人败诉后被民警逮捕.md                             |
+| Size            | 4184 bytes                           |
+| Archived Date   | 2024-11-02 05:50:50                             |
+| Original Link   | [https://news.sina.cn/sa/2007-04-17/detail-ikkntiam8946324.d.html](https://news.sina.cn/sa/2007-04-17/detail-ikkntiam8946324.d.html)                       |
+| Author          | 新浪新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-04-17                                 |
+| Tags            | 跨性别, 法律纠纷, 社会问题, 人权, 名誉权, 变性人, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

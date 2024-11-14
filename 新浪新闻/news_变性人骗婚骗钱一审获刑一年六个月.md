@@ -31,18 +31,18 @@
 该文章报道了一起涉及跨性别者的诈骗案件。文章讲述了一名福建省漳州的男子在结婚生子十多年后选择变性，成为了一名女性。变性后的程秀燕以结婚为名，通过各种借口多次骗取两名男子共计27780元人民币。在文章中，详细叙述了程秀燕在骗取受害者的钱款时使用的多种理由，比如声称需要支付伙食费、离婚手续费及生活费，并最终被法院判处有期徒刑一年六个月以及处罚金。此案反映了社会对跨性别者的认知和法律环境下的复杂性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人骗婚骗钱一审获刑一年六个月.md                             |
-> | Size            | 1602 bytes                           |
-> | Archived Date   | 2024-11-02 06:22:03                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-12-28/detail-ikftpnny4457931.d.html](https://news.sina.cn/sa/2010-12-28/detail-ikftpnny4457931.d.html)                       |
-> | Author          | 周惠珍                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-12-28                                 |
-> | Tags            | 跨性别, 诈骗, 法律案例, 社会案例, 福建省                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人骗婚骗钱一审获刑一年六个月.md                             |
+| Size            | 1602 bytes                           |
+| Archived Date   | 2024-11-02 06:22:03                             |
+| Original Link   | [https://news.sina.cn/sa/2010-12-28/detail-ikftpnny4457931.d.html](https://news.sina.cn/sa/2010-12-28/detail-ikftpnny4457931.d.html)                       |
+| Author          | 周惠珍                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-12-28                                 |
+| Tags            | 跨性别, 诈骗, 法律案例, 社会案例, 福建省                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

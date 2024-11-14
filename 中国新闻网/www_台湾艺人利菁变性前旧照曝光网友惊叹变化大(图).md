@@ -37,18 +37,18 @@
 本文讨论了台湾知名主持人利菁在变性前的旧照被曝光后，引发网友热议和支持。文章提到利菁自出生就是双性人，经历了内心的挣扎和转变。她在大学期间进行了变性手术，之后乐观地面对公众的目光，勇敢承认自己的身份，并在事业上取得了成功。此次旧照的曝光使得许多网友对利菁的变化表达了赞叹与祝福，反映出社会对跨性别群体的看法正在逐渐变化。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_台湾艺人利菁变性前旧照曝光网友惊叹变化大(图).md                             |
-> | Size            | 2109 bytes                           |
-> | Archived Date   | 2024-11-08 11:02:15                             |
-> | Original Link   | [https://www.chinanews.com.cn/yl/kong/news/2009/05-07/1680314.shtml](https://www.chinanews.com.cn/yl/kong/news/2009/05-07/1680314.shtml)                       |
-> | Author          | 南方都市报                               |
-> | Region          | 台湾                               |
-> | Date            | 2009-05-07                                 |
-> | Tags            | 跨性别, 利菁, 变性, 生命故事, 社会支持, 媒体关注                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_台湾艺人利菁变性前旧照曝光网友惊叹变化大(图).md                             |
+| Size            | 2109 bytes                           |
+| Archived Date   | 2024-11-08 11:02:15                             |
+| Original Link   | [https://www.chinanews.com.cn/yl/kong/news/2009/05-07/1680314.shtml](https://www.chinanews.com.cn/yl/kong/news/2009/05-07/1680314.shtml)                       |
+| Author          | 南方都市报                               |
+| Region          | 台湾                               |
+| Date            | 2009-05-07                                 |
+| Tags            | 跨性别, 利菁, 变性, 生命故事, 社会支持, 媒体关注                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

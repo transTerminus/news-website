@@ -34,18 +34,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文讨论了《哈利波特》系列原著作者JK罗琳对跨性别者的公开反对，以及电影主角丹尼尔·雷德克里夫对此的回应。JK罗琳对跨性别女性持有明显的反对观点，认为从男变女的跨性别女性不应进入女性空间，这引发了雷德克里夫及其他明星的反对意见。雷德克里夫在接受采访时表达了与罗琳的分歧，并重申支持所有LGBTQ群体，尤其是在干预和支持跨性别者领域的重要性。文章还提及了关于儿童与青少年性别认同服务的独立审查报告，并指出罗琳对此报告的解读。整篇文章反映了当前跨性别议题的社会舆论，尤其是在名人效应下的影响与争议。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_为跨性别议题与JK罗琳再掀战火！_雷德克里夫：我没义务认同她_-_网易.md                             |
-> | Size            | 2739 bytes                           |
-> | Archived Date   | 2024-11-08 07:48:17                             |
-> | Original Link   | [https://www.163.com/dy/article/J14KU9JJ0553XLZG.html](https://www.163.com/dy/article/J14KU9JJ0553XLZG.html)                       |
-> | Author          | 网易新闻                               |
-> | Region          | 未知                               |
-> | Date            | 2024-05-04                                 |
-> | Tags            | 跨性别, LGBTQ, JK罗琳, 丹尼尔·雷德克里夫, 社会争议, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_为跨性别议题与JK罗琳再掀战火！_雷德克里夫：我没义务认同她_-_网易.md                             |
+| Size            | 2739 bytes                           |
+| Archived Date   | 2024-11-08 07:48:17                             |
+| Original Link   | [https://www.163.com/dy/article/J14KU9JJ0553XLZG.html](https://www.163.com/dy/article/J14KU9JJ0553XLZG.html)                       |
+| Author          | 网易新闻                               |
+| Region          | 未知                               |
+| Date            | 2024-05-04                                 |
+| Tags            | 跨性别, LGBTQ, JK罗琳, 丹尼尔·雷德克里夫, 社会争议, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

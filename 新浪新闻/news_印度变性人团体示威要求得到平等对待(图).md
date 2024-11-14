@@ -30,18 +30,18 @@
 这篇文章报道了2015年7月5日印度南部城市海得拉巴的一个变性人团体举行示威活动，呼吁平等待遇和消除歧视。示威者们聚集在达摩市场和英迪拉公园，手持各种标语，抗议在工作、住房、社会福利和安全等方面遭受的歧视。报道提到一些拥有高学历的变性人在找工作时面临的挑战，尽管他们具备资格却屡屡被拒之门外。抗议者要求政府机构提供平等的就业机会，并希望国家法律服务局（NALSA）的相关决议能够得到落实。变性人积极分子强调生存权利的重要性，指出每个人都有生存的权利。文章还提到印度最高法院曾承认变性人为第三性别，呼吁给予其所需的身份证明文件。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_印度变性人团体示威要求得到平等对待(图).md                             |
-> | Size            | 1842 bytes                           |
-> | Archived Date   | 2024-11-02 03:53:33                             |
-> | Original Link   | [https://news.sina.cn/gj/2015-07-06/detail-ifxesfty0456184.d.html](https://news.sina.cn/gj/2015-07-06/detail-ifxesfty0456184.d.html)                       |
-> | Author          | 环球网                               |
-> | Region          | 印度                               |
-> | Date            | 2015-07-06                                 |
-> | Tags            | 跨性别, 平等待遇, 示威, 印度, NALSA, 社会歧视, 生存权利                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_印度变性人团体示威要求得到平等对待(图).md                             |
+| Size            | 1842 bytes                           |
+| Archived Date   | 2024-11-02 03:53:33                             |
+| Original Link   | [https://news.sina.cn/gj/2015-07-06/detail-ifxesfty0456184.d.html](https://news.sina.cn/gj/2015-07-06/detail-ifxesfty0456184.d.html)                       |
+| Author          | 环球网                               |
+| Region          | 印度                               |
+| Date            | 2015-07-06                                 |
+| Tags            | 跨性别, 平等待遇, 示威, 印度, NALSA, 社会歧视, 生存权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -46,18 +46,18 @@
 该文件报道了美国俄勒冈州的西威顿市选出了一位变性人市长，标志着历史性的事件。作者黄鸣在2008年11月9日的报道中提到，市长拉斯穆森曾在90年代担任此职务，但此次以女性身份再次当选，这不仅是个人身份的转变，也是向社会标志性的变革。拉斯穆森阐述了他选择展现女性身份的原因，强调这是他克服中年危机的方式，并表示尽管他外表变化，他的性倾向不受影响，仍然爱着女性并有长达三十多年的伴侣。这一事件突显了社会对跨性别人士的逐渐接受与认可。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美国俄勒冈一小城选出变性人当市长.md                             |
-> | Size            | 1975 bytes                           |
-> | Archived Date   | 2024-11-02 08:37:23                             |
-> | Original Link   | [https://news.ifeng.com/world/oddnews/200811/1109_2593_869444.shtml](https://news.ifeng.com/world/oddnews/200811/1109_2593_869444.shtml)                       |
-> | Author          | 黄鸣                               |
-> | Region          | 美国                               |
-> | Date            | 2008-11-09                                 |
-> | Tags            | 变性人, 市长, 性别认同, 社会接受, 跨性别, 俄勒冈州                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美国俄勒冈一小城选出变性人当市长.md                             |
+| Size            | 1975 bytes                           |
+| Archived Date   | 2024-11-02 08:37:23                             |
+| Original Link   | [https://news.ifeng.com/world/oddnews/200811/1109_2593_869444.shtml](https://news.ifeng.com/world/oddnews/200811/1109_2593_869444.shtml)                       |
+| Author          | 黄鸣                               |
+| Region          | 美国                               |
+| Date            | 2008-11-09                                 |
+| Tags            | 变性人, 市长, 性别认同, 社会接受, 跨性别, 俄勒冈州                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

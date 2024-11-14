@@ -55,13 +55,6 @@ files:
   size: 2541
   md5: b6447376a78c2189c46079f894d0af05
   page: m_美联邦法官暂停特朗普变性人参军禁令部分内容.md
-- name: page
-  filename: page.yml
-  type: other
-  format: Unknown Format
-  size: 127675
-  md5: ea34e3d7c1e5e5d67a319d05d2dd1067
-  page: null
 - name: wap_特朗普签署备忘录禁止变性人参军称其扰乱队伍_-_中国新闻网
   filename: wap_特朗普签署备忘录禁止变性人参军称其扰乱队伍_-_中国新闻网.md
   type: webpage

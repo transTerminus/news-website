@@ -74,18 +74,18 @@
 本文讲述了变性人陈莉莉在遭遇抢劫事件后的首次露面。事件发生在2004年3月17日，陈莉莉在一家眼科医院看眼睛，因被劫后心情低落，她在接受记者采访时，对抢劫的话题显得十分避讳，表示自己是受害者，内心无愧。虽然她对未来感到迷惘，但希望能通过努力展示自己。医院同情她的遭遇，表示将为她免费手术，并考虑让她担任形象代言人。文章还提到，3名涉嫌抢劫的福建客已被警方拘留。评论部分包含社会对变性人的不同看法，反映了当时社会对跨性别者的接纳程度及其面临的困境。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人陈莉莉被劫后首次露面称对将来很迷惘.md                             |
-> | Size            | 4472 bytes                           |
-> | Archived Date   | 2024-11-02 04:32:32                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html](https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html)                       |
-> | Author          | 实习记者 马丹                               |
-> | Region          | 四川，中国大陆                               |
-> | Date            | 2004-03-18                                 |
-> | Tags            | 变性人, 陈莉莉, 抢劫事件, 社会包容, 医疗资源, 个人经历, 跨性别, 生活现状                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人陈莉莉被劫后首次露面称对将来很迷惘.md                             |
+| Size            | 4472 bytes                           |
+| Archived Date   | 2024-11-02 04:32:32                             |
+| Original Link   | [https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html](https://news.sina.cn/sa/2004-03-18/detail-ikknscsi2865931.d.html)                       |
+| Author          | 实习记者 马丹                               |
+| Region          | 四川，中国大陆                               |
+| Date            | 2004-03-18                                 |
+| Tags            | 变性人, 陈莉莉, 抢劫事件, 社会包容, 医疗资源, 个人经历, 跨性别, 生活现状                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

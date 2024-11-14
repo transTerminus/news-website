@@ -39,18 +39,18 @@
 该文件来自澎湃新闻，报道了纽约市长白思豪签署的一项法案，该法案允许在纽约市发放的出生证明中加入第三个性别类别“X”。这一改变适用于那些不认为自己是男性或女性的人，标志着对跨性别和性别非二元者身份的认可。报道中提到，以前纽约居民必须在接受性别确认手术后才能改变出生证明上的性别，而现在他们可以提交书面申请来修改性别标识。这项法案不仅为跨性别者提供了更准确的身份证明，也体现了纽约市在保障LGBTQ群体权利方面的承诺。文章还引用了市长、第一夫人和市议长的发言，强调了这一法案的重要性和历史意义。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_纽约将第三性别“X”加入出生证明，居民可提交书面申请.md                             |
-> | Size            | 2896 bytes                           |
-> | Archived Date   | 2024-11-03 10:11:13                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey)                       |
-> | Author          | 中新网                               |
-> | Region          | 美国                               |
-> | Date            | 2021-10-09                                 |
-> | Tags            | 跨性别, 性别认同, 法律政策, LGBTQ权利, 出生证明                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_纽约将第三性别“X”加入出生证明，居民可提交书面申请.md                             |
+| Size            | 2896 bytes                           |
+| Archived Date   | 2024-11-03 10:11:13                             |
+| Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey)                       |
+| Author          | 中新网                               |
+| Region          | 美国                               |
+| Date            | 2021-10-09                                 |
+| Tags            | 跨性别, 性别认同, 法律政策, LGBTQ权利, 出生证明                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

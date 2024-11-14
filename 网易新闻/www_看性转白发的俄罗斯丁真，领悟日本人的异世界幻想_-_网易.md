@@ -113,18 +113,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文详细探讨了近期流行的日本轻小说《不时轻声地以俄语遮羞的邻座艾莉同学》所带来的文化现象以及其背后的深层次意义。文章中，作者描述了作品中的角色特点和情节发展，特别是女主角对于独特语言的使用所引起的观众情感消费及社交反馈，展现了现代二次元文化中，角色、语言和观众互动的复杂性。通过对涉及俄国语言的梗以及对美少女角色的讨论，文章还分析了轻小说如何反映当代青年的心理状态及社会环境。此外，作者以新浪潮文学为背景，指出了这种文化现象不仅仅是追求表面的爽快感，而是潜藏着更复杂的文化意义与社会认同问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_看性转白发的俄罗斯丁真，领悟日本人的异世界幻想_-_网易.md                             |
-> | Size            | 11058 bytes                           |
-> | Archived Date   | 2024-11-08 08:00:15                             |
-> | Original Link   | [https://www.163.com/dy/article/J7O37HOF0526Q3CJ.html](https://www.163.com/dy/article/J7O37HOF0526Q3CJ.html)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2024-07-22                                 |
-> | Tags            | 轻小说, 文化现象, 美少女, 语言梗, 社交反馈, 二次元, 青年心理, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_看性转白发的俄罗斯丁真，领悟日本人的异世界幻想_-_网易.md                             |
+| Size            | 11058 bytes                           |
+| Archived Date   | 2024-11-08 08:00:15                             |
+| Original Link   | [https://www.163.com/dy/article/J7O37HOF0526Q3CJ.html](https://www.163.com/dy/article/J7O37HOF0526Q3CJ.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-07-22                                 |
+| Tags            | 轻小说, 文化现象, 美少女, 语言梗, 社交反馈, 二次元, 青年心理, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

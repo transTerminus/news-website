@@ -147,18 +147,18 @@
 此文是一位26岁女性在网络平台上分享的关于自身性焦虑的真实故事。她讲述了自己在两段恋情中的亲身体验，以及这些经历如何导致了对性的焦虑感。在与前任经历中，她遭遇到来自对方的言语攻击，造成了自信心的下降，对性行为产生了恐惧和不安。在与现任男友的关系中，她勇敢地尝试沟通自己的问题，但最终因自身的焦虑而分手。文章深入探讨了性焦虑的成因，包括教育背景、心理因素等，并提供了一些积极的建议，鼓励那些经历性焦虑的人去寻求专业帮助，表示这种焦虑并不是绝症。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_我，26岁，性焦虑了。_-_网易.md                             |
-> | Size            | 7060 bytes                           |
-> | Archived Date   | 2024-11-08 06:16:59                             |
-> | Original Link   | [https://www.163.com/dy/article/FV720F1205288A4M.html](https://www.163.com/dy/article/FV720F1205288A4M.html)                       |
-> | Author          | 小安Leon                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-01-01                                 |
-> | Tags            | 跨性别, 性焦虑, 恋爱经历, 心理健康, 性教育, 自我认知                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_我，26岁，性焦虑了。_-_网易.md                             |
+| Size            | 7060 bytes                           |
+| Archived Date   | 2024-11-08 06:16:59                             |
+| Original Link   | [https://www.163.com/dy/article/FV720F1205288A4M.html](https://www.163.com/dy/article/FV720F1205288A4M.html)                       |
+| Author          | 小安Leon                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-01-01                                 |
+| Tags            | 跨性别, 性焦虑, 恋爱经历, 心理健康, 性教育, 自我认知                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

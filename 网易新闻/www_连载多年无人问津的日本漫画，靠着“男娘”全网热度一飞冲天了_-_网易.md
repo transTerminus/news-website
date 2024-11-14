@@ -200,18 +200,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文介绍了一部连载多年的日本漫画《少主跑得快》，以及与之相关的“男娘”文化。在文中，作者探讨了“男娘”这一角色类型在日本文化中的魅力与发展，并且分析了其在当前特别受欢迎的原因。文章提及了一些具体的案例，比如漫画角色北条时行，指出其设计与设定上的特点，尤其强调了角色的可爱与吸引力。作者还表达了对该文化现象的个人观点，尽管他自己并不喜欢男娘，但承认这一现象对当代文化的影响以及其带来的讨论。文中提到“男娘”的分类与演变，探讨了这些角色在观众心目中的地位，以及他们如何与各类社会议题产生关联。同时，文章中讨论了近年来网络社交环境对男娘文化的推广，以及如何影响了大众对性别与角色的认识。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_连载多年无人问津的日本漫画，靠着“男娘”全网热度一飞冲天了_-_网易.md                             |
-> | Size            | 17986 bytes                           |
-> | Archived Date   | 2024-11-08 07:59:27                             |
-> | Original Link   | [https://www.163.com/dy/article/J7IVK1CE0526FP3N.html](https://www.163.com/dy/article/J7IVK1CE0526FP3N.html)                       |
-> | Author          | BB姬                               |
-> | Region          | 未知                               |
-> | Date            | 2024-07-20                                 |
-> | Tags            | 男娘, 日本漫画, 文化现象, 性别角色, 动漫, 社会讨论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_连载多年无人问津的日本漫画，靠着“男娘”全网热度一飞冲天了_-_网易.md                             |
+| Size            | 17986 bytes                           |
+| Archived Date   | 2024-11-08 07:59:27                             |
+| Original Link   | [https://www.163.com/dy/article/J7IVK1CE0526FP3N.html](https://www.163.com/dy/article/J7IVK1CE0526FP3N.html)                       |
+| Author          | BB姬                               |
+| Region          | 未知                               |
+| Date            | 2024-07-20                                 |
+| Tags            | 男娘, 日本漫画, 文化现象, 性别角色, 动漫, 社会讨论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

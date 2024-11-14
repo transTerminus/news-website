@@ -30,18 +30,18 @@
 本文报道了江苏省首例独立施行的变性手术的成功案例。变性人黄恩岭于2004年12月31日在南京鼓楼医院接受了为期七小时的变性手术，手术包括隆乳术、阴茎及睾丸切除术、阴道再造术和阴唇组成，并顺利完成。手术后，黄恩岭顺利度过了术后的恢复期，期待以女性身份过上全新的生活。文章中还提到她在追求变性身份的过程中经历的心理困扰与家庭矛盾，以及医学界对于易性病患者的认识和统计数据。此项手术的实施标志着独立变性手术在中国的一个进步，也反映出社会对跨性别者的逐步接纳。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_七小时他变她江苏首例独立施行变性手术获成功.md                             |
-> | Size            | 3088 bytes                           |
-> | Archived Date   | 2024-11-02 04:56:07                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-01-07/detail-ikkntiam2274382.d.html](https://news.sina.cn/sa/2005-01-07/detail-ikkntiam2274382.d.html)                       |
-> | Author          | 刘宁春 张可欣 张星                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-01-07                                 |
-> | Tags            | 跨性别, 变性手术, 生命故事, 医学资源, 社会环境, 个人经历, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_七小时他变她江苏首例独立施行变性手术获成功.md                             |
+| Size            | 3088 bytes                           |
+| Archived Date   | 2024-11-02 04:56:07                             |
+| Original Link   | [https://news.sina.cn/sa/2005-01-07/detail-ikkntiam2274382.d.html](https://news.sina.cn/sa/2005-01-07/detail-ikkntiam2274382.d.html)                       |
+| Author          | 刘宁春 张可欣 张星                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-01-07                                 |
+| Tags            | 跨性别, 变性手术, 生命故事, 医学资源, 社会环境, 个人经历, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -46,18 +46,18 @@
 这篇文章探讨了泰国人妖的生活背景和现状，揭示了他们背后的复杂故事。文章指出，虽然泰国人妖因其光鲜的外表和舞台表演为人所知，但实际上，他们的生活并不容易。许多人是因为生活困苦而选择这条道路。文章充分描述了人妖进行性别过渡的方法，包括后天手术和长期服用“特效药”，这类药物虽然能暂时增加身体的雌性激素，却伴随有一定的副作用，长期服用会导致健康问题。此外，竞争激烈使得许多人到了一定年龄后不得不退出这个行业，有些人选择剃发出家，从而结束这段艰难的生涯。文章通过不同的案例展示了泰国人妖的生存现状以及他们在社会中所面临的挑战和选择。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | k_泰国人妖背后怎么生活？长期服用“特效”药_-_新浪.md                             |
-> | Size            | 4307 bytes                           |
-> | Archived Date   | 2024-11-09 07:09:33                             |
-> | Original Link   | [https://k.sina.cn/article_7277812435_1b1ca9ad300100mdc3.html?from=travel](https://k.sina.cn/article_7277812435_1b1ca9ad300100mdc3.html?from=travel)                       |
-> | Author          | 妙竹青风                               |
-> | Region          | 泰国                               |
-> | Date            | 2020-02-13                                 |
-> | Tags            | 跨性别, 人妖文化, 性别过渡, 泰国人妖, 生活现状, 特效药, 社会挑战                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | k_泰国人妖背后怎么生活？长期服用“特效”药_-_新浪.md                             |
+| Size            | 4307 bytes                           |
+| Archived Date   | 2024-11-09 07:09:33                             |
+| Original Link   | [https://k.sina.cn/article_7277812435_1b1ca9ad300100mdc3.html?from=travel](https://k.sina.cn/article_7277812435_1b1ca9ad300100mdc3.html?from=travel)                       |
+| Author          | 妙竹青风                               |
+| Region          | 泰国                               |
+| Date            | 2020-02-13                                 |
+| Tags            | 跨性别, 人妖文化, 性别过渡, 泰国人妖, 生活现状, 特效药, 社会挑战                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

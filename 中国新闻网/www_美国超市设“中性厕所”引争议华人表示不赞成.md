@@ -18,18 +18,18 @@
 本文讨论了美国一家超市“目标超市”（Target）设立中性厕所的决定引发的争议。文章中指出，超市允许变性人根据自己的性别认知选择使用卫生间和试衣间，这一政策在美国社会引起了较大的反响，尤其是在华人社区引发了强烈的不满与担忧。许多消费者表示难以接受，担心这一政策可能会导致潜在安全风险，特别是男性冒充女性进入女厕的可能性。文章引用了多位消费者的看法，强调了他们对这种政策的反对意见，认为男女厕所应该分开，以保护女性在公共场所的安全与隐私。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_美国超市设“中性厕所”引争议华人表示不赞成.md                             |
-> | Size            | 1745 bytes                           |
-> | Archived Date   | 2024-11-08 10:21:57                             |
-> | Original Link   | [https://www.chinanews.com.cn/m/hr/2016/04-25/7846876.shtml](https://www.chinanews.com.cn/m/hr/2016/04-25/7846876.shtml)                       |
-> | Author          | 俞姝含                               |
-> | Region          | 美国                               |
-> | Date            | 2016-04-25                                 |
-> | Tags            | 跨性别, 中性厕所, 性别认知, 华人社区, 公众安全, 社会争议                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_美国超市设“中性厕所”引争议华人表示不赞成.md                             |
+| Size            | 1745 bytes                           |
+| Archived Date   | 2024-11-08 10:21:57                             |
+| Original Link   | [https://www.chinanews.com.cn/m/hr/2016/04-25/7846876.shtml](https://www.chinanews.com.cn/m/hr/2016/04-25/7846876.shtml)                       |
+| Author          | 俞姝含                               |
+| Region          | 美国                               |
+| Date            | 2016-04-25                                 |
+| Tags            | 跨性别, 中性厕所, 性别认知, 华人社区, 公众安全, 社会争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

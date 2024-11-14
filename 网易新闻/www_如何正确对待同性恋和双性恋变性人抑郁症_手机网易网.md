@@ -56,18 +56,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 该文件讨论了如何正确对待同性恋和双性恋的青少年，特别强调了家庭的支持对这些青少年的心理健康的重要性。文章引用了一项针对245名男同性恋、女同性恋、双性恋及变性人青少年及其家属的调查，显示家庭的接受和支持能够显著降低青少年抑郁和自杀的倾向。研究表明，与那些家人不愿意接受其性取向的青少年相比，家人给予最大支持的青少年在报告抑郁症状方面的可能性明显减少。文章同时也指出，结论并非绝对，未来还需进一步的数据收集和研究来验证这些结论。同时，文件中提到了社会对性取向及心理健康问题的关注，并提供了来源和版权信息。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_如何正确对待同性恋和双性恋变性人抑郁症_手机网易网.md                             |
-> | Size            | 2343 bytes                           |
-> | Archived Date   | 2024-11-08 07:13:51                             |
-> | Original Link   | [https://www.163.com/dy/article/HQSIFN11054477ZV.html](https://www.163.com/dy/article/HQSIFN11054477ZV.html)                       |
-> | Author          | 网易号                               |
-> | Region          | 四川                               |
-> | Date            | 2023-01-12                                 |
-> | Tags            | 跨性别, 同性恋, 双性恋, 抑郁症                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_如何正确对待同性恋和双性恋变性人抑郁症_手机网易网.md                             |
+| Size            | 2343 bytes                           |
+| Archived Date   | 2024-11-08 07:13:51                             |
+| Original Link   | [https://www.163.com/dy/article/HQSIFN11054477ZV.html](https://www.163.com/dy/article/HQSIFN11054477ZV.html)                       |
+| Author          | 网易号                               |
+| Region          | 四川                               |
+| Date            | 2023-01-12                                 |
+| Tags            | 跨性别, 同性恋, 双性恋, 抑郁症                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

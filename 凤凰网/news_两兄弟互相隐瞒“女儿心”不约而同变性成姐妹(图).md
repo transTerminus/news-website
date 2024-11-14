@@ -24,18 +24,18 @@
 本文件报道了两位兄弟Jamie和Daniel的跨性别经历。他们在成长过程中感到性别困扰，但未曾对外人或对方坦白自己的感受。随着时间的推移，他们终于敞开心扉，发现彼此都渴望变成女性。文章中详细描绘了他们的变化，以及作为姐妹共同生活的现状。通过这份资料，可以看到个人过渡的复杂情感和家庭之间的支持与理解。同时，报道提及了他们的分享经历，进一步反映了跨性别者的生存状态与心路历程。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_两兄弟互相隐瞒“女儿心”不约而同变性成姐妹(图).md                             |
-> | Size            | 1162 bytes                           |
-> | Archived Date   | 2024-11-02 07:45:42                             |
-> | Original Link   | [https://news.ifeng.com/a/20160523/48827737_0.shtml](https://news.ifeng.com/a/20160523/48827737_0.shtml)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2016-05-22                                 |
-> | Tags            | 跨性别, 变性, 性别认同, 个人故事, 家庭支持                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_两兄弟互相隐瞒“女儿心”不约而同变性成姐妹(图).md                             |
+| Size            | 1162 bytes                           |
+| Archived Date   | 2024-11-02 07:45:42                             |
+| Original Link   | [https://news.ifeng.com/a/20160523/48827737_0.shtml](https://news.ifeng.com/a/20160523/48827737_0.shtml)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2016-05-22                                 |
+| Tags            | 跨性别, 变性, 性别认同, 个人故事, 家庭支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

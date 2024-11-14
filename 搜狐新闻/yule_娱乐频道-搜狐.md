@@ -81,18 +81,18 @@
 该文件是一篇关于著名好莱坞明星玛丽莲·梦露性别身份的深度研究文章。文章探讨了梦露可能的性别分类，重点讨论了她的性染色体异常现象。根据报导，梦露的性染色体核型可能兼具男性和女性特征，被医学界称为嵌合体。作者引用医疗专家的观点，讨论了性染色体异常的多样性，以及梦露可能的生理与心理状态，反映了社会对性别认知的局限性。文章结尾指出，梦露的生平不仅是好莱坞的传奇，同时也揭示了性别身份的复杂性，以及对跨性别和非二元性别认同的社会接受度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | yule_娱乐频道-搜狐.md                             |
-> | Size            | 10211 bytes                           |
-> | Archived Date   | 2024-11-07 04:42:35                             |
-> | Original Link   | [http://yule.sohu.com/46/71/article163597146.shtml](http://yule.sohu.com/46/71/article163597146.shtml)                       |
-> | Author          | 岷江                               |
-> | Region          | 中国                               |
-> | Date            | 2001-10-15                                 |
-> | Tags            | 跨性别, 性别研究, 玛丽莲·梦露, 性染色体异常, 嵌合体, 社会性别, 心理性别                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | yule_娱乐频道-搜狐.md                             |
+| Size            | 10211 bytes                           |
+| Archived Date   | 2024-11-07 04:42:35                             |
+| Original Link   | [http://yule.sohu.com/46/71/article163597146.shtml](http://yule.sohu.com/46/71/article163597146.shtml)                       |
+| Author          | 岷江                               |
+| Region          | 中国                               |
+| Date            | 2001-10-15                                 |
+| Tags            | 跨性别, 性别研究, 玛丽莲·梦露, 性染色体异常, 嵌合体, 社会性别, 心理性别                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

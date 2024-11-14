@@ -53,18 +53,18 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 本文报道了美国耶鲁大学为尊重变性学生的权利与需求而推出无性别卫生间的计划。这项政策旨在通过设立无性别卫生间，切实改善变性学生在校园生活中面临的社交与心理压力。无性别卫生间将设有多种标识，包括男、女人形和一个穿着裤子的裙子的人形标志，这样的设计旨在让变性人士在使用卫生间时感到更加安全和自在。此外，学校还允许变性学生在毕业文凭上使用其认可的名字而非出生证明上的名字，从法律层面上支持变性学生的身份认同。报道提到，大约70%的变性者在使用卫生间时曾遭遇言语骚扰，而10%的人甚至经历了人身攻击，突显出无性别卫生间政策的重要性。耶鲁大学的这一举措受到广泛认可，已有多所美国高校陆续实行类似政策，力图为变性学生提供更安全的生活与学习环境。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美耶鲁大学拟推无性别卫生间尊重变性学生权利.md                             |
-> | Size            | 2231 bytes                           |
-> | Archived Date   | 2024-11-02 03:54:44                             |
-> | Original Link   | [https://news.sina.cn/gj/2016-05-23/detail-ifxsktkr5890562.d.html?from=wap](https://news.sina.cn/gj/2016-05-23/detail-ifxsktkr5890562.d.html?from=wap)                       |
-> | Author          | 金羊网-新快报                               |
-> | Region          | 美国                               |
-> | Date            | 2016-05-23                                 |
-> | Tags            | 变性学生, 无性别卫生间, 校园政策, 性别认同, 法律支持, 美国高校                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美耶鲁大学拟推无性别卫生间尊重变性学生权利.md                             |
+| Size            | 2231 bytes                           |
+| Archived Date   | 2024-11-02 03:54:44                             |
+| Original Link   | [https://news.sina.cn/gj/2016-05-23/detail-ifxsktkr5890562.d.html?from=wap](https://news.sina.cn/gj/2016-05-23/detail-ifxsktkr5890562.d.html?from=wap)                       |
+| Author          | 金羊网-新快报                               |
+| Region          | 美国                               |
+| Date            | 2016-05-23                                 |
+| Tags            | 变性学生, 无性别卫生间, 校园政策, 性别认同, 法律支持, 美国高校                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

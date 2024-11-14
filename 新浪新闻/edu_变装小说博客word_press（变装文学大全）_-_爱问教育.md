@@ -34,18 +34,18 @@
 该文件是关于变装文学的博客文章，属于跨性别文化的一部分，提供了相关的文学作品和体验分享。文章包含一些互动性的建议，鼓励读者积极提问和参与讨论，旨在帮助人们更好地获得信息和支持。内容中还提到了一些变装文学的特征，强调了与其他读者的交流和帮助。文章的作者是“老树开花”，由爱问知识人平台发布，带有插图和多个精选回答，表明作者对读者的关心及期望促成更深入的讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | edu_变装小说博客word_press（变装文学大全）_-_爱问教育.md                             |
-> | Size            | 1411 bytes                           |
-> | Archived Date   | 2024-11-09 06:15:20                             |
-> | Original Link   | [https://edu.iask.sina.com.cn/jy/kmEubOuly7.html](https://edu.iask.sina.com.cn/jy/kmEubOuly7.html)                       |
-> | Author          | 老树开花                               |
-> | Region          | 未知                               |
-> | Date            | 2023-08-20                                 |
-> | Tags            | 变装文学, 互动, 经验分享, 社区支持                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | edu_变装小说博客word_press（变装文学大全）_-_爱问教育.md                             |
+| Size            | 1411 bytes                           |
+| Archived Date   | 2024-11-09 06:15:20                             |
+| Original Link   | [https://edu.iask.sina.com.cn/jy/kmEubOuly7.html](https://edu.iask.sina.com.cn/jy/kmEubOuly7.html)                       |
+| Author          | 老树开花                               |
+| Region          | 未知                               |
+| Date            | 2023-08-20                                 |
+| Tags            | 变装文学, 互动, 经验分享, 社区支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

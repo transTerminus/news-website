@@ -97,18 +97,18 @@
 本文件讲述了王小春（化名）的跨性别变性经历，详细描述了其生活背景、变性手术的前因后果以及术后所面临的困境与挣扎。文章介绍了王小春25年来的痛苦经历，尤其是她在1岁时因意外失去男性生殖器，成为‘不男不女’状态。文章探讨了她在接受变性手术后的生活，包括外界的评价、家庭支持与社会压力。随着变性手术的成功，她在生活中遇到的诸多困难，让她对未来充满了未知与忧虑。文件不仅记录了个体的经历，还反映了社会对跨性别者的偏见和他们所面对的现实挑战，涉及到医疗、心理疏导和法律身份等多个方面。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_26岁小伙无奈变性遭参观非议身心难适应(图).md                             |
-> | Size            | 8405 bytes                           |
-> | Archived Date   | 2024-11-08 09:08:39                             |
-> | Original Link   | [http://www.chinanews.com.cn/jk/ysbb/news/2008/11-20/1456323.shtml](http://www.chinanews.com.cn/jk/ysbb/news/2008/11-20/1456323.shtml)                       |
-> | Author          | 新闻记者 杨帆                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2008-11-20                                 |
-> | Tags            | 跨性别, 变性, 社会压力, 人权, 心理健康, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_26岁小伙无奈变性遭参观非议身心难适应(图).md                             |
+| Size            | 8405 bytes                           |
+| Archived Date   | 2024-11-08 09:08:39                             |
+| Original Link   | [http://www.chinanews.com.cn/jk/ysbb/news/2008/11-20/1456323.shtml](http://www.chinanews.com.cn/jk/ysbb/news/2008/11-20/1456323.shtml)                       |
+| Author          | 新闻记者 杨帆                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-11-20                                 |
+| Tags            | 跨性别, 变性, 社会压力, 人权, 心理健康, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

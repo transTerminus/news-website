@@ -27,18 +27,18 @@
 这篇文章讲述了一名名叫威尔的澳大利亚女性为成为职业橄榄球选手而选择变性的故事。为了参加橄榄球比赛，她在2007年进行了变性手术，并定期服用男性荷尔蒙以塑造肌肉线条。威尔切除了乳房和子宫，最终成功向澳大利亚橄榄球联盟申请成为职业选手。文章回顾了早在2004年的一场关于变性人参赛资格的激烈讨论，进一步探讨了跨性别运动员在竞技体育中的地位和挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_女橄榄球员曾为参赛变性服用激素并切除乳房_-_中国新闻网.md                             |
-> | Size            | 1209 bytes                           |
-> | Archived Date   | 2024-11-08 10:50:34                             |
-> | Original Link   | [https://www.chinanews.com.cn/ty/2013/03-05/4616685.shtml](https://www.chinanews.com.cn/ty/2013/03-05/4616685.shtml)                       |
-> | Author          | 闫雯雯                               |
-> | Region          | 未知                               |
-> | Date            | 2013-03-05                                 |
-> | Tags            | 跨性别, 橄榄球, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_女橄榄球员曾为参赛变性服用激素并切除乳房_-_中国新闻网.md                             |
+| Size            | 1209 bytes                           |
+| Archived Date   | 2024-11-08 10:50:34                             |
+| Original Link   | [https://www.chinanews.com.cn/ty/2013/03-05/4616685.shtml](https://www.chinanews.com.cn/ty/2013/03-05/4616685.shtml)                       |
+| Author          | 闫雯雯                               |
+| Region          | 未知                               |
+| Date            | 2013-03-05                                 |
+| Tags            | 跨性别, 橄榄球, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

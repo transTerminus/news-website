@@ -34,18 +34,18 @@
 本文报道了一位名叫丽安妮·霍尔摩斯的英国护士的变性故事。丽安妮在2006年经历了变性手术，由一名男性护士转变为女性护士。文章描述了她在三个月前通过花费11000英镑接受手术后的生活变化。报道提到，丽安妮回到医院工作后，所有病人都难以相信她的过去。在她的故事中，反映了社会对跨性别者的接受程度和对个体身份的认知变化。文章以真实的图片记录了她变性前后的对比，并且引用了媒体对此事件的报道。整体来看，这是一篇关注跨性别者生存现状和社会认同问题的新闻稿。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_英变性护士美极了.md                             |
-> | Size            | 1287 bytes                           |
-> | Archived Date   | 2024-11-02 05:41:00                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-11-28/detail-ikkntiam8202144.d.html](https://news.sina.cn/sa/2006-11-28/detail-ikkntiam8202144.d.html)                       |
-> | Author          | 海峡都市报                               |
-> | Region          | 英国                               |
-> | Date            | 2006-11-28                                 |
-> | Tags            | 跨性别, 生命故事, 变性手术, 医疗经验, 社会环境, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_英变性护士美极了.md                             |
+| Size            | 1287 bytes                           |
+| Archived Date   | 2024-11-02 05:41:00                             |
+| Original Link   | [https://news.sina.cn/sa/2006-11-28/detail-ikkntiam8202144.d.html](https://news.sina.cn/sa/2006-11-28/detail-ikkntiam8202144.d.html)                       |
+| Author          | 海峡都市报                               |
+| Region          | 英国                               |
+| Date            | 2006-11-28                                 |
+| Tags            | 跨性别, 生命故事, 变性手术, 医疗经验, 社会环境, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

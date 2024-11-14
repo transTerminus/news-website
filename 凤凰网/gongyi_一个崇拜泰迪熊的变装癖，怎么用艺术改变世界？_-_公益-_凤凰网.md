@@ -172,18 +172,18 @@
 这篇文章讨论了英国艺术家格雷森·佩里（Grayson Perry）及其独特的艺术表现形式和个人经历。佩里以女装身份‘克莱尔’示人，他的作品不仅展现了他对陶艺的热爱，还反映了他对社会问题的深刻思考。文章中提到，佩里在童年时期经历了离异家庭的困扰，和父母的忽视，引发了他对性别身份的探索和艺术创作的灵感。此外，佩里的许多作品都蕴含着对社会不公和男权文化的批判，他借助艺术对抗社会的偏见，试图通过创作引发观众的共鸣和思考。佩里的‘关于虚荣的小差异’系列壁毯作品引起了广泛争议，探讨了社会阶层及其相应的品味。在最新的展览中，他通过对脱欧事件的反思，强调沟通和理解是解决分歧的重要方式。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | gongyi_一个崇拜泰迪熊的变装癖，怎么用艺术改变世界？_-_公益-_凤凰网.md                             |
-> | Size            | 13205 bytes                           |
-> | Archived Date   | 2024-11-09 10:18:59                             |
-> | Original Link   | [https://gongyi.ifeng.com/c/7hD9UdlruFr](https://gongyi.ifeng.com/c/7hD9UdlruFr)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2017-09-28                                 |
-> | Tags            | 跨性别, 艺术, 格雷森·佩里, 社会问题, 陶艺, 女装                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | gongyi_一个崇拜泰迪熊的变装癖，怎么用艺术改变世界？_-_公益-_凤凰网.md                             |
+| Size            | 13205 bytes                           |
+| Archived Date   | 2024-11-09 10:18:59                             |
+| Original Link   | [https://gongyi.ifeng.com/c/7hD9UdlruFr](https://gongyi.ifeng.com/c/7hD9UdlruFr)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2017-09-28                                 |
+| Tags            | 跨性别, 艺术, 格雷森·佩里, 社会问题, 陶艺, 女装                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

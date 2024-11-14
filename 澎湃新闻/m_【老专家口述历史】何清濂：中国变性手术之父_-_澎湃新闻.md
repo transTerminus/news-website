@@ -49,18 +49,18 @@
 该文件为澎湃新闻发布的老专家口述历史系列的文章，主题为何清濂教授，即“中国变性手术之父”的生平与事迹。何清濂教授介绍了他在变性手术领域的经历，尤其是因为一位特殊患者的影响而进入这一领域。他面临诸多外部压力，却始终坚持自己的医学信念，认为患者是生病了而非有癖好。他对患者的关怀使他在患者中获得了极高的信任和尊敬。在文章中，他的妻子楼月芳教授替他讲述了两人共同走过的60年的医学之路，展现了他们的感情与合作。文章不仅讲述了个人故事，更反映了变性手术在中国历史中的位置以及与社会接受度的关系。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_【老专家口述历史】何清濂：中国变性手术之父_-_澎湃新闻.md                             |
-> | Size            | 2631 bytes                           |
-> | Archived Date   | 2024-11-10 22:19:26                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7823178](https://m.thepaper.cn/newsDetail_forward_7823178)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 变性手术, 口述历史, 医学故事, 社会环境, 生命故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_【老专家口述历史】何清濂：中国变性手术之父_-_澎湃新闻.md                             |
+| Size            | 2631 bytes                           |
+| Archived Date   | 2024-11-10 22:19:26                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_7823178](https://m.thepaper.cn/newsDetail_forward_7823178)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变性手术, 口述历史, 医学故事, 社会环境, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

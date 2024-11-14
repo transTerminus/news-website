@@ -50,18 +50,18 @@
 本文讨论了新西兰跨性别选手劳蕾尔·哈伯德在东京奥运会女子举重87公斤以上级比赛中的表现与引发的争议。哈伯德是首位公开跨性别身份的奥运参赛者，她在比赛中三次试举失败，未能取得成绩。尽管如此，她的参赛依然在舆论上引发广泛讨论，支持者和反对者对此各有看法。支持者认为，国际奥委会的包容性政策是体育发展的重要一步，而反对者则认为这对其他女性运动员是不公平的，特别是跨性别女性在力量和体能方面依然具有优势。文章引用了哈伯德的声明，以及国际奥委会未来可能更新的指导方针，指出滞后的政策需要改进，以更好地适应当前的体育环境。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_新西兰变性人争议中亮相奥运抓举三次试举失败未取得成绩.md                             |
-> | Size            | 2729 bytes                           |
-> | Archived Date   | 2024-11-02 04:04:39                             |
-> | Original Link   | [https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap](https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap)                       |
-> | Author          | 王淼                               |
-> | Region          | 新西兰                               |
-> | Date            | 2021-08-03                                 |
-> | Tags            | 跨性别运动员, 东京奥运会, 劳蕾尔·哈伯德, 性别身份, 体育争议, 国际奥委会                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_新西兰变性人争议中亮相奥运抓举三次试举失败未取得成绩.md                             |
+| Size            | 2729 bytes                           |
+| Archived Date   | 2024-11-02 04:04:39                             |
+| Original Link   | [https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap](https://news.sina.cn/gj/2021-08-03/detail-ikqciyzk9173067.d.html?from=wap)                       |
+| Author          | 王淼                               |
+| Region          | 新西兰                               |
+| Date            | 2021-08-03                                 |
+| Tags            | 跨性别运动员, 东京奥运会, 劳蕾尔·哈伯德, 性别身份, 体育争议, 国际奥委会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

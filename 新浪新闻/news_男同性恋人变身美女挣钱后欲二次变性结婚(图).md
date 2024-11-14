@@ -58,18 +58,18 @@
 本文讲述了一对跨性别人士红颜和雪儿的爱情故事及其经历。两人均在年轻时选择进行变性手术，红颜在2001年和雪儿在2003年，二人曾在夜总会工作以谋生。现在红颜再次决定变性回男儿身以便与雪儿合法结婚，尽管法律上仍不承认他们的婚姻。文章涉及了他们的变性原因、社会压力、以及自我认同的问题。同时，医学伦理学家的观点认为他们的行为反映了对同性恋的社会态度和法律的限制。这一案例不仅反映了跨性别者在中国的生存现状，还揭示了他们在爱与认同之间的挣扎。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_男同性恋人变身美女挣钱后欲二次变性结婚(图).md                             |
-> | Size            | 4693 bytes                           |
-> | Archived Date   | 2024-11-02 05:30:57                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-27/detail-ikftssap2650025.d.html](https://news.sina.cn/sa/2006-06-27/detail-ikftssap2650025.d.html)                       |
-> | Author          | 蔡民，彭维宏                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2006-06-27                                 |
-> | Tags            | 跨性别, 变性手术, 同性恋, 社会环境, 法律问题                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_男同性恋人变身美女挣钱后欲二次变性结婚(图).md                             |
+| Size            | 4693 bytes                           |
+| Archived Date   | 2024-11-02 05:30:57                             |
+| Original Link   | [https://news.sina.cn/sa/2006-06-27/detail-ikftssap2650025.d.html](https://news.sina.cn/sa/2006-06-27/detail-ikftssap2650025.d.html)                       |
+| Author          | 蔡民，彭维宏                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-06-27                                 |
+| Tags            | 跨性别, 变性手术, 同性恋, 社会环境, 法律问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

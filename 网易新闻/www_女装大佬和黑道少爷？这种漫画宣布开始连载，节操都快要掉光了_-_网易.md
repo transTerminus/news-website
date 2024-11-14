@@ -34,18 +34,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 这篇文章讨论了一部新连载的漫画《牙医小姐，啊站起来了！》，讲述了女装大佬与黑道少爷之间的“爱情”故事。文章详细描述了故事情节：黑道少爷因为害怕看牙医而逃避整整20年，终于鼓起勇气去看牙医，结果遇到了他最“讨厌”的牙医小姐。文章提到牙医小姐并不惧怕黑道少爷的身份，并通过刁难的方式为他看牙，展现出一种奇特的师生情感。更有趣的是，黑道少爷在与牙医小姐的互动中，逐渐觉醒了他的情感与潜在属性，故事情节充满戏剧性与幽默感。文章最后指出，牙医其实是一位女性传大佬，充满了喜剧色彩，并引导读者思考性别与身份的复杂性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_女装大佬和黑道少爷？这种漫画宣布开始连载，节操都快要掉光了_-_网易.md                             |
-> | Size            | 3489 bytes                           |
-> | Archived Date   | 2024-11-08 06:08:18                             |
-> | Original Link   | [https://www.163.com/dy/article/FCSA4PRK0535733Z.html](https://www.163.com/dy/article/FCSA4PRK0535733Z.html)                       |
-> | Author          | 一个热爱火影的90后                               |
-> | Region          | 未知                               |
-> | Date            | 2020-05-17                                 |
-> | Tags            | 漫画, 跨性别, 女装大佬, 黑道少爷, 爱情故事, 文化现象                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_女装大佬和黑道少爷？这种漫画宣布开始连载，节操都快要掉光了_-_网易.md                             |
+| Size            | 3489 bytes                           |
+| Archived Date   | 2024-11-08 06:08:18                             |
+| Original Link   | [https://www.163.com/dy/article/FCSA4PRK0535733Z.html](https://www.163.com/dy/article/FCSA4PRK0535733Z.html)                       |
+| Author          | 一个热爱火影的90后                               |
+| Region          | 未知                               |
+| Date            | 2020-05-17                                 |
+| Tags            | 漫画, 跨性别, 女装大佬, 黑道少爷, 爱情故事, 文化现象                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

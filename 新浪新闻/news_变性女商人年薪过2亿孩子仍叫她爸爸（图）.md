@@ -91,18 +91,18 @@
 本文介绍了一位名为马天尼的变性女商人，她在经历了变性手术后成功地创立了自己的制药公司，并且年薪高达3800万美元（约合2.33亿元人民币），被称为美国最有影响力的女商人之一。尽管她的身份已由男性转变为女性，但她的孩子仍然称呼她为"爸爸"，显示出家族关系的复杂性。文章还提到了另一位名为蒋伟豪的跨性别人士，他在经历了一系列心理和社会挑战后决定赴泰国进行变性手术，并分享了自己不愿意向周围人透露真实身份的经历。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性女商人年薪过2亿孩子仍叫她爸爸（图）.md                             |
-> | Size            | 6507 bytes                           |
-> | Archived Date   | 2024-11-02 03:49:59                             |
-> | Original Link   | [https://news.sina.cn/gj/2014-09-10/detail-ianfzhnh2918074.d.html?from=wap](https://news.sina.cn/gj/2014-09-10/detail-ianfzhnh2918074.d.html?from=wap)                       |
-> | Author          | 新浪新闻                               |
-> | Region          | 未知                               |
-> | Date            | 2014-09-10                                 |
-> | Tags            | 跨性别, 变性, 女性商务, 变性经历, 法律与社会, 人权问题, 媒体报道                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性女商人年薪过2亿孩子仍叫她爸爸（图）.md                             |
+| Size            | 6507 bytes                           |
+| Archived Date   | 2024-11-02 03:49:59                             |
+| Original Link   | [https://news.sina.cn/gj/2014-09-10/detail-ianfzhnh2918074.d.html?from=wap](https://news.sina.cn/gj/2014-09-10/detail-ianfzhnh2918074.d.html?from=wap)                       |
+| Author          | 新浪新闻                               |
+| Region          | 未知                               |
+| Date            | 2014-09-10                                 |
+| Tags            | 跨性别, 变性, 女性商务, 变性经历, 法律与社会, 人权问题, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

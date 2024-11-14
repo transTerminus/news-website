@@ -36,18 +36,18 @@
 这篇文章报道了在2009年8月7日至8月31日举行的英国爱丁堡边缘艺术节上，泰国人妖表演团“The Ladyboys of Bangkok”的精彩表演。文中描述了该表演团成员各具特色的外貌，有的清秀妩媚，有的热辣狂野，充分展示了他们在舞台上的多样魅力。文章强调，这场演出吸引了大量观众，成为艺术节上一道亮丽的风景线。该活动不仅展示了表演艺术，也引发了关于跨性别文化及其在不同文化背景中的接受度的关注。作者指出，这样的表演提升了观众对跨性别者的认知与理解，尽管在不同社会中，跨性别者的地位和表演的接受度存在差异。总体来看，该篇报道不仅是对一次艺术表演的记录，也是对跨性别群体在当今社会中所面临的文化挑战与机遇的反思。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_图片频道-泰国人妖表演团艳惊四座_-_中国新闻网.md                             |
-> | Size            | 2145 bytes                           |
-> | Archived Date   | 2024-11-08 09:19:59                             |
-> | Original Link   | [http://www.chinanews.com.cn/tp/news/photo_special/2009/08-14/3576.shtml](http://www.chinanews.com.cn/tp/news/photo_special/2009/08-14/3576.shtml)                       |
-> | Author          | 李杰                               |
-> | Region          | 未知                               |
-> | Date            | 2009-08-14                                 |
-> | Tags            | 跨性别, 泰国人妖, 边缘艺术节, 表演艺术, 文化接受度, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_图片频道-泰国人妖表演团艳惊四座_-_中国新闻网.md                             |
+| Size            | 2145 bytes                           |
+| Archived Date   | 2024-11-08 09:19:59                             |
+| Original Link   | [http://www.chinanews.com.cn/tp/news/photo_special/2009/08-14/3576.shtml](http://www.chinanews.com.cn/tp/news/photo_special/2009/08-14/3576.shtml)                       |
+| Author          | 李杰                               |
+| Region          | 未知                               |
+| Date            | 2009-08-14                                 |
+| Tags            | 跨性别, 泰国人妖, 边缘艺术节, 表演艺术, 文化接受度, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

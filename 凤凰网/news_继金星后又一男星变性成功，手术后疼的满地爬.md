@@ -42,18 +42,18 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 这篇文章讲述了一位男性明星成功变性后的经历，强调了手术的痛苦与挑战，描述其外貌变化使其看起来甚至比著名女星杨颖还要美丽。文章提到手术后的恢复过程，并引发了人们对跨性别者生活和社会接受度的关注。特别提到这一变化是在公众视野下的，这对于社会对跨性别者的理解和支持有一定的影响。该文章由凤凰网发布，属于娱乐新闻范畴，反映了社会对变性手术和性别认同问题的逐渐关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_继金星后又一男星变性成功，手术后疼的满地爬.md                             |
-> | Size            | 3108 bytes                           |
-> | Archived Date   | 2024-11-02 08:03:19                             |
-> | Original Link   | [https://news.ifeng.com/c/7nY3bf3aYtr](https://news.ifeng.com/c/7nY3bf3aYtr)                       |
-> | Author          | 凤凰网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2019-06-16                                 |
-> | Tags            | 跨性别, 变性, 男性明星, 性别认同, 娱乐新闻, 社会关注                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_继金星后又一男星变性成功，手术后疼的满地爬.md                             |
+| Size            | 3108 bytes                           |
+| Archived Date   | 2024-11-02 08:03:19                             |
+| Original Link   | [https://news.ifeng.com/c/7nY3bf3aYtr](https://news.ifeng.com/c/7nY3bf3aYtr)                       |
+| Author          | 凤凰网                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-06-16                                 |
+| Tags            | 跨性别, 变性, 男性明星, 性别认同, 娱乐新闻, 社会关注                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

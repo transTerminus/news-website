@@ -61,18 +61,18 @@
 本文报道了2007年11月11日在泰国帕塔亚市举行的世界变性人选美比赛。来自十五个国家的二十四名变性人代表参与了此次比赛，泰国选手坦娅腊获得冠军，并呼吁社会对变性人更加包容和接纳。报道详细介绍了比赛的背景、选手们的表现以及所面临的社会压力和歧视情况，强调尽管变性人数量较多，主流社会对其仍存在排斥态度。选美比赛的举办旨在提升社会对变性人群体的认知和接纳，并促进当地旅游业的发展。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_泰国举办世界变性人选美比赛冠军期盼社会接纳.md                             |
-> | Size            | 6947 bytes                           |
-> | Archived Date   | 2024-11-08 09:17:43                             |
-> | Original Link   | [http://www.chinanews.com.cn/sh/news/2007/11-13/1075415.shtml](http://www.chinanews.com.cn/sh/news/2007/11-13/1075415.shtml)                       |
-> | Author          | 顾时宏、陆永江                               |
-> | Region          | 泰国                               |
-> | Date            | 2007-11-11                                 |
-> | Tags            | 变性人, 选美比赛, 泰国, 生命故事, 社会接纳, 文化交流                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国举办世界变性人选美比赛冠军期盼社会接纳.md                             |
+| Size            | 6947 bytes                           |
+| Archived Date   | 2024-11-08 09:17:43                             |
+| Original Link   | [http://www.chinanews.com.cn/sh/news/2007/11-13/1075415.shtml](http://www.chinanews.com.cn/sh/news/2007/11-13/1075415.shtml)                       |
+| Author          | 顾时宏、陆永江                               |
+| Region          | 泰国                               |
+| Date            | 2007-11-11                                 |
+| Tags            | 变性人, 选美比赛, 泰国, 生命故事, 社会接纳, 文化交流                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

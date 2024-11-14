@@ -32,18 +32,18 @@
 本文记录了一名阿根廷变性少女杰西卡-布鲁姆因在臀部注射工业硅胶而不幸去世的事件。根据阿根廷《号角报》的报道，事件发生在2015年5月6日，杰西卡在接受该手术后感到身体不适并最终导致死亡。这一事件引发了她朋友的担忧，朋友表示曾经劝阻她进行多次身体填充，以维护其已经不错的身材。报道详细描述了这一悲剧事件，并提出了对变性人追求身体形象与安全之间矛盾的反思。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_阿根廷变性人因在臀部注射工业硅胶死亡.md                             |
-> | Size            | 1401 bytes                           |
-> | Archived Date   | 2024-11-08 09:58:44                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/2015/05-07/7259548.shtml](https://www.chinanews.com.cn/gj/2015/05-07/7259548.shtml)                       |
-> | Author          | 国际在线                               |
-> | Region          | 阿根廷                               |
-> | Date            | 2015-05-06                                 |
-> | Tags            | 跨性别, 医疗事故, 变性人, 社会问题, 身体形象, 阿根廷                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_阿根廷变性人因在臀部注射工业硅胶死亡.md                             |
+| Size            | 1401 bytes                           |
+| Archived Date   | 2024-11-08 09:58:44                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2015/05-07/7259548.shtml](https://www.chinanews.com.cn/gj/2015/05-07/7259548.shtml)                       |
+| Author          | 国际在线                               |
+| Region          | 阿根廷                               |
+| Date            | 2015-05-06                                 |
+| Tags            | 跨性别, 医疗事故, 变性人, 社会问题, 身体形象, 阿根廷                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

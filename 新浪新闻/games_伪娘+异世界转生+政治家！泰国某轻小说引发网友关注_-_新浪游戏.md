@@ -27,18 +27,18 @@
 本文介绍了一本名为《能转生到一个好国家？》的泰国轻小说，该小说讲述了一个理想主义者在被杀害后转生到一个兽人国家的故事。小说的主人公为了保护自己的伪娘身份，努力发挥其领导才能，试图建立一个理想的国家。随着网友的关注，很多人对于这部作品中以伪娘为主角的设定表示兴趣，尤其是在日本网友中引发的讨论，反映了文化间对性别角色和身份的多样性理解与认同。该轻小说结合了异世界转生的元素，加入了政治与性别认同的探讨，展现了独特的社会背景和角色设定。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | games_伪娘+异世界转生+政治家！泰国某轻小说引发网友关注_-_新浪游戏.md                             |
-> | Size            | 1208 bytes                           |
-> | Archived Date   | 2024-11-09 05:40:49                             |
-> | Original Link   | [http://games.sina.cn/pi/gp/2018-10-11/detail-ifxeuwws3058092.d.html](http://games.sina.cn/pi/gp/2018-10-11/detail-ifxeuwws3058092.d.html)                       |
-> | Author          | 新浪游戏                               |
-> | Region          | 泰国                               |
-> | Date            | 2018-10-11                                 |
-> | Tags            | 轻小说, 跨性别, 异世界转生, 伪娘, 性别认同, 泰国文化                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | games_伪娘+异世界转生+政治家！泰国某轻小说引发网友关注_-_新浪游戏.md                             |
+| Size            | 1208 bytes                           |
+| Archived Date   | 2024-11-09 05:40:49                             |
+| Original Link   | [http://games.sina.cn/pi/gp/2018-10-11/detail-ifxeuwws3058092.d.html](http://games.sina.cn/pi/gp/2018-10-11/detail-ifxeuwws3058092.d.html)                       |
+| Author          | 新浪游戏                               |
+| Region          | 泰国                               |
+| Date            | 2018-10-11                                 |
+| Tags            | 轻小说, 跨性别, 异世界转生, 伪娘, 性别认同, 泰国文化                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

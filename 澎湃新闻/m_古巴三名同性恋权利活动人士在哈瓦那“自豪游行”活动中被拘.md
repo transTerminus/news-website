@@ -25,18 +25,18 @@
 该文件记录了古巴在哈瓦那举行的未经政府授权的同性恋自豪游行活动的情况。在2023年5月11日，活动人士在警方与他们发生冲突后被捕，活动的初衷是抗议政府取消原定的反同性恋恐惧症活动。尽管政府有计划举办与LGBT相关的活动，但此次自豪游行因未获批准而遭到警方的激烈反对。文章提到，古巴的性别歧视是违法的，政府在法律上对性少数群体持相对保护的态度，并为性别重置手术提供资金。这次事件反映了古巴社会对同性恋权益的不断探索与争取，并提示我们注意到政府与活动人士之间的紧张关系。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_古巴三名同性恋权利活动人士在哈瓦那“自豪游行”活动中被拘.md                             |
-> | Size            | 2063 bytes                           |
-> | Archived Date   | 2024-11-03 10:12:28                             |
-> | Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 古巴                               |
-> | Date            | 2023-05-12                                 |
-> | Tags            | 同性恋权益, 自豪游行, 古巴, 警方逮捕, 性别歧视, LGBT权利, 社会运动                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_古巴三名同性恋权利活动人士在哈瓦那“自豪游行”活动中被拘.md                             |
+| Size            | 2063 bytes                           |
+| Archived Date   | 2024-11-03 10:12:28                             |
+| Original Link   | [https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey](https://m.thepaper.cn/wifiKey_detail.jsp?contid=3439846&from=wifiKey)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 古巴                               |
+| Date            | 2023-05-12                                 |
+| Tags            | 同性恋权益, 自豪游行, 古巴, 警方逮捕, 性别歧视, LGBT权利, 社会运动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

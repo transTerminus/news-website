@@ -34,18 +34,18 @@ Hong Kong announced a plan on Thursday to establish a medical center to provide 
 该文件报道了香港变性手术需求的上升趋势，介绍了香港威尔斯亲王医院计划设立一站式变性服务中心以应对这一需求。在过去的几年中，寻求变性手术的病人数量显著增加。此外，由于香港唯一的变性手术医生袁维昌将于2015年退休，医管局决定重组变性手术安排，提供更加全面专业的医疗服务。中心将提供除手术之外的所有相关服务并加强医护人员培训，以提升对变性人士的理解和服务质量。该信息来源于《大公报》和中国新闻网，反映了香港在跨性别医疗服务方面的重要变化。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_香港变性需求倍增威院增设“一条龙”服务（图）_-_中国新闻网.md                             |
-> | Size            | 3151 bytes                           |
-> | Archived Date   | 2024-11-08 09:40:37                             |
-> | Original Link   | [https://www.chinanews.com.cn/ga/2013/09-27/5329628.shtml](https://www.chinanews.com.cn/ga/2013/09-27/5329628.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 香港                               |
-> | Date            | 2013-09-27                                 |
-> | Tags            | 变性, 跨性别, 医疗服务, 香港, 手术                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_香港变性需求倍增威院增设“一条龙”服务（图）_-_中国新闻网.md                             |
+| Size            | 3151 bytes                           |
+| Archived Date   | 2024-11-08 09:40:37                             |
+| Original Link   | [https://www.chinanews.com.cn/ga/2013/09-27/5329628.shtml](https://www.chinanews.com.cn/ga/2013/09-27/5329628.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 香港                               |
+| Date            | 2013-09-27                                 |
+| Tags            | 变性, 跨性别, 医疗服务, 香港, 手术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -47,18 +47,18 @@
 这篇文章讨论了异装癖（跨性别的一种表现形式），即对异性服装的热爱。作者提到，异装癖者通常频繁穿戴异性的衣物和配饰，能够从中获得心灵和身体上的满足，同时也可能伴随性兴奋或性满足。文章中强调，这种现象并不影响他们对自己性别身份和性取向的认同，并指出异装癖者往往会形成固定的社群，进行角色扮演活动。作者提到，异装癖的形成可能与个体的早期发展和周围环境有关，尽管在社会上通常遭到误解，但仍需对这些人群保持尊重。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_那些对于异性服装特别喜欢的人们，异装癖让他们的心灵得到满足_-_网易.md                             |
-> | Size            | 1717 bytes                           |
-> | Archived Date   | 2024-11-08 05:44:10                             |
-> | Original Link   | [https://www.163.com/dy/article/DE2445D90516E5BG.html](https://www.163.com/dy/article/DE2445D90516E5BG.html)                       |
-> | Author          | 网易订阅                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-03-29                                 |
-> | Tags            | 异装癖, 跨性别, 心理健康, 生活经历, 社会认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_那些对于异性服装特别喜欢的人们，异装癖让他们的心灵得到满足_-_网易.md                             |
+| Size            | 1717 bytes                           |
+| Archived Date   | 2024-11-08 05:44:10                             |
+| Original Link   | [https://www.163.com/dy/article/DE2445D90516E5BG.html](https://www.163.com/dy/article/DE2445D90516E5BG.html)                       |
+| Author          | 网易订阅                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-03-29                                 |
+| Tags            | 异装癖, 跨性别, 心理健康, 生活经历, 社会认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

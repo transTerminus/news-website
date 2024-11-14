@@ -195,18 +195,18 @@
 本文是关于一位跨性别女孩小玉的生命故事与过渡经历的深入报道，详细记录了她在识别和接受自己性别身份的过程中所经历的心理挑战与情感挣扎。小玉从小到大的经历，从家庭的压力到自我认同的追寻，贯穿着成长中的各种困惑和心灵的成长。文章中提到小玉的初步性别认同以及对女性身份的渴望，她的性别认同经历了迷茫、逃避到最终决定踏上认同之路。通过激素治疗等医学手段，她逐渐构建起了自己理想中的女性形象。同时，文中还描绘了小玉在面对家庭、朋友和社会的态度时的脆弱与坚定。最后，文章探讨了她对未来的希望和梦想，包括写作和参与与跨性别相关的公益活动。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_挣扎数十年，我要回归我本来的性别｜镜相.md                             |
-> | Size            | 17029 bytes                           |
-> | Archived Date   | 2024-11-03 09:20:25                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_22047164](https://m.thepaper.cn/newsDetail_forward_22047164)                       |
-> | Author          | 陈欢                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2022-09-06                                 |
-> | Tags            | 跨性别, 生命故事, 心理健康, 性别认同, 医疗资源, 社会态度, HRT, 性别重置手术                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_挣扎数十年，我要回归我本来的性别｜镜相.md                             |
+| Size            | 17029 bytes                           |
+| Archived Date   | 2024-11-03 09:20:25                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_22047164](https://m.thepaper.cn/newsDetail_forward_22047164)                       |
+| Author          | 陈欢                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-09-06                                 |
+| Tags            | 跨性别, 生命故事, 心理健康, 性别认同, 医疗资源, 社会态度, HRT, 性别重置手术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

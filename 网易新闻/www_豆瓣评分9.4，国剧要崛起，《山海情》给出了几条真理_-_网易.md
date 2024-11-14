@@ -41,18 +41,18 @@
 本文件为一篇关于中国电视剧《山海情》的新闻报道，记录了该剧在2021年度的上映与评价。本剧讲述了国家扶贫攻坚的故事，通过老中青三代演员的真实表演，传达了人们对改变生活的强烈渴望。文章提到《山海情》在豆瓣上的评分达到9.4，这是对其制作和表演质量的高度肯定。报告强调该剧通过方言的使用和真实的乡土气息，吸引了观众的共鸣，并指出这部剧可能代表了未来国剧的发展方向。整篇文章不仅分析了该剧的成功要素，还反映了观众对该剧的看法与情感。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_豆瓣评分9.4，国剧要崛起，《山海情》给出了几条真理_-_网易.md                             |
-> | Size            | 4080 bytes                           |
-> | Archived Date   | 2024-11-08 06:20:11                             |
-> | Original Link   | [https://www.163.com/dy/article/G1DQP9ON0517TQKR.html](https://www.163.com/dy/article/G1DQP9ON0517TQKR.html)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-01-29                                 |
-> | Tags            | 电视剧, 山海情, 扶贫, 国剧, 豆瓣评分, 文化艺术                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_豆瓣评分9.4，国剧要崛起，《山海情》给出了几条真理_-_网易.md                             |
+| Size            | 4080 bytes                           |
+| Archived Date   | 2024-11-08 06:20:11                             |
+| Original Link   | [https://www.163.com/dy/article/G1DQP9ON0517TQKR.html](https://www.163.com/dy/article/G1DQP9ON0517TQKR.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-01-29                                 |
+| Tags            | 电视剧, 山海情, 扶贫, 国剧, 豆瓣评分, 文化艺术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

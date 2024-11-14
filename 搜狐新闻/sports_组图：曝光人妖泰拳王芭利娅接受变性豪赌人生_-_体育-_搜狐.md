@@ -35,18 +35,18 @@
 这篇搜狐体育的文章介绍了泰国变性泰拳手芭利娅（Parinya）的故事和经历。芭利娅自1999年在曼谷的伦披尼拳馆成名以来，已经成为了泰国及世界知名的运动员。文章中提到她在16岁时开始了她的泰拳生涯，之后接受了变性手术，完全融入了女性身份。作为Fairtex团队的一员，芭利娅目前在芭堤雅进行训练。文中还附有她变性前后的照片，展示了她的外貌变化，文章在视觉上呈现了她的生命轨迹和勇气。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | sports_组图：曝光人妖泰拳王芭利娅接受变性豪赌人生_-_体育-_搜狐.md                             |
-> | Size            | 1852 bytes                           |
-> | Archived Date   | 2024-11-07 06:46:51                             |
-> | Original Link   | [https://sports.sohu.com/20120307/n336945383.shtml](https://sports.sohu.com/20120307/n336945383.shtml)                       |
-> | Author          | 王涛                               |
-> | Region          | 未知                               |
-> | Date            | 2012-03-07                                 |
-> | Tags            | 跨性别, 泰拳, 芭利娅, 体育, 变性手术, 生命故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sports_组图：曝光人妖泰拳王芭利娅接受变性豪赌人生_-_体育-_搜狐.md                             |
+| Size            | 1852 bytes                           |
+| Archived Date   | 2024-11-07 06:46:51                             |
+| Original Link   | [https://sports.sohu.com/20120307/n336945383.shtml](https://sports.sohu.com/20120307/n336945383.shtml)                       |
+| Author          | 王涛                               |
+| Region          | 未知                               |
+| Date            | 2012-03-07                                 |
+| Tags            | 跨性别, 泰拳, 芭利娅, 体育, 变性手术, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -29,18 +29,18 @@
 本文讨论了巴基斯坦跨性别群体对于家庭与社会接纳的渴望，并呼吁社会给予更多的关爱。文章提到，跨性别者在巴基斯坦面临着极大的社会歧视与排斥，他们希望能够被家庭成员和社会广泛接受。文中还包含相关视频链接，以及一张展示巴基斯坦跨性别者的图片。通过这些内容，作者旨在唤起公众对跨性别群体的关注和理解，促进他们的合法权益和社会地位提升。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | fo_巴基斯坦跨性别群体渴望家人社会接纳呼吁更多关爱.md                             |
-> | Size            | 755 bytes                           |
-> | Archived Date   | 2024-11-09 10:17:56                             |
-> | Original Link   | [https://fo.ifeng.com/c/8OllWyZlOpo](https://fo.ifeng.com/c/8OllWyZlOpo)                       |
-> | Author          | 凤凰网                               |
-> | Region          | 巴基斯坦                               |
-> | Date            | 2023-04-06                                 |
-> | Tags            | 跨性别, 社会接纳, 巴基斯坦, 关爱, 人权                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | fo_巴基斯坦跨性别群体渴望家人社会接纳呼吁更多关爱.md                             |
+| Size            | 755 bytes                           |
+| Archived Date   | 2024-11-09 10:17:56                             |
+| Original Link   | [https://fo.ifeng.com/c/8OllWyZlOpo](https://fo.ifeng.com/c/8OllWyZlOpo)                       |
+| Author          | 凤凰网                               |
+| Region          | 巴基斯坦                               |
+| Date            | 2023-04-06                                 |
+| Tags            | 跨性别, 社会接纳, 巴基斯坦, 关爱, 人权                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -45,18 +45,18 @@ Tony Marchant在采访里提到，现在在英国，凡是有性别认知障碍�
 这篇文章介绍了英国ITV电视台推出的家庭剧《蝴蝶》（Butterfly）。该剧聚焦于一位11岁的男孩Max，他在探索自我性别认知的过程中，面临着家庭的困扰与社会的压力。Max热爱涂口红、穿着女性化的衣物，并逐渐坚定地认为自己应为女孩。剧本由Tony Marchant编写，他在接受采访时谈到了当今英国社会对跨性别人群的偏见和歧视，尤其是与早期的“第28条款”相关的历史背景。文中详细描述了剧中的几个重要场景，展示了Max和家人之间复杂的关系，以及家庭如何试图理解和支持他。通过细腻的情节和写实的表现，该剧旨在挑战社会对跨性别群体的刻板印象，并推动观众以更开放的心态看待性别认同问题。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_《蝴蝶》：看看欧洲TVB在放什么剧_-_澎湃新闻.md                             |
-> | Size            | 6183 bytes                           |
-> | Archived Date   | 2024-11-10 22:13:25                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2543439](https://m.thepaper.cn/newsDetail_forward_2543439)                       |
-> | Author          | 澎湃新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 性别认知障碍, 媒体分析, 社会接受, 家庭剧, Tony Marchant                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_《蝴蝶》：看看欧洲TVB在放什么剧_-_澎湃新闻.md                             |
+| Size            | 6183 bytes                           |
+| Archived Date   | 2024-11-10 22:13:25                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_2543439](https://m.thepaper.cn/newsDetail_forward_2543439)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认知障碍, 媒体分析, 社会接受, 家庭剧, Tony Marchant                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

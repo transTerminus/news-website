@@ -110,18 +110,18 @@ DSD作为一种特殊的病症，其对患者的伤害很难估量，除了内�
 本文探讨了两性畸形的医学背景与影响，聚焦于一名1岁小男孩小平的病例，他因尿道下裂而求医。这篇文章详细描述了假两性畸形与性别发育异常（DSD）的定义，症状和分类，强调了此类病症在性别认同及生活中的影响。接着，文章通过小彤和小勇两位青年的故事，呈现了两性畸形对患者心理健康的挑战与社会身份认同的困惑。文章还提供了对DSD的预防建议，如避免近亲结婚和慎重用药，以减少此类型先天畸形的发生。总体来看，文章内容涉及医学诊断、病因分析以及对患者生存现状的深入探讨，展现了医学与社会情感之间的复杂关系。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_两性畸形真的存在吗？有女性器官也有男性器官？医生给出答案_-_网易.md                             |
-> | Size            | 9468 bytes                           |
-> | Archived Date   | 2024-11-08 07:16:42                             |
-> | Original Link   | [https://www.163.com/dy/article/I375HIQU0553ETNW.html](https://www.163.com/dy/article/I375HIQU0553ETNW.html)                       |
-> | Author          | 网易                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-04-25                                 |
-> | Tags            | 性别发育异常, 两性畸形, 医学案例, 心理健康, 社会身份认同, DSD, 医疗资源                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_两性畸形真的存在吗？有女性器官也有男性器官？医生给出答案_-_网易.md                             |
+| Size            | 9468 bytes                           |
+| Archived Date   | 2024-11-08 07:16:42                             |
+| Original Link   | [https://www.163.com/dy/article/I375HIQU0553ETNW.html](https://www.163.com/dy/article/I375HIQU0553ETNW.html)                       |
+| Author          | 网易                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-04-25                                 |
+| Tags            | 性别发育异常, 两性畸形, 医学案例, 心理健康, 社会身份认同, DSD, 医疗资源                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

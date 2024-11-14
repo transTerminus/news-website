@@ -138,18 +138,18 @@
 本文件讲述了通缉犯黄治庭的故事，他以男扮女装的身份两次嫁人生子，最终因与妯娌打架暴露身份。文中详细描述了黄治庭从小到大的经历，包括他在童年时期受到的欺负、家庭的贫困以及心理扭曲的成长过程。随着生活的艰难，黄治庭逐渐投入到偷盗和人口贩卖的非法活动中。通过男扮女装的方式，他成功骗婚并生子，但最终因多次犯罪被捕入狱。文件分析了黄治庭的犯罪心理以及法律对他的惩罚，并探讨了他在监狱生活中的适应与逃避行为。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_通缉犯黄治庭：男扮女装两次嫁人生子，最后因与妯娌打架暴露身份.md                             |
-> | Size            | 10699 bytes                           |
-> | Archived Date   | 2024-11-08 07:36:38                             |
-> | Original Link   | [https://www.163.com/dy/article/IGMOSRS405565ETS.html](https://www.163.com/dy/article/IGMOSRS405565ETS.html)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-10-10                                 |
-> | Tags            | 跨性别, 犯罪故事, 男扮女装, 人口贩卖, 社会环境, 法律与政策, 个人经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_通缉犯黄治庭：男扮女装两次嫁人生子，最后因与妯娌打架暴露身份.md                             |
+| Size            | 10699 bytes                           |
+| Archived Date   | 2024-11-08 07:36:38                             |
+| Original Link   | [https://www.163.com/dy/article/IGMOSRS405565ETS.html](https://www.163.com/dy/article/IGMOSRS405565ETS.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-10-10                                 |
+| Tags            | 跨性别, 犯罪故事, 男扮女装, 人口贩卖, 社会环境, 法律与政策, 个人经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

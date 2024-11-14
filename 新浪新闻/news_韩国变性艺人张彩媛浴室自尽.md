@@ -23,18 +23,18 @@
 本文报道了韩国变性艺人张彩媛在2008年自杀的事件。文章提到，张彩媛于2008年10月3日被发现死于自家浴室，警方初步调查认为没有他杀嫌疑，推测她的自杀可能与感情问题有关，并且提到张彩媛在自杀前表示能理解同胞崔真实的心情。她于2004年以男扮女装的形象出现在SBS节目《真实游戏》而受到关注，之后接受变性手术，但在韩国演艺圈的发展却受到局限，常常背负着“变性艺人”的标签，未能走得更远。此事件引发对变性人群体心理健康问题的关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_韩国变性艺人张彩媛浴室自尽.md                             |
-> | Size            | 1535 bytes                           |
-> | Archived Date   | 2024-11-02 06:03:08                             |
-> | Original Link   | [https://news.sina.cn/sa/2008-10-08/detail-ikkntian0983316.d.html](https://news.sina.cn/sa/2008-10-08/detail-ikkntian0983316.d.html)                       |
-> | Author          | 国际在线                               |
-> | Region          | 韩国                               |
-> | Date            | 2008-10-03                                 |
-> | Tags            | 跨性别, 变性人, 自杀事件, 心理健康, 演艺圈, 韩国社会                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_韩国变性艺人张彩媛浴室自尽.md                             |
+| Size            | 1535 bytes                           |
+| Archived Date   | 2024-11-02 06:03:08                             |
+| Original Link   | [https://news.sina.cn/sa/2008-10-08/detail-ikkntian0983316.d.html](https://news.sina.cn/sa/2008-10-08/detail-ikkntian0983316.d.html)                       |
+| Author          | 国际在线                               |
+| Region          | 韩国                               |
+| Date            | 2008-10-03                                 |
+| Tags            | 跨性别, 变性人, 自杀事件, 心理健康, 演艺圈, 韩国社会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

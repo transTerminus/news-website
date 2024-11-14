@@ -53,18 +53,18 @@
 该文本文件是一篇关于台湾跨性别政客唐凤的报道，详细介绍了她的经历、成就及在政治环境中的争议。唐凤以其作为跨性别者的身份及其作为国际级黑客的背景而受到关注。文章中提到，唐凤从小因生理特征而早期面临性别认同的挑战，接受了合理的医疗治疗，以便能够在身体和情感上都能够与性别认同一致。她曾是一名技术天才，自幼学习计算机，成为国际级黑客，后来进入政界，表现出对数字技术的卓越管理能力。然而，在她赴美参与“民主峰会”期间，她在发言环节的画面被“消失”，引发了台湾社会及政治界的广泛讨论与争议，尤其是针对大陆与美国关系的微妙改变。本文不仅关注唐凤个人的故事，也反映出台湾当前的政治动态和社会环境，涉及跨性别者在现代社会中的生存现状以及社会对于这一群体的看法。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | interface_被美国“消失”的台当局代表：跨性别者曾是国际级黑客_-_新浪.md                             |
-> | Size            | 6499 bytes                           |
-> | Archived Date   | 2024-11-09 06:34:14                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-12-15%2Fdoc-ikyakumx4216976.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-12-15%2Fdoc-ikyakumx4216976.shtml)                       |
-> | Author          | 环球时报特约记者 张天行                               |
-> | Region          | 台湾                               |
-> | Date            | 2021-12-15                                 |
-> | Tags            | 跨性别, 唐凤, 台湾政治, 网络安全, 社会争议, 性别认同, 医疗经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | interface_被美国“消失”的台当局代表：跨性别者曾是国际级黑客_-_新浪.md                             |
+| Size            | 6499 bytes                           |
+| Archived Date   | 2024-11-09 06:34:14                             |
+| Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-12-15%2Fdoc-ikyakumx4216976.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-12-15%2Fdoc-ikyakumx4216976.shtml)                       |
+| Author          | 环球时报特约记者 张天行                               |
+| Region          | 台湾                               |
+| Date            | 2021-12-15                                 |
+| Tags            | 跨性别, 唐凤, 台湾政治, 网络安全, 社会争议, 性别认同, 医疗经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

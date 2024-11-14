@@ -59,18 +59,18 @@
 本文介绍了生命故事与跨性别者爱的经历，主要讲述了泰国著名“人妖皇后”妮莎与中国富商鲍玺之间的浪漫爱情故事。故事的起点源于一次在泰国举行的人妖选美比赛，鲍玺因妮莎的独特魅力一见倾心。鲍玺为了追求妮莎，不顾家人的反对，最终花费500万人民币将她娶回家。在面对家庭与社会的压力时，双方坚持不懈，通过爱的力量克服了重重困难。文章详细描述了他们的爱情历程，包括初次相识、家庭的反对以及他们如何建立幸福的生活，与社会的偏见作斗争。鲍玺不仅在情感上支持妮莎，还在事业上给予支持，使得妮莎重新追求自己的梦想。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_泰国最美“人妖皇后”妮莎！被中国富商花5百万娶回家，如今怎样_-_网易.md                             |
-> | Size            | 5548 bytes                           |
-> | Archived Date   | 2024-11-08 08:14:25                             |
-> | Original Link   | [https://www.163.com/dy/article/JFBSE1N70553XLZG.html](https://www.163.com/dy/article/JFBSE1N70553XLZG.html)                       |
-> | Author          | 网易号                               |
-> | Region          | 中国                               |
-> | Date            | 2024-10-27                                 |
-> | Tags            | 跨性别, 爱情故事, 人妖文化, 社会环境, 泰国, 婚姻, 梦想追求                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国最美“人妖皇后”妮莎！被中国富商花5百万娶回家，如今怎样_-_网易.md                             |
+| Size            | 5548 bytes                           |
+| Archived Date   | 2024-11-08 08:14:25                             |
+| Original Link   | [https://www.163.com/dy/article/JFBSE1N70553XLZG.html](https://www.163.com/dy/article/JFBSE1N70553XLZG.html)                       |
+| Author          | 网易号                               |
+| Region          | 中国                               |
+| Date            | 2024-10-27                                 |
+| Tags            | 跨性别, 爱情故事, 人妖文化, 社会环境, 泰国, 婚姻, 梦想追求                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

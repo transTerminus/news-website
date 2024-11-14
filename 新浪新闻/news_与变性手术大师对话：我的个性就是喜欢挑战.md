@@ -93,18 +93,18 @@
 在采访中，陈焕然回忆起1988年选择变性研究的原因，并且谈到了他的首位病人，她的经历让他深刻认识到了这一领域的重要性。尽管他曾因个人原因考虑退出变性手术的领域，但最终在患者的鼓励下重返岗位。他认为，帮助有需要的人是一件好事，尽管从业过程中也面临着法律与社会的种种挑战与压力。访谈最后，陈焕然表达了自己对生育问题的关注，并希望能在这一领域继续探索与研究。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_与变性手术大师对话：我的个性就是喜欢挑战.md                             |
-> | Size            | 8754 bytes                           |
-> | Archived Date   | 2024-11-02 04:56:56                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-01-08/detail-ikknscsi5444404.d.html](https://news.sina.cn/sa/2005-01-08/detail-ikknscsi5444404.d.html)                       |
-> | Author          | 匡玲                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-01-08                                 |
-> | Tags            | 变性手术, 整形外科, 性别畸形研究, 医疗资源, 生命故事, 社会环境, 挑战与探索                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_与变性手术大师对话：我的个性就是喜欢挑战.md                             |
+| Size            | 8754 bytes                           |
+| Archived Date   | 2024-11-02 04:56:56                             |
+| Original Link   | [https://news.sina.cn/sa/2005-01-08/detail-ikknscsi5444404.d.html](https://news.sina.cn/sa/2005-01-08/detail-ikknscsi5444404.d.html)                       |
+| Author          | 匡玲                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-01-08                                 |
+| Tags            | 变性手术, 整形外科, 性别畸形研究, 医疗资源, 生命故事, 社会环境, 挑战与探索                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

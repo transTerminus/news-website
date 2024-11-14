@@ -65,18 +65,18 @@
 整篇文章从医疗知识出发，讨论了一个在社会中较具敏感性的话题，旨在增进理解和讨论医美领域更为复杂的现实情况。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_专家解析女变男阴茎再造能生育无性感觉(图).md                             |
-> | Size            | 6274 bytes                           |
-> | Archived Date   | 2024-11-02 05:33:18                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html](https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html)                       |
-> | Author          | 刘慧                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2006-07-06                                 |
-> | Tags            | 医学, 跨性别, 阴茎再造, 陈焕然, 生育能力, 医疗伦理, 医疗技术, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_专家解析女变男阴茎再造能生育无性感觉(图).md                             |
+| Size            | 6274 bytes                           |
+| Archived Date   | 2024-11-02 05:33:18                             |
+| Original Link   | [https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html](https://news.sina.cn/sa/2006-07-06/detail-ikftpnny3648792.d.html)                       |
+| Author          | 刘慧                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-07-06                                 |
+| Tags            | 医学, 跨性别, 阴茎再造, 陈焕然, 生育能力, 医疗伦理, 医疗技术, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

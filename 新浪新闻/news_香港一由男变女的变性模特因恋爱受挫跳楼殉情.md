@@ -39,18 +39,18 @@
 这是一篇关于香港变性模特莎莎的悲剧故事。莎莎原为男性，后来完成变性手术，成为女性模特。她与一位外籍男子相识后，暗恋对方，但因担心对方无法接受自己的变性经历，未敢表明爱意。最终在了解到对方拒绝她的爱意后，心情沮丧，选择在一栋大厦的天台上自杀。报告中提到莎莎曾拨打电话希望与意中人见面，但未能如愿。在经历了两小时的痛苦等待后，她选择了结束自己的生命。本文揭示了在社会及个人身份认同中，对于跨性别者所面临的情感和心理压力，以及社会对跨性别者的接受程度可能导致的悲剧。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_香港一由男变女的变性模特因恋爱受挫跳楼殉情.md                             |
-> | Size            | 1973 bytes                           |
-> | Archived Date   | 2024-11-02 04:46:55                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4339045.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4339045.d.html)                       |
-> | Author          | 人民网                               |
-> | Region          | 香港                               |
-> | Date            | 2004-09-24                                 |
-> | Tags            | 跨性别, 模特, 心理健康, 爱情, 社会压力, 自杀                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_香港一由男变女的变性模特因恋爱受挫跳楼殉情.md                             |
+| Size            | 1973 bytes                           |
+| Archived Date   | 2024-11-02 04:46:55                             |
+| Original Link   | [https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4339045.d.html](https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4339045.d.html)                       |
+| Author          | 人民网                               |
+| Region          | 香港                               |
+| Date            | 2004-09-24                                 |
+| Tags            | 跨性别, 模特, 心理健康, 爱情, 社会压力, 自杀                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

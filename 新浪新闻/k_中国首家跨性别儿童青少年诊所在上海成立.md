@@ -22,18 +22,18 @@
 这篇文章报道了中国首家跨性别儿童青少年门诊的成立，位于上海复旦大学附属儿童医院。这一多学科门诊将提供心理、内分泌与遗传代谢、泌尿外科等医疗服务，旨在安全、健康地管理跨性别未成年人的过渡经历。文中提到了一位名叫小琳（化名）的女孩，她在进入青春期后出现焦虑和抑郁，通过查询自我认同为跨性别者，并分享了她与父母沟通的困难。医院的专家们强调了专业评估和药物干预在改善跨性别儿童青少年心理健康的重要性。文章引用了2016年和2019年的研究，指出跨性别群体面临的医疗误诊、高自杀率及心理健康问题等现象，引发对社会和医疗界关注与应对的呼吁。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | k_中国首家跨性别儿童青少年诊所在上海成立.md                             |
-> | Size            | 2881 bytes                           |
-> | Archived Date   | 2024-11-09 07:10:58                             |
-> | Original Link   | [https://k.sina.cn/article_7704856237_1cb3ec6ad00100valj.html?from=health](https://k.sina.cn/article_7704856237_1cb3ec6ad00100valj.html?from=health)                       |
-> | Author          | 新浪新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2021-11-05                                 |
-> | Tags            | 跨性别, 医疗资源, 心理健康, 社交适应, 儿童青少年, 过渡经历, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | k_中国首家跨性别儿童青少年诊所在上海成立.md                             |
+| Size            | 2881 bytes                           |
+| Archived Date   | 2024-11-09 07:10:58                             |
+| Original Link   | [https://k.sina.cn/article_7704856237_1cb3ec6ad00100valj.html?from=health](https://k.sina.cn/article_7704856237_1cb3ec6ad00100valj.html?from=health)                       |
+| Author          | 新浪新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-11-05                                 |
+| Tags            | 跨性别, 医疗资源, 心理健康, 社交适应, 儿童青少年, 过渡经历, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

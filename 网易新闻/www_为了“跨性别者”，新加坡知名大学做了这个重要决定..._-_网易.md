@@ -45,18 +45,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 该文件讨论了新加坡高等学府南洋理工大学（NTU）近期针对跨性别者的积极举措。内容提到，新加坡社会在性别议题上的变革，特别是对男同的377A条例的废除，表明社会对LGBT群体的态度日益宽容。文章中指出，南洋理工大学正在为一些特殊需求的学生提供支持，充分显示其在推动性别平等方面的努力与贡献。整个社会对跨性别者的关怀越发显著，这反映了新加坡在性别与社会平等方面的逐步改善与进步。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_为了“跨性别者”，新加坡知名大学做了这个重要决定..._-_网易.md                             |
-> | Size            | 1197 bytes                           |
-> | Archived Date   | 2024-11-08 07:10:53                             |
-> | Original Link   | [https://www.163.com/dy/article/HOT0BFKG05371E5Q.html](https://www.163.com/dy/article/HOT0BFKG05371E5Q.html)                       |
-> | Author          | 未知                               |
-> | Region          | 新加坡                               |
-> | Date            | 2022-12-18                                 |
-> | Tags            | 跨性别, LGBT, 性别平等, 南洋理工大学, 新加坡社会, 377A条例                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_为了“跨性别者”，新加坡知名大学做了这个重要决定..._-_网易.md                             |
+| Size            | 1197 bytes                           |
+| Archived Date   | 2024-11-08 07:10:53                             |
+| Original Link   | [https://www.163.com/dy/article/HOT0BFKG05371E5Q.html](https://www.163.com/dy/article/HOT0BFKG05371E5Q.html)                       |
+| Author          | 未知                               |
+| Region          | 新加坡                               |
+| Date            | 2022-12-18                                 |
+| Tags            | 跨性别, LGBT, 性别平等, 南洋理工大学, 新加坡社会, 377A条例                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

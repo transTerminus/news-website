@@ -19,18 +19,18 @@
 本文报道了发生在泰国的一起事件，一名中国男游客在返回酒店的途中迷路，遇到两名骑摩托车的跨性别女性，她们主动为其指路，但最终把他引到了一个偏僻地点并将其洗劫一空。报道指出，这起事件揭示了在某些旅游热点中，跨性别者可能被描绘为潜在的犯罪分子，反映了社会对跨性别者的负面标签和成见。文章源自泰国《世界日报》，并于2018年9月13日发布，涉及的主题为跨性别者、旅游安全和社会认知。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_泰国变性女假装指路抢劫中国游客.md                             |
-> | Size            | 569 bytes                           |
-> | Archived Date   | 2024-11-02 07:59:57                             |
-> | Original Link   | [https://news.ifeng.com/c/7gALWr9J2H2](https://news.ifeng.com/c/7gALWr9J2H2)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国                               |
-> | Date            | 2018-09-13                                 |
-> | Tags            | 跨性别, 旅游安全, 犯罪事件, 社会认知, 中国游客                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_泰国变性女假装指路抢劫中国游客.md                             |
+| Size            | 569 bytes                           |
+| Archived Date   | 2024-11-02 07:59:57                             |
+| Original Link   | [https://news.ifeng.com/c/7gALWr9J2H2](https://news.ifeng.com/c/7gALWr9J2H2)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国                               |
+| Date            | 2018-09-13                                 |
+| Tags            | 跨性别, 旅游安全, 犯罪事件, 社会认知, 中国游客                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

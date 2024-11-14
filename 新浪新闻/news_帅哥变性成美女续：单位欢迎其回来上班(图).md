@@ -56,18 +56,18 @@
 该文件报道了陈波的变性手术后生活情况，并对其家庭与社会的反应进行了详细描述。陈波在变性手术后的第二天出院，媒体对其康复后的生活状况表示关心。报道中提到，陈母最初对于儿子的变性感到悲痛，但经过亲友的劝慰，她逐渐接受了这一事实，认为只要孩子幸福就好。同时，陈波表现出希望成为公众人物，为变性人争取更多理解与支持的意愿。文中还引用了专家对于变性过程的看法，指出变性者需要在生理、心理上经历重大转变，并强调社会宽容的重要性。该文也提到了一些历史上知名的变性案例，展示了变性人在社会中所面对的现实与挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_帅哥变性成美女续：单位欢迎其回来上班(图).md                             |
-> | Size            | 4016 bytes                           |
-> | Archived Date   | 2024-11-02 05:08:44                             |
-> | Original Link   | [https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html](https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html)                       |
-> | Author          | 重庆晚报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2005-09-13                                 |
-> | Tags            | 跨性别, 变性手术, 社会接纳, 家庭支持, 媒体报道, 生命故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_帅哥变性成美女续：单位欢迎其回来上班(图).md                             |
+| Size            | 4016 bytes                           |
+| Archived Date   | 2024-11-02 05:08:44                             |
+| Original Link   | [https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html](https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html)                       |
+| Author          | 重庆晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-09-13                                 |
+| Tags            | 跨性别, 变性手术, 社会接纳, 家庭支持, 媒体报道, 生命故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

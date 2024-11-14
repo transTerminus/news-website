@@ -1,0 +1,8 @@
+independence: []
+ignore:
+  - '.*\.github.*'
+  - '.*\.git.*'
+  - '.*CODE_OF_CONDUCT\.md.*'
+  - '.*LICENSE.*'
+  - 'digital\.yml'
+  - 'page\.yml'

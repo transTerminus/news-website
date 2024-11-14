@@ -38,18 +38,18 @@
 本文讨论了在21号时出现的有关东方Project与Favorite合作的消息，特别强调了“男娘”这一词汇的使用。作者缘叶二次元表达了对该文案中所用“男娘”这一概念的困惑和不适，指出这一表述在中日文化差异中引发的误解。文章深入探讨了男娘在日本文化中的正常性，以及在中国文化中对此词汇的不同接受度。作者认为商家在宣传时应更加中立，以避免引起性别对立。同时，文章还评价了此次合作中服装的质量和角色的高度还原，并希望未来的文案能更好地吸引多元化受众。总体而言，这是一篇关于文化差异与性别表现之间关系的评论，旨在促进对跨性别和性别表达的更大包容性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_买cosplay的衣服，为何要强调【男娘】也能穿？_-_QQ_News.md                             |
-> | Size            | 3657 bytes                           |
-> | Archived Date   | 2024-11-08 19:46:36                             |
-> | Original Link   | [https://news.qq.com/rain/a/20240922A06RZI00](https://news.qq.com/rain/a/20240922A06RZI00)                       |
-> | Author          | 缘叶二次元                               |
-> | Region          | 湖南                               |
-> | Date            | 2024-09-22                                 |
-> | Tags            | 跨性别, 性别表达, 文化差异, 日本动漫, cosplay, 社会评论                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_买cosplay的衣服，为何要强调【男娘】也能穿？_-_QQ_News.md                             |
+| Size            | 3657 bytes                           |
+| Archived Date   | 2024-11-08 19:46:36                             |
+| Original Link   | [https://news.qq.com/rain/a/20240922A06RZI00](https://news.qq.com/rain/a/20240922A06RZI00)                       |
+| Author          | 缘叶二次元                               |
+| Region          | 湖南                               |
+| Date            | 2024-09-22                                 |
+| Tags            | 跨性别, 性别表达, 文化差异, 日本动漫, cosplay, 社会评论                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -157,18 +157,18 @@ Thep医生表示这些都很正常，很多别的诊所术后失败的患者也�
 本文介绍了泰国一位以低价提供变性手术的医生Thep Vechavisit的故事以及相关的变性医疗旅游现象。Thep医生在曼谷经营着一家变性诊所，由于手术费用相比欧美国家便宜，吸引了大量来自全球的患者。文中详细描述了手术的流程、费用，以及患者的真实感受和变化，包括手术后的生活和需求。此外，泰国的文化背景和法律环境如何影响变性手术的普及也得到了深入分析。通过分享患者的经历，展现了低成本变性手术带来的社会及经济影响，以及这些手术在医学和道德上的争议。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_一千美元安一对乃子，泰国的廉价变性手术吸引了多少老外？.md                             |
-> | Size            | 8950 bytes                           |
-> | Archived Date   | 2024-11-08 05:22:56                             |
-> | Original Link   | [https://m.163.com/dy/article/JAOLTCJM0521C2G2.html](https://m.163.com/dy/article/JAOLTCJM0521C2G2.html)                       |
-> | Author          | 未知                               |
-> | Region          | 泰国                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 变性手术, 医疗旅游, 社会环境, 性别认同, 泰国医疗, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_一千美元安一对乃子，泰国的廉价变性手术吸引了多少老外？.md                             |
+| Size            | 8950 bytes                           |
+| Archived Date   | 2024-11-08 05:22:56                             |
+| Original Link   | [https://m.163.com/dy/article/JAOLTCJM0521C2G2.html](https://m.163.com/dy/article/JAOLTCJM0521C2G2.html)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变性手术, 医疗旅游, 社会环境, 性别认同, 泰国医疗, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

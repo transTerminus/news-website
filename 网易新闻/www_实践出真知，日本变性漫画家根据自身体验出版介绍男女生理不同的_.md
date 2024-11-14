@@ -39,18 +39,18 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文介绍了一位日本变性漫画家小西真冬的经历和她出版的关于男女生理差异的漫画《从性转了解到的保健体育》。通过自身的变性手术体验，小西真冬探讨了变性者在生活中面临的挑战，特别是心理上如何适应新的性别身份，以及男性与女性在生理结构上的不同。例如，她提到女性的性高潮时间通常是男性的两倍，并详细介绍了变性手术的相关过程。此漫画不仅有趣，还具备科普意义，对于了解变性人日常生活和性别知识具有一定参考价值。此外，文中也提到了其他相关作品，如《后街女孩》，彰显了性别转换在文化表达中的多样性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_实践出真知，日本变性漫画家根据自身体验出版介绍男女生理不同的_.md                             |
-> | Size            | 3358 bytes                           |
-> | Archived Date   | 2024-11-08 05:43:24                             |
-> | Original Link   | [https://www.163.com/dy/article/DBU8035B05178QDO.html](https://www.163.com/dy/article/DBU8035B05178QDO.html)                       |
-> | Author          | 小西真冬                               |
-> | Region          | 日本                               |
-> | Date            | 2018-03-02                                 |
-> | Tags            | 变性, 漫画, 生理差异, 性别认同, 性别转换, 科普                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_实践出真知，日本变性漫画家根据自身体验出版介绍男女生理不同的_.md                             |
+| Size            | 3358 bytes                           |
+| Archived Date   | 2024-11-08 05:43:24                             |
+| Original Link   | [https://www.163.com/dy/article/DBU8035B05178QDO.html](https://www.163.com/dy/article/DBU8035B05178QDO.html)                       |
+| Author          | 小西真冬                               |
+| Region          | 日本                               |
+| Date            | 2018-03-02                                 |
+| Tags            | 变性, 漫画, 生理差异, 性别认同, 性别转换, 科普                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

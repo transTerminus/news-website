@@ -60,18 +60,18 @@ Volta Rossi是“拥有贵族血统的街头精明流氓”，抛弃了舒适的
 本文报道了即将发售的《使命召唤21：黑色行动6》游戏中的首个非二元性别角色Volta Rossi。该角色引发了大量争议，因为其性别识别并不明确，使用了‘they/them’的代词。这一设计被认为是动视公司在推动性别意识形态方面的一次尝试。文章分析了Rossi角色的背景，以及玩家对这一角色的强烈反对声音。评论区中也可以看到网友们对于非二元性别的不同看法，有支持的，也有极力反对的。整个事件反映了游戏产业在性别多样性领域的探讨和引起的社会反响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_《使命召唤21》首个非二元性别角色出现不知道是男是女_-_QQ_News.md                             |
-> | Size            | 2319 bytes                           |
-> | Archived Date   | 2024-11-08 19:51:15                             |
-> | Original Link   | [https://news.qq.com/rain/a/20241024A089S500](https://news.qq.com/rain/a/20241024A089S500)                       |
-> | Author          | 黑色玫瑰                               |
-> | Region          | 安徽                               |
-> | Date            | 2024-10-24                                 |
-> | Tags            | 跨性别, 非二元性别, 性别多样性, 游戏文化, 社会反响, 使命召唤                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_《使命召唤21》首个非二元性别角色出现不知道是男是女_-_QQ_News.md                             |
+| Size            | 2319 bytes                           |
+| Archived Date   | 2024-11-08 19:51:15                             |
+| Original Link   | [https://news.qq.com/rain/a/20241024A089S500](https://news.qq.com/rain/a/20241024A089S500)                       |
+| Author          | 黑色玫瑰                               |
+| Region          | 安徽                               |
+| Date            | 2024-10-24                                 |
+| Tags            | 跨性别, 非二元性别, 性别多样性, 游戏文化, 社会反响, 使命召唤                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

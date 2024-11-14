@@ -70,18 +70,18 @@ Poy被赞为“最美人妖皇后”之后，手术的细节照片在网络上�
 本文探讨了人类在过去40年中对跨性别的探索与理解，尤其是非男即女的二元性别观所遇到的质疑。文章引用了美国作家凯特·伯恩斯坦的著作《性别是条毛毛虫》，挑战传统性别划分，论述了跨性别者的身心分歧，以及他们对身份认同的深刻思考。内容中提到跨性别者的经历、社会压力、医疗资源的缺乏以及对手术的追求与后悔等问题。文中还提到了历史上对性别认同的理解，诸如印度的第三性别群体"海吉拉"和北美原住民的“双灵”文化，呈现了跨性别这一概念并不是现代的产物，而是扎根于深厚的文化与历史背景中。同时，文章反映了社会对跨性别者的偏见与误解，强调了性别认同问题的复杂性。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | culture_人类40年来的跨性别探索：非男即女性别观遭质疑_-_读书.md                             |
-> | Size            | 7376 bytes                           |
-> | Archived Date   | 2024-11-09 10:10:30                             |
-> | Original Link   | [https://culture.ifeng.com/yanjie/detail_2014_04/09/35591631_0.shtml](https://culture.ifeng.com/yanjie/detail_2014_04/09/35591631_0.shtml)                       |
-> | Author          | 张雪彦                               |
-> | Region          | 未知                               |
-> | Date            | 2014-04-09                                 |
-> | Tags            | 性别规范, 变性美女, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | culture_人类40年来的跨性别探索：非男即女性别观遭质疑_-_读书.md                             |
+| Size            | 7376 bytes                           |
+| Archived Date   | 2024-11-09 10:10:30                             |
+| Original Link   | [https://culture.ifeng.com/yanjie/detail_2014_04/09/35591631_0.shtml](https://culture.ifeng.com/yanjie/detail_2014_04/09/35591631_0.shtml)                       |
+| Author          | 张雪彦                               |
+| Region          | 未知                               |
+| Date            | 2014-04-09                                 |
+| Tags            | 性别规范, 变性美女, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

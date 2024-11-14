@@ -21,18 +21,18 @@
 本文报道了泰国一位变性人尤兰德（Yonlada Suanyos）成功当选为北部难府省议员的历史性事件。尤兰德在16岁时接受变性手术，转变为女性，并拥有博士学位。从事珠宝生意以及经营卫星电视台，同时担任泰国变性妇女协会主席。她在竞选过程中获得了重要支持，并表示能够当选是因为认可她能力的选民。在这次竞选中，她遇到了支持与反对的不同声音，但她认为人们对她能力的认同才是最重要的。此事件标志着泰国在政治领域跨性别人士参与的重要进展，反映出社会对跨性别人士认可度的提升。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_泰国变性人成功当选省议员自称能力受认同(图).md                             |
-> | Size            | 991 bytes                           |
-> | Archived Date   | 2024-11-08 09:48:36                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/2012/05-29/3923974.shtml](https://www.chinanews.com.cn/gj/2012/05-29/3923974.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国                               |
-> | Date            | 2012-05-29                                 |
-> | Tags            | 变性人, 选举, 政治参与, 跨性别, 社会认可, 泰国                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国变性人成功当选省议员自称能力受认同(图).md                             |
+| Size            | 991 bytes                           |
+| Archived Date   | 2024-11-08 09:48:36                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2012/05-29/3923974.shtml](https://www.chinanews.com.cn/gj/2012/05-29/3923974.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国                               |
+| Date            | 2012-05-29                                 |
+| Tags            | 变性人, 选举, 政治参与, 跨性别, 社会认可, 泰国                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

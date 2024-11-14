@@ -28,18 +28,18 @@
 这篇文章讨论了2016年墨尔本举行的澳大利亚同性恋小姐与变性人小姐选美大赛，该活动旨在支持LGBTI群体。然而，今年的赛事因将变性手术作为获奖项而引发了广泛争议。获胜者可获得去泰国进行变性手术的奖励，这一做法受到了澳大利亚医生的批评，认为将医疗手术作为比赛奖品极不负责任。文章中提到赛事创始人达沃的观点，他认为这是一种提高对变性手术认知的方式，然而也有反对声音指出，只有一小部分变性人想要接受手术，且赛事与手术的结合令人感到不安。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_出国做变性手术？澳同性恋、变性人选美赛奖品引争议.md                             |
-> | Size            | 2150 bytes                           |
-> | Archived Date   | 2024-11-08 09:59:07                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/2016/01-25/7731743.shtml](https://www.chinanews.com.cn/gj/2016/01-25/7731743.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 澳大利亚                               |
-> | Date            | 2016-01-25                                 |
-> | Tags            | 跨性别, 变性手术, 选美大赛, LGBTI, 医疗伦理, 赛事争议                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_出国做变性手术？澳同性恋、变性人选美赛奖品引争议.md                             |
+| Size            | 2150 bytes                           |
+| Archived Date   | 2024-11-08 09:59:07                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2016/01-25/7731743.shtml](https://www.chinanews.com.cn/gj/2016/01-25/7731743.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 澳大利亚                               |
+| Date            | 2016-01-25                                 |
+| Tags            | 跨性别, 变性手术, 选美大赛, LGBTI, 医疗伦理, 赛事争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

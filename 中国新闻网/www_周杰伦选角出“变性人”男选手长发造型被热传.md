@@ -42,18 +42,18 @@
 本文件来自中国新闻网，报道了2010年2月26日周杰伦在选角赛事中涉及的跨性别选手金烨的故事。金烨在赛事中以颓废的长发造型被热传，背景讲述了他为了追求音乐梦想所经历的挑战与坚持。金烨在博客中公开了自己的过往，表明了尽管遭受家庭反对，他依然选择了留长发和追求自己的音乐梦想。文中提到金烨的坚韧与信仰，并强调了他对梦想的追求和对支持者的感激。文末附有金烨的长发照片，增强了对其形象的视觉印象。此外，该报道还提到了与赛事相关的其他娱乐新闻，展示了周杰伦的影响力和相关活动的热度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_周杰伦选角出“变性人”男选手长发造型被热传.md                             |
-> | Size            | 3030 bytes                           |
-> | Archived Date   | 2024-11-08 09:22:16                             |
-> | Original Link   | [http://www.chinanews.com.cn/yl/yl-zyxw/news/2010/02-26/2140762.shtml](http://www.chinanews.com.cn/yl/yl-zyxw/news/2010/02-26/2140762.shtml)                       |
-> | Author          | 王祎                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-02-26                                 |
-> | Tags            | 跨性别, 娱乐新闻, 周杰伦, 选角赛事, 个人故事                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_周杰伦选角出“变性人”男选手长发造型被热传.md                             |
+| Size            | 3030 bytes                           |
+| Archived Date   | 2024-11-08 09:22:16                             |
+| Original Link   | [http://www.chinanews.com.cn/yl/yl-zyxw/news/2010/02-26/2140762.shtml](http://www.chinanews.com.cn/yl/yl-zyxw/news/2010/02-26/2140762.shtml)                       |
+| Author          | 王祎                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-02-26                                 |
+| Tags            | 跨性别, 娱乐新闻, 周杰伦, 选角赛事, 个人故事                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

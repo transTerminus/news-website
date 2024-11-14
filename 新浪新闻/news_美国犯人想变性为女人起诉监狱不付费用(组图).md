@@ -52,18 +52,18 @@
 该文件记录了一名美国囚犯罗伯特·科斯利科的故事，他因谋杀妻子而被判无期徒刑。科斯利科自称性别意识错位，并诉求马萨诸塞州监狱为他提供变性手术的费用。文件详细描述了他的过渡经历，包括多年来以女性身份生活、服用雌激素以及遭受的家庭暴力和社会歧视。科斯利科在诉讼中指出，长期压抑自己真实身份导致他面临极大的自杀风险，强调他需要医学上的关心和医疗支持。此案引发了关于监狱系统对跨性别囚犯的医疗责任和社会支持的辩论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美国犯人想变性为女人起诉监狱不付费用(组图).md                             |
-> | Size            | 3474 bytes                           |
-> | Archived Date   | 2024-11-02 05:29:28                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-06-19/detail-ikftssap2644022.d.html](https://news.sina.cn/sa/2006-06-19/detail-ikftssap2644022.d.html)                       |
-> | Author          | 未知                               |
-> | Region          | 美国                               |
-> | Date            | 2006-06-19                                 |
-> | Tags            | 跨性别, 医疗资源, 法律政策, 监狱系统, 性别意识, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美国犯人想变性为女人起诉监狱不付费用(组图).md                             |
+| Size            | 3474 bytes                           |
+| Archived Date   | 2024-11-02 05:29:28                             |
+| Original Link   | [https://news.sina.cn/sa/2006-06-19/detail-ikftssap2644022.d.html](https://news.sina.cn/sa/2006-06-19/detail-ikftssap2644022.d.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2006-06-19                                 |
+| Tags            | 跨性别, 医疗资源, 法律政策, 监狱系统, 性别意识, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

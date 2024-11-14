@@ -112,18 +112,18 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 这篇报道讲述了全国首例女变男的跨性别者阿刚（化名）在四川与其女友小莉（化名）领取结婚证的故事。阿刚29年前以女儿身出生，但他始终不认同自己的性别，经过多年的挣扎与痛苦，他选择进行变性手术以实现自我认同。手术成功后，阿刚获得了男性身份，并在与小莉的关系中希望能够名正言顺地走入婚姻殿堂。报道中详细描述了他们在民政局的结婚过程以及阿刚的内心独白，包括他自小以来对自己性别的困惑和与小莉的深厚感情。这一事件不仅是他们爱情的见证，也在社会上引发了关于跨性别者婚姻权利的思考和讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_全国首例女变男的变性人在四川领取结婚证(图).md                             |
-> | Size            | 10928 bytes                           |
-> | Archived Date   | 2024-11-02 04:23:08                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-31/detail-ikkntiak9012477.d.html](https://news.sina.cn/sa/2003-12-31/detail-ikkntiak9012477.d.html)                       |
-> | Author          | 四川新闻网-成都商报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2003-12-31                                 |
-> | Tags            | 跨性别, 变性人, 婚姻, 生命故事, 性别认同, 社会环境, 四川, 真实记录                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_全国首例女变男的变性人在四川领取结婚证(图).md                             |
+| Size            | 10928 bytes                           |
+| Archived Date   | 2024-11-02 04:23:08                             |
+| Original Link   | [https://news.sina.cn/sa/2003-12-31/detail-ikkntiak9012477.d.html](https://news.sina.cn/sa/2003-12-31/detail-ikkntiak9012477.d.html)                       |
+| Author          | 四川新闻网-成都商报                               |
+| Region          | 中国大陆                               |
+| Date            | 2003-12-31                                 |
+| Tags            | 跨性别, 变性人, 婚姻, 生命故事, 性别认同, 社会环境, 四川, 真实记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

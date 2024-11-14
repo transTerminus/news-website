@@ -41,18 +41,18 @@
 这篇文章报道了乔治华盛顿大学的女篮球员凯·阿伦斯（Kye Allums）申请以男性身份参加NCAA女子篮球比赛的事件。凯·阿伦斯在大一时发现自己是一个男孩，从大二开始要求使用男性代名词。尽管她出生时是女性，并且没有进行变性手术，但她希望能以男性身份征战女子篮球。学校对此表示支持，这对她非常重要。文章讨论了NCAA的规定：如果想继续参加女篮比赛，必须不接受变性手术或激素治疗，这使得凯·阿伦斯的申请变得复杂。凯·阿伦斯的情况在跨性别运动中具有重要意义，她可能成为NCAA历史上第一个跨性别参赛的球员。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | sports_NCAA女篮球员欲不变性跨性别参赛已或学校支持_-_体育.md                             |
-> | Size            | 2948 bytes                           |
-> | Archived Date   | 2024-11-07 06:45:46                             |
-> | Original Link   | [https://sports.sohu.com/20101105/n277162906.shtml](https://sports.sohu.com/20101105/n277162906.shtml)                       |
-> | Author          | 蔡锐纯                               |
-> | Region          | 美国                               |
-> | Date            | 2010-11-05                                 |
-> | Tags            | 跨性别, 体育, NCAA, 女篮球员, 性别认同, 社会支持                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sports_NCAA女篮球员欲不变性跨性别参赛已或学校支持_-_体育.md                             |
+| Size            | 2948 bytes                           |
+| Archived Date   | 2024-11-07 06:45:46                             |
+| Original Link   | [https://sports.sohu.com/20101105/n277162906.shtml](https://sports.sohu.com/20101105/n277162906.shtml)                       |
+| Author          | 蔡锐纯                               |
+| Region          | 美国                               |
+| Date            | 2010-11-05                                 |
+| Tags            | 跨性别, 体育, NCAA, 女篮球员, 性别认同, 社会支持                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

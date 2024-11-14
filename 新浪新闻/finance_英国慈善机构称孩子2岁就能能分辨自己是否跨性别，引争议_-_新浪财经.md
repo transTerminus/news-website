@@ -60,18 +60,18 @@
 本文讨论了英国一家名为“石墙（Stonewall）”的LGBT+慈善机构所发表的言论，声称两岁大的孩子能够分辨自己是否是跨性别者，这一观点在社交媒体上引发了广泛争议和反响。文章引用了多位网民和家长的观点，表达了对这一言论的疑虑和反感。一位匿名的跨性别男子分享了他女儿在幼儿园中被老师告知的性别身份引发了他的担忧，认为教师未尊重孩子的真实感受。文章还提到，该机构的观点和教育方法引起了部分政府和公共组织的关注，甚至导致中断合作，反映出社会对儿童性别教育的复杂态度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | finance_英国慈善机构称孩子2岁就能能分辨自己是否跨性别，引争议_-_新浪财经.md                             |
-> | Size            | 4389 bytes                           |
-> | Archived Date   | 2024-11-09 06:21:15                             |
-> | Original Link   | [https://finance.sina.com.cn/chanjing/cyxw/2022-07-25/doc-imizirav5368774.shtml](https://finance.sina.com.cn/chanjing/cyxw/2022-07-25/doc-imizirav5368774.shtml)                       |
-> | Author          | 李昂                               |
-> | Region          | 英国                               |
-> | Date            | 2022-07-25                                 |
-> | Tags            | 跨性别, 儿童性别认同, 社会争议, 性别教育, 英国家庭, LGBT+权益, 石墙慈善机构                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | finance_英国慈善机构称孩子2岁就能能分辨自己是否跨性别，引争议_-_新浪财经.md                             |
+| Size            | 4389 bytes                           |
+| Archived Date   | 2024-11-09 06:21:15                             |
+| Original Link   | [https://finance.sina.com.cn/chanjing/cyxw/2022-07-25/doc-imizirav5368774.shtml](https://finance.sina.com.cn/chanjing/cyxw/2022-07-25/doc-imizirav5368774.shtml)                       |
+| Author          | 李昂                               |
+| Region          | 英国                               |
+| Date            | 2022-07-25                                 |
+| Tags            | 跨性别, 儿童性别认同, 社会争议, 性别教育, 英国家庭, LGBT+权益, 石墙慈善机构                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

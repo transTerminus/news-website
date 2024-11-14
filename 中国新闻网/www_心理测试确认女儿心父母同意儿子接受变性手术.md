@@ -55,18 +55,18 @@
 本文讲述了一名少年天伦儿在云南接受变性手术的故事。他从小就认为自己是一名女孩，拥有女性的性格和气质，梦想享受女性的生活。在家人的支持下，他向医院提供了必要的心理测试和法律证明，最终获得了进行变性手术的许可。手术前，医生进行了多轮心理评估，并向天伦儿讲述了变性可能带来的身体和社会风险。天伦儿坚持进行手术，表达出对未来生活的期待和对社会接纳的渴望。此篇报道不仅记录了天伦儿的勇敢和执着，也反映了跨性别人士在追求自我认同和社会接受过程中的挑战与努力。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_心理测试确认女儿心父母同意儿子接受变性手术.md                             |
-> | Size            | 5033 bytes                           |
-> | Archived Date   | 2024-11-08 10:06:17                             |
-> | Original Link   | [https://www.chinanews.com.cn/jk/ysbb/news/2008/11-04/1437129.shtml](https://www.chinanews.com.cn/jk/ysbb/news/2008/11-04/1437129.shtml)                       |
-> | Author          | 王劲松                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2008-11-03                                 |
-> | Tags            | 跨性别, 变性手术, 性别认同, 心理健康, 社会支持, 家庭, 云南                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_心理测试确认女儿心父母同意儿子接受变性手术.md                             |
+| Size            | 5033 bytes                           |
+| Archived Date   | 2024-11-08 10:06:17                             |
+| Original Link   | [https://www.chinanews.com.cn/jk/ysbb/news/2008/11-04/1437129.shtml](https://www.chinanews.com.cn/jk/ysbb/news/2008/11-04/1437129.shtml)                       |
+| Author          | 王劲松                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-11-03                                 |
+| Tags            | 跨性别, 变性手术, 性别认同, 心理健康, 社会支持, 家庭, 云南                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

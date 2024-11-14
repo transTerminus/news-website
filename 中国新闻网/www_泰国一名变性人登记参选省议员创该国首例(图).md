@@ -20,18 +20,18 @@
 该文件报道了2012年04月25日泰国一名变性人尤兰德（Yonlada Suanyos）登记参选省议员的消息，尤兰德是泰国历史上第一位登记参加地方选举的变性人。她在16岁时接受了变性手术，现在已30岁，经营珠宝生意并管理一家卫星电视台，同时担任泰国变性妇女协会的主席。作为候选人，她希望能够参与推动地方发展。文章回顾了她的个人背景及她在政治参与方面的开创性意义，并提到尤兰德的登记是在部分其他变性人参与地方选举的背景下进行的，也突显了泰国在变性人权利和社会参与方面的进展。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_泰国一名变性人登记参选省议员创该国首例(图).md                             |
-> | Size            | 1216 bytes                           |
-> | Archived Date   | 2024-11-08 09:47:13                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/2012/04-25/3845828.shtml](https://www.chinanews.com.cn/gj/2012/04-25/3845828.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国                               |
-> | Date            | 2012-04-25                                 |
-> | Tags            | 跨性别, 泰国, 政治参与, 变性人, 社会权益, 历史性事件                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国一名变性人登记参选省议员创该国首例(图).md                             |
+| Size            | 1216 bytes                           |
+| Archived Date   | 2024-11-08 09:47:13                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2012/04-25/3845828.shtml](https://www.chinanews.com.cn/gj/2012/04-25/3845828.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国                               |
+| Date            | 2012-04-25                                 |
+| Tags            | 跨性别, 泰国, 政治参与, 变性人, 社会权益, 历史性事件                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

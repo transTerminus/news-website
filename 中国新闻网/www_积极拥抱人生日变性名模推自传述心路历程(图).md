@@ -42,18 +42,18 @@
 本文件是关于日本变性名模椿姬彩菜（Ayana Tsubaki）的一篇文章，记录了她的自传心路历程和变性经历。文章详细描述了椿姬彩菜从小到大的成长过程，揭示了她在一个传统家族中作为长子的身份所面临的社会期待和内心斗争。文中提到，她从小意识到自己的性别认同与生理性别不符，渴望成为美少女战士，喜欢穿妹妹的和服等。为追求真实自我，她在大学时期决定休学并离家出走，成为第三性公关以筹钱进行变性手术。经过艰难的过程，她终于实现了身份的转变，并在自传中阐述了对变性的痛苦和喜悦，着重强调了积极拥抱人生的态度。她希望用自己的经历去打破社会对变性人的偏见，给予同路人勇气与希望。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_积极拥抱人生日变性名模推自传述心路历程(图).md                             |
-> | Size            | 3839 bytes                           |
-> | Archived Date   | 2024-11-08 11:01:39                             |
-> | Original Link   | [https://www.chinanews.com.cn/yl/kong/news/2009/04-13/1642713.shtml](https://www.chinanews.com.cn/yl/kong/news/2009/04-13/1642713.shtml)                       |
-> | Author          | 中新网                               |
-> | Region          | 未知                               |
-> | Date            | 2009-04-13                                 |
-> | Tags            | 变性, 跨性别, 名模经历, 椿姬彩菜, 自传, 社会偏见, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_积极拥抱人生日变性名模推自传述心路历程(图).md                             |
+| Size            | 3839 bytes                           |
+| Archived Date   | 2024-11-08 11:01:39                             |
+| Original Link   | [https://www.chinanews.com.cn/yl/kong/news/2009/04-13/1642713.shtml](https://www.chinanews.com.cn/yl/kong/news/2009/04-13/1642713.shtml)                       |
+| Author          | 中新网                               |
+| Region          | 未知                               |
+| Date            | 2009-04-13                                 |
+| Tags            | 变性, 跨性别, 名模经历, 椿姬彩菜, 自传, 社会偏见, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

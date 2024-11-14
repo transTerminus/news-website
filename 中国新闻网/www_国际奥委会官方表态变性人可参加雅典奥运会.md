@@ -28,18 +28,18 @@
 本文是关于国际奥委会宣布变性人可以参加雅典奥运会的正式声明。文章中提到，国际奥委会已经设定了一套严格的标准，任何希望以新的性别参加比赛的运动员，都必须接受适当的外科手术。声明指出，变性人运动员无论是由男性转变为女性，还是由女性转变为男性，只要满足这些标准，都可以在2004年雅典奥运会中以新的性别进行报名。这一政策的出台在当时引起了广泛关注，标志着跨性别运动员参与体育赛事的一个重要里程碑。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_国际奥委会官方表态变性人可参加雅典奥运会.md                             |
-> | Size            | 1129 bytes                           |
-> | Archived Date   | 2024-11-08 09:11:55                             |
-> | Original Link   | [http://www.chinanews.com.cn/news/2004year/2004-05-18/26/437753.shtml](http://www.chinanews.com.cn/news/2004year/2004-05-18/26/437753.shtml)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2004-05-18                                 |
-> | Tags            | 跨性别, 奥运会, 国际奥委会, 运动员, 性别身份, 政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国际奥委会官方表态变性人可参加雅典奥运会.md                             |
+| Size            | 1129 bytes                           |
+| Archived Date   | 2024-11-08 09:11:55                             |
+| Original Link   | [http://www.chinanews.com.cn/news/2004year/2004-05-18/26/437753.shtml](http://www.chinanews.com.cn/news/2004year/2004-05-18/26/437753.shtml)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-05-18                                 |
+| Tags            | 跨性别, 奥运会, 国际奥委会, 运动员, 性别身份, 政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

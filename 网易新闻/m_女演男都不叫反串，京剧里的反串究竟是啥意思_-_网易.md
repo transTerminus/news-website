@@ -47,18 +47,18 @@
 本文探讨了京剧中的反串现象，明确指出反串并不是简单的男女角色互换，而是关于不同角色工种的跨越。文章中提到，京剧中的‘干旦’、‘坤生’和‘坤净’分别指代男性和女性在各自专业领域的角色扮演。同时，反串被定义为非专业行当的角色扮演，比如在老生角色中表演花旦的戏，且这种表现没有性别限制，只有行当限制。通过对京剧专业用语的解释和一些著名表演艺术家的引用，文章深化了对京剧反串的理解，挑战了对跨性别现象的普遍认知。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_女演男都不叫反串，京剧里的反串究竟是啥意思_-_网易.md                             |
-> | Size            | 1960 bytes                           |
-> | Archived Date   | 2024-11-08 05:08:39                             |
-> | Original Link   | [https://m.163.com/dy/article/E6BGI2LJ054011L3.html](https://m.163.com/dy/article/E6BGI2LJ054011L3.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2019-01-25                                 |
-> | Tags            | 京剧, 反串, 跨性别                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_女演男都不叫反串，京剧里的反串究竟是啥意思_-_网易.md                             |
+| Size            | 1960 bytes                           |
+| Archived Date   | 2024-11-08 05:08:39                             |
+| Original Link   | [https://m.163.com/dy/article/E6BGI2LJ054011L3.html](https://m.163.com/dy/article/E6BGI2LJ054011L3.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-01-25                                 |
+| Tags            | 京剧, 反串, 跨性别                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

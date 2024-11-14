@@ -44,18 +44,18 @@ Prempreeda:人们一般都是带着猎奇的心理，事实上，泰国的变性
 本文主要报道了泰国跨性别者权益活动家Prempreeda Ayutthaya在参加“拒绝恐同，从教科书开始”的新闻发布会后，对泰国变性人群体的生活现状和法律挑战的看法。Prempreeda指出，尽管泰国在亚太地区的跨性别者群体中相对开放，但变性人在合法身份、特别是身份证件性别修改方面仍面临许多问题。她分享了关于泰国变性人数量的数据，提到报告中的估计数字约为900万人，但由于社会 stigma 和歧视，很多变性人不愿意公开自己的身份。此外，Prempreeda还表达了对“人妖”这一称呼的反感，认为这种称呼是来自西方的误解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_Ayutthaya_“泰国变性人更愿意将自己定义为女性”.md                             |
-> | Size            | 2838 bytes                           |
-> | Archived Date   | 2024-11-02 07:03:38                             |
-> | Original Link   | [https://news.ifeng.com/a/20140903/41837391_0.shtml](https://news.ifeng.com/a/20140903/41837391_0.shtml)                       |
-> | Author          | 未知                               |
-> | Region          | 泰国                               |
-> | Date            | 2014-09-03                                 |
-> | Tags            | 跨性别, 泰国, Prempreeda Ayutthaya, 变性人, 法律问题, 性别认同, 社会歧视                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_Ayutthaya_“泰国变性人更愿意将自己定义为女性”.md                             |
+| Size            | 2838 bytes                           |
+| Archived Date   | 2024-11-02 07:03:38                             |
+| Original Link   | [https://news.ifeng.com/a/20140903/41837391_0.shtml](https://news.ifeng.com/a/20140903/41837391_0.shtml)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2014-09-03                                 |
+| Tags            | 跨性别, 泰国, Prempreeda Ayutthaya, 变性人, 法律问题, 性别认同, 社会歧视                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

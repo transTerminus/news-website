@@ -114,18 +114,18 @@
 该文件讲述了变性人白雨霏在完成变性手术后面临的求职困境与生活挑战。文章细致地记录了她的过渡经历，从一个名校研究生到因面试时性别与学历证书不符而旅途崎岖，经历了屡次求职受挫。由于失去收入来源，她不得不以白饭和泡饭为生，并且在绝望之际被迫在夜总会做陪酒小姐。通过这段经历，白雨霏深刻反映出了变性人在现实社会中的艰难处境。随着故事的发展，文章也提及了其他变性人面临的相似现状，如学历证明无法更改等问题，并包含了学校对于这一现象的回应。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_研究生变性后找不到工作落魄时夜总会陪酒.md                             |
-> | Size            | 11888 bytes                           |
-> | Archived Date   | 2024-11-02 06:27:41                             |
-> | Original Link   | [https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html](https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html)                       |
-> | Author          | 东方网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2012-03-22                                 |
-> | Tags            | 变性人, 求职困境, 社会问题, 生活经历, 法律政策, 医疗资源, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_研究生变性后找不到工作落魄时夜总会陪酒.md                             |
+| Size            | 11888 bytes                           |
+| Archived Date   | 2024-11-02 06:27:41                             |
+| Original Link   | [https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html](https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html)                       |
+| Author          | 东方网                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-03-22                                 |
+| Tags            | 变性人, 求职困境, 社会问题, 生活经历, 法律政策, 医疗资源, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

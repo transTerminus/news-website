@@ -32,18 +32,18 @@ Slavicsek 强调，“让坦洛林成为非二元性别感觉是正确的”。�
 本文讨论了近期《上古卷轴OL》在更新中加入非二元性别角色坦洛林的事件。该角色的添加引起了一些玩家的不满，认为这破坏了游戏的沉浸感，并表示该角色不应出现在《上古卷轴》的世界中。对此，《上古卷轴OL》的叙事导演Bill Slavicsek回应称，游戏中存在多样的性别角色是让游戏世界更真实的体现。他强调，设计这样的角色需要确保演员与角色的匹配性，因此让非二元性别演员扮演坦洛林是“极其重要”的。尽管Slavicsek对此进行了辩护，但许多网友对此反应冷淡，认为这种角色的插入更多是为了满足“政治正确”的要求，而不是出于对玩家的尊重。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_《上古卷轴OL》加LGBT角色引不满制作人回应骂声_-_网易.md                             |
-> | Size            | 2215 bytes                           |
-> | Archived Date   | 2024-11-08 05:29:12                             |
-> | Original Link   | [https://m.163.com/dy/article/JG2K2LU10526K1KN.html](https://m.163.com/dy/article/JG2K2LU10526K1KN.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, LGBT, 游戏, 角色设定, 社会反响                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_《上古卷轴OL》加LGBT角色引不满制作人回应骂声_-_网易.md                             |
+| Size            | 2215 bytes                           |
+| Archived Date   | 2024-11-08 05:29:12                             |
+| Original Link   | [https://m.163.com/dy/article/JG2K2LU10526K1KN.html](https://m.163.com/dy/article/JG2K2LU10526K1KN.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, LGBT, 游戏, 角色设定, 社会反响                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

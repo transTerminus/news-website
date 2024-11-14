@@ -71,18 +71,18 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 [版权所有]
 该文件为搜狐新闻网站撰写的专门关于中国变性人的新闻频道，汇总了多篇报道和故事，涵盖了变性人群体的多方面经历与事件。从新闻列表中可以看到，内容包括变性手术的个人故事、家庭与社会反应、婚姻生活、法律问题以及相关的社会事件。例如，新闻中提到了一位西安女子希望变性为男子的故事，以及四川地区第一位变性人迈出的重要一步。此外，也有关于变性人面临的社会歧视与挑战的记录，和在公共领域中变性人身份的不断被认可。文件为读者提供了多个角度的视野来理解和关注这一特定群体的生存状态与发展。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_中国变性人-新闻频道_-_搜狐.md                             |
-> | Size            | 7972 bytes                           |
-> | Archived Date   | 2024-11-07 03:51:18                             |
-> | Original Link   | [http://news.sohu.com/1/0504/63/subject220016329.shtml](http://news.sohu.com/1/0504/63/subject220016329.shtml)                       |
-> | Author          | 搜狐新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2004-11-17                                 |
-> | Tags            | 变性人, 跨性别, 社会新闻, 生命故事, 法律政策, 婚姻生活, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_中国变性人-新闻频道_-_搜狐.md                             |
+| Size            | 7972 bytes                           |
+| Archived Date   | 2024-11-07 03:51:18                             |
+| Original Link   | [http://news.sohu.com/1/0504/63/subject220016329.shtml](http://news.sohu.com/1/0504/63/subject220016329.shtml)                       |
+| Author          | 搜狐新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-11-17                                 |
+| Tags            | 变性人, 跨性别, 社会新闻, 生命故事, 法律政策, 婚姻生活, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

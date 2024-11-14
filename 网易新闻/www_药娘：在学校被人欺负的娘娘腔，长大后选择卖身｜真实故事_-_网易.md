@@ -82,18 +82,18 @@
 本文讲述了名为小芹的跨性别者的真实故事。小芹在成长过程中，因为性别认同的问题遭受了严重的校园欺凌和社会偏见。尽管小芹努力通过服用激素和参加群体讨论来实现性别转变，但生活的重重压力使他不得不选择性交易来筹集手术费用。文中详细描述了小芹的成长经历、性别认同挣扎及其在社会中的生存状况。通过分享会的经历，小芹不仅探讨了性别教育的重要性，还反映了跨性别者在社会中的艰难处境。故事中也提到其他跨性别者的不同经历，以及他们面对的心理和经济挑战。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_药娘：在学校被人欺负的娘娘腔，长大后选择卖身｜真实故事_-_网易.md                             |
-> | Size            | 7966 bytes                           |
-> | Archived Date   | 2024-11-08 05:49:19                             |
-> | Original Link   | [https://www.163.com/dy/article/DI2V6HCA05188DPA.html](https://www.163.com/dy/article/DI2V6HCA05188DPA.html)                       |
-> | Author          | 杜绍斐DUSHAOFEI                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2018-05-18                                 |
-> | Tags            | 跨性别, 人生故事, 医疗资源, 社会环境, 性别认同, 法律政策, 反映生存现状, 真实记录                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_药娘：在学校被人欺负的娘娘腔，长大后选择卖身｜真实故事_-_网易.md                             |
+| Size            | 7966 bytes                           |
+| Archived Date   | 2024-11-08 05:49:19                             |
+| Original Link   | [https://www.163.com/dy/article/DI2V6HCA05188DPA.html](https://www.163.com/dy/article/DI2V6HCA05188DPA.html)                       |
+| Author          | 杜绍斐DUSHAOFEI                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-05-18                                 |
+| Tags            | 跨性别, 人生故事, 医疗资源, 社会环境, 性别认同, 法律政策, 反映生存现状, 真实记录                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

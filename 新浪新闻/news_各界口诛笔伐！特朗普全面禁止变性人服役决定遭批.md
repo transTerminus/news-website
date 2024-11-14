@@ -92,18 +92,18 @@ LGBT权益组织GLAAD表示，特朗普禁止变性人参军，是对所有属�
 本文报道了美国总统特朗普在2017年7月26日通过推文宣布全面禁止变性人参军的决定，并对这一决定引发的广泛反响进行了详细描述。报道称，此决定遭到来自美国两党议员、LGBT团体、以及好莱坞明星的强烈反对。特朗普在推文中表示，此决定是为了确保军队的战斗力，不希望变性人获得额外的医疗费用。而多位政客和社会活动家指出，这一决定是对那些希望为国家服务的变性人的歧视与不公，认为应该以军队服役标准来筛选军人，而非基于性别认同。文中还引述了防长马蒂斯对决策过程的模糊回应和各方对特朗普转变立场的批评，展现了法律政策与社会环境的复杂交织。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_各界口诛笔伐！特朗普全面禁止变性人服役决定遭批.md                             |
-> | Size            | 8121 bytes                           |
-> | Archived Date   | 2024-11-02 03:37:46                             |
-> | Original Link   | [https://news.sina.cn/2017-07-27/detail-ifyinwmp0153868.d.html?from=wap](https://news.sina.cn/2017-07-27/detail-ifyinwmp0153868.d.html?from=wap)                       |
-> | Author          | 环球网                               |
-> | Region          | 美国                               |
-> | Date            | 2017-07-27                                 |
-> | Tags            | 特朗普, 变性人, 军队政策, LGBT权利, 社会批评, 医疗费用                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_各界口诛笔伐！特朗普全面禁止变性人服役决定遭批.md                             |
+| Size            | 8121 bytes                           |
+| Archived Date   | 2024-11-02 03:37:46                             |
+| Original Link   | [https://news.sina.cn/2017-07-27/detail-ifyinwmp0153868.d.html?from=wap](https://news.sina.cn/2017-07-27/detail-ifyinwmp0153868.d.html?from=wap)                       |
+| Author          | 环球网                               |
+| Region          | 美国                               |
+| Date            | 2017-07-27                                 |
+| Tags            | 特朗普, 变性人, 军队政策, LGBT权利, 社会批评, 医疗费用                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

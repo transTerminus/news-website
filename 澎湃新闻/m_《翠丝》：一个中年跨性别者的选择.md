@@ -236,18 +236,18 @@
 《翠丝》是一部中国第一部跨性别题材电影，讲述了一个中年男子大雄50岁时从身到心变成女人的故事。该影片不仅探讨了跨性别者的转变经历，也深入展示了华人家庭在面对这一变化时的复杂情感和社会反应。故事中，大雄作为一个传统的家庭男人，面对妻子、孩子及父母的不同反应，表现出家庭与个人身份之间的深刻矛盾。导演李骏硕通过这个故事，希望观众理解并接受跨性别者的心路历程，展现出对边缘群体的关怀与支持。这部影片试图打破大众对跨性别的刻板印象，特别是指向中年跨性别者的经历，突出其心理挣扎与家庭困境，呈现了其成长背景与复杂的人际关系，反映了当代华人社会的文化与家庭文化。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_《翠丝》：一个中年跨性别者的选择.md                             |
-> | Size            | 10556 bytes                           |
-> | Archived Date   | 2024-11-03 09:24:02                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_2671259](https://m.thepaper.cn/newsDetail_forward_2671259)                       |
-> | Author          | 李骏硕                               |
-> | Region          | 香港                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 电影, 家庭关系, 社会文化, 心理转变, 华人社会                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_《翠丝》：一个中年跨性别者的选择.md                             |
+| Size            | 10556 bytes                           |
+| Archived Date   | 2024-11-03 09:24:02                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_2671259](https://m.thepaper.cn/newsDetail_forward_2671259)                       |
+| Author          | 李骏硕                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 电影, 家庭关系, 社会文化, 心理转变, 华人社会                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

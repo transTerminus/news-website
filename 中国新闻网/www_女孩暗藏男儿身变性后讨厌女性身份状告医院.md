@@ -48,18 +48,18 @@
 这篇文章报道了一起关于变性手术的法律案件。故事的主人公小雪(化名)在生理上是男性，但在家庭和社会环境中一直以女性身份成长。由于手术后小雪开始对女性身份感到厌恶，并希望能恢复为男性，因而对进行手术的医院提起诉讼，索 compensation 达到170万元。文章详细描述了医院在手术过程中所依据的医学信息和小雪母亲的决定，对性别认同与医学干预之间的复杂关系进行了探讨，并提出法律风险的问题。此案件引发了对于医疗决定、性别认同及法律责任的深入思考。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_女孩暗藏男儿身变性后讨厌女性身份状告医院.md                             |
-> | Size            | 4053 bytes                           |
-> | Archived Date   | 2024-11-08 09:08:12                             |
-> | Original Link   | [http://www.chinanews.com.cn/jk/ysbb/news/2008/09-24/1392299.shtml](http://www.chinanews.com.cn/jk/ysbb/news/2008/09-24/1392299.shtml)                       |
-> | Author          | 四川新闻网-成都商报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2008-09-24                                 |
-> | Tags            | 变性手术, 法律纠纷, 性别认同, 医疗责任, 跨性别问题                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_女孩暗藏男儿身变性后讨厌女性身份状告医院.md                             |
+| Size            | 4053 bytes                           |
+| Archived Date   | 2024-11-08 09:08:12                             |
+| Original Link   | [http://www.chinanews.com.cn/jk/ysbb/news/2008/09-24/1392299.shtml](http://www.chinanews.com.cn/jk/ysbb/news/2008/09-24/1392299.shtml)                       |
+| Author          | 四川新闻网-成都商报                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-09-24                                 |
+| Tags            | 变性手术, 法律纠纷, 性别认同, 医疗责任, 跨性别问题                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

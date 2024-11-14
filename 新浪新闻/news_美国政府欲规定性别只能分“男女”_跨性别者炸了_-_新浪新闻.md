@@ -78,18 +78,18 @@
 该文件为一篇关于特朗普政府欲重新定义性别的新闻报道，指出美国政府计划在法律上仅认可“男性”和“女性”两种性别，此举引发了跨性别者的强烈抗议和反对。文件中提到美国卫生及公共服务部（HHS）的一份备忘录，提出性别定义应基于出生时的生物特征，排除了跨性别者的性别认同。这项政策的提出引发了多地示威活动，抗议者在白宫外高呼"我们不会被抹去！"，并呼吁公众参与即将到来的中期选举。文件还回顾了奥巴马政府时期的政策变化，以及这一新提案因此可能带来的影响。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_美国政府欲规定性别只能分“男女”_跨性别者炸了_-_新浪新闻.md                             |
-> | Size            | 3924 bytes                           |
-> | Archived Date   | 2024-11-09 07:28:58                             |
-> | Original Link   | [https://news.sina.cn/gj/2018-10-25/detail-ihmxrkzw2961621.d.html](https://news.sina.cn/gj/2018-10-25/detail-ihmxrkzw2961621.d.html)                       |
-> | Author          | 观察者网                               |
-> | Region          | 美国                               |
-> | Date            | 2018-10-25                                 |
-> | Tags            | 特朗普政府, 跨性别, 性别定义, LGBT, 社会运动, 法律政策, 抗议活动                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美国政府欲规定性别只能分“男女”_跨性别者炸了_-_新浪新闻.md                             |
+| Size            | 3924 bytes                           |
+| Archived Date   | 2024-11-09 07:28:58                             |
+| Original Link   | [https://news.sina.cn/gj/2018-10-25/detail-ihmxrkzw2961621.d.html](https://news.sina.cn/gj/2018-10-25/detail-ihmxrkzw2961621.d.html)                       |
+| Author          | 观察者网                               |
+| Region          | 美国                               |
+| Date            | 2018-10-25                                 |
+| Tags            | 特朗普政府, 跨性别, 性别定义, LGBT, 社会运动, 法律政策, 抗议活动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

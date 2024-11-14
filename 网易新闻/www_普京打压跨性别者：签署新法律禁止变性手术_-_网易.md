@@ -49,18 +49,18 @@
 此文件来自网易新闻，详细报道了俄罗斯总统普京最近签署的一项法律，该法律禁止跨性别者进行性别变更手术。文件中指出，新的法律将限制跨性别者在身体和法律上改变其性别的权利，剥夺他们获得与自身认同的性别相符的身份证件和权利。此外，该法律还规定性别变更会导致婚姻效力失效，并禁止跨性别者收养儿童。只有在因先天异常需要医疗干预的情况下，才可获例外。普京的这一法律反映出他对传统家庭价值观的重视，并与西方的自由价值观形成鲜明对比。文中也引用了普京的多次言论，表明他对 homosexual 和跨性别权利的反对立场。这项法律的通过引发了人们的广泛讨论，文章鼓励读者在评论区分享自己的看法，以便引发对跨性别者权利的深入探讨。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_普京打压跨性别者：签署新法律禁止变性手术_-_网易.md                             |
-> | Size            | 2513 bytes                           |
-> | Archived Date   | 2024-11-08 07:28:53                             |
-> | Original Link   | [https://www.163.com/dy/article/IATBRAQ2055633EY.html](https://www.163.com/dy/article/IATBRAQ2055633EY.html)                       |
-> | Author          | 网易                               |
-> | Region          | 俄罗斯                               |
-> | Date            | 2023-07-30                                 |
-> | Tags            | 跨性别, 法律, 俄罗斯, 普京, 人权, 社会政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_普京打压跨性别者：签署新法律禁止变性手术_-_网易.md                             |
+| Size            | 2513 bytes                           |
+| Archived Date   | 2024-11-08 07:28:53                             |
+| Original Link   | [https://www.163.com/dy/article/IATBRAQ2055633EY.html](https://www.163.com/dy/article/IATBRAQ2055633EY.html)                       |
+| Author          | 网易                               |
+| Region          | 俄罗斯                               |
+| Date            | 2023-07-30                                 |
+| Tags            | 跨性别, 法律, 俄罗斯, 普京, 人权, 社会政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

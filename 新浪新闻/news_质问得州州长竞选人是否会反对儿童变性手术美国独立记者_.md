@@ -64,18 +64,18 @@
 该文件是一篇报道，讲述了在美国得克萨斯州州长民主党候选人贝托·奥洛克的一场竞选集会上，独立记者泰勒·汉森（Tayler Hansen）因质问他对儿童变性手术的态度而遭到支持者的暴力驱离事件。事件发生在2022年11月5日，泰勒在现场高喊质问时遭到围观者的推搡和驱逐，甚至在被袭击的过程中出现了对一名坐轮椅的残疾女子的安全威胁。报道提供了关于事件的详细描述，包括支持者的反应、警方的处理以及泰勒在社交媒体上的后续反应。此事件反映了当前美国社会中关于变性儿童手术的高度争议以及支持者与反对者之间的紧张局势。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_质问得州州长竞选人是否会反对儿童变性手术美国独立记者_.md                             |
-> | Size            | 5112 bytes                           |
-> | Archived Date   | 2024-11-02 03:47:36                             |
-> | Original Link   | [https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html](https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html)                       |
-> | Author          | 观察者网                               |
-> | Region          | 美国                               |
-> | Date            | 2022-11-05                                 |
-> | Tags            | 儿童变性手术, 政治事件, 社会问题, 跨性别权利, 暴力事件, 竞选活动                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_质问得州州长竞选人是否会反对儿童变性手术美国独立记者_.md                             |
+| Size            | 5112 bytes                           |
+| Archived Date   | 2024-11-02 03:47:36                             |
+| Original Link   | [https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html](https://news.sina.cn/2022-11-05/detail-imqmmthc3411330.d.html)                       |
+| Author          | 观察者网                               |
+| Region          | 美国                               |
+| Date            | 2022-11-05                                 |
+| Tags            | 儿童变性手术, 政治事件, 社会问题, 跨性别权利, 暴力事件, 竞选活动                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

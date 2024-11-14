@@ -19,18 +19,18 @@
 本文讨论了中国演员黄海波因嫖娼事件被捕的新闻，并指出事件的女主角被媒体曝出竟是变性人，这一消息引起了网友的广泛关注和讨论。文章提到，黄海波在荧屏上以忠厚善良的形象赢得观众喜爱，而此事件的曝光使许多观众感到失望。女主角的身份被揭露后，使得事件更具戏剧性，网络评论也随之增加，展现了公众对跨性别者及其法律社会地位的复杂反应。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_传黄海波嫖娼事件女主角是变性人网友大跌眼镜.md                             |
-> | Size            | 851 bytes                           |
-> | Archived Date   | 2024-11-08 11:00:19                             |
-> | Original Link   | [https://www.chinanews.com.cn/yl/2014/05-20/6191613.shtml](https://www.chinanews.com.cn/yl/2014/05-20/6191613.shtml)                       |
-> | Author          | 当代生活报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2014-05-20                                 |
-> | Tags            | 黄海波, 嫖娼事件, 变性人, 社会反响, 跨性别者                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_传黄海波嫖娼事件女主角是变性人网友大跌眼镜.md                             |
+| Size            | 851 bytes                           |
+| Archived Date   | 2024-11-08 11:00:19                             |
+| Original Link   | [https://www.chinanews.com.cn/yl/2014/05-20/6191613.shtml](https://www.chinanews.com.cn/yl/2014/05-20/6191613.shtml)                       |
+| Author          | 当代生活报                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-05-20                                 |
+| Tags            | 黄海波, 嫖娼事件, 变性人, 社会反响, 跨性别者                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

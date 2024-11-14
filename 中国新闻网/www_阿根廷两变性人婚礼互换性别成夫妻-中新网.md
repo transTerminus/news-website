@@ -24,18 +24,18 @@
 本文记录了阿根廷两位变性人Alexis Taborda与Karen Bruselario的婚礼。故事中，Alexis原本是女性，经过变性手术后怀有八个月的身孕，而Karen原本是男性，经过变性手术成为女性。两人在一年前的示威活动中相识，最终在阿根廷国会的支持下结为夫妻。此次婚礼的举行标志着阿根廷在承认和支持跨性别婚姻方面的进步，体现了变性人追求爱情与家庭的权利和勇气。文章同时配有婚礼的图片，生动展示了这一历史时刻。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_阿根廷两变性人婚礼互换性别成夫妻-中新网.md                             |
-> | Size            | 961 bytes                           |
-> | Archived Date   | 2024-11-08 10:43:23                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2013/11-30/271222.shtml](https://www.chinanews.com.cn/tp/hd2011/2013/11-30/271222.shtml)                       |
-> | Author          | 杨彦宇                               |
-> | Region          | 阿根廷                               |
-> | Date            | 2013-11-30                                 |
-> | Tags            | 跨性别婚姻, 变性人, 阿根廷, 婚礼, 性别认同                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_阿根廷两变性人婚礼互换性别成夫妻-中新网.md                             |
+| Size            | 961 bytes                           |
+| Archived Date   | 2024-11-08 10:43:23                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2013/11-30/271222.shtml](https://www.chinanews.com.cn/tp/hd2011/2013/11-30/271222.shtml)                       |
+| Author          | 杨彦宇                               |
+| Region          | 阿根廷                               |
+| Date            | 2013-11-30                                 |
+| Tags            | 跨性别婚姻, 变性人, 阿根廷, 婚礼, 性别认同                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

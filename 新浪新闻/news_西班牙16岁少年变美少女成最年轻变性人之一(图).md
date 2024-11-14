@@ -34,18 +34,18 @@
 本文记录了一名16岁西班牙男孩变性为女孩的故事，成为世界上最年轻的变性人之一。根据报道，这名男孩通过说服家人、医生和法官，获得了变性手术的批准，手术在巴塞罗那完成。医生表示，这名男孩在手术前进行了两年的荷尔蒙治疗，并且在获准接受手术前，家人愿意为其争取权利。西班牙法律规定18岁以下人员需获得法官同意才能进行变性手术，而此案的受理标志着西班牙未成年人变性手术的一个重要里程碑。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_西班牙16岁少年变美少女成最年轻变性人之一(图).md                             |
-> | Size            | 1978 bytes                           |
-> | Archived Date   | 2024-11-02 06:14:16                             |
-> | Original Link   | [https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html](https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html)                       |
-> | Author          | 国际在线                               |
-> | Region          | 西班牙                               |
-> | Date            | 2010-01-14                                 |
-> | Tags            | 变性, 年轻, 法律, 医疗                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_西班牙16岁少年变美少女成最年轻变性人之一(图).md                             |
+| Size            | 1978 bytes                           |
+| Archived Date   | 2024-11-02 06:14:16                             |
+| Original Link   | [https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html](https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html)                       |
+| Author          | 国际在线                               |
+| Region          | 西班牙                               |
+| Date            | 2010-01-14                                 |
+| Tags            | 变性, 年轻, 法律, 医疗                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

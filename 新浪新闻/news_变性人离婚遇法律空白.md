@@ -29,18 +29,18 @@
 这篇文章讨论了变性人在离婚时遇到的法律困境。文章以四川省的变性人刘丽（化名）的故事为例，描述了她在变性手术后寻求解除婚姻关系时所面临的法律空白。刘丽在25岁时与一位女孩结婚，但在完成了变性手术并获得女性身份后，决定与妻子协议离婚。由于现行法律对变性人的婚姻状况未作出明确规定，民政部门对办理婚姻解除产生了困惑。虽然专家称变性人的结婚登记是合法有效的，但在婚姻解除和再婚的法律程序上缺乏具体指导。这篇文章反映了中国在适应跨性别权益方面的法律不足，并为类似的婚姻问题提供了探讨和借鉴。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人离婚遇法律空白.md                             |
-> | Size            | 1837 bytes                           |
-> | Archived Date   | 2024-11-02 04:22:34                             |
-> | Original Link   | [https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html](https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html)                       |
-> | Author          | 李海燕                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2003-12-30                                 |
-> | Tags            | 跨性别, 变性人, 离婚, 法律问题, 中国法律, 社会问题, 婚姻制度                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人离婚遇法律空白.md                             |
+| Size            | 1837 bytes                           |
+| Archived Date   | 2024-11-02 04:22:34                             |
+| Original Link   | [https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html](https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html)                       |
+| Author          | 李海燕                               |
+| Region          | 中国大陆                               |
+| Date            | 2003-12-30                                 |
+| Tags            | 跨性别, 变性人, 离婚, 法律问题, 中国法律, 社会问题, 婚姻制度                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

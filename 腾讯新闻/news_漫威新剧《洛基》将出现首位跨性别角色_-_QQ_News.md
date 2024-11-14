@@ -107,18 +107,18 @@
 这篇文章来自腾讯新闻，报道了漫威新剧《洛基》中将出现首位跨性别角色Sera的消息。根据报道，Sera是漫画中的一个特殊角色，尽管她是女性，但她长有男性天使的翅膀，使得她在种族中显得独特，并且是漫威漫画中罕见的跨性别角色。文章指出，该角色将在剧中担任主要配角，可能还会在未来的影片中出现。该文通过介绍Sera的背景和角色设定，强调了跨性别角色在主流媒体中的重要性与逐步增加的可见度，也反映出媒体对多样性和包容性日益增长的关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_漫威新剧《洛基》将出现首位跨性别角色_-_QQ_News.md                             |
-> | Size            | 8999 bytes                           |
-> | Archived Date   | 2024-11-08 18:47:56                             |
-> | Original Link   | [https://news.qq.com/rain/a/20200131A017LO00](https://news.qq.com/rain/a/20200131A017LO00)                       |
-> | Author          | Sir电影                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2020-01-31                                 |
-> | Tags            | 跨性别角色, 漫威, 洛基, 多样性, 社会包容性, 影视作品                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_漫威新剧《洛基》将出现首位跨性别角色_-_QQ_News.md                             |
+| Size            | 8999 bytes                           |
+| Archived Date   | 2024-11-08 18:47:56                             |
+| Original Link   | [https://news.qq.com/rain/a/20200131A017LO00](https://news.qq.com/rain/a/20200131A017LO00)                       |
+| Author          | Sir电影                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-01-31                                 |
+| Tags            | 跨性别角色, 漫威, 洛基, 多样性, 社会包容性, 影视作品                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

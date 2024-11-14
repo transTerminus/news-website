@@ -190,18 +190,18 @@
 本文讲述了王梓淇的生活故事，她是一个同时拥有男性和女性性器官的特例患者，自小在山西长大，在性别认同和社会环境中经历了巨大的心理和生理挣扎。王梓淇在认知到自身与生俱来的性别双重性后，十多年来一直在自我强化成为女性的道路上努力，经历了多次整形手术和激素治疗。她分享了关于自身经历的详细情感，包括儿时的困扰、青春期的痛苦、家庭关系的紧张及与伴侣的相处。在王梓淇的故事中，也反映了社会对性别多样性的认知不足，以及她在追求法律和医疗权益方面的无奈和坚持。文章详细描述了她为了实现女性身份而努力筹集手术费用的过程，以及最终因为重度抑郁症住进精神医院的悲剧。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | interface_34岁女子同时拥有两种性器官：做不了普通女人，是我最大的心病.md                             |
-> | Size            | 22797 bytes                           |
-> | Archived Date   | 2024-11-09 06:35:43                             |
-> | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2024-01-23%2Fdoc-inaephha3220334.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2024-01-23%2Fdoc-inaephha3220334.shtml)                       |
-> | Author          | 红星新闻                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2024-01-03                                 |
-> | Tags            | 跨性别, 性别认同, 性发育异常, 社会环境, 医疗经历, 生命故事, 法律权益                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | interface_34岁女子同时拥有两种性器官：做不了普通女人，是我最大的心病.md                             |
+| Size            | 22797 bytes                           |
+| Archived Date   | 2024-11-09 06:35:43                             |
+| Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2024-01-23%2Fdoc-inaephha3220334.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2024-01-23%2Fdoc-inaephha3220334.shtml)                       |
+| Author          | 红星新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-01-03                                 |
+| Tags            | 跨性别, 性别认同, 性发育异常, 社会环境, 医疗经历, 生命故事, 法律权益                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

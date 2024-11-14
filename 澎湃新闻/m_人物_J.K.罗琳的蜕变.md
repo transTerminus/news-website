@@ -181,18 +181,18 @@ Twitter上的回应是恶毒的；罗琳后来记得自己被称为“叛徒”�
 这篇文章详细探讨了著名作家J.K.罗琳（J.K. Rowling）的观点演变，尤其围绕她对跨性别者权利的立场展开。文章介绍了罗琳的个人历史，如何从一名备受爱戴的儿童文学作家逐渐成为争议的中心。近年来，她因公开对跨性别者的批评而受到广泛 backlash，使得她在粉丝和社会中的形象发生了剧烈变化。文章不仅涉及罗琳的政治立场和捐赠行为，还讨论了她与社交媒体的互动，以及她对跨性别权利倡导者的批评。此外，作者引用了多名公众人物和活动家的观点，展示了这一话题对社会的广泛影响，特别是对于年轻人和跨性别者的影响。随文章一起讨论的还有她的作品与个人观点间的矛盾，以及这一矛盾如何改变了人们对她及其作品的看法。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_人物_J.K.罗琳的蜕变.md                             |
-> | Size            | 19368 bytes                           |
-> | Archived Date   | 2024-11-03 08:28:23                             |
-> | Original Link   | [https://m.thepaper.cn/baijiahao_18951323](https://m.thepaper.cn/baijiahao_18951323)                       |
-> | Author          | 胡安（译）                               |
-> | Region          | 未知                               |
-> | Date            | 2022-07-11                                 |
-> | Tags            | 跨性别问题, J.K.罗琳, 社会争议, 政治立场, LGBTQ+权利                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_人物_J.K.罗琳的蜕变.md                             |
+| Size            | 19368 bytes                           |
+| Archived Date   | 2024-11-03 08:28:23                             |
+| Original Link   | [https://m.thepaper.cn/baijiahao_18951323](https://m.thepaper.cn/baijiahao_18951323)                       |
+| Author          | 胡安（译）                               |
+| Region          | 未知                               |
+| Date            | 2022-07-11                                 |
+| Tags            | 跨性别问题, J.K.罗琳, 社会争议, 政治立场, LGBTQ+权利                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

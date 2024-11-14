@@ -58,18 +58,18 @@ All 是众多吸引褒奖的变装国王之一，不仅因为他的表演，还�
 本文探讨了异装（drag）文化及其相关误解，强调了 drag 的深层次内涵与其艺术表现形式。随着 RuPaul's Drag Race 节目的流行，drag 的受欢迎程度急速上升，但与此同时也带来了关于性别与性别表现的误解。文中指出，许多人将 drag 等同于易装者，或者误认为只有男性才能进行 drag。然而，drag 实际上是对传统性别角色的夸张与重塑，是一种可以让所有性别参与的艺术形式。不同的 drag 表演者用他们独特的方式探索性别的流动性与表达，表现力并不局限于男性，更包含女性及跨性别的表现。文中借助多位 drag 表演者的经历与观点，讨论了性别、艺术与社会偏见之间的复杂关系，并呼吁对 drag 文化的更广泛理解与包容。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | fashion_揭开对异装（drag）的误解_-_时尚-_搜狐.md                             |
-> | Size            | 7722 bytes                           |
-> | Archived Date   | 2024-11-07 04:56:29                             |
-> | Original Link   | [https://fashion.sohu.com/20161025/n471296884.shtml](https://fashion.sohu.com/20161025/n471296884.shtml)                       |
-> | Author          | Jake Hall，芙颂（翻译）                               |
-> | Region          | 未知                               |
-> | Date            | 2016-10-25                                 |
-> | Tags            | Drag, 跨性别, 性别表达, 艺术                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | fashion_揭开对异装（drag）的误解_-_时尚-_搜狐.md                             |
+| Size            | 7722 bytes                           |
+| Archived Date   | 2024-11-07 04:56:29                             |
+| Original Link   | [https://fashion.sohu.com/20161025/n471296884.shtml](https://fashion.sohu.com/20161025/n471296884.shtml)                       |
+| Author          | Jake Hall，芙颂（翻译）                               |
+| Region          | 未知                               |
+| Date            | 2016-10-25                                 |
+| Tags            | Drag, 跨性别, 性别表达, 艺术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -45,18 +45,18 @@
 本文讨论了国际奥委会放宽跨性别运动员参赛资格的相关政策变化，特别是在 2016 年夏季奥运会前，国际奥委会提出的新规定将允许变性运动员无需接受变性手术即可参赛，同时缩短激素疗程的要求。这项政策的放宽旨在减少对跨性别运动员的严格限制，以确保他们在职业运动中有平等的机遇。文章提及变性运动员在历史上的参赛资格逐步得到承认，并引用了专家和相关运动员的观点，表明这一改动对跨性别群体的重要性。此外，社会对这一政策的反应如评论中的反对言论也被提及，这反映了社会对跨性别运动员参与体育比赛的不同看法。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_国际奥委会放宽变性人参赛门槛无需手术.md                             |
-> | Size            | 2441 bytes                           |
-> | Archived Date   | 2024-11-02 03:54:09                             |
-> | Original Link   | [https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html](https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html)                       |
-> | Author          | 未知                               |
-> | Region          | 台湾                               |
-> | Date            | 2016-01-25                                 |
-> | Tags            | 跨性别, 运动, 国际奥委会, 政策变化, 平等权利, 社会反应                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_国际奥委会放宽变性人参赛门槛无需手术.md                             |
+| Size            | 2441 bytes                           |
+| Archived Date   | 2024-11-02 03:54:09                             |
+| Original Link   | [https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html](https://news.sina.cn/gj/2016-01-25/detail-ifxnuwfc9460699.d.html)                       |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2016-01-25                                 |
+| Tags            | 跨性别, 运动, 国际奥委会, 政策变化, 平等权利, 社会反应                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -55,18 +55,18 @@ Karla Sofia Gascón 年轻时是一名男演员。
 这篇文章讲述了52岁的西班牙跨性别女演员Karla Sofia Gascón在2024年戛纳电影节上获得最佳女演员奖的故事。她凭借电影《艾米莉亚·佩雷斯》获奖，成为首位在戛纳电影节获得表演奖的跨性别演员。但由于她尚未进行性别重置手术，且身份证上的性别仍为男性，引发了广泛的社会争议。文章详细描述了Gascón的过渡经历，包括她在年轻时的身份、开始服用雌激素以及进行女性化手术的决策。尽管面临反对声音，她仍旧在近期的《VOGUE》杂志上登上封面，创造了历史。这篇文章不仅反映了跨性别身份在电影界的突破，也引发了对法律身份和社会认同的讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_跨性别戛纳影后登上《VOGUE》封面！.md                             |
-> | Size            | 3919 bytes                           |
-> | Archived Date   | 2024-11-08 08:13:39                             |
-> | Original Link   | [https://www.163.com/dy/article/JEP096970518BTS1.html](https://www.163.com/dy/article/JEP096970518BTS1.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2024-10-18                                 |
-> | Tags            | 跨性别, 影视, 社会争议, 媒体报道, 法律身份                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别戛纳影后登上《VOGUE》封面！.md                             |
+| Size            | 3919 bytes                           |
+| Archived Date   | 2024-11-08 08:13:39                             |
+| Original Link   | [https://www.163.com/dy/article/JEP096970518BTS1.html](https://www.163.com/dy/article/JEP096970518BTS1.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-10-18                                 |
+| Tags            | 跨性别, 影视, 社会争议, 媒体报道, 法律身份                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

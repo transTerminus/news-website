@@ -16,18 +16,18 @@
 本文报道了发生在中国成都的一起医疗事故，重点在于一名无执业证书的实习医生为一名未成年人进行了睾丸摘除手术，导致重伤。小楠，这位15岁的变性者，渴望过上女性生活，长期服用药物抑制雄性激素。通过网络认识的实习医生田某，承诺可以为小楠实施手术并在未告知其法律和医疗风险的情况下进行手术。手术后，小楠的父亲意外发现了这一情况，并向 authorities 报案。经过审讯，田某因无证行医而被批捕，事件引发了对变性手术法律和监管的讨论。文章提及了相关法律法规，强调变性手术的合法性和患者的年龄、心理评估等必要条件。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_为变性者摘除睾丸致其重伤，成都一实习医生无证行医被批捕.md                             |
-> | Size            | 1843 bytes                           |
-> | Archived Date   | 2024-11-03 08:53:42                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true](https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true)                       |
-> | Author          | 未知                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2023-09-23                                 |
-> | Tags            | 跨性别, 变性手术, 医疗事故, 法律问题, 社会环境, 未成年人                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_为变性者摘除睾丸致其重伤，成都一实习医生无证行医被批捕.md                             |
+| Size            | 1843 bytes                           |
+| Archived Date   | 2024-11-03 08:53:42                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true](https://m.thepaper.cn/newsDetail_forward_1378476?commTag=true)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-09-23                                 |
+| Tags            | 跨性别, 变性手术, 医疗事故, 法律问题, 社会环境, 未成年人                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

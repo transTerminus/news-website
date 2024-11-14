@@ -26,18 +26,18 @@
 本文讲述了一位42岁变性女性克里斯特尔·沃伦的真实故事。她曾在访谈节目中透露自己与1000名男性发生过性关系，并承认自己曾是男性（名为克里斯托弗·斯诺登），在2005年成功变性。沃伦出于对真相的诉说，提到虽然她对有些男人会激怒感觉害怕，但仍然希望能让人们了解她真正的身份，并强调她的过去已经烟消云散。报道中还提到了她在节目中的争议性对话，显示了社会对跨性别者的偏见和误解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_42岁女子自曝是变性人曾与千名男子发生性关系.md                             |
-> | Size            | 1319 bytes                           |
-> | Archived Date   | 2024-11-08 09:46:15                             |
-> | Original Link   | [https://www.chinanews.com.cn/gj/2012/02-07/3650771.shtml](https://www.chinanews.com.cn/gj/2012/02-07/3650771.shtml)                       |
-> | Author          | 国际在线                               |
-> | Region          | 未知                               |
-> | Date            | 2012-02-07                                 |
-> | Tags            | 跨性别, 变性故事, 性别认同, 性关系, 媒体报道                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_42岁女子自曝是变性人曾与千名男子发生性关系.md                             |
+| Size            | 1319 bytes                           |
+| Archived Date   | 2024-11-08 09:46:15                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2012/02-07/3650771.shtml](https://www.chinanews.com.cn/gj/2012/02-07/3650771.shtml)                       |
+| Author          | 国际在线                               |
+| Region          | 未知                               |
+| Date            | 2012-02-07                                 |
+| Tags            | 跨性别, 变性故事, 性别认同, 性关系, 媒体报道                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

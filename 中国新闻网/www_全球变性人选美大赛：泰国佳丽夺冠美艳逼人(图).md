@@ -19,18 +19,18 @@
 这篇文章报道了2017年全球变性人选美大赛的结果，强调了泰国佳丽吉拉塔亚(Jiratchaya Sirimongkolnawin)赢得2016年国际皇后小姐桂冠的消息。赛事是在泰国芭堤雅的蒂芬妮俱乐部举行，这是一场聚焦于变性人的年度盛事，自2004年以来每年举办。文章中提到吉拉塔亚从25个国家的变性选手中脱颖而出，而亚军和季军分别由巴西和委内瑞拉的选手获得，赛事实质上展示了变性人社群的多样性与才能。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_全球变性人选美大赛：泰国佳丽夺冠美艳逼人(图).md                             |
-> | Size            | 914 bytes                           |
-> | Archived Date   | 2024-11-08 10:19:12                             |
-> | Original Link   | [https://www.chinanews.com.cn/m/gj/2017/03-12/8171669.shtml](https://www.chinanews.com.cn/m/gj/2017/03-12/8171669.shtml)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 泰国                               |
-> | Date            | 2017-03-12                                 |
-> | Tags            | 变性人选美大赛, 国际皇后小姐, 跨性别, 泰国, 吉拉塔亚, 美丽与自信                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_全球变性人选美大赛：泰国佳丽夺冠美艳逼人(图).md                             |
+| Size            | 914 bytes                           |
+| Archived Date   | 2024-11-08 10:19:12                             |
+| Original Link   | [https://www.chinanews.com.cn/m/gj/2017/03-12/8171669.shtml](https://www.chinanews.com.cn/m/gj/2017/03-12/8171669.shtml)                       |
+| Author          | 中国新闻网                               |
+| Region          | 泰国                               |
+| Date            | 2017-03-12                                 |
+| Tags            | 变性人选美大赛, 国际皇后小姐, 跨性别, 泰国, 吉拉塔亚, 美丽与自信                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

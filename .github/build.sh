@@ -54,3 +54,7 @@ echo "Table of contents generated successfully!"
 # temporially workaround?
 python .github/scripts/file/add_config_from_page.py
 # why first time not successful?
+
+python .github/scripts/file/gen_search_index.py
+python .github/scripts/file/analysis_search_index.py
+echo "Search index generated successfully!"

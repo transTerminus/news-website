@@ -27,18 +27,18 @@
 这篇文章探讨了巴基斯坦变性人的生存现状，指出虽然她们常在婚礼和聚会等场合活跃，但实际上却遭受了社会的严重歧视和贫穷的困扰。文中提到，变性人在巴基斯坦被迫外出卖身谋生，唯一被社会认可的身份是作为舞者，而那些不幸者则在街头乞讨。虽然在2011年巴基斯坦最高法院宣布承认变性人的法律地位和选举权，但仍需要更多的社会认同和变化。文中提到了与其他国家对待变性人的不同态度，如泰国的开放与印尼的歧视，反映出跨国之间的文化差异和社会包容度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_巴基斯坦变性人的生存悲歌-中新网.md                             |
-> | Size            | 2247 bytes                           |
-> | Archived Date   | 2024-11-08 10:40:11                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2012/11-13/147480.shtml](https://www.chinanews.com.cn/tp/hd2011/2012/11-13/147480.shtml)                       |
-> | Author          | 李美多                               |
-> | Region          | 巴基斯坦                               |
-> | Date            | 2012-11-13                                 |
-> | Tags            | 跨性别, 生存状态, 社会歧视, 巴基斯坦, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_巴基斯坦变性人的生存悲歌-中新网.md                             |
+| Size            | 2247 bytes                           |
+| Archived Date   | 2024-11-08 10:40:11                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2012/11-13/147480.shtml](https://www.chinanews.com.cn/tp/hd2011/2012/11-13/147480.shtml)                       |
+| Author          | 李美多                               |
+| Region          | 巴基斯坦                               |
+| Date            | 2012-11-13                                 |
+| Tags            | 跨性别, 生存状态, 社会歧视, 巴基斯坦, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

@@ -95,18 +95,18 @@
 该文件是关于美国性别多样性的讨论，内容通过几个具体案例探讨了跨性别和顺性别（cisgender）人士在社会中的地位及其影響。文章首先介绍了美國性别多样性的现象，提到在同志小镇的演出互动中，女同性恋者回应了男歌手的身份声明。接下来，作者提到跨性别游泳运动员利亚·托马斯的例子，详细说明了她如何在女子游泳比赛中获胜，反映了体育中的性别争议。文章还引用了社会对跨性别运动员参赛的不同观点，以及多种性别认定的选项，探讨了现今美国关于性别认同的复杂性。文件在总结时提到，其中提及的56种性别概念“一看更让国人啼笑皆非”。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_美国性别可真多，可爱可恨更可笑cisgender_-_网易.md                             |
-> | Size            | 10735 bytes                           |
-> | Archived Date   | 2024-11-08 07:22:59                             |
-> | Original Link   | [https://www.163.com/dy/article/I6CQOI6L05561JXM.html](https://www.163.com/dy/article/I6CQOI6L05561JXM.html)                       |
-> | Author          | 网易订阅                               |
-> | Region          | 美国                               |
-> | Date            | 2023-06-04                                 |
-> | Tags            | 性别多样性, 跨性别, cisgender, 利亚·托马斯, 性别认同, 体育争议                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_美国性别可真多，可爱可恨更可笑cisgender_-_网易.md                             |
+| Size            | 10735 bytes                           |
+| Archived Date   | 2024-11-08 07:22:59                             |
+| Original Link   | [https://www.163.com/dy/article/I6CQOI6L05561JXM.html](https://www.163.com/dy/article/I6CQOI6L05561JXM.html)                       |
+| Author          | 网易订阅                               |
+| Region          | 美国                               |
+| Date            | 2023-06-04                                 |
+| Tags            | 性别多样性, 跨性别, cisgender, 利亚·托马斯, 性别认同, 体育争议                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

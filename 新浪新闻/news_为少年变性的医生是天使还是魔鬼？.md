@@ -38,18 +38,18 @@
 本文讨论了一起发生在中国成都的变性手术案例，重点聚焦于未成年人接受变性手术的合法性和伦理问题。案件中，一名未成年人在未取得必要审批程序和医师执业资格的情况下，接受了一位实习医生进行的睾丸摘除手术，导致二级重伤。这一事件引发了对变性手术程序的广泛探讨，特别是对未成年人的变性手术是否合法以及医生的专业资格和伦理责任。文章指出，医师理应具备丰富的临床经验和资质，该医生的行为不仅违反了医疗法规，也给年轻患者及其家人带来了深远的影响。同时也强调了社会对变性人及变性手术的理解亟待提高，呼吁对未成年人的变性手术持谨慎态度。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_为少年变性的医生是天使还是魔鬼？.md                             |
-> | Size            | 4229 bytes                           |
-> | Archived Date   | 2024-11-02 03:33:09                             |
-> | Original Link   | [https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html](https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html)                       |
-> | Author          | 红网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2022-09-25                                 |
-> | Tags            | 跨性别, 变性手术, 医学伦理, 未成年人, 法律问题, 社会关注                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_为少年变性的医生是天使还是魔鬼？.md                             |
+| Size            | 4229 bytes                           |
+| Archived Date   | 2024-11-02 03:33:09                             |
+| Original Link   | [https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html](https://news.sina.cn/2015-09-25/detail-ifxiehns3198670.d.html)                       |
+| Author          | 红网                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-09-25                                 |
+| Tags            | 跨性别, 变性手术, 医学伦理, 未成年人, 法律问题, 社会关注                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

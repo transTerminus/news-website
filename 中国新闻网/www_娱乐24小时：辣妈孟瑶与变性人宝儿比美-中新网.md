@@ -33,18 +33,18 @@
 这篇文章不仅展示了该电影的明星阵容，还展现了跨性别者在文化艺术活动中的参与和认可程度，体现了社会对多元性别的接受与支持。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_娱乐24小时：辣妈孟瑶与变性人宝儿比美-中新网.md                             |
-> | Size            | 1084 bytes                           |
-> | Archived Date   | 2024-11-08 10:44:47                             |
-> | Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2014/05-15/347872.shtml](https://www.chinanews.com.cn/tp/hd2011/2014/05-15/347872.shtml)                       |
-> | Author          | 周维                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2014-05-15                                 |
-> | Tags            | 跨性别, 娱乐, 电影, 天津, 泰国, 文化艺术                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_娱乐24小时：辣妈孟瑶与变性人宝儿比美-中新网.md                             |
+| Size            | 1084 bytes                           |
+| Archived Date   | 2024-11-08 10:44:47                             |
+| Original Link   | [https://www.chinanews.com.cn/tp/hd2011/2014/05-15/347872.shtml](https://www.chinanews.com.cn/tp/hd2011/2014/05-15/347872.shtml)                       |
+| Author          | 周维                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-05-15                                 |
+| Tags            | 跨性别, 娱乐, 电影, 天津, 泰国, 文化艺术                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

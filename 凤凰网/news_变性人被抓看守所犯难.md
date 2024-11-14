@@ -29,18 +29,18 @@
 本文讨论了一位在长沙的变性男子因盗窃被捕的案例，描述了他对钢管舞的热爱以及因进行变性手术后所遭遇的身体和心理后遗症。该男子希望通过盗窃来筹集资金，以便再次进行手术。因应其特殊情况，看守所决定对他进行单独关押，并派女医师进行治疗和心理辅导。最终，该男子被取保候审，此案例引发了对跨性别人士在法律及社会环境中的复杂处境的关注。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_变性人被抓看守所犯难.md                             |
-> | Size            | 1172 bytes                           |
-> | Archived Date   | 2024-11-02 06:53:34                             |
-> | Original Link   | [https://news.ifeng.com/a/20140521/40384553_0.shtml](https://news.ifeng.com/a/20140521/40384553_0.shtml)                       |
-> | Author          | 潇湘晨报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2014-05-21                                 |
-> | Tags            | 变性人, 看守所, 心理辅导, 取保候审, 法律政策, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人被抓看守所犯难.md                             |
+| Size            | 1172 bytes                           |
+| Archived Date   | 2024-11-02 06:53:34                             |
+| Original Link   | [https://news.ifeng.com/a/20140521/40384553_0.shtml](https://news.ifeng.com/a/20140521/40384553_0.shtml)                       |
+| Author          | 潇湘晨报                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-05-21                                 |
+| Tags            | 变性人, 看守所, 心理辅导, 取保候审, 法律政策, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

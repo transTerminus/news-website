@@ -184,18 +184,18 @@ You need to enable JavaScript to run this app.
 本文内容链接到了一个错误的页面，未能找到与泰国及中国跨性别文化相关的信息。文章题目询问了中国的跨性别者（常被称为‘人妖’）的历史起源，但由于404错误，无法提供具体的信息或历史事件的细节。可能原本意在考察中国历史上跨性别者的社会角色、文化认可度以及与泰国文化中的跨性别者的相关性。尽管附件化信息与文章主题相关，但具体内容未能得到展示。内容引用了一些当前新闻事件，显示出时代背景，但对跨性别议题的探讨则完全失效。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | view_都知道泰国有“人妖”，那么，中国“人妖”最早出现在什么时候？.md                             |
-> | Size            | 6644 bytes                           |
-> | Archived Date   | 2024-11-08 19:53:39                             |
-> | Original Link   | [https://view.inews.qq.com/a/20200717A0L3PZ00](https://view.inews.qq.com/a/20200717A0L3PZ00)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 文化研究, 人妖, 历史, 社会问题, 未找到内容                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | view_都知道泰国有“人妖”，那么，中国“人妖”最早出现在什么时候？.md                             |
+| Size            | 6644 bytes                           |
+| Archived Date   | 2024-11-08 19:53:39                             |
+| Original Link   | [https://view.inews.qq.com/a/20200717A0L3PZ00](https://view.inews.qq.com/a/20200717A0L3PZ00)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 文化研究, 人妖, 历史, 社会问题, 未找到内容                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

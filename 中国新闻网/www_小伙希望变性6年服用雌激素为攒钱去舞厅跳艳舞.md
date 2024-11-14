@@ -43,18 +43,18 @@
 本文讲述了26岁的小文的变性经历与生存现状。小文希望能通过注射雌性激素来实现心灵上的女性身份，尽管这些药物对身体的改变有限，但给予了她鼓励。小文的梦想是攒够钱进行一次彻底的变性手术，以成为真正的女孩。她的故事折射出不少跨性别者面临的生存压力与社会歧视，尤其在就业和社交方面的困难。小文提到，周围有许多相似经历的变性朋友，他们同样面临找工作、组建家庭等现实困境，生活充满了辛酸与无奈。小文的目标十分明确——在今年之内实现变性的愿望。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_小伙希望变性6年服用雌激素为攒钱去舞厅跳艳舞.md                             |
-> | Size            | 3738 bytes                           |
-> | Archived Date   | 2024-11-08 10:07:11                             |
-> | Original Link   | [https://www.chinanews.com.cn/life/news/2010/03-12/2165149.shtml](https://www.chinanews.com.cn/life/news/2010/03-12/2165149.shtml)                       |
-> | Author          | 广州日报                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-03-12                                 |
-> | Tags            | 跨性别, 变性故事, 雌激素, 社会歧视, 生存现状, 医疗经验, 法律政策                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_小伙希望变性6年服用雌激素为攒钱去舞厅跳艳舞.md                             |
+| Size            | 3738 bytes                           |
+| Archived Date   | 2024-11-08 10:07:11                             |
+| Original Link   | [https://www.chinanews.com.cn/life/news/2010/03-12/2165149.shtml](https://www.chinanews.com.cn/life/news/2010/03-12/2165149.shtml)                       |
+| Author          | 广州日报                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-03-12                                 |
+| Tags            | 跨性别, 变性故事, 雌激素, 社会歧视, 生存现状, 医疗经验, 法律政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

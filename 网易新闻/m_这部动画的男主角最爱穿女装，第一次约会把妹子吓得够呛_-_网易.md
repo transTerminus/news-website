@@ -43,18 +43,18 @@
 这篇文章讨论了关于日本动画《埃罗芒阿老师》第8话及其相关的文化现象，文中提到了一些与动画无关但反映网络现状的故事，比如网络用户的虚假自夸。此外，文中也涉及了4月春季番剧的人气声优投票结果，以及即将播出的与性别表达相关的动画《裙子里面是野兽》。该文通过动画作品展示了跨性别与性别表达的不同侧面，同时引发了关于社会文化及网络现象的讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_这部动画的男主角最爱穿女装，第一次约会把妹子吓得够呛_-_网易.md                             |
-> | Size            | 5239 bytes                           |
-> | Archived Date   | 2024-11-08 05:04:25                             |
-> | Original Link   | [https://m.163.com/dy/article/CLCPHB5C0515AGID.html](https://m.163.com/dy/article/CLCPHB5C0515AGID.html)                       |
-> | Author          | 网易新闻·网易号“各有态度”签约作者                               |
-> | Region          | 中国大陆                               |
-> | Date            | 未知                                 |
-> | Tags            | 跨性别, 动画, 文化现象, 网络讨论, 声优投票, 性别表达                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_这部动画的男主角最爱穿女装，第一次约会把妹子吓得够呛_-_网易.md                             |
+| Size            | 5239 bytes                           |
+| Archived Date   | 2024-11-08 05:04:25                             |
+| Original Link   | [https://m.163.com/dy/article/CLCPHB5C0515AGID.html](https://m.163.com/dy/article/CLCPHB5C0515AGID.html)                       |
+| Author          | 网易新闻·网易号“各有态度”签约作者                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 动画, 文化现象, 网络讨论, 声优投票, 性别表达                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

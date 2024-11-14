@@ -73,18 +73,18 @@
 该文件探讨了变性人和人妖之间的区别，以及变性人的寿命和健康状况。文章指出，虽然人妖通常使用雌性激素以维持女性外表，但由于身体机能受到严重干扰，其寿命通常较短，大约在40岁左右。与此不同，经过手术的变性人若术后生活规范，其寿命与普通人相似。然而，长期服用激素和一些不良生活习惯可能导致变性人寿命的缩短。文件还提到变性手术需要巨大的精神和经济条件，并探讨了社会对变性人的误解和偏见。此内容旨在提升人们对变性人生活状况的关注和理解。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_变性人能活多久_变性人和人妖有什么区别_-_网易.md                             |
-> | Size            | 4094 bytes                           |
-> | Archived Date   | 2024-11-08 06:38:49                             |
-> | Original Link   | [https://www.163.com/dy/article/GKLM35C30511NLQ0.html](https://www.163.com/dy/article/GKLM35C30511NLQ0.html)                       |
-> | Author          | 红叶奇说                               |
-> | Region          | 未知                               |
-> | Date            | 2021-09-24                                 |
-> | Tags            | 跨性别, 变性人, 人妖, 寿命, 医疗, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人能活多久_变性人和人妖有什么区别_-_网易.md                             |
+| Size            | 4094 bytes                           |
+| Archived Date   | 2024-11-08 06:38:49                             |
+| Original Link   | [https://www.163.com/dy/article/GKLM35C30511NLQ0.html](https://www.163.com/dy/article/GKLM35C30511NLQ0.html)                       |
+| Author          | 红叶奇说                               |
+| Region          | 未知                               |
+| Date            | 2021-09-24                                 |
+| Tags            | 跨性别, 变性人, 人妖, 寿命, 医疗, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

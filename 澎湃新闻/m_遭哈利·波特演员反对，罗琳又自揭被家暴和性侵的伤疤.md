@@ -253,18 +253,18 @@ JK·罗琳是少数站出来支持Maya的名人，她发推说：
 该文件探讨了JK·罗琳在社交媒体上发表与跨性别者话题相关的言论所引发的巨大争议。罗琳以她作为一名性侵和家暴幸存者的身份首次公开了自己的经历，并表示对此议题的关注是出于对女性安全的担忧。在她的一系列推文中，罗琳对跨性别者的定义和身份提出质疑，并引发了包括哈利·波特系列演员在内的众多公众人物的强烈反对和抗议。他们认为她的言论伤害了广大的跨性别社区。文件中还提到了一些法律和社会环境的背景，例如英国对跨性别者的法律定义和相关政策的辩论，突出显示了围绕跨性别者权利的分歧与争论。这是一篇重要的社会文化分析，涉及性别认同、社会接受度，以及如何在社会中安全地理解和支持各类身份的成年人。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | m_遭哈利·波特演员反对，罗琳又自揭被家暴和性侵的伤疤.md                             |
-> | Size            | 15112 bytes                           |
-> | Archived Date   | 2024-11-03 09:43:25                             |
-> | Original Link   | [https://m.thepaper.cn/newsDetail_forward_7826142](https://m.thepaper.cn/newsDetail_forward_7826142)                       |
-> | Author          | Lens WeLens                               |
-> | Region          | 未知                               |
-> | Date            | 2023-06-07                                 |
-> | Tags            | 跨性别, JK·罗琳, 社会争议, 性别认同, 女性权利, 法律政策, 家暴, 性侵                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_遭哈利·波特演员反对，罗琳又自揭被家暴和性侵的伤疤.md                             |
+| Size            | 15112 bytes                           |
+| Archived Date   | 2024-11-03 09:43:25                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_7826142](https://m.thepaper.cn/newsDetail_forward_7826142)                       |
+| Author          | Lens WeLens                               |
+| Region          | 未知                               |
+| Date            | 2023-06-07                                 |
+| Tags            | 跨性别, JK·罗琳, 社会争议, 性别认同, 女性权利, 法律政策, 家暴, 性侵                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

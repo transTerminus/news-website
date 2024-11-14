@@ -48,18 +48,18 @@
 该文件报道了一名韩国军人边某在接受变性手术后被强制退伍的事件及其后续影响。边某曾在韩国军队服役，归队后希望以女性身份继续服役，但因身体变化被军方判定为身心障碍，决定强制退役。边某在变性手术后经历了心理健康问题，最终被发现死于家中，警方正在调查其死因。报道提到边某与精神健康中心的联系及其曾经的自杀未遂经历，反映出跨性别人士在军事与社会环境中面临的挑战与困境。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_韩国军人出国变性后被强制退伍意外死于家中.md                             |
-> | Size            | 2185 bytes                           |
-> | Archived Date   | 2024-11-02 04:03:27                             |
-> | Original Link   | [https://news.sina.cn/gj/2021-03-04/detail-ikftssaq0786618.d.html](https://news.sina.cn/gj/2021-03-04/detail-ikftssaq0786618.d.html)                       |
-> | Author          | 海外网                               |
-> | Region          | 韩国                               |
-> | Date            | 2021-03-04                                 |
-> | Tags            | 跨性别, 军人, 退伍, 变性手术, 心理健康, 社会环境, 死亡事件                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_韩国军人出国变性后被强制退伍意外死于家中.md                             |
+| Size            | 2185 bytes                           |
+| Archived Date   | 2024-11-02 04:03:27                             |
+| Original Link   | [https://news.sina.cn/gj/2021-03-04/detail-ikftssaq0786618.d.html](https://news.sina.cn/gj/2021-03-04/detail-ikftssaq0786618.d.html)                       |
+| Author          | 海外网                               |
+| Region          | 韩国                               |
+| Date            | 2021-03-04                                 |
+| Tags            | 跨性别, 军人, 退伍, 变性手术, 心理健康, 社会环境, 死亡事件                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

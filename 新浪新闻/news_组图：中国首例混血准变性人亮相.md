@@ -30,18 +30,18 @@
 该文件报道了中国首例混血准变性人白露（艺名）于2006年8月17日在无锡首次亮相的事件。白露的父亲是俄罗斯人，母亲是新疆维吾尔族人。根据报道，白露已于8月2日在太原完成了首期手术，计划进行四个阶段的手术，第一阶段为身体女性化手术，之后是变性手术、面部女性化手术以及女性外器官造型手术。这一事件标志着中国在跨性别医疗与社会认同方面的重要进展，同时引发了社会各界的广泛关注与讨论。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_组图：中国首例混血准变性人亮相.md                             |
-> | Size            | 1045 bytes                           |
-> | Archived Date   | 2024-11-02 05:36:51                             |
-> | Original Link   | [https://news.sina.cn/sa/2006-08-17/detail-ikftssap2702762.d.html](https://news.sina.cn/sa/2006-08-17/detail-ikftssap2702762.d.html)                       |
-> | Author          | 中国新闻网                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2006-08-17                                 |
-> | Tags            | 跨性别手术, 混血准变性人, 社会认同, 医疗资源, 中国新闻                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_组图：中国首例混血准变性人亮相.md                             |
+| Size            | 1045 bytes                           |
+| Archived Date   | 2024-11-02 05:36:51                             |
+| Original Link   | [https://news.sina.cn/sa/2006-08-17/detail-ikftssap2702762.d.html](https://news.sina.cn/sa/2006-08-17/detail-ikftssap2702762.d.html)                       |
+| Author          | 中国新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-08-17                                 |
+| Tags            | 跨性别手术, 混血准变性人, 社会认同, 医疗资源, 中国新闻                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

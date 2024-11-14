@@ -46,18 +46,18 @@
 该文件记录了全国首例女变男的变性人阿刚在四川领取结婚证的故事。阿刚于1975年出生，原为女性，长期对自己的生理性别感到困惑并努力寻求身份认同，最终通过变性手术转变成为男性。故事详细描述了阿刚的成长经历，他在探索性别认同过程中的内心挣扎，以及对爱情的坚定追求。2003年，他与爱侣小莉共同走入婚姻殿堂，通过结婚登记来确立他们的关系，这一过程既充满了挑战，也体现出了爱与勇气的结合。该故事展示了跨性别者在获得法律认可和家庭支持过程中的艰辛及成功。以此为背景，文件传达了对于身份认同、爱情和家庭承诺的深刻思考。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_全国首例女变男的变性人在四川领取结婚证.md                             |
-> | Size            | 6910 bytes                           |
-> | Archived Date   | 2024-11-02 04:23:44                             |
-> | Original Link   | [https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html](https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html)                       |
-> | Author          | 鲁中晨报                               |
-> | Region          | 四川, 中国                               |
-> | Date            | 2004-01-03                                 |
-> | Tags            | 跨性别, 变性人, 结婚证, 身份认同, 爱情故事, 社会环境                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_全国首例女变男的变性人在四川领取结婚证.md                             |
+| Size            | 6910 bytes                           |
+| Archived Date   | 2024-11-02 04:23:44                             |
+| Original Link   | [https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html](https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html)                       |
+| Author          | 鲁中晨报                               |
+| Region          | 四川, 中国                               |
+| Date            | 2004-01-03                                 |
+| Tags            | 跨性别, 变性人, 结婚证, 身份认同, 爱情故事, 社会环境                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

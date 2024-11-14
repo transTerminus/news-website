@@ -51,18 +51,18 @@
 这篇文章盘点了二次元文化中十大具有代表性的伪娘角色，探讨了伪娘在动漫和次文化中的重要性与魅力。文章详细介绍了每个角色的出处和特点，例如《笨蛋测试召唤兽》中的木下秀吉因其俊美的外貌被称为伪娘，而《刀剑神域》中的桐人女装造型则显得异常可爱。伪娘角色不仅以其精美的外形吸引观众，也在作品中展现了丰富的性别表达和文化内涵。文章还提到，伪娘现象在二次元文化中有悠久的历史，即使在各类角色设定中也常常带有幽默和讽刺的成分，反映了当前社会对性别和身份认同的不断探索。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | www_画女硬说男！盘点二次元中十大具有代表性的伪娘角色_-_网易.md                             |
-> | Size            | 4467 bytes                           |
-> | Archived Date   | 2024-11-08 05:42:02                             |
-> | Original Link   | [https://www.163.com/dy/article/DA2EJ3U60515HBI3.html](https://www.163.com/dy/article/DA2EJ3U60515HBI3.html)                       |
-> | Author          | 未知                               |
-> | Region          | 未知                               |
-> | Date            | 2018-02-07                                 |
-> | Tags            | 跨性别角色, 伪娘角色, 二次元文化, 动漫, 性别表达                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_画女硬说男！盘点二次元中十大具有代表性的伪娘角色_-_网易.md                             |
+| Size            | 4467 bytes                           |
+| Archived Date   | 2024-11-08 05:42:02                             |
+| Original Link   | [https://www.163.com/dy/article/DA2EJ3U60515HBI3.html](https://www.163.com/dy/article/DA2EJ3U60515HBI3.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2018-02-07                                 |
+| Tags            | 跨性别角色, 伪娘角色, 二次元文化, 动漫, 性别表达                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

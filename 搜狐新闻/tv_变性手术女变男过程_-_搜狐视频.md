@@ -48,18 +48,18 @@
 该文件是关于变性手术的女性到男性的过程的报道，内容源自搜狐视频。文中详细描述了变性手术的各个环节，包括手术前的准备、临床操作以及术后的恢复情况。文章旨在普及变性手术的相关医学知识，为有意向进行手术的人提供资讯和指导。发布于2013年4月18日，由为萍鑫动团队制作，强调了医疗常识和健康信息的传播。这是一个健康视频，适合希望了解变性手术过程或对跨性别议题感兴趣的观众。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | tv_变性手术女变男过程_-_搜狐视频.md                             |
-> | Size            | 1271 bytes                           |
-> | Archived Date   | 2024-11-07 07:02:22                             |
-> | Original Link   | [https://tv.sohu.com/v/dXMvNjMyODY2MDAvNTQ0NzA5OTUuc2h0bWw=.html](https://tv.sohu.com/v/dXMvNjMyODY2MDAvNTQ0NzA5OTUuc2h0bWw=.html)                       |
-> | Author          | 为萍鑫动                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2013-04-18                                 |
-> | Tags            | 变性手术, 医疗资源, 跨性别, 健康视频, 医学科普                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | tv_变性手术女变男过程_-_搜狐视频.md                             |
+| Size            | 1271 bytes                           |
+| Archived Date   | 2024-11-07 07:02:22                             |
+| Original Link   | [https://tv.sohu.com/v/dXMvNjMyODY2MDAvNTQ0NzA5OTUuc2h0bWw=.html](https://tv.sohu.com/v/dXMvNjMyODY2MDAvNTQ0NzA5OTUuc2h0bWw=.html)                       |
+| Author          | 为萍鑫动                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-04-18                                 |
+| Tags            | 变性手术, 医疗资源, 跨性别, 健康视频, 医学科普                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >

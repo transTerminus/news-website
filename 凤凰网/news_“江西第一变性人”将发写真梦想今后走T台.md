@@ -41,18 +41,18 @@
 本文报道了“江西第一变性人”申清清的故事，她在经历了长时间的手术和心路历程后，终于实现了自己的变性梦想，成为了一名女性。文章详细描述了申清清在获取女性身份的过程中的勇敢和坚持，以及她对未来的期望。她计划发行自己的个人写真集，并希望能在T台上展示自己的风采。申清清分享了对变性人的态度，认为变性人有权利追求自己的生活，社会应当容忍并接受变性人的存在。整篇文章不仅传达了她个人的经历，还引发了社会对变性人群体的关注和思考。
 <!-- tcd_abstract_end -->
 
-> 附加信息 [Processed Page Metadata]
->
-> | Attribute       | Value                                  |
-> |-----------------|----------------------------------------|
-> | Filename        | news_“江西第一变性人”将发写真梦想今后走T台.md                             |
-> | Size            | 2280 bytes                           |
-> | Archived Date   | 2024-11-02 07:54:42                             |
-> | Original Link   | [https://news.ifeng.com/c/7fYvyOxZOhw](https://news.ifeng.com/c/7fYvyOxZOhw)                       |
-> | Author          | 董雷 实习生 张璐                               |
-> | Region          | 中国大陆                               |
-> | Date            | 2010-09-08                                 |
-> | Tags            | 跨性别, 变性人, 个人故事, 时尚, 社会接受, 女性身份, 人生经历                                 |
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_“江西第一变性人”将发写真梦想今后走T台.md                             |
+| Size            | 2280 bytes                           |
+| Archived Date   | 2024-11-02 07:54:42                             |
+| Original Link   | [https://news.ifeng.com/c/7fYvyOxZOhw](https://news.ifeng.com/c/7fYvyOxZOhw)                       |
+| Author          | 董雷 实习生 张璐                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-09-08                                 |
+| Tags            | 跨性别, 变性人, 个人故事, 时尚, 社会接受, 女性身份, 人生经历                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 >
