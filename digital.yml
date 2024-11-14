@@ -6,3 +6,4 @@ ignore:
   - '.*LICENSE.*'
   - 'digital\.yml'
   - 'page\.yml'
+  - 'search_index\.yml'

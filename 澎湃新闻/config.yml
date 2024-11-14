@@ -1707,11 +1707,4 @@ files:
   size: 22145
   md5: fe11469536c9d2a7fdee935c59462cb5
   page: m_黄仕忠︱畸零杂记（二）：钦义婶婶_专栏.md
-- name: page
-  filename: page.yml
-  type: other
-  format: Unknown Format
-  size: 131045
-  md5: 803ffdb41948d4704d515ba7cbb97ed6
-  page: null
 subdirs: []

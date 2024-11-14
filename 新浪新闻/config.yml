@@ -3324,13 +3324,6 @@ files:
   size: 1461
   md5: 23ec335ae1100742c7869efff46dec5e
   page: news_马来“变性美女”嫁给帅哥(图).md
-- name: page
-  filename: page.yml
-  type: other
-  format: Unknown Format
-  size: 265964
-  md5: d509f8edf3563f3c8681696ab71f2680
-  page: null
 - name: sinanews_一觉醒来变性了怎么办？这些大学生也太敢想了_-_新浪
   filename: sinanews_一觉醒来变性了怎么办？这些大学生也太敢想了_-_新浪.md
   type: webpage

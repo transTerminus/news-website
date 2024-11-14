@@ -4,30 +4,29 @@
 
 ## 网站
 
-- [主站点与文档存档库: digital.transchinese.org](https://digital.transchinese.org)
+- [主站点与精品文档存档库: digital.transchinese.org](https://digital.transchinese.org)
 - [新闻网页存档与资料库: news.transchinese.org](https://news.transchinese.org)
+- [性转相关漫画存档库: comic.transchinese.org](https://comic.transchinese.org)
+- [变身文学与小说存档库（剧情向，非限制级）: novel.transchinese.org](https://novel.transchinese.org)
+- [变身文学与小说存档库（限制级）: snovel.transchinese.org](https://snovel.transchinese.org)
 
 ## 目录
 
 根目录，按照内容与来源分类
 
-
-总计 2022 篇内容
-
+总计 2015 篇内容
 
 ### 📁 子目录
 
-- [中国新闻网](中国新闻网) (243 篇内容)
-- [凤凰网](凤凰网) (310 篇内容)
-- [搜狐新闻](搜狐新闻) (393 篇内容)
-- [新浪新闻](新浪新闻) (499 篇内容)
-- [澎湃新闻](澎湃新闻) (243 篇内容)
-- [网易新闻](网易新闻) (228 篇内容)
-- [腾讯新闻](腾讯新闻) (106 篇内容)
-
+- [中国新闻网](中国新闻网) (242 篇内容)
+- [凤凰网](凤凰网) (309 篇内容)
+- [搜狐新闻](搜狐新闻) (392 篇内容)
+- [新浪新闻](新浪新闻) (498 篇内容)
+- [澎湃新闻](澎湃新闻) (242 篇内容)
+- [网易新闻](网易新闻) (227 篇内容)
+- [腾讯新闻](腾讯新闻) (105 篇内容)
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
-
 
 ## LICENSE
 

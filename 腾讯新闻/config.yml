@@ -705,13 +705,6 @@ files:
   size: 11181
   md5: 388dab5183875f85d5bdd09e95953e75
   page: news_马斯克：儿子变性后已经“死了”-腾讯新闻.md
-- name: page
-  filename: page.yml
-  type: other
-  format: Unknown Format
-  size: 59012
-  md5: 68d33e077b95b7c93c5929876055d278
-  page: null
 - name: view_不被理解的跨性别医生：被家长投诉“带坏孩子”，诊室时有冲突
   filename: view_不被理解的跨性别医生：被家长投诉“带坏孩子”，诊室时有冲突.md
   type: webpage
