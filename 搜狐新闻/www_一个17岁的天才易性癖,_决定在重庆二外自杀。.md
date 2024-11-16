@@ -1,5 +1,8 @@
 # 一个17岁的天才易性癖, 决定在重庆二外自杀。
 
+## 正文 { data-search-exclude }
+
+
 2020-09-27 17:07 来源: [中国心理咨询师成长联盟.](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730984572533b1qBme5)
 
 ![](http://p4.itc.cn/q_70/images03/20200929/7db2aa09d57e410fb36a8dfab6b875a9.png)

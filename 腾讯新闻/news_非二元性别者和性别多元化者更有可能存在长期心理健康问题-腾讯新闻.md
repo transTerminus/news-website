@@ -1,5 +1,8 @@
 # 英国研究 | 跨性别者、非二元性别者和性别多元化者更有可能存在长期心理健康问题
 
+## 正文 { data-search-exclude }
+
+
 来源: [柳叶刀The Lancet](https://news.qq.com/omn/author/8QMd33tb6YwUvDvc)  
 时间: 2024-02-22 17:00发布于北京柳叶刀The Lancet官方账号
 

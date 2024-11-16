@@ -1,5 +1,8 @@
 # 过去一年，这些宝藏展览、书籍和艺术家，你PICK到了吗？
 
+## 正文 { data-search-exclude }
+
+
 ![年度图片](https://image.thepaper.cn/publish/interaction/image/3/111/182.jpg)
 
 **来源**: 澎湃新闻 | **标签**: 影像艺术博览会 | **作者**: PHOTOFAIRS | **时间**: 2021年影像上海艺术博览会

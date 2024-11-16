@@ -1,5 +1,8 @@
 # 有关泰国的6个问题：泰国人妖将灭绝、泰国男子都当过和尚
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2019-05-15 23:38  
 **来源**: [行者爱徒](https://www.sohu.com/a/314213544_567803?spm=smpc.content-abroad.content.1.1730982240435sToz9ZC)  
 **标签**: 泰国, 人妖, 佛教  

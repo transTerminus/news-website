@@ -1,5 +1,8 @@
 # 泰国为什么盛产“人妖”？
 
+## 正文 { data-search-exclude }
+
+
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源

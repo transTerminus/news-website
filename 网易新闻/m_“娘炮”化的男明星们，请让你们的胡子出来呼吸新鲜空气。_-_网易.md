@@ -1,5 +1,8 @@
 # “娘炮”化的男明星们，请让你们的胡子出来呼吸新鲜空气
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 其实，畸形审美是娱乐产业过度野放式发展必然的产物。这是一个从古至今的铁律！

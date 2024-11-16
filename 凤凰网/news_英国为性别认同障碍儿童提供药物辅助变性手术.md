@@ -1,5 +1,8 @@
 # 英国为性别认同障碍儿童提供药物辅助变性手术
 
+## 正文 { data-search-exclude }
+
+
 ![重要图片](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 2014年05月21日 13:43 来源：[中国网](http://news.china.com.cn/world/2014-05/21/content_32449310.htm)

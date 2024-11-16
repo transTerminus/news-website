@@ -1,5 +1,8 @@
 # 多国频发滥用公款 美国变性隆胸手术可报销(图)
 
+## 正文 { data-search-exclude }
+
+
 2009年05月18日19:09  
 来源：[北京晚报](https://newepaper.bjd.com.cn/bjwb/html/2009-05/18/content_147480.htm)
 

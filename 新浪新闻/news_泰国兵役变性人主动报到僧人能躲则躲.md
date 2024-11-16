@@ -1,5 +1,8 @@
 # 泰国兵役:变性人主动报到 僧人能"躲"则"躲"
 
+## 正文 { data-search-exclude }
+
+
 ![泰国兵役](//n.sinaimg.cn/sinacn17/174/w87h87/20180315/2b0c-fyshfup8142498.jpg)
 
 ## 来源

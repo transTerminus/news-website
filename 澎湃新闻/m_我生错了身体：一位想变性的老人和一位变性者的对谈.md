@@ -1,5 +1,8 @@
 # 我生错了身体：一位想变性的老人和一位变性者的对谈
 
+## 正文 { data-search-exclude }
+
+
 ![](https://image.thepaper.cn/publish/interaction/image/2/657/779.jpeg)
 
 “在人所有的权利里，哪一项最难实现？”“做自己。”(14:55)

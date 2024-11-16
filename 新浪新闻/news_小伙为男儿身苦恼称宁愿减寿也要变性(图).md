@@ -1,5 +1,8 @@
 # 小伙为男儿身苦恼 称宁愿减寿也要变性(图)
 
+## 正文 { data-search-exclude }
+
+
 ![小伙图片](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：广西新闻网-南国早报

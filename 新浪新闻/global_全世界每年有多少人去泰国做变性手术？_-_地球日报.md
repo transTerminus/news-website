@@ -1,5 +1,8 @@
 # 全世界每年有多少人去泰国做变性手术？ | 地球日报
 
+## 正文 { data-search-exclude }
+
+
 ![](http://n.sinaimg.cn/news/interantion/global_share.png)
 
 ![](http://n.sinaimg.cn/news/anecdote/woqu-share-icon.png)

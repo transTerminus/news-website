@@ -1,5 +1,8 @@
 # 泰国“变性”火爆 每三万男性就有一人
 
+## 正文 { data-search-exclude }
+
+
 ![变性手术讨论](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/03fb-9bcbe8883c37d08ce916a67f0ff60a59.jpg)
 
 ## 三秦都市报

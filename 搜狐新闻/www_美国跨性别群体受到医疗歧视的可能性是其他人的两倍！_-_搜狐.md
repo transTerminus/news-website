@@ -1,5 +1,8 @@
 # 调查发现，美国跨性别群体受到医疗歧视的可能性是其他人的两倍！
 
+## 正文 { data-search-exclude }
+
+
 2024-04-07 17:00 来源: [红枫湾](https://www.sohu.com/a/769749944_527250?spm=smpc.content-abroad.content.1.1730993824019HSTN4uC)
 
 发布于：北京市

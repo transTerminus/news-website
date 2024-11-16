@@ -1,5 +1,8 @@
 # 台湾两男子双双变性结为夫妻 婚姻有效（图）
 
+## 正文 { data-search-exclude }
+
+
 2013年08月08日 10:16 来源：中国台湾网 ![](http://i3.chinanews.com/2011/news/images/1.png)
 
 [![吴伊婷、吴芷仪获知好消息后，热情相吻。（图片来自台媒）](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U194P4T47D46410F978DT20200311093349.jpg)](http://www.chinanews.com/app/chinanews/index.shtml)

@@ -1,5 +1,8 @@
 # 60岁男子做变性手术 以女人身份参加妻子葬礼
 
+## 正文 { data-search-exclude }
+
+
 ![60岁男子做变性手术 以女人身份参加妻子葬礼](//k.sinaimg.cn/n/news/crawl/20160515/V3ax-fxsenvm0438348.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 正文

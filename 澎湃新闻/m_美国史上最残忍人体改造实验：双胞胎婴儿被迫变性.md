@@ -1,5 +1,8 @@
 # 美国史上最残忍人体改造实验：双胞胎婴儿被迫变性
 
+## 正文 { data-search-exclude }
+
+
 ![图片1](https://image.thepaper.cn/publish/interaction/image/3/414/218.jpg)
 
 说到跨性别手术，这对当代人来说早已并不陌生。

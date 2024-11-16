@@ -1,5 +1,8 @@
 # 学校说服19岁抑郁症女孩“去变性就好”，女孩变性后抑郁自杀
 
+## 正文 { data-search-exclude }
+
+
 **时间：** 2022-03-28 02:21   
 **来源：** [笑寒新视野](https://www.sohu.com/a/533204989_767787?spm=smpc.content-abroad.content.1.1730989702443HOl9anh)
 

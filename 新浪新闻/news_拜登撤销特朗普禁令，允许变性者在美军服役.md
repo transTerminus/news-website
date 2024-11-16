@@ -1,5 +1,8 @@
 # 拜登撤销特朗普禁令，允许变性者在美军服役
 
+## 正文 { data-search-exclude }
+
+
 ![](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 **来源**: 澎湃新闻  

@@ -1,5 +1,8 @@
 # 本周六，华西医院大型义诊！
 
+## 正文 { data-search-exclude }
+
+
 ![Image](https://imagecloud.thepaper.cn/thepaper/image/5/963/557.jpg)
 
 今天是第16个国际罕见病日

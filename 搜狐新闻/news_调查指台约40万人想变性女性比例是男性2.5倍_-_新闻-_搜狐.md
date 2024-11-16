@@ -1,5 +1,8 @@
 # 调查指台约40万人想变性 女性比例是男性2.5倍
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐新闻-搜狐网站](https://images.sohu.com/uiue/sohu_logo/2006/news_logo3.gif)
 
 **时间:** 2009年02月22日11:17  

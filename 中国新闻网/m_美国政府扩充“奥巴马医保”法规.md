@@ -1,5 +1,8 @@
 # 美国政府扩充“奥巴马医保”法规
 
+## 正文 { data-search-exclude }
+
+
 ![tips](/img/iostips.dfcb3e81.png)
 
 ![logo](/img/zgxxwlogo.09fcffbc.png)

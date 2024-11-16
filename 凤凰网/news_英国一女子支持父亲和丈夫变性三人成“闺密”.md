@@ -1,5 +1,8 @@
 # 英国一女子支持父亲和丈夫变性 三人成“闺密”
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 2014年07月24日 16:14 来源：[中国新闻网](http://www.chinanews.com/gj/2014/07-24/6423182.shtml)

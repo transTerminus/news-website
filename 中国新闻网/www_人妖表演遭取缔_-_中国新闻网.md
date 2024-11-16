@@ -1,5 +1,8 @@
 # 人妖表演遭取缔
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻社](http://www.chinanews.com/images/logo2.gif)
 
 **时间**: 2001年08月07日 14:37  

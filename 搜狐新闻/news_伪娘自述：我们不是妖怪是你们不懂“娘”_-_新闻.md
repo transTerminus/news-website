@@ -1,5 +1,8 @@
 # 伪娘自述：我们不是妖怪 是你们不懂“娘”
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐网站](https://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif) 
 ![搜狐新闻](https://images.sohu.com/uiue/sohu_logo/2006/news_logo2.gif)
 

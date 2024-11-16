@@ -1,5 +1,8 @@
 # 英国27岁帅哥军官变性成美女
 
+## 正文 { data-search-exclude }
+
+
 **时间:** 2015年01月22日 07:29  
 **来源:** [新华网](http://news.xinhuanet.com/mil/2015-01/22/c_127408788.htm)  
 **标签:** [阿富汗](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%98%BF%E5%AF%8C%E6%B1%97) [陆军](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%99%86%E5%86%9B) [军官](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%86%9B%E5%AE%98)

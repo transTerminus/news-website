@@ -1,5 +1,8 @@
 # 印度电视台启用首位变性人主播 收视率大增(图)
 
+## 正文 { data-search-exclude }
+
+
 2014年09月23日 09:13  来源：[中国新闻网](http://www.chinanews.com/) 
 
 ![印度电视台启用首位变性人主播收视率大增（图）](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U410P4T8D6618785F107DT20140923091346.jpg)

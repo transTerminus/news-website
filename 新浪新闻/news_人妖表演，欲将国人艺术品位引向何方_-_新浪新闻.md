@@ -1,5 +1,8 @@
 # 人妖表演，欲将国人艺术品位引向何方
 
+## 正文 { data-search-exclude }
+
+
 ![人妖表演](//beacon.sina.com.cn/a.gif?noScript)
 
 **时间：** 2012年10月13日00:54  

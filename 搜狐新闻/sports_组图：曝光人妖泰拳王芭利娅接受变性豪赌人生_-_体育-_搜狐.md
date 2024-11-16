@@ -1,5 +1,8 @@
 # 组图：曝光人妖泰拳王芭利娅 接受变性豪赌人生
 
+## 正文 { data-search-exclude }
+
+
 ![变性拳王芭利娅](https://photocdn.sohu.com/20120307/Img336945387.jpg)
 
 **媒体来源**: 搜狐体育  

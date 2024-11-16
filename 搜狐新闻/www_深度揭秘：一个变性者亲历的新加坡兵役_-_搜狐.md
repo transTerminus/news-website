@@ -1,5 +1,8 @@
 # 深度揭秘：一个变性者亲历的新加坡兵役
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2018-12-14 13:07  
 **来源**: [新加坡万事通](https://www.sohu.com/a/281768851_176912?spm=smpc.content-abroad.content.1.1730981646096S7cz0xm)  
 **作者**: 小郑  

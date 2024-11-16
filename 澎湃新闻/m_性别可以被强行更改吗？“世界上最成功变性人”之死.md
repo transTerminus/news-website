@@ -1,5 +1,8 @@
 # 性别可以被强行更改吗？“世界上最成功变性人”之死
 
+## 正文 { data-search-exclude }
+
+
 **澎湃新闻** 12-18 12:00
 
 ![性别可以被强行更改吗？“世界上最成功变性人”之死](https://file.thepaper.cn/wap/v6/img/kb_zhaiyao.png)

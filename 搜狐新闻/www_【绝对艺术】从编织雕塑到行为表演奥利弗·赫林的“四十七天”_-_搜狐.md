@@ -1,5 +1,8 @@
 # 【绝对艺术】从编织雕塑到行为表演 奥利弗·赫林的“四十七天”
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2017-06-22 16:41  
 **来源**: [绝对艺术](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730965664434GnJ0F0K)
 

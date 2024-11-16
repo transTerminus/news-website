@@ -1,5 +1,8 @@
 # 疯狂的较量——变性人选美
 
+## 正文 { data-search-exclude }
+
+
 2011年10月19日，菲律宾马尼拉举行变性人选美大赛，参赛选手们在一场媒体见面会上纷纷亮相。
 
 ![变性人选美](http://i7.chinanews.com/tp/2011hd/images/bian1.gif)

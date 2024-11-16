@@ -1,5 +1,8 @@
 # 约旦LGBT（性少数群体）活动人士受到严重针对与污名化！
 
+## 正文 { data-search-exclude }
+
+
 2024-02-06 15:00  
 来源: [红枫湾](https://www.sohu.com/a/756782383_527250?spm=smpc.content-abroad.content.1.1730993467370SefyzHG)  
 发布于：北京市

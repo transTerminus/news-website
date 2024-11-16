@@ -1,5 +1,8 @@
 # 核查 | 拜登内阁都不是“正常人”？假！
 
+## 正文 { data-search-exclude }
+
+
 ![![](https://image.thepaper.cn/publish/interaction/image/3/871/349.jpg)](https://m.thepaper.cn/user_interaction_4983964)
 
 **作者**: 有据核查  

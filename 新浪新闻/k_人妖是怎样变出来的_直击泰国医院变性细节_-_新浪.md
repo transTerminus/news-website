@@ -1,5 +1,8 @@
 # 人妖是怎样变出来的? 直击泰国医院变性细节
 
+## 正文 { data-search-exclude }
+
+
 ![变性手术前的贝拉](https://n.sinaimg.cn/sinacn10205/360/w180h180/20191010/0acc-ifrwayx3406277.jpg)
 
 ## 内涵的搞笑君

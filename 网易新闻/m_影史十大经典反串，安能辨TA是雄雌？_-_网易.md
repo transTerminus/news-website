@@ -1,5 +1,8 @@
 # 影史十大经典反串，安能辨TA是雄雌？
 
+## 正文 { data-search-exclude }
+
+
 ![影史十大经典反串](https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 黄才伦在《李茶的姑妈》里头戴金色假发，身穿白色洋装，脚踩高跟鞋，拔高声音，假扮了一次姑妈唬过了所有人。在《花木兰》中，木兰替父从军穿上戎装，连同寝战友都认不出来，而仙气十足的刘亦菲就要挑战这个角色。

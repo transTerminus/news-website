@@ -1,5 +1,8 @@
 # 跨性别群体的前世今生：曾经的女丈夫
 
+## 正文 { data-search-exclude }
+
+
 **作者**：日新说Copernicium  
 **时间**：2024-06-26 19:34  
 **来源**：[腾讯新闻](https://news.qq.com)  

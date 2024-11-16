@@ -1,5 +1,8 @@
 # 他替父还债来新加坡谋生，被骗变性成人妖还被逼陪酒！
 
+## 正文 { data-search-exclude }
+
+
 2017-08-29 09:32  
 来源: [新加坡万事通](https://www.sohu.com/a/168006186_176912?spm=smpc.content-abroad.content.1.1730978849145dkL3SSg)
 

@@ -1,5 +1,8 @@
 # 特朗普因禁止变性人服役言论被起诉
 
+## 正文 { data-search-exclude }
+
+
 ![](http://i2.chinanews.com/thumbnailzhi44.png)
 
 **来源**：中新网  

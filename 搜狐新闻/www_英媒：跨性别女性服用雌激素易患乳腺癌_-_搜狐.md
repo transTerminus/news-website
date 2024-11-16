@@ -1,5 +1,8 @@
 # 英媒：跨性别女性服用雌激素易患乳腺癌
 
+## 正文 { data-search-exclude }
+
+
 2019-05-20 15:58 来源: [新华社](http://home.xinhua-news.com/gdsdetailxhs/share/5435015-?pageflag=iframe)
 
 新华社北京5月20日新媒体专电 英媒称，研究表明，跨性别女性服用激素会增加患乳腺癌的风险。

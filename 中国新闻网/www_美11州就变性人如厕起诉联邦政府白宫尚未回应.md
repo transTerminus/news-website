@@ -1,5 +1,8 @@
 # 美11州就变性人如厕起诉联邦政府 白宫尚未回应
 
+## 正文 { data-search-exclude }
+
+
 ![顶部图片](http://i3.chinanews.com/2014/wap/images/top.png)
 
 **时间**: 2016年05月27日 03:13  

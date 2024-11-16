@@ -1,5 +1,8 @@
 # 英国两男子相恋 双双变性后步入婚姻殿堂（组图）
 
+## 正文 { data-search-exclude }
+
+
 ![大笑](http://y1.ifengimg.com/cmpp/2015/01/09/14/dd6ae64c-304d-48b3-afb4-3a49ceb7005a.jpg)
 
 **时间**：2015年01月09日 14:13  

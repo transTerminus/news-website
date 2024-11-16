@@ -1,5 +1,8 @@
 # 韩国首名变性军人死于家中，曾去泰国做手术被韩军勒令退伍
 
+## 正文 { data-search-exclude }
+
+
 ![韩国变性军人边某](//n.sinaimg.cn/sinacn17/174/w87h87/20180315/2b0c-fyshfup8142498.jpg)
 
 ## 海外网

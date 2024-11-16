@@ -2,6 +2,9 @@
 
 # 广西：艾滋病男扮女子卖淫筹变性手术费
 
+## 正文 { data-search-exclude }
+
+
 2016年04月01日 17:45 来源：[中国新闻网](http://www.chinanews.com/sh/2016/04-01/7820865.shtml)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)

@@ -1,5 +1,8 @@
 # 畸形“美丽”公开上演　“人妖”表演惊现桂林(图)
 
+## 正文 { data-search-exclude }
+
+
 ![表演](https://photocdn.sohu.com/20061229/Img247343560.gif)
 
 来源：桂林生活网-桂林日报  

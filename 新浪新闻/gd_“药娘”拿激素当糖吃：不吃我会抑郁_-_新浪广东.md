@@ -1,5 +1,8 @@
 # “药娘”拿激素当糖吃：不吃我会抑郁
 
+## 正文 { data-search-exclude }
+
+
 ![“药娘”拿激素当糖吃：不吃我会抑郁](http://n.sinaimg.cn/miaopai/75/w560h315/20180816/V130-fzrwica0999232.png)
 
 来源：澎湃新闻  

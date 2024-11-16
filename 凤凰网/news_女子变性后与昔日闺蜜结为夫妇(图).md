@@ -1,5 +1,8 @@
 # 女子变性后与昔日闺蜜结为夫妇(图)
 
+## 正文 { data-search-exclude }
+
+
 2015年02月15日 07:39 来源：[环球网](http://look.huanqiu.com/article/2015-02/5683262.html)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)

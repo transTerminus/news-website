@@ -1,5 +1,8 @@
 # 泰国变性人首次当选省议员(图)
 
+## 正文 { data-search-exclude }
+
+
 ![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
 
 **来源：** 环球时报  

@@ -1,5 +1,8 @@
 # 美性别认同障碍者吐露困惑 不知自己是男是女
 
+## 正文 { data-search-exclude }
+
+
 2016-09-24 11:57 来源: [探索者](https://www.sohu.com/a/%E6%8E%A2%E7%B4%A2%E8%80%85?spm=smpc.content-abroad.content.1.1730962984353PuAlzrj)
 
 ![图片1](http://n1.itc.cn/img8/wb/recom/2016/09/24/147468942814098276.JPEG)

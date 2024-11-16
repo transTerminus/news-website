@@ -1,5 +1,8 @@
 # 特朗普签署备忘录禁止变性人参军 称其扰乱队伍
 
+## 正文 { data-search-exclude }
+
+
 ![特朗普](http://i2.chinanews.com/thumbnailzhi44.png)
 
 **时间**: 2017年08月26日 14:39  

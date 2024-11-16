@@ -1,5 +1,8 @@
 # 媒体揭密吉米变性细节 坦言要找西方猛男(组图)
 
+## 正文 { data-search-exclude }
+
+
 ![吉米变性细节](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
 
 **时间：** 2007年03月29日 10:43  

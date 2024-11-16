@@ -1,5 +1,8 @@
 # 最新研究证明！全球9%的成年人认为自己是LGBT（性少数群体）！
 
+## 正文 { data-search-exclude }
+
+
 2023-12-19 15:00 来源: [红枫湾](https://www.sohu.com/a/745283036_527250?spm=smpc.content-abroad.content.1.1730993225728QGdCJhY)
 
 发布于：北京市

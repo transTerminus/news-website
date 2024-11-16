@@ -1,5 +1,8 @@
 # 新加坡变性罪犯逃鞭刑
 
+## 正文 { data-search-exclude }
+
+
 ![跳转到正文内容](http://i2.sinaimg.cn/home/deco/2009/0330/con_logo_fin.gif)
 
 来源: [中国经济网](http://intl.ce.cn/qqss/201203/07/t20120307_23134736.shtml)  

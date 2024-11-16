@@ -1,5 +1,8 @@
 # 中国变性人-新闻频道
 
+## 正文 { data-search-exclude }
+
+
 ![banner](https://images.sohu.com/ccc.gif)
 
 ## 新闻列表

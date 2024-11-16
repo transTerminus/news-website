@@ -1,5 +1,8 @@
 # 菲律宾人妖现象调查：7.9%15-24岁男子欲变性
 
+## 正文 { data-search-exclude }
+
+
 ![菲律宾人妖](//tvax1.sinaimg.cn/crop.0.0.996.996.180/4fd09a69ly8gdi0xpgl0pj20ro0rowfa.jpg)
 
 ## 来源

@@ -1,5 +1,8 @@
 # 江苏首例变性人：想抛头露面又怕失去“老公”
 
+## 正文 { data-search-exclude }
+
+
 ![江苏首例变性人](http://www.chinanews.com.cn/newsiimg/1.gif)
 
 **时间：** 2004年06月29日 10:25  

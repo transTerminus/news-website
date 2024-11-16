@@ -1,5 +1,8 @@
 # 离谱！顶级儿童医院竟然…
 
+## 正文 { data-search-exclude }
+
+
 ![波士顿儿童医院](https://image.thepaper.cn/publish/interaction/image/4/528/321.jpg)
 
 **来源:** 观察者网  

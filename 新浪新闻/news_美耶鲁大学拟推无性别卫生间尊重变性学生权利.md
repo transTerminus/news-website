@@ -1,5 +1,8 @@
 # 美耶鲁大学拟推无性别卫生间:尊重变性学生权利
 
+## 正文 { data-search-exclude }
+
+
 _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 来源: 金羊网-新快报

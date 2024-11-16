@@ -1,5 +1,8 @@
 # 为跨性别群体拍摄电影的高中生：关注少数群体 探寻自我
 
+## 正文 { data-search-exclude }
+
+
 ![为跨性别群体拍摄电影的高中生](http://i2.chinanews.com/thumbnailzhi44.png)
 
 **来源**: 中国新闻网  

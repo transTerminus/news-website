@@ -1,5 +1,8 @@
 # 厦门整形名医成功为泰国绝色人妖做“变脸”手术
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
 
 **时间:** 2006年11月07日 23:33

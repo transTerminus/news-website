@@ -1,5 +1,8 @@
 # 新加坡男子变性后婚姻被作废 同性伴侣要求法院复婚
 
+## 正文 { data-search-exclude }
+
+
 ![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 **来源**: 环球网  

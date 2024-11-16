@@ -1,5 +1,8 @@
 # 美国联邦法官命令美军新年开始接收变性人服役
 
+## 正文 { data-search-exclude }
+
+
 ![tips](/img/iostips.dfcb3e81.png)
 
 ![logo](/img/zgxxwlogo.09fcffbc.png)

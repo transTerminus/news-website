@@ -2,6 +2,9 @@
 
 # 月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院判决亮了
 
+## 正文 { data-search-exclude }
+
+
 来源: [申工社](https://mp.weixin.qq.com/s/ZG8-e9o43nds_bYoya6exw)  
 时间: [2023年11月29日 12:56:20](https://mp.weixin.qq.com/s/ZG8-e9o43nds_bYoya6exw)  
 参与人数: 391人  

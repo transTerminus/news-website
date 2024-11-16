@@ -1,5 +1,8 @@
 # 请问老法师丨变性手术后被辞退，到底是因为旷工还是歧视？
 
+## 正文 { data-search-exclude }
+
+
 2020-07-05 19:09 来源: [案件聚焦](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730984112796qweRopA)
 
 欢迎来到《请问老法师》。

@@ -1,5 +1,8 @@
 # 国际奥委会回应变性人参赛：法无禁止，应该包容
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](//www.chinanews.com/fileftp/2020/03/2020-03-11/U719P4T47D46411F24532DT20200311090628.png)
 
 **来源**：[中国新闻网](http://www.chinanews.com/)  

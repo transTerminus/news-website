@@ -1,5 +1,8 @@
 # 男子被好友骗进医院做了变性手术
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2024-06-23 19:55  
 **来源**: [新能源汽车小黄花](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730994338151CnmFWAg)  
 **发布于**: 山西省  

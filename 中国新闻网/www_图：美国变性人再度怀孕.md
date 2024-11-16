@@ -1,5 +1,8 @@
 # 美国变性人再度怀孕
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](http://i5.chinanews.com/images/images1/logo2.gif)
 
 ![怀孕的美国变性人托马斯·比蒂](U179P4T8D1449656F107DT20081114134122.jpg)

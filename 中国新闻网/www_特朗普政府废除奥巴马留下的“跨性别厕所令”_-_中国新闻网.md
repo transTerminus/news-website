@@ -1,5 +1,8 @@
 # 特朗普政府废除奥巴马留下的“跨性别厕所令”
 
+## 正文 { data-search-exclude }
+
+
 2017年02月23日 19:05  
 来源：[中国新闻网](http://www.chinanews.com/)  
 

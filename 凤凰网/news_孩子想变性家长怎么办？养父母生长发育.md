@@ -1,5 +1,8 @@
 # 孩子想变性 家长怎么办？
 
+## 正文 { data-search-exclude }
+
+
 2014年12月21日 07:09 来源：[广州日报](http://gzdaily.dayoo.com/html/2014-12/21/content_2826293.htm)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)

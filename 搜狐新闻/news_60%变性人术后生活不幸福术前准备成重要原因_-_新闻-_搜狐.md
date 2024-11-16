@@ -1,5 +1,8 @@
 # 60%变性人术后生活不幸福 术前准备成重要原因
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐新闻-搜狐网站](https://images.sohu.com/uiue/sohu_logo/2006/news_logo3.gif)
 
 **来源：南方网**

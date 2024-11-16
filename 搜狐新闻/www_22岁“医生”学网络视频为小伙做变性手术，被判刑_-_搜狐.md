@@ -1,5 +1,8 @@
 # 22岁“医生”学网络视频为小伙做变性手术，被判刑
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2018-09-20 16:52  
 **来源**: [澎湃新闻精选](https://www.sohu.com/?spm=smpc.content-abroad.content.1.17309807910509yYtQIz)  
 **作者**: 澎湃新闻记者 葛熔金  

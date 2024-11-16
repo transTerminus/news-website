@@ -1,5 +1,8 @@
 # 特朗普签署备忘录禁止变性人参军 称其扰乱队伍
 
+## 正文 { data-search-exclude }
+
+
 ![资料图：美国总统特朗普](http://image1.chinanews.com.cn/cnsupload/big/2017/01-24/4-426/ccef6e6917c048719cd30bda3dd1ef7a.jpg)
 
 **来源：新华社**  

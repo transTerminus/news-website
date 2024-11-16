@@ -1,5 +1,8 @@
 # 遭电击治疗，一位跨性别者决定起诉
 
+## 正文 { data-search-exclude }
+
+
 _![](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)_
 
 ## 澎湃新闻

@@ -1,5 +1,8 @@
 # 国际奥委会官方表态 变性人可参加雅典奥运会
 
+## 正文 { data-search-exclude }
+
+
 ![Image](http://www.chinanews.com.cn/newsiimg/1.gif)
 
 **时间**: 2004年05月18日 15:00  

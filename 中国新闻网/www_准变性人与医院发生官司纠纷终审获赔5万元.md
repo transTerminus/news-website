@@ -1,5 +1,8 @@
 # 准变性人与医院发生官司纠纷 终审获赔5万元
 
+## 正文 { data-search-exclude }
+
+
 ![图片](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
 
 **来源：中新网**  

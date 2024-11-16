@@ -1,5 +1,8 @@
 # 山东潍坊变性人 七载艰辛“变性”路
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](/images/images1/logo2.gif)
 
 **时间**: 2008年03月02日 16:05  

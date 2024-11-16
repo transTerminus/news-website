@@ -1,5 +1,8 @@
 # 两兄弟互相隐瞒“女儿心”不约而同变性成姐妹(图)
 
+## 正文 { data-search-exclude }
+
+
 ![](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 ![](http://p3.ifengimg.com/a/2016_22/ad0e6e504931c17_size131_w603_h804.jpg) ![](http://y3.ifengimg.com/a/2016/0414/ab605e5e0631dd6size71_w300_h300.jpg)

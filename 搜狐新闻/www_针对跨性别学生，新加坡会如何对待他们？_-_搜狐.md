@@ -1,5 +1,8 @@
 # 针对跨性别学生，新加坡会如何对待他们？
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2021-02-03 14:14  
 **来源**: [新加坡立思辰留学](https://www.sohu.com/a/448465047_120075716?spm=smpc.content-abroad.content.1.1730985635619lFkik6P)  
 **标签**: 跨性别、教育、LGBTQ+  

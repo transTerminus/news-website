@@ -1,5 +1,8 @@
 # 尼尔森：2023年LGBTQ+在媒体和广告中的表现
 
+## 正文 { data-search-exclude }
+
+
 ![Image](//tva1.sinaimg.cn/crop.0.0.299.299.180/6a8c1e07gw1efgokalrxdj208c08cq37.jpg)
 
 ## 199IT

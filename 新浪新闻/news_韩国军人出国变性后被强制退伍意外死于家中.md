@@ -1,5 +1,8 @@
 # 韩国军人出国变性后被强制退伍 意外死于家中
 
+## 正文 { data-search-exclude }
+
+
 ![韩国变性军人边某](//k.sinaimg.cn/n/news/crawl/64/w400h464/20210304/ce70-kkxpczc2657795.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 来源：海外网

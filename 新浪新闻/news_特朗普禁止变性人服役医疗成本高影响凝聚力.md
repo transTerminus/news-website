@@ -1,5 +1,8 @@
 # 特朗普禁止变性人服役:医疗成本高 影响凝聚力
 
+## 正文 { data-search-exclude }
+
+
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：新华网

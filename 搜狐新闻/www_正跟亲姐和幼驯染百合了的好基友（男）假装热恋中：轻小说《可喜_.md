@@ -1,5 +1,8 @@
 # 身为女装男子兼义妹暗恋对象的我，正跟亲姐和幼驯染百合了的好基友（男）假装热恋中：轻小说《可喜可贺，我进化成了美少女。》推介
 
+## 正文 { data-search-exclude }
+
+
 2017-04-12 17:32 来源: [Anitama](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730977992664nEvrTPl)
 
 ![封面来源：《可喜可贺，我进化成了美少女。》](http://img.mp.itc.cn/upload/20170412/0184923693f34e94a5f72077363e4250_th.jpeg)

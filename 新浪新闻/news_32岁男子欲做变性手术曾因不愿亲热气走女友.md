@@ -1,5 +1,8 @@
 # 32岁男子欲做变性手术 曾因不愿亲热气走女友
 
+## 正文 { data-search-exclude }
+
+
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：星辰在线-长沙晚报

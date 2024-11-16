@@ -1,5 +1,8 @@
 # 男子做变性手术意外中断 准变性人状告医院
 
+## 正文 { data-search-exclude }
+
+
 ![高婷婷](//tva1.sinaimg.cn/crop.0.0.250.250.180/005TLYMvjw8f742770d8cj306y06ywff.jpg)
 
 ## 来源：温州新闻网  

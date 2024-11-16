@@ -1,5 +1,8 @@
 # 两名小伙挂牌宣称“我要变性” 路人诧异围观
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐新闻-搜狐网站](https://images.sohu.com/uiue/sohu_logo/2006/news_logo3.gif)
 
 **时间：** 2009年05月18日 14:37  

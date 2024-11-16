@@ -1,5 +1,8 @@
 # 最新研究表明，LGBTQ（性少数群体）青少年自杀率出现大幅上升！
 
+## 正文 { data-search-exclude }
+
+
 **发布时间**：2024-05-13 16:59  
 **来源**：[红枫湾](https://www.sohu.com/a/778439728_527250?spm=smpc.content-abroad.content.1.1730994053120LwqiHEz)  
 **发布地点**：北京市  

@@ -1,5 +1,8 @@
 # 奥运迎首位跨性别举重运动员，将与我国女选手PK！男人变性参加女子运动公平吗？
 
+## 正文 { data-search-exclude }
+
+
 ![image1](https://image.thepaper.cn/publish/interaction/image/4/122/864.jpg)
 
 ![image2](https://imagepphcloud.thepaper.cn/pph/image/144/757/197.jpg)

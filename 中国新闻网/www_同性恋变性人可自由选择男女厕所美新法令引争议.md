@@ -1,5 +1,8 @@
 # 同性恋变性人可自由选择男女厕所 美新法令引争议
 
+## 正文 { data-search-exclude }
+
+
 2014年05月31日 06:31  
 来源：[中国新闻网](http://www.chinanews.com/)  
 

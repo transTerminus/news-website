@@ -36,6 +36,10 @@ python .github/scripts/page/gen_page.py
 
 echo "Page generated successfully!"
 
+python .github/scripts/others/add_search_exclude.py
+
+echo "Search exclude added successfully!"
+
 # generate file meta
 python .github/scripts/ai/archive/gen_file_meta.py
 # echo "File meta generation skipped!"

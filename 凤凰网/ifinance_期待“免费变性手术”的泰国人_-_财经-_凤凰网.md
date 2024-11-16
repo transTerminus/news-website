@@ -1,5 +1,8 @@
 # 期待“免费变性手术”的泰国人
 
+## 正文 { data-search-exclude }
+
+
 ![图片1](https://d.ifengimg.com/q70/y0.ifengimg.com/a/2015_22/e4da48cc973c611.jpg)
 ![图片2](https://d.ifengimg.com/q70/y2.ifengimg.com/a/2015_22/30f62bc8b06929e.jpg)
 

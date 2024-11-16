@@ -1,5 +1,8 @@
 # 国际变性人选美大赛31日将在泰国芭达雅举行
 
+## 正文 { data-search-exclude }
+
+
 2009年10月29日 16:20 来源：中国新闻网  
 ![图片](http://i2.chinanews.com/zwimg/01.jpg)
 

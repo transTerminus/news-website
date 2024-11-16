@@ -1,5 +1,8 @@
 # 变性、造耳、垫鼻 揭秘整形医生雕刻人生(组图)
 
+## 正文 { data-search-exclude }
+
+
 ![高教授在给病人做植皮手术](https://photocdn.sohu.com/20110402/Img280114162.jpg)
 
 ![一个皮肤癌病人的脚后跟修补手术，从早上9点一直做到下午5点](https://photocdn.sohu.com/20110402/Img280114161.jpg)

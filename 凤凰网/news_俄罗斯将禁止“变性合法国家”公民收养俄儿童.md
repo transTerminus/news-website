@@ -1,5 +1,8 @@
 # 俄罗斯将禁止“变性合法国家”公民收养俄儿童
 
+## 正文 { data-search-exclude }
+
+
 ![俄罗斯将禁止“变性合法国家”公民收养俄儿童](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/391215D597E5F790A6F557556AF03555C258131F_size387_w1000_h739.jpg)
 
 [观察者网](https://ishare.ifeng.com/mediaShare/home/311993/media)

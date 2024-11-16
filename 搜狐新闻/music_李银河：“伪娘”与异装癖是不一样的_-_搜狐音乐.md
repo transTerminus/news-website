@@ -1,5 +1,8 @@
 # 李银河：“伪娘”与异装癖是不一样的
 
+## 正文 { data-search-exclude }
+
+
 ![李银河](http://photocdn.sohu.com/20061227/Img247299768.gif)  
 来源：四川新闻网-成都商报
 

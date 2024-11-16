@@ -1,5 +1,8 @@
 # 被哈利·波特粉丝网站“开除”，J·K·罗琳是“自食其果”吗？
 
+## 正文 { data-search-exclude }
+
+
 ![J.K. Rowling](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/41bb-24c971da1316d17de47caa3c1b099cb2.jpg)
 
 ## 新京报

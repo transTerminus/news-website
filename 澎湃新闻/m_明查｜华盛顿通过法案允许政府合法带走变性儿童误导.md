@@ -1,5 +1,8 @@
 # 明查｜华盛顿通过法案允许政府合法带走变性儿童?误导
 
+## 正文 { data-search-exclude }
+
+
 ![华盛顿州法案](https://imagecloud.thepaper.cn/thepaper/image/249/112/247.png)
 
 [点击进入澎湃新闻全球事实核查平台](http://factpaper.cn)

@@ -1,5 +1,8 @@
 # 双性人做变性手术失败 医院门口跪地哀求(图)
 
+## 正文 { data-search-exclude }
+
+
 ![医院门前跪地哀求](http://img.ifeng.com/hres/200902/25/13/6f0864d9de5e60e963db30de1140da5d.jpg)
 
 ![过路群众关注](http://img.ifeng.com/hres/200902/25/13/14c2482fba21518b6e23e3eff3485167.jpg)

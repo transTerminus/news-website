@@ -1,5 +1,8 @@
 # 美国变性夫妇育有两子（高清组图）
 
+## 正文 { data-search-exclude }
+
+
 ![变性夫妇](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 2014年08月12日 07:14 来源：[新华网](http://news.xinhuanet.com/world/2014-08/12/c_126858695.htm)

@@ -1,5 +1,8 @@
 # 男子追男友因性别不和被拒绝 变性后两人终相爱
 
+## 正文 { data-search-exclude }
+
+
 ![男子追男友因性别不和被拒绝 变性后两人终相爱](//d.ifengimg.com/w121_h75_q90/p1.ifengimg.com/a/2018_15/dca4774923d6536_size58_w615_h615.jpg)
 
 **来源：凤凰网**  

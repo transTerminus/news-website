@@ -1,5 +1,8 @@
 # 世卫组织重新归类 “变性”不再被视为精神病
 
+## 正文 { data-search-exclude }
+
+
 ![世卫组织重新归类](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
 ## 环球网

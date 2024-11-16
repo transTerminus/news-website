@@ -1,5 +1,8 @@
 # 泰国最美的人妖皇后！被中国富商鲍哥迎娶！现在婚姻怎么样了？
 
+## 正文 { data-search-exclude }
+
+
 ![泰国人妖](https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 大家都知道泰国有很出名的人妖文化，都是男性通过变性手术和注射激素变成女性的模样，变性人在泰国是比较合法的，泰国的人妖也成为泰国旅游的经济支柱，大家去泰国也只是抱着一睹泰国人妖风采的想法去，可是竟然有人把泰国人妖娶回了家。

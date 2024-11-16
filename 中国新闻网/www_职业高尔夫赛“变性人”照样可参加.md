@@ -1,5 +1,8 @@
 # 职业高尔夫赛 “变性人”照样可参加
 
+## 正文 { data-search-exclude }
+
+
 2010年12月02日 15:05  
 来源：重庆晚报  
 ![相关图片](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F981DT20100423110629.jpg)

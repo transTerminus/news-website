@@ -1,5 +1,8 @@
 # 六年了，还是那么酷
 
+## 正文 { data-search-exclude }
+
+
 ![艾伦佩吉的图片](https://n.sinaimg.cn/sinacn/20170104/3cdc-fxzczhi1673235.jpg)
 
 ## 新浪娱乐V

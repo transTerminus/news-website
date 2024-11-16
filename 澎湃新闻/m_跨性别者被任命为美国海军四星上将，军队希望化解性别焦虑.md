@@ -1,5 +1,8 @@
 # 跨性别者被任命为美国海军四星上将，军队希望化解性别焦虑
 
+## 正文 { data-search-exclude }
+
+
 ![美国最高跨性别官员](https://imagepphcloud.thepaper.cn/pph/image/160/142/103.jpg)
 
 **来源**：澎湃新闻  

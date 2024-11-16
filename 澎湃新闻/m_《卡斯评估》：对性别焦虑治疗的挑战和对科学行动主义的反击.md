@@ -1,5 +1,8 @@
 # 《卡斯评估》：对性别焦虑治疗的挑战和对科学行动主义的反击
 
+## 正文 { data-search-exclude }
+
+
 **一、卡斯评估和性别焦虑治疗的反转**
 
 前英国王家儿科和儿童健康医学院（Royal College Of Paediatrics And Child Health）院长卡斯（Hilary Cass）受英国国民保健署（NHS）的委托，通过近4年的研究，于今年4月发布了长达400页的《儿童和青少年性别认同服务的独立评估》（The Independent Review of Gender Identity Services for Children and Young People，简称卡斯评估）。这项委托是为了“确保质疑自己的性别认同或经历性别焦虑并需要NHS支持的儿童和年轻人得到高标准的护理”。在此评估正式公布之前，关于跨性别护理的辩论变得越来越激烈，公众抱怨年轻人太容易获得此项医疗。2009年，英国性别认同发展服务处（Gender Identity Development Service，简称GIDS）仅接诊了不到50名儿童，其中大部分是男孩。而这一数字在2022年激增到近5000人，其中大部分是女孩。从2009年到2020年共有9000名未成年人在GIDS接受了治疗。自1989年以来，GIDS以一份来自荷兰的研究（被称为“荷兰议定书”<The Dutch Protocol>）为科学依据，为超过2000名的儿童和青少年提供了青春期阻滞剂和激素治疗。直至2021年，GIDS才承认该研究是无法被复制的。该机构经过了一系列的丑闻之后于去年关闭。

@@ -1,5 +1,8 @@
 # 跨性别选手今首次亮相奥运赛场：激素变性，曾是专业男运动员
 
+## 正文 { data-search-exclude }
+
+
 ![跨性别举重选手劳蕾尔·哈伯德](https://imagecloud.thepaper.cn/thepaper/image/145/760/798.jpg)  
 跨性别举重选手劳蕾尔·哈伯德（资料图）。视觉中国 图
 

@@ -1,5 +1,8 @@
 # 泰国人妖接待游客的时候，为啥要偷服“避孕药”？答案很现实
 
+## 正文 { data-search-exclude }
+
+
 ![人妖影响](https://n.sinaimg.cn/sinakd10221/360/w180h180/20201013/16c9-kakmcxe6015604.jpg)
 
 ## 颠覆谈历史

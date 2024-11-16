@@ -1,5 +1,8 @@
 # 国际变性人选美大赛落幕 菲律宾选手夺冠(图)
 
+## 正文 { data-search-exclude }
+
+
 2015年11月07日 12:21 来源：[中国新闻网](http://www.chinanews.com/tp/hd2011/2015/11-07/579220.shtml)
 
 ![比赛现场](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)

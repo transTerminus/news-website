@@ -1,5 +1,8 @@
 # 英10岁男孩性别认同障碍 新学期改名变女孩(图)
 
+## 正文 { data-search-exclude }
+
+
 ![利维](https://i1.itc.cn/20110531/96b_622af614_f08c_4eb9_a7b2_4443fb71508f_0.jpg)  
 来源：[中国日报网](https://www.chinadaily.com.cn/hqbl/2011-09/18/content_13727451.htm)  
 2011年09月18日09:18

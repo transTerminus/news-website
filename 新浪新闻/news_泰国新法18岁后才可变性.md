@@ -1,5 +1,8 @@
 # 泰国新法１８岁后才可变性
 
+## 正文 { data-search-exclude }
+
+
 _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 来源: 金羊网-新快报

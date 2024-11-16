@@ -1,5 +1,8 @@
 # 做了24年上千例变性手术医生的心与术：术前先好好聊一次(组图)
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2017-02-13 11:48  
 **来源**: [澎湃新闻](http://www.thepaper.cn/newsDetail_forward_1617301)
 

@@ -1,5 +1,8 @@
 # 子宫移植专家表示，跨性别女性自然怀孕是“医学上可能的”
 
+## 正文 { data-search-exclude }
+
+
 2023-08-22 15:04 来源: [医道社](https://www.sohu.com/a/713884638_121684222?spm=smpc.content-abroad.content.1.1730992651327CZpLXeS)
 
 发布于：上海市

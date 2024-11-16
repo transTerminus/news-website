@@ -1,5 +1,8 @@
 # 美国变性人遇害率达到10年来最高水平
 
+## 正文 { data-search-exclude }
+
+
 ![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
 
 ### 来源：环球时报

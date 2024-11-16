@@ -1,5 +1,8 @@
 # 第十届“嗓音医学新进展学习班”在厦召开
 
+## 正文 { data-search-exclude }
+
+
 来源：手机新浪网
 
 ![sina_logo](https://n.sinaimg.cn/www/index/sina_logo.png)

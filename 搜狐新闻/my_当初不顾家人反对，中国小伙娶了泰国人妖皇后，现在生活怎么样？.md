@@ -1,5 +1,8 @@
 # 当初不顾家人反对，中国小伙娶了泰国人妖皇后，现在生活怎么样？
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐视频](//css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
 
 **视频状态查询**

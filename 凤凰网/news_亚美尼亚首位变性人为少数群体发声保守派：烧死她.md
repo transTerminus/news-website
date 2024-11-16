@@ -2,6 +2,9 @@
 
 # 亚美尼亚首位变性人为少数群体发声 保守派：烧死她
 
+## 正文 { data-search-exclude }
+
+
 来源: [新京报网](http://www.bjnews.com.cn/wevideo/2019/04/28/573436.html)  
 时间: 2019年04月28日 16:38:56  
 

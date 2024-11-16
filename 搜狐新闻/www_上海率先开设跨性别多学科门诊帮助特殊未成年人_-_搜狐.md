@@ -1,5 +1,8 @@
 # 上海率先开设跨性别多学科门诊 帮助特殊未成年人
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2021-11-04 15:30  
 **来源**: [搜狐上海资讯](https://www.sohu.com/a/499155507_384507?spm=smpc.content-abroad.content.1.1730987531342aBjkyET)  
 **作者**: 陈静、奚晓蕾  

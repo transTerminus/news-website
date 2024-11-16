@@ -1,5 +1,8 @@
 # 视频｜新西兰举重选手成为第一位参加奥运会的变性人
 
+## 正文 { data-search-exclude }
+
+
 ![](//n.sinaimg.cn/sinacn/20170919/c987-fykywuc7435594.jpg)
 
 ## 来源：看看新闻KNEWS

@@ -1,5 +1,8 @@
 # Ayutthaya: “泰国变性人更愿意将自己定义为女性”
 
+## 正文 { data-search-exclude }
+
+
 2014年09月03日 03:36 来源：[新快报](http://dianzibao.xkb.com.cn/view/951855)
 
 ![Prempreeda Ayutthaya](http://y0.ifengimg.com/cmpp/2014/09/03/03/1e5b4671-2a06-4785-b0a6-50defb1631d0.jpg)

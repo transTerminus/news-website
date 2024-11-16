@@ -1,5 +1,8 @@
 # 澳变性男子手术后后悔决定作无性人 获官方承认
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2010年03月16日 08:13  
 **来源**: [中新网](http://www.chinanews.com.cn/gj/gj-rwbg/news/2010/03-16/2170860.shtml)  
 **作者**: 汪敏  

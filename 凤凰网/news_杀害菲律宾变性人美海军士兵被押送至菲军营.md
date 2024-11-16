@@ -1,5 +1,8 @@
 # 杀害菲律宾变性人美海军士兵被押送至菲军营
 
+## 正文 { data-search-exclude }
+
+
 ![Image](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 2014年10月22日 20:21 来源：[中国新闻网](http://www.chinanews.com/tp/hd2011/2014/10-22/425106.shtml)

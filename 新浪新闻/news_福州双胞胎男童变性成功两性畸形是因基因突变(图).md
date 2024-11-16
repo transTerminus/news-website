@@ -1,5 +1,8 @@
 # 福州双胞胎男童变性成功　两性畸形是因基因突变(图)
 
+## 正文 { data-search-exclude }
+
+
 ![福州双胞胎](//n.sinaimg.cn/sinacn/20170105/4be5-fxzkssy0684344.jpg)
 
 ## 北京娱乐信报

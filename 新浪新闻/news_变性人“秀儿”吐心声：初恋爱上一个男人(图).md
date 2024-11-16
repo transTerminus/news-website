@@ -1,5 +1,8 @@
 # 变性人“秀儿”吐心声：初恋爱上一个男人(图)
 
+## 正文 { data-search-exclude }
+
+
 ![秀儿](//tva1.sinaimg.cn/crop.0.0.180.180.180/6bfc1951jw1e8qgp5bmzyj2050050aa8.jpg)
 
 ## 时间

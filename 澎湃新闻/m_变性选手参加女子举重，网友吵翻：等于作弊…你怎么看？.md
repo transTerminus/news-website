@@ -1,5 +1,8 @@
 # 变性选手参加女子举重，网友吵翻：等于作弊…你怎么看？
 
+## 正文 { data-search-exclude }
+
+
 ![](https://image.thepaper.cn/publish/interaction/image/3/77/523.jpg)
 
 “跨性别举重运动员参赛公平吗？”

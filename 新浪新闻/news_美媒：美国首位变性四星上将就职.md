@@ -1,5 +1,8 @@
 # 美媒：美国首位变性四星上将就职
 
+## 正文 { data-search-exclude }
+
+
 ![美媒：美国首位变性四星上将就职](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/4beb-82bb39e0eb95b37325e30443608deca9.jpg)
 
 ## 参考消息

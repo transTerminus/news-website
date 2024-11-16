@@ -1,5 +1,8 @@
 # 心理学教授邱昌建：刘著应该是易性癖
 
+## 正文 { data-search-exclude }
+
+
 ![Image](http://photocdn.sohu.com/20061227/Img247299768.gif)
 来源：四川新闻网-成都商报
 

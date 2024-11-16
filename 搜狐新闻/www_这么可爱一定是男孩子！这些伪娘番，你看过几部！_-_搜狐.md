@@ -1,5 +1,8 @@
 # 这么可爱一定是男孩子！这些伪娘番，你看过几部！
 
+## 正文 { data-search-exclude }
+
+
 2018-10-17 21:03 来源: [宅文社](https://www.sohu.com/a/260102883_100293215?spm=smpc.content-abroad.content.1.1730981124070GvoTJiy)
 
 **笨蛋测验召唤兽**

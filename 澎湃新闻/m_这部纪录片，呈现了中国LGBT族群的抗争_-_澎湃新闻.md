@@ -1,5 +1,8 @@
 # 这部纪录片，呈现了中国LGBT族群的抗争
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://image.thepaper.cn/publish/interaction/image/5/57/823.jpg)
 
 **作者：Louis Hothothot**  

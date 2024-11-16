@@ -1,5 +1,8 @@
 # 泰国新航空公司变性人空姐正式亮相
 
+## 正文 { data-search-exclude }
+
+
 ![](http://i7.chinanews.com/tp/2011hd/images/bian1.gif)
 
 ![泰国新航空公司变性人空姐正式亮相](U86P4T426D79953F16470DT20111215183340.jpg)

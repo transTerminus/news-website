@@ -1,5 +1,8 @@
 # 跨性别人群现在可以接受一种治疗，让自己听起来更真实
 
+## 正文 { data-search-exclude }
+
+
 2017-04-30 07:25 [好奇心日报](http://www.qdaily.com/articles/40279.html?source=feed)
 
 -   T大

@@ -1,5 +1,8 @@
 # 美国跨性别前奥运冠军凯特琳·詹娜将竞选加州州长
 
+## 正文 { data-search-exclude }
+
+
 澎湃新闻 04-24 07:31
 
 ![](https://file.thepaper.cn/wap/v6/img/kb_zhaiyao.png) 

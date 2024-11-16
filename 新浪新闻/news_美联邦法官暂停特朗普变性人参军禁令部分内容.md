@@ -1,5 +1,8 @@
 # 美联邦法官暂停特朗普变性人参军禁令部分内容
 
+## 正文 { data-search-exclude }
+
+
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：中新网  

@@ -1,5 +1,8 @@
 # 拜登废除变性人服役禁令
 
+## 正文 { data-search-exclude }
+
+
 ![拜登废除变性人服役禁令](https://image.thepaper.cn/publish/interaction/image/4/23/97.jpg)
 
 **作者**: ChineseInNY  

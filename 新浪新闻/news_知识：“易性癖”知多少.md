@@ -1,5 +1,8 @@
 # 知识：“易性癖”知多少
 
+## 正文 { data-search-exclude }
+
+
 ![易性癖图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20231128/3b24-6df10b84073067dce3c1f59832122b0e.jpg)
 
 ## 现代金报

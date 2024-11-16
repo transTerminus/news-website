@@ -1,5 +1,8 @@
 # 质问得州州长竞选人是否会反对儿童变性手术，美国独立记者被直接抱走
 
+## 正文 { data-search-exclude }
+
+
 ![质问得州州长竞选人是否会反对儿童变性手术，美国独立记者被直接抱走](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2022/B3965E6CB6B46B3738DCD7F380B0C55F4889E58D_size4729_w639_h359.gif)
 
 ![观察者网](https://d.ifengimg.com/q100/img1.ugc.ifeng.com/newugc/20200405/16/wemedia/874b68a41191f328babce0e8ff4dbdc366a0dba9_size63_w200_h200.png)

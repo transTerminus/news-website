@@ -1,5 +1,8 @@
 # 当当网男员工做完“变性手术”就被解雇，到底咋回事？法院判了
 
+## 正文 { data-search-exclude }
+
+
 ![当当网事件](https://image.thepaper.cn/publish/interaction/image/3/76/472.jpg)
 
 来源：中国裁判文书网

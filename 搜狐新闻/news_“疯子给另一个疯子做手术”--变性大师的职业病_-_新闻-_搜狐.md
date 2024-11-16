@@ -1,5 +1,8 @@
 # “疯子给另一个疯子做手术”--变性大师的职业病
 
+## 正文 { data-search-exclude }
+
+
 ![变性手术](https://photo.sohu.com/37/72/Img147497237.gif)
 
 **来源**: 北京晨报  

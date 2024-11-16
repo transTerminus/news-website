@@ -1,5 +1,8 @@
 # 一篇药娘日记，记录了数万药娘的悲惨命运
 
+## 正文 { data-search-exclude }
+
+
 ![药娘](https://image.thepaper.cn/publish/interaction/image/4/416/230.jpg)
 
 **原创 作者**：张大东 X博士  

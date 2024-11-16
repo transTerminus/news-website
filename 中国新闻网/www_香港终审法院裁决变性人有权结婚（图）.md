@@ -1,5 +1,8 @@
 # 香港终审法院裁决变性人有权结婚（图）
 
+## 正文 { data-search-exclude }
+
+
 2013年05月13日 11:00  
 来源：[中国新闻网](http://www.chinanews.com/)  
 

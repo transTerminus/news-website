@@ -1,5 +1,8 @@
 # 性别扭转治疗：一个跨性别女孩的残酷“成年礼”
 
+## 正文 { data-search-exclude }
+
+
 作者： [中国慈善家](https://news.qq.com/omn/author/8QMc33pU64AVuj%2Fa)  
 来源： 《中国慈善家》官方账号  
 时间： 2020-07-22 08:22

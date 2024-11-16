@@ -1,5 +1,8 @@
 # “变性”状告四川大学华西医院案昨二审
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://photo.sohu.com/37/72/Img147497237.gif)
 
 **来源:** 新华网  

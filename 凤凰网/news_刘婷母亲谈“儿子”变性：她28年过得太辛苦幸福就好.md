@@ -1,5 +1,8 @@
 # 刘婷母亲谈“儿子”变性：她28年过得太辛苦 幸福就好
 
+## 正文 { data-search-exclude }
+
+
 ![变性后的刘婷美丽动人](http://y0.ifengimg.com/cmpp/2015/04/09/14/d720f370-07e3-44e4-a922-2c28448d206c_size86_w550_h366.jpg)
 
 ![当年刘霆背着母亲上学](http://y0.ifengimg.com/cmpp/2015/04/09/14/98d15fbb-7aa3-4264-9cb0-dd27d4a51428_size117_w550_h366.jpg)

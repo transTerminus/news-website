@@ -1,5 +1,8 @@
 # 印尼变性人受社会尊崇 被视为神的使者(图)
 
+## 正文 { data-search-exclude }
+
+
 ![图片](//tva1.sinaimg.cn/crop.0.0.199.199.180/005RyDCrjw1eo3m51rgosj305k05kdg0.jpg)
 
 ## 来源: 桂龙新闻网

@@ -1,5 +1,8 @@
 # 遭电击治疗，一位跨性别者决定起诉
 
+## 正文 { data-search-exclude }
+
+
 ![](//beacon.sina.com.cn/a.gif?noScript)
 
 2024年09月24日 08:03 [澎湃新闻](https://www.toutiao.com/i7417993398923149858)

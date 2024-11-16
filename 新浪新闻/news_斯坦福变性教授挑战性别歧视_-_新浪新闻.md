@@ -1,5 +1,8 @@
 # 斯坦福变性教授挑战性别歧视
 
+## 正文 { data-search-exclude }
+
+
 ![斯坦福变性教授挑战性别歧视](http://image2.sina.com.cn/dy/w/2006-07-20/228da81425e7a35f7f341d370d972d61.jpg)
 
 ![斯坦福变性教授挑战性别歧视](http://image2.sina.com.cn/dy/w/2006-07-20/5b0b883edfbc62b4b5d56025e55b2b60.jpg)

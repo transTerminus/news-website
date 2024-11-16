@@ -1,5 +1,8 @@
 # 丹麦国会决定明年起不把“跨性别”列为精神疾病
 
+## 正文 { data-search-exclude }
+
+
 2016年06月01日 11:29 中国新闻网
 
 ![丹麦国会](http://i3.chinanews.com/2014/wap/images/top.png)

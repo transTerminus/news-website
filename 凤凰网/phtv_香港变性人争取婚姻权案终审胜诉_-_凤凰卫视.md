@@ -1,5 +1,8 @@
 # 香港变性人争取婚姻权案 终审胜诉
 
+## 正文 { data-search-exclude }
+
+
 ![香港变性人争取婚姻权案](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=775&bg=775&b=773&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 **发布时间：** 2013年05月14日 11:11  

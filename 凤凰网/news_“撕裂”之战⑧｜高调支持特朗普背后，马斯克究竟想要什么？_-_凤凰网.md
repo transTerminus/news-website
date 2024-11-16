@@ -1,5 +1,8 @@
 # “撕裂”之战⑧｜高调支持特朗普背后，马斯克究竟想要什么？
 
+## 正文 { data-search-exclude }
+
+
 ![“撕裂”之战⑧｜高调支持特朗普背后，马斯克究竟想要什么？](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/75251803927AFA17C66BD4FDCCE2B6FA9458A89E_size730_w940_h692.png)
 
 [红星新闻](https://ishare.ifeng.com/mediaShare/home/7244/media)

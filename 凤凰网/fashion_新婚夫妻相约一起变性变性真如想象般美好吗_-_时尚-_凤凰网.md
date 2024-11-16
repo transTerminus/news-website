@@ -1,5 +1,8 @@
 # 新婚夫妻相约一起变性 变性真如想象般美好吗
 
+## 正文 { data-search-exclude }
+
+
 ![image](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=765&bg=765&b=763&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 **来源**：凤凰健康  

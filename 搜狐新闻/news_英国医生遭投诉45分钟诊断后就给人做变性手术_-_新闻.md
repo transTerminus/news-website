@@ -1,5 +1,8 @@
 # 英国医生遭投诉 45分钟诊断后就给人做变性手术
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐新闻-搜狐网站](https://images.sohu.com/uiue/sohu_logo/2006/news_logo3.gif)
 
 **时间：** 2007年05月25日02:31  

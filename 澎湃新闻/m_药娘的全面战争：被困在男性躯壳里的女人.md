@@ -1,5 +1,8 @@
 # 药娘的全面战争：被困在男性躯壳里的女人
 
+## 正文 { data-search-exclude }
+
+
 ![药娘的全面战争](https://image.thepaper.cn/publish/interaction/image/3/596/285.jpg)
 
 **来源**: 澎湃号·湃客  

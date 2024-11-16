@@ -1,5 +1,8 @@
 # 专访中国变性手术之父：变性患者不等于同性恋
 
+## 正文 { data-search-exclude }
+
+
 ![我来说两句](https://images.sohu.com/lb.gif)
 
 **时间**：2005年10月20日19:45  

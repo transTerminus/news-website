@@ -1,5 +1,8 @@
 # 巴黎奥运会开幕式遭痛批，变装艺术惹怒宗教群体，奥组委紧急道歉
 
+## 正文 { data-search-exclude }
+
+
 2024-07-30 18:51:45 来源: [青松解局](https://www.163.com/dy/media/T1637913922284.html)
 
 ![image](https://static.ws.126.net/163/f2e/dy_media/dy_media/static/images/ipLocation.f6d00eb.svg)

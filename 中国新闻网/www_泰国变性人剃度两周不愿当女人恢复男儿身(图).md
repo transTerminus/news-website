@@ -1,5 +1,8 @@
 # 泰国变性人剃度两周不愿当女人 恢复男儿身(图)
 
+## 正文 { data-search-exclude }
+
+
 2014年05月05日 08:27 来源：[中国新闻网](http://www.chinanews.com/) ![](http://i3.chinanews.com/2011/news/images/1.png)[参与互动(0)](http://comment.chinanews.com/ci/index.php/comment/news/more/6131054)
 
 ![泰国变性人剃度两周不愿当女人恢复男儿身（图）](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U194P4T47D46410F107DT20200505082741.jpg)

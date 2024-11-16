@@ -1,5 +1,8 @@
 # 泛性恋与双性恋、酷儿、跨性别恋、无性恋的区别是什么?
 
+## 正文 { data-search-exclude }
+
+
 2019-08-20 11:55 来源: [广州伊理雅通心理中心](https://www.sohu.com/a/335000571_100137343?spm=smpc.content-abroad.content.1.1730982785915fkRYkXQ)
 
 ![image](http://5b0988e595225.cdn.sohucs.com/images/20190820/175149b7876c4f598af973d66abd52fc.png)

@@ -1,5 +1,8 @@
 # 英国一变性女囚被强迫关入男牢后死亡
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 2015年11月23日 02:27 来源：[参考消息](http://www.cankaoxiaoxi.com/world/20151122/1004476.shtml)

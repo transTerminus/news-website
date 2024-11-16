@@ -1,5 +1,8 @@
 # 尼泊尔护照将准许“第三性”公民 变性人等受益
 
+## 正文 { data-search-exclude }
+
+
 2013年06月12日 15:39 来源：[中国新闻网](http://www.chinanews.com/) 
 
 ![尼泊尔护照](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U194P4T47D46410F978DT20200311093349.jpg)

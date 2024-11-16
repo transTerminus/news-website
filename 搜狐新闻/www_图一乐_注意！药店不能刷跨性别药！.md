@@ -1,5 +1,8 @@
 # 图一乐 | 注意！药店不能刷跨性别药！
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2024-03-05 00:00  
 **来源**: [青苹果记录生活](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730993528709UUvZK8h)  
 **发布于**: 山西省  

@@ -1,5 +1,8 @@
 # “伪娘”文化盛行：中国男人终于越来越“娘”了，雄风逐渐消失
 
+## 正文 { data-search-exclude }
+
+
 **时间:** 2021-07-04 23:55  
 **来源:** [全球健康知识库](https://www.sohu.com/?spm=smpc.content-abroad.content.1.17309863335974eeGN3l)  
 **作者:** 汤米  

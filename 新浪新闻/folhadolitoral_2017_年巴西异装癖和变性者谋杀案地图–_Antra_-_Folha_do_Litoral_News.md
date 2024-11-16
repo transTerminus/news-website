@@ -1,5 +1,8 @@
 # 2017 年巴西异装癖和变性者谋杀案地图 – Antra
 
+## 正文 { data-search-exclude }
+
+
 Antra的数据显示，2017年全国共发生179起谋杀案
 
 ![Antra Logo](https://folhadolitoral.com.br/wp-content/uploads/2024/07/logo-folha-do-litoral.webp)

@@ -1,5 +1,8 @@
 # 激起千层浪！一篇关于青少年性转变的论著，引起 LGBT 群体、学界激烈争辩
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2018-09-18 10:38  
 **来源**: [DeepTech深科技](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730980720144ztZLQDs)  
 **标签**: 跨性别, 青少年性转变, LGBT, 研究  

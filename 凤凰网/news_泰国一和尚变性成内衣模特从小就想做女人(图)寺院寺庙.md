@@ -1,5 +1,8 @@
 # 泰国一和尚变性成内衣模特 从小就想做女人(图)
 
+## 正文 { data-search-exclude }
+
+
 ![变性前的Phajaranat Nobantao。](http://y2.ifengimg.com/cmpp/2015/12/18/09/20b05965-d7f3-4b2b-8c4d-7ec396552f2e_size88_w500_h491.jpg)
 
 2015年12月18日 09:15 来源：[中国新闻网](http://www.chinanews.com/gj/2015/12-18/7676735.shtml)

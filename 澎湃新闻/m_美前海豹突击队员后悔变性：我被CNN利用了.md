@@ -1,5 +1,8 @@
 # 美前海豹突击队员后悔变性：我被CNN利用了
 
+## 正文 { data-search-exclude }
+
+
 ![克里斯·贝克](https://image.thepaper.cn/publish/interaction/image/4/528/321.jpg)
 
 **来源**: 观网文娱  

@@ -1,5 +1,8 @@
 # 日本拟培养专业变性手术医生 将变性纳入保险范围
 
+## 正文 { data-search-exclude }
+
+
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源

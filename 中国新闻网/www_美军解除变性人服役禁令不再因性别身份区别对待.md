@@ -1,5 +1,8 @@
 # 美军解除变性人服役禁令 不再因性别身份区别对待
 
+## 正文 { data-search-exclude }
+
+
 2016年07月01日 08:30　来源：[中国新闻网](http://www.chinanews.com/)
 
 ![美军解除变性人服役禁令](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U194P4T47D46410F978DT20200311093349.jpg)

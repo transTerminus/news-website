@@ -1,5 +1,8 @@
 # 是不是不刷社交媒体，就不会死于心碎？
 
+## 正文 { data-search-exclude }
+
+
 [![image](https://image.thepaper.cn/publish/interaction/image/4/871/114.jpg)](https://m.thepaper.cn/user_interaction_3614396)
 
 [译言译言网官方澎湃号](https://m.thepaper.cn/user_interaction_3614396)

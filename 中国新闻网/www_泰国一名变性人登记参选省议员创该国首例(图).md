@@ -1,5 +1,8 @@
 # 泰国一名变性人登记参选省议员 创该国首例(图)
 
+## 正文 { data-search-exclude }
+
+
 2012年04月25日 16:38 来源：[中国新闻网](http://www.chinanews.com/) 
 
 ![尤兰德](http://image1.chinanews.com.cn/cnsupload/big/2012/04-25/4-8/20114b308515435398fb966efc1725f8.jpg)

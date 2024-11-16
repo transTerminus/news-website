@@ -1,5 +1,8 @@
 # 别在“伪娘”面前失去冷静
 
+## 正文 { data-search-exclude }
+
+
 2010年07月08日 17:04 来源：中国文化报
 
 ![Image](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F981DT20100423110629.jpg)

@@ -1,5 +1,8 @@
 # 9岁“两性人”在厦门动手术 实现做男子汉的愿望
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](http://i5.chinanews.com/images/images1/logo2.gif)
 
 **时间：** 2008年08月28日 15:14  

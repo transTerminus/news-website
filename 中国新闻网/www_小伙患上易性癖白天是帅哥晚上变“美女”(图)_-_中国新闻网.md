@@ -1,5 +1,8 @@
 # 小伙患上易性癖 白天是帅哥晚上变“美女”(图)
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](http://i5.chinanews.com/images/images1/logo2.gif)
 
 **时间:** 2008年09月18日 13:54  

@@ -1,5 +1,8 @@
 # 异装癖陶艺家当选英皇家艺术学院院士(图)
 
+## 正文 { data-search-exclude }
+
+
 ![异装前的佩里](http://collection.sinaimg.cn/cqty/20110409/U5566P1081T2D22671F6DT20110409101005.jpg) 
 ![佩里的其他异装模样](http://collection.sinaimg.cn/cqty/20110409/U5566P1081T2D22671F7DT20110409101005.jpg) 
 ![佩里的其他异装模样](http://collection.sinaimg.cn/cqty/20110409/U5566P1081T2D22671F8DT20110409101005.jpg)

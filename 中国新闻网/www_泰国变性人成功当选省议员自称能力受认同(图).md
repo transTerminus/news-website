@@ -1,5 +1,8 @@
 # 泰国变性人成功当选省议员 自称能力受认同(图)
 
+## 正文 { data-search-exclude }
+
+
 2012年05月29日 15:25  
 来源：[中国新闻网](http://www.chinanews.com/)  
 

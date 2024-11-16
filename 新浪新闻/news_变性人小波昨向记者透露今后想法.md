@@ -1,5 +1,8 @@
 # 变性人小波昨向记者透露今后想法
 
+## 正文 { data-search-exclude }
+
+
 ![小波](//n.sinaimg.cn/sinakd10220/360/w180h180/20221207/42fa-6953b46acba4f12244f68d5af43accf2.jpg)
 
 ## 来源：上游新闻

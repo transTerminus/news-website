@@ -1,5 +1,8 @@
 # 跨性别女性(MTF)生殖器手术须知
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2023-04-07 14:40  
 **来源**: [医美大众科普](https://www.sohu.com/a/663995926_103755?spm=smpc.content-abroad.content.1.17309918890533LyYj94)  
 **发布于**: 北京市

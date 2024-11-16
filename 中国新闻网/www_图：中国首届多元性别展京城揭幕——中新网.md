@@ -1,5 +1,8 @@
 # 中国首届多元性别展京城揭幕
 
+## 正文 { data-search-exclude }
+
+
 ![中国首届多元性别展京城揭幕](http://i2.chinanews.com/zwimg/01.jpg)
 
 **时间**: 2009年06月15日  

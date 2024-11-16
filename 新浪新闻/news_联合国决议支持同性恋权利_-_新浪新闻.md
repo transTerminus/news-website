@@ -1,5 +1,8 @@
 # 联合国决议支持同性恋权利
 
+## 正文 { data-search-exclude }
+
+
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源

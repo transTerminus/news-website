@@ -1,5 +1,8 @@
 # 国际泳联限制跨性别者参加女子赛事
 
+## 正文 { data-search-exclude }
+
+
 ![国际泳联限制跨性别者参加女子赛事](https://image.thepaper.cn/publish/interaction/image/4/23/97.jpg)
 
 **作者**：纽约时间国际领域创作者  

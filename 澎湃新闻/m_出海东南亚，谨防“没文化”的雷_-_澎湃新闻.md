@@ -1,5 +1,8 @@
 # 出海东南亚，谨防“没文化”的雷
 
+## 正文 { data-search-exclude }
+
+
 ![图](https://image.thepaper.cn/publish/interaction/image/3/717/612.jpg)
 
 **来源**: [虎嗅APP](https://m.thepaper.cn/user_interaction_4772882)  

@@ -1,5 +1,8 @@
 # 翩翩少年爱红装 动漫催生日本“伪娘文化”(图)
 
+## 正文 { data-search-exclude }
+
+
 来源：[人民网](https://world.people.com.cn/GB/12196519.html)  
 发布时间：2010年07月20日13:09
 

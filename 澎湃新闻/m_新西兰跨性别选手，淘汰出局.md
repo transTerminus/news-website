@@ -1,5 +1,8 @@
 # 新西兰跨性别选手，淘汰出局
 
+## 正文 { data-search-exclude }
+
+
 ![新西兰跨性别选手](https://image.thepaper.cn/publish/interaction/image/3/217/893.jpg)
 
 **来源：** 环行星球  

@@ -1,5 +1,8 @@
 # 英国男子变性后再娶妻子当新娘(组图)
 
+## 正文 { data-search-exclude }
+
+
 ![英国男子变性后再娶妻子当新娘(组图)](//x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
 
 **来源：现代快报**  

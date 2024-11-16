@@ -1,5 +1,8 @@
 # 细说“娘炮”文化的三大危害
 
+## 正文 { data-search-exclude }
+
+
 ![娘炮文化](https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 “娘炮”文化作为从日韩的舶来品，其本质、危害日益被广大人民群众看清，也终于引来众多“正义炮火”对它的饱和攻击。“[娘炮](https://news.163.com/news/search?keyword=%E5%A8%98%E7%82%AE)”文化到底有什么危害呢？

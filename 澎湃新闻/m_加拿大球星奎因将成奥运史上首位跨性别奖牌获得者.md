@@ -1,5 +1,8 @@
 # 加拿大球星奎因将成奥运史上首位跨性别奖牌获得者
 
+## 正文 { data-search-exclude }
+
+
 ![奎因](https://image.thepaper.cn/publish/interaction/image/4/528/321.jpg)
 
 **来源**: 观察者网  

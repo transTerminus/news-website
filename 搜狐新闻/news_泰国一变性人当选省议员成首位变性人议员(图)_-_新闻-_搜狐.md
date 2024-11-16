@@ -1,5 +1,8 @@
 # 泰国一变性人当选省议员 成首位变性人议员(图)
 
+## 正文 { data-search-exclude }
+
+
 ![资料图：泰国变性人Yonlada Suanyos](https://photocdn.sohu.com/20120530/Img344406695.jpg)
 
 **来源**：[环球网](https://world.huanqiu.com/well_read/2012-05/2769271.html)  

@@ -1,5 +1,8 @@
 # 男性还是女性？美国普林斯顿大学允许6种性别选项
 
+## 正文 { data-search-exclude }
+
+
 ![普林斯顿大学](http://i2.chinanews.com/thumbnailzhi44.png)
 
 **时间**: 2017年08月04日  

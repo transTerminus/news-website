@@ -1,5 +1,8 @@
 # 观点 | 对“娘炮”现象，请不要人云亦云
 
+## 正文 { data-search-exclude }
+
+
 2018-10-23 18:30 来源: [社会科学报](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730981202278LXBwgXl)
 
 ![](http://5b0988e595225.cdn.sohucs.com/images/20181023/6337a31de5434880a3b88597d7a99649.jpeg)

@@ -1,5 +1,8 @@
 # 拜登撤销特朗普禁令，允许变性者在美军服役
 
+## 正文 { data-search-exclude }
+
+
 ![](https://file.thepaper.cn/wap/v6/img/logo_wap_v3.png)
 
 美国新任总统拜登25日签署了一项行政命令，废除了特朗普政府颁发的禁止变性者服役的命令。

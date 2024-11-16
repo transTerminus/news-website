@@ -1,5 +1,8 @@
 # 金星两天连发两条微博，霸气发声：爱自己，做自己，无关性别！
 
+## 正文 { data-search-exclude }
+
+
 2024-10-25 16:28:56　来源: [谈娱新语](https://www.163.com/dy/media/T1697684365135.html)  
   
 ![金星](https://static.ws.126.net/163/f2e/dy_media/dy_media/static/images/ipLocation.f6d00eb.svg)

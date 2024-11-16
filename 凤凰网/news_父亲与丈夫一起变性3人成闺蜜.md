@@ -1,5 +1,8 @@
 # 父亲与丈夫一起变性 3人成闺蜜
 
+## 正文 { data-search-exclude }
+
+
 ![配图](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 2014年07月25日 03:26 来源：[现代快报](http://dz.xdkb.net/html/2014-07/25/content_352520.htm)

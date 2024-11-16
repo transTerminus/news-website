@@ -1,5 +1,8 @@
 # 为什么大家突然不爱看电影了？
 
+## 正文 { data-search-exclude }
+
+
 ![为什么大家突然不爱看电影了？](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/BEDA3CBDCEAAA897C8DB28714841AC8D25FB5F6A_size185_w1080_h772.jpg)
 
 [中国新闻周刊](https://ishare.ifeng.com/mediaShare/home/287882/media)  |  2024年10月26日 07:01:21 来自北京

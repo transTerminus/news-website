@@ -1,5 +1,8 @@
 # 一位变性者的自白：手术易融入生活难(图)
 
+## 正文 { data-search-exclude }
+
+
 2014年06月18日 21:19  
 来源：[中国新闻网](http://www.chinanews.com/)  
 

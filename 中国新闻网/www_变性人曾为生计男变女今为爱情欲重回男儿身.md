@@ -1,5 +1,8 @@
 # 变性人曾为生计男变女 今为爱情欲重回男儿身
 
+## 正文 { data-search-exclude }
+
+
 ![变性人曾为生计男变女 今为爱情欲重回男儿身](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
 
 **时间**: 2007年05月18日 14:07  

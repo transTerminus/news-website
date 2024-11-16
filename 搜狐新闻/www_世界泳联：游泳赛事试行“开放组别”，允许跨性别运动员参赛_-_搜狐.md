@@ -1,5 +1,8 @@
 # 世界泳联：游泳赛事试行“开放组别”，允许跨性别运动员参赛
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2023-07-26 15:16  
 **来源**: [澎湃新闻](http://m.thepaper.cn/rss_newsDetail_23993069?from=sohu)  
 **发布于**: 上海市  

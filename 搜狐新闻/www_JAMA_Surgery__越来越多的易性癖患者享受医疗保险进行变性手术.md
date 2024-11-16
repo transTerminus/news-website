@@ -1,5 +1,8 @@
 # JAMA Surgery | 越来越多的易性癖患者享受医疗保险进行变性手术
 
+## 正文 { data-search-exclude }
+
+
 2018-03-13 07:46 来源: [生命科学](https://www.sohu.com/a/225369494_100041011?spm=smpc.content-abroad.content.1.1730979528751CmL8B9l)
 
 ![变性手术](http://5b0988e595225.cdn.sohucs.com/images/20180312/baf063ab64de402484c53ac2ca7e4e4b.jpeg)

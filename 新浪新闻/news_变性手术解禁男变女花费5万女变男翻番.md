@@ -1,5 +1,8 @@
 # 变性手术解禁 男变女花费5万 女变男翻番
 
+## 正文 { data-search-exclude }
+
+
 ![成都商报](http://i1.sinaimg.cn/dy/31/U868P1T31D193F479DT20051229065948.jpg)
 
 **来源：** [四川新闻网-成都商报](http://e.chengdu.cn/html/2011-06/03/content_239582.htm)  

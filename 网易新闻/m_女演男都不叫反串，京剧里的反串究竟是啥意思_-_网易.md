@@ -1,5 +1,8 @@
 # 别瞎叫！男演女、女演男都不叫反串，京剧里的反串究竟是啥意思
 
+## 正文 { data-search-exclude }
+
+
 ![京剧](https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 京剧舞台上，我们会看到这样的现象：男性演女性角色，女性演男性角色。很多人觉得，这和唱歌的是一样，都叫反串，就像李玉刚那样的表演。可是这是大错特错的。

@@ -1,5 +1,8 @@
 # 西方文化
 
+## 正文 { data-search-exclude }
+
+
 ## 来源
 [新浪博客](http://blog.sina.com.cn/u/5345996757)
 

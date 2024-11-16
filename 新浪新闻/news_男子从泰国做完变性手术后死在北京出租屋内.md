@@ -1,5 +1,8 @@
 # 男子从泰国做完变性手术后死在北京出租屋内
 
+## 正文 { data-search-exclude }
+
+
 ![相关图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/41bb-24c971da1316d17de47caa3c1b099cb2.jpg)
 
 ## 新京报

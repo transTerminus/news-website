@@ -1,5 +1,8 @@
 # 变性手术之父何清濂：变性患者不等于同性恋
 
+## 正文 { data-search-exclude }
+
+
 ![科技时代](http://image2.sina.com.cn/IT/images/sina_kjsd.gif)
 ![图](http://image2.sina.com.cn/dy/31/1_1-31-479_2003052311221.gif)
 

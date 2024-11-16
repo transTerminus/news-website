@@ -1,5 +1,8 @@
 # 变性手术后被辞退，到底是因为旷工还是歧视？
 
+## 正文 { data-search-exclude }
+
+
 ![变性手术](//n.sinaimg.cn/sinacn/20170919/c987-fykywuc7435594.jpg)
 
 ## 看看新闻KNEWS

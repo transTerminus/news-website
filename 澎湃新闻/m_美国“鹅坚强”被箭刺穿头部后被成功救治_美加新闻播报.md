@@ -1,5 +1,8 @@
 # 美国“鹅坚强”被箭刺穿头部后被成功救治 | 美加新闻播报
 
+## 正文 { data-search-exclude }
+
+
 ![美国“鹅坚强”](https://image.thepaper.cn/publish/interaction/image/4/580/494.jpg)
 
 **来源**: [澎湃号·湃客](https://m.thepaper.cn/channel_36079)

@@ -1,5 +1,8 @@
 # 两变性人被疑并非恋人 两人可能为医院代言(图)
 
+## 正文 { data-search-exclude }
+
+
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：金羊网-新快报

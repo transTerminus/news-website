@@ -1,5 +1,8 @@
 # 变性人骗婚成被告 庭上辩称是为满足性欲
 
+## 正文 { data-search-exclude }
+
+
 2010年12月08日 13:57 来源：东南网  
 ![变性人](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F981DT20100423110629.jpg)  
 

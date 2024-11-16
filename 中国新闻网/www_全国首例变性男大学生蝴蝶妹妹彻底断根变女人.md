@@ -1,5 +1,8 @@
 # 全国首例变性男大学生"蝴蝶妹妹"彻底断根变女人
 
+## 正文 { data-search-exclude }
+
+
 ![logo](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
 
 **发布时间：** 2007年05月16日 01:14  

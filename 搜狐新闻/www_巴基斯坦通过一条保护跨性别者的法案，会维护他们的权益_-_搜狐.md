@@ -1,5 +1,8 @@
 # 巴基斯坦通过一条保护跨性别者的法案，会维护他们的权益
 
+## 正文 { data-search-exclude }
+
+
 **时间**：2018-05-13 19:16  
 **来源**： [好奇心日报](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730980063646YoYLzPx)
 

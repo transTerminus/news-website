@@ -1,5 +1,8 @@
 # 泰国普吉岛特色“人妖”表演
 
+## 正文 { data-search-exclude }
+
+
 ![人妖表演](https://photocdn.sohu.com/20060321/Img242395349.jpg)
 
 **时间：** 2006年11月06日10:11  

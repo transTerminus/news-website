@@ -1,5 +1,8 @@
 # 男员工变性遭当当网开除，法院写下一段近千字的话…
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://image.thepaper.cn/publish/interaction/image/4/529/672.jpg)
 
 我们尊重和保护变性人的人格、尊严及其正当权利，是基于我们对于公民的尊严和权利的珍视，而非我们对于变性进行倡导和推广。

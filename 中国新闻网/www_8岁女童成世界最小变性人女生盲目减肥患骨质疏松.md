@@ -1,5 +1,8 @@
 # 8岁女童成世界最小变性人
 
+## 正文 { data-search-exclude }
+
+
 ![8岁女童成世界最小变性人](http://i2.chinanews.com/zwimg/01.jpg)
 
 **时间**：2009年10月19日 09:08  

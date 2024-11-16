@@ -1,5 +1,8 @@
 # 核查|拜登要求学校必须接受变性人参加女子运动会？部分虚假
 
+## 正文 { data-search-exclude }
+
+
 ![图片1](https://image.thepaper.cn/publish/interaction/image/3/871/349.jpg)
 
 **作者:** 有据团队  

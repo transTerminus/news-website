@@ -1,5 +1,8 @@
 # 普京签署法案禁止变性手术，俄杜马主席称“将避免走上美国道路”
 
+## 正文 { data-search-exclude }
+
+
 ![普京签署法案禁止变性手术，俄杜马主席称“将避免走上美国道路”](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/E74D250F828EEF5AD3EEE9B93E66D5DABCD0DB46_size472_w543_h354.png)
 
 **作者**：观察者网  

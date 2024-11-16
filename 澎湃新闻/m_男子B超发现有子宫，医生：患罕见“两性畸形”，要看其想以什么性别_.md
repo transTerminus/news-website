@@ -1,5 +1,8 @@
 # 男子B超发现有子宫，医生：患罕见“两性畸形”，要看其想以什么性别生活
 
+## 正文 { data-search-exclude }
+
+
 ![](https://imagecloud.thepaper.cn/thepaper/image/237/899/333.jpg)  
 视觉中国 图
 

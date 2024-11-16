@@ -1,5 +1,8 @@
 # 盘点泰国人妖小姐落幕后的悲惨生活
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2015-06-19 14:18  
 **来源**: [K-Day韩流资讯站](https://www.sohu.com/a/K-Day%E9%9F%A9%E6%B5%81%E8%B5%84%E8%AE%AF%E7%AB%99?spm=smpc.content-abroad.content.1.1730978997048wB46oix)
 

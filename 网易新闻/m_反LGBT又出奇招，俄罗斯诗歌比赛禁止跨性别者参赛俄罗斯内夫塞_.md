@@ -1,5 +1,8 @@
 # 反LGBT又出奇招，俄罗斯诗歌比赛禁止跨性别者参赛
 
+## 正文 { data-search-exclude }
+
+
 ![安德烈·杰缸季耶夫全俄诗歌奖](https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 安德烈·杰缅季耶夫全俄诗歌奖（Andrei Dementyev All-Russian Poetry Prize）已从今年开始禁止跨性别者提交作品参赛。

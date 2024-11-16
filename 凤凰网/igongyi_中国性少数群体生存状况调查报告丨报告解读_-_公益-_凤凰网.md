@@ -1,5 +1,8 @@
 # 中国性少数群体生存状况调查报告丨报告解读
 
+## 正文 { data-search-exclude }
+
+
 ![图片](http://p0.ifengimg.com/fe/iphone_ifeng/images/fenxd_ba2fd33f.png)
 
 ![图片](http://p0.ifengimg.com/fe/iphone_ifeng/images/kj_0ae5d66e.png)

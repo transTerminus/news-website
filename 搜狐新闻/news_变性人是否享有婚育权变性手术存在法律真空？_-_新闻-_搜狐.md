@@ -1,5 +1,8 @@
 # 变性人是否享有婚育权 变性手术存在法律真空？
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://images.sohu.com/ccc.gif)
 
 时间：2005年04月26日01:43  

@@ -1,5 +1,8 @@
 # 变性人贩毒逃过新加坡鞭刑
 
+## 正文 { data-search-exclude }
+
+
 ![齐鲁晚报](https://photo.sohu.com/media/qlwb.jpg)
 
 **时间**：2006年01月22日09:31  

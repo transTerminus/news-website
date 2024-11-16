@@ -1,5 +1,8 @@
 # 新闻聚焦：质疑“中国男子被骗泰国做人妖”
 
+## 正文 { data-search-exclude }
+
+
 ![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 南京《周末》

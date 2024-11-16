@@ -1,5 +1,8 @@
 # 新加坡名导婚外情12名对象曝光:从名模到变性人
 
+## 正文 { data-search-exclude }
+
+
 ![新加坡名导](https://photocdn.sohu.com/20061227/Img247299545.gif)  
 来源：[新华报业网-扬子晚报](https://www.yangtse.com/news/yl/201003/t20100313_723575.htm)  
 时间：2010年03月13日14:35  

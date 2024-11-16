@@ -1,5 +1,8 @@
 # 奥运性别鉴定中心可查出变性人 首先从外观判断
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](http://i5.chinanews.com/images/images1/logo2.gif)
 
 **时间**：2008年07月29日 17:16  

@@ -1,5 +1,8 @@
 # 在跨性别青少年门诊，我目睹了中国家庭的撕裂
 
+## 正文 { data-search-exclude }
+
+
 _![](https://n.sinaimg.cn/sinakd10201/360/w180h180/20200407/e50c-irtymmw7775468.jpg)_
 
 ## 张德芬空间

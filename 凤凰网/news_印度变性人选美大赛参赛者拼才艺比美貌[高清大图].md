@@ -1,5 +1,8 @@
 # 印度变性人选美大赛 参赛者拼才艺比美貌
 
+## 正文 { data-search-exclude }
+
+
 ![](http://img.ifeng.com/res/slide/201001/20100125190141560.jpg)
 
 **时间**：1月24日  

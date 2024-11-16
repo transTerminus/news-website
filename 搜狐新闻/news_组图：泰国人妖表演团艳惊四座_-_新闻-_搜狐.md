@@ -1,5 +1,8 @@
 # 组图：泰国人妖表演团艳惊四座
 
+## 正文 { data-search-exclude }
+
+
 ### 2009年08月19日11:16
 来源：[人民网](https://world.people.com.cn/GB/9889049.html)
 

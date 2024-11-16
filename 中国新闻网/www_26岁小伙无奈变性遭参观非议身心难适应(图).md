@@ -1,5 +1,8 @@
 # 26岁小伙无奈变性 遭"参观"非议身心难适应(图)
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](http://i5.chinanews.com/images/images1/logo2.gif)
 
 **时间：** 2008年11月20日 09:24  

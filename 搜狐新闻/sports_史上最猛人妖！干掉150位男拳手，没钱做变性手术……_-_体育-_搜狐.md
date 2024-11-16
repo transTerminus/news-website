@@ -1,5 +1,8 @@
 # 史上最猛人妖！干掉150位男拳手，没钱做变性手术……
 
+## 正文 { data-search-exclude }
+
+
 **作者**: [格斗迷](http://mp.sohu.com/profile?xpt=cHBhZzg0ODU1OTk2ZTlkZUBzb2h1LmNvbQ==)  
 **时间**: 2018-01-20 21:29:07  
 **来源**: [搜狐体育](https://sports.sohu.com/20180120/n528732368.shtml)  

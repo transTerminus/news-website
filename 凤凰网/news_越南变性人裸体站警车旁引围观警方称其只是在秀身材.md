@@ -1,5 +1,8 @@
 # 越南变性人裸体站警车旁引围观 警方称其只是在秀身材
 
+## 正文 { data-search-exclude }
+
+
 ![变性人](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 2014年12月01日 15:12 来源：[国际在线](http://gb.cri.cn/42071/2014/12/01/7411s4786517.htm)

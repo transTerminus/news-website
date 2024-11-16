@@ -1,5 +1,8 @@
 # 跨性别者被迫接受电击治疗，精神健康应如何保障？
 
+## 正文 { data-search-exclude }
+
+
 2024-08-15 14:04  
 来源: [健康舵手](https://www.sohu.com/a/m.sohu.com?spm=smpc.content-abroad.content.1.1730995109901hn2hcsy)  
 发布于：北京市  

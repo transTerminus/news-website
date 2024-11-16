@@ -1,5 +1,8 @@
 # 美国最高法院：允许跨性别学生使用与其性别认同相符的卫生间
 
+## 正文 { data-search-exclude }
+
+
 ![美国最高法院](https://image.thepaper.cn/publish/interaction/image/4/529/672.jpg)
 
 *来源：环球时报*  

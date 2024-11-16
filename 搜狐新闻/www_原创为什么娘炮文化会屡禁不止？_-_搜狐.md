@@ -1,5 +1,8 @@
 # 原创 为什么娘炮文化会屡禁不止？
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2023-04-18 18:00  
 **来源**: [兰亭电影](https://www.sohu.com/a/667847321_121004148?spm=smpc.content-abroad.content.1.1730992033306HXIvU5b)  
 **发布地点**: 福建省  

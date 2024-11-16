@@ -1,5 +1,8 @@
 # 16岁中学生患两性畸形 做手术恢复女儿身(图)
 
+## 正文 { data-search-exclude }
+
+
 ![患者图片](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：大洋网广州日报

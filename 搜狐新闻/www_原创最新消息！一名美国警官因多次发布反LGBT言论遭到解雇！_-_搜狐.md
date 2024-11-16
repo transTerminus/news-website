@@ -1,5 +1,8 @@
 # 最新消息！一名美国警官因多次发布反LGBT言论遭到解雇！
 
+## 正文 { data-search-exclude }
+
+
 **发布时间：** 2023-02-21 16:46  
 **来源：** [红枫湾](https://www.sohu.com/a/644090544_527250?spm=smpc.content-abroad.content.1.1730991604127pzufZ5i)  
 **发布地点：** 北京市  

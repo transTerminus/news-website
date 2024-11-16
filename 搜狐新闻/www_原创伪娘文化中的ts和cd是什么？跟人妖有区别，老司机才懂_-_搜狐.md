@@ -1,5 +1,8 @@
 # 伪娘文化中的ts和cd是什么？跟人妖有区别，老司机才懂
 
+## 正文 { data-search-exclude }
+
+
 2020-10-17 16:19 来源: [二次元木之本樱](https://www.sohu.com/a/425352355_120369357?spm=smpc.content-abroad.content.1.17309846681177GYD4Gr)
 
 > 今天我们来说一下，跟二次元文化几乎是同等级的伪娘文化中的“ts”和“cd”是什么意思的问题。

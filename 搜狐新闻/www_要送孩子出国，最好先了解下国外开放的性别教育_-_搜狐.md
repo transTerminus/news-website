@@ -1,5 +1,8 @@
 # 要送孩子出国，最好先了解下国外开放的性别教育
 
+## 正文 { data-search-exclude }
+
+
 2018-11-04 09:13 来源: [中国新闻周刊](https://www.sohu.com/a/273149067_220095?spm=smpc.content-abroad.content.1.1730981444257iW7fvQ2)
 
 ![图/图虫创意](http://5b0988e595225.cdn.sohucs.com/images/20181104/e2a3d6775ffb42aeb2b73d41bad11d30.jpeg)

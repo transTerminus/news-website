@@ -1,5 +1,8 @@
 # 23岁男儿期待成为真女人 7天之后将变性(组图)
 
+## 正文 { data-search-exclude }
+
+
 ![秀儿](//tva1.sinaimg.cn/crop.0.0.180.180.180/6bfc1951jw1e8qgp5bmzyj2050050aa8.jpg)
 
 ## 城市晚报

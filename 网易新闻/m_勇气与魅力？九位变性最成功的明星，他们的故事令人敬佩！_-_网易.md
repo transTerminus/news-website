@@ -1,5 +1,8 @@
 # 勇气与魅力？九位变性最成功的明星，他们的故事令人敬佩！
 
+## 正文 { data-search-exclude }
+
+
 ![九位变性明星](https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 当谈及变性明星，我们会想到那些以勇敢面对自己真实身份的人。他们用坚定与勇气，在公众舞台上展示了无与伦比的魅力和实力。以下是九位[变性](https://news.163.com/news/search?keyword=%E5%8F%98%E6%80%A7)最成功的明星，[他们的故事](https://news.163.com/news/search?keyword=%E4%BB%96%E4%BB%AC%E7%9A%84%E6%95%85%E4%BA%8B)让我们为之动容。让我们一起来认识他们吧！

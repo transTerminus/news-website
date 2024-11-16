@@ -1,5 +1,8 @@
 # Trevor Project：2022年美国LGBTQ青年心理健康调查
 
+## 正文 { data-search-exclude }
+
+
 ![调查图片](//tva1.sinaimg.cn/crop.0.0.299.299.180/6a8c1e07gw1efgokalrxdj208c08cq37.jpg)
 
 ## 199IT

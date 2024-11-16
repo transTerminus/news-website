@@ -1,5 +1,8 @@
 # 变性博士面对媒体指正不实炒作 揭秘男妈妈工程
 
+## 正文 { data-search-exclude }
+
+
 ![变性博士](https://photo.sohu.com/37/72/Img147497237.gif)
 
 来源：每日新报  

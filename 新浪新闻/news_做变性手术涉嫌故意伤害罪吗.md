@@ -1,5 +1,8 @@
 # 做变性手术涉嫌故意伤害罪吗
 
+## 正文 { data-search-exclude }
+
+
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：正义网－检察日报  

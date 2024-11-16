@@ -1,5 +1,8 @@
 # 一千美元安一对乃子，泰国的廉价变性手术吸引了多少老外？
 
+## 正文 { data-search-exclude }
+
+
 ![泰国变性手术](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0829%2Fc4946be8j00siylw2018zd200u000j5g00u000j5.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 曼谷某服装批发市场，一家贴着女郎海报的底商访客频繁进出，络绎不绝。

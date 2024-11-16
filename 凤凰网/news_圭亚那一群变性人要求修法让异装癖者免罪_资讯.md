@@ -1,5 +1,8 @@
 # 圭亚那一群变性人要求修法 让异装癖者免罪
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2010年02月23日 17:09  
 **来源**: [中国新闻网](http://www.chinanews.com.cn/gj/gj-sswh/news/2010/02-23/2134445.shtml)  
 **作者**: 霍吉和  

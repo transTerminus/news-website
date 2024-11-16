@@ -1,5 +1,8 @@
 # 准变性人自述：我在歧视中做女人梦
 
+## 正文 { data-search-exclude }
+
+
 ![avatar](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：法制早报

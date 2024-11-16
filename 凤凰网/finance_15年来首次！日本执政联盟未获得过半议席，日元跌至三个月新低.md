@@ -1,5 +1,8 @@
 # 15年来首次！日本执政联盟未获得过半议席，日元跌至三个月新低
 
+## 正文 { data-search-exclude }
+
+
 ![15年来首次！日本执政联盟未获得过半议席，日元跌至三个月新低](//x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
 
 [![Image](http://d.ifengimg.com/q100/img1.ugc.ifeng.com/newugc/20180723/15/wemedia/8d4aa5f0b980df3bacb3a3b14c004d848f93ade2_size21_w200_h200.png)](https://ishare.ifeng.com/mediaShare/home/1082613/media)

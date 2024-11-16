@@ -1,5 +1,8 @@
 # 李银河解读男扮女装：“伪娘”与异装癖不一样
 
+## 正文 { data-search-exclude }
+
+
 **来源**: [扬子晚报](http://epaper.yangtse.com/yzwb/2010-05/09/content_130730.htm?div=-1)  
 **时间**: 2010年05月09日 11:26  
 **作者**: 成 商  

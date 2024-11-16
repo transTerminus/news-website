@@ -1,5 +1,8 @@
 # 奥巴马下令学校允许变性学生根据认同性别如厕
 
+## 正文 { data-search-exclude }
+
+
 ![奥巴马](http://p2.ifengimg.com/a/2016_20/047ff5dde8942d0_size44_w600_h431.jpg) ![](http://y3.ifengimg.com/a/2016/0414/ab605e5e0631dd6size71_w300_h300.jpg)
 
 **2016年05月14日 21:52 来源：[中国日报网](http://world.chinadaily.com.cn/2016-05/13/content_25261258.htm)**

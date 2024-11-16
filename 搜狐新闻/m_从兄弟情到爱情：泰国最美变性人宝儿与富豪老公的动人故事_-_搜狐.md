@@ -1,5 +1,8 @@
 # 从兄弟情到爱情：泰国最美变性人宝儿与富豪老公的动人故事
 
+## 正文 { data-search-exclude }
+
+
 ![熊家餐馆](http://03e1181bba1cf.cdn.sohucs.com/files/1695809599254.png)
 
 ## 前言

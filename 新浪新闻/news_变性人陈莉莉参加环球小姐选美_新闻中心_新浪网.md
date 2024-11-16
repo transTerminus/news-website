@@ -1,5 +1,8 @@
 # 变性人陈莉莉参加环球小姐选美
 
+## 正文 { data-search-exclude }
+
+
 ![变性人陈莉莉参加环球小姐选美](http://i1.sinaimg.cn/dy/z/schelilixuanmei/U414P1T63D1155F1724DT20040308124316.gif)
 
 在环球小姐四川赛区的初赛中，变性人陈莉莉容光焕发，与37名佳丽出现在环姐的大舞台上，成为昨日最受欢迎的“女主角”...\[[评论](http://comment.sina.com.cn/cgi-bin/comment/comment.cgi?channel=sh&newsid=3001620&face=&style=1)\]

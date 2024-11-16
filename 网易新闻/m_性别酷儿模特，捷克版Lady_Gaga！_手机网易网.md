@@ -1,5 +1,8 @@
 # 性别酷儿模特，捷克版 Lady Gaga！
 
+## 正文 { data-search-exclude }
+
+
 ![Maty Drazek](https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 最近，今年十八岁来自捷克共和国的性别酷儿模特“马蹄” Maty Drazek（马提·德雷泽克）成为了[模特](https://news.163.com/news/search?keyword=%E6%A8%A1%E7%89%B9)网站 MDC 年度新人男（Plus）模特。

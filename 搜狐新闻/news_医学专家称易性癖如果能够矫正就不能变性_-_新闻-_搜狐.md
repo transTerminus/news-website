@@ -1,5 +1,8 @@
 # 医学专家称易性癖如果能够矫正就不能变性
 
+## 正文 { data-search-exclude }
+
+
 ![](https://images.sohu.com/ccc.gif)
 
 **时间：** 2006年08月25日04:56

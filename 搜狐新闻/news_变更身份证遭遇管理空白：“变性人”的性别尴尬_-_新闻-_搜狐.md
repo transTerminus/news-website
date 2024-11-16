@@ -1,5 +1,8 @@
 # 变更身份证遭遇管理空白：“变性人”的性别尴尬
 
+## 正文 { data-search-exclude }
+
+
 ![变性人](https://photo.sohu.com/37/72/Img147497237.gif)
 
 **来源**：河南报业网-大河报  

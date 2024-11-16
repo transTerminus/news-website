@@ -1,5 +1,8 @@
 # 特朗普禁止变性人服役引发大规模抗议 变性军人说“我倒要看看怎么把我踢出军队”
 
+## 正文 { data-search-exclude }
+
+
 ![image1](//n.sinaimg.cn/sinacn/20170919/c987-fykywuc7435594.jpg)
 
 ## 看看新闻KNEWS

@@ -1,5 +1,8 @@
 # 美知名变性人竞选州长，舆论：这更像是个商业噱头
 
+## 正文 { data-search-exclude }
+
+
 ![凯特琳·詹娜](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
 ## 环球网

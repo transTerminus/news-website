@@ -1,5 +1,8 @@
 # 日本男子流行男扮女装 “伪娘”大受欢迎(图)
 
+## 正文 { data-search-exclude }
+
+
 ![日本男子流行男扮女装“伪娘”大受欢迎(图)](http://i2.sinaimg.cn/dy/o/2010-01-01/1262314694_sWmwGF.jpg)
 
 **来源:** [中国新闻网](http://www.chinanews.com.cn)  

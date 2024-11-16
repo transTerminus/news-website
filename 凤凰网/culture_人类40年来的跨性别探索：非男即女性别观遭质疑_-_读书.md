@@ -1,5 +1,8 @@
 # 人类40年来的跨性别探索：非男即女性别观遭质疑
 
+## 正文 { data-search-exclude }
+
+
 **时间：** 2014年04月09日 08:18  
 **来源：** [新周刊](http://www.neweekly.com.cn/newsview.php?id=5759)  
 **作者：** 张雪彦  

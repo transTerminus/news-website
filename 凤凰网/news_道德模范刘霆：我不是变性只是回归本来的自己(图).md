@@ -1,5 +1,8 @@
 # 道德模范刘霆：我不是变性只是回归本来的自己(图)
 
+## 正文 { data-search-exclude }
+
+
 ![刘霆](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 **发布时间**：2015年04月09日 04:00  

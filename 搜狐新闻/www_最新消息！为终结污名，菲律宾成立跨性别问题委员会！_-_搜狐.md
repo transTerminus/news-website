@@ -1,5 +1,8 @@
 # 最新消息！为终结污名，菲律宾成立跨性别问题委员会！
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2023-12-26 14:59  
 **来源**: [红枫湾](https://www.sohu.com/a/747205479_527250?spm=smpc.content-abroad.content.1.1730993299911k3coh6Y)  
 **发布地点**: 北京市  

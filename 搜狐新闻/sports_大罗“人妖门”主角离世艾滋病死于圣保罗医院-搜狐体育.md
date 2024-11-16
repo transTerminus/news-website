@@ -1,5 +1,8 @@
 # 大罗“人妖门”主角离世 艾滋病死于圣保罗医院
 
+## 正文 { data-search-exclude }
+
+
 ### 2009年07月12日01:34 
 
 来源：**[汉网-武汉晚报](https://cjmp.cnhan.com/whwb/html/2009-07/12/content_1663376.htm)**

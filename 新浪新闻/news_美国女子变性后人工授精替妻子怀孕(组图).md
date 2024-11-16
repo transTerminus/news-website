@@ -1,5 +1,8 @@
 # 美国女子变性后人工授精替妻子怀孕(组图)
 
+## 正文 { data-search-exclude }
+
+
 _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 来源：金羊网-新快报  

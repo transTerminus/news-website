@@ -1,5 +1,8 @@
 # 特朗普: 上帝只创造了男女性别两种，不应存在变性人和LGBTQ
 
+## 正文 { data-search-exclude }
+
+
 ![特朗普图片](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F1101%2Fb254626aj00sm9zi0000vd000px00gjm.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 特朗普称，上帝只创造了两种性别，一种是男性，一种是女性，不应存在[变性人](https://news.163.com/news/search?keyword=%E5%8F%98%E6%80%A7%E4%BA%BA)和LGBTQ！

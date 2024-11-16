@@ -1,5 +1,8 @@
 # 【图刊】缤纷丽人——变性人选美
 
+## 正文 { data-search-exclude }
+
+
 ![变性人选美](http://i2.chinanews.com/simg/hd/2013/12/09/56ebf9bcbbd348c98b4d7a0a1cbee591.jpg)
 
 **发布时间：** 2013-12-09 09:05:18  

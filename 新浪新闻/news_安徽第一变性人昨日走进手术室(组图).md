@@ -1,5 +1,8 @@
 # 安徽第一变性人昨日走进手术室(组图)
 
+## 正文 { data-search-exclude }
+
+
 ![黄恩岭](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 合肥报业网--江淮晨报

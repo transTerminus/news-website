@@ -1,5 +1,8 @@
 # 泰国政府征兵强制变性人入伍引争议(图)
 
+## 正文 { data-search-exclude }
+
+
 _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 环球网

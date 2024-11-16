@@ -1,5 +1,8 @@
 # 申请变性手术须满足五个条件
 
+## 正文 { data-search-exclude }
+
+
 ![](//beacon.sina.com.cn/a.gif?noScript)
 
 来源: [新文化报](http://www.xwhb.com)  

@@ -1,5 +1,8 @@
 # 跨性别电击治疗争议：医院坚称无错，社会伦理何在？
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2024-08-15 14:17  
 **来源**: [史海奇闻2024](https://www.sohu.com/a/m.sohu.com?spm=smpc.content-abroad.content.1.1730995191461C1wMaNR)  
 **发布于**: 北京市  

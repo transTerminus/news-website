@@ -1,5 +1,8 @@
 # 跨性别者的家庭斗争：父母认为是病 要求其为家人着想
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2018-04-19 15:46  
 **来源**: [鉴闻](https://www.sohu.com/a/228783768_658437?spm=smpc.content-abroad.content.1.1730979977652lMaS9K6)  
 **特约撰稿**: 卫潇雨  

@@ -1,5 +1,8 @@
 # 跨性别者：我不是要改变性别，只是想成为自己
 
+## 正文 { data-search-exclude }
+
+
 2018-08-21 12:17 来源: [丁香园](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730980398552Yqw4tqH)
 
 2018 年 5 月 17 号，美国著名整形外科医生 Milton Edgerton 去世，享年 96 岁。

@@ -1,5 +1,8 @@
 # 香港变性需求倍增 威院增设“一条龙”服务（图）
 
+## 正文 { data-search-exclude }
+
+
 ### HK to establish one-stop sex-change center
 
 Hong Kong announced a plan on Thursday to establish a medical center to provide one-stop service for transsexuals at the Prince of Wales Hospital, according to the Hong Kong-based Ta Kung Pao.

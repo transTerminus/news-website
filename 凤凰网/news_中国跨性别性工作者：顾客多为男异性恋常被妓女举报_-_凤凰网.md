@@ -1,5 +1,8 @@
 # 中国跨性别性工作者：顾客多为男异性恋 常被妓女举报
 
+## 正文 { data-search-exclude }
+
+
 ![凤凰聚焦](http://y1.ifengimg.com/38716b164e0f5e63/2014/0918/web_logo-01.png)
 
 凤凰资讯出品

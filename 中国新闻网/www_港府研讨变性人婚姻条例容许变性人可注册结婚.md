@@ -1,5 +1,8 @@
 # 港府研讨变性人婚姻条例 容许变性人可注册结婚
 
+## 正文 { data-search-exclude }
+
+
 2014年04月02日 10:03　来源：[中国新闻网](http://www.chinanews.com/) 
 
 ![image1](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U194P4T47D46410F978DT20200311093349.jpg)

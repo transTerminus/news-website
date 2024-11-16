@@ -1,5 +1,8 @@
 # 香港“半男”澳洲获X性别 或为全球华人首例(图)
 
+## 正文 { data-search-exclude }
+
+
 2013年11月07日 11:24  
 来源：[中国新闻网](http://www.chinanews.com/)  
 

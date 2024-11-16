@@ -1,5 +1,8 @@
 # 国际变性人选美大赛 韩国“小姐”夺冠
 
+## 正文 { data-search-exclude }
+
+
 ![比赛现场](http://i8.chinanews.com/special/wide_c/01.jpg)
 
 来源: 中国新闻网  

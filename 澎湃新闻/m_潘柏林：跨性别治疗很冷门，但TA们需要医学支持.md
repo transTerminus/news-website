@@ -1,5 +1,8 @@
 # 潘柏林：跨性别治疗很冷门，但TA们需要医学支持
 
+## 正文 { data-search-exclude }
+
+
 ![北医三院易性症综合医疗团队](https://imagepphcloud.thepaper.cn/pph/image/83/884/99.jpg)
 
 来源：医学界  

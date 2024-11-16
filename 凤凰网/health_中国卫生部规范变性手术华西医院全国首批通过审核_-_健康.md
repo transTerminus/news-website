@@ -1,5 +1,8 @@
 # 中国卫生部规范变性手术 华西医院全国首批通过审核
 
+## 正文 { data-search-exclude }
+
+
 ![华西医院](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=765&bg=765&b=763&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 **时间**: 2024年11月9日 星期六  

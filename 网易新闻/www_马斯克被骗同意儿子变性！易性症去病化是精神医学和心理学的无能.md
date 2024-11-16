@@ -1,5 +1,8 @@
 # 马斯克被骗同意儿子变性！易性症去病化是精神医学和心理学的无能
 
+## 正文 { data-search-exclude }
+
+
 2024-07-24 17:36:27　来源: [晴日精准心理何日辉](https://www.163.com/dy/media/T1459428678313.html)  
 ![图片来源于网络](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0724%2F66cd1c39j00sh4fyq000kd000id00cpm.jpg&thumbnail=660x2147483647&quality=80&type=jpg)  
 **作者：加文 | 编辑：乔丹 | 标签：跨性别、心理健康**  

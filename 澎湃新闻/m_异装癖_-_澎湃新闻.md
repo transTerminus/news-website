@@ -1,5 +1,8 @@
 # 异装癖
 
+## 正文 { data-search-exclude }
+
+
 ![爱穿女装的男孩子，心里是怎么想的](https://image.thepaper.cn/image/40/295/914.jpg?x-oss-process=image/resize,w_332)
 
 ### 爱穿女装的男孩子，心里是怎么想的

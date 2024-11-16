@@ -1,5 +1,8 @@
 # 两人患病“男性假两性畸形”
 
+## 正文 { data-search-exclude }
+
+
 ![图片](//beacon.sina.com.cn/a.gif?noScript)
 
 **来源**: 生活新报  

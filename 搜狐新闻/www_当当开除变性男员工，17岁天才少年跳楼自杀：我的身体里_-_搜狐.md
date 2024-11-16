@@ -1,5 +1,8 @@
 # 当当开除变性男员工，17岁天才少年跳楼自杀：我的身体里，住着另一个灵魂
 
+## 正文 { data-search-exclude }
+
+
 2020-07-10 07:30 来源: [当代教育家](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730984315446owywuje)
 
 **正文共4100字；阅读时间11分钟**

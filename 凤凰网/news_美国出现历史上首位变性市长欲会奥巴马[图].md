@@ -1,5 +1,8 @@
 # 美国出现历史上首位变性市长 欲会奥巴马
 
+## 正文 { data-search-exclude }
+
+
 ![美国历史上首位变性市长](http://img.ifeng.com/hres/200811/09/11/9c786d778fc3f6a6f85b7c0c3a165cbc.jpg)
 
 **来源**: 重庆晚报  

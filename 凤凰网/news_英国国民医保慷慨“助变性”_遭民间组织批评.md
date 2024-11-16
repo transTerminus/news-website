@@ -1,5 +1,8 @@
 # 英国国民医保慷慨“助变性” 遭民间组织批评
 
+## 正文 { data-search-exclude }
+
+
 **来源:** [浙江在线-钱江晚报](http://zjdaily.zjol.com.cn/qjwb/html/2010-01/26/content_245542.htm?div=-1)  
 **时间:** 2010年01月26日 05:10  
 **作者:** 郑永  

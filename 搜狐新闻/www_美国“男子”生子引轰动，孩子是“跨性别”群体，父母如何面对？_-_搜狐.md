@@ -1,5 +1,8 @@
 # 美国“男子”生子引轰动，孩子是“跨性别”群体，父母如何面对？
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2020-04-07 10:24  
 **来源**: [两口育儿](https://www.sohu.com/a/386017573_829115?spm=smpc.content-abroad.content.1.1730983904559eAXOWua)
 

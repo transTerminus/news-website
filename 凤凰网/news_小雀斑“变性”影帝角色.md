@@ -1,5 +1,8 @@
 # 小雀斑“变性”
 
+## 正文 { data-search-exclude }
+
+
 2015年03月22日 02:57 来源：[信息时报](http://epaper.xxsb.com/showNews/2015-03-22/221831.html)
 
 ![重要图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)

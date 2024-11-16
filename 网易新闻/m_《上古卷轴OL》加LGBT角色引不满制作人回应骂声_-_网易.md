@@ -1,5 +1,8 @@
 # 《上古卷轴OL》加LGBT角色引不满 制作人回应骂声
 
+## 正文 { data-search-exclude }
+
+
 ![上古卷轴OL](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F1103%2F9cf219bej00smctbx000pd000fa008lg.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 据外媒TheGamer报道，近日《上古卷轴OL》在U44更新中引入了游戏第一个非二元同伴坦洛林，一些社区玩家们表示坦洛林的加入是“破坏游戏沉浸感”，“不适合在上古卷轴世界中出现”。对此，《[上古卷轴OL](https://news.163.com/news/search?keyword=%E4%B8%8A%E5%8F%A4%E5%8D%B7%E8%BD%B4OL)》叙事导演Bill Slavicsek通过TheGamer发声反驳。

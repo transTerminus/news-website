@@ -1,5 +1,8 @@
 # 美参议院通过议案保护同性恋和变性人就业权利
 
+## 正文 { data-search-exclude }
+
+
 2013年11月08日 07:06  
 来源：[中国新闻网](http://www.chinanews.com/)  
 

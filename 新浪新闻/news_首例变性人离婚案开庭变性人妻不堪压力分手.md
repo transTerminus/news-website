@@ -1,5 +1,8 @@
 # 首例变性人离婚案开庭变性人妻不堪压力分手
 
+## 正文 { data-search-exclude }
+
+
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：金羊网-新快报

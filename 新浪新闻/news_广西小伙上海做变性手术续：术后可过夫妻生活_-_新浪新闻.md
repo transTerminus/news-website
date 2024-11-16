@@ -1,5 +1,8 @@
 # 广西小伙上海做变性手术续：术后可过夫妻生活
 
+## 正文 { data-search-exclude }
+
+
 ![image](http://image2.sina.com.cn/dy/images/xfrd_04.gif)
 ![image](http://image2.sina.com.cn/dy/images/xfrd_03.gif)
 

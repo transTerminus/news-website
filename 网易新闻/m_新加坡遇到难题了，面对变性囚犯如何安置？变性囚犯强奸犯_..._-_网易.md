@@ -1,5 +1,8 @@
 # 新加坡遇到难题了，面对变性囚犯如何安置？
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 提示：阅读本文约3分钟！

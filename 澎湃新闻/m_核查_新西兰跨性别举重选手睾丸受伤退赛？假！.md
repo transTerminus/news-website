@@ -1,5 +1,8 @@
 # 核查 | 新西兰跨性别举重选手睾丸受伤退赛？假！
 
+## 正文 { data-search-exclude }
+
+
 ![哈伯德](https://image.thepaper.cn/publish/interaction/image/3/871/349.jpg)
 
 **来源**: 澎湃新闻  

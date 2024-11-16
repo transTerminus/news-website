@@ -1,5 +1,8 @@
 # 在泰国，人妖究竟是怎样的群体？
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐财经](https://i3.itc.cn/20160627/2cf3_6ccb9d83_b55a_4345_e7e8_bba2b34708ad_1.jpg)
 
 **来源**: 财经八卦阵  

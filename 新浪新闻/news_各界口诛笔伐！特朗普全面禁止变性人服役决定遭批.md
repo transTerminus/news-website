@@ -1,5 +1,8 @@
 # 各界口诛笔伐！特朗普全面禁止变性人服役决定遭批
 
+## 正文 { data-search-exclude }
+
+
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 **来源：环球网**  

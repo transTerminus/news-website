@@ -1,5 +1,8 @@
 # 丈夫变性手术后 嫁做他人妻是否构成重婚
 
+## 正文 { data-search-exclude }
+
+
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：大华网-特区青年报

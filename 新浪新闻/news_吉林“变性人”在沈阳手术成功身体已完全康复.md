@@ -1,5 +1,8 @@
 # 吉林“变性人”在沈阳手术成功 身体已完全康复
 
+## 正文 { data-search-exclude }
+
+
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：沈阳今报  

@@ -1,5 +1,8 @@
 # 卫生部规定申请变性手术须无犯罪记录
 
+## 正文 { data-search-exclude }
+
+
 ![变性手术](//n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)
 
 ## 新闻晨报

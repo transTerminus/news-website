@@ -1,5 +1,8 @@
 # 周日声音｜“世上只有一种艺术流派，就是天才派”
 
+## 正文 { data-search-exclude }
+
+
 2018-07-01 12:00 来源: [东方历史评论](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730980212448KjfxdpX)
 
 ![凯伦·布里克森](http://5b0988e595225.cdn.sohucs.com/images/20180701/64497f17cbfa43d6a9932847d3c0e396.jpeg)

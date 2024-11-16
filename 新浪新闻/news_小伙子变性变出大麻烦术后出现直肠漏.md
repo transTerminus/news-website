@@ -1,5 +1,8 @@
 # 小伙子变性变出大麻烦 术后出现直肠漏
 
+## 正文 { data-search-exclude }
+
+
 ![图片](//n.sinaimg.cn/sinacn10215/360/w180h180/20200106/a4a4-imrkkfy3206293.jpg)
 
 ## 来源：东方网

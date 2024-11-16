@@ -1,5 +1,8 @@
 # 少女患两性畸形有男性生殖器 被取笑为“人妖”(图)
 
+## 正文 { data-search-exclude }
+
+
 ![图片1](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 2016年03月29日 05:36 来源：[广州日报](http://gzdaily.dayoo.com/html/2016-03/29/content_3159842.htm)

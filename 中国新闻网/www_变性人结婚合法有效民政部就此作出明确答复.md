@@ -1,5 +1,8 @@
 # 变性人结婚合法有效 民政部就此作出明确答复
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻社](/images/logo2.gif)
 
 ![banner](http://www.chinanews.com.cn/index.html)

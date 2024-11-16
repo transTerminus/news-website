@@ -1,5 +1,8 @@
 # 转换性别再塑人生---变性大师陈焕然的职业病
 
+## 正文 { data-search-exclude }
+
+
 ![变性手术图片](https://photo.sohu.com/37/72/Img147497237.gif)
 
 **来源**: 北京晨报  

@@ -1,5 +1,8 @@
 # 补佳乐怎么吃一天几粒 - 爱问健康网
 
+## 正文 { data-search-exclude }
+
+
 ![补佳乐](http://yyk.iask.sina.com.cn/pic/fimg/160992419769868982658.jpg)
 
 **作者**: 包容的爱  

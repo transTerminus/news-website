@@ -1,5 +1,8 @@
 # 跨性别者C先生：一个灵魂放错了身体的“爷儿”
 
+## 正文 { data-search-exclude }
+
+
 ![C先生](//n.sinaimg.cn/sinakd10200/360/w180h180/20200407/3995-irtymmw7706970.jpg)
 
 ## 每日人物

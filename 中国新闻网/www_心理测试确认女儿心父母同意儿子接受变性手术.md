@@ -1,5 +1,8 @@
 # 心理测试确认女儿心 父母同意儿子接受变性手术
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](http://i5.chinanews.com/images/images1/logo2.gif)
 
 **时间**: 2008年11月04日 17:23  

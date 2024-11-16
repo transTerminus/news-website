@@ -1,5 +1,8 @@
 # 变性人--拒绝生存在社会边缘
 
+## 正文 { data-search-exclude }
+
+
 ![变性人](https://images.sohu.com/ccc.gif)
 
 ![搜狐](https://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif)

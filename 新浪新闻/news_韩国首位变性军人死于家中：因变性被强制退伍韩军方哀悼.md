@@ -1,5 +1,8 @@
 # 韩国首位变性军人死于家中：因变性被强制退伍 韩军方哀悼
 
+## 正文 { data-search-exclude }
+
+
 ![韩国变性军人边熙秀](//k.sinaimg.cn/n/sinakd202134s/759/w675h884/20210304/1c65-kkxpczc4235551.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 来源：海外网  

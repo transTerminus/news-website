@@ -1,5 +1,8 @@
 # 医疗专业人员对变性人有更高的偏见
 
+## 正文 { data-search-exclude }
+
+
 **时间:** 2023-11-04 07:00  
 **来源:** [CellPress细胞科学](https://news.qq.com/omn/author/8QIf3n5c7oUauz7R4gc%3D)  
 **发布地点:** 中国香港CellPress细胞科学官方账号  

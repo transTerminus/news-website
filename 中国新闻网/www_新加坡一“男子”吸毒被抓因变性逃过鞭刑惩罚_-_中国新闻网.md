@@ -1,5 +1,8 @@
 # 新加坡一“男子”吸毒被抓 因变性逃过鞭刑惩罚
 
+## 正文 { data-search-exclude }
+
+
 2012年03月07日 17:22　来源：国际在线
 
 ![Image](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U194P4T47D46410F978DT20200311093349.jpg)

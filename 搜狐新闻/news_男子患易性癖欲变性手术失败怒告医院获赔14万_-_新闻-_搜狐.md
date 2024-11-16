@@ -1,5 +1,8 @@
 # 男子患易性癖欲变性 手术失败怒告医院获赔14万
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐新闻-搜狐网站](https://images.sohu.com/uiue/sohu_logo/2006/news_logo3.gif)
 
 **来源：东方今报**

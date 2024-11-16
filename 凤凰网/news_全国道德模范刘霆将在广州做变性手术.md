@@ -1,5 +1,8 @@
 # 全国道德模范刘霆将于广州进行变性手术
 
+## 正文 { data-search-exclude }
+
+
 2014年08月15日 10:04 来源：[大洋网](http://news.dayoo.com/guangzhou/201408/15/73437_37669727.htm)
 
 ![韩国变性美女河莉秀鼓励刘霆变性。 信息时报记者 郭柯堂 摄](http://y3.ifengimg.com/cmpp/2014/08/15/10/6fa660be-78a2-4680-b004-78eebe84bde6.jpg)

@@ -1,5 +1,8 @@
 # 图片频道-泰国人妖表演团艳惊四座
 
+## 正文 { data-search-exclude }
+
+
 ![泰国人妖表演团](http://i6.chinanews.com/photo/special_img2009/kuang013-t.gif)
 
 **泰国人妖表演团艳惊四座**

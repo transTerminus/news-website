@@ -1,5 +1,8 @@
 # 金星虽进行反击，但价值观的差异，注定反击无疑是徒劳的挣扎
 
+## 正文 { data-search-exclude }
+
+
 2024-11-03 18:19:49 来源: [记哥说事](https://www.163.com/dy/media/T1554721619563.html) ![](https://static.ws.126.net/163/f2e/dy_media/dy_media/static/images/ipLocation.f6d00eb.svg)广东 
 
 **金星反击了！但[价值观](https://ent.163.com/keywords/4/f/4ef7503c89c2/1.html)不同，注定了他的反击一定是最后的挣扎**

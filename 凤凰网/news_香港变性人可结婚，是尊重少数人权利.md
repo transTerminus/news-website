@@ -1,5 +1,8 @@
 # 香港变性人可结婚，是尊重少数人权利
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 2014年10月28日 07:17 来源：[南方都市报](http://epaper.oeeee.com/H/html/2014-10/28/content_2183569.htm)

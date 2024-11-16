@@ -1,5 +1,8 @@
 # 调查与研究|菲律宾“跨性别”工人
 
+## 正文 { data-search-exclude }
+
+
 ![跨性别者](http://image.thepaper.cn/www/image/4/670/535.jpg)
 
 跨性别者基本处于隐身或失语状态，跨性别也似乎是个隐晦、模糊、遥远的话题。

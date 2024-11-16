@@ -1,5 +1,8 @@
 # 美国“女跨男”游泳选手击败“男跨女”选手，竞赛公平引热议
 
+## 正文 { data-search-exclude }
+
+
 ![海尼格与托马斯](https://imagepphcloud.thepaper.cn/pph/image/173/684/520.jpg)
 
 **作者**: 邓睿侃  

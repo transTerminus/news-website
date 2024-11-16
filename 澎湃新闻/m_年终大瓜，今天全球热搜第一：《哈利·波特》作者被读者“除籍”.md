@@ -1,5 +1,8 @@
 # 年终大瓜，今天全球热搜第一：《哈利·波特》作者被读者“除籍”
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://image.thepaper.cn/publish/interaction/image/4/529/672.jpg)
 
 —— [环球时报环球时报官方澎湃号](https://m.thepaper.cn/user_interaction_4050672)

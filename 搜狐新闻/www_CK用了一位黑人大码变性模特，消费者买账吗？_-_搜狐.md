@@ -1,5 +1,8 @@
 # CK用了一位黑人大码变性模特，消费者买账吗？
 
+## 正文 { data-search-exclude }
+
+
 2020-07-01 18:19 来源: [成功营销](https://www.sohu.com/a/405158549_119248?spm=smpc.content-abroad.content.1.1730984062749akURzNE)
 
 最近，美国的内衣品牌Calvin Klein因为其黑人大码模特杰瑞·琼斯（Jari Jones）拍摄的广告在纽约户外进行大面积展示，又在社交媒体上引起了一波激烈的争论。

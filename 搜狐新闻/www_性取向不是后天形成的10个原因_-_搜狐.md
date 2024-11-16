@@ -1,5 +1,8 @@
 # 性取向不是后天形成的10个原因
 
+## 正文 { data-search-exclude }
+
+
 2015-03-29 23:55 来源: [前十网](https://www.sohu.com/a/8480982_128338?spm=smpc.content-abroad.content.1.1730996520151llEVN1a)
 
 **近年来，关于人类性取向成因的的话题不仅在LGBT社群（女同性恋者（Lesbians）、男同性恋者（Gays）、双性恋者（Bisexuals）与跨性别者（Transgender）构成的群体），也在政治界、科学界引起了广泛的关注。因此，许多医生、心理学家、科学家和其他群体都在寻找方法、开展研究来探寻同性恋的成因。**

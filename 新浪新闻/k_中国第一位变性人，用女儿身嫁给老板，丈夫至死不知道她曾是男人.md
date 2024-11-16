@@ -1,5 +1,8 @@
 # 中国第一位变性人，用女儿身嫁给老板，丈夫至死不知道她曾是男人
 
+## 正文 { data-search-exclude }
+
+
 _![](https://n.sinaimg.cn/sinacn10210/360/w180h180/20191010/795e-ifrwayx4445457.jpg)_
 
 ## 拾文客栈2017

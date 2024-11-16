@@ -1,5 +1,8 @@
 # 变性人的官方英文称呼已确定：不再是Mr或Mrs，而是Mx
 
+## 正文 { data-search-exclude }
+
+
 英国的驾照和其它官方文件中，将引入除了“Mr（先生）、Mrs（太太）、Miss（小姐）和Ms（女士）”之外的尊称“Mx（Mixter）”来称呼跨性别人群。这是几十年来首次被官方认可的称谓。英国政府部门和一些大学目前将使用Mx来称呼变性人或其他没有特定性别的人。英语世界权威的《牛津英语词典》（Oxford English Dictionary）将考虑将Mx收入它下一版本的词典中。
 
 ![](http://image.thepaper.cn/www/image/4/358/642.jpg)

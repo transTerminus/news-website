@@ -1,5 +1,8 @@
 # 阿根廷两变性人婚礼 互换性别成夫妻
 
+## 正文 { data-search-exclude }
+
+
 ![阿根廷两变性人婚礼 互换性别成夫妻](http://i2.chinanews.com/simg/hd/2013/11/30/7d1ed4bf5a494dbaa773ab4f654d4ebd.jpg)
 
 当地时间11月29日，阿根廷布宜诺斯艾利斯，Alexis Taborda原本是女人，进行了变性手术，怀有8个月的身孕。Karen Bruselario原本是男人，但通过变性手术成为女人。两人在一年前的一场示威活动中认识，目前阿根廷国会通过了两人的婚姻。

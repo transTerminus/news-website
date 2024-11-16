@@ -1,5 +1,8 @@
 # 真实曝光泰国“人妖”晚年生活，真相令人泪目，网友：且看且珍惜
 
+## 正文 { data-search-exclude }
+
+
 **发布时间**: 2019-01-07 19:17  
 **来源**: [驴险记](https://www.sohu.com/a/287278255_649419?spm=smpc.content-abroad.content.1.1730981737811wxBcoyF)
 

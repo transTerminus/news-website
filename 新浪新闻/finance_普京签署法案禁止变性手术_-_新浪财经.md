@@ -1,5 +1,8 @@
 # 普京签署法案禁止变性手术
 
+## 正文 { data-search-exclude }
+
+
 ![俄罗斯总统普京/资料图](//n.sinaimg.cn/sinakd20230725s/97/w543h354/20230725/ee90-5b2627aeeeefc71ba253d462d779a0ee.png)
 
 普京签署法案禁止变性手术

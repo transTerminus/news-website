@@ -1,5 +1,8 @@
 # 全世界每年有多少人去泰国做变性手术？
 
+## 正文 { data-search-exclude }
+
+
 ![变性手术](//n.sinaimg.cn/sinakd10220/360/w180h180/20200831/6d72-iypetiv0690456.jpg)
 
 ## 微德国Germany

@@ -1,5 +1,8 @@
 # 菲律宾检察官对涉变性人命案美军士兵提谋杀指控
 
+## 正文 { data-search-exclude }
+
+
 2014年12月15日 17:48  
 来源：[中国新闻网](http://www.chinanews.com/)
 

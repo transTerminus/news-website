@@ -1,5 +1,8 @@
 # 美政府扩充“奥巴马医保”法规 禁止歧视变性人
 
+## 正文 { data-search-exclude }
+
+
 ![变性人](http://y3.ifengimg.com/cmpp/2015/09/06/11/ab6989e1-cb72-499d-8dc1-2dd0da8138a9_size21_w500_h346.jpg)
 
 2015年09月06日 10:56 来源：[中国新闻网](http://www.chinanews.com/gj/2015/09-06/7507150.shtml)

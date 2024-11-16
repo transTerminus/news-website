@@ -1,5 +1,8 @@
 # 22岁男子在酒店为网友做变性手术，结果......
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2018-09-21 18:15  
 **来源**: [小阅微草堂](https://www.sohu.com/a/255279786_469168?spm=smpc.content-abroad.content.1.1730980854065jMcHojn)
 

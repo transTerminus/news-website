@@ -1,5 +1,8 @@
 # 广电总局叫停整容、变性类电视节目(图)
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐新闻-搜狐网站](https://images.sohu.com/uiue/sohu_logo/2006/news_logo3.gif)
 
 时间：2007-08-25 03:08  

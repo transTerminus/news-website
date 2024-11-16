@@ -1,5 +1,8 @@
 # 王喜澄清“异装癖”：买女装不为男友为表演
 
+## 正文 { data-search-exclude }
+
+
 来源: [金羊网-新快报](https://www.ycwb.com/)
 
 ![王喜扮“格格"](https://photocdn.sohu.com/20070628/Img250815826.gif)

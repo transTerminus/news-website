@@ -1,5 +1,8 @@
 # 日本7岁男孩患上性别认同障碍 以女孩身份就学
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://photo.sohu.com/media/gzrb.jpg)
 
 **时间：** 2006年05月20日20:10  

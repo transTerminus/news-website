@@ -1,5 +1,8 @@
 # 香港团体关注跨性别者 吁特区政府发相关证明文件
 
+## 正文 { data-search-exclude }
+
+
 ![default_avatar](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：中国新闻网

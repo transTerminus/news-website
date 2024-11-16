@@ -1,5 +1,8 @@
 # 我们同样得享天伦-走进变性男女的婚姻生活(图)
 
+## 正文 { data-search-exclude }
+
+
 ![](https://images.sohu.com/ccc.gif)
 
 **来源**：海峡都市报  

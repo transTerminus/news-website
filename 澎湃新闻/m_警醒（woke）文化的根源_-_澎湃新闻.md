@@ -1,5 +1,8 @@
 # 警醒（woke）文化的根源
 
+## 正文 { data-search-exclude }
+
+
 ![警醒文化的相关图片](https://image.thepaper.cn/publish/interaction/image/3/951/274.png)
 
 **作者**: [张拓木](https://m.thepaper.cn/user_interaction_5116973)  

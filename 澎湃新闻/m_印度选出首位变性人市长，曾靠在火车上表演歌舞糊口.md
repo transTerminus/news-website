@@ -1,5 +1,8 @@
 # 印度选出首位变性人市长，曾靠在火车上表演歌舞糊口
 
+## 正文 { data-search-exclude }
+
+
 **来源**: 澎湃新闻  
 **时间**: 01-06 14:19  
 **标签**: [变性人](https://www.thepaper.cn) [市长选举](https://www.thepaper.cn)

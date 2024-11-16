@@ -1,5 +1,8 @@
 # 研究表明，英国针对将跨性别群体人士的歧视日益严峻！
 
+## 正文 { data-search-exclude }
+
+
 **时间：** 2024-04-02 14:26  
 **来源：** [红枫湾](https://www.sohu.com/a/768664441_527250?spm=smpc.content-abroad.content.1.1730993700325YeeJeFb)  
 **发布地点：** 北京市  

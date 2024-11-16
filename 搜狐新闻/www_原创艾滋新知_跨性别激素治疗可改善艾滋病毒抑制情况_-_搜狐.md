@@ -1,5 +1,8 @@
 # 艾滋新知 || 跨性别激素治疗可改善艾滋病毒抑制情况
 
+## 正文 { data-search-exclude }
+
+
 2021-09-06 13:26 来源: [红枫湾](https://www.sohu.com/a/488042301_527250?spm=smpc.content-abroad.content.1.1730986785250BoW6c34)
 
 ![图片1](https://p5.itc.cn/q_70/images01/20210906/3e7dbb4fda8f4cac91a3ba89caff2a4c.png)

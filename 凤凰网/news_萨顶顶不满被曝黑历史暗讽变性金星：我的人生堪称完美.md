@@ -1,5 +1,8 @@
 # 萨顶顶不满被曝"黑历史"暗讽变性 金星：我的人生堪称完美
 
+## 正文 { data-search-exclude }
+
+
 ![](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 ![](http://y3.ifengimg.com/a/2016/0414/ab605e5e0631dd6size71_w300_h300.jpg)

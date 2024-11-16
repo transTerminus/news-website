@@ -1,5 +1,8 @@
 # 俄杜马通过“回应布林肯”法案：任何宣扬LGBT的行为均属非法
 
+## 正文 { data-search-exclude }
+
+
 ![](https://imagecloud.thepaper.cn/thepaper/image/226/959/884.png)
 
 美国国务卿布林肯。人民视觉 资料图

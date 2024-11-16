@@ -1,5 +1,8 @@
 # 平权运动与企业支持背后：以利益驱动的脆弱承诺
 
+## 正文 { data-search-exclude }
+
+
 澎湃新闻 06-02 11:49
 
 ![](https://file.thepaper.cn/wap/v6/img/kb_zhaiyao.png) 

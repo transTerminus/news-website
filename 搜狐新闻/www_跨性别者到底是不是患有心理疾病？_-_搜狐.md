@@ -1,5 +1,8 @@
 # 跨性别者到底是不是患有心理疾病？
 
+## 正文 { data-search-exclude }
+
+
 2019-10-04 06:00 来源: [雷雳和学生们](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730983044444Jdz7A4K)
 
 ![](http://5b0988e595225.cdn.sohucs.com/images/20191004/14c2032f7afd47258e4fd199940da169.jpeg)

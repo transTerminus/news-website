@@ -1,5 +1,8 @@
 # 新西兰变性人争议中亮相奥运 抓举三次试举失败未取得成绩
 
+## 正文 { data-search-exclude }
+
+
 ![新西兰变性人](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
 ## 环球网

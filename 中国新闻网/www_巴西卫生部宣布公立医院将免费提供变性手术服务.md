@@ -1,5 +1,8 @@
 # 巴西卫生部宣布公立医院将免费提供变性手术服务
 
+## 正文 { data-search-exclude }
+
+
 ![中国新闻网](http://i5.chinanews.com/images/images1/logo2.gif)
 
 **时间**: 2008年06月07日 14:23  

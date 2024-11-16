@@ -1,5 +1,8 @@
 # 英国3岁男童患性别焦虑症 做手术变女孩(图)
 
+## 正文 { data-search-exclude }
+
+
 ![苏格兰一名3岁男童丹尼尔原本只是不喜欢穿男孩子的衣服，想不到某日他对妈妈表示想做变性手术当女孩。](http://n.sinaimg.cn/translate/20151208/KlUQ-fxmihft3506123.jpg)
 
 2015年12月08日08:29 [中国新闻网](http://www.chinanews.com/gj/2015/12-08/7660505.shtml)

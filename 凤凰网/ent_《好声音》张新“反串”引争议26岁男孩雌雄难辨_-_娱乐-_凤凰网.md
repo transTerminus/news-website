@@ -1,5 +1,8 @@
 # 《好声音》张新“反串”引争议 26岁男孩雌雄难辨
 
+## 正文 { data-search-exclude }
+
+
 ![张新](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=744&bg=744&b=742&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 **时间**: 2013年07月27日 13:15  

@@ -1,5 +1,8 @@
 # 社会边缘的药娘：靠吃药改变性别，为做手术...
 
+## 正文 { data-search-exclude }
+
+
 ![药娘](//tvax1.sinaimg.cn/crop.0.0.720.720.180/006QWimvly8fi4bkalsgwj30k00k0ta5.jpg)
 
 ## 探观

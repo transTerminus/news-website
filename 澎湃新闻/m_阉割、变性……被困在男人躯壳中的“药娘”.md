@@ -1,5 +1,8 @@
 # 阉割、变性……被困在男人躯壳中的“药娘”
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://image.thepaper.cn/publish/interaction/image/3/757/136.jpg)
 
 **来源**：澎湃新闻  

@@ -1,5 +1,8 @@
 # 找变性人与河莉秀搭档 韩国引发讨论热潮(图)
 
+## 正文 { data-search-exclude }
+
+
 ![图片](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
 
 **时间**: 2005年04月05日 15:36  

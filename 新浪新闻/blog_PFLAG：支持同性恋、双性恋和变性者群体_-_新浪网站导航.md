@@ -1,5 +1,8 @@
 # PFLAG：支持同性恋、双性恋和变性者群体
 
+## 正文 { data-search-exclude }
+
+
 ![美国驻华大使馆](http://portrait1.sinaimg.cn/1743951792/blog/180)
 
 **发布时间：** 2014-04-10

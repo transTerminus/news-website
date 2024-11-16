@@ -1,5 +1,8 @@
 # 中国富豪花巨资，娶回泰国“人妖皇后”妮莎，如今结局令人唏嘘
 
+## 正文 { data-search-exclude }
+
+
 **发布时间：** 2024-06-30 17:00  
 **来源：** [放开那历史](https://www.sohu.com/a/789123299_120014468?spm=smpc.content-abroad.content.1.1730994529070OQKwTSv)  
 **发布地区：** 陕西省  

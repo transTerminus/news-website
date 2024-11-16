@@ -1,5 +1,8 @@
 # 里约奥运对变性人“开绿灯” 无需手术即可参加奥运
 
+## 正文 { data-search-exclude }
+
+
 2016年08月05日 09:32　来源：[中国新闻网](http://www.chinanews.com/) 
 
 ![资料图](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U194P4T47D46410F978DT20200311093349.jpg)

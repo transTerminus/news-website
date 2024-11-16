@@ -1,5 +1,8 @@
 # 对话药娘：原谅我成为不了讨喜的人
 
+## 正文 { data-search-exclude }
+
+
 ![药娘](https://image.thepaper.cn/publish/interaction/image/3/697/906.png)
 
 **来源**：澎湃号·湃客  

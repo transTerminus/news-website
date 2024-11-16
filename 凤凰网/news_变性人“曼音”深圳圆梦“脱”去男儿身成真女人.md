@@ -1,5 +1,8 @@
 # 变性人“曼音”深圳圆梦 “脱”去男儿身成真女人
 
+## 正文 { data-search-exclude }
+
+
 2014年05月08日 07:18 来源：[新华网](http://news.xinhuanet.com/overseas/2014-05/08/c_126474233.htm)
 
 ![诊断](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)

@@ -1,5 +1,8 @@
 # 50岁男子欲作变性手术 妻子女儿表示支持(图)
 
+## 正文 { data-search-exclude }
+
+
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源: 华商网-华商晨报

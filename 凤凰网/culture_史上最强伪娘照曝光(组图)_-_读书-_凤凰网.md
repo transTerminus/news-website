@@ -1,5 +1,8 @@
 # 史上最强伪娘照曝光(组图)
 
+## 正文 { data-search-exclude }
+
+
 **发布时间**：2010-06-29
 
 ![史上最强伪娘照曝光](http://res.book.ifeng.com/attachments/2010/06/29/fcb6411ec3a4c76f0a5c882b56acb63e.jpg)

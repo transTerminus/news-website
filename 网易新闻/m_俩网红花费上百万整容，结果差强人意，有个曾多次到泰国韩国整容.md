@@ -1,5 +1,8 @@
 # 俩网红花费上百万整容，结果差强人意，有个曾多次到泰国韩国整容
 
+## 正文 { data-search-exclude }
+
+
 ![整容前后](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0519%2F3903cc54j00sdqlyt003dd000n0014xm.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 两个网红录视频透露整容前后花了130万和240万，结果是一个嘴歪眼斜，另一个打了很多玻尿酸压迫左眼神经一直抽搐，[整容](https://news.163.com/news/search?keyword=%E6%95%B4%E5%AE%B9)有风险，能不整就不要整，没有回头路可走，整坏了就完犊子了，没有后悔药。不过结尾她们大笑一声，也是让人难以理喻，真心劝解别人，还是炒作博眼球，有点看不懂？

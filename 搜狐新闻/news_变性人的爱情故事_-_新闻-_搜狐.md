@@ -1,5 +1,8 @@
 # 变性人的爱情故事
 
+## 正文 { data-search-exclude }
+
+
 ![变性人的爱情故事](https://photo.sohu.com/25/64/Img205976425.gif)
 
 **时间：** 2006年06月03日04:09  

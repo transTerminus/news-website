@@ -1,5 +1,8 @@
 # 尼泊尔举办变性人选美比赛
 
+## 正文 { data-search-exclude }
+
+
 ![](http://i8.chinanews.com/special/wide_c/01.jpg)
 
 当地时间9月12日，尼泊尔2010年变性选美比赛在首都加德满都举行。
