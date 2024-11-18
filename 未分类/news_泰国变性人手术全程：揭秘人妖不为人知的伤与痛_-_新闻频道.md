@@ -12,7 +12,7 @@
 
 　　凡注明为其他媒体来源的信息，均为转载自其他媒体，转载并不代表本网赞同其观点，也不代表本网对其真实性负责。您若对该稿件内容有任何疑问或质疑，请即与新民网联系，本网将迅速给您回应并做处理。
 
-## 热词：
+## 热词： { data-search-exclude }
 
 - [变性手术](http://so.cntv.cn/search.php?qtext=变性手术&sid=0000&pid=0000)
 - [人妖](http://so.cntv.cn/search.php?qtext=人妖&sid=0000&pid=0000)

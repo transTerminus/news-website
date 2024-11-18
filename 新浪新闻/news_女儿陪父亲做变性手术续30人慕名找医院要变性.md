@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：沈阳网-沈阳晚报
+## 来源：沈阳网-沈阳晚报 { data-search-exclude }
 
 ### 时间：2006.11.29 00:19
 
@@ -40,7 +40,7 @@
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png) 
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 快来新闻客户端参与评论获金币兑礼品吧！  
 抢沙发  
 好的评论会让人崇拜  

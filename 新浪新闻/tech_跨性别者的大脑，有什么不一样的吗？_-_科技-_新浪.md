@@ -5,7 +5,7 @@
 
 ![](//tvax1.sinaimg.cn/crop.1.0.436.436.180/61e89b74ly1gdiq06vjw9j20c60c4aac.jpg)
 
-## 新浪科技综合
+## 新浪科技综合 { data-search-exclude }
 
 2020.08.0809:20  
 
@@ -83,7 +83,7 @@ Savic说，她希望对跨性别的研究结果将有助于使性别认同成为
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
 **喝果汁的耳朵** 3
 

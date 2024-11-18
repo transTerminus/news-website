@@ -11,7 +11,7 @@
 作为即将开幕的展览《More, More, More》“艺术家接管计划”的一部分，本周我们邀请了艺术家单慧乾（Victoria Sin）来接管油罐艺术中心的社交媒体平台，分享她/他最近的表演和写作。  
 As part of the upcoming exhibition _More, More, More_’s “Artist Takeover Project,” TANK Shanghai invited artist Victoria Sin to take over our social media platforms this week, sharing their recent performances and writings.
 
-## **Victoria Sin**
+## **Victoria Sin** { data-search-exclude }
 
 ![](https://thumb.artron.net/Img/image?c=0&h=0&src=https%3A%2F%2Fimage-artexpress.artron.net%2Fapp%2Ftoutiao%2Fweixin%2F2020%2F05%2Fda82ec9bb0ff9c454fabe6b5074b2436.jpg&w=600)
 
@@ -69,21 +69,21 @@ _Collecting myselves,_ 2019
 《也许你曾是一颗行星》，2019年  
 _Maybe once you were a planet_, 2019
 
-## **关于艺术家**
+## **关于艺术家** { data-search-exclude }
 单慧乾1991年生于多伦多，现生活和工作于伦敦。单慧乾自我定义为非二元性别，使用中性代词她/他（they/them）指代自己。她/他在表演、动态影像、写作和印刷品中使用推理和虚构来打断人们对于欲望、身份认同和物化的范例式过程。她/他的作品取材于其与寻求和渴望的亲密的个人经历，并呈现被重度构建过的幻想叙事——这些叙事基于在社会身体内部的、大多令人不安的物理身体体验。  
 Victoria Sin, born in Toronto in 1991, currently lives and works in London.  Sin identifies as non-binary and uses they/them pronouns. They use speculative fiction within performance, moving image, writing, and print to interrupt normative processes of desire, identification, and objectification. Drawing from close personal encounters of looking and wanting, their work presents heavily constructed fantasy narratives on the often unsettling experience of the physical within the social body.
 
 单慧乾的作品曾在多伦多当代艺术博物馆，蒙特利尔MOMENTA图像双年展，伦敦海沃德画廊，多特蒙德艺术协会，威尼斯双年展，伦敦白教堂画廊，巴黎东京宫，伦敦蛇形画廊，台北Chi-Wen画廊，台北当代艺术中心，伦敦布鲁内尔博物馆，伦敦当代艺术学院和伦敦泰特现代美术馆展出。  
 Sin has presented work at the Museum of Contemporary Art, Toronto; MOMENTA Biennale de l’image, Montreal; Hayward Gallery, London; Dortmunder Kunstverein; the Venice Biennale; Whitechapel Gallery, London; Palais de Tokyo, Paris; Serpentine Galleries, London; Chi-Wen Gallery, Taipei; Taipei Contemporary Art Center; Brunel Museum, London; Institute of Contemporary Art, London; and Tate Modern, London.
 
-## **关于展览 More, More, More**
+## **关于展览 More, More, More** { data-search-exclude }
 油罐艺术中心即将隆重呈现最新展览《More, More, More》，由Passing Fancy（朱筱蕤和弗雷德里克·诺维尔）策划，埃莉斯·阿玛尼协助策划，展示28位艺术家新的委约作品和代表作。  
 TANK Shanghai proudly presents our upcoming exhibition _More, More, More_. Curated by Passing Fancy \[X Zhu-Nowell & Frederick Nowell\], with Elise Armani, _More, More, More_ includes new commissions and existing works by 28 international artists.
 
 《More, More, More》展览中的作品散布表达的种子，并把传播、不可翻译性和语言的外在性，视为交流的一个固有维度。本展览中的作品不停地泄漏、滴落、发芽、重复：需要翻译、染色、分泌；发声、磕磕巴巴、反射和发光，“沾湿一切”，并扭动。这些作品在不停地生长，通过不同的方式，来回答最初的关于感知和形式的问题。  
 Works in this exhibition leak, drip, sprout, repeat:, require translation, stain, secrete; utter, stutter, reflect, and glow, “wet everything," and wiggle. These are projects that grow, in different ways, from questions that, in earlier incarnations, were directed to feeling and form.
 
-## **TANK Artist Takeover 往期回顾**
+## **TANK Artist Takeover 往期回顾** { data-search-exclude }
 **Ad Minoliti & Jenna Sutela**  
 ![Ad Minoliti & Jenna Sutela](https://thumb.artron.net/Img/image?c=0&h=0&src=https%3A%2F%2Fimage-artexpress.artron.net%2Fapp%2Ftoutiao%2Fweixin%2F2020%2F05%2F96b3e34c71e4bff58f34cc57cba90993.jpg&w=600)
 

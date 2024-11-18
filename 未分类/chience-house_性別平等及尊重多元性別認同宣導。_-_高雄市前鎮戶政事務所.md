@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 性別平等及尊重多元性別認同宣導
+## 性別平等及尊重多元性別認同宣導 { data-search-exclude }
 
 ![分享](images/share.png)
 

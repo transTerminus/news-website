@@ -5,7 +5,7 @@
 
 ![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 四川新闻网-成都商报
+## 四川新闻网-成都商报 { data-search-exclude }
 
 **时间：** 2003.06.19 10:54
 
@@ -47,9 +47,9 @@
 
 ---
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
-## 快来新闻客户端参与评论获金币兑礼品吧！
+## 快来新闻客户端参与评论获金币兑礼品吧！ { data-search-exclude }
 
 ---
 

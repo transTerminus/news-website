@@ -50,7 +50,7 @@
 
 责任编辑：李中国
 
-## 热词：
+## 热词： { data-search-exclude }
 
 - [帅哥](http://so.cntv.cn/search.php?qtext=帅哥&sid=0000&pid=0000)
 - [女装](http://so.cntv.cn/search.php?qtext=女装&sid=0000&pid=0000)

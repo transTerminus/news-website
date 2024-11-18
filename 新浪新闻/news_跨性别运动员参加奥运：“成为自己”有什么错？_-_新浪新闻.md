@@ -5,7 +5,7 @@
 
 ![新西兰跨性别举重运动员哈伯德](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/41bb-24c971da1316d17de47caa3c1b099cb2.jpg)
 
-## 来源: 新京报
+## 来源: 新京报 { data-search-exclude }
 ### 作者: 王嘉吟 
 ### 编辑: 李永博, 申婵 
 ### 校对: 王心 
@@ -27,7 +27,7 @@
 
 在参赛是否公平的讨论之外，跨性别群体的困境也再次浮现出来。在现有规则还待完善的环境下，跨性别者可以和其他人一样，在体育赛场上同台竞技吗？更重要的是，相较于其他的性少数群体，跨性别者是少数派中的少数派，不仅在生活中受到外界的排挤和歧视，甚至也得不到其他性少数群体和女权主义者的支持。本期读刊分享与跨性别者相关的事实、观点与争议。
 
-## 是“她”还是“他”？
+## 是“她”还是“他”？ { data-search-exclude }
 
 性别麻烦，是谁搞错了？
 
@@ -51,7 +51,7 @@
 
 ![电影《霸王别姬》剧照](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
 
-## 饱受非议的“变性人”： “成为自己”的过程有多难？
+## 饱受非议的“变性人”： “成为自己”的过程有多难？ { data-search-exclude }
 
 和覆盖面更广的“跨性别”（transgender）相比，另外一个曾经常用于描述跨儿的词是“变性人”（transsexual），这个说法出现得更早；历史上，这个词汇曾是称呼跨儿的歧视性用语，现在在一般讨论中较为少见。但是，至少在英文语境中，跨性别群体中的有些人会选择沿用这个词语，以强调自己“变性”而非宽泛的跨“性别”的身份。
 
@@ -129,7 +129,7 @@
 
 “我真正能做的也只有专注、举起这重量。”（All I can really do is to focus and lift.）
 
-## 主要参考文献
+## 主要参考文献 { data-search-exclude }
 1. American Psychological Association. (2015). Guidelines for psychological practice with transgender and gender nonconforming people. American Psychologist, 70(9), 832-864.
 2. Bariola, E., Lyons, A., Leonard, W., Pitts, M., Badcock, P., & Couch, M. (2015). Demographic and psychosocial factors associated with psychological distress and resilience among transgender individuals. American Journal of Public Health, 105(10), 2108-2116.
 3. Fausto-Sterling, A. (2000). Sexing the Body: Gender Politics and the Construction of Sexuality. Basic Books.
@@ -144,9 +144,9 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
-## 快来新闻客户端参与评论获金币兑礼品吧！ 
+## 快来新闻客户端参与评论获金币兑礼品吧！  { data-search-exclude }
 
 ![转发](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
 

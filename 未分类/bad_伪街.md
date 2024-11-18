@@ -7,7 +7,7 @@
 
 ![Default Avatar](https://bad.news/images/default_avatar_400x400.jpeg)
 
-## Bad.news App
+## Bad.news App { data-search-exclude }
 
 下载 "Bad.news" App
 
@@ -38,7 +38,7 @@
 - [关注推特](https://twitter.com/good_news_bad)
 - [关注 Telegram](https://t.me/lvv2com_chat)
 
-## 热搜：
+## 热搜： { data-search-exclude }
 
 - [u綠帽](/search/q-u綠帽/via-log)
 - [北京地铁拉屎](/search/q-北京地铁拉屎/via-log)
@@ -72,7 +72,7 @@
 - [VAM国漫](/search/q-VAM国漫/via-log)
 - [更多热搜 >>](/search/log)
 
-## 时间筛选
+## 时间筛选 { data-search-exclude }
 
 - [1天内](/search/t-day/q-%E4%BC%AA%E8%A1%97/type-all)   
 - [1周内](/search/t-week/q-%E4%BC%AA%E8%A1%97/type-all)   
@@ -80,7 +80,7 @@
 - [1年内](/search/t-year/q-%E4%BC%AA%E8%A1%97/type-all)   
 - [全部时间](/search/t-all/q-%E4%BC%AA%E8%A1%97/type-all)
 
-## 内容筛选
+## 内容筛选 { data-search-exclude }
 
 - [18+视频](/search/t-all/q-%E4%BC%AA%E8%A1%97/type-porn)   
 - [Gay视频](/search/t-all/q-%E4%BC%AA%E8%A1%97/type-gay)   

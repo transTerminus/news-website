@@ -19,12 +19,12 @@
 
 研究結果顯示，前往性別診所或接受變性治療對患者的自殺率沒有顯著影響。同時研究也表明，患者在接受變性治療後，看精神科的次數並沒有減少，這表明變性治療並沒有改善他們的精神健康。卡爾蒂亞拉博士表示，「我們絕不能認為變性治療就是患者所需要的一切幫助。」這些年輕人極需的是得到周延的心理治療，而非有爭議的醫療介入手段。未來，提倡給青少年進行變性治療的支持者是否會採納這篇芬蘭研究的結論，還有待觀察。
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [芬蘭](/regions/%e8%8a%ac%e8%98%ad/)
 - [兒童與青少年](/tags/%e5%85%92%e7%ab%a5%e8%88%87%e9%9d%92%e5%b0%91%e5%b9%b4/)
 - [兒少健康](/tags/%e5%85%92%e5%b0%91%e5%81%a5%e5%ba%b7/)
 
-## 相關連結
+## 相關連結 { data-search-exclude }
 - [A Finnish study is changing how we approach transgender kids](https://nypost.com/2024/02/24/opinion/a-finnish-study-is-changing-how-we-approach-trans-kids/) - New York Post ([備份](https://archive.ph/cNc60))
 - [該芬蘭研究PDF](https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf) - BMJ Mental Health ([備份](https://web.archive.org/web/20240306032037/https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf))
 

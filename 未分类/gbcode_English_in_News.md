@@ -5,7 +5,7 @@
 
 ![rthk.hk 香港电台网站](https://app7.rthk.hk/elearning/englishinnews/images/rthklogo.png)
 
-## **transsexual** **变性人**
+## **transsexual** **变性人** { data-search-exclude }
 
 例子：A Hong Kong, identified as “W”, has won the right to marry her boyfriend.
 
@@ -37,7 +37,7 @@ Transsexual 以 trans- 开头，有贯穿、转换、改变之意，衍生出以
 
 **► trans**sexual, **trans**form 变形, **trans**cend 超越
 
-## **gender change surgery/operation** **变性手术**
+## **gender change surgery/operation** **变性手术** { data-search-exclude }
 
 例子：“W” underwent at a public hospital a few years ago.
 
@@ -65,7 +65,7 @@ Transsexual 以 trans- 开头，有贯穿、转换、改变之意，衍生出以
 
 例子：South Korea is famous for its cosmetic surgery.
 
-## **g****ender dysphoria****性别不安症****/ gender identity disorder** **性别认同障碍**
+## **g****ender dysphoria****性别不安症****/ gender identity disorder** **性别认同障碍** { data-search-exclude }
 
 其实不少变性人都受性别不安症或者性别认同障碍之苦，当中不乏「男人身，女人心」、「女人身，男人心」的例子，又或难以接受本身的性别角色；接受变性手术，是一个出路。
 
@@ -89,7 +89,7 @@ _Court of Final Appeal_ _终审法院_
 
 _Unconstitutional_ _违宪的_
 
-## **radical change** **本质上的改变**
+## **radical change** **本质上的改变** { data-search-exclude }
 
 例子：Including post-operative transsexuals in the definition of “man” and “woman” will be a radical change of the traditional concepts of gender and marriage.  
 

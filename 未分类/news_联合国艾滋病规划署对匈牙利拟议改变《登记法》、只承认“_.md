@@ -33,7 +33,7 @@ The Gender Spectrum Collection
 
 由联合国人权理事会任命的“保护免受基于性取向和性别认同的暴力和歧视问题”独立专家维克托·博尔洛兹（Victor Madrigal-Borloz）日前曾发表声明指出，匈牙利绝不能打着保护健康的幌子，来打击跨性别者和性别多样化人群。该国应严格限制紧急权力的使用，以抗击新冠病毒病大流行。
 
-## 标签
+## 标签 { data-search-exclude }
 
 - [匈牙利](/zh/tags/xiongyali)
 - [跨性别问题](/zh/tags/kuaxingbiewenti)

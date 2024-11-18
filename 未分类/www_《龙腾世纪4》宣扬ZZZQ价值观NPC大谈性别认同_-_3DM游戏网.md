@@ -30,7 +30,7 @@
 
 ![游戏截图](https://img.3dmgame.com/uploads/images/news/20241030/1730254591_277766.jpg)
 
-## 相关资讯
+## 相关资讯 { data-search-exclude }
 
 **标签**： [龙腾世纪：影障守护者](https://www.3dmgame.com/news/24195/)
 

@@ -1,4 +1,4 @@
-![亚美尼亚首位变性人为少数群体发声 保守派：烧死她](//x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
+# ![亚美尼亚首位变性人为少数群体发声 保守派：烧死她](//x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
 
 # 亚美尼亚首位变性人为少数群体发声 保守派：烧死她
 

@@ -5,7 +5,7 @@
 
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 金羊网-羊城晚报
+## 金羊网-羊城晚报 { data-search-exclude }
 
 **时间**: 2006.03.23 15:16  
 **作者**: 文/本报记者林洁 实习生彭文怡

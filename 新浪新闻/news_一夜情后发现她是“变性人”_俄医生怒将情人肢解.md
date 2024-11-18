@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
-## 来源：环球网
+## 来源：环球网 { data-search-exclude }
 ### 日期：2019.05.03 16:39
 ### 作者：任洁
 
@@ -23,15 +23,15 @@
 
 而吉洪诺夫目前已认罪，如果法院判决他谋杀罪和毁灭尸体罪成立，他将面临长达20年的有期徒刑。
 
-## 受害者利卡斯
+## 受害者利卡斯 { data-search-exclude }
 
 ![受害者利卡斯](//k.sinaimg.cn/n/spider20190503/200/w640h360/20190503/--Yp-hwfpcxn7664312.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-## 凶手米哈伊尔•吉洪诺夫
+## 凶手米哈伊尔•吉洪诺夫 { data-search-exclude }
 
 ![凶手米哈伊尔•吉洪诺夫](//k.sinaimg.cn/n/spider20190503/200/w640h360/20190503/Okc0-hwfpcxn7664330.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
 ### 快来新闻客户端参与评论获金币兑礼品吧！
 

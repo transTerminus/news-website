@@ -7,7 +7,7 @@
 
 ![sina_logo](https://n.sinaimg.cn/www/index/sina_logo.png)
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 ![记者，一直在路上！](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAiAQMAAAA3R1a1AAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAAxJREFUGNNjGAVUBwABVAAB3ayOSgAAAABJRU5ErkJggg==)
 

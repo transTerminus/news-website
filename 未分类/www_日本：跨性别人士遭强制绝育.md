@@ -3,11 +3,11 @@
 ## 正文 { data-search-exclude }
 
 
-## 来源
+## 来源 { data-search-exclude }
 - [Human Rights Watch](https://www.hrw.org/zh-hans/news/2019/03/19/327813)
 - 日期：2019年3月19日
 
-## 正文
+## 正文 { data-search-exclude }
 ![日本跨性别男性杉山文野拿著他的身份證，上面写著“女性”。摄於东京杉山自宅。](/sites/default/files/styles/16x9_large/public/multimedia_images_2019/201903lgbt_japan_main_2.jpg?itok=LmY4_yEv)
 
 （东京） - 人权观察在今天发布的报告中表示，日本政府应该停止强迫跨性别者进行手术绝育作为合法性别认定的前提。要求将医疗干预作为法律承认其性别认同的条件，既违反日本的人权义务，也违背国际医疗标准。
@@ -42,15 +42,15 @@
 
 “最高法院已对日本有关合法性别认定的法律提出严重质疑，”土井说。“政府必须修改法律，以符合其国际人权义务与国际医疗准则。”
 
-## 标签
+## 标签 { data-search-exclude }
 - 日本
 - 跨性别
 - 人权
 
-## 评论
+## 评论 { data-search-exclude }
 “是的，我希望我的声音被听到。” 
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 - 人权观察官方网站 (https://www.hrw.org)
 - [‘我被打过数不清多少次’](https://www.hrw.org/report/2020/07/20/375777) - 日本未成年运动员被虐待报告
 

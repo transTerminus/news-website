@@ -9,7 +9,7 @@
 时间: 2010年11月19日  
 编辑: 田博川  
 
-## 正文
+## 正文 { data-search-exclude }
 
 11月19日，第六届“国际皇后小姐”变性人选美大赛在泰国芭达雅举行。最终，韩国选手获得选美大赛冠军，亚军和季军分别为来自日本和美国的参赛者获得。
 
@@ -22,7 +22,7 @@
 ![图片4](http://i5.chinanews.com/photo/hd_img/k03-03.gif)  
 ![背景图4](http://i5.chinanews.com/photo/hd_img/k03-bg03.gif)  
 
-## 友情链接
+## 友情链接 { data-search-exclude }
 
 - [新华网图片频道](http://www.xinhuanet.com/photo/)  
 - [中国网图片频道](http://www.china.com.cn/photo/node_6183095.htm)  
@@ -36,7 +36,7 @@
 ![脚注2](http://i3.chinanews.com/photo/special_img2009/yqlj2.gif)  
 ![空白](http://i6.chinanews.com/photo/special_img2009/blank.gif)  
 
-## 版权及其他
+## 版权及其他 { data-search-exclude }
 
 内容版权归原作者所有，转载请注明来源。
 

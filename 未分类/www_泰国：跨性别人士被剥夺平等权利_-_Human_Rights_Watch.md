@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 泰国：跨性别人士被剥夺平等权利
+## 泰国：跨性别人士被剥夺平等权利 { data-search-exclude }
 
 ![Illustration of a person holding up an ID card](https://www.hrw.org/sites/default/files/styles/embed_xxl/public/media_2021/12/202112asia_thailand_lgbt_id.jpg?itok=pwVi-omW)
 © 2021 John Holmes for Human Rights Watch
@@ -49,7 +49,7 @@
 
 “确保跨性别人士享有不受歧视以及教育、医疗保健和就业的权利，是追求任何平等愿景的首要重点，” 奈特说。“虽然法律性别承认并不能完全缓解泰国跨性别人士面临的所有困难，但它是迈向平等与不歧视的关键措施。”
 
-## 参考信息
+## 参考信息 { data-search-exclude }
 
 - **区域／国家**: 泰国
 - **主题**: LGBT权利

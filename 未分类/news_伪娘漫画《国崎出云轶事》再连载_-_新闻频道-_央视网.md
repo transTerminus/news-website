@@ -12,14 +12,14 @@
 
 ![国崎出云轶事](http://pic.dbw.cn/0/04/47/51/4475193_853491.jpg)
 
-## 相关报道：
+## 相关报道： { data-search-exclude }
 
 - [著名漫画家王原：发展动漫产业 需要艺术发展的根基](http://news.cntv.cn/20110321/108668.shtml) 2011-03-21
 - [中国女漫画家走上日本漫画论坛 分享创作心得](http://news.cntv.cn/20110309/101278.shtml) 2011-03-09
 
 责任编辑：秦东北
 
-## 热词：
+## 热词： { data-search-exclude }
 
 - [轶事](http://so.cntv.cn/search.php?qtext=轶事&sid=0000&pid=0000)
 - [国崎出云轶事](http://so.cntv.cn/search.php?qtext=国崎出云轶事&sid=0000&pid=0000)

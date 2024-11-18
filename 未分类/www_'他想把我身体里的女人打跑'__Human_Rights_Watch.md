@@ -34,11 +34,11 @@
 
 访谈结束後，莱拉走进浴室，脱下碎花洋装，换上西装领带。她把头髮往後梳，感觉喉结回到原位，以男子的姿态踏上贝鲁特街头，但这个男人其实不是她。
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 - [捐款赞助](https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgdonate&promo_id=1000)
 - 主题：[LGBT权利](https://www.hrw.org/topic/lgbtquanli)
 
-## 更多报导
+## 更多报导 { data-search-exclude }
 - 2019年 07月 26日 快讯
     ### [‘莱伊拉计划’乐团成黎巴嫩最新言论自由受害者](https://www.hrw.org/zh-hans/news/2019/07/26/332458)
     ![The popular band Mashrou' Leila](https://sites/default/files/styles/square/public/multimedia_images_2019/201907mena_lebanon_mashrouleila.jpg?itok=8ZVzLD_Y)

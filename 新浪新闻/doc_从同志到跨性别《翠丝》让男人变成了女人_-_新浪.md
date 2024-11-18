@@ -23,7 +23,7 @@
 
 \[剧透预警，介意绕行\]
 
-## 1
+## 1 { data-search-exclude }
 
 在《翠丝》之中，“谁先爱上他的”这样的问题太好解答了。
 
@@ -97,7 +97,7 @@
 
 ![惠英红](//n.sinaimg.cn/ent/transform/249/w630h419/20181116/3rlC-hnvukff8308758.jpg)
 
-## 2
+## 2 { data-search-exclude }
 
 但《翠丝》足够称得上是港版《丹麦女孩》了吗？
 
@@ -153,7 +153,7 @@
 
 ![姜皓文](//n.sinaimg.cn/ent/transform/707/w630h877/20181116/AstA-hnvukff8317745.jpg)
 
-## 3
+## 3 { data-search-exclude }
 
 影片的立场无罪，而过于直白的目的袒露及戏剧化的呈现，却能击毁一部影片的些许立场。
 

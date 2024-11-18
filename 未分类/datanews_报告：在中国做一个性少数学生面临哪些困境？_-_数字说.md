@@ -1,4 +1,4 @@
-本文由第三方AI基于财新文章[https://a.caixin.com/Kvvtw00l](https://a.caixin.com/Kvvtw00l)提炼总结而成，可能与原文真实意图存在偏差。不代表财新观点和立场。推荐点击链接阅读原文细致比对和校验。
+# 本文由第三方AI基于财新文章[https://a.caixin.com/Kvvtw00l](https://a.caixin.com/Kvvtw00l)提炼总结而成，可能与原文真实意图存在偏差。不代表财新观点和立场。推荐点击链接阅读原文细致比对和校验。
 
 ![](https://file.caixin.com/file/datanews/images/shuzishuo.png)
 
@@ -42,7 +42,7 @@
 
 您的评论已成功提交发布
 
-## 数据新闻与可视化作品
+## 数据新闻与可视化作品 { data-search-exclude }
 
 ![数据新闻与可视化作品](http://datanews.caixin.com/interactive/2023/Beijing-Workers-Stadium/worker-stadium-banner-900x600.jpg) “新工体”揭面纱：“新”在哪？相比全球豪门俱乐部主场如何
 

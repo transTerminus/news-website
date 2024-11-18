@@ -23,7 +23,7 @@
 
 相关阅读：
 
-## 标签
+## 标签 { data-search-exclude }
 - [蝙蝠女](/tags-%F2%F9%F2%F0%C5%AE-0.html) 
 - [跨性别角色](/tags-%BF%E7%D0%D4%B1%F0%BD%C7%C9%AB-0.html) 
 - [DC漫画](/tags-DC%C2%FE%BB%AD-0.html)

@@ -15,7 +15,7 @@ UNO ✖ It Gets Better
 
 此次合作旨在支持It Gets Better Project“给予（LGBTQ+）youth群体爱与勇气，并向他们传递生活会变得更好”的理念。进一步体现UNO包容性与多样性的文化。
 
-## 关于LGBTQ
+## 关于LGBTQ { data-search-exclude }
 
 LGBTQ(Lesbians, Gays, Bisexuals, Transgender, Queer/Questioning)是由括号内五个词的首字母结合而成的。一句话解释就是：广泛代表了所有非异性恋者。在现代用语中，“LGBT”一词十分重视性倾向与性别认同文化多样性。
 
@@ -39,7 +39,7 @@ LGBTQ(Lesbians, Gays, Bisexuals, Transgender, Queer/Questioning)是由括号内�
 ![纸牌1](https://nie.res.netease.com/r/pic/20210520/d38820c9-560c-4891-9045-8f1daf48d80e.png)
 ![纸牌2](https://nie.res.netease.com/r/pic/20210520/e392af44-1629-46a0-83e6-510f869bb912.png)
 
-## 关于It Gets Better Project
+## 关于It Gets Better Project { data-search-exclude }
 
 It Gets Better Project由丹·萨维奇（Dan Savage）和他的同性伴侣特里·米勒（Terry Miller）在2010年创建。旨在为(LGBTQ+)youth群体传递爱与力量，来帮助那些感到孤独的人解决他们的性认同问题。
 

@@ -13,7 +13,7 @@
 
 **来源：新浪**
 
-## 正文
+## 正文 { data-search-exclude }
 
 #前男友居然去做了变性手术# 变性手术，是把原有的外生值器改变成异性的结构并切除性腺，以符合自我性别再认定。手术后患者原来自觉性别与生物学性别之间的矛盾缓解，心理得到平衡，可以结婚组成家庭，但没有生育能力。 
 
@@ -52,7 +52,7 @@
 **版权：** 免费 / 绿色应用 / 优质  
 **评论数：** 174  
 
-## 图片
+## 图片 { data-search-exclude }
 ![前男友居然去做了变性手术6](https://wx1.sinaimg.cn/large/006MsevZgy1hfcsh7kahnj30qo0etacl.jpg)  
 
 ![前男友居然去做了变性手术7](https://z0.sinaimg.cn/auto/crop?img=https%3A%2F%2Fwx1.sinaimg.cn%2Flarge%2F0070TSJaly1hfcviahcx9j30eq0l1n1f.jpg&size=360_360&focus=center&keep_quality=1&sharp=1)

@@ -5,7 +5,7 @@
 
 _![](https://n.sinaimg.cn/sinacn10207/358/w179h179/20191010/0be4-ifrwayx3529515.jpg)_
 
-## 译言
+## 译言 { data-search-exclude }
 
 译言网官方账号 2022.09.19 11:58
 

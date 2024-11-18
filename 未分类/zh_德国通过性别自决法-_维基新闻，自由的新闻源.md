@@ -29,7 +29,7 @@
 
 此立场亦呼应教宗方济各发布的文件，指代孕侵犯妇女与儿童尊严，使妇女成为他人欲望的工具。外界普遍认为，此举针对LGBTQ+群体，与教廷立场一致，引发众多抗议。
 
-## 消息来源
+## 消息来源 { data-search-exclude }
 
 - 沈禄佩，[德国通过《性别自决法》 简化更改性别、姓名程序](https://news.pts.org.tw/article/690475)，[公视](https://zh.wikipedia.org/wiki/%E5%85%AC%E8%A6%96)，2024年4月15日。
 - Jessica Parker，[Germany eases gender change rules](https://www.bbc.com/news/world-europe-68801392)，[BBC](https://zh.wikipedia.org/wiki/BBC)，2024年4月15日。

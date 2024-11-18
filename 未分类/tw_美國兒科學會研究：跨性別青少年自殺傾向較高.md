@@ -16,7 +16,7 @@
 
 ---
 
-## 相關內容
+## 相關內容 { data-search-exclude }
 
 ![新聞專題](https://s.yimg.com/bt/api/res/1.2/HIvW0SpRYqoOC_JMgLQ7YQ--~B/Zmk9ZmlsbDtweW9mZj01MDtweG9mZj01MDt3PTUxNDtoPTI4ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/cv/apiv2/default/20240206/twidol2_375x210.jpg.cf.webp)
 

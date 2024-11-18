@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/sinakd10203/360/w180h180/20221208/105b-80aa0451359415b89b3859bdd57b5f0e.jpg)
 
-## 东亚经贸新闻
+## 东亚经贸新闻 { data-search-exclude }
 
 2006.06.01 04:22
 

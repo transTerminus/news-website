@@ -31,7 +31,7 @@
 
 --- 
 
-## 往日新闻
+## 往日新闻 { data-search-exclude }
 
 ![美国旧金山飘扬的一面彩虹旗。](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/10/15723/image350x235cropped.jpg)
 

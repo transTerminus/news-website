@@ -5,7 +5,7 @@
 
 ![大頭錯亂…這麼可愛一定是男孩子！路人被告白仍「知男而上」：可以喔](https://s.yimg.com/ny/api/res/1.2/A8nQcFxLiuVG0rZrvmTF1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/ftvn.com.tw/9dc9540c78367b65ce8ed506f0d4b3cc)
 
-## 來源
+## 來源 { data-search-exclude }
 - **時間**: 2022年11月23日
 - **來源**: 民視新聞網
 - **作者**: 國際中心／吳峻光報導

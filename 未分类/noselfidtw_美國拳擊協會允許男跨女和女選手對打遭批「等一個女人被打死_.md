@@ -19,7 +19,7 @@
 
 ---
 
-## 相關連結
+## 相關連結 { data-search-exclude }
 
 - [USA Boxing introduce new 'Transgender Policy' which allows male boxers who transition to fight in female category under certain conditions](https://talksport.com/sport/1695201/usa-boxing-new-transgender-policy-male-transition-fight-female/) - talkSPORT ([備份](https://archive.ph/GL28O))
 - [Boxing star Ebanie Bridges slams new policy of allowing transgender women to compete in female category in 2024: 'This is wrong on so many levels'](https://www.dailymail.co.uk/sport/boxing/article-12913189/Ebanie-Bridges-transgender-policy-women-boxing-USA.html) - Mail Online ([備份](https://archive.ph/K9Yty))

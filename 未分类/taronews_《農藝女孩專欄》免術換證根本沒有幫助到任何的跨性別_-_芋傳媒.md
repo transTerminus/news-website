@@ -26,7 +26,7 @@
 
 原文出自 [農藝女孩看世界臉書](https://www.facebook.com/loveagrogirl/posts/pfbid0hfJLxbrp6Tvp9rVRUG6efHWh9qPGXuqxSFw9A4Pumfxz7PKJEhZBwTBuxryuFMGGl)，芋傳媒經授權轉載。
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [免術換證](https://taronews.tw/tag/%e5%85%8d%e8%a1%93%e6%8f%9b%e8%ad%89/)
 - [跨性別](https://taronews.tw/tag/%e8%b7%a8%e6%80%a7%e5%88%a5/)
 
@@ -37,7 +37,7 @@
 - [電子信箱](mailto:?subject=《農藝女孩專欄》免術換證根本沒有幫助到任何的跨性別&body=https%3A%2F%2Ftaronews.tw%2F2024%2F11%2F02%2F1015736%2F)
 - [LINE](https://line.me/R/msg/text/?《農藝女孩專欄》免術換證根本沒有幫助到任何的跨性別%0D%0Ahttps%3A%2F%2Ftaronews.tw%2F2024%2F11%2F02%2F1015736%2F)
 
-## 版权
+## 版权 { data-search-exclude }
 © 芋傳媒 TaroNews  
 
 ---

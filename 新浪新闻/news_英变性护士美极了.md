@@ -5,7 +5,7 @@
 
 ![英变性护士](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/ce7e-7915fccf18698f95eefe259dea9c792e.jpg)
 
-## 来源: 海峡都市报  
+## 来源: 海峡都市报   { data-search-exclude }
 **时间:** 2006.11.28 02:39
 
 ![变性前](//z3.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fw%2F2006-11-28%2Fad2e2edb96e8af555942f5cc5a912393.jpg&size=328_218)  

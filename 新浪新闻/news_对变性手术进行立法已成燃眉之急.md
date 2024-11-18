@@ -5,7 +5,7 @@
 
 ![变性手术](//n.sinaimg.cn/sinacn/20170106/cec7-fxzkfvn0496499.jpg)
 
-## 南方周末
+## 南方周末 { data-search-exclude }
 
 **时间**: 2007.04.26 10:35  
 **作者**: 戴敦峰  

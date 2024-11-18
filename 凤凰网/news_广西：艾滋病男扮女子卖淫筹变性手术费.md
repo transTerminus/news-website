@@ -1,4 +1,4 @@
-![](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
+# ![](https://dolphin.deliver.ifeng.com/c?z=ifeng&la=0&si=2&ci=23&cg=22&c=29&or=232&l=728&bg=728&b=726&u=https://y0.ifengimg.com/34c4a1d78882290c/2012/0528/1x1.gif)
 
 # 广西：艾滋病男扮女子卖淫筹变性手术费
 

@@ -8,7 +8,7 @@
 **编辑:** 安梦莹  
 **标签:** [双性人](http://search.cntv.cn/netall/index.shtml?qtext=双性人), [申请](http://search.cntv.cn/netall/index.shtml?qtext=申请), [办理残疾证](http://search.cntv.cn/netall/index.shtml?qtext=办理残疾证), [被告知无先例](http://search.cntv.cn/netall/index.shtml?qtext=被告知无先例)  
 
-## 正文
+## 正文 { data-search-exclude }
 
 双性人申请办理残疾证被告知无先例
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 相关信息
+## 相关信息 { data-search-exclude }
 
 - **评分:**  
 - [进入复兴论坛](http://fuxing.bbs.cctv.com)  
@@ -26,7 +26,7 @@
 
 ---
 
-## 热词
+## 热词 { data-search-exclude }
 
 - [双性人](http://search.cntv.cn/netall/index.shtml?qtext=双性人)
 - [申请](http://search.cntv.cn/netall/index.shtml?qtext=申请)

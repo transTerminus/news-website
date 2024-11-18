@@ -18,7 +18,7 @@
 
 责任编辑：孟超
 
-## 热词：
+## 热词： { data-search-exclude }
 - [内衣裤](http://search.cntv.cn/netall/index.shtml?qtext=内衣裤)
 - [男子](http://search.cntv.cn/netall/index.shtml?qtext=男子)
 - [变装](http://search.cntv.cn/netall/index.shtml?qtext=变装)

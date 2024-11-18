@@ -27,10 +27,10 @@
 
 美國喬治華盛頓大學（George Washington University）政治管理學程主任貝爾特（Todd Belt）告訴法新社，這些反跨性別廣告就是「為了激起共和黨基本盤的情緒…它對尚未做出決定選民的吸引力非常有限，並容易讓人感到冷酷無情」，並稱許多美國人已厭倦這種「文化戰爭戲碼」。
 
-## 來源
+## 來源 { data-search-exclude }
 - 中央社
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [川普](/search/tagging/2/川普)
 - [政見](/search/tagging/2/政見)
 - [美國大選](/search/tagging/2/美國大選)

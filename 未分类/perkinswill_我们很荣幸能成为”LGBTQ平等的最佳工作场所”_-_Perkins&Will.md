@@ -9,7 +9,7 @@
 
 ---
 
-## 正文
+## 正文 { data-search-exclude }
 
 我们很荣幸能成为”LGBTQ平等的最佳工作场所” – Perkins&Will
 

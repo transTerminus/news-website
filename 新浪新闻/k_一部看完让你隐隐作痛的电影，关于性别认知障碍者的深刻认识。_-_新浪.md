@@ -5,7 +5,7 @@
 
 ![电影海报](https://n.sinaimg.cn/sinakd10203/360/w180h180/20221030/8a65-e3a1882838df9bc9f258196c2a34c99e.jpg)
 
-## 我是彦煮
+## 我是彦煮 { data-search-exclude }
 
 2019.05.07 17:40
 
@@ -279,7 +279,7 @@
 
 ![电影场景](http://n.sinaimg.cn/sinacn20117/724/w640h84/20190507/6195-hwsffza6386931.gif)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **卡车\_tl** 0  
 **此片必看!**  

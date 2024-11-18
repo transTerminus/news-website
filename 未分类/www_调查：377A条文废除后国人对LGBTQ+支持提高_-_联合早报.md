@@ -27,7 +27,7 @@
 
 领养权方面，56%的新加坡人认为同性伴侣应该拥有和异性伴侣相同的领养孩子权利。在这当中，Z世代的支持率占比最高，达73%。之后依次是千禧一代的66%、X世代的44%，以及婴儿潮世代的38%。
 
-## 热词
+## 热词 { data-search-exclude }
 
 - [刑事法典第377A节条文](https://www.zaobao.com/keywords/xing-shi-fa-dian-di-377-jie-tiao-wen)
 - [调查](https://www.zaobao.com/keywords/diao-cha)

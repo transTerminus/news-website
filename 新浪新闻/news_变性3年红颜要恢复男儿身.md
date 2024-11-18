@@ -5,10 +5,10 @@
 
 ![红颜](//n.sinaimg.cn/sinacn/20170523/33f8-fyfkzhs9794054.jpg)
 
-## 来源
+## 来源 { data-search-exclude }
 南方日报
 
-## 时间
+## 时间 { data-search-exclude }
 2006.06.27 09:13
 
 灯红酒绿远不及真实平静的生活更具吸引力
@@ -39,7 +39,7 @@
 
 本报记者沈昀
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 
 恢复男儿身分3步走
 
@@ -56,7 +56,7 @@
 
 ![医生](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 评论
+## 评论 { data-search-exclude }
 
 请输入评论内容
 

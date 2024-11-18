@@ -1,4 +1,4 @@
-![](https://v.lndata.com/i/a80450,b1452855,c4007,i0,m202,h)![](https://v.lndata.com/i/a80450,b1452853,c4137,i0,m202,h)![](https://v.lndata.com/i/a80450,b1452854,c4138,i0,m202,h) 酷兒 - TNL The News Lens 關鍵評論網
+# ![](https://v.lndata.com/i/a80450,b1452855,c4007,i0,m202,h)![](https://v.lndata.com/i/a80450,b1452853,c4137,i0,m202,h)![](https://v.lndata.com/i/a80450,b1452854,c4138,i0,m202,h) 酷兒 - TNL The News Lens 關鍵評論網
 
 # 酷兒
 
@@ -17,7 +17,7 @@
   - [雙性戀](https://www.thenewslens.com/tag/11885)
   - [女權](https://www.thenewslens.com/tag/2123)
 
-## [【小說】《餘興派對》選摘：一個病得很重的人來到克里夫蘭小學，他……往操場上開槍](https://www.thenewslens.com/article/204134)
+## [【小說】《餘興派對》選摘：一個病得很重的人來到克里夫蘭小學，他……往操場上開槍](https://www.thenewslens.com/article/204134) { data-search-exclude }
 
 2024/06/22 [文學](https://www.thenewslens.com/category/literature) • [精選書摘](https://www.thenewslens.com/author/bookdigest)
 
@@ -44,7 +44,7 @@
 - [Afterparties](https://www.thenewslens.com/tag/342056)
 - [克里夫蘭小學](https://www.thenewslens.com/tag/342057)
 
-## [教宗方濟各開放態度改善LGBTQ處境，為何仍遭梵蒂岡保守派強烈反對？](https://www.thenewslens.com/article/202364)
+## [教宗方濟各開放態度改善LGBTQ處境，為何仍遭梵蒂岡保守派強烈反對？](https://www.thenewslens.com/article/202364) { data-search-exclude }
 
 2024/05/07 [TNL+](https://www.thenewslens.com/tnl-plus) [性別](https://www.thenewslens.com/category/gender) • [張瑞邦 Tucker Chang](https://www.thenewslens.com/author/tuckerchang)
 
@@ -63,7 +63,7 @@
 - [雙性戀](https://www.thenewslens.com/tag/11885)
 - [神職人員](https://www.thenewslens.com/tag/17822)
 
-## [【專訪】荷蘭小說《被消失的貼文》作者：平台刪文才不是根據道德，人們透過「陰謀論」找歸屬感](https://www.thenewslens.com/article/198587)
+## [【專訪】荷蘭小說《被消失的貼文》作者：平台刪文才不是根據道德，人們透過「陰謀論」找歸屬感](https://www.thenewslens.com/article/198587) { data-search-exclude }
 
 2024/02/17 [文學](https://www.thenewslens.com/category/literature) • [Abby Huang](https://www.thenewslens.com/author/abbyhuang)
 
@@ -83,7 +83,7 @@
 - [社群審查員](https://www.thenewslens.com/tag/324803)
 - [Facebook審查員](https://www.thenewslens.com/tag/324804)
 
-## [溫溫哥華酷兒女權脱口秀（下）：不再以順性別、異性戀為中心，連接更多邊緣群體促進女權參與](https://www.thenewslens.com/article/196679)
+## [溫溫哥華酷兒女權脱口秀（下）：不再以順性別、異性戀為中心，連接更多邊緣群體促進女權參與](https://www.thenewslens.com/article/196679) { data-search-exclude }
 
 2024/01/01 [性別](https://www.thenewslens.com/category/gender) • [歪脑|WHYNOT](https://www.thenewslens.com/author/whynot_wainao)
 
@@ -98,7 +98,7 @@
 - [順性別](https://www.thenewslens.com/tag/94272)
 - [Unicome](https://www.thenewslens.com/tag/322078)
 
-## [溫哥華酷兒女權脱口秀（上）：「媽的多重高潮」，帶媽媽們來聽我們講自己對性的探索](https://www.thenewslens.com/article/196447)
+## [溫哥華酷兒女權脱口秀（上）：「媽的多重高潮」，帶媽媽們來聽我們講自己對性的探索](https://www.thenewslens.com/article/196447) { data-search-exclude }
 
 2023/12/31 [性別](https://www.thenewslens.com/category/gender) • [歪脑|WHYNOT](https://www.thenewslens.com/author/whynot_wainao)
 
@@ -119,7 +119,7 @@
 - [媽的多重高潮](https://www.thenewslens.com/tag/322079)
 - [女子主意](https://www.thenewslens.com/tag/322080)
 
-## [【2023酷兒影展】《里昂：行為藝術大師》：展現行為藝術的特立獨行，有愛人相知相惜便足矣](https://www.thenewslens.com/article/193837)
+## [【2023酷兒影展】《里昂：行為藝術大師》：展現行為藝術的特立獨行，有愛人相知相惜便足矣](https://www.thenewslens.com/article/193837) { data-search-exclude }
 
 2023/10/28 [影劇](https://www.thenewslens.com/category/movie-tv) • [台灣國際酷兒影展](https://www.thenewslens.com/author/tiqff)
 
@@ -138,7 +138,7 @@
 - [Wojciech Gostomczyk](https://www.thenewslens.com/tag/316656)
 - [第10屆酷兒影展](https://www.thenewslens.com/tag/316657)
 
-## [印度最高法院裁定駁回同婚法案：首席大法官稱同性戀是「自然現象」，不應受到任何歧視](https://www.thenewslens.com/article/193315)
+## [印度最高法院裁定駁回同婚法案：首席大法官稱同性戀是「自然現象」，不應受到任何歧視](https://www.thenewslens.com/article/193315) { data-search-exclude }
 
 2023/10/17 [性別](https://www.thenewslens.com/category/gender) • [袁齊](https://www.thenewslens.com/author/cherieyuan)
 
@@ -154,7 +154,7 @@
 - [同婚](https://www.thenewslens.com/tag/127831)
 - [城市精英主義](https://www.thenewslens.com/tag/313921)
 
-## [【2023酷兒影展】《寧靜海鎮—恩恰奇拉多斯》：無疑是酷兒電影最璀璨的一顆珍珠，樸實無華、自帶光芒](https://www.thenewslens.com/article/192666)
+## [【2023酷兒影展】《寧靜海鎮—恩恰奇拉多斯》：無疑是酷兒電影最璀璨的一顆珍珠，樸實無華、自帶光芒](https://www.thenewslens.com/article/192666) { data-search-exclude }
 
 2023/10/03 [影劇](https://www.thenewslens.com/category/movie-tv) • [台灣國際酷兒影展](https://www.thenewslens.com/author/tiqff)
 
@@ -169,7 +169,7 @@
 - [伊萬．莫拉．曼薩諾](https://www.thenewslens.com/tag/308881)
 - [Iván Mora Manzano](https://www.thenewslens.com/tag/308882)
 
-## [【2023酷兒影展】選片人的觀影指南：標準就是「好看、引人入勝」，希望觀眾都能「值回票價」](https://www.thenewslens.com/article/192372)
+## [【2023酷兒影展】選片人的觀影指南：標準就是「好看、引人入勝」，希望觀眾都能「值回票價」](https://www.thenewslens.com/article/192372) { data-search-exclude }
 
 2023/09/26 [影劇](https://www.thenewslens.com/category/movie-tv) • [台灣國際酷兒影展](https://www.thenewslens.com/author/tiqff)
 
@@ -186,7 +186,7 @@
 - [里昂：行為藝術大師](https://www.thenewslens.com/tag/313509)
 - [寧靜海鎮：恩恰奇拉多斯](https://www.thenewslens.com/tag/313510)
 
-## [韓國社會近六成反同，首爾同志大遊行場地遭基督教團體搶走，台灣彩虹公民行動協會到場聲援](https://www.thenewslens.com/article/188048)
+## [韓國社會近六成反同，首爾同志大遊行場地遭基督教團體搶走，台灣彩虹公民行動協會到場聲援](https://www.thenewslens.com/article/188048) { data-search-exclude }
 
 2023/07/03 [性別](https://www.thenewslens.com/category/gender) • [張博丞](https://www.thenewslens.com/author/pochengchang)
 
@@ -208,7 +208,7 @@ LGBT在相對保守的韓國社會中，仍不受待見。韓國有59％的民�
 - [酷兒遊行](https://www.thenewslens.com/tag/298630)
 - [楊善宇](https://www.thenewslens.com/tag/298631)
 
-## [俄烏戰爭：開戰近500天，烏克蘭性／別小眾看到希望了嗎？](https://www.thenewslens.com/article/187395)
+## [俄烏戰爭：開戰近500天，烏克蘭性／別小眾看到希望了嗎？](https://www.thenewslens.com/article/187395) { data-search-exclude }
 
 2023/06/19 [性別](https://www.thenewslens.com/category/gender) • [Ｇ點電視](https://www.thenewslens.com/author/gdottv)
 
@@ -225,7 +225,7 @@ LGBT在相對保守的韓國社會中，仍不受待見。韓國有59％的民�
 - [性／別小眾](https://www.thenewslens.com/tag/290067)
 - [Kyiv Pride](https://www.thenewslens.com/tag/301926)
 
-## [盤點2023年香港流行樂壇酷兒音樂創作](https://www.thenewslens.com/article/186412)
+## [盤點2023年香港流行樂壇酷兒音樂創作](https://www.thenewslens.com/article/186412) { data-search-exclude }
 
 2023/05/31 [性別](https://www.thenewslens.com/category/gender) • [Ｇ點電視](https://www.thenewslens.com/author/gdottv)
 
@@ -258,7 +258,7 @@ LGBT在相對保守的韓國社會中，仍不受待見。韓國有59％的民�
 - [關勁松](https://www.thenewslens.com/tag/300297)
 - [女仔衫](https://www.thenewslens.com/tag/300298)
 
-## [中國同志機構北同「因不可抗力」關閉，性少數群體倍感「唇亡齒寒」](https://www.thenewslens.com/article/185980)
+## [中國同志機構北同「因不可抗力」關閉，性少數群體倍感「唇亡齒寒」](https://www.thenewslens.com/article/185980) { data-search-exclude }
 
 2023/05/28 [中國](https://www.thenewslens.com/category/china) • [BBC News 中文](https://www.thenewslens.com/author/bbc)
 
@@ -280,7 +280,7 @@ LGBT在相對保守的韓國社會中，仍不受待見。韓國有59％的民�
 - [性少數群體](https://www.thenewslens.com/tag/299276)
 - [邱嘉彥](https://www.thenewslens.com/tag/299277)
 
-## [LGBT在東帝汶處境為何？法律保障性別認同，但性別暴力文化仍根深蒂固](https://www.thenewslens.com/article/175465)
+## [LGBT在東帝汶處境為何？法律保障性別認同，但性別暴力文化仍根深蒂固](https://www.thenewslens.com/article/175465) { data-search-exclude }
 
 2022/10/28 [TNL+](https://www.thenewslens.com/tnl-plus) [印太](https://www.thenewslens.com/category/indo-pacific) • [陳麗劦](https://www.thenewslens.com/author/lilichen)
 
@@ -292,7 +292,7 @@ LGBT在相對保守的韓國社會中，仍不受待見。韓國有59％的民�
 - [東帝汶](https://www.thenewslens.com/tag/14003)
 - [同婚](https://www.thenewslens.com/tag/127831)
 
-## [Photoshop大師講堂：拍出陳珊妮、唐鳳靈魂的獨特，專訪酷兒攝影師登曼波如何創作出獨特的風格影像](https://www.thenewslens.com/feature/adobe-photoshop/171670)
+## [Photoshop大師講堂：拍出陳珊妮、唐鳳靈魂的獨特，專訪酷兒攝影師登曼波如何創作出獨特的風格影像](https://www.thenewslens.com/feature/adobe-photoshop/171670) { data-search-exclude }
 
 2022/08/16 [藝文](https://www.thenewslens.com/category/arts-culture) • Sponsored
 
@@ -309,7 +309,7 @@ LGBT在相對保守的韓國社會中，仍不受待見。韓國有59％的民�
 - [父親的錄影帶](https://www.thenewslens.com/tag/274818)
 - [楊登棋](https://www.thenewslens.com/tag/274819)
 
-## [加拿大陸續發現原住民兒童無名塚，印地安血統藝術家如何以「酷兒」身份幽默反擊？](https://www.thenewslens.com/article/153701)
+## [加拿大陸續發現原住民兒童無名塚，印地安血統藝術家如何以「酷兒」身份幽默反擊？](https://www.thenewslens.com/article/153701) { data-search-exclude }
 
 2021/07/18 [藝文](https://www.thenewslens.com/category/arts-culture) • [詹育杰](https://www.thenewslens.com/author/marcchan)
 
@@ -338,7 +338,7 @@ LGBT在相對保守的韓國社會中，仍不受待見。韓國有59％的民�
 - [爸爸們](https://www.thenewslens.com/tag/247459)
 - [The Daddies](https://www.thenewslens.com/tag/247460)
 
-## [匈牙利立法禁止校園傳播LGBTQ，各國圍剿總理奧班：「不認同歐盟價值可以離開」](https://www.thenewslens.com/article/153133)
+## [匈牙利立法禁止校園傳播LGBTQ，各國圍剿總理奧班：「不認同歐盟價值可以離開」](https://www.thenewslens.com/article/153133) { data-search-exclude }
 
 2021/07/03 [國際](https://www.thenewslens.com/category/world) • [中央通訊社](https://www.thenewslens.com/author/cnataiwan)
 
@@ -353,7 +353,7 @@ LGBT在相對保守的韓國社會中，仍不受待見。韓國有59％的民�
 - [雙性戀](https://www.thenewslens.com/tag/11885)
 - [奧班](https://www.thenewslens.com/tag/114437)
 
-## [《女人與女孩的原罪》：女性主義與酷兒的聯盟，是對抗父權主義的過程中格外有效的力量](https://www.thenewslens.com/article/152223)
+## [《女人與女孩的原罪》：女性主義與酷兒的聯盟，是對抗父權主義的過程中格外有效的力量](https://www.thenewslens.com/article/152223) { data-search-exclude }
 
 2021/06/20 [性別](https://www.thenewslens.com/category/gender) • [精選書摘](https://www.thenewslens.com/author/bookdigest)
 
@@ -370,7 +370,7 @@ LGBT在相對保守的韓國社會中，仍不受待見。韓國有59％的民�
 - [單一伴侶霸權](https://www.thenewslens.com/tag/245126)
 - [螢光下，戀上你](https://www.thenewslens.com/tag/245127)
 
-## [「同志驕傲月」相關英文：LGBTQIA各是什麼意思？](https://www.thenewslens.com/article/152445)
+## [「同志驕傲月」相關英文：LGBTQIA各是什麼意思？](https://www.thenewslens.com/article/152445) { data-search-exclude }
 
 2021/06/19 [性別](https://www.thenewslens.com/category/gender) • [VoiceTube看影片學英語](https://www.thenewslens.com/author/voicetube)
 
@@ -390,7 +390,7 @@ LGBTQIA代表著多個同志族群名稱的集合體，結合起來就出現了�
 - [LGBTQIA](https://www.thenewslens.com/tag/85118)
 - [同志雷達](https://www.thenewslens.com/tag/245453)
 
-## [《刻在你心底的名字》：悲傷且荒誕的是，兩個人的愛情，得由整個社會來裁判](https://www.thenewslens.com/article/145370)
+## [《刻在你心底的名字》：悲傷且荒誕的是，兩個人的愛情，得由整個社會來裁判](https://www.thenewslens.com/article/145370) { data-search-exclude }
 
 2020/12/30 [藝文](https://www.thenewslens.com/category/arts-culture) • [方格子vocus](https://www.thenewslens.com/author/vocus)
 

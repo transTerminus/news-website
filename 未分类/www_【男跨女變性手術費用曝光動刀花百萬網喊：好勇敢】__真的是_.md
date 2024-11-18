@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 概要
+## 概要 { data-search-exclude }
 這篇文章與跨性別變性手術費用相關，探討了男跨女的變性手術所需的成本以及社會反應。
 
 ### 作者
@@ -12,10 +12,10 @@
 ### 時間
 發佈於 Facebook
 
-## 來源
+## 來源 { data-search-exclude }
 [Facebook](https://www.facebook.com/GoodNews.FANS/videos/1807785576381961)
 
-## 正文
+## 正文 { data-search-exclude }
 真的是天使在人間!! (橘子編) 發落他👉 愛里
 
 【男跨女變性手術費用曝光 動刀花百萬網喊：好勇敢】
@@ -27,22 +27,22 @@
 - 2 comments
 - 3K Plays
 
-## 標籤
+## 標籤 { data-search-exclude }
 - #變性手術
 - #跨性別
 - #勇敢
 
-## 評論
+## 評論 { data-search-exclude }
 1. ![作者](https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/8iuTX4LlGZO.png)
    - **達人秀新聞**  Verified account
    - 謝謝分享！
 
-## 相關影片
+## 相關影片 { data-search-exclude }
 來源：[YouTube](https://youtu.be/VApMSbuyuCY) 
 
 - [【愛里】從60萬開始，變正妹的全攻略（變性教學）](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FVApMSbuyuCY&h=AT11saou1kkdxJsxi57LsMMG3bUDJp1svMtUpHN2h9GSM6fLmZdIzs1YqyDjYN1iSD2__QT8o0XXpATPqVQ96wWEjb0-rFoNqv7H_FHhk_v8j7TvxdJ4jstNzAwFiqTGZlBlbMcmWZuZZwABZhNuPU9H&__tn__=R)
 
-## 其他 
+## 其他  { data-search-exclude }
 - 87% 條件的評價在社交網絡上良好
 
 - 總播放量: 120.5K views

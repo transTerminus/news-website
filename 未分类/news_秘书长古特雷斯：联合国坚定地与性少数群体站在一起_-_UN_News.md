@@ -53,13 +53,13 @@
 
 人权专家是人权理事会特别程序的一部分。特别程序是联合国人权系统中最大的独立专家机构，是人权理事会独立的实况调查和监督机制的总称。特别程序的任务负责人是人权理事会任命的独立人权专家，负责处理世界各地的具体国别状况或专题问题。他们不是联合国工作人员，独立于任何政府或组织。他们以个人身份行使职责，不因其工作收到酬劳。
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 
 - [国际不再恐同日](https://news.un.org/zh/tags/guojibuzaikongtongri)
 - [性少数群体](https://news.un.org/zh/tags/xingshaoshuqunti)
 - [种族主义](https://news.un.org/zh/tags/zhongzuzhuyi)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 直接通过您的邮箱接收每日更新 [**点击此处订阅相关主题**](https://news.un.org/zh/content/un-newsletter-subscribe?utm_source=UN News&utm_medium=email&utm_campaign=un_news_newsletter)
 

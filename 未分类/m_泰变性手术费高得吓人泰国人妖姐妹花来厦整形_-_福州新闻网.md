@@ -11,7 +11,7 @@
 
 据悉，泰国变性手术治疗费高得吓人，她们利用来厦门旅游的机会，对变性后的女性特征器官进行修复再造，主要是隆胸、吸脂、脱毛、隆鼻、生殖器修复等。4位人妖表示，厦门的美容整形技术已经达到国际水准，性价比非常高，完全可以信赖。
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [美国国防部颁布变性人服役新规](http://m.fznews.com.cn/guoji/20190313/5c88ac6917634.shtml)
 - [惊呆！加拿大一男司机为买便宜车险不惜改变性别](http://m.fznews.com.cn/dsxw/20180801/5b610500e0ed7.shtml)
@@ -19,7 +19,7 @@
 - [特朗普禁止变性人从军遭批 加拿大军方:我们欢迎](http://m.fznews.com.cn/guoji/20170727/5979a8f58076a.shtml)
 - [各界口诛笔伐　特朗普不允许变性人服役决定遭批](http://m.fznews.com.cn/guoji/20170727/59794dae399e5.shtml)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 Copyright © fznews.com.cn All Rights Reserved
 
 ## 摘要与附加信息

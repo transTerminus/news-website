@@ -16,7 +16,7 @@
 
 问到她何时做奶奶，会否在今年内成事？朱玲玲笑称被大家问到身痕，又叫大家去问儿子霍启刚，始终幸福要自己争取，自己不会给压力。
 
-## 相关新闻：
+## 相关新闻： { data-search-exclude }
 - [霍启刚郭晶晶婚讯频传 朱玲玲笑称幸福自己争取](http://www.chinanews.com.cn/ga/ga-ylmt/news/2010/05-23/2298814.shtml)
 - [霍启刚母亲朱玲玲：没听说儿子要和郭晶晶结婚](http://www.chinanews.com.cn/ty/ty-tjyy/news/2010/03-11/2162919.shtml)
 - [朱玲玲谈霍启刚婚事卖关子 称不急喝媳妇茶(图)](http://www.chinanews.com.cn/ga/ga-zmrs/news/2010/03-11/2162835.shtml)

@@ -144,7 +144,7 @@
 ![1999年，马格努斯·赫希菲尔德的人物传记电影《性学爱因斯坦》上映。](https://upload.wikimedia.org/wikipedia/commons/a/aa/Magnus_Hirschfeld_biopic_poster.jpg)  
 *图片说明：1999年，马格努斯·赫希菲尔德的人物传记电影《性学爱因斯坦》上映。*
 
-## 资料来源
+## 资料来源 { data-search-exclude }
 1. Magnus Hirschfeld. WikiPedia
 2. The Forgotten History of the World’s First Trans Clinic. Scientific American
 3. Party and protest: the radical history of gay liberation, Stonewall and Pride. The Guardian

@@ -8,7 +8,7 @@
 
 ![衛教LOGO](https://www.cmu-hch.cmu.edu.tw/FileUploads/images/衛教LOGO_3.jpg)
 
-## 文章分享
+## 文章分享 { data-search-exclude }
 [分享至FaceBook](http://www.facebook.com/sharer.php?u=https://www.cmu-hch.cmu.edu.tw/NewsInfo/NewsArticle?no=2173 "分享至FaceBook")  
 [分享至LINE](http://line.naver.jp/R/msg/text/?性別重置手術（變性手術）-陰道成形術%0D%0Ahttps://www.cmu-hch.cmu.edu.tw/NewsInfo/NewsArticle?no=2173 "分享至LINE")
 

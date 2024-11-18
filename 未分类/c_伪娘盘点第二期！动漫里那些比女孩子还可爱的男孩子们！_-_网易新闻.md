@@ -14,7 +14,7 @@
 
 **“伪娘”**这个词来自日本，是一个产生于ACG的词语，指的是那些有着近似女孩子相貌的正常男性角色，容易被人误认为女性，甚至比女性角色还要柔美。伪娘一般都带有很强萌属性，不知道今天盘点的这几个伪娘，能不能萌翻你！
 
-## 乱藤四郎《刀剑乱舞》
+## 乱藤四郎《刀剑乱舞》 { data-search-exclude }
 
 ![乱藤四郎](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FXsOd02D2laYtF7kH7EMF1Ltq26a5Dc8C%3DR2VgUMmCETXH1508232390714transferflag.png&thumbnail=750x2147483647&quality=75&type=webp)
 
@@ -24,7 +24,7 @@
 
 乱酱的声优是山本和臣，声音甜美常常被误认为是女生，但人家可是货真价实的男孩子哦！
 
-## 双六仁志《黑白来看守所》
+## 双六仁志《黑白来看守所》 { data-search-exclude }
 
 ![双六仁志](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2Fnfu26dFpBC2q1jMB0KOclsIpevm8cGXRWX2WS%3DJIcDQID1508232390714transferflag.png&thumbnail=750x2147483647&quality=75&type=webp)
 
@@ -34,7 +34,7 @@
 
 仁志的运动神经并没有很优秀，但是可以被哥哥拿在手里当做武器使用……真是坚硬啊……话说为什么哥哥是个秃头但是弟弟的双马尾这么浓密啊！
 
-## 麻生成实《名侦探柯南》
+## 麻生成实《名侦探柯南》 { data-search-exclude }
 
 ![麻生成实](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2Fe0tSeoFEZlPkh2FZrmR0rtbwpAW0sjzgSjQru61IZD88A1508232390714transferflag.png&thumbnail=750x2147483647&quality=75&type=webp)
 

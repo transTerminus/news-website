@@ -383,7 +383,7 @@ The Diagnostic and Statistical Manual of Mental Disorders简称DSM，是由美�
 
 及至2011年尾，由世界跨性别健康专业协会 (WPATH) 经众多专家及研究人员努力底下，第七版本终于作出了重大及众多的改变，由第六版的23页增加至现时的120页详尽的指引，亦将名字更改为「变性、跨性别及性别不一致人士健康护理指引」Standards of Care for the Health of Transsexual, Transgender, and Gender Nonconforming People，充份反映该指引之适切性及去除病理意味。
 
-## 结语：
+## 结语： { data-search-exclude }
 
 人类在地球上活了数千年的文明，科学一日千里，本以为对大部份的事物都经已有一定的理解。事实上，在不断求真求变、不断发问的人类本性底下，我们每天总会发现一些新的事物、新的知识与见解。从前人类以为地球是平的，也确信不疑，但有一天迷底被揭开，我们才恍然大悟。
 

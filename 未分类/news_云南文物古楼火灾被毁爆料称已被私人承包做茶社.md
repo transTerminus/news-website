@@ -11,14 +11,14 @@
 
 　　但知情者的出现又道出了另一个线索，昨天下午，据当地知情者爆料称，着火前拱辰楼被私人承包做茶社，当地很多人都知道。游客想要登上拱辰楼需要缴纳两元钱门票，进入茶社喝茶或休息需要另外收费。但是，据《国有文物保护单位经营性活动管理规定(试行)》，禁止将文物保护单位作为企业资产经营，不可租赁、承包、转让、抵押文物保护单位，以营利为目的进行商业开发。媒体记者就此说法向当地巍山县县委宣传部相关负责人核实此事，但暂时未得到相应答复。
 
-## 图片
+## 图片 { data-search-exclude }
 
 - ![西藏僧人练习“跳神” 为迎接藏历新年做准备](http://news.xinhuanet.com/politics/2015-01/04/c_127357347_2.htm)
 - ![黄河山西临猗段现大面积流凌 拆除浮桥为流凌“让路”](http://news.xinhuanet.com/local/2015-01/04/c_127355010.htm)
 - ![广西小伙拉着轮椅携患病女友游全国](http://news.xinhuanet.com/local/2015-01/04/c_127355017.htm)
 - ![赵本山刘老根会馆奢华内景曝光 最低消费18万(图)](http://news.xinhuanet.com/legal/2015-01/04/c_127355635.htm)
 
-## 版权
+## 版权 { data-search-exclude }
 
 Copyright © 2000 - 2016 XINHUANET.com　All Rights Reserved.  
 制作单位：新华网 版权所有 [新华网](http://www.news.cn) | [关于我们](http://www.xinhuanet.com/aboutus.htm) | [联系我们](http://news.xinhuanet.com/way.htm) | [我要链接](http://www.xinhuanet.com/linktous.htm) | [版权声明](http://www.xinhuanet.com/xinhua_copyright.htm) | [技术服务中心](http://www.xinhuanet.com/jsfw/index.html)

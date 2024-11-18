@@ -5,14 +5,14 @@
 
 ![微信分享图](https://thumb.artron.net/Img/image?c=0&h=0&src=https%3A%2F%2Fwximg1.artimg.net%2Fnews%2F201207%2F2012071914134630765.jpg&w=600)
 
-## 文章信息
+## 文章信息 { data-search-exclude }
 - **时间**: 2012-07-19 14:11:50
 - **来源**: 雅昌新闻
 - **作者**: 未知
 - **编辑**: 邰蜜子
 - **标签**: [Wu Tsang](http://artso.artron.net/news/search_newslist.php?keyword=Wu%20Tsang)
 
-## 正文
+## 正文 { data-search-exclude }
 
 Wu Tsang
 
@@ -44,7 +44,7 @@ ARTINFO：你现在在忙什么项目?
 
 Wu Tsang：最近刚忙完上述各大展览，同时也发现完成《野》只是个开始，接下来又是许多劳动、麻烦、问题，还有激动人心的事(电影节、公关、代理商……发行!)我还在与我的一位秘密偶像谈，想拍摄一部短片，作为《关于我们如何感知生命(带走三项)》的进一步探索。我希望还能与DJ朋友TOTAL FREEDOM和NGUZUNGUZU以及他们的大家庭(Kingdom, Telfar, Fatima al Qadiri等等!)合作，他们将继续点亮我的声音小宇宙。
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 注：本站上发表的所有内容，均为原作者的观点，不代表雅昌艺术网的立场，也不代表雅昌艺术网的价值判断。
 
 ## 摘要与附加信息

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 學會公告
+## 學會公告 { data-search-exclude }
 
 ### 台灣精神醫學會對性別變更議題之聲明與立場
 

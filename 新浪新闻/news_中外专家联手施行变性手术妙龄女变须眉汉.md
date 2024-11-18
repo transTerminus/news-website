@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/sinacn/20170523/33f8-fyfkzhs9794054.jpg)
 
-## 来源：南方日报
+## 来源：南方日报 { data-search-exclude }
 
 ### 时间：2004.04.13 08:41
 

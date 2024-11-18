@@ -9,7 +9,7 @@
 
 ![图片1](https://static.xx.fbcdn.net/images/emoji.php/v9/tc1/1/16/1f62e.png)新加坡地铁内一异装癖男强扒车门！这真是不要命了~
 
-## 评论
+## 评论 { data-search-exclude }
 
 **最相关评论:**
 
@@ -23,13 +23,13 @@
 
 - 48 हफ़्ते前
 
-## 相关信息
+## 相关信息 { data-search-exclude }
 
 - **观看次数:** 9.7 हज़ार
 - **评论数量:** 5
 - **相关标签:** [Vaster News](https://www.facebook.com/vasternews)
 
-## 相关图片
+## 相关图片 { data-search-exclude }
 
 ![相关图片1](https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/441949325_452654657518790_1683414288402618096_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=c3bc4c&_nc_ohc=-MTffVPldpYQ7kNvgHHU69o&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=A8XenFbb6popQLbDhLDOGgg&oh=00_AYDf1xSZU7MY13wUkFad3PATv58gFLOoU9dl75Bf9lNr6A&oe=67399859)
 

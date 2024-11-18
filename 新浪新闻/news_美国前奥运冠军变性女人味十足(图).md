@@ -30,7 +30,7 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 点击查看更多评论  
 查看158条评论  

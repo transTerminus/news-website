@@ -5,7 +5,7 @@
 
 ![李德川](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/fdb9-f3f9919befc0e964de2cfc9c05090bae.jpg)
 
-## 来源：半岛都市报
+## 来源：半岛都市报 { data-search-exclude }
 
 **时间：2010.08.03 14:26** 
 

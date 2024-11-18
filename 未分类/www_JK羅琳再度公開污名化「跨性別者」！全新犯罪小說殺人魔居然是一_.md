@@ -21,7 +21,7 @@
 
 假設JK羅琳的新書真的只是想說服大家：「別相信穿女裝的男人」，還基本上毫無創意的地抄襲了金凱瑞於1994年主演的偵探喜劇電影《王牌威龍》，那麼昔日以幫鄧不利多出櫃而獲得LGBTQ+族群尊敬的女作家，似乎也不再值得受人尊敬了⋯⋯
 
-## 延伸閱讀
+## 延伸閱讀 { data-search-exclude }
 
 ![ "fantastic beasts and where to find them" european premiere   red carpet arrivals](https://hips.hearstapps.com/hmg-prod/images/rowling-attends-the-european-premiere-of-fantastic-beasts-news-photo-1600189647.jpg?crop=1xw:1xh;center,top&resize=980:*)
 

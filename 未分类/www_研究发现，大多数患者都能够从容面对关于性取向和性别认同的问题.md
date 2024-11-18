@@ -1,4 +1,4 @@
-![Mayo Clinic](/legacy/image.php?image=/images/institutions/logos/MC_STACKED_BLACK_RGB_CLEAR20240220165988.png&width=320&height=100)
+# ![Mayo Clinic](/legacy/image.php?image=/images/institutions/logos/MC_STACKED_BLACK_RGB_CLEAR20240220165988.png&width=320&height=100)
 
 # 研究发现，大多数患者都能够从容面对关于性取向和性别认同的问题
 

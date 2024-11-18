@@ -13,7 +13,7 @@
 
 ---
 
-## 评论区
+## 评论区 { data-search-exclude }
 
 [发表评论](http://news.jstv.com/a/20180816/1534384145117.shtml#SOHUCS)
 

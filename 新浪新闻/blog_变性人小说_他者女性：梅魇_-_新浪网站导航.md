@@ -7,7 +7,7 @@
 
 [访问博文源链接](http://blog.sina.com.cn/u/1531965653)
 
-## 博文
+## 博文 { data-search-exclude }
 
 - **变性人小说** _(15)_
 

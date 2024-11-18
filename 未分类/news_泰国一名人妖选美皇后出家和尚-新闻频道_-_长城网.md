@@ -15,7 +15,7 @@
 
 ---
 
-## 推荐阅读
+## 推荐阅读 { data-search-exclude }
 
 - [世界大不同：看看人妖学生罕见的生活](//news.hebei.com.cn/system/2013/04/02/012673568.shtml)
 - [泰国人妖皇后选美现场 性感华服妖艳无比(组图)](//news.hebei.com.cn/system/2012/07/11/011962599.shtml)

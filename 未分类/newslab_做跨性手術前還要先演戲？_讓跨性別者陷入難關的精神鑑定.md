@@ -5,7 +5,7 @@
 
 ![國立政治大學傳播學院新聞與媒體實驗室](assets/images/style69/logo.png)
 
-## 圖文專題
+## 圖文專題 { data-search-exclude }
 
 **日期：2023-06-23**
 

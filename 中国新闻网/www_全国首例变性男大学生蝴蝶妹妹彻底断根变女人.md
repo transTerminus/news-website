@@ -29,7 +29,7 @@
 
 **编辑：** 宋方灿
 
-## 相 关 报 道
+## 相 关 报 道 { data-search-exclude }
 
 - [图：沈阳变性人老陈与金星同过“母亲节”](http://www.chinanews.com.cn/tp/news/2007/05-13/933868.shtml)
 - [变性艺人河莉秀婚纱照亮相 7月正式领养小孩(图)](http://www.chinanews.com.cn/yl/mxzz/news/2007/04-28/926596.shtml)

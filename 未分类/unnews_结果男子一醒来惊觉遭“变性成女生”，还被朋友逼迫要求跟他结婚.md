@@ -14,7 +14,7 @@
 
 检索自：[https://unnews.miraheze.org/wiki/被朋友骗去做身体检查，结果男子一醒来惊觉遭“变性成女生”，还被朋友逼迫要求跟他结婚?oldid=84851](https://unnews.miraheze.org/wiki/被朋友骗去做身体检查，结果男子一醒来惊觉遭“变性成女生”，还被朋友逼迫要求跟他结婚?oldid=84851)
 
-## 标签
+## 标签 { data-search-exclude }
 - [印度新闻](https://unnews.miraheze.org/wiki/Category:%E5%8D%B0%E5%BA%A6%E6%96%B0%E9%97%BB)
 - [社会新闻](https://unnews.miraheze.org/wiki/Category:%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB)
 

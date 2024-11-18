@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 新闻列表
+## 新闻列表 { data-search-exclude }
 
 - [成都首例变性人婚后生活 日子清苦感情融洽(图)](https://news.sohu.com/20040906/n221896421.shtml) (09/06 10:12)
 - [男子欲寻赞助圆女人梦 手术后愿当模特还债(图)](https://news.sohu.com/20040804/n221347014.shtml) (08/04 03:18)

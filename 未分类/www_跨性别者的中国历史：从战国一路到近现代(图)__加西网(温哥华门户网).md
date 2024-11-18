@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 跨性别者的中国历史：从战国一路到近现代(图)
+## 跨性别者的中国历史：从战国一路到近现代(图) { data-search-exclude }
 
 ![QR Code](https://chart.googleapis.com/chart?chs=280x280&cht=qr&choe=UTF-8&chl=http%3A%2F%2Fwww.vancouverren.com%2Fpda%2Fnews%2Fop%3Dview%2Fsid%3D998265%2Fapp%3Dweixin%2Fruid%3D1%2Flang%3Dschinese.html) 请用微信 **扫一扫** 扫描上面的二维码，然后点击页面右上角的 ... 图标，然后点击 **发送给朋友** 或 **分享到朋友圈**，谢谢！
 

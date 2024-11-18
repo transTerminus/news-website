@@ -7,7 +7,7 @@
 
 ![贾纳·玛丽·克罗克](https://p0.ifengimg.com/fe/iphone_ifeng/images/fenxd_ba2fd33f.png)
 
-## 内容
+## 内容 { data-search-exclude }
 
 7月29日报道，近日，一名曾是世界健美冠军和海军军人的美国男子公开宣布自己是兼具男女特质的跨性别者，她认为自己更偏向于女性角色，并改名为贾纳·玛丽·克罗克(Janae Marie Kroc)。
 
@@ -21,16 +21,16 @@
 
 ![贾纳](https://d.ifengimg.com/q70/y3.ifengimg.com/a/2015_31/8e1e87754bbc66f.jpg)
 
-## 来源
+## 来源 { data-search-exclude }
 - 凤凰新闻
 
-## 标签
+## 标签 { data-search-exclude }
 - 跨性别
 - 健美
 - 变性
 - 社会
 
-## 版权
+## 版权 { data-search-exclude }
 本文版权归原作者所有，转载请注明来源。
 
 ## 摘要与附加信息

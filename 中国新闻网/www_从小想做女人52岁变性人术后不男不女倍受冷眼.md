@@ -1,4 +1,4 @@
-![logo](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
+# ![logo](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
 
 # 从小想做女人 52岁变性人术后不男不女倍受冷眼
 

@@ -31,13 +31,13 @@
 
 塔拉茨科娃的律师格洛丽亚奥尔雷德向媒体记者展示塔拉茨科娃的护照、驾驶执照等文件的复印件，文件中性别一栏均标注“女性”。凌朔
 
-## 相关报道：
+## 相关报道： { data-search-exclude }
 
 - [Panasonic Center Beijing开展全球儿童环境教育系列活动](http://news.cntv.cn/20110511/100069.shtml) 2011-5-11
 
 责任编辑：刘宣兵
 
-## 热词：
+## 热词： { data-search-exclude }
 
 - [加拿大](http://so.cntv.cn/search.php?qtext=加拿大&sid=0000&pid=0000)
 - [变性人](http://so.cntv.cn/search.php?qtext=变性人&sid=0000&pid=0000)

@@ -15,7 +15,7 @@
 
 ---
 
-## 相关组图
+## 相关组图 { data-search-exclude }
 
 - [组图：德美女赢WKA金腰带 塞斯搏击擂台显身手](https://sports.sohu.com/20120303/n336581870.shtml)
 - [组图：UFC144亨德森飞踢惊艳 秋山成勲险被锁喉](https://sports.sohu.com/20120226/n335922024.shtml)

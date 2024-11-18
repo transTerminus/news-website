@@ -20,16 +20,16 @@
 
 雖然該判決的適用範圍受限，但已傳達出一個強烈訊息：人事登記處處長應改革香港合法承認跨性別者的過時標準。判決也為獲得合法性別身分的基本權利不應與強制醫療要求混為一談提供了重要參考。
 
-## 來源
+## 來源 { data-search-exclude }
 - [Human Rights Watch](https://www.hrw.org/zh-hant/news/2023/02/13/hong-kong-court-rejects-compulsory-surgery-trans-men) 
 
-## 時間
+## 時間 { data-search-exclude }
 - 2023年2月6日
 
-## 標籤
+## 標籤 { data-search-exclude }
 - LGBT權利
 
-## 版權
+## 版權 { data-search-exclude }
 © 2023 Human Rights Watch. All rights reserved.
 
 ## 摘要与附加信息

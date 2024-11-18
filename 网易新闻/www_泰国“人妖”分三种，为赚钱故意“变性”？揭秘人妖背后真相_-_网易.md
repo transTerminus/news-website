@@ -14,7 +14,7 @@
 
 在泰国，任何场所、任何地方都能碰上“人妖”，只是一般人分辨不出来罢了，泰国的“人妖”大致分为三种。
 
-## 第一种：男扮女装
+## 第一种：男扮女装 { data-search-exclude }
 
 这一种是最简单的，也不用受任何罪，本身男孩的外形就很像女孩了，通过改变自己的行为举止，穿上女生的衣服就可以变成女孩了。
 
@@ -34,7 +34,7 @@
 
 ![第二种](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FxmgnAktecYuBaUTXyWHcWmuNS7Ybb4apkVG6Tt1id9VzA1669384315858compressflag.jpeg&thumbnail=660x2147483647&quality=80&type=jpg)
 
-## 第二种：服用雌激素
+## 第二种：服用雌激素 { data-search-exclude }
 
 这种是通过长期服用雌激素，让女人的特性更加明显，这种在泰国的占比还是比较高的，毕竟没有多少人有先天优势，看着就像女人的。
 
@@ -48,7 +48,7 @@
 
 等到了年纪，他们也会选择娶妻生子，组成家庭，这在泰国也属于正常现象。
 
-## 第三种：泰国手术“变性”，彻底成为女人
+## 第三种：泰国手术“变性”，彻底成为女人 { data-search-exclude }
 
 通过手术“变性”，成为了真正的女人，这一种非常不容易，因为做手术还是很遭罪的，但是他能够有这种决心，反而是下定了决心真正做女人的。
 
@@ -58,7 +58,7 @@
 
 ![手术变性](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F5mnh0dYBhCB19RsvDaFubapEWxyZkW9tfAYqlBoYFh2yk1669384317129.jpeg&thumbnail=660x2147483647&quality=80&type=jpg)
 
-## 很多人对泰国“人妖”的误解
+## 很多人对泰国“人妖”的误解 { data-search-exclude }
 
 ### ①“人妖”的寿命短
 
@@ -104,7 +104,7 @@
 
 ![赚钱的误解](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FsEoSj5onQWGPIDlNjwYMZ5QjTAwx6YOfxqj3kjgSMweNa1669384321999compressflag.jpeg&thumbnail=660x2147483647&quality=80&type=jpg)
 
-## 其实，人妖并不可怕
+## 其实，人妖并不可怕 { data-search-exclude }
 
 许多人在谈之“人妖”时色变，认为这是很可怕的事情，其实在真正的了解过后，才会发现他们和普通人没有什么不一样的。
 
@@ -142,7 +142,7 @@
 
 可惜有好结果的很少。
 
-## 结尾
+## 结尾 { data-search-exclude }
 
 泰国是一个包容性极强的国家，包容无性别，他们关注的是如何让自己开心，如何让自己生活得舒心，不管别人怎么看，他们非常勇敢的做自己，这点是很让人敬佩的。
 

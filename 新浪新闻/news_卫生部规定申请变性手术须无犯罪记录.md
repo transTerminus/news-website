@@ -5,7 +5,7 @@
 
 ![变性手术](//n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)
 
-## 新闻晨报
+## 新闻晨报 { data-search-exclude }
 
 **时间：** 2009.12.16 07:26  
 **作者：** 朱国荣  

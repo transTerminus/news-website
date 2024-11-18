@@ -7,7 +7,7 @@
 
 ![歐亞各國性別變更趨勢_cover_TNL](https://bucket-image.inkmaginecms.com/version/list/1/image/2024/06/36a1296e-e096-4bbc-b4c9-4ac39b348778.jpg)
 
-## 正文
+## 正文 { data-search-exclude }
 
 我們想讓你知道的是
 

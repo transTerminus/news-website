@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 醫療新聞
+## 醫療新聞 { data-search-exclude }
 
 ### 跨性别女性化賀爾蒙療法
 

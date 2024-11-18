@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 「酷兒」相關新聞
+## 「酷兒」相關新聞 { data-search-exclude }
 
 ### 超A評論》夏天、沙灘、我愛你：台式小清新／酷兒電影的體感閱讀
 ![超A評論》夏天、沙灘、我愛你：台式小清新／酷兒電影的體感閱讀](assets/images/all/default.jpg)  

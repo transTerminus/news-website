@@ -81,7 +81,7 @@
 
 > 《集誌社》表示，採訪多年，記者面對政策問題、社會不公義，持之以恆的跟進，往往沒有成果；但努力跟進，拒絕遺忘，繼續見證記錄，是他們從事新聞工作的初衷。
 
-## 消息來源
+## 消息來源 { data-search-exclude }
 
 -   [已完成手術跨男改身份證性別遭暫緩　入境處：盡快處理，不抵觸終院判決](https://thecollectivehk.com/%e5%b7%b2%e5%ae%8c%e6%88%90%e6%89%8b%e8%a1%93%e8%b7%a8%e7%94%b7%e6%94%b9%e8%ba%ab%e4%bb%bd%e8%ad%89%e6%80%a7%e5%88%a5%e9%81%ad%e6%9a%ab%e7%b7%a9%e3%80%80%e5%85%a5%e5%a2%83%e8%99%95%ef%bc%9a%e7%9b%a1/)，[集誌社](https://zh.wikipedia.org/wiki/%E9%9B%86%E8%AA%8C%E7%A4%BE "w:集誌社")，2023年3月26日。
 -   [《集誌社》電子報 2023.03.25](https://thecollectivehongkong.substack.com/p/20230325?utm_source=post-email-title&publication_id=1328312&post_id=110186853&isFreemail=true&utm_medium=email)，[集誌社](https://zh.wikipedia.org/wiki/%E9%9B%86%E8%AA%8C%E7%A4%BE "w:集誌社")。

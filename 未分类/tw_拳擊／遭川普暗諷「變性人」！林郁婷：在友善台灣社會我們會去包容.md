@@ -21,7 +21,7 @@
 
 ![林郁婷出席運動品牌VERVE粉絲見面會活動。（圖／記者鄭孟晃攝影）](https://s.yimg.com/ny/api/res/1.2/D_nLy.BH7.tmQ9zVbkQJuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/ko/setn.com.tw/d933580b546220dca9493bcee5d609e3)
 
-## 更多三立新聞網報導
+## 更多三立新聞網報導 { data-search-exclude }
 - [拳擊／簽了4小時簽名照被放上網賣1500 林郁婷親自回應了](https://www.setn.com/News.aspx?NewsID=1516414&from=y)
 - [巴黎奧運／國光獎金有二千萬想怎麼使用？李洋、林郁婷都想做這件事](https://www.setn.com/News.aspx?NewsID=1516550&from=y)
 - [拳擊／林郁婷鶯歌大遊行鄉親父老塞爆 受訪再提「J個朋友」J.K羅琳](https://www.setn.com/News.aspx?NewsID=1516396&from=y)

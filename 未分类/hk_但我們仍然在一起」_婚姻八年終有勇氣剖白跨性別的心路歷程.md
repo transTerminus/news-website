@@ -9,7 +9,7 @@
 
 _Jane 和 Barbara Hamlin 之間的婚姻已步入第八個年頭，而此時一個秘密浮出水面，改變了兩人的生活。在這篇文章中，他們大方分享了自己的故事，希望為讀者帶來力量……_
 
-## **Barbara 娓娓道來自己與愛人之間的故事：**
+## **Barbara 娓娓道來自己與愛人之間的故事：** { data-search-exclude }
 
 我第一次見到 Jane 時，她叫做 John，我當時在一間學校工作，而 John 是那裡的一名男老師，她穿得很時髦，散發著迷人魅力。
 
@@ -91,7 +91,7 @@ Jane 把自己歸類為「跨性別女同志」，也就是說她仍然很喜歡
 
 ![這麼多年來，Jane Hamlin 一直想把自己的大秘密告訴妻子 Barbara，但擔心會因此失去她。](https://s.yimg.com/ny/api/res/1.2/6eMV1cVyVIwFVitsStNYig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-06/3f0dc9e0-f24b-11ec-a17f-3b12b635d68a)
 
-## **Jane 細說心聲：**
+## **Jane 細說心聲：** { data-search-exclude }
 
 我出櫃時，所有人都對我說：「你真勇敢」，但我內心單純是鬆了一口氣，覺得自己終於不用再活在謊言之中。真正有勇氣的人，其實是 Barbara。
 

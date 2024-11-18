@@ -14,7 +14,7 @@
 
 详细是[请点击这里](https://gaga.ne.jp/52hz-movie/news/?fbclid=IwAR0CG4inkLAEE2DEMlzvwqta5po5VGOGIlNrN0ZAw0rSkNaz1cJ2Ex6OEDM_aem_AcwPqyx1K27l8uBXHVg_AqFRU8Ba6ofeq6jEYilrVEv0v3tZEtpuow0kwasfdENVP6jByt-R1DEAKE8yA4N8r6tv)から
 
-## 联系我们
+## 联系我们 { data-search-exclude }
 
 点击此处进行工作咨询和询问: [联系我们](https://almostjp.com/zh-CN/contact/)
 

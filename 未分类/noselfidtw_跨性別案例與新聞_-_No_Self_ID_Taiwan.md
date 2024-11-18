@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 跨性別案例與新聞
+## 跨性別案例與新聞 { data-search-exclude }
 
 ### 1106 筆結果
 

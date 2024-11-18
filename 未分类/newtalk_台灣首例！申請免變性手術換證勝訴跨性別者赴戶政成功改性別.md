@@ -26,7 +26,7 @@
 
 伴盟秘書長簡至潔感謝法院做出勇敢的判決，並肯定桃園大溪戶政不再上訴的決定，這些關鍵決定讓小E的生活得以早日免除苦難，盼政府能基於人道與法治精神，儘速變更違憲的行政命令，避免跨性別者持續生存在隨時有可能被強迫出櫃的風險與痛苦之中。
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#生活](https://newtalk.tw/news/subcategory/5/%E7%94%9F%E6%B4%BB)
 - [#大溪戶政事務所](https://newtalk.tw/search?q=%E5%A4%A7%E6%BA%AA%E6%88%B6%E6%94%BF%E4%BA%8B%E5%8B%99%E6%89%80&type=tab)
 - [#變更性別登記](https://newtalk.tw/search?q=%E8%AE%8A%E6%9B%B4%E6%80%A7%E5%88%A5%E7%99%BB%E8%A8%98&type=tab)
@@ -34,7 +34,7 @@
 - [#台灣伴侶權益推動聯盟](https://newtalk.tw/search?q=%E5%8F%B0%E7%81%A3%E4%BC%B4%E4%BE%B6%E6%AC%8A%E7%9B%8A%E6%8E%A8%E5%8B%95%E8%81%AF%E7%9B%9F&type=tab)
 - [#跨性別](https://newtalk.tw/search?q=%E8%B7%A8%E6%80%A7%E5%88%A5&type=tab)
 
-## 延伸閱讀
+## 延伸閱讀 { data-search-exclude }
 - [中國封鎖張高麗性侵案 國際網球總會籲對彭帥下落展開全面透明調查](https://newtalk.tw/news/view/2021-11-19/668808)
 - [轟黃士修講不贏就恐嚇嘴炮嗆告 廢核平台揭黃四大騙局](https://newtalk.tw/news/view/2021-11-19/668848)
 

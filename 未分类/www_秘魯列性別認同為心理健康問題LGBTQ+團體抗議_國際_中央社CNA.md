@@ -28,7 +28,7 @@
 
 不過全國LGTBIQ+協調組織（Coordinacion Nacional LGTBIQ+）維權人士卡馬丘（Gianna Camacho）告訴法新社：「我們要求廢除這項恐跨性和暴力的法令，這違背我們秘魯的跨性別身分認同。我們沒有精神病，也沒有任何精神障礙。」（譯者：陳昱婷/核稿：陳亦偉）1130518
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#秘魯](https://www.cna.com.tw/tag/12350/)
 - [#跨性別](https://www.cna.com.tw/tag/17699/)
 - [#法新社](https://www.cna.com.tw/tag/25833/)

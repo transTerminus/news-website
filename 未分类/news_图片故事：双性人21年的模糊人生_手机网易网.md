@@ -9,7 +9,7 @@
 
 ![图片](http://img3.cache.netease.com/photo/0001/2014-08-08/A349G2EM00AP0001.jpg)
 
-## 正文
+## 正文 { data-search-exclude }
 
 男女两性的生理特征在一名21岁的少年身上融合，这是她区别于常人的最大特征。这种特征，模糊了她21年的人生，也为她带来无尽的嘲笑、羞辱与打骂。图为：害羞的小民躲进屋子里换上了不久前买来的女装。
 
@@ -28,7 +28,7 @@
 5. ![图片5](http://img4.cache.netease.com/photo/0001/2014-08-08/A349G1PS00AP0001.jpg)
    **备注**：采访过程中，小民会不自然地拉一下自己的内衣肩带。
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 © 1997-2024 网易公司版权所有  
 [关于网易](https://corp.163.com/) | [公司简介](https://corp.163.com/gb/about/overview.html) | [隐私政策](https://corp.163.com/gb/legal.html) | [投诉举报](https://corp.163.com/special/008397U0/reporting_infringements.html)

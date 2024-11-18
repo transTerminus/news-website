@@ -15,7 +15,7 @@
 
 ---
 
-## 正文内容
+## 正文内容 { data-search-exclude }
 习近平对社会工作作出重要指示。
 
 ![习近平考察调研纪实](https://m.sohu.com/a/824461912_429139?edtsign=076E9BDDC6CC11033A0A7BD7827FA0D19DFA5AE4&edtcode=B%2F0R6ZjDCQmmM6gQGZq8VQa2oN2%2BAMpMDyHU9tYktFw%3D&scm=thor.199_14-200000.0.10006.&spm=smwp.home.d-news.1.17309567329655oKcAnO_1467)

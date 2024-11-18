@@ -28,7 +28,7 @@
 
 ---
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 ---
 

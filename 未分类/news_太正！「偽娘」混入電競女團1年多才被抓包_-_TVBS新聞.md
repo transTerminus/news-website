@@ -15,7 +15,7 @@
 
 由於「Whip」參與的比賽大多是《絕地求生》、《要塞英雄》、《戰地風雲》等，都是不需要親臨現場比賽的遊戲項目，**因此有網友推斷，該名男扮女裝的成員，應該是利用「變聲器」蒙騙了所有人，目前該名團員已經退團。**雖然有「偽娘」混入「Whip」團隊，但也有網友表示並不在意，甚至還認為「如果真的很可愛那又有什麼關係？」只是也有另一派網友表示，「就好像男生男扮女裝加入女生足球隊，這樣比賽並不公平！」**[最HOT話題在這！想跟上時事，快點我加入TVBS新聞LINE好友！](https://line.me/R/ti/p/%40tvbsnews)**
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#女子電競團隊](https://news.tvbs.com.tw/news/searchresult/女子電競團隊/news)
 - [#Whip](https://news.tvbs.com.tw/news/searchresult/Whip/news)
 - [#偽娘](https://news.tvbs.com.tw/news/searchresult/偽娘/news)

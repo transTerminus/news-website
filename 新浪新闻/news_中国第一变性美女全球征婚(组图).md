@@ -5,7 +5,7 @@
 
 ![寒冰冰](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：大河网-河南商报
+## 来源：大河网-河南商报 { data-search-exclude }
 
 **时间：2007.05.15 06:59**
 
@@ -99,11 +99,11 @@
 
 ![艺术作品](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 ### 点击查看更多
 
-## 快来新闻客户端参与评论获金币兑礼品吧！
+## 快来新闻客户端参与评论获金币兑礼品吧！ { data-search-exclude }
 
 抢沙发
 

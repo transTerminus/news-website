@@ -5,7 +5,7 @@
 
 ![熊家餐馆](http://03e1181bba1cf.cdn.sohucs.com/files/1695809599254.png)
 
-## 原创 古代女扮男装不容易识破，但看这两点，就知道是不是女扮男装了
+## 原创 古代女扮男装不容易识破，但看这两点，就知道是不是女扮男装了 { data-search-exclude }
 
 ![作者头像](//p8.itc.cn/q_70,c_lfill,w_60,h_60,g_face/mpbp/pro/20220717/ba6da27b3fff40648feb47014b4a1c62.png)
 

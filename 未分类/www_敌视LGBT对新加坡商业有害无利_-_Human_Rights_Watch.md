@@ -36,7 +36,7 @@
 
 最终，新加坡的负面立场将降低该国竞争力，使其落后其他区域首要都市，例如拥抱多元与包容价值的东京和香港。政府的这种行为暴露出对“[和平与和谐](https://www.hrw.org/news/2016/06/22/singapore-firms-told-not-support-lgbt-event)”以及“共通人性”等政府施政目标的浅薄认识。允许企业表现对宽容与多元的支持，赞助一项既已受到严格限制的活动，不仅是人权议题，也是[商业议题](http://customindices.spindices.com/custom-index-calculations/credit-suisse/all)。企业对言论和集会自由等基本权利表示支持，正迎合著[LGBT消费市场](http://www.bloomberg.com/news/articles/2016-07-20/lgbt-purchasing-power-near-1-trillion-rivals-other-minorities)的兴起。新加坡政府应审时度势，允许粉红点大会继续举办──甚至愈办愈大。
 
-## 更多报导
+## 更多报导 { data-search-exclude }
 
 - 2024年 07月 23日 快讯  
   ### [韩国最高法院肯定同性伴侣权利](/zh-hans/news/2024/07/23/south-koreas-supreme-court-affirms-rights-same-sex-partners)  
@@ -46,7 +46,7 @@
   ### [日本通过法律‘增进对LGBT人士的理解’](/zh-hans/news/2023/07/12/japan-passes-law-promote-understanding-lgbt-people)  
   ![Supporters of Equality Act Japan gather in front of parliament](/sites/default/files/styles/square/public/media_2023/07/202307asia_japan_lgbt_equalityact_protest.jpg?h=c6980913&itok=p33c77Zv)
 
-## 报告
+## 报告 { data-search-exclude }
 
 - 2017年 11月 15日 Report  
   ### [“你考虑过父母的幸福吗？”](/zh-hans/report/2017/11/15/311127)  

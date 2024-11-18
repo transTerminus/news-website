@@ -39,7 +39,7 @@
 
 ![腾讯新闻](http://www.cnr.cn/images2015/images/qian.jpg)  
 
-## 相关阅读
+## 相关阅读 { data-search-exclude }
 
 ### [揭那些艳压女主的千年女配 杨蓉华妃上位香妃方瑜离世](http://www.cnr.cn/ent/tg/20160921/t20160921_523151543.shtml)
 

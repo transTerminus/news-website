@@ -9,7 +9,7 @@
 
 ![二维码](https://quickchart.io/chart?cht=qr&chs=75x75&chl=https://www.backchina.com/news/2024/09/17/934553.html)
 
-## 正文
+## 正文 { data-search-exclude }
 
 震撼广告直击人心，天主教团体勐攻贺锦丽。（图：YouTube/CatholicVote）
 

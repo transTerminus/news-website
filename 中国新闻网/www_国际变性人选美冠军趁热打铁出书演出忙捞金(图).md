@@ -17,7 +17,7 @@
 
 ![春菜爱](U253P4T8D1949570F107DT20091105161003.jpg)
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [国际变性人选美大赛 日本“小姐”封后](http://www.chinanews.com.cn/tp/tp-gjxw/news/2009/11-01/1941158.shtml)
 - [高清：国际变性人选美 日本“小姐”封后](http://www.chinanews.com.cn/tp/news/photo_hd/2009/11-01/2780.shtml)

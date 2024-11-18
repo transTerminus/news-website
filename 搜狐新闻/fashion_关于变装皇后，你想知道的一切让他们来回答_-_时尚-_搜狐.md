@@ -16,7 +16,7 @@
 
 在正式倾听变装皇后们的心声之前，不如先来了解一下变装文化的发展。
 
-## 1960年代
+## 1960年代 { data-search-exclude }
 
 大约50年前，发生在纽约一间同性恋酒吧石墙（Stonewall）的一场民众对警察的暴力示威活动，被认定为美国历史上同性恋群体对政府迫害的首次公开反抗。作为第一个向警方扔石头的关键性历史角色，黑人变装皇后 Marsha P Johnson未曾预料，他所参与的这场暴动，会让变装文化开始发酵，从地下文化浮出水面。
 
@@ -30,7 +30,7 @@
 
 José Julio Sarria著名的黑寡妇造型，甚至在他去世后，很多人打扮成黑寡妇的样子来悼念他。
 
-## 1980年代
+## 1980年代 { data-search-exclude }
 
 到了80年代左右，各种反传统文化兴起，经历了第一次同志大游行，社会风气慢慢开放，对于同性恋文化和变装文化包容度有所缓和。1987年至1996年，摄影师兼变装皇后——Linda Simpson（原名莱斯利Leslie，当提到她的变装身份时，她更喜欢人们用女性代词称呼她）拍了大约5000张照片，包括变装表演者在俱乐部、街上和同性恋骄傲游行花车上的摆拍照片。她无意中创造了一个时间胶囊，记录了变装皇后身为时尚逗乐小丑和地铁女神的那个时代。
 
@@ -38,7 +38,7 @@ José Julio Sarria著名的黑寡妇造型，甚至在他去世后，很多人�
 
 Linda Simpson有自己的专门网站[lindasimpson.org](http://lindasimpson.org)，在上面可以看到他30年来各种自拍和拍别人的变装作品，至今仍在持续更新。
 
-## 1990年代
+## 1990年代 { data-search-exclude }
 
 到了90年代中期，变装蓬勃发展，真正彻底地成为一种流行文化。一系列关于变装的电影问世。
 
@@ -54,7 +54,7 @@ Divine和“垃圾教皇” John Waters合作的电影《粉红色火烈鸟》�
 
 此外还有合作的电影《女人的烦恼》（Female Trouble）。
 
-## 千禧年代
+## 千禧年代 { data-search-exclude }
 
 等到90年代末到20世纪初，变装皇后来到了黄金时代，或大或小的偶像可以说层出不穷，相关的流行文化作品也变得渐渐的风靡起来，变装题材在大银幕上屡见不鲜。也是在这个时代，娱乐圈迎来了现在最为知名的《鲁保罗变装皇后秀》。
 
@@ -72,7 +72,7 @@ Divine和“垃圾教皇” John Waters合作的电影《粉红色火烈鸟》�
 
 变装文化越来越受欢迎已经是不争的事实。在成功的同时，争论和讨论也与日俱增。当然，也产生了一些误解。为此，我们采访了来自全球三地的变装皇后，有从兴趣爱好出发的普通办公室白领，也有以变装谋生的职业舞者，还有以无性为前提的表演艺术家，不妨来听听，在一个世纪后，变装文化“变”成了什么样。
 
-## New York
+## New York { data-search-exclude }
 
 **PAIGE TURNER**
 
@@ -104,7 +104,7 @@ Divine和“垃圾教皇” John Waters合作的电影《粉红色火烈鸟》�
 
 ![Paige Turner creativity](https://img.mp.itc.cn/upload/20170320/bf89e3db23414bd6b5f125b4841a4f1a.png)
 
-## Shanghai
+## Shanghai { data-search-exclude }
 
 **MISS JADE**
 
@@ -138,7 +138,7 @@ Divine和“垃圾教皇” John Waters合作的电影《粉红色火烈鸟》�
 
 ![Miss Jade outing](https://img.mp.itc.cn/upload/20170320/d1bb4a51e3b94a0aadf6cbbaabb12963.png)
 
-## London
+## London { data-search-exclude }
 
 **VICTORIA SIN**
 
@@ -176,7 +176,7 @@ Divine和“垃圾教皇” John Waters合作的电影《粉红色火烈鸟》�
 
 ![Victoria Sin message](https://img.mp.itc.cn/upload/20170320/b5e604bb64cd4be68523294069ee747e.png)
 
-## Shanghai
+## Shanghai { data-search-exclude }
 
 **MON-NAYNAYS**
 

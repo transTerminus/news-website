@@ -13,7 +13,7 @@
 
 以下是卫生部官方网站公布的《规范》全文：
 
-## 变性手术技术管理规范(试行)
+## 变性手术技术管理规范(试行) { data-search-exclude }
 
 为规范变性手术技术审核和临床应用,保证医疗质量和医疗安全,制定本规范。本规范为技术审核机构对医疗机构申请临床应用变性手术技术进行技术审核的依据，是医疗机构及其医师开展变性手术的最低要求。
 
@@ -87,7 +87,7 @@
 [更多精彩内容请进入健康频道](http://www.chinanews.com.cn/health.shtml)  
 [手机登陆中新网 随时随地知天下](http://www.chinanews.com.cn/special/wap.html)  
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [卫生部：医院开展变性手术等需要相关部门审批](http://www.chinanews.com.cn/jk/news/2009/06-12/1731035.shtml)  
 

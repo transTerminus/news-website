@@ -33,7 +33,7 @@
 
 “容蝶网”为美而生 为美而约
 
-## 相关资讯
+## 相关资讯 { data-search-exclude }
 
 - ![](https://rongdie.oss-cn-hangzhou.aliyuncs.com/image/news/1701328251.png?x-oss-process=image/resize,m_fill,w_210,h_210)  
     ### 上海著名眼科医院排名  

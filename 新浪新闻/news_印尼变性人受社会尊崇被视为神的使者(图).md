@@ -5,7 +5,7 @@
 
 ![图片](//tva1.sinaimg.cn/crop.0.0.199.199.180/005RyDCrjw1eo3m51rgosj305k05kdg0.jpg)
 
-## 来源: 桂龙新闻网
+## 来源: 桂龙新闻网 { data-search-exclude }
 
 **时间:** 2005.04.01 15:33
 

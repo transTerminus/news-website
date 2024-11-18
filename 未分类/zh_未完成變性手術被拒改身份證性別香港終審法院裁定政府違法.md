@@ -74,7 +74,7 @@
 - [美軍解除跨性別者從軍禁令](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%BB%8D%E8%A7%A3%E9%99%A4%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%BE%9E%E8%BB%8D%E7%A6%81%E4%BB%A4)
 - [美軍將取消跨性別人士服役禁令](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%BB%8D%E5%B0%87%E5%8F%96%E6%B6%88%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E6%9C%8D%E5%BD%B9%E7%A6%81%E4%BB%A4)
 
-## 消息來源
+## 消息來源 { data-search-exclude }
 
 - 詳情﹕ [判案書](https://legalref.judiciary.hk/lrs/common/ju/ju_frame.jsp?DIS=150361) [新聞摘要](https://legalref.judiciary.hk/doc/judg/html/vetted/other/en/2022/FACV000008A_2022_files/FACV000008A_2022CS.htm)
 - [跨性別者改身分證性別遭拒　終院裁定政府敗訴　上訴人嘆慘勝：遲來公義](https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/89046/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E6%9B%B4%E6%94%B9%E8%BA%AB%E5%88%86%E8%AD%89%E6%80%A7%E5%88%A5%E8%A2%AB%E6%8B%92-%E7%B5%82%E9%99%A2%E8%A3%81%E5%AE%9A%E6%94%BF%E5%BA%9C%E6%95%97/)，[有線新聞](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E)，2023年2月8日。

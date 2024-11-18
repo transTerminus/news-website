@@ -14,13 +14,13 @@
 国际发布：崭新宇宙  
 New Production From The West:Tomorrowland
 
-## 影片介绍
+## 影片介绍 { data-search-exclude }
 
 8岁的萨沙一直知道自己是个小女孩，哪怕她生下来就是个小男孩。无论是在学校的日常生活中，还是舞蹈课或者生日聚会上，社会都无法像对待和她同龄的孩子一样对待她。为了让萨沙被人理解和接受，支持她的家庭打响了一场永无止境的战争。
 
 ![《小女孩》2020电影海报](https://imagepphcloud.thepaper.cn/pph/image/91/712/437.jpg)
 
-## 导演介绍
+## 导演介绍 { data-search-exclude }
 
 ![塞巴斯蒂安·利夫施兹](https://imagepphcloud.thepaper.cn/pph/image/91/712/440.jpg)
 
@@ -32,7 +32,7 @@ New Production From The West:Tomorrowland
 
 ![《小女孩》2020剧照](https://imagepphcloud.thepaper.cn/pph/image/91/712/442.jpg)
 
-## 对话塞巴斯蒂安·利夫施兹
+## 对话塞巴斯蒂安·利夫施兹 { data-search-exclude }
 
 **Q:你是如何想到要拍一部关于萨沙的电影？**  
 **A:** 几年前，我拍了一部电影，主角是一个叫班比 (Bambi)的女性。她出生于1935年，是法国最早的跨性别者之一。她告诉我，早在她三四岁的时候，她在内心深处就感到自己是个小女孩。通常我们认为跨性别认同是与青春期联系起来的，但班比的讲述让我意识到，它完全有可能在跨性别者年龄更小的时候就出现，所以我觉得跨性别认同问题和在青春期集中出现的性别问题完全是两码事。能够讲一个在我们这个时代的、关于一个孩子经历跨性别认同问题的故事，在我看来非常有价值。

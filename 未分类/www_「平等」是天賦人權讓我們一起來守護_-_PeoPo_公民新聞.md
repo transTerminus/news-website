@@ -109,7 +109,7 @@
 
 ---
 
-## 版權信息
+## 版權信息 { data-search-exclude }
 本新聞授權條款: [創用CC 姓名標示 3.0 台灣 (CC BY 3.0) 授權條款](https://creativecommons.org/licenses/by/3.0/tw/)  
 
 ### 關心的議題

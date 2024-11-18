@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## Not Found
+## Not Found { data-search-exclude }
 
 HTTP Error 404. The requested resource is not found.
 

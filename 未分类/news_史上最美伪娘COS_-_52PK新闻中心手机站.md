@@ -3,11 +3,11 @@
 ## 正文 { data-search-exclude }
 
 
-## 时间：10-06-08  
-## 来源：未知  
-## 作者：  
-## 编辑：riky  
-## 评论： [我要评论(2)](https://news.52pk.com/shtml/201006/903829.shtml#c)
+## 时间：10-06-08   { data-search-exclude }
+## 来源：未知   { data-search-exclude }
+## 作者：   { data-search-exclude }
+## 编辑：riky   { data-search-exclude }
+## 评论： [我要评论(2)](https://news.52pk.com/shtml/201006/903829.shtml#c) { data-search-exclude }
 
 伪娘，ACG界名词，通常指的是有女性美貌的正常男性角色，且变装后常常带有很强的萌属性，有的可能更胜过一般女性角色。随着伪娘角色的增多，越来越多的男性动漫爱好者开始喜欢伪娘。这是一组国内著名COSER绛玉的作品集。如果小编不说，你能看出这位美丽的公主竟然是个帅哥装扮的么？
 

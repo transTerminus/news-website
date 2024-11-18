@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 正文
+## 正文 { data-search-exclude }
 
 2016-11-11  
 
@@ -23,11 +23,11 @@
 
 原文链接：[http://www.jkb.com.cn/news/industryNews/2016/1111/398178.html](http://www.jkb.com.cn/news/industryNews/2016/1111/398178.html)
 
-## 图片
+## 图片 { data-search-exclude }
 
 ![标题图片](../../dfiles/14648/images/title/d/733/5.gif)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 版权所有©  2013　上海交通大学医学院  
 
@@ -35,11 +35,11 @@
 地址：重庆南路227号　邮编：200025  
 电话：021-63846590  
 
-## 标签
+## 标签 { data-search-exclude }
 
 跨性别, 艾滋病, 男男性行为者, 健康报告  
 
-## 评论
+## 评论 { data-search-exclude }
 
 您所处的位置 [网站首页](../../index.htm) > [媒体聚焦](../../mtjj.htm) > 正文
 

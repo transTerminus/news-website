@@ -5,7 +5,7 @@
 
 ![翻译技术速递](http://transtech.lingosail.com/static/img/frontend/to-phone-introduce.png)
 
-## The Search for Non-Binary Pronouns in Chinese
+## The Search for Non-Binary Pronouns in Chinese { data-search-exclude }
 
 [原文来源 ![](http://transtech.lingosail.com/static/img/frontend/news/source-logos/multilingual.png)](https://multilingual.com/the-search-for-non-binary-pronouns-in-chinese/)  [机器翻译 ![](http://transtech.lingosail.com/static/img/frontend/news/shangque-logo.png)](http://nmt.shangque.com/finance.html) 
 

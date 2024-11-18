@@ -5,7 +5,7 @@
 
 _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
-## 来源: 金羊网-新快报
+## 来源: 金羊网-新快报 { data-search-exclude }
 
 ### 时间: 2009.09.14 00:21
 

@@ -17,13 +17,13 @@
 
 伴侶盟表示，法院再一次用判決肯定性別認同屬於憲法保障人性尊嚴、人格權核心，強調每一個人都享有性別自主決定權的此刻，希望此判決能夠還給當事人、以及所有的跨性別者應有的身分與尊嚴。（編輯：吳協昌）1130530
 
-## 标签
+## 标签 { data-search-exclude }
 - [#跨性別](https://www.cna.com.tw/tag/17699/)
 - [#台北高等行政法院](https://www.cna.com.tw/tag/21473/)
 - [#尼莫](https://www.cna.com.tw/tag/22059/)
 - [#伴侶盟](https://www.cna.com.tw/tag/23368/)
 
-## 延伸閱讀
+## 延伸閱讀 { data-search-exclude }
 - [跨性別者申請女變男無手術證明遭拒興訟 法院判決勝訴可變更](https://www.cna.com.tw/news/asoc/202405300126.aspx)
 - [NONO被控性侵涉7罪 檢方起訴建請法院重判](https://www.cna.com.tw/news/asoc/202405170038.aspx)
 - [衛福部長邱泰源：中國策略轉變 台灣加入WHA挑戰恐更嚴厲【專訪】](https://www.cna.com.tw/news/aipl/202405300003.aspx)

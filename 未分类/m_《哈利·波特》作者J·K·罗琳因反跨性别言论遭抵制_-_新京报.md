@@ -38,7 +38,7 @@ J·K·罗琳的推文掀起了轩然大波。网友们纷纷谴责她恶意歧�
 
 其实，这也不是J·K·罗琳第一次被指歧视跨性别者了。去年12月，英国税务专家Maya Forstater因在个人推特上发表“生理性别只有男女两种”“男人绝对不可能变成女人”等言论而被公司解雇，Maya Forstater将公司告上法庭后败诉。J·K·罗琳就在推特上表示支持Maya Forstater的言论，并还发起了“我和Maya一起”的话题，而遭到网友的强烈批评。
 
-## 参考链接
+## 参考链接 { data-search-exclude }
 - [The Guardian](https://www.theguardian.com/film/2020/jun/08/daniel-radcliffe-jk-rowling-transgender-tweets)
 - [CNN](https://edition.cnn.com/2020/06/08/entertainment/daniel-radcliffe-responds-jk-rowling-trans-tweets-trnd/index.html)
 

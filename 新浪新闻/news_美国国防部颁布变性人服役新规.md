@@ -5,7 +5,7 @@
 
 ![变性人服役新规](//n.sinaimg.cn/sinakd10203/238/w119h119/20221208/7ed3-a58e018751ed10b2d3ef2d3808732c16.jpg)
 
-## 新华网
+## 新华网 { data-search-exclude }
 **作者**: 新华社记者孙丁 刘阳  
 **时间**: 2019.03.13 14:32  
 **来源**: [新华网](http://www.xinhuanet.com)

@@ -23,7 +23,7 @@
 
 ![图片3](https://imagepphcloud.thepaper.cn/pph/image/62/789/874.jpg)
 
-## 恐怖的非自愿变性实验
+## 恐怖的非自愿变性实验 { data-search-exclude }
 
 故事要从一对加拿大双胞胎说起，他们出生于1965年8月22日，一个名叫布鲁斯（Bruce），另一个叫布莱恩（Brian）。
 
@@ -122,7 +122,7 @@
 
 ![图片15](https://imagepphcloud.thepaper.cn/pph/image/62/789/886.jpg)
 
-## 科学与人性的距离
+## 科学与人性的距离 { data-search-exclude }
 
 其实，在历史上，像曼尼这样假借科学之名，在人体上进行恐怖实验的、所谓的“科学家”比比皆是，他们无一例外，都给试验者带来了严重的心理和生理创伤。
 

@@ -41,13 +41,13 @@
 
 **变性妇女人权受害经验谈，详见下文。**
 
-## 背景：马来西亚变性人的法律地位
+## 背景：马来西亚变性人的法律地位 { data-search-exclude }
 
 变性妇女，马来文（Bahasa Malaysia）称为“mak nyah”，早已得到马来西亚传统社会肯认，正如犯罪学者郑懿君（Teh Yik Koon）2002年出版的《变性女：马来西亚由男变女的变性人（The Mak Nyah: Malaysian Male to Female Transsexuals）》书中的记载。1980年代早期，马来西亚公立医院的一组医师曾为少数几名变性人进行性别重置手术，这几名变性妇女后来获准将身分证上的性别注记由男性改为女性。
 
 然而，伊斯兰保守派兴起导致全国伊斯兰法规委员会（National Fatwa Council）于1983年颁布教法（fatwa）禁止变性手术。尽管全国伊斯兰法规委员会颁布的教法并无法律效力，马来西亚医师从此便不再执行这种疗程。国民登记局此后陆续拒绝数十名变性人更改身分证姓名和性别注别的请求，包括正在进行贺尔蒙取代治疗或已到国外──大多在邻近的泰国──做过性别重置手术者，使她们被卡在法律夹缝中。
 
-## 马来西亚法律禁止扮装导致的虐待
+## 马来西亚法律禁止扮装导致的虐待 { data-search-exclude }
 
 ### 性攻击
 
@@ -101,7 +101,7 @@
 
 色拉芬娜，森美兰州案件的原告之一，告诉人权观察，州宗教官员在2009年曾将她三度逮捕。除了身穿被认为女性化的睡衣那一次以外，另一次被捕时她穿的是宽松的T恤和网球短裤，当时她留着长头发并把束发带缠在手腕上。
 
-## 反扮装法对马来西亚变性者的影响
+## 反扮装法对马来西亚变性者的影响 { data-search-exclude }
 
 禁止“男扮女装”或“女扮男装”的法律严重影响马来西亚变性人依照自己感受去过生活的能力，造成他们活在恐惧之中，随时可能遭到逮捕和虐待。该法也阻碍了艾滋防治工作，助长公私部门的歧视。
 
@@ -124,7 +124,7 @@
 
 -   [LGBT权利](/zh-hans/topic/lgbtquanli)
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 -   [Malaysia Mahkamah akan memutuskan Hak Golongan Transgender.pdf](/sites/default/files/related_material/Malaysia%20Mahkamah%20akan%20memutuskan%20Hak%20Golongan%20Transgender.pdf "Download Malaysia Mahkamah akan memutuskan Hak Golongan Transgender.pdf")
 

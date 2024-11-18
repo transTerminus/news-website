@@ -9,25 +9,25 @@
 
 ![重要图片](https://pixel.wp.com/g.gif?v=ext&blog=202177651&post=1023470&tz=-5&srv=www.iask.ca&j=1%3A12.8.1&host=www.iask.ca&ref=&fcp=2888&rand=0.6248142889242534)
 
-## 来源
+## 来源 { data-search-exclude }
 [加拿大家园](https://www.iask.ca/)
 
-## 标签
+## 标签 { data-search-exclude }
 跨性别, 性别, 艺人, 金星
 
-## 作者
+## 作者 { data-search-exclude }
 未注明
 
-## 编辑
+## 编辑 { data-search-exclude }
 未注明
 
-## 版权
+## 版权 { data-search-exclude }
 未注明
 
-## 评论
+## 评论 { data-search-exclude }
 未注明
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 未注明
 
 ## 摘要与附加信息

@@ -30,7 +30,7 @@
 
 ---
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 1. 《性向流动：我是异性恋还是同性恋？》  
    文/ANKUR PALIWAL 译/Xaviera 校对/郭斯塔 公众号：利维坦

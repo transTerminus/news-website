@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/sinakd10200/360/w180h180/20231128/3b24-6df10b84073067dce3c1f59832122b0e.jpg)
 
-## 来源：现代金报
+## 来源：现代金报 { data-search-exclude }
 
 **发布时间：** 2004.12.01 02:35
 
@@ -21,7 +21,7 @@
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 ### 点击查看更多评论
 
@@ -36,7 +36,7 @@
 
 免费 / 绿色应用 / 优质
 
-## 说说你的看法
+## 说说你的看法 { data-search-exclude }
 
 [_5_](https://cmnt.sina.cn/index?product=comos&index=kkntiam1829701&tj_ch=news&is_clear=0) 
 

@@ -15,7 +15,7 @@
 
 剧场是一个能容纳六、七百人的建筑，平时都是座无虚席。观看者大都是各国旅游者。这儿经常是高朋满座。有些欧美人专程坐飞机来看人妖表演，看完后马上又飞走。
 
-## 标签
+## 标签 { data-search-exclude }
 
 - [人妖](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E4%BA%BA%E5%A6%96)  
 - [人妖秀](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E4%BA%BA%E5%A6%96%E7%A7%80)  

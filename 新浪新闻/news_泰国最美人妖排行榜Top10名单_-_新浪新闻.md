@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 综合
+## 综合 { data-search-exclude }
 
 **时间**：2015.03.27 09:44  
 **来源**：手机新浪网
@@ -14,7 +14,7 @@
 
 ![](//k.sinaimg.cn/n/transform/20150327/LI6x-awzuney1206542.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-## NO1：Poy
+## NO1：Poy { data-search-exclude }
 
 17岁变性，在泰国享有极高的人气，自从她得到了Miss Tiffany头衔后,电视台为此对她进行了一次专访,讲述了她做变性手术前后的经历.她赢得了Miss Tiffany的头衔的时候才19岁。
 
@@ -26,7 +26,7 @@ Poy曾经说道：“从我很小的时候我就很想成为女人，不过在�
 
 ![](//k.sinaimg.cn/n/transform/20150327/ZzpV-awzuney1206575.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-## NO2：Rose
+## NO2：Rose { data-search-exclude }
 
 泰国人妖皇后Rose在电影《人再囧途之泰囧》饰演正妹电梯小姐走红，因长相甜美、身材姣好被外界评为“最美人妖”，近日她拍摄了1组比基尼照片，不但大秀长腿、俯身倒出“凸字型”美乳，其中1张轻扯泳裤的照片隐约露出靠近私密地带的肌肤，性感指数破表。
 
@@ -38,31 +38,31 @@ Poy曾经说道：“从我很小的时候我就很想成为女人，不过在�
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
 
-## NO3：潘维拉斯
+## NO3：潘维拉斯 { data-search-exclude }
 
 2012泰国“蒂法妮小姐”选美大赛总决赛在泰国帕堤雅盛大举行，“蒂法妮小姐”选美比赛是泰国一年一度的著名变性人选美比赛。本届比赛决赛共有30名选手参与角逐，21岁的选手潘维拉斯赢得最终桂冠，成为2012泰国变性人选美皇后。
 
-## NO4：Sirapassorn
+## NO4：Sirapassorn { data-search-exclude }
 
 2011年11月5日，泰国选出了新一届人妖皇后，由来自泰国本土的Sirapassorn获得，无论是“她”的身材还是脸蛋，恐怕连真正的女人看了都会羡慕。
 
-## NO5：娜拉达
+## NO5：娜拉达 { data-search-exclude }
 
 2010年泰国本地变性人蒂芬妮环球小姐选美, 就读曼谷大学的20岁学生娜拉达夺得后冠。
 
-## NO6：Tiptantree Rujiranon
+## NO6：Tiptantree Rujiranon { data-search-exclude }
 
 2005年人妖选美冠军Tiptantree Rujiranon。
 
-## NO7：侬可
+## NO7：侬可 { data-search-exclude }
 
 大学里，侬可通过组织学校活动、应邀做主持人、拍广告、客串，渐渐成了小有名气的“美女主持”，名列“校花”之中。“很多人当时都不知道我是男儿身。”他说。放假回家时，他又被选为难府的“省花”，并参加了全国选美比赛。
 
-## NO8：梦琪
+## NO8：梦琪 { data-search-exclude }
 
 跳舞、唱歌，人妖们个个都会，比女人还女人！节目的最后，穿的最华丽的一个人妖独自上台，介绍自己：“大家好，我叫梦琪。”“她就是梦琪！好家伙，长得真高啊！”我想。梦琪说的其他话我没听清，只听清了一句：“我走上了一条不归之路。”
 
-## NO9：娜蒂
+## NO9：娜蒂 { data-search-exclude }
 
 泰国芭达雅举行的2009年“蒂芬妮环球小姐”选美，舞台上的“佳丽”全部都是男儿身，30位“佳丽”一路过关斩将，最后是20岁的娜蒂艳冠群芳。
 
@@ -70,7 +70,7 @@ Poy曾经说道：“从我很小的时候我就很想成为女人，不过在�
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **洛血欲**  
 可能是投错了胎，本来是女的，结果投成了男的  

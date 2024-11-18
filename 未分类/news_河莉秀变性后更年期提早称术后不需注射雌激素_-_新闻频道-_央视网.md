@@ -14,7 +14,7 @@
 
 对于“变性手术是否会使更年期提早、缩减寿命”的提问，河莉秀则坦言，“确实会使更年期提早”。
 
-## 热词：
+## 热词： { data-search-exclude }
 
 - [河莉秀](http://so.cntv.cn/search.php?qtext=河莉秀&sid=0000&pid=0000)
 - [注射](http://so.cntv.cn/search.php?qtext=注射&sid=0000&pid=0000)

@@ -5,7 +5,7 @@
 
 ![刘人维](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/fa4c-19a543aa664c56fbf8e1cc6fc524890f.jpg)
 
-## 江南都市报
+## 江南都市报 { data-search-exclude }
 **时间**：2009.12.18 13:33  
 **作者**：记者吴先华  
 
@@ -47,7 +47,7 @@
 
 ![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 点击查看更多
 
 ---

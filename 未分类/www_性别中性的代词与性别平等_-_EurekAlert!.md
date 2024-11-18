@@ -7,7 +7,7 @@
 
 ---
 
-## Journal
+## Journal { data-search-exclude }
 
 Proceedings of the National Academy of Sciences
 
@@ -23,7 +23,7 @@ Efrén O. Pérez [perezeo@ucla.edu](mailto:perezeo@ucla.edu)
 
 [性别中性的代词与性别平等](/news-releases/594634?language=chinese)
 
-## Keywords
+## Keywords { data-search-exclude }
 
 ### Translations
 

@@ -5,7 +5,7 @@
 
 ![Fridae Logo](/img/6/w/fridaelogo-printable.jpg)
 
-## 新闻&特写
+## 新闻&特写 { data-search-exclude }
 
 ![艺术展现场](https://im.fridae.drstcdn.com/media/images/00/08/12/81204.jpg)
 
@@ -14,7 +14,7 @@
 **作者**: 何佳  
 **标签**: 跨性别, 艺术展
 
-## 「别·性」：中国首届多元性别艺术展在北京开幕
+## 「别·性」：中国首届多元性别艺术展在北京开幕 { data-search-exclude }
 
 2009年6月14日下午，中国首届多元性别艺术展「别·性」在北京宋庄平民电影工作室顺利开幕。
 

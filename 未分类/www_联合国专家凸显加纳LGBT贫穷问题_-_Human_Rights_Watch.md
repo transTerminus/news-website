@@ -25,15 +25,15 @@ Three young women can't ever return home because of their sexuality
 
 加纳政府应将合意同性性行为去罪刑化，剑及履及保障LGBT人士免于歧视、恐吓和暴力。加纳有关当局还应当与LGBT人群进行建设性对话，才能更了解他们的需要，确保他们获得劳动法和反歧视政策的保护。
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 来源: [Human Rights Watch](https://www.hrw.org/zh-hans/news/2018/06/26/319602)
 
-## 标签
+## 标签 { data-search-exclude }
 - LGBT权利
 - 加纳
 - 人权
 
-## 注释
+## 注释 { data-search-exclude }
 - 2024年 09月 24日 Report: [‘我们再也不能秉笔直书’](https://www.hrw.org/report/2024/09/25/389164)
 - 2024年 05月 22日 Report: [‘教育群众改变思维’](https://www.hrw.org/report/2024/05/22/educate-masses-change-their-minds/chinas-forced-relocation-rural-tibetans)
 

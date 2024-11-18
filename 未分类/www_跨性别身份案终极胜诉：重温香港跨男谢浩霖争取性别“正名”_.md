@@ -40,12 +40,12 @@
 
 影片制作：张友慈
 
-## 相关主题内容
+## 相关主题内容 { data-search-exclude }
 
 - [变性](https://zhongwen/simp/topics/c4vmr082rv1t)
 - [LGBT](https://zhongwen/simp/topics/czp1qexpdlzt)
 
-## 更多相关内容
+## 更多相关内容 { data-search-exclude }
 
 ![跨性别舞者](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/16B5E/production/_128322039_p0dww59d.jpg.webp)  
 ### [印度跨性别舞者学习婆罗多舞实现梦想](https://zhongwen/simp/world-64294581)  

@@ -26,14 +26,14 @@
 
 ![陈莉莉在媒体前的形象](http://pic.dbw.cn/0/04/67/96/4679624_257269.jpg)
 
-## 相关报道：
+## 相关报道： { data-search-exclude }
 
 - [医院将丰胸男子作为变性人宣传被判赔偿1万](http://news.cntv.cn/society/20110402/103796.shtml) 2011-04-02
 - [中国版“河莉秀”网络征婚 欲再造子宫生子(图)](http://news.cntv.cn/society/20110103/100515.shtml) 2011-01-03
 
 **责任编辑**: 秦东北
 
-## 热词：
+## 热词： { data-search-exclude }
 
 - [陈莉莉](http://so.cntv.cn/search.php?qtext=陈莉莉&sid=0000&pid=0000)
 - [变性美女](http://so.cntv.cn/search.php?qtext=变性美女&sid=0000&pid=0000)

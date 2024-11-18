@@ -14,7 +14,7 @@
 
 韩国的刑法中并没有关于同性强奸的概念。但是2006年韩国肯定了变性人在官方文件中采用自己的新性别的权利。
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 - [意大利黑手党猛男老大变性成女人 警察傻眼](http://www.chinanews.com.cn/gj/ywdd2/news/2009/02-16/1565406.shtml)
 - [全球最年轻变性人是女歌手 男粉丝博客求婚(图)](http://www.chinanews.com.cn/yl/ytcf/news/2009/02-06/1552949.shtml)
 - [德16岁男童完成变性手术 成全球最年轻变性人(图)](http://www.chinanews.com.cn/gj/dqsj/news/2009/02-05/1550858.shtml)

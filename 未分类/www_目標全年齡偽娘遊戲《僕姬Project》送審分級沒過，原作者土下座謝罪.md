@@ -23,7 +23,7 @@
 
 《僕姬 Project》將於 4 月 23 日在 PS4、Nintendo Switch 發售，目前尚未宣布中文化。
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#僕姬PROJECT](/news/tag/僕姬PROJECT)
 - [#日本一](/news/tag/日本一)
 - [#PS4](/news/tag/PS4)

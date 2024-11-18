@@ -5,7 +5,7 @@
 
 ![世卫组织重新归类](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
-## 环球网
+## 环球网 { data-search-exclude }
 
 **来源**: 环球网  
 **时间**: 2019.05.30 15:38  

@@ -13,7 +13,7 @@
 
 [点击下载](/app/download)
 
-## 标签
+## 标签 { data-search-exclude }
 - [有趣](https://bad.news/tag/%E6%9C%89%E8%B6%A3)
 - [千古一帝](https://bad.news/sub/%E5%8D%83%E5%8F%A4%E4%B8%80%E5%B8%9D)
 - [合订本](https://bad.news/sub/%E6%8A%93%E5%9B%9B%E5%90%88%E8%BF%9F%E6%9C%AC)
@@ -35,14 +35,14 @@
 - [年度热点](https://bad.news/tag/%E5%B9%B4%E5%BA%A6%E7%83%AD%E7%82%B9)
 - [大陆资讯](https://bad.news/tag/%E5%A4%A7%E9%99%86%E8%B5%84%E8%AE%AF)
 
-## 时间筛选
+## 时间筛选 { data-search-exclude }
 - [1天内](https://bad.news/search/t-day/q-%E4%BC%AA%E5%A8%98%E7%95%AA%E5%89%A7/type-news)
 - [1周内](https://bad.news/search/t-week/q-%E4%BC%AA%E5%A8%98%E7%95%AA%E5%89%A7/type-news)
 - [1月内](https://bad.news/search/t-month/q-%E4%BC%AA%E5%A8%98%E7%95%AA%E5%89%A7/type-news)
 - [1年内](https://bad.news/search/t-year/q-%E4%BC%AA%E5%A8%98%E7%95%AA%E5%89%A7/type-news)
 - [全部时间](https://bad.news/search/t-all/q-%E4%BC%AA%E5%A8%98%E7%95%AA%E5%89%A7/type-news)
 
-## 内容筛选
+## 内容筛选 { data-search-exclude }
 - [18+视频](https://bad.news/search/t-all/q-%E4%BC%AA%E5%A8%98%E7%95%AA%E5%89%A7/type-porn)
 - [Gay视频](https://bad.news/search/t-all/q-%E4%BC%AA%E5%A8%98%E7%95%AA%E5%89%A7/type-gay)
 - [只搜新闻](https://bad.news/search/t-all/q-%E4%BC%AA%E5%A8%98%E7%95%AA%E5%89%A7/type-news)

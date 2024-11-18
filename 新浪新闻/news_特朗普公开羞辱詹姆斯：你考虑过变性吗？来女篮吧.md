@@ -5,7 +5,7 @@
 
 ![特朗普](//tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1730517526&ssig=UK60DD9xZM)
 
-## 来源：观察者网
+## 来源：观察者网 { data-search-exclude }
 
 ### 时间：07月28日 11:41
 

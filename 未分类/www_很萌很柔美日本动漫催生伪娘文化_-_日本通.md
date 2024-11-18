@@ -25,7 +25,7 @@
 
 ---
 
-## 参与讨论
+## 参与讨论 { data-search-exclude }
 
 ![](https://www.517japan.com/files/default_avatar.png) [登录](https://www.517japan.com/index/user/login.html?url=/viewnews-29944.html)后参与讨论
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 版权声明
+## 版权声明 { data-search-exclude }
 版权属作者所有，未经许可，严禁通过任何形式转载。
 
 ---

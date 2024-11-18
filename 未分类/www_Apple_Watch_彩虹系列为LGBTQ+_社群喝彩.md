@@ -21,14 +21,14 @@ Apple 将推出一款全新彩虹版运动型表带及配套表盘和 iOS 墙纸
 
 全新彩虹版庆祝表盘和 iOS 墙纸致敬 LGBTQ+ 社群的集体力量和相互支持。
 
-## 价格与适用国家和地区
+## 价格与适用国家和地区 { data-search-exclude }
 
 - 彩虹版运动型表带将从 5 月 23 日晚上 9 时起在 [apple.com.cn](https://www.apple.com.cn/) 和 Apple Store App 接受订购，5 月 25 日起在 Apple Store 零售店正式发售，售价为 **RMB 379**。
 - 彩虹版运动型表带提供 41 毫米及 45 毫米两种尺寸，兼容 Apple Watch Series 3 及后续表款。
 - 全新彩虹版庆祝表盘及 iPhone 墙纸将于下周发布，需运行 watchOS 9.5 及 iOS 16.5。
 - 顾客可以通过 Apple Watch 彩虹版运动型表带包装上、Apple Store 零售店内及 Apple Store app 内的轻 App 下载配套彩虹版庆祝表盘，或前往 [apple.com.cn](https://www.apple.com.cn/) 下载。
 
-## 媒介垂询
+## 媒介垂询 { data-search-exclude }
 
 Apple 媒体联络
 

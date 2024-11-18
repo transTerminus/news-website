@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-## 來源
+## 來源 { data-search-exclude }
 三立新聞網
 
-## 日期
+## 日期 { data-search-exclude }
 2024年10月4日
 
-## 作者
+## 作者 { data-search-exclude }
 娛樂中心／綜合報導
 
 ![「最美檢察官」陳漢章日前接受愛里的訪問。（圖／翻攝陳漢章臉書）](https://s.yimg.com/ny/api/res/1.2/7G4f7a2FSgrkvnFFhJattQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEwMjU7Y2Y9d2VicA--/https://media.zenfs.com/ko/setn.com.tw/483b907c700cc3b6aacee647e046a1b3)
@@ -24,10 +24,10 @@
 
 陳漢章也分享自己做了聲帶手術、抽肚子脂肪隆胸手術，面對是否會想做變性手術的提問，他坦言沒有這個想法，「因為我沒有這個需求，比如說你很想要完整度好，或者是你想變更你的身分證，或者是男朋友，但是我都沒有這個需求」；最後談到老婆，他說一開始是坦承有女裝癖，後來24小時女裝後，老婆覺得老公不見了，於是有了長達3、4年的磨合期，好在2人獲得共識，一起走到了現在，被問如果當初老婆想離婚怎麼辦？陳漢章回應「可以啊，我當然可以，因為其實她找一個別的男生，她的生活可以比現在更快樂更好，我當然是沒有意見的，因為我最希望的，就是她快樂」，一句話聽得網友動容。
 
-## 標籤
+## 標籤 { data-search-exclude }
 跨性別, 檢察官, 變裝, 陳漢章, 愛里
 
-## 相關報導
+## 相關報導 { data-search-exclude }
 - [曾經美貌不輸林青霞！生下巨星兒「喜歡上小32歲男星」如今72歲變這樣](https://www.setn.com/News.aspx?NewsID=1538210)  
 - [小S《不熙娣》出事了！班底「強迫網紅出櫃」遭炎上 當事人：不太舒服](https://www.setn.com/News.aspx?NewsID=1539342)
 - [最美檢察官豐胸成功！陳漢章挺過謾罵「莫須有罪名」親吐：討好自己就夠](https://star.setn.com/news/1512829?utm_source=yahoo&utm_medium=rss&utm_campaign=news)

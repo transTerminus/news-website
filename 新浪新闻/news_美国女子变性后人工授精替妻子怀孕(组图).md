@@ -5,7 +5,7 @@
 
 _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
-## 来源：金羊网-新快报  
+## 来源：金羊网-新快报   { data-search-exclude }
 **时间：2008.03.27 01:47**
 
 新快报讯 据美国媒体3月25日报道，美国俄勒冈州一名“由女变男”变性人托马斯·比提，在妻子无法怀孕生子的情况下，[亲自出马当上了“孕夫”](http://news.sina.com.cn/w/2008-03-26/030413632380s.shtml)。目前，托马斯有了5个多月的身孕。
@@ -30,11 +30,11 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
-## 标签：变性人，孕夫，代孕
+## 标签：变性人，孕夫，代孕 { data-search-exclude }
 
-## 评论数：578
+## 评论数：578 { data-search-exclude }
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

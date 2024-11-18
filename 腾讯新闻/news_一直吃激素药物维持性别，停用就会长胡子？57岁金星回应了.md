@@ -37,7 +37,7 @@
 
 ![金星](https://inews.gtimg.com/newsapp_bt/0/1012205723968_6694/0)
 
-## 评论
+## 评论 { data-search-exclude }
 160条评论，文明上网理性发言，请遵守[《新闻评论服务协议》](https://new.qq.com/static/coralinfo.htm) 
 
 支持金星，做最好的自己！

@@ -5,7 +5,7 @@
 
 ![图片](https://image.thepaper.cn/www/publish/interaction/image/0/694/710.jpg)
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 -   跨性别群体调查：孙静雅和她背后隐秘的变性“外围女”们
 

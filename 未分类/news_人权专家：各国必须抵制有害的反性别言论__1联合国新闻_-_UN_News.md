@@ -7,7 +7,7 @@
 
 联合国新闻图片/Elizabeth Scaffidi
 
-## 正文
+## 正文 { data-search-exclude }
 
 2021年6月25日 [人权](/zh/news/topic/human-rights)
 
@@ -45,10 +45,10 @@
 
 独立专家、特别报告员和工作组是[人权理事会特别程序](https://www.ohchr.org/CH/HRBodies/SP/Pages/Welcomepage.aspx)的一部分。特别程序是联合国人权系统中最大的独立专家机构，是理事会独立实况调查和监测机制的总称，处理世界各地的具体国家情况或专题问题。特别程序专家在自愿的基础上工作。他们不是联合国工作人员，工作没有报酬。他们独立于任何政府或组织，以个人身份服务。
 
-## 标签
+## 标签 { data-search-exclude }
 - [联合国人权专家](/zh/tags/lianheguorenquanzhuanjia)
 
-## 版权声明
+## 版权声明 { data-search-exclude }
 来源：联合国新闻
 
 [返回](https://news.un.org/zh/story/2021/06/1086792)

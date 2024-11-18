@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 当前标签：跨性别者
+## 当前标签：跨性别者 { data-search-exclude }
 
 ![跨性别者](https://imgs.gamersky.com/upimg/new_preview/2024/10/28/origin_b_202410280347536776.jpg "跨性别者")
 
@@ -14,7 +14,7 @@
 **阅读量：** 13838  
 **评论数：** 1164  
 
-## 标签
+## 标签 { data-search-exclude }
 - [CG](http://tag.gamersky.com/news/531.html) 
 - [发售日](http://tag.gamersky.com/news/279.html) 
 - [DIY](http://tag.gamersky.com/news/1709.html) 
@@ -32,7 +32,7 @@
 - [福利](http://tag.gamersky.com/news/1626.html) 
 - [颜落の硬盘](http://tag.gamersky.com/news/888.html)
 
-## 系列标签推荐
+## 系列标签推荐 { data-search-exclude }
 - [游民评分](http://tag.gamersky.com/news/5515.html) 
 - [精选壁纸](http://tag.gamersky.com/news/653.html) 
 - [游民评论](http://tag.gamersky.com/news/2289.html) 

@@ -5,7 +5,7 @@
 
 ![人妖影响](https://n.sinaimg.cn/sinakd10221/360/w180h180/20201013/16c9-kakmcxe6015604.jpg)
 
-## 颠覆谈历史
+## 颠覆谈历史 { data-search-exclude }
 
 **时间:** 01月14日 08:55
 

@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：中新网  
+## 来源：中新网   { data-search-exclude }
 ### 时间：2017.10.31 10:17
 
 原标题：美联邦法官暂停[特朗普](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E7%89%B9%E6%9C%97%E6%99%AE)变性人参军禁令部分内容
@@ -22,7 +22,7 @@
 
 今年8月25日，特朗普签署总统备忘录，要求国防部禁止变性人服役，引起了美国各界争议。
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
 ### 新浪新闻官方
 热点资讯 精彩视频抢先看 5.0分好评

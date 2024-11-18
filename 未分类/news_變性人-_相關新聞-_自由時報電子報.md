@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 「變性人」相關新聞
+## 「變性人」相關新聞 { data-search-exclude }
 
 ### （專訪）嚴淑明秘嫁香港富商消失6年 遭爆變性人回應了
 ![（專訪）嚴淑明秘嫁香港富商消失6年 遭爆變性人回應了](assets/images/all/default.jpg)

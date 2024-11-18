@@ -22,11 +22,11 @@
 
 住在安徽合肥的方羽然告訴德國之聲，跨性別者在中國面臨最大的問題是出櫃、自我認同，以及與手術或療程相關的事項。因為中國缺乏取得與激素相關訊息的管道，跨性別者往往得透過百度搜尋相關訊息，「但百度搜尋出來的訊息有不真實或偏差的情形，這些信息會導致我不敢用激素。」
 
-## 延伸閱讀
+## 延伸閱讀 { data-search-exclude }
 - [劉鶴陪同考察稀土產業 在長征起點獻花 習近平宣示抗美？](https://newtalk.tw/news/view/2019-05-21/249269)
 - [外媒：大批逃離北韓婦女在中國淪為性奴 最小只有9歲](https://newtalk.tw/news/view/2019-05-21/249226)
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#中國](https://newtalk.tw/news/subcategory/7/%E4%B8%AD%E5%9C%8B)
 - [#台灣](https://newtalk.tw/search?q=%E5%8F%B0%E7%81%A3&type=tab)
 - [#恐同](https://newtalk.tw/search?q=%E6%81%90%E5%90%8C&type=tab)

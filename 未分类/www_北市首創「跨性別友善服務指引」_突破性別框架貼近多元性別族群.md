@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 新聞稿
+## 新聞稿 { data-search-exclude }
 
 ### 北市首創「跨性別友善服務指引」 突破性別框架 貼近多元性別族群
 

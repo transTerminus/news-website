@@ -37,35 +37,35 @@ Maria Roman，Translatin@ Coalition 副总裁兼首席运营官
 
 Sophya Chhiv，高棉女孩行动临时执行董事 
 
-## 过往公告
+## 过往公告 { data-search-exclude }
 
 寻找：
 
-## [面对特朗普第二届政府，AJSOCAL 的承诺](https://ajsocal.org/zh-CN/ajsocals-commitments-in-the-face-of-a-second-trump-administration/)  
+## [面对特朗普第二届政府，AJSOCAL 的承诺](https://ajsocal.org/zh-CN/ajsocals-commitments-in-the-face-of-a-second-trump-administration/)   { data-search-exclude }
 
 2024 年 11 月 6 日   
 
 面对第二届特朗普政府，我们与家人、合作伙伴、客户和社区一起见证了恐惧、悲伤和愤怒。但我们仍然坚定地履行我们的使命。2025 项目等举措和无数的竞选承诺……  
 
-## [亚裔美国人促进正义组织对 2024 年选举结果作出回应](https://ajsocal.org/zh-CN/asian-americans-advancing-justice-responds-to-the-2024-election-outcome/)  
+## [亚裔美国人促进正义组织对 2024 年选举结果作出回应](https://ajsocal.org/zh-CN/asian-americans-advancing-justice-responds-to-the-2024-election-outcome/)   { data-search-exclude }
 
 2024 年 11 月 6 日       
 
 美国最大的 AAPI 民权组织网络亚裔美国人促进正义组织今天联合发表了这份声明。昨晚，唐纳德·J·特朗普再次当选美国总统。作为民权运动的附属组织……  
 
-## [亚裔美国人倡议和社区合作伙伴在奥兰治县公布选前亚裔美国人选民外展活动的最新进展](https://ajsocal.org/zh-CN/asian-american-initiative-and-community-partners-give-pre-election-update-on-orange-county-asian-american-voter-outreach/)  
+## [亚裔美国人倡议和社区合作伙伴在奥兰治县公布选前亚裔美国人选民外展活动的最新进展](https://ajsocal.org/zh-CN/asian-american-initiative-and-community-partners-give-pre-election-update-on-orange-county-asian-american-voter-outreach/)   { data-search-exclude }
 
 2024 年 11 月 4 日      
 
 AAI 通过联合外展工作接触到 380,042 名亚裔美国选民立即发布，加登格罗夫，4 年 2024 月 XNUMX 日星期一——在即将到来的 XNUMX 月选举之前，亚裔美国人倡议 (AAI)——最大的亚裔美国人合作伙伴关系......  
 
-## [致奥兰治县共和党和民主党的公开信，谴责有害的反亚裔言论](https://ajsocal.org/zh-CN/open-letter-to-the-republican-and-democratic-parties-of-orange-county-on-the-harmful-use-of-anti-asian-rhetoric/)  
+## [致奥兰治县共和党和民主党的公开信，谴责有害的反亚裔言论](https://ajsocal.org/zh-CN/open-letter-to-the-republican-and-democratic-parties-of-orange-county-on-the-harmful-use-of-anti-asian-rhetoric/)   { data-search-exclude }
 
 2024 年 10 月 22 日       
 
 主席 Ada Briceño 奥兰治县民主党 1475 South State College Blvd., Suite 110 阿纳海姆，加利福尼亚州 92806 主席 Hon. Fred M. Whitaker 奥兰治县共和党 1422 Edinger Ave., Suite 110 塔斯汀，加利福尼亚州 92780 16 年 2024 月 XNUMX 日 致共和党和...的公开信   
 
-## [选举前几周，AJSOCAL 41 周年庆典汇聚各界领袖](https://ajsocal.org/zh-CN/ajsocals-41st-anniversary-gala-gathers-leaders-in-celebration-just-weeks-before-the-election/)  
+## [选举前几周，AJSOCAL 41 周年庆典汇聚各界领袖](https://ajsocal.org/zh-CN/ajsocals-41st-anniversary-gala-gathers-leaders-in-celebration-just-weeks-before-the-election/)   { data-search-exclude }
 
 2024 年 10 月 16 日       
 

@@ -5,7 +5,7 @@
 
 ![视频缩略图](http://images.china.cn/images1/ch/2009video/090811.jpg)
 
-## 来源： 中国网 china.com.cn
+## 来源： 中国网 china.com.cn { data-search-exclude }
 
 ### 时间： 2010-06-08
 

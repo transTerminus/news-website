@@ -3,21 +3,21 @@
 ## 正文 { data-search-exclude }
 
 
-## 如何增强您对 LGBTQ 群体的支持！
+## 如何增强您对 LGBTQ 群体的支持！ { data-search-exclude }
 [阅读更多](https://fireflyin.org/zh/resources/news-library/how-you-can-enhance-your-allyship-for-the-lgbtq-community/)
 
 每年六月都被庆祝为 LGBT 骄傲月。骄傲活动可以包括表演、节日、演讲活动和臭名昭著的骄傲游行——所有这些活动都是为了庆祝女同性恋、男同性恋、双性恋、跨性别者和酷儿文化和身份。虽然骄傲...
 
 ---
 
-## 今年母亲节保持联系
+## 今年母亲节保持联系 { data-search-exclude }
 [阅读更多](https://fireflyin.org/zh/resources/news-library/staying-connected-this-mothers-day/)
 
 5 月 10 日星期日是母亲节。这个庆祝和认可的日子起源于 1876 年，当时安娜·贾维斯 (Anna Jarvis) 听到她的母亲安·贾维斯 (Ann Jarvis) 在主日学校课程中祈祷。她祈祷有一天有人会设立一个纪念母亲节，而这一天将是……
 
 ---
 
-## 夫妻在家一起工作的建议
+## 夫妻在家一起工作的建议 { data-search-exclude }
 作者：凯特·奥哈拉（Kat O'Hara）幸存者顾问  
 [阅读更多](https://fireflyin.org/zh/resources/news-library/tips-for-couples-working-together-in-the-home/)
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 青少年约会暴力
+## 青少年约会暴力 { data-search-exclude }
 作者：萨拉·布鲁姆；幸存者倡导者  
 [阅读更多](https://fireflyin.org/zh/resources/news-library/teen-dating-violence/)
 

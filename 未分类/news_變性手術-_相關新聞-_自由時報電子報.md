@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 「變性手術」相關新聞
+## 「變性手術」相關新聞 { data-search-exclude }
 
 ### 找回失落的性別 勇敢做自己！
 ![找回失落的性別 勇敢做自己！](assets/images/all/default.jpg)

@@ -5,7 +5,7 @@
 
 ![image1](https://fc.sinaimg.cn/large/006zDEMjgy1huwct7xkbhj310402s40p.jpg)
 
-## 僧侣番新作公布 性转喜剧《基友变辣妹》动画化4月播出
+## 僧侣番新作公布 性转喜剧《基友变辣妹》动画化4月播出 { data-search-exclude }
 
 **时间**: 2022-03-16 09:27  
 **作者**: 宅宅

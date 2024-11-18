@@ -5,7 +5,7 @@
 
 ![ETtoday 新聞雲](https://static.ettoday.net/style/ettoday2017/images/logo/et-13th.gif)
 
-## 變性人
+## 變性人 { data-search-exclude }
 
 ![林郁婷遭川普歧視！政府靜悄悄　趙少康轟：賴清德不要只會蹭](//cdn2.ettoday.net/images/7803/c7803773.jpg)
 

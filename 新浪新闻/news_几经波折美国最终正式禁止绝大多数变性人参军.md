@@ -35,7 +35,7 @@
 
 ![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
 **本朝顺民** 2
 

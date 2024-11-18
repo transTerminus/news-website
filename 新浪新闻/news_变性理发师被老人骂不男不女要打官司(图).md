@@ -5,8 +5,8 @@
 
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：四川新闻网-成都商报
-## 时间：2004.02.28 03:42
+## 来源：四川新闻网-成都商报 { data-search-exclude }
+## 时间：2004.02.28 03:42 { data-search-exclude }
 
 昨日，自称无恶意的双流退休医生当众向做过变性手术的女理发师道歉
 
@@ -32,7 +32,7 @@
 
 ![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 ![评论图标](https://tp3.sinaimg.cn/1392597202/50/0/1)
 
 **新浪网友0** 0  

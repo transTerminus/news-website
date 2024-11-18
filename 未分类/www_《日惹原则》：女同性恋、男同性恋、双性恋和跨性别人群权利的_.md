@@ -31,14 +31,14 @@
 
 ---
 
-## 主题
+## 主题 { data-search-exclude }
 - [LGBT权利](/zh-hans/topic/lgbtquanli)
 - [联合国](/zh-hans/topic/united-nations)
 - [人权理事会](/zh-hans/topic/united-nations/renquanlishihui)
 
 ---
 
-## 参与起草的专家
+## 参与起草的专家 { data-search-exclude }
 
 - 菲利普•奥尔斯顿 (澳大利亚)，法外处决、即审即决和任意处决问题联合国特别报告员，纽约大学法学院法学教授
 - 马克西姆•安美希岑 （摩尔多瓦），国际男女同性恋欧洲地区协会
@@ -73,7 +73,7 @@
 
 --- 
 
-## 源
+## 源 { data-search-exclude }
 日期：2007年03月26日  
 来源：[Human Rights Watch](https://www.hrw.org/zh-hans/news/2007/03/26/yogyakarta-principles-milestone-lesbian-gay-bisexual-and-transgender-rights)
 

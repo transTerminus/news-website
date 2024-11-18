@@ -17,11 +17,11 @@
 
 然而更換性別的申請全停後，連帶造成原本已經依照規定切除子宮及卵巢及建造人工陰莖的女跨男「海仔」無法換證，造成其生活上困擾，甚至近日求職時被老闆懷疑其身份證是否為本人。海仔反應早已於 1 月 12 號遞交申請，不應受判決影響，但受理職員回覆以 2 月 17 號交齊文件為準；事隔近一個月，海仔仍未收到通知或安排，只能繼續等待下去。
 
-## 相關連結
+## 相關連結 { data-search-exclude }
 
 - [跨性別人士更換身份證性別全停 入境處：正因應終院裁決檢視政策](https://www.inmediahk.net/node/%E7%A4%BE%E9%81%8B/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E6%9B%B4%E6%8F%9B%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%80%A7%E5%88%A5%E5%85%A8%E5%81%9C-%E5%85%A5%E5%A2%83%E8%99%95%EF%BC%9A%E6%AD%A3%E5%9B%A0%E6%87%89%E7%B5%82%E9%99%A2%E8%A3%81%E6%B1%BA%E6%AA%A2%E8%A6%96%E6%94%BF%E7%AD%96)
   
-## 相關報導
+## 相關報導 { data-search-exclude }
 
 1. [香港法院終審判「女跨男」謝浩霖、Q可免術更改身分證性別](https://noselfidtw.cc/news/kh-xie-haolin-q-change-gender-id/) - 2023 年 02 月 06 日
 2. [身分證改性別被拒終院上訴 香港兩跨性別人士批入境處政策侵犯私人生活](https://noselfidtw.cc/news/transgender-man-gender-change-denied-by-hong-kong-immigration/) - 2023 年 01 月 04 日
@@ -29,7 +29,7 @@
 4. [美國德州實施新政策，跨性別者不得再更改駕照上的生理性別](https://noselfidtw.cc/news/transgender-texans-blocked-from-changing-their-sex-on-their-drivers/) - 2024 年 08 月 22 日
 5. [澳洲昆士蘭州「口頭變性」法規正式生效，近 7 成申請者為男跨女](https://noselfidtw.cc/news/hundreds-of-aussies-rush-to-change-the-gender-listed-on/) - 2024 年 07 月 28 日
 
-## 評論
+## 評論 { data-search-exclude }
 
 - **贊助支持本站**: 本網站係由噗浪網友 y 旅人創建維運。如果您想支持網站持續改善更新，可以請我喝一杯咖啡給予我鼓勵 ☕
 

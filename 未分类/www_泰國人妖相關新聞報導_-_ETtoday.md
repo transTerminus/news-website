@@ -5,7 +5,7 @@
 
 ![ETtoday 新聞雲](https://static.ettoday.net/style/ettoday2017/images/logo/et-13th.gif)
 
-## 泰國人妖
+## 泰國人妖 { data-search-exclude }
 
 ![夢多「長髮美照」長這樣！　電眼、媚笑網嚇歪：不當女人可惜了](//cdn2.ettoday.net/images/3518/c3518958.jpg)
 

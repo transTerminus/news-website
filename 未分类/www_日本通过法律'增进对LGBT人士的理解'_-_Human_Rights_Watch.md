@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-## 来源
+## 来源 { data-search-exclude }
 Human Rights Watch
 
-## 时间
+## 时间 { data-search-exclude }
 2023年6月
 
-## 正文
+## 正文 { data-search-exclude }
 ![Supporters of Equality Act Japan gather in front of parliament](https://www.hrw.org/sites/default/files/styles/embed_xxl/public/media_2023/07/202307asia_japan_lgbt_equalityact_protest.jpg?itok=3AS2zD27)
 支持者在东京国会前集会，提交请愿书，时间为2021年3月25日。© 2021 Kanae Doi/Human Rights Watch
 
@@ -25,12 +25,12 @@ Human Rights Watch
 
 日本首相岸田文雄应当再接再励。若要保护每一个人的人权，日本需要的是一部全面消除歧视的法律。
 
-## 标签
+## 标签 { data-search-exclude }
 - 亚洲
 - 日本
 - LGBT权利
 
-## 更多报导
+## 更多报导 { data-search-exclude }
 ### [G7 Letter Highlights Japan’s LGBT Rights Gaps](https://www.hrw.org/news/2023/03/21/g7-letter-highlights-japans-lgbt-rights-gaps)
 ![Plaintiffs and supporters of marriage equality for same sex couples walk to the Tokyo district court.](https://www.hrw.org/sites/default/files/styles/square/public/media_2023/03/202303lgbt_japan_supporters_walk_for_marriage_equality.jpg?h=8f609ee4&itok=Q1bWTLNH)
 

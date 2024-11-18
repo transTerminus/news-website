@@ -5,7 +5,7 @@
 
 ![图片](//tvax1.sinaimg.cn/crop.0.0.996.996.180/7ece7745ly8g0ltxxsj6nj20ro0roq47.jpg)
 
-## 中国日报网
+## 中国日报网 { data-search-exclude }
 
 2015.10.22 16:59
 
@@ -25,7 +25,7 @@
 
 ![评论部分图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **愿打愿挨**  
 “这可得割干净，要不然问题就多了”  

@@ -5,26 +5,26 @@
 
 ![JK罗琳再次发表言论引争议：男跨性别者并不是女性](//img1.mydrivers.com/img/20231019/S10e7776e-2646-44e4-b498-40509ce7259a.jpg)
 
-## 时间
+## 时间 { data-search-exclude }
 2023-10-19 17:47:36
 
-## 来源
+## 来源 { data-search-exclude }
 [3DM游戏网](https://www.3dmgame.com/news/202310/3879772.html)
 
-## 作者
+## 作者 { data-search-exclude }
 liyunfei
 
-## 编辑
+## 编辑 { data-search-exclude }
 拾柒
 
-## 人气
+## 人气 { data-search-exclude }
 6176 次
 
-## 标签
+## 标签 { data-search-exclude }
 - [_#_罗琳](//news.mydrivers.com/tag/luolin.htm)
 - [_#_男性](//news.mydrivers.com/tag/nanxing.htm)
 
-## 正文内容
+## 正文内容 { data-search-exclude }
 近日《哈利波特》作者J·K·罗琳再次发布反跨言论引起争议。
 
 她发布推文，图中有个标语“跟着我念，**男性跨性别者就是女人！”，而她的配文是“NO”，表达了她反跨的态度。**
@@ -35,10 +35,10 @@ JK罗琳于2019年首次发表自己的观点，当时她在推特上支持税�
 
 JK罗琳表达对跨性别群体的言论后，她被一些人指责为“恐跨性别”，还被贴上“TERF”（排斥跨性别的激进女权主义者）标签，**她也因此多次遭遇网暴，其家庭住址也被曝光，还收到了死亡威胁。**
 
-## 责任编辑
+## 责任编辑 { data-search-exclude }
 拾柒
 
-## 相关资讯
+## 相关资讯 { data-search-exclude }
 - [美国性别自由已有97种！男子性侵被抓 自称跨性别者](https://news.mydrivers.com/1/939/939924.htm)
 - [JK罗琳母校开设首个魔法学硕士学位：研究魔法和女权](https://news.mydrivers.com/1/938/938846.htm)
 - [男孩56码大脚丫愁坏老妈 15岁长到1米9：中国男性平均身高增长世界第一](https://news.mydrivers.com/1/930/930209.htm)

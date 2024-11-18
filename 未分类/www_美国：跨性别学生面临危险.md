@@ -41,7 +41,7 @@
 
 --- 
 
-## 相关报道
+## 相关报道 { data-search-exclude }
 
 - 2024年 04月 26日 [美国各大学应尊重抗议权](https://www.hrw.org/news/2024/04/26/us-universities-should-respect-right-protest)  
 ![Pro-Palestinian student protesters at a demonstration at Columbia University on the third day of "Gaza Solidarity Encampment" in New York, US, April 19, 2024.](https://www.hrw.org/sites/default/files/styles/square/public/media_2024/04/202404usp_usa_columbia_student_protest.jpg?h=f9c58064&itok=f8kUjAel)

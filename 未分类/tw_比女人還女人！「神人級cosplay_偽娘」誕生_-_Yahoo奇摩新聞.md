@@ -30,7 +30,7 @@
 
 ![神級幻想](https://s.yimg.com/uu/api/res/1.2/Gh_8o6XXCsrjrmLgprVztA--~B/Zmk9c3RyaW07aD0yODg7dz01MTQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/ko/gotv_ctitv_com_tw_678/c00a84058f2c548b5ad7a05260cd4c79.cf.webp)
 
-## 其他人也在看
+## 其他人也在看 { data-search-exclude }
 
 ![伴陳時中「香肩美女」身分曝光！女醫師田知學主動投案　所屬醫院、職位超驚人](https://s.yimg.com/uu/api/res/1.2/GHjVGRYr.Cgas1nmV1XSCg--~B/Zmk9c3RyaW07aD0yODg7dz01MTQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cava_tw_423/32666ab1f689626d546df09051a71003.cf.webp)
 

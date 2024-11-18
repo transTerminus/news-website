@@ -29,11 +29,11 @@
 
 (c)2020 白石晃士／ダブルフィールド
 
-## 上映スケジュール
+## 上映スケジュール { data-search-exclude }
 
 情報提供：ぴあ
 
-## 読者の反応
+## 読者の反応 { data-search-exclude }
 
 -   262
 -   [1](https://natalie.mu/eiga/news/405207/comment)
@@ -44,27 +44,27 @@
 
 [コメントを読む（1件）](https://natalie.mu/eiga/news/405207/comment)
 
-## 関連記事
+## 関連記事 { data-search-exclude }
 
 - [白石晃士×田中俊介「恋のクレイジーロード」リブート版「恋するけだもの」公開決定](https://natalie.mu/eiga/news/364982)
 - [田中俊介が女装した宇野祥平に絡まれる、白石晃士「恋するけだもの」場面カット公開](https://natalie.mu/eiga/news/399933)
 - [田中俊介が気弱な青年から豹変、二面性演じ分ける「恋するけだもの」メイキング映像](https://natalie.mu/eiga/news/403411)
 - [女装男の秘密とは？田中俊介×宇野祥平「恋するけだもの」本編映像](https://natalie.mu/eiga/news/407119)
 
-## 宇野祥平のほかの記事
+## 宇野祥平のほかの記事 { data-search-exclude }
 
 - [映画「オリバーな犬」に永瀬正敏、佐藤浩市、嶋田久作、宇野祥平、香椎由宇が続投](https://natalie.mu/eiga/news/598790)
 - [MOOSIC LAB 2025の開催決定、川上さわ・戸田彬弘らの監督作を上映](https://natalie.mu/eiga/news/598484)
 - [松坂桃李が芳根京子らと困難乗り越える「雪の花」新写真、小泉堯史は役所広司に「心強い」](https://natalie.mu/eiga/news/596335)
 
-## タグ
+## タグ { data-search-exclude }
 
 - [恋するけだもの](https://natalie.mu/eiga/film/184454)
 - [宇野祥平](https://natalie.mu/eiga/artist/28098)
 - [田中俊介](https://natalie.mu/eiga/artist/73328)
 - [白石晃士](https://natalie.mu/eiga/artist/28214)
 
-## リンク
+## リンク { data-search-exclude }
 
 - [映画「恋するけだもの」「恋のクレイジーロード」公式 (@koikure55) | Twitter](https://twitter.com/koikure55)
 - [「恋するけだもの」本編映像1](https://youtu.be/TAIbHOBJSuo)

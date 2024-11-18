@@ -5,7 +5,7 @@
 
 ![找不到網頁图](http://b.scorecardresearch.com/p?c1=2&c2=7390954&cv=2.0&cj=1)
 
-## 快訊
+## 快訊 { data-search-exclude }
 
 ### [美股三大指數收黑 投資人認真思考川普政策負面影響](https://www.worldjournal.com/wj/story/121208/8356119?from=wj_msg "美股三大指數收黑 投資人認真思考川普政策負面影響")
 

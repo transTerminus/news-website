@@ -5,7 +5,7 @@
 
 ![default_avatar](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 四川新闻网-成都晚报
+## 四川新闻网-成都晚报 { data-search-exclude }
 **时间**: 2005.12.04 04:47  
 **作者**: 本报记者 向勤 实习生 宋小川 摄影 廉钢
 

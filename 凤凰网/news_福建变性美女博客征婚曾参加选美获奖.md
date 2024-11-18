@@ -16,7 +16,7 @@
 
 **编辑：** jl  
 
-## 评论
+## 评论 { data-search-exclude }
 - 如果您还不是凤凰会员，欢迎 [注册](http://sso.ifeng.com/sso/register.jsp)
 
 **用户：** 匿名发表

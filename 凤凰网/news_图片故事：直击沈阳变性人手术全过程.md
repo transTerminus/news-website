@@ -13,7 +13,7 @@
 
 ![术前准备](http://img.ifeng.com/res/200612/1213_28579.jpg)
 
-## 评论
+## 评论 { data-search-exclude }
 - [发表评论](http://cmt.ifeng.com/viewcmts.do?chId=24&docId=47782&docName=%e5%9b%be%e7%89%87%e6%95%85%e4%ba%8b%ef%bc%9a%e7%9b%b4%e5%87%bb%e6%b2%88%e9%98%b3%e5%8f%98%e6%80%a7%e4%ba%ba%e6%89%8b%e6%9c%af%e5%85%a8%e8%bf%87%e7%a8%8b&docUrl=http%3a%2f%2fnews.ifeng.com%2fphoto%2f200612%2f1213_24_47782.shtml)
 
 *您要为您发言论的后果负责，故请各位遵纪守法并注意语言文明。以上留言只代表网友个人观点，不代表凤凰网观点。*

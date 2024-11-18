@@ -40,7 +40,7 @@ v：將會繼續接受持續的異性荷爾蒙治療，並會按處長就其荷�
 
 ![](https://cdn.orangenews.hk/u/cms/www/202107/222332468tqa.jpg)
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [終審法院](https://www.orangenews.hk/tag/643-終審法院.shtml)
 - [入境處](https://www.orangenews.hk/tag/760-入境處.shtml)
 - [身份證](https://www.orangenews.hk/tag/907-身份證.shtml)

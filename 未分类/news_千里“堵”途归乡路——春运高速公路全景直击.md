@@ -79,7 +79,7 @@
 
 ![高速公路](http://www.xinhuanet.com/xilan/imgs/20141202xhxw.jpg)
 
-## 评论
+## 评论 { data-search-exclude }
 
 项目负责：新华网
 

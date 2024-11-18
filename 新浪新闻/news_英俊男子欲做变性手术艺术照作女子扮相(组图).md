@@ -5,7 +5,7 @@
 
 _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
-## 四川新闻网-成都晚报
+## 四川新闻网-成都晚报 { data-search-exclude }
 
 **日期：** 2005.09.22 02:50
 
@@ -61,7 +61,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **快来新闻客户端参与评论获金币兑礼品吧！**
 

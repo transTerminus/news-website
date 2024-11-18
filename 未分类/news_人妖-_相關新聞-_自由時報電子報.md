@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 「人妖」相關新聞
+## 「人妖」相關新聞 { data-search-exclude }
 
 ### 泰國女星「示愛」 印尼市長：希望你不是男的
 ![泰國女星「示愛」 印尼市長：希望你不是男的](https://assets/images/all/default.jpg)

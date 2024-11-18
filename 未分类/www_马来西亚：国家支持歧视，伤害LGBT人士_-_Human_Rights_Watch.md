@@ -48,7 +48,7 @@
 
 马来西亚政府应立即停止赞助、资助或以其他方式支持扭转措施，并应在LGBT团体协助下，对包括警察、法官和政府职员在内的公务员进行性别、多元与人权议题的培训。马来西亚政府亦应尽速废除性取向及性别认同歧视的法律。
 
-## Your tax deductible gift can help stop human rights violations and save lives around the world.
+## Your tax deductible gift can help stop human rights violations and save lives around the world. { data-search-exclude }
 
 $50
 
@@ -73,7 +73,7 @@ Other $
 
 -   [LGBT权利](/zh-hans/topic/lgbtquanli)
 
-## 更多报导
+## 更多报导 { data-search-exclude }
 
 -   2024年 07月 23日 快讯
 
@@ -88,7 +88,7 @@ Other $
     ![Supporters of Equality Act Japan gather in front of parliament](/sites/default/files/styles/square/public/media_2023/07/202307asia_japan_lgbt_equalityact_protest.jpg?h=c6980913&itok=p33c77Zv)
     
 
-## 报告
+## 报告 { data-search-exclude }
 
 -   2017年 11月 15日 Report
     

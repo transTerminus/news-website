@@ -15,7 +15,7 @@
 
 (责任编辑：UN628)
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [港变性人婚权案押后 法官称裁决须考虑社会取态](https://news.sohu.com/20130417/n372962829.shtml)
 - [外媒称朝鲜拒绝与美国进行“羞辱性”对话(图)](https://news.sohu.com/20130416/n372905684.shtml)

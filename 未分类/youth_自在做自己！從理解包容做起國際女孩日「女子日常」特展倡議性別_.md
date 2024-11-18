@@ -13,7 +13,7 @@
 
 青年局表示，此次展覽結合Pinway進駐團隊「大雄的木作世界」、「硬印HardPrint」、「那個皮工作室」、「Otto2 art club」，提供民眾多樣手作體驗；「8C咖啡駁二店」也推出女力講座、女孩節限定套餐優惠；還有「oloo共享電動滑板車」與「連克創能數位Link Selections新創永續飲食選物店」共襄盛舉，為女孩日常生活增添樣貌，青年局扶植的青創團隊也獲得更多曝光機會。未來Pinway將推出更多元展覽及活動，關注粉專([https://www.facebook.com/pinway.8/](https://www.facebook.com/pinway.8/ "[另開新視窗]Pinway駁二八號倉庫 Facebook"))獲得最新訊息。
 
-## 相關圖片
+## 相關圖片 { data-search-exclude }
 
 - ![觀展民眾在倡議區自由創作，分享對女孩議題、多元共容的見解。](https://youth-ws.kcg.gov.tw/001/Upload/448/relpic/10146/10687/06b88f63-3d25-4692-a15a-98c40e14783d@710x470.jpg)
 - ![「性別象限」跳脫傳統定義的性別二元論，每個人都有權利在這個光譜上找到自己的位置。](https://youth-ws.kcg.gov.tw/001/Upload/448/relpic/10146/10687/b18e60b3-aba2-4c27-a45c-faf8915554fc@710x470.jpg)
@@ -24,7 +24,7 @@
 - ![Pinway進駐團隊「8C咖啡駁二店」推出女力講座、女孩節限定套餐優惠響應「女子日常」特展。](https://youth-ws.kcg.gov.tw/001/Upload/448/relpic/10146/10687/4a81202c-2fff-468a-b0ff-26350cffb691@710x470.jpg)
 - ![Pinway進駐團隊「那個皮工作室」推出布料袋製作課程，讓民眾體驗手作樂趣。](https://youth-ws.kcg.gov.tw/001/Upload/448/relpic/10146/10687/cf1664ca-f269-4c69-9fa5-83eeab542a00@710x470.jpg)
 
-## 標籤
+## 標籤 { data-search-exclude }
 
 - [#國際事務](News_Tag.aspx?n=9&sms=10146&t=14)
 - [#青年局](News_Tag.aspx?n=9&sms=10146&t=16)

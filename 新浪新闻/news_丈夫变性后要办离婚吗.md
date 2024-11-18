@@ -5,7 +5,7 @@
 
 ![avatar](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：安徽在线-安徽日报
+## 来源：安徽在线-安徽日报 { data-search-exclude }
 
 **时间：2006.08.02 05:19**
 

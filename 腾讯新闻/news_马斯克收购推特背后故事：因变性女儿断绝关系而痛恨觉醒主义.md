@@ -3,12 +3,12 @@
 ## 正文 { data-search-exclude }
 
 
-## 来源
+## 来源 { data-search-exclude }
 澎湃新闻  
 2023-09-01 14:32发布于上海澎湃新闻官方账号  
 [阅读原文](https://news.qq.com/omn/author/8QMf2Hpc7oQZvDjf)
 
-## 正文
+## 正文 { data-search-exclude }
 
 “区块链推特是不可能的，因为点对点网络无法支持带宽和延迟要求。”
 
@@ -96,10 +96,10 @@ FTX创始人想参与收购推特
 
 免责声明：本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。
 
-## 图片
+## 图片 { data-search-exclude }
 ![马斯克收购推特](https://inews.gtimg.com/newsapp_bt/0/1012205723968_6694/0)  
 
-## 评论
+## 评论 { data-search-exclude }
 1. 用户8701483  
    “他变性女儿有句话说的对，任何有钱人都是邪恶的，因为男人有钱就变坏，女人变坏才有钱！可见有钱的人都是坏人！”
   

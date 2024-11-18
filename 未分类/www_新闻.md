@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 新闻
+## 新闻 { data-search-exclude }
 
 ### 世卫组织将在联合国大会上呼吁采取高级别紧急行动以消除全球抗微生物药物耐药性危害
 ![世卫组织](https://www.gcedclearinghouse.org/sites/default/files/styles/infocus_thumbnail/public/news_image/news240919_WHO.jpg?itok=jJVFpUzT)

@@ -7,7 +7,7 @@
 ![雅虎香港新聞](https://s.yimg.com/rz/p/yahoo_news_zh-Hant-HK_h_w_newsv2.png)
 [雅虎香港新聞](https://hk.news.yahoo.com/)
 
-## 報導列表
+## 報導列表 { data-search-exclude }
 
 ### [川普藉反跨性別廣告攻擊賀錦麗 拉攏未表態選民](https://hk.news.yahoo.com/%E5%B7%9D%E6%99%AE%E8%97%89%E5%8F%8D%E8%B7%A8%E6%80%A7%E5%88%A5%E5%BB%A3%E5%91%8A%E6%94%BB%E6%93%8A%E8%B3%80%E9%8C%A6%E9%BA%97-%E6%8B%89%E6%94%8F%E6%9C%AA%E8%A1%A8%E6%85%8B%E9%81%B8%E6%B0%91-075001454.html)
 ![](https://s.yimg.com/lo/api/res/1.2/.EIUCldkilNQEaPEqbn1uw--~A/YXBwaWQ9dHdhYnVuZXdzO3c9MjIwO2g9MTI4O2ZpPWZpbGw7cHhvZmY9NTA7cHlvZmY9MQ--/https://media.zenfs.com/ko/afp.com.hk/06e237f0de29572f6a89f6b898a2d8a2)  

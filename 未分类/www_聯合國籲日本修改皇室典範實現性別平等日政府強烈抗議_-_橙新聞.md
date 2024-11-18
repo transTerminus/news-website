@@ -26,7 +26,7 @@
 
 ![圖片](https://cdn.orangenews.hk/u/cms/www/202107/222332468tqa.jpg)
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#日本](https://www.orangenews.hk/tag/334-日本.shtml)
 - [#聯合國](https://www.orangenews.hk/tag/707-聯合國.shtml)
 - [#性別平等](https://www.orangenews.hk/tag/42700-性別平等.shtml)

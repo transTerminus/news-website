@@ -22,7 +22,7 @@
 
 ![变性手术前](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0621%2Ffaa8afc6j00sfehfo000yd000hs00anm.jpg&thumbnail=660x2147483647&quality=80&type=jpg)
 
-## 变性想法的形成
+## 变性想法的形成 { data-search-exclude }
 
 **1974年出生于宁夏的耿兰俊，从小便是个与众不同的小姑娘，喜欢跟男孩子一起疯玩。**
 
@@ -70,7 +70,7 @@
 
 ![父母的担忧](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0621%2Fcc36adbdj00sfehfo000pd000hs00cgm.jpg&thumbnail=660x2147483647&quality=80&type=jpg)
 
-## 易性手术成功进行
+## 易性手术成功进行 { data-search-exclude }
 
 **父母的反对无疑是雪上加霜，几近孤立无援的她也没有放弃她的想法**。但她内心深处成为真正男性的念头，却更加强烈了。
 
@@ -122,7 +122,7 @@
 
 ![新身份证](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0621%2F5865e3faj00sfehfo000nd000hs00anm.jpg&thumbnail=660x2147483647&quality=80&type=jpg)
 
-## 工作的波折
+## 工作的波折 { data-search-exclude }
 
 **耿子变性的事情在他工作的地方闹得沸沸扬扬，以至于很多公司都不愿意收他工作。**出于无奈，他辗转来到了香港求职。
 
@@ -154,7 +154,7 @@
 
 **“我希望通过不断的挑战和超越自己，来证明自己存在的价值，让人生有新的色彩。”**
 
-## 三段感情
+## 三段感情 { data-search-exclude }
 
 **与他波澜壮阔的人生相比，耿子的感情之路显得有些落寞。**
 
@@ -194,7 +194,7 @@
 
 ![等待](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0621%2Ff570eb6cj00sfehfp000xd000hs00b4m.jpg&thumbnail=660x2147483647&quality=80&type=jpg)
 
-## 结语
+## 结语 { data-search-exclude }
 
 **直到现在，耿子仍是孤身一人，但他从没有后悔过。**
 

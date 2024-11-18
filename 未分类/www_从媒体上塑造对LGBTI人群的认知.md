@@ -27,7 +27,7 @@
 
 ---
 
-## Related Content
+## Related Content { data-search-exclude }
 
 ### Press Releases
 

@@ -5,7 +5,7 @@
 
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：星辰在线-长沙晚报
+## 来源：星辰在线-长沙晚报 { data-search-exclude }
 
 ### 时间：2005.04.25 03:50
 
@@ -35,7 +35,7 @@
 
 ![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 ![评论者头像](https://tp3.sinaimg.cn/1392597202/50/0/1)
 

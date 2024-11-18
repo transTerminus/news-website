@@ -5,7 +5,7 @@
 
 ![王梓淇](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/2ce4-633bb475e4b7fc7231a26bec5c1d574a.jpg)
 
-## 红星新闻
+## 红星新闻 { data-search-exclude }
 
 《红星新闻》官方账号 01.2318:35
 

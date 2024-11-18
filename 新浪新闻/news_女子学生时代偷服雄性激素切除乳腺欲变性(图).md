@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：大河网-河南商报
+## 来源：大河网-河南商报 { data-search-exclude }
 
 ### 时间：2006.07.12 05:01
 
@@ -121,7 +121,7 @@
 
 ---
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
 ![](https://tp3.sinaimg.cn/1392597202/50/0/1)
 

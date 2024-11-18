@@ -39,7 +39,7 @@
 主题
 -   [LGBT权利](/zh-hans/topic/lgbtquanli)
 
-## 更多报导
+## 更多报导 { data-search-exclude }
 
 -   2017年 05月 24日 信件
     

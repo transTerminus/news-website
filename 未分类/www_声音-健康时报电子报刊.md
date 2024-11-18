@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 声音
+## 声音 { data-search-exclude }
 
 ### 健康时报综合
 

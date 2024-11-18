@@ -26,7 +26,7 @@
 
 民主黨領袖們譴責這種侵犯美國公民自由的行為，而抗議者則經常走上州議會大廈譴責共和黨的作為。（譯者：張茗喧/核稿：嚴思祺）1120518
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#迪尚特](https://www.cna.com.tw/tag/11575/)
 - [#德州](https://www.cna.com.tw/tag/18621/)
 - [#共和黨](https://www.cna.com.tw/tag/22722/)

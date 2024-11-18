@@ -33,7 +33,7 @@
 
 ![林口長庚「性別置換醫療團隊」發表台灣跨性別手術的最新進展—3D內視鏡取腸併隱痕女陰成型術。](https://cdn2.ettoday.net/images/7536/d7536640.jpg)
 
-## 關鍵字：
+## 關鍵字： { data-search-exclude }
 
 - [跨性別手術](https://health.ettoday.net/search.phtml?keyword=跨性別手術) 
 - [陰道重建](https://health.ettoday.net/search.phtml?keyword=陰道重建) 

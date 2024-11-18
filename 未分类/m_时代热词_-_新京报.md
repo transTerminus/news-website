@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 时代热词
+## 时代热词 { data-search-exclude }
 
 **来源:** 新京报  
 **日期:** 2010-05-15 01:44  

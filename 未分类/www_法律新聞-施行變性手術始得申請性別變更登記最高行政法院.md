@@ -19,7 +19,7 @@
 
 此外，原判決將申請性別變更的戶籍登記，限縮於生理性別變更的情形始得為之，增加[戶籍法第２１條](https://db.lawbank.com.tw/FLAW/FLAWQRY03.aspx?lno=21&lsid=FL002320)所未規定的條件，不當排除自我性別認同與生理性徵不符者，申請變更性別登記的可能性，且出生時登記的性別與新生兒生殖器外觀或嗣後提出染色體檢驗報告不符等事例，均屬原登記性別錯誤，應依[同法第２２條](https://db.lawbank.com.tw/FLAW/FLAWQRY03.aspx?lno=22&lsid=FL002320)規定申請更正，非屬適用[同法第２１條](https://db.lawbank.com.tw/FLAW/FLAWQRY03.aspx?lno=21&lsid=FL002320)規定申請變更的情形，自有適用法規不當而違背法令，因此將原判決廢棄，發回高等行政訴訟庭，另為適法裁判。
 
-## 相 關 資 料
+## 相 關 資 料 { data-search-exclude }
 
 - [戶籍法 第 1,4,6,21,51,52 條](https://db.lawbank.com.tw/FLAW/FLAWQRY03.aspx?lno=1%2c4%2c6%2c21%2c51%2c52&lsid=FL002320)
 - [戶籍法施行細則 第 13,15 條](https://db.lawbank.com.tw/FLAW/FLAWQRY03.aspx?lno=13%2c15&lsid=FL002321)

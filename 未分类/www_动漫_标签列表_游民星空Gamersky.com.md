@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 当前标签：动漫
+## 当前标签：动漫 { data-search-exclude }
 
 - ![](https://imgs.gamersky.com/upimg/new_preview/2024/11/12/origin_b_202411122034328631.jpg)
   - [童年女神归来!《猫眼三姐妹》动画将迎来重制](https://www.gamersky.com/news/202411/1844152.shtml "童年女神归来!《猫眼三姐妹》动画将迎来重制")

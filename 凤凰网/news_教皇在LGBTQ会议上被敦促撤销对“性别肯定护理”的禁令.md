@@ -27,13 +27,13 @@ LGBTQ团体严厉批评了梵蒂冈的这份文件，并表示教义办公室在
 
 ![教皇在LGBTQ会议上被敦促撤销对“性别肯定护理”的禁令](https://x0.ifengimg.com/ucms/2024_42/CFB24E1E192E31D81B5BC573E22718D5151F210F_size71_w1080_h119.png)
 
-## 时间
+## 时间 { data-search-exclude }
 2024年10月12日
 
-## 来源
+## 来源 { data-search-exclude }
 路透社
 
-## 评论
+## 评论 { data-search-exclude }
 ##### 参与：265人  
 ##### 评论数量：25
 

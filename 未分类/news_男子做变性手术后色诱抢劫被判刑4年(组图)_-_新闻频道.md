@@ -65,7 +65,7 @@
 
 ---
 
-## 热词：
+## 热词： { data-search-exclude }
 - [张海龙](http://search.cntv.cn/netall/index.shtml?qtext=张海龙)
 - [色诱](http://search.cntv.cn/netall/index.shtml?qtext=色诱)
 - [张娟娟](http://search.cntv.cn/netall/index.shtml?qtext=张娟娟)

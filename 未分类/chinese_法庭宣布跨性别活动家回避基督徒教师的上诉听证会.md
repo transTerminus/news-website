@@ -35,7 +35,7 @@
 
 上个月，埃迪法官裁定，英国《平等法》保护基督徒不赞同跨性别主义，但他们不能在工作场所表达这些信念。该判决涉及一名基督徒医生，他的工作合同因其拒绝将一名男性称为女性而被终止。
 
-## 相关文章
+## 相关文章 { data-search-exclude }
 
 - [英国医疗组织撤销对提供堕胎逆转治疗的医生的指控](https://chinese.christianpost.com/news/uk-general-medical-council-drops-case-against-doctor-who-uses-abortion-pill-reversals.html)  
   ![](https://cdn-chinese.christianpost.com/files/cache/thumbnail/2/68/26825_a_85_85.jpg)

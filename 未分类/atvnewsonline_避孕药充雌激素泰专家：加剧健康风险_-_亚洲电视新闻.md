@@ -11,7 +11,7 @@
 
 ![](https://www.facebook.com/tr?id=1597951911044733&ev=PageView&noscript=1)
 
-## 正文
+## 正文 { data-search-exclude }
 
 避孕药充雌激素 泰专家：加剧健康风险
 

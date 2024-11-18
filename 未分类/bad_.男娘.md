@@ -13,7 +13,7 @@ Bad.news App
 
 [点击下载](/app/download)
 
-## 热门标签
+## 热门标签 { data-search-exclude }
 - [有趣](#)
 - [千古一帝](#)
 - [合订本](#)

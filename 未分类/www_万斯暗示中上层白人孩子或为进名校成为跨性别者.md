@@ -7,7 +7,7 @@
 
 ![倍可亲](https://quickchart.io/chart?cht=qr&chs=75x75&chl=https://www.backchina.com/news/2024/11/02/941857.html)
 
-## 万斯暗示中上层白人孩子或为进名校成为跨性别者
+## 万斯暗示中上层白人孩子或为进名校成为跨性别者 { data-search-exclude }
 
 来源：倍可亲(backchina.com)
 

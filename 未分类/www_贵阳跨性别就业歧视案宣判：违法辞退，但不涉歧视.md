@@ -13,7 +13,7 @@
 
 某广东跨性别人士表示，“从反歧视的角度来说，可能并不能算是胜利。因为法院并没有认定这是一个歧视。”
 
-## 相关时间线
+## 相关时间线 { data-search-exclude }
 
 - **事件**: [Chinese transgender man wins landmark wrongful dismissal case](https://www.business-humanrights.org/en/latest-news/chinese-transgender-man-wins-landmark-wrongful-dismissal-case/)  
   **日期**: 2017年1月3日  

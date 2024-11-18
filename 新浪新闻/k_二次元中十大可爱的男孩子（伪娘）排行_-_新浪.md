@@ -5,7 +5,7 @@
 
 ![](https://n.sinaimg.cn/sinacn02/360/w180h180/20181003/91e7-hkrzvkv5670889.jpg)
 
-## 动漫种籽君
+## 动漫种籽君 { data-search-exclude }
 
 2018.03.06 14:07
 

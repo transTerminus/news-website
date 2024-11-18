@@ -23,7 +23,7 @@
 
 不过，中国大陆LGBT群体当中的女性表示，她们想要像台湾人一样获得这种权利，还有很长的路要走。
 
-## 家庭与边境的双重阻力
+## 家庭与边境的双重阻力 { data-search-exclude }
 
 虽然中国政府从1997年开始不再将同性恋定为犯罪，但是这个国家的LGBT群体仍然受到歧视，而最近的一些发展显示，当局对于这个少数群体的敌意有上升的迹象。
 
@@ -85,7 +85,7 @@
 
 今年较早前，刘婷搬到了中国大陆，与杨夕生活在一起。在中国内地，作为LGBT伴侣的生活，对她们来说非常不一样。
 
-## 两个世界
+## 两个世界 { data-search-exclude }
 
 “台湾的LGBT群体发展得更加成熟，而在媒体和各个LGBT组织几十年的维权之后，保护人们免受歧视的新措施和法则已经开始实行，”刘婷说。
 
@@ -107,7 +107,7 @@ Play video, "台湾同志伴侣领证首日 “家人送上心酸祝福”", 节
 
 虽然各种证据表明，对于LGBT群体的敌意和不接受正在加强，但中国政府和官方媒体却在社交媒体上发布了一系列帖文和公开声明，说他们支持台湾的最新立法。
 
-## 态度在改变吗？
+## 态度在改变吗？ { data-search-exclude }
 
 上周五（5月17日），《人民日报》的官方推特（Twitter）帐户[用英文发帖](https://twitter.com/PDChina/status/1129282711695314944)称“中国台湾的地方立法委员通过亚洲第一部同性婚姻法”，并附上了一张写着“love is love（爱就是爱）”的彩虹动画图片。
 
@@ -125,7 +125,7 @@ Play video, "台湾同志伴侣领证首日 “家人送上心酸祝福”", 节
 
 “作为活动人士，哪里有不公，哪里就有斗争。我有机会在中国去为我们的权利奋斗，而我不会放弃这个机会。”
 
-## 相关主题内容
+## 相关主题内容 { data-search-exclude }
 
 - [人权](/zhongwen/simp/topics/c0x6y0512ryt)
 - [台湾](/zhongwen/simp/topics/c50nzmy3vent)
@@ -133,7 +133,7 @@ Play video, "台湾同志伴侣领证首日 “家人送上心酸祝福”", 节
 - [中國](/zhongwen/simp/topics/cv85rd690y1t)
 - [LGBT](/zhongwen/simp/topics/czp1qexpdlzt)
 
-## 更多相关内容
+## 更多相关内容 { data-search-exclude }
 
 ![.](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/D710/production/_107065055_gettyimages-1144529733.jpg.webp)
 
@@ -171,9 +171,9 @@ Play video, "台湾同志伴侣领证首日 “家人送上心酸祝福”", 节
 
 2019年5月18日    
 
-## 头条新闻
+## 头条新闻 { data-search-exclude }
 
-## 热读
+## 热读 { data-search-exclude }
 
 1. [中国珠海体育中心袭击致35死　警察称嫌犯对“离婚后财产分割结果不满”](https://www.bbc.com/zhongwen/articles/cn0d904gwdwo/simp)
 2. [郑州大学生夜骑开封导致“封校”： “跟疫情期间一样”](https://www.bbc.com/zhongwen/articles/c20nedx95rno/simp)

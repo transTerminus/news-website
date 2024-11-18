@@ -1,4 +1,4 @@
-我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！_澎湃新闻_ThePaper
+# 我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！_澎湃新闻_ThePaper
 
 ![跨性别群体](https://image.thepaper.cn/www/publish/interaction/image/5/341/503.png)
 
@@ -7,7 +7,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - 遭电击治疗，一位跨性别者决定起诉
 

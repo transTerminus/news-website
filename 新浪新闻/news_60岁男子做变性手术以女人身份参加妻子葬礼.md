@@ -5,7 +5,7 @@
 
 ![60岁男子做变性手术 以女人身份参加妻子葬礼](//k.sinaimg.cn/n/news/crawl/20160515/V3ax-fxsenvm0438348.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-## 正文
+## 正文 { data-search-exclude }
 
 今年72岁的老太太Margaret Pepper原来是一名叫Maurice的男性，以男性身份生活了几十年，在妻子因老年痴呆进了疗养院后，Margaret下定决心释放自己的天性，接受了变性手术。
 
@@ -15,19 +15,19 @@ Margaret称在婚姻生活中自己一直在试图掩饰自己对男性身体的
 
 2002年，Anita的病情恶化，被送进了疗养院，而此时此刻的Margaret想趁这个机会接受变性手术。在2004年，Margaret接受了全面变性手术，开始以一个女性的身份生活，甚至以新身份去疗养院看望妻子Anita，然而已经老年痴呆的Anita也完全认不出Margaret了。Anita在2010年去世，丈夫Margaret以一个女人的身份参加了妻子的葬礼，毫不避讳地在葬礼现场谈及妻子Anita过去是怎样的一个好母亲、好妻子。
 
-## 来源
+## 来源 { data-search-exclude }
 
 中国青年网
 
-## 发布时间
+## 发布时间 { data-search-exclude }
 
 2016.05.15 14:51
 
-## 责任编辑
+## 责任编辑 { data-search-exclude }
 
 赵家明 SN146
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 ![](https://tva2.sinaimg.cn/default/images/default_avatar_male_50.gif)  
 **燕赵之侠** 16  

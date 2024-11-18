@@ -21,7 +21,7 @@
 
 摄像制作：丹尼（Danny Vincent）／采访：林祖伟
 
-## 相关主题内容
+## 相关主题内容 { data-search-exclude }
 
 - [香港](/zhongwen/simp/topics/c4vmr03pyn6t)
 - [变性](/zhongwen/simp/topics/c4vmr082rv1t)

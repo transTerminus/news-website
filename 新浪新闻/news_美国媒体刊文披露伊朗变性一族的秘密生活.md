@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
-## 来源
+## 来源 { data-search-exclude }
 中国新闻网  
 **日期：** 2005.01.25 21:37
 
@@ -39,7 +39,7 @@
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **新浪网友0**  
 **评论：** 这个国家太恐怖了~  

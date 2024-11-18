@@ -18,13 +18,13 @@
 
 这组图片展示了一名男性在泰国的Yanhee医院接受变性手术的全过程。这名男子在很小的时候就希望自己能够变成女孩，近日他在泰国的Yanhee医院接受变性手术后终于完成了“她”的梦想。
 
-## 相关报道：
+## 相关报道： { data-search-exclude }
 
 - [香港公立医院遭“护士荒” 病人换尿片得等4小时](http://news.cntv.cn/map/20110424/104356.shtml) 2011-04-24
 
 **责任编辑：李中国**
 
-## 热词：
+## 热词： { data-search-exclude }
 
 - [变性手术](http://so.cntv.cn/search.php?qtext=变性手术&sid=0000&pid=0000)
 - [贝拉](http://so.cntv.cn/search.php?qtext=贝拉&sid=0000&pid=0000)

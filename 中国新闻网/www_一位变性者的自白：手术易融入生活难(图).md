@@ -13,7 +13,7 @@
 
 ---
 
-## 正文
+## 正文 { data-search-exclude }
 
 [中新网](http://www.chinanews.com/)太原6月18日电 题：一位变性者的自白：手术易融入生活难  
 

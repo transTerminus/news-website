@@ -11,28 +11,28 @@
 
 ---
 
-## 正文
+## 正文 { data-search-exclude }
 
 [相关图片]
 
 ---
 
-## 注释
+## 注释 { data-search-exclude }
 [注释内容]
 
 ---
 
-## 版权
+## 版权 { data-search-exclude }
 © 文化研究国际中心，保留所有权利。
 
 ---
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 [参考链接或资料]
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 [评论内容]
 
 ---  

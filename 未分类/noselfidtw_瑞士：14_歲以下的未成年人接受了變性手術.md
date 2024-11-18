@@ -26,26 +26,26 @@
 
 在 AMQG 的新聞稿中，他們強調了一個事實：瑞士社會極度否認有對兒童和青少年進行性別手術。因為在 2022 年 5 月，瑞士日內瓦一間頗具影響力的「支持跨性別兒童」機構「Le Refuge」的發言人聲稱，沒有任何瑞士兒童接受性別手術。
 
-## 标签
+## 标签 { data-search-exclude }
 - [瑞士](/regions/%e7%91%9e%e5%a3%ab/)
 - [兒童與青少年](/tags/%e5%85%92%e7%ab%a5%e8%88%87%e9%9d%92%e5%b0%91%e5%b9%b4/)
 - [兒少健康](/tags/%e5%85%92%e5%b0%91%e5%81%a5%e5%ba%b7/)
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 - [Switzerland: Minors, Including under 14s Have Undergone Sex-Change Operations](https://4w.pub/switzerland-minors-sex-change-operations/) 4W ([备份](https://archive.is/V99UV))
 - [年輕女患者在抖音上傳的術後胸部自拍影片，其觀看次數已破百萬。](https://www.tiktok.com/@bananashot7/video/7079330319383465221?is_copy_url=1&is_from_webapp=v1) Tiktok
 
-## 继续阅读
+## 继续阅读 { data-search-exclude }
 1. [瑞士：家長因拒絕讓患有其他精神疾病的女兒「變性」，親子遭國家兒福機構強行分離](https://noselfidtw.cc/news/swiss-authorities-take-teen-as-parents-refuse-to-endorse-gender/) 2024 年 07 月 16 日
 2. [瑞士：10 名 14 歲少女接受平胸手術 大型醫療院所皆宣稱不知情](https://noselfidtw.cc/news/switzerland-10-14-year-old-girls-undergo-mastectomy-surgery/) 2024 年 03 月 15 日
 3. [美國整形外科學會公開表示拒絕支持未成年變性醫療](https://noselfidtw.cc/news/asps-statement-to-press-regarding-gender-surgery-for-adolescents/) 2024 年 08 月 14 日
 4. [澳洲民調：逾 8 成新南威爾斯州居民強烈反對倉促通過「LGBTIQA+ 平等」法案](https://noselfidtw.cc/news/equality-bill-overwhelmingly-rejected-by-nsw-residents/) 2024 年 06 月 03 日
 5. [智利衛生部承認兒童變性研究有缺失，命公共衛生系統勿向新患者提供青春期阻斷劑或異性荷爾蒙](https://noselfidtw.cc/news/pubertad-interrumpida-ninos-trans-inician-tratamiento-hormonal/) 2024 年 05 月 29 日
 
-## 所有跨性別事件
+## 所有跨性別事件 { data-search-exclude }
 - [所有跨性別事件](https://noselfidtw.cc/news)
 
-## 专栏文章
+## 专栏文章 { data-search-exclude }
 - [全部文章](https://noselfidtw.cc/post)
 
 ## 摘要与附加信息

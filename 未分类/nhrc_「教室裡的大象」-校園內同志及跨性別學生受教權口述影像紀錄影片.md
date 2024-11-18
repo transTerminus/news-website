@@ -13,11 +13,11 @@
 
 - **上版日期**：111-12-12
 
-## 相關影音
+## 相關影音 { data-search-exclude }
 
 [![「教室裡的大象」-校園內同志及跨性別學生受教權口述影像紀錄影片](https://img.youtube.com/vi/nV7dbvfA1e8/0.jpg)](https://www.youtube.com/embed/nV7dbvfA1e8 "點擊前往 [另開新視窗]「教室裡的大象」-校園內同志及跨性別學生受教權口述影像紀錄影片")
 
-## 更新資訊
+## 更新資訊 { data-search-exclude }
 
 - **更新日期**：113-11-12
 - **瀏覽人次**：534

@@ -5,7 +5,7 @@
 
 ![白宫中性厕所](http://m.chinanews.com/fileftp/2015/05/2015-05-25/U524P891T32D3227F496DT20150525132415.jpg)
 
-## 正文
+## 正文 { data-search-exclude }
 
 白宫首次出现“中性厕所” 保障变性人群体权利
 

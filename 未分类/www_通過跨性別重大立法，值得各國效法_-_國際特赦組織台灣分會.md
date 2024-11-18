@@ -17,13 +17,13 @@
 
 ---
 
-## 內容
+## 內容 { data-search-exclude }
 
 （此处填入正文内容）
 
 ---
 
-## 參考資料
+## 參考資料 { data-search-exclude }
 
 1. [資料來源1](http://example.com/source1)
 2. [資料來源2](http://example.com/source2)

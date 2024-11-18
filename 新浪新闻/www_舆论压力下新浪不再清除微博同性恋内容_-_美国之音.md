@@ -20,7 +20,7 @@
 
 继新浪宣布所谓游戏动漫清理行动两天后，微博社区周一发出公告说，清理对象不再针对同性恋内容。
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 - ![中国父母：当我得知孩子是同性恋后](https://gdb.voanews.com/4749a158-0f2f-444d-a123-dfdbf9d40690_tv_b1_w100_r1.jpg)
 - ![中国父母：当我得知孩子是同性恋后](https://gdb.voanews.com/4749a158-0f2f-444d-a123-dfdbf9d40690_tv_b1_w144_r1.jpg)

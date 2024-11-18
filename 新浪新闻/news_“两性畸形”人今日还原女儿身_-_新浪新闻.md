@@ -5,7 +5,7 @@
 
 _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
-## 汉网-长江日报
+## 汉网-长江日报 { data-search-exclude }
 
 **时间**: 2010.01.05 02:07  
 **作者**: 记者傅克强  

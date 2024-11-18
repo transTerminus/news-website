@@ -133,7 +133,7 @@
 
 愿体育比赛越来越公平，愿最好的运动员获得胜利。
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
 \[1\] Hilton, E. N., & Lundberg, T. R. (2020). Transgender women in the female category of sport: perspectives on testosterone suppression and performance advantage. Sports Medicine, 1-16.  
 \[2\] Roberts, T. A., Smalley, J., & Ahrendt, D. (2021). Effect of gender affirming hormones on athletic performance in transwomen and transmen: implications for sporting organisations and legislators. British journal of sports medicine, 55(11), 577-583.  

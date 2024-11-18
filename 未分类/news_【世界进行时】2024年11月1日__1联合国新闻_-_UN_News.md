@@ -9,7 +9,7 @@
 日期: 2024年11月1日  
 标签: [和平与安全](https://news.un.org/zh/news/topic/peace-and-security)
 
-## 本期要点
+## 本期要点 { data-search-exclude }
 - 安理会警告，近东救济工程处不可替代；
 - 联大连续第32年要求终结美国对古巴的封锁；
 - 22个国家被列为饥饿热点地区；

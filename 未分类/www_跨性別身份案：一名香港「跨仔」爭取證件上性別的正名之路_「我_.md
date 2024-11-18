@@ -17,7 +17,7 @@
 
 ---
 
-## 相關評論
+## 相關評論 { data-search-exclude }
 
 - **Woy Felia**  
   係呀  

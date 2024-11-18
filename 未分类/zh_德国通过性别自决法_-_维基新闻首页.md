@@ -40,7 +40,7 @@
 
 ---
 
-## 消息来源
+## 消息来源 { data-search-exclude }
 
 - 沈禄佩，[德国通过《性别自决法》 简化更改性别、姓名程序](https://news.pts.org.tw/article/690475)，[公视](https://zh.wikipedia.org/wiki/%E5%85%AC%E8%A6%96 "w:公视")，2024年4月15日。
 - Jessica Parker，[Germany eases gender change rules](https://www.bbc.com/news/world-europe-68801392)，[BBC](https://zh.wikipedia.org/wiki/BBC "w:BBC")，2024年4月15日。

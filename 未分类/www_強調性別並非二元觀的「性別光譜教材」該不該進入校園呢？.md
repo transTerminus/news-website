@@ -7,7 +7,7 @@
 
 ---
 
-## 重要信息
+## 重要信息 { data-search-exclude }
 
 - 作者: 青春發言人
 - 來源: [Facebook](https://www.facebook.com/ptsyouthnews/videos/1672941823002213)
@@ -20,13 +20,13 @@
 
 ---
 
-## 圖片
+## 圖片 { data-search-exclude }
 
 ![性別光譜教材](https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/18363926_1672942429668819_3311131360982204416_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=50ce42&_nc_ohc=jXCIMjiW9S4Q7kNvgHXJahQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AUMejmtGStLL_L9Twa0PWEj&oh=00_AYBicnk3dAC5zkTiG4uGOQqdcTT4Ih-aNJxMUsGIcC-eYg&oe=67398BC2)
 
 ---
 
-## 評論區
+## 評論區 { data-search-exclude }
 
 **莫銳:**
 我是建議改良傳統並行。在站上光譜前，先讓同學寫出自己覺得的刻板印象，且不先評價刻板的對錯。
@@ -40,7 +40,7 @@
 **评论:** 4  
 **观看次数:** 2K
 
-## 社交媒体信息
+## 社交媒体信息 { data-search-exclude }
 
 - [青春發言人 官方账号](https://www.facebook.com/ptsyouthnews?__tn__=-UC)  
 - 标签: 性别、德育、教育、青少年

@@ -7,7 +7,7 @@
 
 **時間**：2022/01/09 20:59
 
-## 相關新聞請見：
+## 相關新聞請見： { data-search-exclude }
 
 [變性者首度參加女子泳賽 破紀錄「海放」選手引爭議](http://news.ltn.com.tw/news/world/breakingnews/3762393)
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 版權信息
+## 版權信息 { data-search-exclude }
 
 **來源**：自由時報電子報  
 **編輯**：陳成良  

@@ -9,7 +9,7 @@
 
 **时间**: 2024.05.29
 
-## [底特律将举办世界首场酷儿国际艺术双年展](/news/15135)
+## [底特律将举办世界首场酷儿国际艺术双年展](/news/15135) { data-search-exclude }
 
 全球首个酷儿国际艺术双年展将于5月31日在底特律开幕。双年展主题为“我将是你的镜子：反思当代酷儿”（I’ll Be Your Mirror: Reflections of the Contemporary Queer），由非营利组织Mighty Real/Queer Detroit (MRQD)主办。展览将持续至6月30日，与骄傲月同期举行。约170名本地、美国和国际艺术家将在11个场地展出800多件作品。
 
@@ -19,12 +19,12 @@
 
 ![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 
 - [更多图片](#)
 - [新闻 NEWS](/news) 
 
-## 版权与来源
+## 版权与来源 { data-search-exclude }
 
 - 来源: artforum.com.cn
 

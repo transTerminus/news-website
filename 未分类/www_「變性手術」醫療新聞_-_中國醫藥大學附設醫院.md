@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 最新消息
+## 最新消息 { data-search-exclude }
 
 ### 性別重置手術（變性手術）-陰莖成形術
 ![性別重置手術（變性手術）-陰莖成形術](/FileUploads/News/20211208_185419.jpg?w=320&h=180&mode=crop)  

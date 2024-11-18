@@ -23,17 +23,17 @@
 
 “在未来修法时，越南应遵循《日惹原则》和日渐形成的医学共识，即不应以手术做为改变个人性别身分的前提，”狄崔奇说。“越南跨性别人士应有权决定自己是什么人。”
 
-## 信息来源
+## 信息来源 { data-search-exclude }
 
 - **日期**: 2015年11月24日  
 - **来源**: [人权观察 (Human Rights Watch)](https://www.hrw.org/zh-hans)  
 - **标签**:  [LGBT权利](/zh-hans/topic/lgbtquanli)
   
-## 图片
+## 图片 { data-search-exclude }
 
 ![越南跨性别人权迈进一步](https://www.hrw.org/sites/default/files/styles/square/public/media_2024/202407lgbt_south%20korea_same_sex_partnership.jpg?h=7fae167d&itok=vYgSQSIX)
 
-## 更多报导
+## 更多报导 { data-search-exclude }
 
 - 2024年 07月 23日: [韩国最高法院肯定同性伴侣权利](https://www.hrw.org/zh-hans/news/2024/07/23/south-koreas-supreme-court-affirms-rights-same-sex-partners)  
   

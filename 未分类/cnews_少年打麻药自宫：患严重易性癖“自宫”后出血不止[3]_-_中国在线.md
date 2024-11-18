@@ -9,7 +9,7 @@
 **来源：中国青年网**  
 **时间：2017-04-07 10:27:16**
 
-## 医生说法
+## 医生说法 { data-search-exclude }
 
 **重新缝合睾丸已不可能 雌激素不能乱打**
 
@@ -19,7 +19,7 @@
 
 自行手术则更加危险，众所周知，手术均需要严格的无菌环境和熟练的操作。稍加不慎就会有生命危险。术后也需要进行生命体征的观察以防止造成感染，切忌效仿影视或小说作品上“一刀了事”。
 
-## 怎样才能实现变性？
+## 怎样才能实现变性？ { data-search-exclude }
 
 记者查阅了2009年国家卫计委（当时叫卫生部）办公厅办法的《变性手术技术管理规范（试行） 》（卫办医政发〔2009〕185号 ），发现变性手术需要满足的材料和条件有以下几条：
 
@@ -38,7 +38,7 @@
    - （4）年龄大于20岁，是完全民事行为能力人。
    - （5）无手术禁忌证。
 
-## 标签
+## 标签 { data-search-exclude }
 - [自宫](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E8%87%AA%E5%AE%AB)
 - [易性癖](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E6%98%93%E6%80%A7%E7%99%96)
 - [打麻药](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E6%89%93%E9%BA%BB%E8%8D%AF)

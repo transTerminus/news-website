@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 阅读、写作与收藏酷儿文学
+## 阅读、写作与收藏酷儿文学 { data-search-exclude }
 
 ---
 

@@ -5,7 +5,7 @@
 
 ![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
 
-## 环球时报
+## 环球时报 { data-search-exclude }
 
 环球时报官方账号 2015.11.06 15:01
 

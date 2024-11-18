@@ -11,23 +11,23 @@
 
 ---
 
-## 正文
+## 正文 { data-search-exclude }
 
 凯特琳·詹纳 (Caitlyn Jenner) 并不认为自己是跨性别活动家。
 
 ---
 
-## 图片
+## 图片 { data-search-exclude }
 ![相关图片描述](图片链接)
 
 ---
 
-## 注释
+## 注释 { data-search-exclude }
 - [相关注释或说明]
   
 ---
 
-## 表格
+## 表格 { data-search-exclude }
 | 标题  | 内容  |
 |-------|-------|
 | 示例1 | 值1  |
@@ -35,13 +35,13 @@
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 - [评论1]
 - [评论2]
 
 ---
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 - [参考文献1](链接)
 - [参考文献2](链接)
 

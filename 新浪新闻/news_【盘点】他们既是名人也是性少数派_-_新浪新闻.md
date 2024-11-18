@@ -5,7 +5,7 @@
 
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：新京报
+## 来源：新京报 { data-search-exclude }
 
 **时间：2014.12.19 23:28**
 

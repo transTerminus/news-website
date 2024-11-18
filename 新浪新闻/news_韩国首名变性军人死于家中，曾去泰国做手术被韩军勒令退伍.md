@@ -5,7 +5,7 @@
 
 ![韩国变性军人边某](//n.sinaimg.cn/sinacn17/174/w87h87/20180315/2b0c-fyshfup8142498.jpg)
 
-## 海外网
+## 海外网 { data-search-exclude }
 
 ### 2021.03.04 11:35
 
@@ -31,7 +31,7 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **玲动天地** 0  
 **想当女兵**  

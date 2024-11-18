@@ -5,7 +5,7 @@
 
 _![](https://n.sinaimg.cn/sinacn10202/360/w180h180/20191012/be00-ifvwfti7819596.jpg)_
 
-## 漫饭队长
+## 漫饭队长 { data-search-exclude }
 
 原创作者 2018.11.26 21:00
 

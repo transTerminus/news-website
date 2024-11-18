@@ -25,7 +25,7 @@
 
 从各个角度来看，这都是一个值得长期关注和思考的社会文化议题。
 
-## 参考链接：
+## 参考链接： { data-search-exclude }
 
 1. [‘All the details that were missing’: Harry Potter fans on their hopes for TV series](https://www.theguardian.com/books/2023/apr/09/harry-potter-fans-react-tv-series-hbo-max-reports-jk-rowling-gender)
 2. [‘Harry Potter’ TV Series For HBO Max Inching Closer To Reality With JK Rowling In Talks To Produce](https://deadline.com/2023/04/harry-potter-tv-series-hbo-max-jk-rowling-produce-1235317141/)
@@ -40,7 +40,7 @@
 
 原来如是
 
-## 评论：
+## 评论： { data-search-exclude }
 
 - 用户：浙江网友（2023年4月12日）
   - “罗琳的三观很正！她的言论完全正确，西方的所谓政治正确已经走向一种变态的极端，令人厌恶！”

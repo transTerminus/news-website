@@ -5,7 +5,7 @@
 
 ![变性警官兰姆](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9e3d-a05f6ddd254e5cdd10ca68236965ec4d.jpg)
 
-## 来源：光明日报
+## 来源：光明日报 { data-search-exclude }
 **作者**：本报驻伦敦记者 张晓  
 **时间**：2002.12.17 10:24  
 
@@ -21,7 +21,7 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 **新浪网友0**  
 **kkk**  
 **2002-12-17**

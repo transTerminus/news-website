@@ -5,10 +5,10 @@
 
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源
+## 来源 { data-search-exclude }
 中国新闻网
 
-## 时间
+## 时间 { data-search-exclude }
 2015.03.23 10:35
 
 中新网3月23日电 据外媒报道，日本性别认同障碍学会决定，将设置专业医生认证制度，以培养更多医生，投入性别认同障碍的领域当中。

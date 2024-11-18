@@ -25,16 +25,16 @@
 
 彭治鏐指出，透過調查可以發現，台灣社會對跨性別者的理解不夠，進一步分析，親友支持度的高低影響跨性別者生活各面向，因此性別平等教育如何增進親友、社會大眾更認識跨性別是需要繼續努力的，另外也建議公共空間增設不以性別為區隔的性別友善空間、政府與企業合作打造跨性別友善職場，政府應降低跨性別者變更法定性別門檻等。（編輯：方沛清）1130118
 
-## 來源
+## 來源 { data-search-exclude }
 - 中央社
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#台灣](https://www.cna.com.tw/tag/4999/)
 - [#公廁](https://www.cna.com.tw/tag/5411/)
 - [#跨性別](https://www.cna.com.tw/tag/17699/)
 - [#彭治鏐](https://www.cna.com.tw/tag/40789/)
 
-## 延伸閱讀
+## 延伸閱讀 { data-search-exclude }
 - [日本政府對跨性別公務員使用女廁設限 最高院認違法](https://www.cna.com.tw/news/aopl/202307110232.aspx)
 - [專訪／台灣第一人 黃色旋「瘋」妮妃雅闖魯保羅變裝秀](https://www.cna.com.tw/news/ahel/202312190044.aspx)
 - [法國小姐后冠罕見由短髮女孩摘下 輿論評價兩極](https://www.cna.com.tw/news/aopl/202312190087.aspx)
@@ -43,7 +43,7 @@
 - [教宗為祝福同性伴侶辯護 稱抗拒者都出於不了解](https://www.cna.com.tw/news/aopl/202401150121.aspx)
 - [首例跨性別男性免術變更性別登記 尼莫：人生新篇章](https://www.cna.com.tw/news/asoc/202407190195.aspx)
 
-## 版權聲明
+## 版權聲明 { data-search-exclude }
 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。
 
 ## 摘要与附加信息

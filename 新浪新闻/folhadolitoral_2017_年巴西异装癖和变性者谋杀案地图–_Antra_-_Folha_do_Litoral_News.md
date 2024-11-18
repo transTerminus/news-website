@@ -27,7 +27,7 @@ Antra的数据显示，2017年全国共发生179起谋杀案
 
 ---
 
-## 社论
+## 社论 { data-search-exclude }
 
 © Folha do Litoral 2024 版权所有
 

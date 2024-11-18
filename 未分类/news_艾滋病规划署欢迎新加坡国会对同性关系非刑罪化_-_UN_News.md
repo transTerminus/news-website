@@ -7,7 +7,7 @@
 
 © Jnzl
 
-## 正文
+## 正文 { data-search-exclude }
 
 2022年12月1日 [人权](/zh/news/topic/human-rights)
 
@@ -21,13 +21,13 @@
 
 巴卡利最后说道：“新加坡废除殖民时期的惩罚性法律一举将激励其他国家效仿。很明确的一点是，如果我们要保护每个人的健康，就必须废除此类有害的法律。”
 
-## 订阅与下载
+## 订阅与下载 { data-search-exclude }
 
 直接通过您的邮箱接收每日更新 [**点击此处订阅相关主题**](https://news.un.org/zh/content/un-newsletter-subscribe?utm_source=UN News&utm_medium=email&utm_campaign=un_news_newsletter)
 
 下载适用于您的[**iOS**](https://itunes.apple.com/us/app/un-news-reader/id496893005?mt=8 "(opens in a new window)")或[**Android**](https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en "(opens in a new window)")设备的联合国新闻应用程序
 
-## 标签
+## 标签 { data-search-exclude }
 
 - [艾滋病规划署](/zh/tags/aizibingguihuashu)
 - [新加坡](/zh/tags/xinjiapo)

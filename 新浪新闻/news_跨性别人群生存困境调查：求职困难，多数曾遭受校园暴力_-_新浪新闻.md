@@ -5,7 +5,7 @@
 
 ![跨性别者](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
-## 来源
+## 来源 { data-search-exclude }
 澎湃新闻  
 2020.02.22 06:41  
 [原文链接](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B)

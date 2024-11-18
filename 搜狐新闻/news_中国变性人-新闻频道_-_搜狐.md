@@ -5,7 +5,7 @@
 
 ![banner](https://images.sohu.com/ccc.gif)
 
-## 新闻列表
+## 新闻列表 { data-search-exclude }
 
 - [西安女子欲变性为男 称最开心切掉胸前乳房(图)](https://news.sohu.com/20041117/n223033616.shtml) (11/17 14:35)
 - [32岁男子下周“动工”变女人 以后基本无性需求](https://news.sohu.com/20041028/n222721179.shtml) (10/28 00:42)
@@ -65,7 +65,7 @@
 - [重庆变性人整容手术成功 变脸百分百“美眉”](https://news.sohu.com/2004/01/14/80/news218518098.shtml) (01/14 10:39)
 - [全国首例女变男的变性人在四川领取结婚证(图)](https://news.sohu.com/2003/12/31/71/news217697130.shtml) (12/31 10:15)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 [版权所有](https://www.sohu.com/about/copyright.html)
 
 ## 摘要与附加信息

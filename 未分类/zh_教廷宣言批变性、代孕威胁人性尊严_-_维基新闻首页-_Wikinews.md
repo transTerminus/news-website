@@ -31,7 +31,7 @@
 
 ---
 
-## 消息来源
+## 消息来源 { data-search-exclude }
 
 - 新闻稿：[Declaration of the Dicastery for the Doctrine of the Faith “Dignitas Infinita” on Human Dignity， 08.04.2024](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/04/08/240408c.html)，[Bollettino Sala Stampa della Santa Sede](https://zh.wikipedia.org/wiki/Bollettino_Sala_Stampa_della_Santa_Sede "w:Bollettino Sala Stampa della Santa Sede")，2024年4月13日。
 - [The Vatican’s new statement on trans rights undercuts its attempts at inclusion](https://www.vox.com/24126650/vatican-dignity-trans-rights-gender-affirming-surgeries)，[科时媒体](https://zh.wikipedia.org/wiki/%E7%A7%91%E6%99%82%E5%AA%92%E9%AB%94 "w:科时媒体")，2024年4月13日。

@@ -7,7 +7,7 @@
 
 ![加拿大家园](https://www.iask.ca/wp-content/uploads/2022/01/iaskca_logo.jpg)
 
-## OOPS... 这里是米勒星球!
+## OOPS... 这里是米勒星球! { data-search-exclude }
 
 抱歉, 页面已经不存在. 请用下方按钮返回首页，或者浏览最新新闻。
 

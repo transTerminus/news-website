@@ -5,7 +5,7 @@
 
 ---
 
-## 网页信息
+## 网页信息 { data-search-exclude }
 
 **来源**: www.dgbas.gov.tw  
 **客户端 IP**: 169.233.125.50  

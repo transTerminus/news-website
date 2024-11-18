@@ -18,7 +18,7 @@
 
 **编辑:** 程娟  
 
-## 相关报道
+## 相关报道 { data-search-exclude }
 
 - [一山容不了二虎 小S和利菁争当综艺一姐闹不和](http://www.chinanews.com.cn/yl/zyxw/news/2007/10-18/1052924.shtml)  
 - [金钟奖又闹风波 张菲选林志玲搭档惹怒利菁(图)](http://www.chinanews.com.cn//news/2005/2005-10-20/8/640873.shtml)  

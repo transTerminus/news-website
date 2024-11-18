@@ -5,7 +5,7 @@
 
 ![图片](//n.sinaimg.cn/sinakd10220/360/w180h180/20221207/42fa-6953b46acba4f12244f68d5af43accf2.jpg)
 
-## 来源
+## 来源 { data-search-exclude }
 上游新闻  
 《重庆晨报》官方账号  
 2005.01.11 12:05

@@ -22,7 +22,7 @@
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 请您评论：  
 [查看评论](http://comment.chinanews.com.cn/comments/comments.php?newsid=1274289)  
 [进入社区](http://bbs.chinanews.com.cn)
@@ -31,7 +31,7 @@
 
 ---
 
-## 相关报道
+## 相关报道 { data-search-exclude }
 - [利菁微胖现身 自曝入院时差点被老公害死(图)](http://www.chinanews.com.cn/yl/zyxw/news/2008/02-21/1169212.shtml)
 - [利菁手术成功已可进食 最快3天内出院](http://www.chinanews.com.cn/yl/mxzz/news/2008/02-03/1156635.shtml)
 - [利菁动手术切除脑瘤 带80个护身符进手术室(图)](http://www.chinanews.com.cn/yl/zyxw/news/2008/02-01/1153666.shtml)

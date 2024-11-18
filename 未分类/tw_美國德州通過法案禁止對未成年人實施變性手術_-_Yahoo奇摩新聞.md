@@ -24,7 +24,7 @@
 
 民主黨領袖們譴責這種侵犯美國公民自由的行為，而抗議者則經常走上州議會大廈譴責共和黨的作為。（譯者：張茗喧/核稿：嚴思祺）1120518
 
-## 相關內容
+## 相關內容 { data-search-exclude }
 
 - ![](https://s.yimg.com/bt/api/res/1.2/.qHWbPOwuv6NjpVmpnOqJg--~B/Zmk9ZmlsbDtweW9mZj01MDtweG9mZj01MDt3PTUxNDtoPTI4ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/cv/apiv2/sportslottery/Sports_lottery_Mobile.png.cf.webp)  
   新聞專題  

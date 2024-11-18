@@ -39,7 +39,7 @@
 
 ![身着女装的樊其辉](https://thumb.artron.net/Img/image?c=0&h=0&src=https%3A%2F%2Fwximg1.artimg.net%2Fnews%2F201010%2F2010101416072697633.jpg&w=600)
 
-## 标签
+## 标签 { data-search-exclude }
 
 [服装设计](http://artso.artron.net/news/search_newslist.php?keyword=%E6%9C%8D%E8%A3%85%E8%AE%BE%E8%AE%A1)  
 [樊其辉](http://artso.artron.net/news/search_newslist.php?keyword=%E6%A8%8A%E5%85%B6%E8%BE%89)

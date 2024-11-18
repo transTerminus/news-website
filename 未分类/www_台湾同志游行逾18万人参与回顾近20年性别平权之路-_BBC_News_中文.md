@@ -19,19 +19,19 @@
 
 **拍摄、剪辑**: 李洛
 
-## 相关内容:
+## 相关内容: { data-search-exclude }
 
 - [替许家蓓“说一个完整的故事” 专访台湾立法委员吴沛忆](/zhongwen/simp/chinese-news-69441788)
 - [香港同志运动会在争议声中开幕：你可能关注的五个看点](/zhongwen/simp/chinese-news-67295435)
 - [台湾性小众政治人物破冰走上前台 但他们的战斗还未结束](/zhongwen/simp/chinese-news-69145603)
 - [中国一标志性同志机构“因不可抗力”关闭 性少数群体倍感“唇亡齿寒”](/zhongwen/simp/chinese-news-65656315)
 
-## 相关主题内容
+## 相关主题内容 { data-search-exclude }
 
 - [台湾](/zhongwen/simp/topics/c50nzmy3vent)
 - [LGBT](/zhongwen/simp/topics/czp1qexpdlzt)
 
-## 更多相关内容
+## 更多相关内容 { data-search-exclude }
 
 ![台湾立委吴沛忆](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/CEA6/production/_133620925_p0k06wc1.jpg.webp)
 

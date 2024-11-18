@@ -13,7 +13,7 @@
 
 这名身份证性别为男性的男子赵俊豪（Jonathan Teo Jun Hao），因协助大耳窿进行转账和骚扰欠债人，昨早认罪后被判坐牢六个月和罚款3万元。
 
-## 热词
+## 热词 { data-search-exclude }
 - [骚扰](https://www.zaobao.com.sg/keywords/sao-rao)
 
 ## 摘要与附加信息

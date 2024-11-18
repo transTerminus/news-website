@@ -3,14 +3,14 @@
 ## 正文 { data-search-exclude }
 
 
-## 重要信息
+## 重要信息 { data-search-exclude }
 
 - **时间**: 2005年12月29日 16:16
 - **来源**: [跨性别档案馆](http://sindy.jyzxw.net/)
 - **作者**: 未知
 - **编辑**: 未知
 
-## 正文
+## 正文 { data-search-exclude }
 
 **联系机构的内容** 
 
@@ -31,7 +31,7 @@
 
 | [阅读全文](show.asp?url=TechNews/d/2005-12-29/1541806461.shtml) |
 
-## 注释
+## 注释 { data-search-exclude }
 
 - **重要的链接**:
   - [链接1](http://sindy.jyzxw.net/)
@@ -40,17 +40,17 @@
 - **版权声明**: © All Rights Reserved
 - **技术支持**: [跨性别档案馆](http://sindy.jyzxw.net/)
 
-## 评论
+## 评论 { data-search-exclude }
 
 - 暂无评论。
 
-## 标签
+## 标签 { data-search-exclude }
 
 - 跨性别  
 - 社会  
 - 权利  
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - [跨性别档案馆](http://sindy.jyzxw.net/)  
 - [其他相关资料](http://www.jyzxw.net/)  

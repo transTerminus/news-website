@@ -12,10 +12,10 @@
 
 2012年2月10日，泰国芭提雅举行人妖秀，各色人妖闪亮登场，香艳表演令人垂涎欲滴。
 
-## 相关报道：
+## 相关报道： { data-search-exclude }
 - [西宁晚报数字报全新靓登场 网址：www.xnwbw.com](http://news.cntv.cn/20110426/105306.shtml) 2011-04-26
 
-## 热词：
+## 热词： { data-search-exclude }
 - [人妖秀](http://so.cntv.cn/search.php?qtext=人妖秀&sid=0000&pid=0000)
 - [闪亮登场](http://so.cntv.cn/search.php?qtext=闪亮登场&sid=0000&pid=0000)
 - [芭提雅](http://so.cntv.cn/search.php?qtext=芭提雅&sid=0000&pid=0000)

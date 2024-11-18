@@ -21,12 +21,12 @@ LPGA也透露，將在年底重新審視現有的性別規則，並在2025年實
 
 變性球員參加LPGA最大的優勢，就是開球距離，今年LPGA平均開球距離在270碼以上的只有17人。戴維森過去在接受採訪時曾提到她的開球距離大約245碼，根據LPGA的統計資格，在今年球季，245碼的開球距離大概排在所有球員的158名。
 
-## 標籤
+## 標籤 { data-search-exclude }
 - LPGA
 - 侯羽桑
 - 高爾夫
 
-## 來源
+## 來源 { data-search-exclude }
 - [聯合新聞網](https://udn.com/news/story/7005/8329095) 
 
 ![Image](https://pgw.udn.com.tw/gw/photo.php?u=http://uc.udn.com.tw/photo/2024/10/31/98/30818577.jpg&s=Y&x=0&y=0&sw=1277&sh=852&w=300)

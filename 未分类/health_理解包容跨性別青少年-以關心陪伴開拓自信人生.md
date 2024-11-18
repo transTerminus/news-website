@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 高雄市政府卫生局
+## 高雄市政府卫生局 { data-search-exclude }
 
 ![高雄市政府卫生局](https://orgws.kcg.gov.tw/001/KcgOrgUploadFiles/463/relpic/0/89595/9b27ff5b-084d-40de-b828-00b898996b28.jpg)
 

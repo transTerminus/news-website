@@ -27,14 +27,14 @@
 
 自罗琳公开发布针对跨性别群体言论以来，她多次因相关言论陷入争议，并表示遭遇过“死亡威胁”。截至发稿，罗琳本人未对视频事件进行回应，《独立报》从罗琳的代表处得知，罗琳后续将不会对这一事件发表评论。
 
-## 参考链接
+## 参考链接 { data-search-exclude }
 
 1. [Oxfam denies depicting JK Rowling as hateful woman wearing ‘Terf’ badge in Pride video](https://www.independent.co.uk/arts-entertainment/books/news/jk-rowling-oxfam-terf-gay-pride-b2352743.html)
 2. [What is Oxfam’s beef with JK Rowling?](https://www.spiked-online.com/2023/06/06/what-is-oxfams-beef-with-jk-rowling/)
 3. [Oxfam denies woman wearing 'TERF' badge in Pride promo video is JK Rowling](https://news.sky.com/story/oxfam-denies-woman-wearing-terf-badge-in-promo-video-is-jk-rowling-12897709)
 4. [‘I was hounded out of Oxfam over JK Rowling’](https://unherd.com/2023/06/i-quit-oxfam-over-jk-rowling/)
 
-## 评论
+## 评论 { data-search-exclude }
 
 1. **昵称太难起** (7楼)  
    性别不就一百多种吗？你们接着玩啊！我们的性别基本就两种。  

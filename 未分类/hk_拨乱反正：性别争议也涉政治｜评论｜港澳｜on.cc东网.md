@@ -5,7 +5,7 @@
 
 ![](https://ad7.on.cc/mobile/www/delivery/lg.php?bannerid=3584&campaignid=1551&zoneid=1084&loc=1&referer=https%3A%2F%2Fhk.on.cc%2Fhk%2Fbkn%2Fcnt%2Fcommentary%2F20240816%2Fmobile%2Fbkn-20240816000528422-0816_00832_001_cn.html%3FeditorpickDate%3D20240816%26editorpickUuid%3D402882b15990b2a90159a58b78f0780f%26eventID%3D402882b15aad00a2015aae03e731261b%26eventPath%3Dhk_news&cb=ae4c5709a0)
 
-## 拨乱反正
+## 拨乱反正 { data-search-exclude }
 
 - **作者**: 黄杰士  
 - **角色**: 政情观察员  

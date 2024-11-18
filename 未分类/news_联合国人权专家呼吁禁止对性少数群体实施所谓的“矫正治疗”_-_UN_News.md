@@ -28,7 +28,7 @@
 
 -   [性少数](https://news.un.org/zh/tags/xingshaoshu)
 
-## 往日新闻
+## 往日新闻 { data-search-exclude }
 
 ![在旧金山飘扬的一面彩虹旗。彩虹旗通常被视为同性恋骄傲的象征。](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/10/15723/image350x235cropped.jpg)
 

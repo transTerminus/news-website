@@ -25,11 +25,11 @@ _上一篇_：__[高考之后，请控制你寄几！先来看看艺术大学生
 
 _下一篇_：__[温布尔登学院戏服设计将在《玫瑰骑士》歌剧中亮相 | 伦艺资讯](https://www.arts.org.cn/news/activity/793.html) 
 
-## 相关文章
+## 相关文章 { data-search-exclude }
 
 [](https://jinshuju.net/f/gFYyOp)
 
-## 最新动态
+## 最新动态 { data-search-exclude }
 
 -   2023.05 - [伦艺动态 | 伦敦艺术大学校长James Purnell中国行！](https://www.arts.org.cn/news/activity/1897.html)
 -   2024.07 - [伦艺动态 | "全球高校联动 , 共探教育未来" | 伦敦艺术大学「国际友好院校活动周」圆满收官！](https://www.arts.org.cn/news/activity/2159.html)
@@ -47,7 +47,7 @@ _下一篇_：__[温布尔登学院戏服设计将在《玫瑰骑士》歌剧中
 -   2024.05 - [伦艺动态 | UAL培养下一代黑人创意人士](https://www.arts.org.cn/news/activity/2122.html)
 -   2024.05 - [伦艺动态 | 印度新景观:六家小型企业合作伙伴入选可持续时尚、纺织品和技术项目](https://www.arts.org.cn/news/activity/2121.html)
 
-## 伦艺热点
+## 伦艺热点 { data-search-exclude }
 
 -   [2024年伦敦艺术大学QS排名多少](https://www.arts.org.cn/news/cjwt/1707.html)
 -   [伦敦艺术大学2024-2025学年申请截止日期](https://www.arts.org.cn/news/cjwt/1746.html)

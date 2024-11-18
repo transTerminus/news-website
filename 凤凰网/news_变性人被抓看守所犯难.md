@@ -10,7 +10,7 @@
 
 ![二维码](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
-## 正文
+## 正文 { data-search-exclude }
 
 长沙一名男子爱上钢管舞，接受变性手术留下后遗症，希望通过盗窃攒钱再次进行手术，案发后落网。
 

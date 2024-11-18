@@ -64,7 +64,7 @@ OK，我认同这个观点，毕竟君子“和而不同”，如果一个男人
 
 本文由看新闻网转载发布，仅代表原作者或原平台观点，不代表本网站立场。 看新闻网仅提供信息发布平台，文章或有适当删改。
 
-## 标签
+## 标签 { data-search-exclude }
 
 [娘炮](https://m.vct.news/keyword/niang-pao)  
 [娘炮文化](https://m.vct.news/keyword/niang-pao-wen-hua)  

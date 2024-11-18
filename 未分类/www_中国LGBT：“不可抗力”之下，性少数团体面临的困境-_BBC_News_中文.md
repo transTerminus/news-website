@@ -54,7 +54,7 @@
 
 “我想我们是太大声了。”
 
-## 潮流在改变
+## 潮流在改变 { data-search-exclude }
 
 一家集中研究中国的市场调查机构Daxue Consulting估计，在2019年，中国有7500万人自认为是LGBT人口——约占总人口的5%。
 
@@ -114,7 +114,7 @@ LGBT团体一直致力于对一系列问题进行倡议活动，包括同性婚�
 
 “目前倡议活动的空间非常有限，但是我们不应该停止尝试。”
 
-## 相关主题内容
+## 相关主题内容 { data-search-exclude }
 
 - [变性](/zhongwen/simp/topics/c4vmr082rv1t)
 - [文化](/zhongwen/simp/topics/ckedrpkp62rt)

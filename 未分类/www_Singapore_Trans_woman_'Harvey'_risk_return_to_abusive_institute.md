@@ -38,7 +38,7 @@ She said that because of her activism, the Christian far right plan to have her 
 
 J-min is a non-binary activist from Singapore who is also seeking asylum in the UK. She also claimed she’s been targeted by far-right religious groups, who she said have attempted to frame her for her grandfather’s death. She fled to the UK after this, fearing for her safety, where she’s now seeking asylum from anti-LGBTQ+ persecution. 
 
-## Christian right holds huge sway in Singapore
+## Christian right holds huge sway in Singapore { data-search-exclude }
 
 In 2022, Singapore repealed Section 377A of its penal code, under which same-sex relations had been a crime. But, at the same time, the government [bolstered rules preventing same-sex marriage](https://www.thepinknews.com/2022/11/30/singapore-gay-sex-ban-section-377a-marriage) by amending the country’s constitution.
 

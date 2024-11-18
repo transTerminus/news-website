@@ -15,13 +15,13 @@
 
 記者凱恩揭露此一事實後，他嚴重質疑 NCAA 為何允許承認自己有幻想變性性興奮的生理男性湯瑪斯以女性選手身份參賽、侵害生理女性選手在賽場與更衣室中的權益，甚至將湯瑪斯提名為年度女性。
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [美國](/regions/%e7%be%8e%e5%9c%8b/)
 - [體育](/tags/%e9%ab%94%e8%82%b2/)
 - [女性空間](/tags/%e5%a5%b3%e6%80%a7%e7%a9%ba%e9%96%93/)
 - [裸露空間](/tags/%e8%a3%b8%e9%9c%b2%e7%a9%ba%e9%96%93/)
 
-## 相關連結
+## 相關連結 { data-search-exclude }
 - [Transgender swimmer Lia Thomas exposed for autogynephilia and fetishistic lifestyle: report](https://www.rebelnews.com/transgender_swimmer_lia_thomas_exposed_report) (Rebel News) ([備份](https://archive.is/CmprG))
 
 ### 相關報導
@@ -31,7 +31,7 @@
 4. [莉亞·湯瑪斯的前隊友現身說法：男性加入女子體育不公平](https://noselfidtw.cc/news/former-teammate-of-lia-thomas-unveils-herself/) (2023 年 06 月 06 日)
 5. [美國堪薩斯州立法機關否決民主黨州長的否決權，通過了性別隔離法案](https://noselfidtw.cc/news/transgender-state-representative-moves-to-allow-sexual-attachment-to-children/) (2023 年 04 月 27 日)
 
-## 獲取更多資訊
+## 獲取更多資訊 { data-search-exclude }
 - [所有跨性別事件](https://noselfidtw.cc/news)
 - [全部文章](https://noselfidtw.cc/post)
 

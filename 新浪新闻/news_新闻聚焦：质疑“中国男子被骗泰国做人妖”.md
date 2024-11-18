@@ -5,7 +5,7 @@
 
 ![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 南京《周末》
+## 南京《周末》 { data-search-exclude }
 **时间**: 2004.04.14 13:46  
 **作者**: 本报记者/张辰  
 
@@ -83,7 +83,7 @@
 
 ![人妖相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 **新浪网友0**
 - **评论**: 人妖是有小jj的  
 - **时间**: 2004-04-15

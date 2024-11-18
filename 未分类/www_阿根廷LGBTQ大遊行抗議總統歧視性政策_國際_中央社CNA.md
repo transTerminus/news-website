@@ -20,7 +20,7 @@ LGBTQ（同性戀、雙性戀、跨性別及酷兒）活動人士古提瑞茲（
 
 司法部長利巴羅納（Mariano Cuneo Libarona）8月告訴議員，他的政府拒絕接受「與生物學不相符的多元性別」，這一聲明遭到眾多政界人士批評。（譯者：鄭詩韻/核稿：蔡佳敏）1131103
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#LGBTQ](https://www.cna.com.tw/tag/782/)
 - [#川普](https://www.cna.com.tw/tag/1770/)
 - [#司法部長](https://www.cna.com.tw/tag/3612/)

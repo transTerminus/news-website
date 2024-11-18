@@ -34,7 +34,7 @@
 
 下载适用于您的[**iOS**](https://itunes.apple.com/us/app/un-news-reader/id496893005?mt=8)或[**Android**](https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en)设备的联合国新闻应用程序
 
-## 往日新闻
+## 往日新闻 { data-search-exclude }
 
 ![匈牙利在一条废弃铁轨沿线用带刺铁丝网加固了边境围栏，以阻止移民进入。](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/09/11-09-18-UNHCR-Hungary-fence-border-RF223615.jpg/image350x235cropped.jpg)  
 ### [人权专家：匈牙利政府“正在煽动针对移民的歧视”](/zh/story/2018/09/1017472)  

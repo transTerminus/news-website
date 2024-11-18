@@ -15,13 +15,13 @@ Harper’s BAZAAR TW
 
 如果不说，你可能完全无法察觉这9位美丽、性感又时尚的IG名人们，原来都曾经做过性别重置的手术。根据医学研究报告指出，这群出生时，身体构造与心理性别认同不相吻合的人，被称为性别错置者。这9位勇敢的名人，在时尚美妆界以出色的表现，为所有性别重置者发声，因为性别真的与成不成功没有关系，唯有坚持努力才是王道。
 
-## 1. Nikkietutorials
+## 1. Nikkietutorials { data-search-exclude }
 
 Youtube美妆天后 Nikkietutorials因为受不了黑函的恐吓，决定出来宣布自己性别错置的过往，坦承自己曾经是男儿身的过去。
 
 **相关话题** NikkieTutorials宣布性别重置过往! Youtube美妆示范天后原来曾经是男儿身
 
-## 2. Laith Ashley
+## 2. Laith Ashley { data-search-exclude }
 
 ![image](https://s.yimg.com/ny/api/res/1.2/BbVsZIykrpR7TxzYkCFXpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://media.zenfs.com/en/bazaar.tw/09c8cce4592debb46ea347c1a334ffa8)
 
@@ -41,7 +41,7 @@ COPYRIGHT: Getty Images
 
 帅气又漂亮的外型，无论男生或女生都会被他吸引。
 
-## 3. Oslo Grace
+## 3. Oslo Grace { data-search-exclude }
 
 ![image](https://s.yimg.com/ny/api/res/1.2/1LEmww_sDTmmA2y6fzTMag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://media.zenfs.com/en/bazaar.tw/ef0f6eefa317dd0dbd9fcd149243c202)
 
@@ -61,7 +61,7 @@ COPYRIGHT: Getty Images
 
 Oslo Grace勇敢秀出自己手术后的身体。
 
-## 4. Teddy Quinlivan
+## 4. Teddy Quinlivan { data-search-exclude }
 
 ![image](https://s.yimg.com/ny/api/res/1.2/O5mSho0pQafjSX5G1a62ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://media.zenfs.com/en/bazaar.tw/a95fb13174ca032a64dbe542e77058c6)
 
@@ -89,7 +89,7 @@ COPYRIGHT: Getty Images
 
 虽然在伸展台上以冷酷造型著称，但是私下Teddy Quinlivan也有性感的一面。
 
-## 5. Hunter Schafer
+## 5. Hunter Schafer { data-search-exclude }
 
 ![image](https://s.yimg.com/ny/api/res/1.2/Ndx3S7K1xd9u.uIXmUobfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://media.zenfs.com/en/bazaar.tw/5c4623bf1d4f311c679d023b2105a391)
 
@@ -107,7 +107,7 @@ COPYRIGHT: Getty Images
 
 清新无邪的外型，让Hunter Schafer在出道才短短三年内，就走上Dior的高级订制服装秀。
 
-## 6. Valentina Sampaio
+## 6. Valentina Sampaio { data-search-exclude }
 
 ![image](https://s.yimg.com/ny/api/res/1.2/1iFxs2cbyNF4J7FndJgapg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://media.zenfs.com/en/bazaar.tw/9d09f9e3205bc8b46813fac8938a4025)
 
@@ -127,7 +127,7 @@ COPYRIGHT: Getty Images
 
 除了时尚模特儿的工作，他还是化妆品牌 L'Oréal 的代言人。
 
-## 7. Geena Rocero
+## 7. Geena Rocero { data-search-exclude }
 
 ![image](https://s.yimg.com/ny/api/res/1.2/zJoLyzO2Ybj9fVkJ2tjmOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://media.zenfs.com/en/bazaar.tw/f57f719def03187886f87246829093dd)
 
@@ -153,7 +153,7 @@ Geena Rocero曾登上Harper's Bazaar印度版的封面。
 
 除了成功的模特儿事业，他积极投入性别重置者人权活动，并成立Gender Proud多媒体公司，专门制作与性别重置者及错置者相关议题的影视作品。
 
-## 8. Nathan Westling
+## 8. Nathan Westling { data-search-exclude }
 
 ![image](https://s.yimg.com/ny/api/res/1.2/ieGr_nGbdgixyiUWLDv_kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://media.zenfs.com/en/bazaar.tw/499d493f4d0e9eeae77c0679465c7c5a)
 
@@ -181,7 +181,7 @@ COPYRIGHT: Getty Images
 
 其实在成为Nathan前，Natalie的平日打扮就非常中性。我们祝福他新人生的开始。
 
-## 9. Benjamin Melzer
+## 9. Benjamin Melzer { data-search-exclude }
 
 > [
 > View this post on Instagram

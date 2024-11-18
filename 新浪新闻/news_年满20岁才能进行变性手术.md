@@ -5,7 +5,7 @@
 
 ![变性手术](//n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)
 
-## 来源：新闻晨报
+## 来源：新闻晨报 { data-search-exclude }
 
 **时间：2009年6月17日 03:12**
 

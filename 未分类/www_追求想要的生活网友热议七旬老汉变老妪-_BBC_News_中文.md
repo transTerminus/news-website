@@ -21,7 +21,7 @@
 
 但也有网友对此表示赞赏。网友"美包美鞋败家控"评论道："追求自己想要的样子，哪怕已经垂垂暮年，真的是要勇气的。嘲笑讥讽的，先想想自己有没有能力、勇气做真实的自己，再来冷言冷语吧。"
 
-## 中国版《丹麦女孩》
+## 中国版《丹麦女孩》 { data-search-exclude }
 
 ![Danish Girl](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/D580/production/_87165645_cc23_sg03_01254.jpg.webp)  
 图像来源，Working Title  
@@ -41,7 +41,7 @@
 
 辛玥结婚47年的妻子冷蕊此前也对这样的想法表示不解，但随后也慢慢理解。在被记者问到此后两人怎样相处时，她说早已和辛玥成了"闺蜜"，以后以"姐妹"相称。  
 
-## 更多相关内容
+## 更多相关内容 { data-search-exclude }
 
 - ![金星在中国做了变性手术。](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/50B9/production/_94256602_jinxing.jpg.webp)  
   ### [英媒：金星的故事反映中国社会变化](/zhongwen/simp/press-review-38932824)  

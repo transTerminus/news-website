@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/sinacn/20170919/c987-fykywuc7435594.jpg)
 
-## 来源：看看新闻KNEWS
+## 来源：看看新闻KNEWS { data-search-exclude }
 
 **时间**：2021.06.21 14:27
 
@@ -25,7 +25,7 @@
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **兔哥_qi**  
 **评论**：现在就已经很期待奥运会的举行了，会好的啊  

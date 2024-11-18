@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：河南报业网-大河报
+## 来源：河南报业网-大河报 { data-search-exclude }
 
 **时间：2002.04.10 16:21**
 

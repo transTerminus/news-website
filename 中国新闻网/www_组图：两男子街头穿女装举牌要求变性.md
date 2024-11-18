@@ -18,7 +18,7 @@
 
 【编辑**:** 田博川】
 
-##相关新闻
+##相关新闻 { data-search-exclude }
 - [变性棋坛高手天生像女孩 能结婚却无法生育(图)](http://www.chinanews.com.cn/ty/kong/news/2009/04-14/1644347.shtml)
 - [积极拥抱人生 日变性名模推自传述心路历程(图)](http://www.chinanews.com.cn/yl/kong/news/2009/04-13/1642713.shtml)
 - [变性舞蹈家金星谈新作:母狗都能演好何况是老处女](http://www.chinanews.com.cn/yl/zyxw/news/2009/04-08/1636216.shtml)

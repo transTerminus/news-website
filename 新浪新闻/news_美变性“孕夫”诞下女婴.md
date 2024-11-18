@@ -5,7 +5,7 @@
 
 ![美变性孕夫](//n.sinaimg.cn/sinakd10201/360/w180h180/20240801/4c94-85fefc46c5a74cc79994588f07e91dfd.jpg)
 
-## 来源
+## 来源 { data-search-exclude }
 
 **大众日报**  
 
@@ -47,7 +47,7 @@
 
 ![孕夫贝蒂](//www.sinaimg.cn/dy/w/2008-07-05/3347b70786a434865c336e5cff38f2ec.jpg)
 
-## 链接
+## 链接 { data-search-exclude }
 
 “男人产子”考验社会容忍度
 

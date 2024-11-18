@@ -29,7 +29,7 @@
 
 下载适用于您的[**iOS**](https://itunes.apple.com/us/app/un-news-reader/id496893005?mt=8)或[**Android**](https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en)设备的联合国新闻应用程序
 
-## 往日新闻
+## 往日新闻 { data-search-exclude }
 
 [![在受冲突影响严重的克里姆斯克（Krymske），国际移民组织工作人员向一位老人提供资金援助。](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/06/13-06-2018-Ukraine-IOM-assistance.jpg/image350x235cropped.jpg)](https://news.un.org/zh/story/2018/12/1025151)
 

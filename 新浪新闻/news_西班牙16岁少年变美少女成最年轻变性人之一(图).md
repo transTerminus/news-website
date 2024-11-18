@@ -5,7 +5,7 @@
 
 ![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
 
-## 来源：国际在线  
+## 来源：国际在线   { data-search-exclude }
 **时间**：2010.01.14 08:47
 
 目前最年轻的变性人是16岁的德国少年Tim Petras。

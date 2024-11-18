@@ -9,7 +9,7 @@
 
 ---
 
-## 最新评论
+## 最新评论 { data-search-exclude }
 
 后面还有0条评论，[点击查看](http://comment.ifeng.com/view.php?chId=4118&docId=1688171&docName=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E4%BC%AA%E5%A8%98%E7%85%A7%E6%9B%9D%E5%85%89%28%E7%BB%84%E5%9B%BE%29&docUrl=http%3A%2F%2Fculture.ifeng.com%2F2%2Fdetail_2010_06%2F29%2F1688171_0.shtml)
 

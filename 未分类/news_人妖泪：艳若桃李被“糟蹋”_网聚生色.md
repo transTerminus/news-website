@@ -5,7 +5,7 @@
 
 ![人妖泪：艳若桃李被“糟蹋"](http://news.163.com/images2/title8.gif)
 
-## 正文
+## 正文 { data-search-exclude }
 
 ![人妖的生活](http://cimg.163.com/news/0410/20/dlr1.jpg)
 

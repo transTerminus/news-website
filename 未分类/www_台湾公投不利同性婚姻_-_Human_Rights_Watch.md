@@ -18,10 +18,10 @@
 
 台湾“婚姻平权大平台”总召集人吕心洁说：“我们的对手以为，利用公投打击同性婚姻和年轻的LGBT人士，就可以阻挡台湾的LGBT平权运动。但他们大错特错。LGBT人士从未像现在一样被台湾社会看见──我们可以和家人、朋友、同事讨论为什么结婚很重要，为什么法律应该尊重每一个人。”
 
-## 主题
+## 主题 { data-search-exclude }
 - [LGBT权利](https://www.hrw.org/zh-hans/topic/lgbtquanli)
 
-## 更多报导
+## 更多报导 { data-search-exclude }
 
 ### 2018年09月20日 快讯
 #### [香港认可同性伴侣申请签证](https://www.hrw.org/news/2018/09/20/322715)
@@ -67,7 +67,7 @@
     
     ![A man holds a sign in Indonesian at a protest](https://www.hrw.org/sites/default/files/styles/square/public/media_2024/09/202409asia_indonesia_westpapua_protest.jpg?h=2d495be6&itok=eKcmezeE)
 
-## 版权
+## 版权 { data-search-exclude }
 © 2018 Human Rights Watch. 版权所有。如欲转载以上内容，须遵守相关版权规定。
 
 ## 摘要与附加信息

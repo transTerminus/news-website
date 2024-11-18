@@ -39,7 +39,7 @@
 
 ![凤凰新闻 天天有料](http://y2.ifengimg.com/a/2015/0708/icon_logo.gif)
 
-## 作者：宇文杰
+## 作者：宇文杰 { data-search-exclude }
 
 **责任编辑：宇文杰 PN051**
 

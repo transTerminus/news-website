@@ -49,7 +49,7 @@
 
 ---
 
-## :::相关报道:::
+## :::相关报道::: { data-search-exclude }
 
 - [一男子貌似美女尴尬多 称决不变性欲做性别鉴定](http://www.chinanews.com.cn/sh/news/2007/07-26/988196.shtml)
 - [变性人大跳钢管舞 异想天开"要当谋女郎"（图）](http://www.chinanews.com.cn/yl/zyxw/news/2007/07-24/986399.shtml)

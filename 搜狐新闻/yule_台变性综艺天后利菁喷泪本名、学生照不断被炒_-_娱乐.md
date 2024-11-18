@@ -23,7 +23,7 @@
 
 (责任编辑：CL)
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - 07-10-30 11:40·[利菁"孔雀开屏"庆功 自曝节目好得高人指点](https://yule.sohu.com/20071030/n252949919.shtml)
 - 07-10-19 11:06·[苏永康身陷《麻辣天后宫》 被爆10年前追...](https://yule.sohu.com/20071019/n252741628.shtml)
@@ -35,7 +35,7 @@
 - 06-09-14 21:40·[孟广美事件追踪:主持人利菁向内地观众道歉](https://yule.sohu.com/20060914/n245348475.shtml)
 - 06-04-21 10:19·[黄维德被利菁胸部"晃"晕 吻到对方腿软(图)](https://yule.sohu.com/20060421/n242923744.shtml)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 Copyright © 2016 Sohu.com Inc. All Rights Reserved.  
 搜狐公司 [版权所有](https://corp.sohu.com/s2007/copyright/)  
 搜狐不良信息举报邮箱：[jubao@contact.sohu.com](mailto:jubao@contact.sohu.com)

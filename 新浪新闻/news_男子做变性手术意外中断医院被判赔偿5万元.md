@@ -5,7 +5,7 @@
 
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：东方早报
+## 来源：东方早报 { data-search-exclude }
 ### 时间：2005.05.18 01:53
 
 早报江苏专稿 赵鹏璞  
@@ -36,10 +36,10 @@
 
 ![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 点击查看更多
 
-## 评论板块
+## 评论板块 { data-search-exclude }
 > 快来新闻客户端参与评论获金币兑礼品吧！  
 > 抢沙发  
 > 好的评论会让人崇拜  

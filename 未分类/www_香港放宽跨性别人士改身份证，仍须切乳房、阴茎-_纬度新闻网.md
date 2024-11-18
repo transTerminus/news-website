@@ -21,7 +21,7 @@
 
 [![璩美凤](https://www.weidunews.com/wp-content/uploads/2024/11/25d5152019ec884317e5ad67ca2e4f7160.jpeg)](https://www.weidunews.com/article/2024-11-12/18505.html)
 
-## [台媒：璩美凤称曾被柯文哲性骚扰](https://www.weidunews.com/article/2024-11-12/18505.html)
+## [台媒：璩美凤称曾被柯文哲性骚扰](https://www.weidunews.com/article/2024-11-12/18505.html) { data-search-exclude }
 
 近日，台湾民众党主席柯文哲再次陷入争议事件。政治立场亲绿的媒体报道，资深媒体人、现任壹传媒总编辑璩美凤指控曾被柯文哲性骚扰。
 
@@ -29,7 +29,7 @@
 
 ![中国外交部长王毅在北京与俄罗斯安全会议秘书绍伊古](https://www.weidunews.com/wp-content/uploads/2024/11/e3386453f053de2926916e3f08bd1e6966.jpg)
 
-## [绍伊古与王毅举行中俄战略安全磋商](https://www.weidunews.com/article/2024-11-12/18501.html)
+## [绍伊古与王毅举行中俄战略安全磋商](https://www.weidunews.com/article/2024-11-12/18501.html) { data-search-exclude }
 
 周二（11月12日），中共中央政治局委员、中央外办主任王毅在北京同俄罗斯联邦安全会议秘书绍伊古共同主持中俄第十九轮战略安全磋商，就共同关心的重大战略安全问题全面深入交换意见。
 

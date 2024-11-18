@@ -26,7 +26,7 @@ LGBT是女同性恋者、男同性恋者、双性恋者与跨性别者的英文�
 -   [报告揭中国同性恋遭强行电击服药治疗](/zhongwen/simp/chinese-news-42007138)
 -   [中国芒果TV直播奥斯卡抹去同性恋字眼惹争议](/zhongwen/simp/chinese-news-47383229)
 
-## 中国性少数群体的精神支柱
+## 中国性少数群体的精神支柱 { data-search-exclude }
 
 成立以来的15年里，北同与心理咨询师、精神医师、企业管理者等人群合作，为改善性少数群体的生存状况提供专业支持。在关闭前的一年里，北同还举办了多场线上直播，包括跨性别友善医疗讲座等，有上万人参与或观看。
 
@@ -56,7 +56,7 @@ LGBT是女同性恋者、男同性恋者、双性恋者与跨性别者的英文�
 
 图像来源，Getty Images
 
-## 生存如同“阴沟里的老鼠”
+## 生存如同“阴沟里的老鼠” { data-search-exclude }
 
 业内普遍认为，北同的关闭主要与中国政府的维稳以及社会舆论环境收紧有关。
 
@@ -100,7 +100,7 @@ LGBT是女同性恋者、男同性恋者、双性恋者与跨性别者的英文�
 
 今年国际不再恐同日的前一天，他还被要求不要发布“涉及政治”的言论。但在他看来，“性别平等不是政治话题。”
 
-## 未来怎么办
+## 未来怎么办 { data-search-exclude }
 
 ![Banner of LGBT (Lesbian, Gay, Bisexual and Transgender) Center is pictured in Beijing.](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/40D6/production/_129789561_gettyimages-1125461649.jpg.webp)
 
@@ -118,7 +118,7 @@ LGBT是女同性恋者、男同性恋者、双性恋者与跨性别者的英文�
 
 “以后可能会减少线下活动，”她说，这无疑会降低机构的影响力，但“安全第一”。
 
-## 相关主题内容
+## 相关主题内容 { data-search-exclude }
 
 -   [变性](/zhongwen/simp/topics/c4vmr082rv1t)
 -   [女人](/zhongwen/simp/topics/c50nzmyv9k8t)
@@ -126,7 +126,7 @@ LGBT是女同性恋者、男同性恋者、双性恋者与跨性别者的英文�
 -   [中國](/zhongwen/simp/topics/cv85rd690y1t)
 -   [LGBT](/zhongwen/simp/topics/czp1qexpdlzt)
 
-## 更多相关内容
+## 更多相关内容 { data-search-exclude }
 
 -   ![在台湾，已经有大量同性伴侣申请登记结婚。](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/161FC/production/_107002609_hi054012063.jpg.webp)
     

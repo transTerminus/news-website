@@ -28,7 +28,7 @@
 
 4月2日上午，英国首相苏纳克在被问及罗琳遭遇的争议时指出，他并不会就警方的态度发表评论，但“任何人都不应该因为说出有关生物性别的常识性言论而被定罪”。作为法案的坚定支持者，苏格兰民族党领袖胡姆扎·优素福(Humza Yousaf)认为它是为了应对日益猖獗的种族仇恨主义，同时，法案在实际应用中会设定“非常高的门槛”，包括明确的条文表述，“合理性”的辩护以及与欧洲人权公约的兼容性。
 
-## 参考链接
+## 参考链接 { data-search-exclude }
 
 1. [JK Rowling could be investigated by police for misgendering trans people, SNP minister says](https://www.independent.co.uk/arts-entertainment/books/news/jk-rowling-misgender-trans-snp-b2521530.html)
 2. [JK Rowling will not be arrested under new Scottish hate law, say police](https://www.theguardian.com/politics/2024/apr/02/jk-rowling-will-not-be-arrested-under-new-scottish-hate-law-say-police)

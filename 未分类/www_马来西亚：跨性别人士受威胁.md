@@ -45,7 +45,7 @@
 
 “马来西亚必须立即废除歧视跨性别人士的法律，遵守国际人权标准，并制定完整的反歧视立法来保护他们，”狄翠奇说。“当局早就应该认可跨性别人士和所有马来西亚人享有同样权利。”
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 - 来源: [Human Rights Watch](https://www.hrw.org/zh-hans/news/2014/09/24/263746)
 - 标签: [跨性别](https://www.hrw.org/topic/lgbt-rights), [人权](https://www.hrw.org/topic/human-rights)
 

@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
 
-## 国际在线
+## 国际在线 { data-search-exclude }
 
 **来源**: 华商网-重庆时报  
 **时间**: 2005.11.23 07:17

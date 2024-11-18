@@ -13,7 +13,7 @@
 
 ---
 
-## 内容
+## 内容 { data-search-exclude }
 
 The connection was reset.
 

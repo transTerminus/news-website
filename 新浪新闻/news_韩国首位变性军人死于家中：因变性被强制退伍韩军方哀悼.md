@@ -26,9 +26,9 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)  
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
-## 快来新闻客户端参与评论获金币兑礼品吧！  
+## 快来新闻客户端参与评论获金币兑礼品吧！   { data-search-exclude }
 
 抢沙发  
 

@@ -5,7 +5,7 @@
 
 ![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
 
-## 来源: 国际在线
+## 来源: 国际在线 { data-search-exclude }
 
 ### 发布时间: 2010年11月09日 09:06
 

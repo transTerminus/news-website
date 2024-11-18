@@ -6,7 +6,7 @@
 
 ![视频封面](//e3f49eaa46b57.cdn.sohucs.com/c_fit,w_400,h_400,c_cut,x_40,y_40,w_318,h_318/group3/M08/C8/D3/MTAuMTAuODguODM=/MTAwMTE0XzE1MDY2NTQxMjA2NDI=.webp)
 
-## 视频信息
+## 视频信息 { data-search-exclude }
 - 来源: [搜狐视频](//tv.sohu.com/)
 - 播放时间: 01:52
 - 标签: 健康, 医学科普, 变性手术

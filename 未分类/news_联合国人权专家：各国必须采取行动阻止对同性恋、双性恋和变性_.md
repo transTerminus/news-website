@@ -6,7 +6,7 @@
 ![摩尔多瓦同性恋大游行。](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2014/08/19674/image1024x768.jpg)  
 联合国人权高专办资料图片/Joseph Smida
 
-## 正文
+## 正文 { data-search-exclude }
 
 2019年10月4日 [人权](https://news.un.org/zh/news/topic/human-rights)
 
@@ -33,7 +33,7 @@
 
 特别报告员是人权理事会特别程序的一部分。特别程序是联合国人权系统中最大的独立专家机构，是人权理事会独立实况调查和监测机制的总称，处理世界各地的具体国家局势或专题问题。特别程序的专家在自愿的基础上工作。他们不是联合国工作人员，不领取联合国的工资。他们独立于任何政府或组织，以个人身份服务。
 
-## 其他信息
+## 其他信息 { data-search-exclude }
 
 - 来源: [联合国新闻](https://news.un.org/zh/story/2019/10/1042992)
 - 时间: 2019年10月4日

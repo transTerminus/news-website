@@ -33,7 +33,7 @@
 
 ---
 
-## 相关报道
+## 相关报道 { data-search-exclude }
 
 - [美国俄勒冈一个小城市选出变性人当市长(图)](http://www.chinanews.com.cn/gj/ywdd2/news/2008/11-09/1442506.shtml) 
 - [图：变性人在菲律宾首都展身姿](http://www.chinanews.com.cn/gj/kong/news/2008/10-18/1416829.shtml)

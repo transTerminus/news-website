@@ -91,7 +91,7 @@
 
 **类型：[民俗学专题](../web/index.php?ChannelID=171) → [学科问题](../web/index.php?ChannelID=34)**
 
-## 扩展阅读
+## 扩展阅读 { data-search-exclude }
 
 ![UNESCO ‖ 今天，我们庆祝首个国际非物质文化遗产日](../upload/news/DA-20241017173009.jpg)  
 [UNESCO ‖ 今天，我们庆祝首个国际非物质文化遗产日](https://www.chinesefolklore.org.cn/web/index.php?NewsID=21854)

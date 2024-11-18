@@ -21,7 +21,7 @@
 
 ![在美国高校游泳比赛上一名跨性别运动员输给了另一名跨性别运动员 - 俄罗斯卫星通讯社, 1920, 11.01.2022](https://cdn.sputniknews.cn/img/07e6/01/0b/1037037466_0:104:3433:1477_1920x0_80_0_0_14698beecc4af7891b112ea648e3a666.jpg.webp)
 
-## 标签：
+## 标签： { data-search-exclude }
 - 特朗普
 - 卡玛拉•哈里斯
 - 拳击
@@ -29,7 +29,7 @@
 - 性别
 - 跨性别人士  
 
-## 联系方式：
+## 联系方式： { data-search-exclude }
 反馈邮箱：[feedback.cn@sputniknews.com](mailto:feedback.cn@sputniknews.com)  
 电话：+74956456601  
 媒体：MIA „Rossiya Segodnya”  

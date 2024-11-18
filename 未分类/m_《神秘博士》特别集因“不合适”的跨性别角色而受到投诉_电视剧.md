@@ -21,7 +21,7 @@
 
 BBC收到的投诉再次证明，一部电视剧或电影要在选角和角色决定上体现多样性，而不引起一小部分粉丝的强烈反对，是多么困难。然而，这并不会阻止像《神秘博士》这样的节目在未来尽可能地继续把代表带到前台。
 
-## 《神秘博士》的Yasmin Finney分享了她对这部剧入选的看法。
+## 《神秘博士》的Yasmin Finney分享了她对这部剧入选的看法。 { data-search-exclude }
 
 ![Yasmin Finney as Rose Noble in Doctor Who](http://www.ertcw.com/file/upload/202312/09/155024811.jpg)  
 英国广播公司

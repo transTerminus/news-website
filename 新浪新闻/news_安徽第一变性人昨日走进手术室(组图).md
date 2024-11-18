@@ -5,7 +5,7 @@
 
 ![黄恩岭](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 合肥报业网--江淮晨报
+## 合肥报业网--江淮晨报 { data-search-exclude }
 
 **时间**: 2005.01.01 00:59  
 
@@ -55,7 +55,7 @@
 
 ![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
 **新浪网友0**  
 **是变成处女吗？**  

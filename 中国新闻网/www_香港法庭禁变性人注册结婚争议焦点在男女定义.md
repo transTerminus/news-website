@@ -22,7 +22,7 @@
 
 ![图片](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F980DT20100423111451.jpg)
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [澳大利亚变性人选美比赛 新加坡"美女"夺冠(图)](http://www.chinanews.com.cn/gj/2010/10-03/2568877.shtml)
 - [图：尼泊尔举办变性人选美比赛](http://www.chinanews.com.cn/tp/hd/2010/09-13/6606.shtml)

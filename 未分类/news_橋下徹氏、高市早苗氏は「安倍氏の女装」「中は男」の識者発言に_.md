@@ -18,20 +18,20 @@ TBS系報道番組「サンデーモーニング」などで知名度のある�
 橋下氏の投稿に対し、フォロワーからは「完全にアウトです。ホンマに自分たちには甘いなぁ～」「女性差別ですし、故人を侮辱しており、下劣としか言いようがないです」「橋下さんに言われるんだからヤバいよな笑」「事実としか」「オブラートに包んだ優しい表現でしょ」といった声が続いた。  
 （よろず～ニュース編集部）
 
-## 標籤
+## 標籤 { data-search-exclude }
 - 跨性别
 - 政治评论
 
-## 來源
+## 來源 { data-search-exclude }
 - よろず～ニュース
 
-## 日期
+## 日期 { data-search-exclude }
 - 2024年10月18日
 
-## 版权
+## 版权 { data-search-exclude }
 © 2024 Yahoo! Japan Corporation. All Rights Reserved.  
 
-## 评论
+## 评论 { data-search-exclude }
 - [评论链接](https://news.yahoo.co.jp/articles/08977edb4252dd556a2ab650c4c50dd4739b17ba/comments)
 
 ### 相关文章

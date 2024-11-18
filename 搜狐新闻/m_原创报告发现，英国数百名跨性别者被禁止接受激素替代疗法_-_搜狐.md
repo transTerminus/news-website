@@ -5,7 +5,7 @@
 
 ![熊家餐馆](http://03e1181bba1cf.cdn.sohucs.com/files/1695809599254.png)
 
-## 正文
+## 正文 { data-search-exclude }
 
 一项调查显示，在过去的一年里，英国有200多名跨性别者被全科医生拒绝接受激素替代疗法（HRT）。
 

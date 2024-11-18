@@ -19,7 +19,7 @@
 
 ![图片](http://www.gxnews.com.cn/images/2009/attitude_percent.gif)
 
-## 相关文章
+## 相关文章 { data-search-exclude }
 
 - [双胞胎女童体内雄性激素水平过高 姐姐成"双性人"](http://www.gxnews.com.cn/redirect.php?a=about&id=9731934)
 - [崇左一对姐妹为"双性人" 有卵巢子宫却有男性特征](http://news.gxnews.com.cn/staticpages/20140103/newgx52c5ea75-9361689.shtml)
@@ -30,7 +30,7 @@
 - [17岁双性人遭男子施暴 性别鉴定决定罪行(图)](http://news.gxnews.com.cn/staticpages/20110614/newgx4df736ee-3875048.shtml)
 - [青年自称双性人 街头举牌征婚“男女各一人”(图)](http://news.gxnews.com.cn/staticpages/20100818/newgx4c6b3cac-3193586.shtml)
 
-## 评论
+## 评论 { data-search-exclude }
 
 高兴  
 愤怒  
@@ -40,7 +40,7 @@
 
 选择您看到这篇新闻时的心情
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 广西新闻网版权所有 未经书面授权禁止复制或建立镜像  
 [举报热线（广西新闻网举报受理和处置管理办法）](http://news.gxnews.com.cn/staticpages/20171229/newgx5a460936-16798972.shtml) 24小时举报电话: 0771-5690995  

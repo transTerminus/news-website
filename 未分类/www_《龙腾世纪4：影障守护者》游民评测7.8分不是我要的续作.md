@@ -9,7 +9,7 @@
 
 ---
 
-## 正文
+## 正文 { data-search-exclude }
 
 漫游箱庭世界
 
@@ -65,7 +65,7 @@
 
 [![游民星空](https://img1.gamersky.com/image2024/10/20241031_hhy_486_2/18228_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2024/10/20241031_hhy_486_2/18228.jpg)
 
-## 结语
+## 结语 { data-search-exclude }
 
 如果你从未了解过”龙腾世纪“系列之前的样子，也不在乎角色塑造和“觉醒文化”相关内容。那么仅从ARPG角度来说，《龙腾世纪4：影障守护者》是一款很标准，甚至可以称得上是优秀的游戏。
 
@@ -88,7 +88,7 @@
 推荐人群：能够接受多元化内容的ARPG爱好者  
 测试平台：PC 
 
-## 玩家点评
+## 玩家点评 { data-search-exclude }
 
 - **玩家评分(801人)**
   - 5星: 21.3%
@@ -102,7 +102,7 @@
 
 ---
 
-## 评论（864人参与）
+## 评论（864人参与） { data-search-exclude }
 
 **作者：心灵奇兵**  
 "食之无味  

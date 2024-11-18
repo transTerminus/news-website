@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 最新消息
+## 最新消息 { data-search-exclude }
 
 **日期**: 2020/10/26  
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 跨性別男性化賀爾蒙療法
+## 跨性別男性化賀爾蒙療法 { data-search-exclude }
 
 **重要提醒**:  
 **賀爾蒙藥物皆為仿單外使用 (Off-label use)，請務必跟醫師討論後使用**  
@@ -72,7 +72,7 @@ WPATH (World Professional Association for Transgender Health)建議接受賀爾�
 
 如果您有性別焦慮或考慮接受男變女或女變男的性別重置手術，那麼毫無疑問，您會遇到很多問題和焦慮。在我們的中心，您可以找到從治療到手術再到美學過渡的各個領域的幫助，請毫不猶豫地跟我們連繫。
 
-## 參考文獻：
+## 參考文獻： { data-search-exclude }
 
 1. WPATH (World Professional Association for Transgender Health), 7th Edition
 2. Asa Radix, et al. Hormone Therapy for Transgender Adults. Urol Clin N Am 46 (2019) 467–473
@@ -80,7 +80,7 @@ WPATH (World Professional Association for Transgender Health)建議接受賀爾�
 
 ---
 
-## 相關文章
+## 相關文章 { data-search-exclude }
 
 ![先天性血管畸形瘤 病人多方求治終獲成果 中醫大附醫「高位筋膜拉皮手術」 精密顏面再造成功 攜手陽光基金會 幫助「草莓女孩」重展笑顏](https://www.cmuh.cmu.edu.tw/FileUploads/News/20240315_114333.jpg?w=250&h=180&mode=crop&scale=both)  
 [先天性血管畸形瘤 病人多方求治終獲成果 中醫大附醫「高位筋膜拉皮手術」 精密顏面再造成功 攜手陽光基金會 幫助「草莓女孩」重展笑顏](https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=8700)

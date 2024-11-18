@@ -22,7 +22,7 @@ A某在今年8月末闯入釜山某住宅，用凶器威胁变性人并对其进
 
 **编辑**: 曹昆  
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [韩国强奸变性人的嫌犯在抗诉审被判强奸罪名成立](http://www.chinanews.com.cn/gj/dqsj/news/2009/04-23/1660711.shtml)
 - [韩国28岁男子强奸变性人被判刑三年](http://www.chinanews.com.cn/gj/yt/news/2009/02-18/1569085.shtml)

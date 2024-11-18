@@ -17,7 +17,7 @@
 
 ---
 
-## 正文
+## 正文 { data-search-exclude }
 
 50岁男子变性与前妻姐妹相称共同生活(组图) 央视国际 www.cctv.com
 

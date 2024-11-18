@@ -122,7 +122,7 @@
 
 ![重要图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论点击查看更多
+## 热门评论点击查看更多 { data-search-exclude }
 
 ![评论区](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

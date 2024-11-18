@@ -15,7 +15,7 @@
 
 ![](U233P4T8D1949705F107DT20091105165412.jpg)
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [国际变性人选美冠军趁热打铁 出书演出忙捞金(图)](http://www.chinanews.com.cn/yl/yl-mxzz/news/2009/11-05/1949570.shtml)
 - [图：华姐选美大赛决出三甲](http://www.chinanews.com.cn/tp/tp-nsmy/news/2009/11-01/1940937.shtml)

@@ -45,7 +45,7 @@
 
 该论文还表示，身为男性、在寄宿学校就读、学习表现不佳以及与父母关系差等等，都是造成被霸凌的主要因素。
 
-## “遏制‘娘炮’”
+## “遏制‘娘炮’” { data-search-exclude }
 
 “女性化”的男性不被接受的既定观念并非中国文化独有，但是中国政府却公开地支持这种立场，甚至积极地鼓励它。
 
@@ -69,7 +69,7 @@
 
 “现在，年轻人将会觉得使用这些性别诋毁字眼来攻击他人是可以的，”他说，“因为如果政府都容许这种措辞，还有谁能说在学校里用这些字眼是错的？”
 
-## “战狼”
+## “战狼” { data-search-exclude }
 
 专家向BBC表示，在习近平主席强势的国际外交模式下，中国强调男性阳刚之气的论调并非巧合。
 
@@ -115,7 +115,7 @@
 
 ![BBC](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/A7A0/production/_90021924_bar.jpg.webp)
 
-## 你或许还对这些内容感兴趣：
+## 你或许还对这些内容感兴趣： { data-search-exclude }
 
 **你的器材不支持播放多媒体材料**
 
@@ -123,14 +123,14 @@ Play video, "酷爱美妆的韩国男性：面膜粉底眼线一个都不能少"
 
 ![酷爱美妆的韩国男性：面膜粉底眼线一个都不能少](https://ichef.bbci.co.uk/images/ic/512xn/p05x86f7.jpg.webp)
 
-## 相关主题内容
+## 相关主题内容 { data-search-exclude }
 
 -   [性别](/zhongwen/simp/topics/cdlxq9knn0rt)
 -   [媒体](/zhongwen/simp/topics/cezyejkxpk1t)
 -   [社交媒体](/zhongwen/simp/topics/cr1nyx63524t)
 -   [中國](/zhongwen/simp/topics/cv85rd690y1t)
 
-## 更多相关内容
+## 更多相关内容 { data-search-exclude }
 
 ![中国将改革学校的体育教育，更多注重学生“阳刚之气”培养。](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/15E8C/production/_116804798_gettyimages-501527826-594x594.jpg.webp)
 

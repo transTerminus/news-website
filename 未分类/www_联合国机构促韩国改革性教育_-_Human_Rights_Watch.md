@@ -20,14 +20,14 @@
 
 韩国如欲推动改革可参考许多标竿，例如[联合国教科文组织的性教育指导纲要](https://en.unesco.org/news/urges-comprehensive-approach-sexuality-education)。若韩国政府希望保障儿童的权利、健康和幸福，第一步可以从给予儿童──不分性取向或性别认同──成长茁壮所必需的基本信息开始。
 
-## 标签
+## 标签 { data-search-exclude }
 - 亚洲
 - 韩国
 
-## 主题
+## 主题 { data-search-exclude }
 - LGBT权利
 
-## 更多报导
+## 更多报导 { data-search-exclude }
 
 ### [2019年03月19日 新闻稿: 日本：跨性别人士遭强制绝育](https://www.hrw.org/news/2019/03/19/327813)  
 ![Fumino Sugiyama, a transgender man, holds his Japanese ID card, which reads “female,” at his home in Tokyo.](https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2019/201903lgbt_japan_main_2.jpg?itok=g3c5MvDd)

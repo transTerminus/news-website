@@ -21,7 +21,7 @@ Debbie Lau作风高调。
 
 ![Image2](http://www.chinanews.com.cn/fileftp/2009/01/2009-01-19/U76P4T47D10173F979DT20090119163219.gif)
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 - [2010港姐集体曝光 "富二代"云集恐难吃苦退选(图)](http://www.chinanews.com.cn/yl/news/2010/05-24/2299828.shtml)
 - [众港姐集聚慈善晚会 悉心打扮艳光四射(组图)](http://www.chinanews.com.cn/yl/news/2010/05-23/2298879.shtml)
 - [港姐选举翻版萧亚轩抢镜(图) 李兆基家族购地建豪宅](http://www.chinanews.com.cn/ga/news/2010/05-19/2290878.shtml)

@@ -33,7 +33,7 @@ Apple 志愿者与学生围绕包括摄影在内的多个主题展开合作。
 
 在中国，Apple 是为数不多提供员工匹配捐助的跨国公司之一。现如今，有资格接受资助的中国慈善组织有 32 家，其中中国扶贫基金会仅在 2018 年就为 24 个省市的 17.5 万多人提供了救灾备灾援助。
 
-## “不论所处的环境如何，你必须要创造希望。有时候则需要一些帮助。”
+## “不论所处的环境如何，你必须要创造希望。有时候则需要一些帮助。” { data-search-exclude }
 
 总的说来，Apple Giving 计划自八年前推出以来，已成为全球公益的一支重要力量，为全世界的非盈利组织筹集了超过 3.65 亿美元。不过，若你询问因上述工作而得以改变生活的人，他们会告诉你，相关变化及影响是远非金钱所能衡量的。
 
@@ -117,13 +117,13 @@ Apple Giving 的图片
 
 [下载全部图片](/newsroom/images/values/diversity-inclusion/Images-of-Apple-Giving.zip)
 
-## 媒介垂询
+## 媒介垂询 { data-search-exclude }
 
 Apple 媒体联络
 
 [media.cn@apple.com](mailto:media.cn@apple.com)
 
-## 最新消息
+## 最新消息 { data-search-exclude }
 
 ![APPLE STORIES](https://www.apple.com.cn/newsroom/images/2024/11/driving-the-game-forward-ipad-teams-up-with-college-football/tile/Apple-iPad-and-college-football-hero-lp.jpg.landing-regular.jpg)  
 ### iPad 与大学橄榄球队合作，促进运动发展  

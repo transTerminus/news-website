@@ -29,7 +29,7 @@
 
 ![新闻专题](https://s.yimg.com/bt/api/res/1.2/JuE8YX2tZkMDjNFl1D1Lag--~B/Zmk9ZmlsbDtweW9mZj01MDtweG9mZj01MDt3PTUxNDtoPTI4ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/cv/apiv2/twnews/uselection2024-mobile.png.cf.webp)
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 - [美國大選完整開票 川普擊敗賀錦麗確定當選 即時新聞、各方評論、專題報導一次看](https://tw.news.yahoo.com/topic/us-election)
 - [賀錦麗造勢重提2021年國會暴動 批川普滿懷怨恨沉迷復仇](https://tw.news.yahoo.com/%E8%B3%80%E9%8C%A6%E9%BA%97%E9%80%A0%E5%8B%A2%E9%87%8D%E6%8F%902021%E5%B9%B4%E5%9C%8B%E6%9C%83%E6%9A%B4%E5%8B%95-%E6%89%B9%E5%B7%9D%E6%99%AE%E6%BB%BF%E6%87%B6%E6%80%A8%E6%81%A8%E6%B2%88%E8%BF%B7%E5%BE%A9%E4%BB%87-023256256.html)

@@ -5,7 +5,7 @@
 
 ![帅哥与变性美女喜结良缘](//n.sinaimg.cn/sinakd10200/360/w180h180/20231215/912f-8e6f6d95bf934be5bae1840e2951cb33.jpg)
 
-## 来源：扬子晚报  
+## 来源：扬子晚报   { data-search-exclude }
 时间：2005.11.16 06:46
 
 ![新人在婚礼上的合影](//z4.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fw%2F2005-11-16%2F1e217eb7f65185360987e7af746e0da1.jpg&size=328_218)
@@ -22,7 +22,7 @@
 
 ---
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **新浪网友0 6**  
 **新认识一个美女后，“毅然结束和前女友的恋情”! 这种男人。。。**  

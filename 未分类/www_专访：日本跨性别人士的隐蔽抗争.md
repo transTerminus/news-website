@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-## 来源
+## 来源 { data-search-exclude }
 **Human Rights Watch**  
 **日期**：2019年03月19日  
 **作者**：[土井香苗](https://www.hrw.org/about/people/kanae-doi)  
 **编辑**：[菲莉芭・史都华](https://www.hrw.org/about/people/philippa-h-stewart)
 
-## 正文
+## 正文 { data-search-exclude }
 
 日本跨性别人士被迫完成一大堆侵入性手术──包括结扎绝育──才能使自己的性别认同得到法律承认。但许多日本民众根本不知道这种有害的做法正在发生。人权观察日本分部主任[土井香苗](https://www.hrw.org/about/people/kanae-doi)接受[菲莉芭・史都华](https://www.hrw.org/about/people/philippa-h-stewart)访问，说明最近的一份研究报告可望揭露日本跨性别人士的遭遇。
 
@@ -81,16 +81,16 @@
 
 我有信心，一旦日本人民了解这些事实，他们一定会采取行动。
 
-## 注释
+## 注释 { data-search-exclude }
 
 The American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders (DSM–5) has removed “gender identity disorder” as a diagnosis. The organization’s name was misstated in an earlier version of this article.
 
-## 标签
+## 标签 { data-search-exclude }
 * LGBT权利
 * 日本
 * 跨性别
 
-## 相关报道
+## 相关报道 { data-search-exclude }
 
 - **2019年03月19日 新闻稿**
     - **[日本：跨性别人士遭强制绝育](/zh-hans/news/2019/03/19/327813)**  
@@ -100,7 +100,7 @@ The American Psychiatric Association’s Diagnostic and Statistical Manual of M
     - **[A Silver Lining in Japan’s Supreme Court Transgender Ruling](/news/2019/03/01/silver-lining-japans-supreme-court-transgender-ruling)**  
     ![Participants March during the Tokyo Rainbow Parade. On October 22, hundreds of activist groups throughout the world will gather to mark the 8th annual International Day for Trans Depathologization.](/sites/default/files/styles/square/public/multimedia_images_2017/201710lgbt_global_transdepathologizationjp.jpg?itok=_EPy8mNj)
 
-## 报告
+## 报告 { data-search-exclude }
 
 - **2017年11月15日 Report**  
     - **[“你考虑过父母的幸福吗？”](/zh-hans/report/2017/11/15/311127)**  

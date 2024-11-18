@@ -36,12 +36,12 @@
 
 **影片製作：** 張友慈
 
-## 相關主題內容
+## 相關主題內容 { data-search-exclude }
 
 -   [LGBT](/zhongwen/trad/topics/c32p4k5ymqet)
 -   [變性](/zhongwen/trad/topics/cyz124gjw4mt)
 
-## 更多相關內容
+## 更多相關內容 { data-search-exclude }
 
 ![跨性別舞者](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/16B5E/production/_128322039_p0dww59d.jpg.webp)  
 ### [印度跨性別舞者學習婆羅多舞實現夢想](/zhongwen/trad/world-64294581)  

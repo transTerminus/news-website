@@ -11,7 +11,7 @@
 ![图片3](U217P4T8D2016345F107DT20091214134929.jpg)  
 ![图片4](http://www.chinanews.com.cn/fileftp/2009/01/2009-01-19/U76P4T47D10173F979DT20090119163219.gif)  
 
-## 韩国最美变性人河莉秀
+## 韩国最美变性人河莉秀 { data-search-exclude }
 
 **2、韩国最美变性人河莉秀**
 
@@ -19,7 +19,7 @@
 
 **编辑**: 陈薇伊  
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [泰收紧为男性变性政策 需“心理符合”女性特征](http://www.chinanews.com.cn/gj/gj-sswh/news/2009/11-25/1984310.shtml)
 - [16个秘密揭开男人"真面目" 英国第一变性美人(图)](http://www.chinanews.com.cn/life/news/2009/11-25/1983558.shtml)

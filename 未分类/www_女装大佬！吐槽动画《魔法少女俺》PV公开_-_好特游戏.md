@@ -35,7 +35,7 @@ _小编推荐阅读_
 
 ### 好特网发布此文仅为传递信息，不代表好特网认同期限观点或证实其描述。
 
-## 相关视频攻略
+## 相关视频攻略 { data-search-exclude }
 
 - ![三国出击](https://img.haote.com//upload/news/20230411/1681199285911891.png) _04:30_ [三国出击](https://www.haote.com/video/67214/)
 - ![仙宗大掌门 游戏PV](https://img.haote.com//upload/news/20230411/1681199188363756.png) _04:30_ [仙宗大掌门 游戏PV](https://www.haote.com/video/67213/)

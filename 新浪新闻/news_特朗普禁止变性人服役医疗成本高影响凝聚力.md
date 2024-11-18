@@ -5,8 +5,8 @@
 
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：新华网
-## 时间：2017.07.27 12:03
+## 来源：新华网 { data-search-exclude }
+## 时间：2017.07.27 12:03 { data-search-exclude }
 
 原标题：[特朗普](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E7%89%B9%E6%9C%97%E6%99%AE)：美政府禁止变性人服役
 

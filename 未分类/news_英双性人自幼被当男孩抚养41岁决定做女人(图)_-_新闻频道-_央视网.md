@@ -50,7 +50,7 @@
 （黄敏，新华社供本报特稿）  
 **责任编辑：孙人民**
 
-## 热词：
+## 热词： { data-search-exclude }
 
 - [金茜](http://so.cntv.cn/search.php?qtext=金茜&sid=0000&pid=0000)
 - [双性人](http://so.cntv.cn/search.php?qtext=双性人&sid=0000&pid=0000)

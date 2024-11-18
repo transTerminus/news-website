@@ -11,7 +11,7 @@
 
 ![变性人为何要改变自己的性别?原来与其核团特征有关!](https://d.ifengimg.com/w72_h40/x0.ifengimg.com/ucms/2020_14/6284C32E9924505AEC5C667FB49F5CB695B3B2CC_w489_h275.jpg)  
 
-## 视频播放
+## 视频播放 { data-search-exclude }
 
 [查看视频](http://v.ifeng.com/#_v_mininav_logo_pc)  
 

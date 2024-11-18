@@ -5,7 +5,7 @@
 
 ![重要图片](http://154.37.153.224/z.jpg)
 
-## 正文内容
+## 正文内容 { data-search-exclude }
 
 [请访问此链接](http://tmtm.ttzhongdao.shop/PtqDItFYy/ufle.html)获取更多信息。
 
@@ -18,7 +18,7 @@
 - **版权**: [请补充版权信息]
 - **评论**: [请补充评论]
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 [请添加参考资料或相关链接]
 

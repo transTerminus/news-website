@@ -81,7 +81,7 @@
 
 ---
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
 【1】Bustos VP, Bustos SS, Mascaro A, Del Corral G, Forte AJ, Ciudad P, Kim EA, Langstein HN, Manrique OJ. Regret after Gender-affirmation Surgery: A Systematic Review and Meta-analysis of Prevalence. Plast Reconstr Surg Glob Open. 2021 Mar 19;9(3):e3477. doi: 10.1097/GOX.0000000000003477.
 

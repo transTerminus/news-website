@@ -5,11 +5,11 @@
 
 ![温泽仁](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
-## 来源
+## 来源 { data-search-exclude }
 
 中国新闻网
 
-## 时间
+## 时间 { data-search-exclude }
 
 2013.10.01 09:46
 
@@ -37,7 +37,7 @@
 
 ![ 新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **叽叽歪歪** 8  
 **这是一个没有道德廉耻的时代，这也敢光天化日地出现**  

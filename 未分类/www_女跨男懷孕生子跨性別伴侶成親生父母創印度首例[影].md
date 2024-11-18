@@ -21,11 +21,11 @@
 她还说，孩子「喝了一些奶」且「非常健康」，「不论是身体或精神上都没有问题」。  
 （译者：陈昱婷/核稿：陈彦钧）1120209
 
-## 标签
+## 标签 { data-search-exclude }
 - [印度](https://www.cna.com.tw/tag/6131/)
 - [跨性别](https://www.cna.com.tw/tag/17699/)
 
-## 延伸阅读
+## 延伸阅读 { data-search-exclude }
 - [拒当回男生 印度跨性别者遭母亲及家人毆打致死](https://www.cna.com.tw/news/aopl/202112210406.aspx)
 - [印度未承认同婚他俩先结了 盼LGBTQ关系正常化](https://www.cna.com.tw/news/aopl/202112200300.aspx)
 - [专题／险被开脑勇出柜 印度王子宁负公主挺同志](https://www.cna.com.tw/news/aopl/202206240023.aspx)

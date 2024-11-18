@@ -5,7 +5,7 @@
 
 ![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
 
-## 来源: 红网
+## 来源: 红网 { data-search-exclude }
 
 **作者:** 汤红辉  
 **编辑:** 阿锋  

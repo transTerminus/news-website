@@ -5,8 +5,8 @@
 
 ![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 来源：沈阳今报  
-## 时间：2003.12.07 11:44  
+## 来源：沈阳今报   { data-search-exclude }
+## 时间：2003.12.07 11:44   { data-search-exclude }
 
 近日，沈阳东方医疗集团东方君立男科中心为来自吉林省偏远山区青年雪梅(化名)成功进行变性手术，为她消除了人生道路上的后顾之忧。
 
@@ -16,9 +16,9 @@
 
 ![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
-## 快来新闻客户端参与评论获金币兑礼品吧！
+## 快来新闻客户端参与评论获金币兑礼品吧！ { data-search-exclude }
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)  
 

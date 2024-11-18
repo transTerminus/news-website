@@ -5,7 +5,7 @@
 
 ![图片](https://www.wchscu.cn/Uploads/Picture/2024/10/10/s6707a48624fce.jpg)
 
-## 重要信息
+## 重要信息 { data-search-exclude }
 
 - **医院官号**：华西官方微信公众号
 - **华西官方微博**
@@ -14,7 +14,7 @@
 
 ---
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 
 - [信息公开](https://www.wchscu.cn/xxgkw/index.html)
 - [公众版](https://www.wchscu.cn/public/index.html)
@@ -23,7 +23,7 @@
 
 ---
 
-## 医院概况
+## 医院概况 { data-search-exclude }
 - [医院简介](https://www.wchscu.cn/about.html#part1)
 - [职能部门](https://www.wchscu.cn/about.html#part2)
 - [科室导航](https://www.wchscu.cn/departone.html)
@@ -31,7 +31,7 @@
 
 ---
 
-## 患者服务
+## 患者服务 { data-search-exclude }
 - [预约挂号](http://guahao.wchscu.cn/file/h5/index.html#/)
 - [门诊就医指南](https://www.wchscu.cn/public/consultation.html)
 - [特色医疗技术](https://www.wchscu.cn/public/diseases.html)
@@ -46,7 +46,7 @@
 
 ---
 
-## 医学教育
+## 医学教育 { data-search-exclude }
 - [本科教育](https://it.wchscu.cn/jwb/)
 - [研究生教育](http://yjs.cd120.com/index.html)
 - [华西护理学院](http://wcsn.scu.edu.cn/index/xyxw/55.htm)
@@ -56,7 +56,7 @@
 
 ---
 
-## 科学研究
+## 科学研究 { data-search-exclude }
 - [科技部](http://www.wchscu.cn/scientific/index.html)
 - [学科建设部](https://www.wchscu.cn/scientific/office.html)
 - [临床研究管理部](http://kxyj.cd120.com/clinicalresearch.html)
@@ -64,12 +64,12 @@
 
 ---
 
-## 专家介绍
+## 专家介绍 { data-search-exclude }
 - [专家介绍](https://www.wchscu.cn/expertlist.html)
 
 ---
 
-## 新闻中心
+## 新闻中心 { data-search-exclude }
 - [学术新闻](https://www.wchscu.cn/academi.html)
 - [医疗新技术](https://www.wchscu.cn/technology.html)
 - [综合新闻](https://www.wchscu.cn/comprehensive.html)
@@ -78,7 +78,7 @@
 
 ---
 
-## 百年华西
+## 百年华西 { data-search-exclude }
 - [华西院史馆](https://www.wchscu.cn/ysg/damuchuqi.html)
 - [百年华西](https://www.wchscu.cn/bnhx.html)
 - [终身教授](https://www.wchscu.cn/dpb/tenured.html)
@@ -87,7 +87,7 @@
 
 ---
 
-## 华西校友
+## 华西校友 { data-search-exclude }
 - [华西校友](https://www.wchscu.cn/hxxy.html)
 - [华西医联体](https://www.wchscu.cn/ylt.html)
 - [华西产业](https://www.wchscu.cn/hxcy.html)

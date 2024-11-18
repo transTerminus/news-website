@@ -4,7 +4,7 @@
 
 ![药娘日记](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F1006%2F4e4e7686p00qhrmox0024d200be007gg00h100b4.png&thumbnail=750x2147483647&quality=75&type=png)
 
-## 正文
+## 正文 { data-search-exclude }
 
 大家好，我是田静。
 
@@ -143,7 +143,7 @@ ID：doctorzx666
 
 ![现实困境](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F1006%2Fbf6f09d2p00qhrmp0000id200u00086g00h1004m.png&thumbnail=750x2147483647&quality=75&type=webp)
 
-## 药娘们迷茫的未来
+## 药娘们迷茫的未来 { data-search-exclude }
 
 ![迷茫的未来](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F1006%2Faec4ec03j00qhrmp0002ad200u0008ig00h1004t.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
@@ -197,7 +197,7 @@ ID：doctorzx666
 
 ![药娘买药](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F1006%2Ff6d0c475p00qhrmp1003qd200ms00lag00h100fw.png&thumbnail=750x2147483647&quality=75&type=webp)
 
-## 人间失乐园
+## 人间失乐园 { data-search-exclude }
 
 ![人间失乐园](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F1006%2Fed9f1f27j00qhrmp1002dd200u0008ig00h1004t.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
@@ -239,7 +239,7 @@ ID：doctorzx666
 
 她们的未来是怎么样的呢？只有时间才能给出答案。
 
-## 特别鸣谢：
+## 特别鸣谢： { data-search-exclude }
 - Edelweiss（小E）
 - 小悦
 
@@ -249,7 +249,7 @@ ID：doctorzx666
 
 ![特别鸣谢](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F1006%2Fcfbfe636p00qhrmp3006cd200u000zxg00h100kd.png&thumbnail=750x2147483647&quality=75&type=webp)
 
-## 版权声明
+## 版权声明 { data-search-exclude }
 特别声明：本文为网易自媒体平台“网易号”作者上传并发布，仅代表该作者观点。网易仅提供信息发布平台。
 
 ## 摘要与附加信息

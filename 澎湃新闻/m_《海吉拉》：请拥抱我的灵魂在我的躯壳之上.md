@@ -27,7 +27,7 @@
 
 （本文为北京大学新闻与传播学院《影视与文化研究》2020年度期末作业，获得“新青年电影夜航船2020年优秀影视评论”）
 
-## 参考文献：
+## 参考文献： { data-search-exclude }
 
 1. Judith Butler. Gender Trouble: Feminism and the Subversion of Identity. New York: Routledge, 1999.
 2. Judith Butler. Bodies That Matter: On the Discursive Limits of“Sex”. New York and London: Routledge, 1999.

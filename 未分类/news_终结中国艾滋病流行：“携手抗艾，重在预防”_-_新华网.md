@@ -1,4 +1,4 @@
-![](http://www.xinhuanet.com/imgs2015/xhwxlogo300.jpg)
+# ![](http://www.xinhuanet.com/imgs2015/xhwxlogo300.jpg)
 
 # 终结中国艾滋病流行：“携手抗艾，重在预防”
 

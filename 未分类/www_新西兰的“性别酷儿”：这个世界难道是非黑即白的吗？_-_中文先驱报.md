@@ -7,7 +7,7 @@
 
 ![1542223258197 2](https://static.chineseherald.co.nz/assets/Uploads/News/blog-0/1542223258197-2.jpg)
 
-## 正文
+## 正文 { data-search-exclude }
 
 可最麻烦的是——TA自己也不确定，甚至根本也不愿意把自己放入非男即女的盒子里——“我就是我，不一样的烟火！我是Ethan，什么性别都不是！”
 
@@ -63,9 +63,9 @@ Ethan对于这样的改变感到高兴，这显示出对跨性别人士，以及
 
 **TA想表达的，可能就是请像对待一个普通人那样对待TA吧！**
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
-## 评论
+## 评论 { data-search-exclude }
 
 0赞 0评论
 

@@ -211,7 +211,7 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
-## 推荐文章：
+## 推荐文章： { data-search-exclude }
 
 ![专访｜《性别经济学》作者刘倩：关键是“提供选择的自由”](https://file.thepaper.cn/wap/v6/img/kb_detail_articlelink.png)[专访｜《性别经济学》作者刘倩：关键是“提供选择的自由”](https://m.thepaper.cn/kuaibao_detail.jsp?contid=28953392&from=kuaibao)
 

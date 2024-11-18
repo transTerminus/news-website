@@ -5,7 +5,7 @@
 
 ![变性手术前的贝拉](https://n.sinaimg.cn/sinacn10205/360/w180h180/20191010/0acc-ifrwayx3406277.jpg)
 
-## 内涵的搞笑君
+## 内涵的搞笑君 { data-search-exclude }
 
 **日期：** 2018.07.16 10:47  
 **来源：** 新浪网  

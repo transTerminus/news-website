@@ -51,7 +51,7 @@
 
 “提供可能导致内分泌失调的跨性别激素或可能改变健康的身体部位的手术——我不认为那是应对有心理健康问题之人的适当方式，”克斯纳补充说。“我认为，他们应该得到更多个性化的特殊关爱。”
 
-## 相关文章
+## 相关文章 { data-search-exclude }
 
 ![前变性人谈变性手术](https://cdn-chinese.christianpost.com/files/cache/thumbnail/1/99/19916_a_85_85.jpg)
 ### [前变性人谈变性手术：感觉被骗了](https://chinese.christianpost.com/news/前变性人谈变性手术-感觉被骗了.html)

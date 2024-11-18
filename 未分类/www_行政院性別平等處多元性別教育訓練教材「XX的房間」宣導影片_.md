@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## Web Page Blocked!
+## Web Page Blocked! { data-search-exclude }
 
 **The page cannot be displayed. Please contact the administrator for additional information.**
 

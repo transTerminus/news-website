@@ -5,7 +5,7 @@
 
 2017年02月16日17:20 [《财经》杂志](http://www.caijingmobile.com/yuanchuang/2017/02/16/324003.html)
 
-## 正文
+## 正文 { data-search-exclude }
 
 　　原标题：性别选择与跨性别者
 
@@ -39,7 +39,7 @@
 
 　　本文由《财经》2月6日特刊《世界2017》刊发。《世界2017》中国大陆简体中文版， ©2016 经济学人报业有限公司，《财经》杂志获《经济学人》独家授权翻译出版。版权所有，侵权必究。
 
-## 文章关键词：
+## 文章关键词： { data-search-exclude }
 
 - [性别](http://tags.finance.sina.com.cn/性别) 
 - [女性](http://tags.finance.sina.com.cn/女性) 

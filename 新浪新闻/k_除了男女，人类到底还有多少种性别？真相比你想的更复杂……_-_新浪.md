@@ -5,7 +5,7 @@
 
 ![图片](https://n.sinaimg.cn/sinacn10216/360/w180h180/20191010/0921-ifrwayx6041642.jpg)
 
-## 妇科门诊第十一诊室
+## 妇科门诊第十一诊室 { data-search-exclude }
 
 2022.01.07 10:00
 

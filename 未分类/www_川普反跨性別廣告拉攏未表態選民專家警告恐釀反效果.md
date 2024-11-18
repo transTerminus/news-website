@@ -27,20 +27,20 @@
 
 美國喬治華盛頓大學（George Washington University）政治管理學程主任貝爾特（Todd Belt）告訴法新社，這些反跨性別廣告就是「為了激起共和黨基本盤的情緒…它對尚未做出決定選民的吸引力非常有限，並容易讓人感到冷酷無情」，並稱許多美國人已厭倦這種「文化戰爭戲碼」。（譯者：張茗喧/核稿：劉淑琴）1131030
 
-## 標籤
+## 標籤 { data-search-exclude }
 [#川普](/tag/1770/)  
 [#賀錦麗](/tag/15981/)  
 [#賀錦麗](/tag/32007/)  
 [#美選速報](/tag/46125/)
 
-## 延伸閱讀
+## 延伸閱讀 { data-search-exclude }
 - [川普再扯奧運金牌女拳手性別 矢言阻「變性人」參賽](https://www.cna.com.tw/news/aopl/202408180120.aspx)
 - [衛生紙與咖啡豆價格決定選票 賀錦麗邁向勝選致命傷](https://www.cna.com.tw/news/aopl/202410300016.aspx)
 - [看懂移民為何成美國大選魔王級議題 吃狗論謠言背後是邊境危機](https://www.cna.com.tw/news/aopl/202410290017.aspx)
 - [川普行為發言惹議厭女仇女標籤難除 賀錦麗少不了窮追猛打](https://www.cna.com.tw/news/aopl/202407230223.aspx)
 - [跨性別政策引撻伐 川普辯稱是保護國家](https://www.cna.com.tw/news/aopl/201810230112.aspx)
 
-## 來源
+## 來源 { data-search-exclude }
 中央社
 
 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。

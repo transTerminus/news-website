@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 两性畸形
+## 两性畸形 { data-search-exclude }
 
 ![困在“身体”里的人](https://imagecloud.thepaper.cn/thepaper/image/264/816/265.jpg?x-oss-process=image/resize,w_332)
 

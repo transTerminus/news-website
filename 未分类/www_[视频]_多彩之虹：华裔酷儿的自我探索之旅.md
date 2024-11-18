@@ -15,7 +15,7 @@
 
 ---
 
-## 相关阅读
+## 相关阅读 { data-search-exclude }
 
 - [Chinese rainbow communities struggle with life in the ‘ethnic closet’](/news/chinese/495437/chinese-rainbow-communities-struggle-with-life-in-the-ethnic-closet)
 - [华人彩虹社区：边缘的边缘，和“族群的柜子”](/news/chinese/493962/article)
@@ -23,7 +23,7 @@
 
 ---
 
-## 标签
+## 标签 { data-search-exclude }
 
 - [平权，多样性，彩虹社群](/tags/%E5%B9%B3%E6%9D%83%EF%BC%8C%E5%A4%9A%E6%A0%B7%E6%80%A7%EF%BC%8C%E5%BD%A9%E8%99%B9%E7%A4%BE%E7%BE%A4)
 

@@ -5,7 +5,7 @@
 
 隨著 Rupaul's Drag Race（露波變裝秀比賽）節目的成功， Drag Queen（變裝皇后）從過去不入流的地下文化，成為今天光鮮亮麗的偶像明星。其實 Drag（變裝）是一門超過 100 多年的表演藝術，從最早期的舞台演出到最近的偶像明星，這 8 位變裝藝術家奠定了今天變裝皇后的社會地位。
 
-## 1. Violet Chachki
+## 1. Violet Chachki { data-search-exclude }
 
 ![Performance, Circus, Performing arts, Performance art, Musical, Event, Art, Neo-burlesque, Illustration](https://hips.hearstapps.com/hmg-prod/images/gettyimages-1055847136.jpg?crop=1xw:1xh;center,top&resize=980:*)
 
@@ -39,7 +39,7 @@ Violet Chachki 將於 2019 年的 ㄧ 月來台北演出，為台灣的觀眾帶
 
 Getty Images
 
-## 2. Dan Leno 丹萊諾
+## 2. Dan Leno 丹萊諾 { data-search-exclude }
 
 19 世紀末期的英國喜劇演員，除了一般舞台劇的演出，他最著名的表演就是在一種闔家觀賞的啞劇（Pantomime）中，扮演女性角色。他的老婆也是舞台演員，兩人經常同台演出。
 
@@ -59,7 +59,7 @@ Getty Images
 
 Getty Images
 
-## 3. Julian Eltinge 朱利安埃爾廷奇
+## 3. Julian Eltinge 朱利安埃爾廷奇 { data-search-exclude }
 
 20 世紀初期美國著名的反串演員。從紐約的百老匯歌舞劇到好萊塢的電影都可看到他精彩的男扮女裝演出。
 
@@ -81,7 +81,7 @@ Getty Images
 
 Getty Images
 
-## 4. Candy Darling 坎迪達令
+## 4. Candy Darling 坎迪達令 { data-search-exclude }
 
 其實 Candy Darling 並不算是真正的 Drag Queen，雖然她在 20 歲之前，都是以男扮女裝的身分出現，直到 20 歲時才開始變性手術。有些 Drag Queen 最後會走上變性之路，原因是上帝跟她們開了一個玩笑，讓她們出身在錯誤的性別身上。
 
@@ -109,7 +109,7 @@ Getty Images
 
 Getty Images
 
-## 5. Divine 蒂凡
+## 5. Divine 蒂凡 { data-search-exclude }
 
 他來自美國巴爾的摩，因為在導演 John Waters 的多部電影中的反串演出，而成為知名的變裝皇后代表人物。巨大身型及充滿卡通風格又無厘頭演出的她，完全顛覆了變裝皇后的制式形象，並為後來的大女孩變裝皇后們，樹立了全新的學習典範。
 
@@ -135,7 +135,7 @@ Getty Images
 
 I AM DIVINE 是有關 Divine 精彩一生的紀錄片，許多她於 John Waters 電影中的驚人演出，都在這部紀錄片中可以看到。
 
-## 6. Leigh Bowery 李包爾里
+## 6. Leigh Bowery 李包爾里 { data-search-exclude }
 
 ![Face, Yellow, Head, Nose, Clown, Fun, Smile, Performing arts, Gesture, Thumb](https://hips.hearstapps.com/hmg-prod/images/gettyimages-558234453-1530351613.jpg?crop=1xw:1xh;center,top&resize=980:* )
 

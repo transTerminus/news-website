@@ -9,7 +9,7 @@
 
 请您在继续之前先解决一个难题，这个难题要求您关闭 Google Translate。请关闭 Google Translate 后重试。
 
-## 确认您是人类
+## 确认您是人类 { data-search-exclude }
 
 在继续之前，请完成安全检查。此步骤是为了验证您不是机器人，从而帮助保护您的帐户并防止垃圾邮件。
 
@@ -29,7 +29,7 @@
 - Türkçe
 - 中文
 
-## 脚本提示
+## 脚本提示 { data-search-exclude }
 
 为了继续，您需要通过解决一个 CAPTCHA 难题来验证您不是机器人。该 CAPTCHA 难题需要启用 JavaScript。请启用 JavaScript 然后重新加载页面。
 

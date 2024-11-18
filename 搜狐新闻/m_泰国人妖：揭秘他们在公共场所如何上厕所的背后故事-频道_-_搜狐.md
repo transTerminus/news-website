@@ -9,7 +9,7 @@
 
 ![睿晨故事汇](//p9.itc.cn/q_70,c_lfill,w_60,h_60,g_face/images03/20230319/93c8a3e01fc0449e83992e5f51b5c067.jpeg)
 
-## 相关推荐
+## 相关推荐 { data-search-exclude }
 
 - #### 【泰国】缅甸小姐国际选美大赛获季军 当场翻脸崩溃大哭
     ![](//q1.itc.cn/q_70,c_lfill,w_960,h_400,g_face/images03/20241105/917a830d7a6e4a57a4d56c07d7e17838.gif) 00:32

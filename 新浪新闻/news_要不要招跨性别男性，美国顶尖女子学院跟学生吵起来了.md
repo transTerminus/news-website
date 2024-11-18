@@ -5,7 +5,7 @@
 
 ![韦尔斯利学院](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg)
 
-## 观察者网
+## 观察者网 { data-search-exclude }
 
 观察者网官方账号 2023.03.15 13:21
 
@@ -15,7 +15,7 @@
 
 ![美国哥伦比亚广播公司（CBS）报道截图](//k.sinaimg.cn/n/spider20230315/561/w1022h339/20230315/ec0b-7defada1d3b707f5cc6b6d461ec7b50c.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
-## 美国哥伦比亚广播公司（CBS）报道截图
+## 美国哥伦比亚广播公司（CBS）报道截图 { data-search-exclude }
 
 韦尔斯利学院（Wellesley College）位于美国马萨诸塞州波士顿近郊，根据学院官网介绍，它创办于1870年，1875年，第一批学生进入校园，开始上课。作为一所女子学院，该校的使命是“为那些将改变世界的女性”提供优秀的文理教育。
 
@@ -23,7 +23,7 @@
 
 ![韦尔斯利学院](//k.sinaimg.cn/n/spider20230315/383/w2048h1535/20230315/1791-1e7b19dc0a24f5926ab3b408c01741a7.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-## 韦尔斯利学院
+## 韦尔斯利学院 { data-search-exclude }
 
 目前，该学院仍坚持“女子学院”的身份，虽然在2015年该校的招生政策更新，允许跨性别女性（“男跨女”）和出生时被指定为女性的非二元性别人士被考虑录取，但这符合学校只考虑“以女性身份生活并始终认为自己是女性”的申请者的理念。
 
@@ -37,7 +37,7 @@
 
 ![韦尔斯利学院女校长宝拉·约翰逊（左）与校友希拉里·克林顿（右）](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
 
-## 韦尔斯利学院女校长宝拉·约翰逊（左）与校友希拉里·克林顿（右）
+## 韦尔斯利学院女校长宝拉·约翰逊（左）与校友希拉里·克林顿（右） { data-search-exclude }
 
 校长约翰逊的这封信遭到了激烈的抵制。学生们在行政大楼举行了持续的静坐活动，学生报的编辑委员会也称“不赞成并且完全不同意”校长的观点，并指责校方发表“跨性别恐惧症言论”。
 

@@ -12,7 +12,7 @@
 
 [点击下载](/app/download)
 
-## 标签
+## 标签 { data-search-exclude }
 - 有趣
 - 千古一帝
 - 合订本
@@ -34,7 +34,7 @@
 - 年度热点
 - 大陆资讯
 
-## 热搜
+## 热搜 { data-search-exclude }
 - [扇巴掌黑丝女王](/dm/search/q-扇巴掌黑丝女王/via-log)
 - [顶进子宫了](/dm/search/q-顶进子宫了/via-log)
 - [金田一](/dm/search/q-金田一/via-log)
@@ -66,7 +66,7 @@
 - [小学生](/dm/search/q-小学生/via-log)
 - [剪衣服做爱](/dm/search/q-剪衣服做爱/via-log)
 
-## 动漫
+## 动漫 { data-search-exclude }
 - [伪娘♂Delivery 1](/dm/play/id-1784 "伪娘♂Delivery 1")
 - [伪娘♥大小姐 ～光与绫奈的秘密收藏～](/dm/play/id-1083 "伪娘♥大小姐 ～光与绫奈的秘密收藏～")
 - [\[PNME-067\] 模特儿体型伪娘碧翠丝 只有一发才不够！！更多地对着我发情吧！！抖M肛门调教真实高潮3P性爱！！](/dm/play/id-3434 "[PNME-067] 模特儿体型伪娘碧翠丝 只有一发才不够！！更多地对着我发情吧！！抖M肛门调教真实高潮3P性爱！！")

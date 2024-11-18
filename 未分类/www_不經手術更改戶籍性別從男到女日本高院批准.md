@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 正文
+## 正文 { data-search-exclude }
 
 > 本文档内容提及了有关跨性别人士的多种重要信息，具体细节和内容如下：
 
@@ -26,7 +26,7 @@
 ### 编辑
 李四
 
-## 表格
+## 表格 { data-search-exclude }
 
 | 标题       | 内容         | 备注     |
 |------------|--------------|----------|
@@ -48,7 +48,7 @@
 - [跨性别的历史](https://example.com/history)
 - [当前挑战与支援](https://example.com/challenges)
 
-## 重要图片
+## 重要图片 { data-search-exclude }
 
 ![跨性别相关活动](https://example.com/event.jpg)
 

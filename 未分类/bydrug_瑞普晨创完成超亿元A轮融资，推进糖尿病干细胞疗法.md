@@ -71,7 +71,7 @@
 -   [金斯瑞生物宣布解除与传奇生物合并，调整为联营公司投资](http://mp.weixin.qq.com/s?__biz=MzIzNDM2NzgzMA==&mid=2247578984&idx=1&sn=61dba50c6825b1e902bf239f4d855ffa&chksm=e8f48b51df83024791a930dc1e5367b4a5a2ce6b56f83d13bfb88f23fce169443c3e717eda72&scene=21#wechat_redirect)
 -   [成都多部门联合发布开展细胞治疗、基因治疗等再生医学前沿医学领域试点通知](http://mp.weixin.qq.com/s?__biz=MzIzNDM2NzgzMA==&mid=2247578849&idx=3&sn=3fa2bdcbc0692d350a724365c28ad08d&chksm=e8f48ad8df8303ced30f756a01d4f378fca2d996ebcec9cb0713364eb32a42989b7e2ac986ee&scene=21#wechat_redirect)
 
-## 今日事件
+## 今日事件 { data-search-exclude }
 暂无事件，前往[医药日历](https://bydrug.pharmcube.com/calendar)查看更多内容
 
 ### 查看聚合内容

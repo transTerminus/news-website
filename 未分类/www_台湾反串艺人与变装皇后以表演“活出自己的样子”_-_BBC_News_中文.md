@@ -15,13 +15,13 @@
 
 影片製作：张友慈
 
-## 相关主题内容
+## 相关主题内容 { data-search-exclude }
 
 -   [台湾](/zhongwen/simp/topics/c50nzmy3vent)
 -   [艺术](/zhongwen/simp/topics/czp1qex2jy8t)
 -   [LGBT](/zhongwen/simp/topics/czp1qexpdlzt)
 
-## 更多相关内容
+## 更多相关内容 { data-search-exclude }
 
 ![今年1月，31岁的黄捷在台湾大选中赢得立委席位，并成为台湾首位公开出柜的立委。](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/14CAE/production/_133466158_1917afb4-a2d5-4197-98dd-c57d3161d435.jpg.webp)
 

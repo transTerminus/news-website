@@ -109,7 +109,7 @@
 
 --- 
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [男孩看不起复旦退学选择创业 称复旦自由而无用](https://news.sohu.com/20130412/n372511554.shtml)
 - [湖北男孩称与理想大学不符 从复旦退学选择创业](https://news.sohu.com/20130412/n372500781.shtml)

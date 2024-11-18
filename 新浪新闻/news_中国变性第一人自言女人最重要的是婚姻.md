@@ -5,7 +5,7 @@
 
 ![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-## 工人日报天讯在线
+## 工人日报天讯在线 { data-search-exclude }
 
 **时间**: 2003.06.05 22:40
 

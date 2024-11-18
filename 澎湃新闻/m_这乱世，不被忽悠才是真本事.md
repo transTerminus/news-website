@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-## 来源
+## 来源 { data-search-exclude }
 [澎湃号·湃客](https://m.thepaper.cn/channel_36079)
 
-## 作者
+## 作者 { data-search-exclude }
 衡星 朝阳少侠
 
-## 正文
+## 正文 { data-search-exclude }
 
 啥也不说先上图——这是美国抽象表现主义绘画大师杰克逊・勃洛克的作品。
 
@@ -92,7 +92,7 @@
 
 最后，如果下次有人再拿出什么抽象表现主义的大师作，若不喜欢，不如直接像《皇帝的新装》里的孩子一样大声说出来：“看呐，他就是什么都没穿！”
 
-## 特别声明
+## 特别声明 { data-search-exclude }
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[https://renzheng.thepaper.cn](https://renzheng.thepaper.cn).
 
 ## 摘要与附加信息

@@ -21,7 +21,7 @@
 
 ---
 
-## 热词：
+## 热词： { data-search-exclude }
 
 -   [张婷婷](http://so.cntv.cn/search.php?qtext=张婷婷&sid=0000&pid=0000)
 -   [夜市](http://so.cntv.cn/search.php?qtext=夜市&sid=0000&pid=0000)

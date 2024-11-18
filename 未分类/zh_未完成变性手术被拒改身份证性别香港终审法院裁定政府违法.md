@@ -7,7 +7,7 @@
 
 ![立法会大楼](//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Legislative_Council_Building_HK.jpg/220px-Legislative_Council_Building_HK.jpg)
 
-## 香港终审法院裁定政府违法
+## 香港终审法院裁定政府违法 { data-search-exclude }
 
 跨性别人士遭拒绝更改身份证上性别，上诉至香港终审法院获胜诉。法院裁定港府违宪，指更改身份证上必须接受整个性别重置手术，作为更改身份证性别标记的准则，违反《香港人权法案》第14条的权利。
 
@@ -54,7 +54,7 @@
 
 香港终审法院裁决“女跨男”在更改性别毋须完成整个变性手术。裁定预计对LGBTQ社区具有广泛的影响，因为许多跨性别者认为要采取完全变性手术是不必要和有风险的。
 
-## 伸延阅读
+## 伸延阅读 { data-search-exclude }
 
 - [香港已完成手术跨男改身份证性别遭暂缓 入境处：尽快处理](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E5%B7%B2%E5%AE%8C%E6%88%90%E6%89%8B%E8%A1%93%E8%B7%A8%E7%94%B7%E6%94%B9%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%80%A7%E5%88%A5%E9%81%AD%E6%9A%AB%E7%B7%A9_%E5%85%A5%E5%A2%83%E8%99%95%EF%BC%9A%E7%9B%A1%E5%BF%AB%E8%99%95%E7%90%86)
 - [胜诉人慨叹不是要有特权：挑战改身份证性别，香港跨男于法庭胜一仗](https://zh.wikipedia.org/wiki/%E5%8B%9D%E8%A8%B4%E4%BA%BA%E6%85%A8%E5%98%86%E4%B8%8D%E6%98%AF%E8%A6%81%E6%9C%89%E7%89%B9%E6%AC%8A%EF%BC%9A%E6%8C%91%E6%88%B0%E6%94%B9%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%80%A7%E5%88%A5%EF%BC%8C%E9%A6%99%E6%B8%AF%E8%B7%A8%E7%94%B7%E6%96%BC%E6%B3%95%E5%BA%AD%E5%8B%9D%E4%B8%80%E4%BB%97)
@@ -62,7 +62,7 @@
 - [西班牙通过16岁以上可自由变更登记性别的法案](https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%80%9A%E8%BF%8716%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%8F%AF%E8%87%AA%E7%94%B1%E5%8F%98%E6%9B%B4%E7%99%BB%E8%AE%B0%E6%80%A7%E5%88%AB%E7%9A%84%E6%B3%95%E6%A1%88)
 - [英国政府首用否决权 阻挡苏格兰性别认同改革法](https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%A6%96%E7%94%A8%E5%90%A6%E6%B1%BA%E6%AC%8A_%E9%98%BB%E6%93%8B%E8%98%87%E6%A0%BC%E8%98%AD%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E6%94%B9%E9%9D%A9%E6%B3%95)
 
-## 消息来源
+## 消息来源 { data-search-exclude }
 
 - 详情﹕ [判案书](https://legalref.judiciary.hk/lrs/common/ju/ju_frame.jsp?DIS=150361) [新闻摘要](https://legalref.judiciary.hk/doc/judg/html/vetted/other/en/2022/FACV000008A_2022_files/FACV000008A_2022CS.htm)
 - [跨性别者改身分证性别遭拒　终院裁定政府败诉　上诉人叹惨胜：迟来公义](https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/89046/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E6%9B%B4%E6%94%B9%E8%BA%AB%E5%88%86%E8%AD%89%E6%80%A7%E5%88%A5%E8%A2%AB%E6%8B%92-%E7%B5%82%E9%99%A2%E8%A3%81%E5%AE%9A%E6%94%BF%E5%BA%9C%E6%95%97/)

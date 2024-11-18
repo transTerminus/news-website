@@ -5,7 +5,7 @@
 
 ![image1](//n.sinaimg.cn/sinacn/20170919/c987-fykywuc7435594.jpg)
 
-## 看看新闻KNEWS
+## 看看新闻KNEWS { data-search-exclude }
 
 **时间：** 2017.07.27 15:06
 

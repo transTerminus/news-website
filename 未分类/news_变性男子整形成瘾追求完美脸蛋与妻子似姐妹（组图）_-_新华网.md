@@ -1,4 +1,4 @@
-![](http://www.xinhuanet.com/imgs2015/xhwxlogo300.jpg)
+# ![](http://www.xinhuanet.com/imgs2015/xhwxlogo300.jpg)
 
 # 变性男子整形成瘾追求完美脸蛋 与妻子似姐妹（组图）
 

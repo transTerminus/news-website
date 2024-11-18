@@ -9,11 +9,11 @@
 
 据报道，来自巴西的塔丽塔-詹比罗伊（Thalita Zampirolli）是一名变性模特，今年26岁。自18岁变性并整容后，男儿身的他摇身一变成为了身材火爆的性感模特。图为塔丽塔变性前后的对比照。
 
-## 图片列表
+## 图片列表 { data-search-exclude }
 
 - ![](http://img02.imgcdc.com/qrcode/23200595.png)
 
-## 重要图片
+## 重要图片 { data-search-exclude }
 
 ![塔丽塔变性前后对比照](http://img03.imgcdc.com/news/zh_cn/hd/11127798/20160802/small_60651470121259.jpg)
 
@@ -27,7 +27,7 @@
 - [第七张](http://img3.utuku.china.com/140x100/news/20160802/280ea4b5-3f18-4476-992a-df194e7f6892.jpg)
 - [第八张](http://img0.utuku.china.com/140x100/news/20160802/b95881e9-167e-4440-9941-2fce3aaedaae.jpg)
 
-## 注释
+## 注释 { data-search-exclude }
 来自英国《每日邮报》的报道。
 
 ### 版权声明

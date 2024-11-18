@@ -7,7 +7,7 @@
 
 [English](https://www.who.int/news-room/fact-sheets/detail/menopause) | [العربية](https://www.who.int/ar/news-room/fact-sheets/detail/menopause) | [Français](https://www.who.int/fr/news-room/fact-sheets/detail/menopause) | [Русский](https://www.who.int/ru/news-room/fact-sheets/detail/menopause) | [Español](https://www.who.int/es/news-room/fact-sheets/detail/menopause)
 
-## 重要事实
+## 重要事实 { data-search-exclude }
 
 -   **更年期是妇女生命各阶段连续统一体中的一个点，标志着她们生育时期的结束。绝经后，妇女不能怀孕，除非在极少数情况下使用专门的生育治疗方法。**
 -   **大多数妇女\[1\]在45至55岁之间经历更年期，这是生理衰老的自然组成部分。**
@@ -17,7 +17,7 @@
 -   **一系列非激素和激素干预措施可以帮助缓解围绝经期症状\[2\]。**
 -   **更年期可以是外科手术或医疗程序的结果。**
 
-## 更年期是如何发生的
+## 更年期是如何发生的 { data-search-exclude }
 
 对于大多数妇女来说，更年期的标志是卵巢卵泡功能丧失而导致的月经（也称为月经期或“经期”）结束。这意味着卵巢停止释放卵子进行受精。
 
@@ -33,7 +33,7 @@
 
 许多妇女的月经在更年期前已停止，例如接受过某些外科手术（子宫切除术或手术切除子宫内膜）的女性，以及使用某些激素避孕药及其它导致月经频率降低或停止的药物的女性。她们可能仍然会经历与更年期过渡相关的其它变化。
 
-## 与更年期相关的变化
+## 与更年期相关的变化 { data-search-exclude }
 
 与更年期相关的激素变化可以影响身体、情感、心理和社会幸福感。绝经过渡期间和之后经历的症状因人而异。有些人几乎没有症状。对于其他人来说，症状可能很严重，会影响日常活动和生活质量。有些人可能会出现数年的症状。
 
@@ -53,7 +53,7 @@
 
 在围绝经期和绝经后，仍有可能通过无保护的性接触（包括口交、肛交和阴道性交）获得性传播感染（STIs），包括感染艾滋病毒。绝经后阴道壁变薄，会增加病变和撕裂的机会，从而加大阴道性交期间艾滋病毒传播的风险。
 
-## 对更年期进行了解的重要性
+## 对更年期进行了解的重要性 { data-search-exclude }
 
 必须将更年期视为生命各阶段连续体中的一个点。进入围绝经期的妇女健康状况将在很大程度上取决于先前的健康和生育史、生活方式和环境因素。围绝经期和绝经后症状可能会扰乱个人和职业生涯，而且与更年期相关的变化将随着年龄的增长影响妇女的健康。因此，围绝经期护理在促进健康老龄化和生活质量方面发挥着重要作用。
 
@@ -63,7 +63,7 @@
 
 更年期可以提供重要的机会，重新评估一个人的健康、生活方式和目标。
 
-## 与更年期有关的公共卫生挑战
+## 与更年期有关的公共卫生挑战 { data-search-exclude }
 
 围绝经期妇女需要获得高质量的卫生服务以及能够支持她们的社区和系统。不幸的是，在大多数国家，对更年期相关信息和服务的认识和利用率方面仍然存在重大挑战。常常不会在家庭、社区、工作场所或卫生保健机构中讨论更年期问题。
 
@@ -75,7 +75,7 @@
 
 许多国家政府没有将更年期相关的诊断、咨询和治疗服务纳入其常规服务的卫生政策和资金。在卫生资金方面常常有其它紧迫和相互竞争的优先事项的地方，更年期相关服务尤其是一项挑战。
 
-## 世卫组织的反应
+## 世卫组织的反应 { data-search-exclude }
 
 世卫组织认为，绝经过渡期间和绝经后在社会、心理和身体健康方面的支持应是卫生保健的一个组成部分。世卫组织致力于通过以下方式增进对更年期的了解：
 
@@ -98,11 +98,11 @@
 
 \[iii\] 联合国艾滋病规划署。《2014年差距报告：50岁及以上人群》。瑞士日内瓦。(2014年)。联合国艾滋病规划署。[https://www.unaids.org/sites/default/files/media_asset/12_Peopleaged50yearsandolder.pdf](https://www.unaids.org/sites/default/files/media_asset/12_Peopleaged50yearsandolder.pdf)
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 
 [妇女健康 - 英文](/health-topics/women-s-health) | [性健康和生殖健康与研究 - 英文](/teams/sexual-and-reproductive-health-and-research-\(srh\)) | [老龄化](/zh/health-topics/ageing#tab=tab_1) | [性健康](/zh/health-topics/sexual-health#tab=tab_1)
 
-## 实况报道
+## 实况报道 { data-search-exclude }
 
 [老龄化与健康 2024年10月1日](https://www.who.int/zh/news-room/fact-sheets/detail/ageing-and-health)  
 [计划生育/避孕 2023年9月5日](https://www.who.int/zh/news-room/fact-sheets/detail/family-planning-contraception)  

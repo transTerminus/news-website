@@ -10,7 +10,7 @@
 ![相关图片](//e3f49eaa46b57.cdn.sohucs.com/c_lfill,w_1920,h_800,g_face/sscs/2023/10/16/21/9/6_18b4df6ef57g41SysCutcloudSrcimag_486322550_7_3b.jpg)
 ![相关图片](//e3f49eaa46b57.cdn.sohucs.com/c_lfill,w_1920,h_800,g_face/sscs/2023/10/16/21/9/6_18b4df6ef57g41SysCutcloudSrcimag_486322550_7_3b.jpg)
 
-## 相关推荐
+## 相关推荐 { data-search-exclude }
 
 #### 【泰国】缅甸小姐国际选美大赛获季军 当场翻脸崩溃大哭
 ![视频](//q1.itc.cn/q_70,c_lfill,w_960,h_400,g_face/images03/20241105/917a830d7a6e4a57a4d56c07d7e17838.gif) 00:32

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-## 正文内容
+## 正文内容 { data-search-exclude }
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 - **来源**: 跨性别档案馆
 - **作者**: [未提供]
@@ -25,19 +25,19 @@
 
 --- 
 
-## 注释
+## 注释 { data-search-exclude }
 
 [注释内容未提供]
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 
 [评论内容未提供]
 
 ---
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 [参考资料内容未提供]
 
