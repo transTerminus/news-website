@@ -1,4 +1,7 @@
----
+# ---
+
+## 正文 { data-search-exclude }
+
 title: 德國立法保護性別認同 變更性別不須醫師評估
 author: 白廷奕
 date: 2024-04-19
@@ -9,7 +12,7 @@ tags: [性別認同, 跨性別, 法律, 德國]
 
 ![德國立法保護性別認同 變更性別不須醫師評估](https://images.ctfassets.net/3jfbqsyeg8et/1LEWMFlUVy9JzwdXj9iIhK/b33693164ddba3ca95fc700907c10cca/__________20230118_195911_1.jpg?w=88&h=88&fl=progressive&q=100&fm=jpg)
 
-## 德國立法保護性別認同 變更性別不須醫師評估
+## 德國立法保護性別認同 變更性別不須醫師評估 { data-search-exclude }
 
 德國聯邦議院於 2024 年 4 月 12 日通過《性別自決法》，簡化跨性別者、雙性人與非二元性別者更改名字及性別的程序。
 

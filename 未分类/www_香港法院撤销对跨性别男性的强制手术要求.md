@@ -1,4 +1,7 @@
-## 香港法院撤销对跨性别男性的强制手术要求 | Human Rights Watch
+# 香港法院撤销对跨性别男性的强制手术要求 | Human Rights Watch
+
+## 正文 { data-search-exclude }
+
 
 ![Transgender activist Henry Edward Tse speaks to reporters outside of Court of Final Appeal in Hong Kong.](https://www.hrw.org/sites/default/files/styles/embed_xxl/public/media_2023/02/202302lgbt_china_hong_kong_transgender_activist_henry_edward_tse.jpg?itok=LE2EFfis)  
 **Transgender activist Henry Edward Tse speaks to reporters outside of Court of Final Appeal in Hong Kong, February 6, 2023. © 2023 Anthony Kwan/AP Photo**

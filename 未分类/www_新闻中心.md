@@ -1,10 +1,13 @@
-无锡市精神卫生中心
+# 无锡市精神卫生中心
+
+## 正文 { data-search-exclude }
+
 
 ![无锡市精神卫生中心](images/nban.jpg)
 
 ---
 
-## 新闻中心
+## 新闻中心 { data-search-exclude }
 
 -   [媒体报道](#)
 

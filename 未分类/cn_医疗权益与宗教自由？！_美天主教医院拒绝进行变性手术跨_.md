@@ -1,4 +1,7 @@
-## 医疗权益与宗教自由？！美天主教医院拒绝进行变性手术 跨性别者提出控诉
+# 医疗权益与宗教自由？！美天主教医院拒绝进行变性手术 跨性别者提出控诉
+
+## 正文 { data-search-exclude }
+
 
 ![news-details](/WebView/GetMedia.ashx?PK=000000000067b7fa5fc0ad618fb0fd4ea888d7b08968c78e&VideoSize=3)
 

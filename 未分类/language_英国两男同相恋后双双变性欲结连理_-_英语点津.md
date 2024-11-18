@@ -1,4 +1,7 @@
-## 英国两男同相恋后双双变性 欲结连理 Two men who fell in love and had sex change now getting married as lesbians
+# 英国两男同相恋后双双变性 欲结连理 Two men who fell in love and had sex change now getting married as lesbians
+
+## 正文 { data-search-exclude }
+
 
 **时间：** 2015-01-12 10:28  
 **来源：** 中国日报网

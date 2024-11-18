@@ -1,4 +1,7 @@
-## 湘雅三医院泌尿外科为两性畸形患者成功手术
+# 湘雅三医院泌尿外科为两性畸形患者成功手术
+
+## 正文 { data-search-exclude }
+
 
 ###### _党总支： 科室： 作者：周婷 时间：2012/4/11 15:20:12 点击数：10738_
 
@@ -18,7 +21,7 @@
 
 ![分享图标](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAACoElEQVRIS72WT0gUYRjGn3empYvYzsR2qchDXepQGVHuquzopUunCLqVUEIUBP05dVAvCWH/oCKFKLxEXbqWpLP5ZyYPmQRC0FGtw5azBw+h7jwxsy7tbrPjKK4f7Cx8fO/z+753nnnfT7A6moZ37lYU3iSYBnCkOL/B/2mBZFxX+uz23/OehniP5HC8G4p0bVB0jTB2W0auR1pG9YP5PGdqAymoqqockqQZ7wPkRi1BAO9JytQ+EThRS5AAk5I0NVaFCIaE+EpwBpSsAIcpbATkzHo3FggiMQnikd3uvAoSbB7ZccxVlE4QnVGBQaD3luGciiLQZMavCeRhlLUVIPmsqsrpsdZfP1tG6xKuG3vOPKes9ly3J9b6Ud+77HIQggE7XThtKqPdInF3LVgZSIDLE4bzzAs6acYbFJEJUIYsY6HDm2vK6GeFfAOwwzJyL/05s36/QP2+LhDAo5aRm14ryP/ITe0PiDkKZoVQINgH+L/AUXYiVV3eNda6mA0DeS4l+cAV5f6ksTBXujbMJOXvSHDFSjtPq4FSpn7RJRN2m9MbupkRvRPC/tI1la57bRnOuSCRtJmoW8LKnGU4cT91I9oTkNmiUbx6SUG93Za7Xkit/gLghaLW//Z22VMMLgWmTK1ZhInxdO5tFNA/4xRUgitDACxlalcnDOdxFKMU15RWnWolaN4ynD2exeFSj8Xys+5K7Lgr4trGwrsosEgnEsFtUg6U5tgXr5LWIHAyo/WXlqigEy0DiFXbNcnzdltuMNR1w/olKBwIc12UrIBE73bZdidjZBcrA6p16/A2EYYVfIGLbxD+ECgqwQZAxsn8tIjyoTJ08xufYApEY1naCo1vi1r5ll1OCuUi3gWI33M2fax+Ev69zhu1vkD+BT/BTAAuWnoeAAAAAElFTkSuQmCC)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 医院地址：湖南省长沙市河西岳麓区桐梓坡路138号 中南大学湘雅三医院 版权所有
 

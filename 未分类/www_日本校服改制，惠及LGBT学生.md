@@ -1,4 +1,7 @@
-## 日本校服改制，惠及LGBT学生
+# 日本校服改制，惠及LGBT学生
+
+## 正文 { data-search-exclude }
+
 
 *来源：[Human Rights Watch](https://www.hrw.org/zh-hans/news/2018/06/20/319372)*  
 *时间：2018年6月20日*  

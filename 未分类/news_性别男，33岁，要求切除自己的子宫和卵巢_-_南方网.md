@@ -1,4 +1,7 @@
-## 性别男，33岁，要求切除自己的子宫和卵巢
+# 性别男，33岁，要求切除自己的子宫和卵巢
+
+## 正文 { data-search-exclude }
+
 
 ![南方网](//nfcms-mainsiteoss.southcn.com/nfw/__tpl_asset/1dc4fe9695.png)
 

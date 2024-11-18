@@ -1,4 +1,7 @@
-## 這個網站目前已啟用維護模式
+# 這個網站目前已啟用維護模式
+
+## 正文 { data-search-exclude }
+
 
 Site will be available soon. Thank you for your patience!
 

@@ -1,4 +1,7 @@
-## 英国史上最年轻性别焦虑症患者 3岁就想改变性别
+# 英国史上最年轻性别焦虑症患者 3岁就想改变性别
+
+## 正文 { data-search-exclude }
+
 
 ### 来源
 [英国每日新闻](https://www.suuk.org/default.asp)

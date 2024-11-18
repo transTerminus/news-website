@@ -1,4 +1,7 @@
-## 前跨性别者现身说法》变性手术没办法解决心中痛苦　要改变的不是性别，而是化解过往伤害
+# 前跨性别者现身说法》变性手术没办法解决心中痛苦　要改变的不是性别，而是化解过往伤害
+
+## 正文 { data-search-exclude }
+
 
 ![news-details](/WebView/GetMedia.ashx?PK=000000000067b7faabba3ec37678004fa59e6ef2b42225b3&VideoSize=3)
 

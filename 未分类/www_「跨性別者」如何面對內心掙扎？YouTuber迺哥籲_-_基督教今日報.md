@@ -1,6 +1,9 @@
-## 東海靈糧堂6月青年特會》
+# 東海靈糧堂6月青年特會》
 
-## 「跨性別者」如何面對內心掙扎？YouTuber迺哥籲：知曉真理就能得自由
+## 正文 { data-search-exclude }
+
+
+## 「跨性別者」如何面對內心掙扎？YouTuber迺哥籲：知曉真理就能得自由 { data-search-exclude }
 
 ![news-details](/WebView/GetMedia.ashx?PK=00000000315b132f3b919f9ea8c0d8438222780d8d1fcac9&VideoSize=3)
 

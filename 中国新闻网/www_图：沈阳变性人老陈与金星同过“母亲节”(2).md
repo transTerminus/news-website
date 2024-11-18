@@ -1,4 +1,7 @@
-![沈阳变性人老陈与金星同过“母亲节”(2)](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
+# ![沈阳变性人老陈与金星同过“母亲节”(2)](http://www.chinanews.com.cn/fileftp/2004-09-13/_1095043413_zxlogo.gif)
+
+## 正文 { data-search-exclude }
+
 
 **时间:** 2007年05月13日 20:42  
 **来源:** 中国新闻网

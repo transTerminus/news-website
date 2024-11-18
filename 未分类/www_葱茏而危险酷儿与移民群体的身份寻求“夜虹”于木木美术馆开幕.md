@@ -1,4 +1,7 @@
-### 葱茏而危险 酷儿与移民群体的身份寻求“夜虹”于木木美术馆开幕
+# 葱茏而危险 酷儿与移民群体的身份寻求“夜虹”于木木美术馆开幕
+
+## 正文 { data-search-exclude }
+
 
 ![展览海报](https://www.shencaitang.com/static/common/no-js.jpg)
 

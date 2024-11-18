@@ -1,4 +1,7 @@
-未完成变性手术被拒改身份证性别 香港终审法院裁定政府违法 - 维基新闻，自由的新闻源
+# 未完成变性手术被拒改身份证性别 香港终审法院裁定政府违法 - 维基新闻，自由的新闻源
+
+## 正文 { data-search-exclude }
+
 ========================================================================================
 
 **【2023年2月8日讯】**
@@ -73,7 +76,7 @@
 - [美军解除跨性别者从军禁令](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%BB%8D%E8%A7%A3%E9%99%A4%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%BE%9E%E8%BB%8D%E7%A6%81%E4%BB%A4)
 - [教宗方济各批评令同性恋有罪的法律不公义 强调神爱世人而同性相爱非罪行](https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E6%96%B9%E6%BF%9F%E5%90%84%E6%89%B9%E8%A9%95%E4%BB%A4%E5%90%8C%E6%80%A7%E6%88%80%E6%9C%89%E7%BD%AA%E7%9A%84%E6%B3%95%E5%BE%8B%E4%B8%8D%E5%85%AC%E7%BE%A9_%E5%BC%B7%E8%AA%BF%E7%A5%9E%E6%84%9B%E4%B8%96%E4%BA%BA%E8%80%8C%E5%90%8C%E6%80%A7%E7%9B%B8%E6%84%9B%E9%9D%9E%E7%BD%AA%E8%A1%8C)
 
-## 消息来源
+## 消息来源 { data-search-exclude }
 
 - 详情﹕ [判案书](https://legalref.judiciary.hk/lrs/common/ju/ju_frame.jsp?DIS=150361) [新闻摘要](https://legalref.judiciary.hk/doc/judg/html/vetted/other/en/2022/FACV000008A_2022_files/FACV000008A_2022CS.htm)
 - [跨性别者改身分证性别遭拒　终院裁定政府败诉　上诉人叹惨胜：迟来公义](https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/89046/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E6%9B%B4%E6%94%B9%E8%BA%AB%E5%88%86%E8%AD%89%E6%80%A7%E5%88%A5%E8%A2%AB%E6%8B%92-%E7%B5%82%E9%99%A2%E8%A3%81%E5%AE%9A%E6%94%BF%E5%BA%9C%E6%95%97/)，[有线新闻](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E)，2023年2月8日。

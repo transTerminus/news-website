@@ -1,4 +1,7 @@
-## 游客该长啥样？香港拒绝让两名泰国变性人入境的理由是：她们不像到香港旅游和购物。
+# 游客该长啥样？香港拒绝让两名泰国变性人入境的理由是：她们不像到香港旅游和购物。
+
+## 正文 { data-search-exclude }
+
 
 **来源**: [精彩大马 Cincai News](https://www.facebook.com/cincainewsdotcom)
 

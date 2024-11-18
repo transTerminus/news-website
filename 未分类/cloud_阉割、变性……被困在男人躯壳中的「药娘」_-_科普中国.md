@@ -1,6 +1,9 @@
-![科普中国资源服务](https://cloud.kepuchina.cn/vendors/images/logo.jpg)
+# ![科普中国资源服务](https://cloud.kepuchina.cn/vendors/images/logo.jpg)
 
-## 阉割、变性……被困在男人躯壳中的「药娘」
+## 正文 { data-search-exclude }
+
+
+## 阉割、变性……被困在男人躯壳中的「药娘」 { data-search-exclude }
 
 ![有来医生](https://pqnoss.kepuchina.cn/2019/11/15/09/image/67907b.jpg)
 上传时间：2021-09-03  

@@ -1,4 +1,7 @@
-科学网—科学家质疑世界田联禁止跨性别女性参赛
+# 科学网—科学家质疑世界田联禁止跨性别女性参赛
+
+## 正文 { data-search-exclude }
+
 =====================
 
 ![科学网新闻频道](https://news.sciencenet.cn/images/news.jpg)
