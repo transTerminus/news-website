@@ -1,8 +1,8 @@
 site_name: '跨性别新闻档案'
-repo_url: https://github.com/transTerminus/news-website
+repo_url: https://github.com/project-polymorph/news-website
 site_url: https://news.transchinese.org/
 edit_uri: /edit/main/
-site_description: '本存档库包含各类保存的跨性别、多元性别、酷儿与双性人等的新闻网页存档'
+site_description: '本存档库包含各类中文跨性别、多元性别、酷儿与双性人等的新闻网页存档'
 site_author: 多元性别中文数字图书馆
 copyright: '多元性别中文数字图书馆 2024'
 theme:
@@ -12,14 +12,18 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - content.action.edit
+   # - content.action.edit
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.expand
     - navigation.path
     - navigation.top
+    - navigation.prune 
+    - navigation.indexes 
+    - navigation.tracking
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -61,7 +65,12 @@ extra:
   social:
   - icon: /fontawesome/regular/envelope
     name: send me an email
-    link: mailto:yunwei37@gmail.com
+    link: mailto:admin@transchinese.org
+  - icon: fontawesome/brands/x-twitter
+    link: https://x.com/transchineseorg
+  extra:
+    homepage: https://transchinese.org
+
 hooks:
   - hooks/socialmedia.py
 markdown_extensions:
